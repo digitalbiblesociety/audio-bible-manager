@@ -1,0 +1,49 @@
+{
+    "name": "digitalbiblesociety/audio-bible-manager",
+    "description": "A format converter for different audio bible devices",
+    "keywords": ["audio", "bible", "formatter", "megavoice"],
+    "homepage": "https://dbs.org/projects/audio-bible-manager",
+    "type": "project",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/digitalbiblesociety/audio-bible-manager/issues",
+        "source": "https://github.com/digitalbiblesociety/audio-bible-manager"
+    },
+    "authors": [
+        {
+            "name": "Jon Bitgood",
+            "email": "jon@dbs.org"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel-zero/framework": "^9.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.4.4",
+        "pestphp/pest": "^1.21.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "bin": ["audio-bible-manager"]
+}
