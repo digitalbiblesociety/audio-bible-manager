@@ -14,7 +14,7 @@ class ProcessCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant}';
+    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant} {--source_style=dbl}';
 
     /**
      * The description of the command.
@@ -52,21 +52,15 @@ class ProcessCommand extends Command
     private function structure_books_for_pearl_player()
     {        
         $bible_id = $this->argument('bible_id');
-        $book_index = $this->books($this->option('sort_type'));
+        
         $chapters = Storage::disk('local')->files("bibles/source/$bible_id");
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
             }
-            $chapter = basename($chapter_path);
-            $book_parts = explode('_', basename($chapter_path,'.mp3'));
-            
-            $book_id = $book_parts[0];
-            $chapter_number = $book_parts[1];
-            $book_testament = ($book_index[$book_id]['book_testament'] == 'OT') ? '01 Old Testament' : '02 New Testament';
-            $book_number = Str::padLeft($book_index[$book_id]['order_'.$this->option('sort_type')],2,'0');
-            $book_name = str_replace(' ','',$book_index[$book_id]['name']);
-            $output_path = 'bibles/output/'.$bible_id.'/'.Str::slug($book_testament).'/'.$book_number.'_'.$book_name.'/'.$book_number.'_'.$book_name.'_'.$chapter_number.'.mp3';
+
+            $current_book = $this->parse_values_from_path($chapter_path, $this->option('source_style'));
+            $output_path = 'bibles/output/'.$bible_id.'/'.Str::slug($current_book['testament']).'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
             
             Storage::disk('local')->move(
                 $chapter_path,
@@ -86,9 +80,36 @@ class ProcessCommand extends Command
 
     private function structure_books_for_humans()
     {
-        
+
     }
 
+    private function parse_values_from_path($chapter_path, $source_style = 'dbl')
+    {
+        $book_index = $this->books($this->option('sort_type'));
+        $book_parts = explode('_', basename($chapter_path,'.mp3'));
+        switch($source_style) {
+            case "dbl":
+                $current_book = $book_index[$book_parts[0]];
+                $chapter_number = $book_parts[1];
+            break;
+            case "dbs":
+                $chapter_number = $book_parts[2];
+                foreach($book_index as $book) {
+                    if($book['name'] == $book_parts[1]) {
+                        $current_book = $book;
+                    }
+                }
+            break;
+        }
+        return [
+            'book_number'    => Str::padLeft($current_book['order_'.$this->option('sort_type')], 2, '0'),
+            'id'             => $current_book['id'],
+            'chapter_number' => $chapter_number,
+            'testament'      => $current_book['book_testament'],
+            'book_name'      => str_replace(' ', '', $current_book['name'])
+        ];
+
+    }
 
     private function books($sort_type = 'protestant')
     {
@@ -96,6 +117,7 @@ class ProcessCommand extends Command
             "GEN" => [
                 "id_usfx" => "GN",
                 "id_osis" => "Gen",
+                "id" => "GEN",
                 "book_testament" => "OT",
                 "book_group" => "The Law",
                 "chapters" => 50,
@@ -117,6 +139,7 @@ class ProcessCommand extends Command
             "EXO" => [
                 "id_usfx" => "EX",
                 "id_osis" => "Exod",
+                "id" => "EXO",
                 "book_testament" => "OT",
                 "book_group" => "The Law",
                 "chapters" => 40,
@@ -138,6 +161,7 @@ class ProcessCommand extends Command
             "LEV" => [
                 "id_usfx" => "LV",
                 "id_osis" => "Lev",
+                "id" => "LEV",
                 "book_testament" => "OT",
                 "book_group" => "The Law",
                 "chapters" => 27,
@@ -159,6 +183,7 @@ class ProcessCommand extends Command
             "NUM" => [
                 "id_usfx" => "NU",
                 "id_osis" => "Num",
+                "id" => "NUM",
                 "book_testament" => "OT",
                 "book_group" => "The Law",
                 "chapters" => 36,
@@ -180,6 +205,7 @@ class ProcessCommand extends Command
             "DEU" => [
                 "id_usfx" => "DT",
                 "id_osis" => "Deut",
+                "id" => "DEU",
                 "book_testament" => "OT",
                 "book_group" => "The Law",
                 "chapters" => 34,
@@ -201,6 +227,7 @@ class ProcessCommand extends Command
             "JOS" => [
                 "id_usfx" => "JS",
                 "id_osis" => "Josh",
+                "id" => "JOS",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 24,
@@ -222,6 +249,7 @@ class ProcessCommand extends Command
             "JDG" => [
                 "id_usfx" => "JG",
                 "id_osis" => "Judg",
+                "id" => "JDG",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 21,
@@ -243,6 +271,7 @@ class ProcessCommand extends Command
             "RUT" => [
                 "id_usfx" => "RT",
                 "id_osis" => "Ruth",
+                "id" => "RUT",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 4,
@@ -264,10 +293,11 @@ class ProcessCommand extends Command
             "1SA" => [
                 "id_usfx" => "S1",
                 "id_osis" => "1Sam",
+                "id" => "1SA",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 31,
-                "name" => "1 Samuel",
+                "name" => "1Samuel",
                 "order_testament" => 9,
                 "order_protestant" => 9,
                 "order_luther" => 10,
@@ -285,10 +315,11 @@ class ProcessCommand extends Command
             "2SA" => [
                 "id_usfx" => "S2",
                 "id_osis" => "2Sam",
+                "id" => "2SA",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 24,
-                "name" => "2 Samuel",
+                "name" => "2Samuel",
                 "order_testament" => 10,
                 "order_protestant" => 10,
                 "order_luther" => 11,
@@ -306,10 +337,11 @@ class ProcessCommand extends Command
             "1KI" => [
                 "id_usfx" => "K1",
                 "id_osis" => "1Kgs",
+                "id" => "1KI",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 22,
-                "name" => "1 Kings",
+                "name" => "1Kings",
                 "order_testament" => 11,
                 "order_protestant" => 11,
                 "order_luther" => 12,
@@ -327,10 +359,11 @@ class ProcessCommand extends Command
             "2KI" => [
                 "id_usfx" => "K2",
                 "id_osis" => "2Kgs",
+                "id" => "2KI",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 25,
-                "name" => "2 Kings",
+                "name" => "2Kings",
                 "order_testament" => 12,
                 "order_protestant" => 12,
                 "order_luther" => 13,
@@ -348,10 +381,11 @@ class ProcessCommand extends Command
             "1CH" => [
                 "id_usfx" => "R1",
                 "id_osis" => "1Chr",
+                "id" => "1CH",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 29,
-                "name" => "1 Chronicles",
+                "name" => "1Chronicles",
                 "order_testament" => 13,
                 "order_protestant" => 13,
                 "order_luther" => 14,
@@ -369,10 +403,11 @@ class ProcessCommand extends Command
             "2CH" => [
                 "id_usfx" => "R2",
                 "id_osis" => "2Chr",
+                "id" => "2CH",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 36,
-                "name" => "2 Chronicles",
+                "name" => "2Chronicles",
                 "order_testament" => 14,
                 "order_protestant" => 14,
                 "order_luther" => 15,
@@ -390,6 +425,7 @@ class ProcessCommand extends Command
             "EZR" => [
                 "id_usfx" => "ER",
                 "id_osis" => "Ezra",
+                "id" => "EZR",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 10,
@@ -411,6 +447,7 @@ class ProcessCommand extends Command
             "NEH" => [
                 "id_usfx" => "NH",
                 "id_osis" => "Neh",
+                "id" => "NEH",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 13,
@@ -432,6 +469,7 @@ class ProcessCommand extends Command
             "EST" => [
                 "id_usfx" => "ET",
                 "id_osis" => "Esth",
+                "id" => "EST",
                 "book_testament" => "OT",
                 "book_group" => "Historical Books",
                 "chapters" => 10,
@@ -453,6 +491,7 @@ class ProcessCommand extends Command
             "JOB" => [
                 "id_usfx" => "JB",
                 "id_osis" => "Job",
+                "id" => "JOB",
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 42,
@@ -474,6 +513,7 @@ class ProcessCommand extends Command
             "PSA" => [
                 "id_usfx" => "PS",
                 "id_osis" => "Ps",
+                "id" => "PSA",
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 150,
@@ -495,6 +535,7 @@ class ProcessCommand extends Command
             "PRO" => [
                 "id_usfx" => "PR",
                 "id_osis" => "Prov",
+                "id" => "PRO",
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 31,
@@ -516,6 +557,7 @@ class ProcessCommand extends Command
             "ECC" => [
                 "id_usfx" => "EC",
                 "id_osis" => "Eccl",
+                "id" => "ECC",
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 12,
@@ -537,6 +579,7 @@ class ProcessCommand extends Command
             "SNG" => [
                 "id_usfx" => "SS",
                 "id_osis" => "Song",
+                "id" => "SNG",
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 8,
@@ -558,6 +601,7 @@ class ProcessCommand extends Command
             "ISA" => [
                 "id_usfx" => "IS",
                 "id_osis" => "Isa",
+                "id" => "ISA",
                 "book_testament" => "OT",
                 "book_group" => "Major Prophets",
                 "chapters" => 66,
@@ -579,6 +623,7 @@ class ProcessCommand extends Command
             "JER" => [
                 "id_usfx" => "JR",
                 "id_osis" => "Jer",
+                "id" => "JER",
                 "book_testament" => "OT",
                 "book_group" => "Major Prophets",
                 "chapters" => 52,
@@ -600,6 +645,7 @@ class ProcessCommand extends Command
             "LAM" => [
                 "id_usfx" => "LM",
                 "id_osis" => "Lam",
+                "id" => "LAM",
                 "book_testament" => "OT",
                 "book_group" => "Major Prophets",
                 "chapters" => 5,
@@ -621,6 +667,7 @@ class ProcessCommand extends Command
             "EZK" => [
                 "id_usfx" => "EK",
                 "id_osis" => "Ezek",
+                "id" => "EZK",
                 "book_testament" => "OT",
                 "book_group" => "Major Prophets",
                 "chapters" => 48,
@@ -642,6 +689,7 @@ class ProcessCommand extends Command
             "DAN" => [
                 "id_usfx" => "DN",
                 "id_osis" => "Dan",
+                "id" => "DAN",
                 "book_testament" => "OT",
                 "book_group" => "Major Prophets",
                 "chapters" => 12,
@@ -663,6 +711,7 @@ class ProcessCommand extends Command
             "HOS" => [
                 "id_usfx" => "HS",
                 "id_osis" => "Hos",
+                "id" => "HOS",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 14,
@@ -684,6 +733,7 @@ class ProcessCommand extends Command
             "JOL" => [
                 "id_usfx" => "JL",
                 "id_osis" => "Joel",
+                "id" => "JOL",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 3,
@@ -705,6 +755,7 @@ class ProcessCommand extends Command
             "AMO" => [
                 "id_usfx" => "AM",
                 "id_osis" => "Amos",
+                "id" => "AMO",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 9,
@@ -726,6 +777,7 @@ class ProcessCommand extends Command
             "OBA" => [
                 "id_usfx" => "OB",
                 "id_osis" => "Obad",
+                "id" => "OBA",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 1,
@@ -747,6 +799,7 @@ class ProcessCommand extends Command
             "JON" => [
                 "id_usfx" => "JH",
                 "id_osis" => "Jonah",
+                "id" => "JON",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 4,
@@ -768,6 +821,7 @@ class ProcessCommand extends Command
             "MIC" => [
                 "id_usfx" => "MC",
                 "id_osis" => "Mic",
+                "id" => "MIC",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 7,
@@ -789,6 +843,7 @@ class ProcessCommand extends Command
             "NAM" => [
                 "id_usfx" => "NM",
                 "id_osis" => "Nah",
+                "id" => "NAM",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 3,
@@ -810,6 +865,7 @@ class ProcessCommand extends Command
             "HAB" => [
                 "id_usfx" => "HK",
                 "id_osis" => "Hab",
+                "id" => "HAB",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 3,
@@ -831,6 +887,7 @@ class ProcessCommand extends Command
             "ZEP" => [
                 "id_usfx" => "ZP",
                 "id_osis" => "Zeph",
+                "id" => "ZEP",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 3,
@@ -852,6 +909,7 @@ class ProcessCommand extends Command
             "HAG" => [
                 "id_usfx" => "HG",
                 "id_osis" => "Hag",
+                "id" => "HAG",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 2,
@@ -873,6 +931,7 @@ class ProcessCommand extends Command
             "ZEC" => [
                 "id_usfx" => "ZC",
                 "id_osis" => "Zech",
+                "id" => "ZEC",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 14,
@@ -894,6 +953,7 @@ class ProcessCommand extends Command
             "MAL" => [
                 "id_usfx" => "ML",
                 "id_osis" => "Mal",
+                "id" => "MAL",
                 "book_testament" => "OT",
                 "book_group" => "Minor Prophets",
                 "chapters" => 4,
@@ -915,6 +975,7 @@ class ProcessCommand extends Command
             "MAT" => [
                 "id_usfx" => "MT",
                 "id_osis" => "Matt",
+                "id" => "MAT",
                 "book_testament" => "NT",
                 "book_group" => "Gospels",
                 "chapters" => 28,
@@ -936,6 +997,7 @@ class ProcessCommand extends Command
             "MRK" => [
                 "id_usfx" => "MK",
                 "id_osis" => "Mark",
+                "id" => "MRK",
                 "book_testament" => "NT",
                 "book_group" => "Gospels",
                 "chapters" => 16,
@@ -957,6 +1019,7 @@ class ProcessCommand extends Command
             "LUK" => [
                 "id_usfx" => "LK",
                 "id_osis" => "Luke",
+                "id" => "LUK",
                 "book_testament" => "NT",
                 "book_group" => "Gospels",
                 "chapters" => 24,
@@ -978,6 +1041,7 @@ class ProcessCommand extends Command
             "ADE" => [
                 "id_usfx" => "AE",
                 "id_osis" => "AddEsth",
+                "id" => "ADE",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 16,
@@ -999,6 +1063,7 @@ class ProcessCommand extends Command
             "JHN" => [
                 "id_usfx" => "JN",
                 "id_osis" => "John",
+                "id" => "JHN",
                 "book_testament" => "NT",
                 "book_group" => "Gospels",
                 "chapters" => 21,
@@ -1020,6 +1085,7 @@ class ProcessCommand extends Command
             "ACT" => [
                 "id_usfx" => "AC",
                 "id_osis" => "Acts",
+                "id" => "ACT",
                 "book_testament" => "NT",
                 "book_group" => "Apostolic History",
                 "chapters" => 28,
@@ -1041,6 +1107,7 @@ class ProcessCommand extends Command
             "ROM" => [
                 "id_usfx" => "RM",
                 "id_osis" => "Rom",
+                "id" => "ROM",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 16,
@@ -1062,10 +1129,11 @@ class ProcessCommand extends Command
             "1CO" => [
                 "id_usfx" => "C1",
                 "id_osis" => "1Cor",
+                "id" => "1CO",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 16,
-                "name" => "1 Corinthians",
+                "name" => "1Corinthians",
                 "order_testament" => 7,
                 "order_protestant" => 47,
                 "order_luther" => 59,
@@ -1083,10 +1151,11 @@ class ProcessCommand extends Command
             "2CO" => [
                 "id_usfx" => "C2",
                 "id_osis" => "2Cor",
+                "id" => "2CO",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 13,
-                "name" => "2 Corinthians",
+                "name" => "2Corinthians",
                 "order_testament" => 8,
                 "order_protestant" => 48,
                 "order_luther" => 60,
@@ -1104,6 +1173,7 @@ class ProcessCommand extends Command
             "GAL" => [
                 "id_usfx" => "GL",
                 "id_osis" => "Gal",
+                "id" => "GAL",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 6,
@@ -1125,6 +1195,7 @@ class ProcessCommand extends Command
             "EPH" => [
                 "id_usfx" => "EP",
                 "id_osis" => "Eph",
+                "id" => "EPH",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 6,
@@ -1146,6 +1217,7 @@ class ProcessCommand extends Command
             "PHP" => [
                 "id_usfx" => "PP",
                 "id_osis" => "Phil",
+                "id" => "PHP",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 4,
@@ -1167,6 +1239,7 @@ class ProcessCommand extends Command
             "COL" => [
                 "id_usfx" => "CL",
                 "id_osis" => "Col",
+                "id" => "COL",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 4,
@@ -1188,10 +1261,11 @@ class ProcessCommand extends Command
             "1TH" => [
                 "id_usfx" => "H1",
                 "id_osis" => "1Thess",
+                "id" => "1TH",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 5,
-                "name" => "1 Thessalonians",
+                "name" => "1Thessalonians",
                 "order_testament" => 13,
                 "order_protestant" => 53,
                 "order_luther" => 65,
@@ -1209,10 +1283,11 @@ class ProcessCommand extends Command
             "2TH" => [
                 "id_usfx" => "H2",
                 "id_osis" => "2Thess",
+                "id" => "2TH",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 3,
-                "name" => "2 Thessalonians",
+                "name" => "2Thessalonians",
                 "order_testament" => 14,
                 "order_protestant" => 54,
                 "order_luther" => 66,
@@ -1230,10 +1305,11 @@ class ProcessCommand extends Command
             "1TI" => [
                 "id_usfx" => "T1",
                 "id_osis" => "1Tim",
+                "id" => "1TI",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 6,
-                "name" => "1 Timothy",
+                "name" => "1Timothy",
                 "order_testament" => 15,
                 "order_protestant" => 55,
                 "order_luther" => 67,
@@ -1251,10 +1327,11 @@ class ProcessCommand extends Command
             "2TI" => [
                 "id_usfx" => "T2",
                 "id_osis" => "2Tim",
+                "id" => "2TI",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 4,
-                "name" => "2 Timothy",
+                "name" => "2Timothy",
                 "order_testament" => 16,
                 "order_protestant" => 56,
                 "order_luther" => 68,
@@ -1272,6 +1349,7 @@ class ProcessCommand extends Command
             "TIT" => [
                 "id_usfx" => "TT",
                 "id_osis" => "Titus",
+                "id" => "TIT",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 3,
@@ -1293,6 +1371,7 @@ class ProcessCommand extends Command
             "PHM" => [
                 "id_usfx" => "PM",
                 "id_osis" => "Phlm",
+                "id" => "PHM",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 1,
@@ -1314,6 +1393,7 @@ class ProcessCommand extends Command
             "HEB" => [
                 "id_usfx" => "HB",
                 "id_osis" => "Heb",
+                "id" => "HEB",
                 "book_testament" => "NT",
                 "book_group" => "Pauline Epistles",
                 "chapters" => 13,
@@ -1335,6 +1415,7 @@ class ProcessCommand extends Command
             "JAS" => [
                 "id_usfx" => "JM",
                 "id_osis" => "Jas",
+                "id" => "JAS",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 5,
@@ -1356,10 +1437,11 @@ class ProcessCommand extends Command
             "1PE" => [
                 "id_usfx" => "P1",
                 "id_osis" => "1Pet",
+                "id" => "1PE",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 5,
-                "name" => "1 Peter",
+                "name" => "1Peter",
                 "order_testament" => 21,
                 "order_protestant" => 61,
                 "order_luther" => 73,
@@ -1377,10 +1459,11 @@ class ProcessCommand extends Command
             "2PE" => [
                 "id_usfx" => "P2",
                 "id_osis" => "2Pet",
+                "id" => "2PE",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 3,
-                "name" => "2 Peter",
+                "name" => "2Peter",
                 "order_testament" => 22,
                 "order_protestant" => 62,
                 "order_luther" => 74,
@@ -1398,10 +1481,11 @@ class ProcessCommand extends Command
             "1JN" => [
                 "id_usfx" => "J1",
                 "id_osis" => "1John",
+                "id" => "1JN",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 5,
-                "name" => "1 John",
+                "name" => "1John",
                 "order_testament" => 23,
                 "order_protestant" => 63,
                 "order_luther" => 75,
@@ -1419,10 +1503,11 @@ class ProcessCommand extends Command
             "2JN" => [
                 "id_usfx" => "J2",
                 "id_osis" => "2John",
+                "id" => "2JN",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 1,
-                "name" => "2 John",
+                "name" => "2John",
                 "order_testament" => 24,
                 "order_protestant" => 64,
                 "order_luther" => 76,
@@ -1440,10 +1525,11 @@ class ProcessCommand extends Command
             "3JN" => [
                 "id_usfx" => "J3",
                 "id_osis" => "3John",
+                "id" => "3JN",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 1,
-                "name" => "3 John",
+                "name" => "3John",
                 "order_testament" => 25,
                 "order_protestant" => 65,
                 "order_luther" => 77,
@@ -1461,6 +1547,7 @@ class ProcessCommand extends Command
             "JUD" => [
                 "id_usfx" => "JD",
                 "id_osis" => "Jude",
+                "id" => "JUD",
                 "book_testament" => "NT",
                 "book_group" => "General Epistles",
                 "chapters" => 1,
@@ -1482,6 +1569,7 @@ class ProcessCommand extends Command
             "REV" => [
                 "id_usfx" => "RV",
                 "id_osis" => "Rev",
+                "id" => "REV",
                 "book_testament" => "NT",
                 "book_group" => "Apocalypse",
                 "chapters" => 22,
@@ -1503,6 +1591,7 @@ class ProcessCommand extends Command
             "TOB" => [
                 "id_usfx" => "TB",
                 "id_osis" => "Tob",
+                "id" => "TOB",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 14,
@@ -1524,6 +1613,7 @@ class ProcessCommand extends Command
             "JDT" => [
                 "id_usfx" => "JT",
                 "id_osis" => "Jdt",
+                "id" => "JDT",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 16,
@@ -1545,6 +1635,7 @@ class ProcessCommand extends Command
             "ESG" => [
                 "id_usfx" => "EG",
                 "id_osis" => "EsthGr",
+                "id" => "ESG",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 11,
@@ -1566,6 +1657,7 @@ class ProcessCommand extends Command
             "WIS" => [
                 "id_usfx" => "WS",
                 "id_osis" => "wis",
+                "id" => "WIS",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 19,
@@ -1587,6 +1679,7 @@ class ProcessCommand extends Command
             "SIR" => [
                 "id_usfx" => "SR",
                 "id_osis" => "Sir",
+                "id" => "SIR",
                 "book_testament" => "AP",
                 "book_group" => "Wisdom Books",
                 "chapters" => 51,
@@ -1608,6 +1701,7 @@ class ProcessCommand extends Command
             "BAR" => [
                 "id_usfx" => "BR",
                 "id_osis" => "Bar",
+                "id" => "BAR",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 6,
@@ -1629,6 +1723,7 @@ class ProcessCommand extends Command
             "LJE" => [
                 "id_usfx" => "JE",
                 "id_osis" => "EpJer",
+                "id" => "LJE",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 1,
@@ -1650,6 +1745,7 @@ class ProcessCommand extends Command
             "S3Y" => [
                 "id_usfx" => "PA",
                 "id_osis" => "PrAzar",
+                "id" => "S3Y",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 1,
@@ -1671,6 +1767,7 @@ class ProcessCommand extends Command
             "SUS" => [
                 "id_usfx" => "SN",
                 "id_osis" => "Sus",
+                "id" => "SUS",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 1,
@@ -1692,6 +1789,7 @@ class ProcessCommand extends Command
             "BEL" => [
                 "id_usfx" => "BL",
                 "id_osis" => "Bel",
+                "id" => "BEL",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 1,
@@ -1713,10 +1811,11 @@ class ProcessCommand extends Command
             "1MA" => [
                 "id_usfx" => "M1",
                 "id_osis" => "1Macc",
+                "id" => "1MA",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 16,
-                "name" => "1 Maccabees",
+                "name" => "1Maccabees",
                 "order_testament" => 38,
                 "order_protestant" => 78,
                 "order_luther" => 46,
@@ -1734,10 +1833,11 @@ class ProcessCommand extends Command
             "2MA" => [
                 "id_usfx" => "M2",
                 "id_osis" => "2Macc",
+                "id" => "2MA",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 15,
-                "name" => "2 Maccabees",
+                "name" => "2Maccabees",
                 "order_testament" => 39,
                 "order_protestant" => 79,
                 "order_luther" => 47,
@@ -1755,6 +1855,7 @@ class ProcessCommand extends Command
             "3MA" => [
                 "id_usfx" => "M3",
                 "id_osis" => "3Macc",
+                "id" => "3MA",
                 "book_testament" => "AP",
                 "book_group" => "Historical Books",
                 "chapters" => 7,
@@ -1776,6 +1877,7 @@ class ProcessCommand extends Command
             "4MA" => [
                 "id_usfx" => "M4",
                 "id_osis" => "4Macc",
+                "id" => "4MA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 18,
@@ -1797,6 +1899,7 @@ class ProcessCommand extends Command
             "1ES" => [
                 "id_usfx" => "E1",
                 "id_osis" => "1Esd",
+                "id" => "1ES",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 9,
@@ -1818,6 +1921,7 @@ class ProcessCommand extends Command
             "2ES" => [
                 "id_usfx" => "E2",
                 "id_osis" => "2Esd",
+                "id" => "2ES",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 16,
@@ -1839,6 +1943,7 @@ class ProcessCommand extends Command
             "MAN" => [
                 "id_usfx" => "PN",
                 "id_osis" => "PrMan",
+                "id" => "MAN",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -1860,6 +1965,7 @@ class ProcessCommand extends Command
             "PS2" => [
                 "id_usfx" => "PX",
                 "id_osis" => "AddPs",
+                "id" => "PS2",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -1881,6 +1987,7 @@ class ProcessCommand extends Command
             "ODA" => [
                 "id_usfx" => "OD",
                 "id_osis" => "Odes",
+                "id" => "ODA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -1902,6 +2009,7 @@ class ProcessCommand extends Command
             "PSS" => [
                 "id_usfx" => "SP",
                 "id_osis" => "PssSol",
+                "id" => "PSS",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -1923,6 +2031,7 @@ class ProcessCommand extends Command
             "EZA" => [
                 "id_usfx" => "EA",
                 "id_osis" => "4Ezra",
+                "id" => "EZA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -1944,6 +2053,7 @@ class ProcessCommand extends Command
             "5EZ" => [
                 "id_usfx" => "E5",
                 "id_osis" => "5Ezra",
+                "id" => "5EZ",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 2,
@@ -1965,6 +2075,7 @@ class ProcessCommand extends Command
             "6EZ" => [
                 "id_usfx" => "E6",
                 "id_osis" => "6Ezra",
+                "id" => "6EZ",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 2,
@@ -1986,6 +2097,7 @@ class ProcessCommand extends Command
             "DAG" => [
                 "id_usfx" => "DG",
                 "id_osis" => "DanGr",
+                "id" => "DAG",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 14,
@@ -2007,6 +2119,7 @@ class ProcessCommand extends Command
             "PS3" => [
                 "id_usfx" => "P3",
                 "id_osis" => "5ApocSyrPss",
+                "id" => "PS3",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 3,
@@ -2028,6 +2141,7 @@ class ProcessCommand extends Command
             "2BA" => [
                 "id_usfx" => "2B",
                 "id_osis" => "2Bar",
+                "id" => "2BA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2049,6 +2163,7 @@ class ProcessCommand extends Command
             "LBA" => [
                 "id_usfx" => "LB",
                 "id_osis" => "EpBar",
+                "id" => "LBA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2070,10 +2185,11 @@ class ProcessCommand extends Command
             "JUB" => [
                 "id_usfx" => "JU",
                 "id_osis" => "Jub",
+                "id" => "JUB",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
-                "name" => "2 Baruch",
+                "name" => "2Baruch",
                 "order_testament" => 55,
                 "order_protestant" => 95,
                 "order_luther" => null,
@@ -2091,6 +2207,7 @@ class ProcessCommand extends Command
             "ENO" => [
                 "id_usfx" => "EO",
                 "id_osis" => "1En",
+                "id" => "ENO",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2112,6 +2229,7 @@ class ProcessCommand extends Command
             "1MQ" => [
                 "id_usfx" => "Q1",
                 "id_osis" => "1Meq",
+                "id" => "1MQ",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2133,6 +2251,7 @@ class ProcessCommand extends Command
             "2MQ" => [
                 "id_usfx" => "Q2",
                 "id_osis" => "2Meq",
+                "id" => "2MQ",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2154,6 +2273,7 @@ class ProcessCommand extends Command
             "3MQ" => [
                 "id_usfx" => "Q3",
                 "id_osis" => "3Meq",
+                "id" => "3MQ",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2175,6 +2295,7 @@ class ProcessCommand extends Command
             "REP" => [
                 "id_usfx" => "RP",
                 "id_osis" => "Rep",
+                "id" => "REP",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2196,6 +2317,7 @@ class ProcessCommand extends Command
             "4BA" => [
                 "id_usfx" => "B4",
                 "id_osis" => "4Bar",
+                "id" => "4BA",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
@@ -2217,6 +2339,7 @@ class ProcessCommand extends Command
             "LAO" => [
                 "id_usfx" => "LO",
                 "id_osis" => "EpLao",
+                "id" => "LAO",
                 "book_testament" => "AP",
                 "book_group" => "",
                 "chapters" => 0,
