@@ -517,7 +517,7 @@ class ProcessCommand extends Command
                 "book_testament" => "OT",
                 "book_group" => "Wisdom Books",
                 "chapters" => 150,
-                "name" => "Psalm",
+                "name" => "Psalms",
                 "order_testament" => 19,
                 "order_protestant" => 19,
                 "order_luther" => 20,
