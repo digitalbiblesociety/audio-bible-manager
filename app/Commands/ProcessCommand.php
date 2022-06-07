@@ -18,7 +18,7 @@ class ProcessCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant} {--source_style=dbl}';
+    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant} {--source_style=dbl} {--tagid3=all}';
 
     /**
      * The description of the command.
@@ -66,7 +66,16 @@ class ProcessCommand extends Command
             $current_book = $this->parse_values_from_path($chapter_path, $this->option('source_style'));
             $output_path = 'bibles/output/'.$bible_id.'/'.Str::slug($current_book['testament']).'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
-            $this->tag_mp3($chapter_path, $output_path, $current_book, 'pearl');
+            
+            if($this->option('tagid3') != 'all') {
+                Storage::disk('local')->move(
+                    $chapter_path,
+                    $output_path
+                );
+            } else {
+                $this->tag_mp3($chapter_path, $output_path, $current_book, 'pearl');
+            }
+            
         }
     }
 
