@@ -15,6 +15,9 @@ trait Mp3Id3Editor {
             case "pearl":
                 $this->tag_pearl_player($input_path, $output_path, $ref);
                 break;
+            case "bible-library":
+                $this->tag_bible_library($input_path, $output_path, $ref);
+                break;
             case "megavoice":
                 break;
         }
@@ -32,7 +35,7 @@ trait Mp3Id3Editor {
             Storage::makeDirectory($output_folder);
         }
 
-        exec("ffmpeg -i $input_path -c copy -metadata title=\"$title\" -metadata artist=\"$language\" -metadata album=\"$book\" -metadata genre=\"$genre\" $output_path");
+        exec("ffmpeg -i \"$input_path\" -c copy -metadata title=\"$title\" -metadata artist=\"$language\" -metadata album=\"$book\" -metadata genre=\"$genre\" \"$output_path\"");
     }
 
 }
