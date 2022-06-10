@@ -66,7 +66,6 @@ class ProcessCommand extends Command
             $current_book = $this->parse_values_from_path($chapter_path, $this->option('source_style'));
             $output_path = 'bibles/output/'.$bible_id.'/'.Str::slug($current_book['testament']).'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
-            
             if($this->option('tagid3') != 'all') {
                 Storage::disk('local')->move(
                     $chapter_path,
@@ -108,6 +107,10 @@ class ProcessCommand extends Command
                     if($book['name'] == $book_parts[1]) {
                         $current_book = $book;
                     }
+                }
+                if(!isset($current_book)) {
+                    $this->error("Could not find book");
+                    dd($book_parts);
                 }
             break;
         }

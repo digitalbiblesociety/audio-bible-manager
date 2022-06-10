@@ -4,6 +4,8 @@ namespace App\Traits;
 
 use App\Traits\Languages;
 use Illuminate\Support\Facades\Storage;
+use Symfony\Component\Process\Process;
+use Symfony\Component\Process\Exception\ProcessFailedException;
 
 trait Mp3Id3Editor {
 
@@ -35,7 +37,33 @@ trait Mp3Id3Editor {
             Storage::makeDirectory($output_folder);
         }
 
-        exec("ffmpeg -i \"$input_path\" -c copy -metadata title=\"$title\" -metadata artist=\"$language\" -metadata album=\"$book\" -metadata genre=\"$genre\" \"$output_path\"");
+        $process = new Process([
+            "ffmpeg",
+            '-i',
+            $input_path,
+            '-c',
+            'copy',
+            "-metadata",
+            "title=\"$title\"",
+            "-metadata",
+            "artist=\"$language\"",
+            "-metadata",
+            "album=\"$book\"",
+            "-metadata",
+            "genre=\"$genre\"",
+            $output_path
+        ]);
+        //dd($process->getCommandLine());
+        $process->setTimeout(12000);
+        $process->run();
+
+        if (!$process->isSuccessful()) {
+            throw new ProcessFailedException($process);
+            $this->error("Failed to Process the file $input_path");
+            dd("I'm sorry");
+        }
+
+        // exec("ffmpeg -i \"$input_path\" -c copy -metadata title=\"$title\" -metadata artist=\"$language\" -metadata album=\"$book\" -metadata genre=\"$genre\" \"$output_path\"");
     }
 
 }
