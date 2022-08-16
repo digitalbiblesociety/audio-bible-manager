@@ -101,13 +101,12 @@ class ProcessCommand extends Command
         switch($source_style) {
             case "fcbh":
                 $title = $chapter_name;
-
                 foreach($book_index as $book) {
                         if($book['book_testament'] == (substr($book_parts[0], 0,1) == "A" ? "OT" : "NT") && $book['order_testament'] == substr($book_parts[0], 1)) {
                             $current_book = $book;
                         }
                 }
-                $chapter_number = $book_parts[1];
+                $chapter_number = str_pad($book_parts[1],3,'0', STR_PAD_LEFT);
 
             break;
             case "dbl":
