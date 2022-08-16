@@ -97,6 +97,16 @@ class ProcessCommand extends Command
         $book_index = $this->books($this->option('sort_type'));
         $book_parts = explode('_', basename($chapter_path,'.mp3'));
         switch($source_style) {
+            case "fcbh":
+                $title = basename($chapter_path,'.mp3');
+
+                foreach($book_index as $book) {
+                        if($book['book_testament'] == (substr($book_parts[0], 0,1) == "A" ? "OT" : "NT") && $book['order_testament'] == substr($book_parts[0], 1)) {
+                            $current_book = $book;
+                        }
+                }
+                $chapter_number = $book_parts[1];
+            break;
             case "dbl":
                 $current_book = $book_index[$book_parts[0]];
                 $chapter_number = $book_parts[1];
