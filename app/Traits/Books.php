@@ -8,6 +8,7 @@ Trait Books {
     {
         $books = collect([
             "GEN" => [
+                "id_fcbh" => "A01",
                 "id_usfx" => "GN",
                 "id_osis" => "Gen",
                 "id" => "GEN",
@@ -30,6 +31,7 @@ Trait Books {
                 "order_messianic" => 2
             ],
             "EXO" => [
+                "id_fcbh" => "A02",
                 "id_usfx" => "EX",
                 "id_osis" => "Exod",
                 "id" => "EXO",
@@ -52,6 +54,7 @@ Trait Books {
                 "order_messianic" => 3
             ],
             "LEV" => [
+                "id_fcbh" => "A03",
                 "id_usfx" => "LV",
                 "id_osis" => "Lev",
                 "id" => "LEV",
@@ -74,6 +77,7 @@ Trait Books {
                 "order_messianic" => 4
             ],
             "NUM" => [
+                "id_fcbh" => "A04",
                 "id_usfx" => "NU",
                 "id_osis" => "Num",
                 "id" => "NUM",
@@ -96,6 +100,7 @@ Trait Books {
                 "order_messianic" => 5
             ],
             "DEU" => [
+                "id_fcbh" => "A05",
                 "id_usfx" => "DT",
                 "id_osis" => "Deut",
                 "id" => "DEU",
@@ -118,6 +123,7 @@ Trait Books {
                 "order_messianic" => 6
             ],
             "JOS" => [
+                "id_fcbh" => "A06",
                 "id_usfx" => "JS",
                 "id_osis" => "Josh",
                 "id" => "JOS",
@@ -140,6 +146,7 @@ Trait Books {
                 "order_messianic" => 7
             ],
             "JDG" => [
+                "id_fcbh" => "A07",
                 "id_usfx" => "JG",
                 "id_osis" => "Judg",
                 "id" => "JDG",
@@ -162,6 +169,7 @@ Trait Books {
                 "order_messianic" => 8
             ],
             "RUT" => [
+                "id_fcbh" => "A08",
                 "id_usfx" => "RT",
                 "id_osis" => "Ruth",
                 "id" => "RUT",
@@ -184,6 +192,7 @@ Trait Books {
                 "order_messianic" => 32
             ],
             "1SA" => [
+                "id_fcbh" => "A09",
                 "id_usfx" => "S1",
                 "id_osis" => "1Sam",
                 "id" => "1SA",
@@ -206,6 +215,7 @@ Trait Books {
                 "order_messianic" => 9
             ],
             "2SA" => [
+                "id_fcbh" => "A10",
                 "id_usfx" => "S2",
                 "id_osis" => "2Sam",
                 "id" => "2SA",
@@ -228,6 +238,7 @@ Trait Books {
                 "order_messianic" => 10
             ],
             "1KI" => [
+                "id_fcbh" => "A11",
                 "id_usfx" => "K1",
                 "id_osis" => "1Kgs",
                 "id" => "1KI",
@@ -250,6 +261,7 @@ Trait Books {
                 "order_messianic" => 11
             ],
             "2KI" => [
+                "id_fcbh" => "A12",
                 "id_usfx" => "K2",
                 "id_osis" => "2Kgs",
                 "id" => "2KI",
@@ -272,6 +284,7 @@ Trait Books {
                 "order_messianic" => 12
             ],
             "1CH" => [
+                "id_fcbh" => "A13",
                 "id_usfx" => "R1",
                 "id_osis" => "1Chr",
                 "id" => "1CH",
@@ -294,6 +307,7 @@ Trait Books {
                 "order_messianic" => 39
             ],
             "2CH" => [
+                "id_fcbh" => "A14",
                 "id_usfx" => "R2",
                 "id_osis" => "2Chr",
                 "id" => "2CH",
@@ -316,6 +330,7 @@ Trait Books {
                 "order_messianic" => 40
             ],
             "EZR" => [
+                "id_fcbh" => "A15",
                 "id_usfx" => "ER",
                 "id_osis" => "Ezra",
                 "id" => "EZR",
@@ -338,6 +353,7 @@ Trait Books {
                 "order_messianic" => 37
             ],
             "NEH" => [
+                "id_fcbh" => "A16",
                 "id_usfx" => "NH",
                 "id_osis" => "Neh",
                 "id" => "NEH",
@@ -360,6 +376,7 @@ Trait Books {
                 "order_messianic" => 38
             ],
             "EST" => [
+                "id_fcbh" => "A17",
                 "id_usfx" => "ET",
                 "id_osis" => "Esth",
                 "id" => "EST",
@@ -382,6 +399,7 @@ Trait Books {
                 "order_messianic" => 35
             ],
             "JOB" => [
+                "id_fcbh" => "A18",
                 "id_usfx" => "JB",
                 "id_osis" => "Job",
                 "id" => "JOB",
@@ -404,6 +422,7 @@ Trait Books {
                 "order_messianic" => 30
             ],
             "PSA" => [
+                "id_fcbh" => "A19",
                 "id_usfx" => "PS",
                 "id_osis" => "Ps",
                 "id" => "PSA",
@@ -426,6 +445,7 @@ Trait Books {
                 "order_messianic" => 28
             ],
             "PRO" => [
+                "id_fcbh" => "A20",
                 "id_usfx" => "PR",
                 "id_osis" => "Prov",
                 "id" => "PRO",
@@ -448,6 +468,7 @@ Trait Books {
                 "order_messianic" => 29
             ],
             "ECC" => [
+                "id_fcbh" => "A21",
                 "id_usfx" => "EC",
                 "id_osis" => "Eccl",
                 "id" => "ECC",
@@ -470,6 +491,7 @@ Trait Books {
                 "order_messianic" => 34
             ],
             "SNG" => [
+                "id_fcbh" => "A22",
                 "id_usfx" => "SS",
                 "id_osis" => "Song",
                 "id" => "SNG",
@@ -492,6 +514,7 @@ Trait Books {
                 "order_messianic" => 31
             ],
             "ISA" => [
+                "id_fcbh" => "A23",
                 "id_usfx" => "IS",
                 "id_osis" => "Isa",
                 "id" => "ISA",
@@ -514,6 +537,7 @@ Trait Books {
                 "order_messianic" => 13
             ],
             "JER" => [
+                "id_fcbh" => "A24",
                 "id_usfx" => "JR",
                 "id_osis" => "Jer",
                 "id" => "JER",
@@ -536,6 +560,7 @@ Trait Books {
                 "order_messianic" => 14
             ],
             "LAM" => [
+                "id_fcbh" => "A25",
                 "id_usfx" => "LM",
                 "id_osis" => "Lam",
                 "id" => "LAM",
@@ -558,6 +583,7 @@ Trait Books {
                 "order_messianic" => 33
             ],
             "EZK" => [
+                "id_fcbh" => "A26",
                 "id_usfx" => "EK",
                 "id_osis" => "Ezek",
                 "id" => "EZK",
@@ -580,6 +606,7 @@ Trait Books {
                 "order_messianic" => 15
             ],
             "DAN" => [
+                "id_fcbh" => "A27",
                 "id_usfx" => "DN",
                 "id_osis" => "Dan",
                 "id" => "DAN",
@@ -602,6 +629,7 @@ Trait Books {
                 "order_messianic" => 36
             ],
             "HOS" => [
+                "id_fcbh" => "A28",
                 "id_usfx" => "HS",
                 "id_osis" => "Hos",
                 "id" => "HOS",
@@ -624,6 +652,7 @@ Trait Books {
                 "order_messianic" => 16
             ],
             "JOL" => [
+                "id_fcbh" => "A29",
                 "id_usfx" => "JL",
                 "id_osis" => "Joel",
                 "id" => "JOL",
@@ -646,6 +675,7 @@ Trait Books {
                 "order_messianic" => 17
             ],
             "AMO" => [
+                "id_fcbh" => "A30",
                 "id_usfx" => "AM",
                 "id_osis" => "Amos",
                 "id" => "AMO",
@@ -668,6 +698,7 @@ Trait Books {
                 "order_messianic" => 18
             ],
             "OBA" => [
+                "id_fcbh" => "A31",
                 "id_usfx" => "OB",
                 "id_osis" => "Obad",
                 "id" => "OBA",
@@ -690,6 +721,7 @@ Trait Books {
                 "order_messianic" => 19
             ],
             "JON" => [
+                "id_fcbh" => "A32",
                 "id_usfx" => "JH",
                 "id_osis" => "Jonah",
                 "id" => "JON",
@@ -712,6 +744,7 @@ Trait Books {
                 "order_messianic" => 20
             ],
             "MIC" => [
+                "id_fcbh" => "A33",
                 "id_usfx" => "MC",
                 "id_osis" => "Mic",
                 "id" => "MIC",
@@ -734,6 +767,7 @@ Trait Books {
                 "order_messianic" => 21
             ],
             "NAM" => [
+                "id_fcbh" => "A34",
                 "id_usfx" => "NM",
                 "id_osis" => "Nah",
                 "id" => "NAM",
@@ -756,6 +790,7 @@ Trait Books {
                 "order_messianic" => 22
             ],
             "HAB" => [
+                "id_fcbh" => "A35",
                 "id_usfx" => "HK",
                 "id_osis" => "Hab",
                 "id" => "HAB",
@@ -778,6 +813,7 @@ Trait Books {
                 "order_messianic" => 23
             ],
             "ZEP" => [
+                "id_fcbh" => "A36",
                 "id_usfx" => "ZP",
                 "id_osis" => "Zeph",
                 "id" => "ZEP",
@@ -800,6 +836,7 @@ Trait Books {
                 "order_messianic" => 24
             ],
             "HAG" => [
+                "id_fcbh" => "A37",
                 "id_usfx" => "HG",
                 "id_osis" => "Hag",
                 "id" => "HAG",
@@ -822,6 +859,7 @@ Trait Books {
                 "order_messianic" => 25
             ],
             "ZEC" => [
+                "id_fcbh" => "A38",
                 "id_usfx" => "ZC",
                 "id_osis" => "Zech",
                 "id" => "ZEC",
@@ -844,6 +882,7 @@ Trait Books {
                 "order_messianic" => 26
             ],
             "MAL" => [
+                "id_fcbh" => "A39",
                 "id_usfx" => "ML",
                 "id_osis" => "Mal",
                 "id" => "MAL",
@@ -866,6 +905,7 @@ Trait Books {
                 "order_messianic" => 27
             ],
             "MAT" => [
+                "id_fcbh" => "B01",
                 "id_usfx" => "MT",
                 "id_osis" => "Matt",
                 "id" => "MAT",
@@ -888,6 +928,7 @@ Trait Books {
                 "order_messianic" => 41
             ],
             "MRK" => [
+                "id_fcbh" => "B02",
                 "id_usfx" => "MK",
                 "id_osis" => "Mark",
                 "id" => "MRK",
@@ -910,6 +951,7 @@ Trait Books {
                 "order_messianic" => 42
             ],
             "LUK" => [
+                "id_fcbh" => "B03",
                 "id_usfx" => "LK",
                 "id_osis" => "Luke",
                 "id" => "LUK",
@@ -932,6 +974,7 @@ Trait Books {
                 "order_messianic" => 43
             ],
             "ADE" => [
+                "" => "",
                 "id_usfx" => "AE",
                 "id_osis" => "AddEsth",
                 "id" => "ADE",
@@ -954,6 +997,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "JHN" => [
+                "id_fcbh" => "B04",
                 "id_usfx" => "JN",
                 "id_osis" => "John",
                 "id" => "JHN",
@@ -976,6 +1020,7 @@ Trait Books {
                 "order_messianic" => 44
             ],
             "ACT" => [
+                "id_fcbh" => "B05",
                 "id_usfx" => "AC",
                 "id_osis" => "Acts",
                 "id" => "ACT",
@@ -998,6 +1043,7 @@ Trait Books {
                 "order_messianic" => 45
             ],
             "ROM" => [
+                "id_fcbh" => "B06",
                 "id_usfx" => "RM",
                 "id_osis" => "Rom",
                 "id" => "ROM",
@@ -1020,6 +1066,7 @@ Trait Books {
                 "order_messianic" => 46
             ],
             "1CO" => [
+                "id_fcbh" => "B07",
                 "id_usfx" => "C1",
                 "id_osis" => "1Cor",
                 "id" => "1CO",
@@ -1042,6 +1089,7 @@ Trait Books {
                 "order_messianic" => 47
             ],
             "2CO" => [
+                "id_fcbh" => "B08",
                 "id_usfx" => "C2",
                 "id_osis" => "2Cor",
                 "id" => "2CO",
@@ -1064,6 +1112,7 @@ Trait Books {
                 "order_messianic" => 48
             ],
             "GAL" => [
+                "id_fcbh" => "B09",
                 "id_usfx" => "GL",
                 "id_osis" => "Gal",
                 "id" => "GAL",
@@ -1086,6 +1135,7 @@ Trait Books {
                 "order_messianic" => 49
             ],
             "EPH" => [
+                "id_fcbh" => "B10",
                 "id_usfx" => "EP",
                 "id_osis" => "Eph",
                 "id" => "EPH",
@@ -1108,6 +1158,7 @@ Trait Books {
                 "order_messianic" => 50
             ],
             "PHP" => [
+                "id_fcbh" => "B11",
                 "id_usfx" => "PP",
                 "id_osis" => "Phil",
                 "id" => "PHP",
@@ -1130,6 +1181,7 @@ Trait Books {
                 "order_messianic" => 51
             ],
             "COL" => [
+                "id_fcbh" => "B12",
                 "id_usfx" => "CL",
                 "id_osis" => "Col",
                 "id" => "COL",
@@ -1152,6 +1204,7 @@ Trait Books {
                 "order_messianic" => 52
             ],
             "1TH" => [
+                "id_fcbh" => "B13",
                 "id_usfx" => "H1",
                 "id_osis" => "1Thess",
                 "id" => "1TH",
@@ -1174,6 +1227,7 @@ Trait Books {
                 "order_messianic" => 53
             ],
             "2TH" => [
+                "id_fcbh" => "B14",
                 "id_usfx" => "H2",
                 "id_osis" => "2Thess",
                 "id" => "2TH",
@@ -1196,6 +1250,7 @@ Trait Books {
                 "order_messianic" => 54
             ],
             "1TI" => [
+                "id_fcbh" => "B15",
                 "id_usfx" => "T1",
                 "id_osis" => "1Tim",
                 "id" => "1TI",
@@ -1218,6 +1273,7 @@ Trait Books {
                 "order_messianic" => 55
             ],
             "2TI" => [
+                "id_fcbh" => "B16",
                 "id_usfx" => "T2",
                 "id_osis" => "2Tim",
                 "id" => "2TI",
@@ -1240,6 +1296,7 @@ Trait Books {
                 "order_messianic" => 56
             ],
             "TIT" => [
+                "id_fcbh" => "B17",
                 "id_usfx" => "TT",
                 "id_osis" => "Titus",
                 "id" => "TIT",
@@ -1262,6 +1319,7 @@ Trait Books {
                 "order_messianic" => 57
             ],
             "PHM" => [
+                "id_fcbh" => "B18",
                 "id_usfx" => "PM",
                 "id_osis" => "Phlm",
                 "id" => "PHM",
@@ -1284,6 +1342,7 @@ Trait Books {
                 "order_messianic" => 58
             ],
             "HEB" => [
+                "id_fcbh" => "B19",
                 "id_usfx" => "HB",
                 "id_osis" => "Heb",
                 "id" => "HEB",
@@ -1306,6 +1365,7 @@ Trait Books {
                 "order_messianic" => 59
             ],
             "JAS" => [
+                "id_fcbh" => "B20",
                 "id_usfx" => "JM",
                 "id_osis" => "Jas",
                 "id" => "JAS",
@@ -1328,6 +1388,7 @@ Trait Books {
                 "order_messianic" => 60
             ],
             "1PE" => [
+                "id_fcbh" => "B21",
                 "id_usfx" => "P1",
                 "id_osis" => "1Pet",
                 "id" => "1PE",
@@ -1350,6 +1411,7 @@ Trait Books {
                 "order_messianic" => 61
             ],
             "2PE" => [
+                "id_fcbh" => "B22",
                 "id_usfx" => "P2",
                 "id_osis" => "2Pet",
                 "id" => "2PE",
@@ -1372,6 +1434,7 @@ Trait Books {
                 "order_messianic" => 62
             ],
             "1JN" => [
+                "id_fcbh" => "B23",
                 "id_usfx" => "J1",
                 "id_osis" => "1John",
                 "id" => "1JN",
@@ -1394,6 +1457,7 @@ Trait Books {
                 "order_messianic" => 63
             ],
             "2JN" => [
+                "id_fcbh" => "B24",
                 "id_usfx" => "J2",
                 "id_osis" => "2John",
                 "id" => "2JN",
@@ -1416,6 +1480,7 @@ Trait Books {
                 "order_messianic" => 64
             ],
             "3JN" => [
+                "id_fcbh" => "B25",
                 "id_usfx" => "J3",
                 "id_osis" => "3John",
                 "id" => "3JN",
@@ -1438,6 +1503,7 @@ Trait Books {
                 "order_messianic" => 65
             ],
             "JUD" => [
+                "id_fcbh" => "B26",
                 "id_usfx" => "JD",
                 "id_osis" => "Jude",
                 "id" => "JUD",
@@ -1460,6 +1526,7 @@ Trait Books {
                 "order_messianic" => 66
             ],
             "REV" => [
+                "id_fcbh" => "B27",
                 "id_usfx" => "RV",
                 "id_osis" => "Rev",
                 "id" => "REV",
@@ -1482,6 +1549,7 @@ Trait Books {
                 "order_messianic" => 67
             ],
             "TOB" => [
+                "" => "",
                 "id_usfx" => "TB",
                 "id_osis" => "Tob",
                 "id" => "TOB",
@@ -1504,6 +1572,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "JDT" => [
+                "" => "",
                 "id_usfx" => "JT",
                 "id_osis" => "Jdt",
                 "id" => "JDT",
@@ -1526,6 +1595,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "ESG" => [
+                "" => "",
                 "id_usfx" => "EG",
                 "id_osis" => "EsthGr",
                 "id" => "ESG",
@@ -1548,6 +1618,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "WIS" => [
+                "" => "",
                 "id_usfx" => "WS",
                 "id_osis" => "wis",
                 "id" => "WIS",
@@ -1570,6 +1641,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "SIR" => [
+                "" => "",
                 "id_usfx" => "SR",
                 "id_osis" => "Sir",
                 "id" => "SIR",
@@ -1592,6 +1664,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "BAR" => [
+                "" => "",
                 "id_usfx" => "BR",
                 "id_osis" => "Bar",
                 "id" => "BAR",
@@ -1614,6 +1687,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "LJE" => [
+                "" => "",
                 "id_usfx" => "JE",
                 "id_osis" => "EpJer",
                 "id" => "LJE",
@@ -1636,6 +1710,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "S3Y" => [
+                "" => "",
                 "id_usfx" => "PA",
                 "id_osis" => "PrAzar",
                 "id" => "S3Y",
@@ -1658,6 +1733,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "SUS" => [
+                "" => "",
                 "id_usfx" => "SN",
                 "id_osis" => "Sus",
                 "id" => "SUS",
@@ -1680,6 +1756,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "BEL" => [
+                "" => "",
                 "id_usfx" => "BL",
                 "id_osis" => "Bel",
                 "id" => "BEL",
@@ -1702,6 +1779,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "1MA" => [
+                "" => "",
                 "id_usfx" => "M1",
                 "id_osis" => "1Macc",
                 "id" => "1MA",
@@ -1724,6 +1802,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "2MA" => [
+                "" => "",
                 "id_usfx" => "M2",
                 "id_osis" => "2Macc",
                 "id" => "2MA",
@@ -1746,6 +1825,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "3MA" => [
+                "" => "",
                 "id_usfx" => "M3",
                 "id_osis" => "3Macc",
                 "id" => "3MA",
@@ -1768,6 +1848,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "4MA" => [
+                "" => "",
                 "id_usfx" => "M4",
                 "id_osis" => "4Macc",
                 "id" => "4MA",
@@ -1790,6 +1871,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "1ES" => [
+                "" => "",
                 "id_usfx" => "E1",
                 "id_osis" => "1Esd",
                 "id" => "1ES",
@@ -1812,6 +1894,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "2ES" => [
+                "" => "",
                 "id_usfx" => "E2",
                 "id_osis" => "2Esd",
                 "id" => "2ES",
@@ -1834,6 +1917,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "MAN" => [
+                "" => "",
                 "id_usfx" => "PN",
                 "id_osis" => "PrMan",
                 "id" => "MAN",
@@ -1856,6 +1940,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "PS2" => [
+                "" => "",
                 "id_usfx" => "PX",
                 "id_osis" => "AddPs",
                 "id" => "PS2",
@@ -1878,6 +1963,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "ODA" => [
+                "" => "",
                 "id_usfx" => "OD",
                 "id_osis" => "Odes",
                 "id" => "ODA",
@@ -1900,6 +1986,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "PSS" => [
+                "" => "",
                 "id_usfx" => "SP",
                 "id_osis" => "PssSol",
                 "id" => "PSS",
@@ -1922,6 +2009,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "EZA" => [
+                "" => "",
                 "id_usfx" => "EA",
                 "id_osis" => "4Ezra",
                 "id" => "EZA",
@@ -1944,6 +2032,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "5EZ" => [
+                "" => "",
                 "id_usfx" => "E5",
                 "id_osis" => "5Ezra",
                 "id" => "5EZ",
@@ -1966,6 +2055,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "6EZ" => [
+                "" => "",
                 "id_usfx" => "E6",
                 "id_osis" => "6Ezra",
                 "id" => "6EZ",
@@ -1988,6 +2078,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "DAG" => [
+                "" => "",
                 "id_usfx" => "DG",
                 "id_osis" => "DanGr",
                 "id" => "DAG",
@@ -2010,6 +2101,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "PS3" => [
+                "" => "",
                 "id_usfx" => "P3",
                 "id_osis" => "5ApocSyrPss",
                 "id" => "PS3",
@@ -2032,6 +2124,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "2BA" => [
+                "" => "",
                 "id_usfx" => "2B",
                 "id_osis" => "2Bar",
                 "id" => "2BA",
@@ -2054,6 +2147,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "LBA" => [
+                "" => "",
                 "id_usfx" => "LB",
                 "id_osis" => "EpBar",
                 "id" => "LBA",
@@ -2076,6 +2170,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "JUB" => [
+                "" => "",
                 "id_usfx" => "JU",
                 "id_osis" => "Jub",
                 "id" => "JUB",
@@ -2098,6 +2193,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "ENO" => [
+                "" => "",
                 "id_usfx" => "EO",
                 "id_osis" => "1En",
                 "id" => "ENO",
@@ -2120,6 +2216,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "1MQ" => [
+                "" => "",
                 "id_usfx" => "Q1",
                 "id_osis" => "1Meq",
                 "id" => "1MQ",
@@ -2142,6 +2239,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "2MQ" => [
+                "" => "",
                 "id_usfx" => "Q2",
                 "id_osis" => "2Meq",
                 "id" => "2MQ",
@@ -2164,6 +2262,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "3MQ" => [
+                "" => "",
                 "id_usfx" => "Q3",
                 "id_osis" => "3Meq",
                 "id" => "3MQ",
@@ -2186,6 +2285,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "REP" => [
+                "" => "",
                 "id_usfx" => "RP",
                 "id_osis" => "Rep",
                 "id" => "REP",
@@ -2208,6 +2308,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "4BA" => [
+                "" => "",
                 "id_usfx" => "B4",
                 "id_osis" => "4Bar",
                 "id" => "4BA",
@@ -2230,6 +2331,7 @@ Trait Books {
                 "order_messianic" => null
             ],
             "LAO" => [
+                "" => "",
                 "id_usfx" => "LO",
                 "id_osis" => "EpLao",
                 "id" => "LAO",
