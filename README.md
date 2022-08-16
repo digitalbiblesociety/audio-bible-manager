@@ -9,7 +9,7 @@ The process command moves or copies mp3s from the bibles/source/{BIBLE_ID} folde
 
 > process ENGKJV pearl --sort_type=protestant --source_style=dbl --tagid3=all
 
-- source_style: one of __dbs, dbl__
+- source_style: one of __dbs, dbl, fcbh__
 
 The format that the process command expects the source audio Bible mp3s to be in.
 

@@ -94,11 +94,13 @@ class ProcessCommand extends Command
 
     private function parse_values_from_path($chapter_path, $source_style = 'dbl')
     {
+        $chapter_name = preg_replace('/_+/m', '_', basename($chapter_path,'.mp3'));
+
         $book_index = $this->books($this->option('sort_type'));
-        $book_parts = explode('_', basename($chapter_path,'.mp3'));
+        $book_parts = explode('_', $chapter_name);
         switch($source_style) {
             case "fcbh":
-                $title = basename($chapter_path,'.mp3');
+                $title = $chapter_name;
 
                 foreach($book_index as $book) {
                         if($book['book_testament'] == (substr($book_parts[0], 0,1) == "A" ? "OT" : "NT") && $book['order_testament'] == substr($book_parts[0], 1)) {
@@ -106,6 +108,7 @@ class ProcessCommand extends Command
                         }
                 }
                 $chapter_number = $book_parts[1];
+
             break;
             case "dbl":
                 $current_book = $book_index[$book_parts[0]];
