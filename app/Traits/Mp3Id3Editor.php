@@ -44,13 +44,13 @@ trait Mp3Id3Editor {
             '-c',
             'copy',
             "-metadata",
-            "title=\"$title\"",
+            "title=$title",
             "-metadata",
-            "artist=\"$language\"",
+            "artist=$language",
             "-metadata",
-            "album=\"$book\"",
+            "album=$book",
             "-metadata",
-            "genre=\"$genre\"",
+            "genre=$genre",
             $output_path
         ]);
         //dd($process->getCommandLine());
