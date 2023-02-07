@@ -60,13 +60,14 @@ class ProcessCommand extends Command
         $bible_id = $bible_id[0];
         
         $chapters = Storage::disk('local')->files("bibles/source/$folder_id");
+
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
             }
 
             $current_book = $this->parse_values_from_path($bible_id, $chapter_path, $this->option('source_style'));
-            $output_path = 'bibles/output/'.$folder_id.'/'.strtoupper(Str::slug($current_book['testament'])).'-'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
+            $output_path = 'bibles/output/'.$folder_id.'/'.strtoupper(Str::slug($current_book['testament'])).'_'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
             if($this->option('tagid3') != 'all') {
                 Storage::disk('local')->move(
