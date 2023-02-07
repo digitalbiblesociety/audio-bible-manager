@@ -65,8 +65,8 @@ class ProcessCommand extends Command
                 continue;
             }
 
-            $current_book = $this->parse_values_from_path($chapter_path, $this->option('source_style'));
-            $output_path = 'bibles/output/'.$folder_id.'/'.Str::slug($current_book['testament']).'-'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
+            $current_book = $this->parse_values_from_path($bible_id, $chapter_path, $this->option('source_style'));
+            $output_path = 'bibles/output/'.$folder_id.'/'.Str::slug($current_book['testament'])->upper().'-'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
             if($this->option('tagid3') != 'all') {
                 Storage::disk('local')->move(
@@ -74,7 +74,7 @@ class ProcessCommand extends Command
                     $output_path
                 );
             } else {
-                $this->tag_mp3($chapter_path, $output_path, $current_book, 'pearl');
+                $this->tag_mp3($bible_id, $chapter_path, $output_path, $current_book, 'pearl');
             }
             
         }
@@ -94,7 +94,7 @@ class ProcessCommand extends Command
 
     }
 
-    private function parse_values_from_path($chapter_path, $source_style = 'dbl')
+    private function parse_values_from_path($bible_id, $chapter_path, $source_style = 'dbl')
     {
         $chapter_name = preg_replace('/_+/m', '_', basename($chapter_path,'.mp3'));
 
@@ -129,7 +129,7 @@ class ProcessCommand extends Command
             break;
         }
         return [
-            'bible_id'       => $this->argument('bible_id'),
+            'bible_id'       => $bible_id,
             'book_number'    => Str::padLeft($current_book['order_'.$this->option('sort_type')], 2, '0'),
             'id'             => $current_book['id'],
             'chapter_number' => $chapter_number,
