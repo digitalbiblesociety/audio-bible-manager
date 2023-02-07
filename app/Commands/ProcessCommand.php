@@ -55,7 +55,8 @@ class ProcessCommand extends Command
 
     private function structure_books_for_pearl_player()
     {        
-        $bible_id = $this->argument('bible_id');
+        $folder_id = $this->argument('bible_id');
+        $bible_id = explode('_', $folder_id);
         
         $chapters = Storage::disk('local')->files("bibles/source/$bible_id");
         foreach($chapters as $chapter_path) {
@@ -64,7 +65,7 @@ class ProcessCommand extends Command
             }
 
             $current_book = $this->parse_values_from_path($chapter_path, $this->option('source_style'));
-            $output_path = 'bibles/output/'.$bible_id.'/'.Str::slug($current_book['testament']).'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
+            $output_path = 'bibles/output/'.$folder_id.'/'.Str::slug($current_book['testament']).'-'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
             if($this->option('tagid3') != 'all') {
                 Storage::disk('local')->move(
