@@ -57,6 +57,7 @@ class ProcessCommand extends Command
     {        
         $folder_id = $this->argument('bible_id');
         $bible_id = explode('_', $folder_id);
+        $bible_id = $bible_id[0];
         
         $chapters = Storage::disk('local')->files("bibles/source/$bible_id");
         foreach($chapters as $chapter_path) {
