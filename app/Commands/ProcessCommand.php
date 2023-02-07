@@ -59,7 +59,7 @@ class ProcessCommand extends Command
         $bible_id = explode('_', $folder_id);
         $bible_id = $bible_id[0];
         
-        $chapters = Storage::disk('local')->files("bibles/source/$bible_id");
+        $chapters = Storage::disk('local')->files("bibles/source/$folder_id");
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
