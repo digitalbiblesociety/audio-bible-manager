@@ -11,7 +11,7 @@ trait Mp3Id3Editor {
 
     use Languages;
 
-    public function tag_mp3($input_path, $output_path, $ref, $player_type = 'pearl')
+    public function tag_mp3($bible_id, $input_path, $output_path, $ref, $player_type = 'pearl')
     {
         switch($player_type) {
             case "pearl":
