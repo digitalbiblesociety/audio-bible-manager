@@ -18,7 +18,7 @@ class ProcessCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant} {--source_style=dbl} {--tagid3=all}';
+    protected $signature = 'process {bible_id} {destination=pearl} {--sort_type=protestant} {--source_style=dbl} {--tagid3=all} {--font=terminus.ttf}';
 
     /**
      * The description of the command.
@@ -49,6 +49,9 @@ class ProcessCommand extends Command
             case "pearl":
                 $this->structure_books_for_pearl_player();
                 break;
+            case "pearl_v2":
+                $this->structure_books_for_pearl_player();
+                break;
         }
         $this->line("All Done");
     }
@@ -75,7 +78,7 @@ class ProcessCommand extends Command
                     $output_path
                 );
             } else {
-                $this->tag_mp3($bible_id, $chapter_path, $output_path, $current_book, 'pearl');
+                $this->tag_mp3($bible_id, $chapter_path, $output_path, $current_book, $this->argument('destination'));
             }
             
         }
@@ -137,7 +140,6 @@ class ProcessCommand extends Command
             'testament'      => $current_book['book_testament'],
             'book_name'      => str_replace(' ', '', $current_book['name'])
         ];
-
     }
 
 }
