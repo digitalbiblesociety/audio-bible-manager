@@ -73,9 +73,10 @@ trait Mp3Id3Editor {
         $title    = mb_convert_encoding($ref['book_name'] .' '.ltrim($ref['chapter_number'],'0'), 'UTF-8', 'ISO-8859-1');
         $iso      = mb_convert_encoding(strtolower(substr($ref['bible_id'],0,3)), 'UTF-8', 'ISO-8859-1');
         $language = mb_convert_encoding($this->languages(strtolower(substr($ref['bible_id'],0,3))), 'UTF-8', 'ISO-8859-1');
-        $book     = mb_convert_encoding($ref['book_name'], 'UTF-8', 'ISO-8859-1');
+        $book     = $ref['vname'] ?? $ref['book_name'];
         $genre    = mb_convert_encoding($ref['testament'].'-'.substr($ref['bible_id'],3), 'UTF-8', 'ISO-8859-1');
         $font     = $this->option('font');
+
 
         // 
         $output_folder = substr($output_path, 0, (int) strrpos($output_path, '/'));

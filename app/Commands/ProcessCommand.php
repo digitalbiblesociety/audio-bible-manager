@@ -64,12 +64,14 @@ class ProcessCommand extends Command
         
         $chapters = Storage::disk('local')->files("bibles/source/$folder_id");
 
+        $vernacular_books = collect(json_decode(file_get_contents("https://arc.dbs.org/api/bible-books/".strtolower(substr($bible_id,0,3)))))->pluck('name','book_id');
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
             }
 
             $current_book = $this->parse_values_from_path($bible_id, $chapter_path, $this->option('source_style'));
+            $current_book['vname'] = $vernacular_books[$current_book['id']];
             $output_path = 'bibles/output/'.$folder_id.'/'.strtoupper(Str::slug($current_book['testament'])).'_'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
             if($this->option('tagid3') != 'all') {
