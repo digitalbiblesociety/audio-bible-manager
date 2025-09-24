@@ -64,8 +64,40 @@ class ProcessCommand extends Command
         
         $chapters = Storage::disk('local')->files("bibles/source/$folder_id");
 
-        $vernacular_books = collect(json_decode(file_get_contents("https://arc.dbs.org/api/bible-books/".strtolower(substr($bible_id,0,3)))))->pluck('name','book_id');
-        $language_details = collect(json_decode(file_get_contents("https://arc.dbs.org/api/languages/".strtolower(substr($bible_id,0,3)))))->toArray();
+        $context = stream_context_create([
+            'http' => [
+                'header' => "User-Agent: Audio-Bible-Manager/1.0 (https://github.com/digital-bible-society/audio-bible-manager)\r\n"
+            ]
+        ]);
+
+        // Try to fetch vernacular books from API, fallback to local JSON if it fails
+        $lang_code = strtolower(substr($bible_id,0,3));
+        $books_json = @file_get_contents("https://arc.dbs.org/api/bible-books/".$lang_code, false, $context);
+        if ($books_json === false) {
+            $local_books_file = base_path("app/Data/bible-books-".$lang_code.".json");
+            if (file_exists($local_books_file)) {
+                $books_json = file_get_contents($local_books_file);
+                $this->warn("Using local fallback for bible-books: ".$local_books_file);
+            } else {
+                $this->error("Failed to fetch bible-books from API and no local fallback found at: ".$local_books_file);
+                exit(1);
+            }
+        }
+        $vernacular_books = collect(json_decode($books_json))->pluck('name','book_id');
+
+        // Try to fetch language details from API, fallback to local JSON if it fails
+        $language_json = @file_get_contents("https://arc.dbs.org/api/languages/".$lang_code, false, $context);
+        if ($language_json === false) {
+            $local_lang_file = base_path("app/Data/languages-".$lang_code.".json");
+            if (file_exists($local_lang_file)) {
+                $language_json = file_get_contents($local_lang_file);
+                $this->warn("Using local fallback for language: ".$local_lang_file);
+            } else {
+                $this->error("Failed to fetch language from API and no local fallback found at: ".$local_lang_file);
+                exit(1);
+            }
+        }
+        $language_details = collect(json_decode($language_json))->toArray();
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
