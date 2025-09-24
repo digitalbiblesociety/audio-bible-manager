@@ -185,6 +185,7 @@ class ProcessCommand extends Command
             case "dbs":
                 $chapter_number = $book_parts[2];
                 $book_number = (int)$book_parts[0];
+                $book_name_from_file = $book_parts[1];
 
                 // Check if this might be a New Testament book with flexible numbering
                 // Matthew can be 40 or 41, and subsequent NT books follow
@@ -194,35 +195,62 @@ class ProcessCommand extends Command
                     $nt_offset = -1;
                 }
 
-                // Try to find book by order in the overall Bible
+                // First try to match by BOTH number AND name to avoid conflicts
                 foreach($book_index as $book) {
                     $order_num = $book['order_' . $this->option('sort_type')];
+                    $matches_name = (str_replace(' ', '', $book['name']) == $book_name_from_file);
 
-                    // For NT books, check with possible offset
-                    if ($book['book_testament'] == 'NT' && $nt_offset != 0) {
-                        if ($order_num + $nt_offset == $book_number) {
+                    // Check if both number and name match
+                    if ($matches_name) {
+                        // For NT books with offset
+                        if ($book['book_testament'] == 'NT' && $nt_offset != 0 && $order_num + $nt_offset == $book_number) {
+                            $current_book = $book;
+                            break;
+                        }
+                        // Standard check
+                        if ($order_num == $book_number) {
                             $current_book = $book;
                             break;
                         }
                     }
+                }
 
-                    // Standard check without offset
-                    if ($order_num == $book_number) {
-                        $current_book = $book;
-                        break;
-                    }
+                // If not found by number+name combo, try by number only (prioritizing OT/NT canonical books)
+                if(!isset($current_book)) {
+                    foreach($book_index as $book) {
+                        $order_num = $book['order_' . $this->option('sort_type')];
 
-                    // Also check order_testament for OT books
-                    if ($book['book_testament'] == 'OT' && $book['order_testament'] == $book_number) {
-                        $current_book = $book;
-                        break;
+                        // Skip apocryphal books if we have a name hint
+                        if ($book['book_testament'] == 'AP' && !empty($book_name_from_file)) {
+                            continue;
+                        }
+
+                        // For NT books, check with possible offset
+                        if ($book['book_testament'] == 'NT' && $nt_offset != 0) {
+                            if ($order_num + $nt_offset == $book_number) {
+                                $current_book = $book;
+                                break;
+                            }
+                        }
+
+                        // Standard check without offset
+                        if ($order_num == $book_number) {
+                            $current_book = $book;
+                            break;
+                        }
+
+                        // Also check order_testament for OT books
+                        if ($book['book_testament'] == 'OT' && $book['order_testament'] == $book_number) {
+                            $current_book = $book;
+                            break;
+                        }
                     }
                 }
 
-                // If not found by number, try by name (with spaces removed for comparison)
+                // If still not found, try by name only (with spaces removed for comparison)
                 if(!isset($current_book)) {
                     foreach($book_index as $book) {
-                        if(str_replace(' ', '', $book['name']) == $book_parts[1]) {
+                        if(str_replace(' ', '', $book['name']) == $book_name_from_file) {
                             $current_book = $book;
                             break;
                         }
