@@ -877,7 +877,7 @@ Trait Books {
                 "order_lxx" => 45,
                 "order_orthodox" => 43,
                 "order_nrsva" => 39,
-                "order_catholic" => 46
+                "order_catholic" => 46,
                 "order_finnish" => 39,
                 "order_messianic" => 26
             ],
