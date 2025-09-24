@@ -104,7 +104,34 @@ class ProcessCommand extends Command
             }
 
             $current_book = $this->parse_values_from_path($bible_id, $chapter_path, $this->option('source_style'));
-            $current_book['vname'] = $vernacular_books[$current_book['id']];
+
+            // Check if vernacular name exists for this book ID
+            if (!isset($vernacular_books[$current_book['id']])) {
+                $this->warn("No vernacular name found for book ID: " . $current_book['id']);
+                $this->info("File: " . basename($chapter_path));
+                $this->info("Current book mapping: " . $current_book['book_name'] . " (ID: " . $current_book['id'] . ")");
+                $this->info("Available vernacular books: " . implode(', ', array_keys($vernacular_books->toArray())));
+
+                $override = $this->ask("Enter a different book ID to use (or press Enter to use English name '" . $current_book['book_name'] . "'):");
+
+                if (!empty($override)) {
+                    $override = strtoupper($override);
+                    if (isset($vernacular_books[$override])) {
+                        $current_book['id'] = $override;
+                        $current_book['vname'] = $vernacular_books[$override];
+                        $this->info("Using book ID: " . $override . " with vernacular name: " . $vernacular_books[$override]);
+                    } else {
+                        $this->error("Book ID '" . $override . "' not found in vernacular books. Using English name instead.");
+                        $current_book['vname'] = $current_book['book_name'];
+                    }
+                } else {
+                    $current_book['vname'] = $current_book['book_name'];
+                    $this->info("Using English name: " . $current_book['book_name']);
+                }
+            } else {
+                $current_book['vname'] = $vernacular_books[$current_book['id']];
+            }
+
             $current_book['language_details'] = $language_details;
             $output_path = 'bibles/output/'.$folder_id.'/'.strtoupper(Str::slug($current_book['testament'])).'_'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
