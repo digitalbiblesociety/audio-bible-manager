@@ -157,13 +157,24 @@ class ProcessCommand extends Command
             break;
             case "dbs":
                 $chapter_number = $book_parts[2];
+                // Try to find book by order_testament number first
                 foreach($book_index as $book) {
-                    if($book['name'] == $book_parts[1]) {
+                    if($book['order_testament'] == $book_parts[0]) {
                         $current_book = $book;
+                        break;
+                    }
+                }
+                // If not found by number, try by name (with spaces removed for comparison)
+                if(!isset($current_book)) {
+                    foreach($book_index as $book) {
+                        if(str_replace(' ', '', $book['name']) == $book_parts[1]) {
+                            $current_book = $book;
+                            break;
+                        }
                     }
                 }
                 if(!isset($current_book)) {
-                    $this->error("Could not find book");
+                    $this->error("Could not find book with order_testament: ".$book_parts[0]." or name: ".$book_parts[1]);
                     dd($book_parts);
                 }
             break;
