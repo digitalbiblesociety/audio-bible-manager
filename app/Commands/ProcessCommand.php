@@ -157,13 +157,41 @@ class ProcessCommand extends Command
             break;
             case "dbs":
                 $chapter_number = $book_parts[2];
-                // Try to find book by order_testament number first
+                $book_number = (int)$book_parts[0];
+
+                // Check if this might be a New Testament book with flexible numbering
+                // Matthew can be 40 or 41, and subsequent NT books follow
+                $nt_offset = 0;
+                if ($book_number == 40) {
+                    // Using 40-based numbering for NT (Matthew = 40)
+                    $nt_offset = -1;
+                }
+
+                // Try to find book by order in the overall Bible
                 foreach($book_index as $book) {
-                    if($book['order_testament'] == $book_parts[0]) {
+                    $order_num = $book['order_' . $this->option('sort_type')];
+
+                    // For NT books, check with possible offset
+                    if ($book['book_testament'] == 'NT' && $nt_offset != 0) {
+                        if ($order_num + $nt_offset == $book_number) {
+                            $current_book = $book;
+                            break;
+                        }
+                    }
+
+                    // Standard check without offset
+                    if ($order_num == $book_number) {
+                        $current_book = $book;
+                        break;
+                    }
+
+                    // Also check order_testament for OT books
+                    if ($book['book_testament'] == 'OT' && $book['order_testament'] == $book_number) {
                         $current_book = $book;
                         break;
                     }
                 }
+
                 // If not found by number, try by name (with spaces removed for comparison)
                 if(!isset($current_book)) {
                     foreach($book_index as $book) {
@@ -173,8 +201,9 @@ class ProcessCommand extends Command
                         }
                     }
                 }
+
                 if(!isset($current_book)) {
-                    $this->error("Could not find book with order_testament: ".$book_parts[0]." or name: ".$book_parts[1]);
+                    $this->error("Could not find book with number: ".$book_parts[0]." or name: ".$book_parts[1]);
                     dd($book_parts);
                 }
             break;
