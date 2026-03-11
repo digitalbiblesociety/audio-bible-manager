@@ -72,13 +72,15 @@ trait Mp3Id3Editor {
     private function tag_pearl_player_v2($input_path, $output_path, $ref) {
         $book     = $ref['vname'] ?? $ref['book_name'];
         $title    = mb_convert_encoding($book .' '.ltrim($ref['chapter_number'],'0'), 'UTF-8', 'ISO-8859-1');
-        $iso      = mb_convert_encoding(strtolower(substr($ref['bible_id'],0,3)), 'UTF-8', 'ISO-8859-1');
+        $iso      = mb_convert_encoding(strtoupper(substr($ref['bible_id'],0,3)), 'UTF-8', 'ISO-8859-1');
         $language = mb_convert_encoding($this->languages(strtolower(substr($ref['bible_id'],0,3))), 'UTF-8', 'ISO-8859-1');
         $genre    = mb_convert_encoding($ref['testament'].'-'.substr($ref['bible_id'],3), 'UTF-8', 'ISO-8859-1');
-        $font     = $this->option('font');
-        $language_vernacular = optional($ref['language_details'])['autonym'] ?? $language;
+        $font     = !empty($ref['has_vernacular']) ? $this->option('font') : 'calibri-regular.ttf';
+        $language_vernacular = mb_strtoupper(optional($ref['language_details'])['autonym'] ?? $language);
+        $folder_id = $ref['folder_id'] ?? '';
+        $album    = mb_strtoupper($book);
 
-        // 
+        //
         $output_folder = substr($output_path, 0, (int) strrpos($output_path, '/'));
         if(!Storage::exists($output_folder)) {
             Storage::makeDirectory($output_folder);
@@ -93,7 +95,7 @@ trait Mp3Id3Editor {
             "-metadata",
             "TLAN=$iso",
             "-metadata",
-            "TIT3=$output_folder",
+            "TIT3=$folder_id",
             "-metadata",
             "TIT1=$language",
             "-metadata",
@@ -101,7 +103,7 @@ trait Mp3Id3Editor {
             "-metadata",
             "TCON=$genre",
             "-metadata",
-            "TALB=$book",
+            "TALB=$album",
             "-metadata",
             "TIT2=$title",
             "-metadata",

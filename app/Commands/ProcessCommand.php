@@ -98,6 +98,7 @@ class ProcessCommand extends Command
             }
         }
         $language_details = collect(json_decode($language_json))->toArray();
+        $vernacular_overrides = [];
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
@@ -107,31 +108,52 @@ class ProcessCommand extends Command
 
             // Check if vernacular name exists for this book ID
             if (!isset($vernacular_books[$current_book['id']])) {
-                $this->warn("No vernacular name found for book ID: " . $current_book['id']);
-                $this->info("File: " . basename($chapter_path));
-                $this->info("Current book mapping: " . $current_book['book_name'] . " (ID: " . $current_book['id'] . ")");
-                $this->info("Available vernacular books: " . implode(', ', array_keys($vernacular_books->toArray())));
-
-                $override = $this->ask("Enter a different book ID to use (or press Enter to use English name '" . $current_book['book_name'] . "'):");
-
-                if (!empty($override)) {
-                    $override = strtoupper($override);
-                    if (isset($vernacular_books[$override])) {
-                        $current_book['id'] = $override;
-                        $current_book['vname'] = $vernacular_books[$override];
-                        $this->info("Using book ID: " . $override . " with vernacular name: " . $vernacular_books[$override]);
-                    } else {
-                        $this->error("Book ID '" . $override . "' not found in vernacular books. Using English name instead.");
-                        $current_book['vname'] = $current_book['book_name'];
-                    }
+                // Use cached override if we already asked about this book
+                if (isset($vernacular_overrides[$current_book['id']])) {
+                    $cached = $vernacular_overrides[$current_book['id']];
+                    $current_book['id'] = $cached['id'];
+                    $current_book['vname'] = $cached['vname'];
+                    $current_book['has_vernacular'] = $cached['has_vernacular'];
                 } else {
-                    $current_book['vname'] = $current_book['book_name'];
-                    $this->info("Using English name: " . $current_book['book_name']);
+                    $this->warn("No vernacular name found for book ID: " . $current_book['id']);
+                    $this->info("File: " . basename($chapter_path));
+                    $this->info("Current book mapping: " . $current_book['book_name'] . " (ID: " . $current_book['id'] . ")");
+                    $this->info("Available vernacular books: " . implode(', ', array_keys($vernacular_books->toArray())));
+
+                    $override = $this->ask("Enter a different book ID to use (or press Enter to use English name '" . $current_book['book_name'] . "'):");
+
+                    $original_id = $current_book['id'];
+                    if (!empty($override)) {
+                        $override = strtoupper($override);
+                        if (isset($vernacular_books[$override])) {
+                            $current_book['id'] = $override;
+                            $current_book['vname'] = $vernacular_books[$override];
+                            $current_book['has_vernacular'] = true;
+                            $this->info("Using book ID: " . $override . " with vernacular name: " . $vernacular_books[$override]);
+                        } else {
+                            $this->error("Book ID '" . $override . "' not found in vernacular books. Using English name instead.");
+                            $current_book['vname'] = $current_book['book_name'];
+                            $current_book['has_vernacular'] = false;
+                        }
+                    } else {
+                        $current_book['vname'] = $current_book['book_name'];
+                        $current_book['has_vernacular'] = false;
+                        $this->info("Using English name: " . $current_book['book_name']);
+                    }
+
+                    // Cache the result for subsequent chapters of this book
+                    $vernacular_overrides[$original_id] = [
+                        'id' => $current_book['id'],
+                        'vname' => $current_book['vname'],
+                        'has_vernacular' => $current_book['has_vernacular'],
+                    ];
                 }
             } else {
                 $current_book['vname'] = $vernacular_books[$current_book['id']];
+                $current_book['has_vernacular'] = true;
             }
 
+            $current_book['folder_id'] = $folder_id;
             $current_book['language_details'] = $language_details;
             $output_path = 'bibles/output/'.$folder_id.'/'.strtoupper(Str::slug($current_book['testament'])).'_'.$bible_id.'/'.$current_book['book_number'].'_'.$current_book['book_name'].'/'.$current_book['book_number'].'_'.$current_book['book_name'].'_'.$current_book['chapter_number'].'.mp3';
 
@@ -177,6 +199,13 @@ class ProcessCommand extends Command
                 }
                 $chapter_number = str_pad($book_parts[1],3,'0', STR_PAD_LEFT);
 
+            break;
+            case "fcbh2":
+                // Format: {iso}{orgcode}{TestamentLetter}{Drama/nondrama}_B{BookNumericID}_{BookID}_{ThreeLetterPaddedChapter}
+                // Example: FVRWBTN2DA_B01_MAT_001.mp3
+                $book_id = strtoupper($book_parts[2]);
+                $current_book = $book_index[$book_id];
+                $chapter_number = $book_parts[3];
             break;
             case "dbl":
                 $current_book = $book_index[$book_parts[0]];
