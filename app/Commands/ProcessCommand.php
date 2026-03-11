@@ -99,6 +99,7 @@ class ProcessCommand extends Command
         }
         $language_details = collect(json_decode($language_json))->toArray();
         $vernacular_overrides = [];
+        $use_english_for_all = false;
         foreach($chapters as $chapter_path) {
             if(!Str::contains($chapter_path,'.mp3')) {
                 continue;
@@ -114,16 +115,24 @@ class ProcessCommand extends Command
                     $current_book['id'] = $cached['id'];
                     $current_book['vname'] = $cached['vname'];
                     $current_book['has_vernacular'] = $cached['has_vernacular'];
+                } elseif ($use_english_for_all) {
+                    $current_book['vname'] = $current_book['book_name'];
+                    $current_book['has_vernacular'] = false;
                 } else {
                     $this->warn("No vernacular name found for book ID: " . $current_book['id']);
                     $this->info("File: " . basename($chapter_path));
                     $this->info("Current book mapping: " . $current_book['book_name'] . " (ID: " . $current_book['id'] . ")");
                     $this->info("Available vernacular books: " . implode(', ', array_keys($vernacular_books->toArray())));
 
-                    $override = $this->ask("Enter a different book ID to use (or press Enter to use English name '" . $current_book['book_name'] . "'):");
+                    $override = $this->ask("Enter a different book ID to use, 'all' for English fallback on all books, or press Enter to use English name '" . $current_book['book_name'] . "':");
 
                     $original_id = $current_book['id'];
-                    if (!empty($override)) {
+                    if (strtolower($override) === 'all') {
+                        $use_english_for_all = true;
+                        $current_book['vname'] = $current_book['book_name'];
+                        $current_book['has_vernacular'] = false;
+                        $this->info("Using English names for all remaining books.");
+                    } elseif (!empty($override)) {
                         $override = strtoupper($override);
                         if (isset($vernacular_books[$override])) {
                             $current_book['id'] = $override;
