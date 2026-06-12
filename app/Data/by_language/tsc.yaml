@@ -1,0 +1,266 @@
+language: "tsc"
+books:
+  "GEN":
+    name: "Genesisi"
+    slug: "genesisi"
+    name_toc: "Kefder Maga Pol Ɓoʼ Ne Tid Mono"
+  "EXO":
+    name: "Eksodusi"
+    slug: "eksodusi"
+    name_toc: "Kefder Maga Pol Ɓoʼ Ne Filemoŋ Mono"
+  "LEV":
+    name: "Levi"
+    slug: "levi"
+    name_toc: "Kefder Maga A Ɓoʼ Ne Jar Hebre Wo Mono"
+  "NUM":
+    name: "Mitsengo"
+    slug: "mitsengo"
+    name_toc: "Kefder Maga Jag Yer Ne Mono"
+  "DEU":
+    name: "Deuteronome"
+    slug: "deuteronome"
+    name_toc: "Kefder Ma Taŋgu Maga Piyer Yer Ne Mono"
+  "JOS":
+    name: "Joxua"
+    slug: "joxua"
+    name_toc: "Kefder Ma De Ɓog Maga Piyer Yer Ne Mono"
+  "JDG":
+    name: "Valamuli"
+    slug: "valamuli"
+    name_toc: "Kefder Ma Taŋgu Maga Jaŋ Yer Ne Mono"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+    name_toc: "Kefder Ma De Ɓog Maga Jaŋ Yer Ne Mono"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+    name_toc: "Kefder Ma De Swaʼ Maga Jaŋ Yer Ne Mono"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+    name_toc: "Kefder Maga Jud Yer Ne Mono"
+  "1KI":
+    name: "1 Tihosi"
+    slug: "1-tihosi"
+    name_toc: "Wããre Maga Yeso Naa Nen Ɓe Go Ne Jaŋ Mono"
+  "2KI":
+    name: "2 Tihosi"
+    slug: "2-tihosi"
+    name_toc: "Ti§i§gi Were"
+  "1CH":
+    name: "1 Kronekele"
+    slug: "1-kronekele"
+    name_toc: "Laage Go"
+  "2CH":
+    name: "2 Kronekele"
+    slug: "2-kronekele"
+    name_toc: "Joñre Jar Lefid Wo"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Keege Jar Israyel Wo"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Dogge Jag Liñgi"
+  "EST":
+    name: "Estere"
+    slug: "estere"
+    name_toc: "Josuwe"
+  "JOB":
+    name: "Joba"
+    slug: "joba"
+    name_toc: "Jar Car Kiida Wo"
+  "PSA":
+    name: "Tisimu"
+    slug: "tisimu"
+    name_toc: "Rud"
+  "PRO":
+    name: "Mavingu"
+    slug: "mavingu"
+    name_toc: "1 Samyel"
+  "ECC":
+    name: "Mutshawuteli"
+    slug: "mutshawuteli"
+    name_toc: "2 Samyel"
+  "SNG":
+    name: "Xizimba xa ka Solomoni"
+    slug: "xizimba-xa-ka-solomoni"
+    name_toc: "1 Wañre Wo"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "2 Wañre Wo"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "1 Kronig"
+  "LAM":
+    name: "Mikosi"
+    slug: "mikosi"
+    name_toc: "2 Kronig"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Esdras"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Nehemi"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ester"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+    name_toc: "Job"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Siñ Wora"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Jag Joçoç Wo"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Eklesiyaste"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Siñ ma de dañ siñn wo"
+  "NAM":
+    name: "Nahume"
+    slug: "nahume"
+    name_toc: "Esayi"
+  "HAB":
+    name: "Habakuka"
+    slug: "habakuka"
+    name_toc: "Jermi"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Lawge Mani Jeremi Wo"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Esekiyel"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Danyel"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Ose"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Jowel"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+    name_toc: "Amos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Abdiyas"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+    name_toc: "Jonas"
+  "ACT":
+    name: "Mitiro"
+    slug: "mitiro"
+    name_toc: "Mise"
+  "ROM":
+    name: "Va le Roma"
+    slug: "va-le-roma"
+    name_toc: "Nahum"
+  "1CO":
+    name: "1 Va le Korinte"
+    slug: "1-va-le-korinte"
+    name_toc: "Habakug"
+  "2CO":
+    name: "2 Va le Korinte"
+    slug: "2-va-le-korinte"
+    name_toc: "Sofoni"
+  "GAL":
+    name: "Va le Galatia"
+    slug: "va-le-galatia"
+    name_toc: "Aje"
+  "EPH":
+    name: "Va le Efesusi"
+    slug: "va-le-efesusi"
+    name_toc: "Sakari"
+  "PHP":
+    name: "Va le Filipi"
+    slug: "va-le-filipi"
+    name_toc: "Malasi"
+  "COL":
+    name: "Va le Kolosi"
+    slug: "va-le-kolosi"
+    name_toc: "WAÇAÇRE MA DE COÇOÇRE MAGA MATIYE Yer ne mono"
+  "1TH":
+    name: "1 Va le Tesalonika"
+    slug: "1-va-le-tesalonika"
+    name_toc: "WAÇAÇRE MA DE COÇOÇRE MAGA MARK YER NE mono"
+  "2TH":
+    name: "2 Va le Tesalonika"
+    slug: "2-va-le-tesalonika"
+    name_toc: "Waçaçre Ma De Coçoçre Maga Lug Yer Ne Mono"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Waçaçre Maa De Coçoçre Maga Jañ Yer Ne Mono"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Joñre Jar Peele Yeso Wo"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+    name_toc: "Kefder Maga Pol Äo' Ne Jar Rom Wo Mono"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Kefder Ma Tañgu Maga Pol Äo' Ne Jar Korente Wo Mono"
+  "HEB":
+    name: "Maheberu"
+    slug: "maheberu"
+    name_toc: "Kefder Ma De Äog Maga Pol Äo' Ne Jar Korente Wo"
+  "JAS":
+    name: "Jakobe"
+    slug: "jakobe"
+    name_toc: "Kefder Maga Pol Äo' Ne Jar Galad Wo"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Kefder Maga Pol Äo' Ne Jar Efes Wo Mono"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Kefder Maga Pol Äo' Ne Jar Filip Wo Mono"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+    name_toc: "Kefder Maga Pol Äo' Ne Jar Kolos Wo"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+    name_toc: "Kefder Maa Tañgu Pol Äo' Ne Jar Tesalonig Wo Mono"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+    name_toc: "Kefder Ma De Äog Maga Pol Äo' Ne Jar Tesalonig Wo Mono"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Kefder Ma Tañgu Maga Pol Äo' Ne Timote Mono"
+  "REV":
+    name: "Kuvululelwa"
+    slug: "kuvululelwa"
+    name_toc: "Kefder Ma De Äog Maga Pol Äo' Ne Timote Mono"

@@ -1,0 +1,74 @@
+language: "seh"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Juwau"
+    slug: "juwau"
+  "ACT":
+    name: "Mabasa"
+    slug: "mabasa"
+  "ROM":
+    name: "Aroma"
+    slug: "aroma"
+  "1CO":
+    name: "1 Akorintu"
+    slug: "1-akorintu"
+  "2CO":
+    name: "2 Akorintu"
+    slug: "2-akorintu"
+  "GAL":
+    name: "Agalata"
+    slug: "agalata"
+  "EPH":
+    name: "Aefesu"
+    slug: "aefesu"
+  "PHP":
+    name: "Afilipi"
+    slug: "afilipi"
+  "COL":
+    name: "Akolosi"
+    slug: "akolosi"
+  "1TH":
+    name: "1At"
+    slug: "1at"
+  "2TH":
+    name: "2At"
+    slug: "2at"
+  "1TI":
+    name: "1Tm"
+    slug: "1tm"
+  "2TI":
+    name: "2Tm"
+    slug: "2tm"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+  "1PE":
+    name: "1Pd"
+    slug: "1pd"
+  "2PE":
+    name: "2Pd"
+    slug: "2pd"
+  "1JN":
+    name: "1 Juwau"
+    slug: "1-juwau"
+  "2JN":
+    name: "2 Juwau"
+    slug: "2-juwau"
+  "3JN":
+    name: "3 Juwau"
+    slug: "3-juwau"
+  "JUD":
+    name: "Djd"
+    slug: "djd"
+  "REV":
+    name: "Cid"
+    slug: "cid"

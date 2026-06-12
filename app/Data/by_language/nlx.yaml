@@ -1,0 +1,110 @@
+language: "nlx"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्ती लिखेल यीशु मसीन हाजाली खुबेर"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "मरकुस लिखेल यीशु मसीन हाजाली खुबेर"
+  "LUK":
+    name: "लुका"
+    slug: "luka"
+    name_toc: "लुका लिखेल यीशु मसीन हाजाली खुबेर"
+  "JHN":
+    name: "योहान"
+    slug: "yohana"
+    name_toc: "योहान लिखेल यीशु मसीन हाजाली खुबेर"
+  "ACT":
+    name: "प्रेरितान काम"
+    slug: "preritana-kama"
+    name_toc: "प्रेरितान काम"
+  "ROM":
+    name: "रोमीयो"
+    slug: "romiyo"
+    name_toc: "रोमीयो पौलुस लिखेल पोत्रो"
+  "1CO":
+    name: "1 कुरिंथीयो"
+    slug: "1-kurimthiyo"
+    name_toc: "कुरिंथीयो पौलुस लिखेल पेल्लो पोत्रो"
+  "2CO":
+    name: "2 कुरिंथीयो"
+    slug: "2-kurimthiyo"
+    name_toc: "कुरिंथीयो पौलुस लिखेल दुसरो पोत्रो"
+  "GAL":
+    name: "गलातीयो"
+    slug: "galatiyo"
+    name_toc: "गलातीयो पौलुस लिखेल पोत्रो"
+  "EPH":
+    name: "इफिसीयो"
+    slug: "iphisiyo"
+    name_toc: "इफिसीयो पौलुस लिखेल पोत्रो"
+  "PHP":
+    name: "फिलेपियो"
+    slug: "philepiyo"
+    name_toc: "फिलेपियो पौलुस लिखेल पोत्रो"
+  "COL":
+    name: "कुलुसी"
+    slug: "kulusi"
+    name_toc: "कुलुसी लोक नावे पॉल प्रेरित च्या पत्र"
+  "1TH":
+    name: "1 थिस्सलुनिक्यो"
+    slug: "1-thissalunikyo"
+    name_toc: "थिस्सलुनिक्यो पौलुस लिखेल पेल्लो पोत्रो"
+  "2TH":
+    name: "2 थिस्सलुनिक्यो"
+    slug: "2-thissalunikyo"
+    name_toc: "थिस्सलुनिक्यो पौलुस लिखेल दुसरो पोत्रो"
+  "1TI":
+    name: "1 तीमुथीयुस"
+    slug: "1-timuthiyusa"
+    name_toc: "तीमुथीयुस पौलुस लिखेल पेल्लो पोत्रो"
+  "2TI":
+    name: "2 तीमुथीयुस"
+    slug: "2-timuthiyusa"
+    name_toc: "तीमुथीयुस पौलुस लिखेल दुसरो पोत्रो"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "तीतुस पौलुस लिखेल पोत्रो"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "फिलेमोन पौलुस लिखेल पोत्रो"
+  "HEB":
+    name: "इब्रानियो"
+    slug: "ibraniyo"
+    name_toc: "इब्रानियोन पोत्रो"
+  "JAS":
+    name: "याकुब"
+    slug: "yakuba"
+    name_toc: "याकुब लिखेल पोत्रो"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "पतरस लिखेल पेल्लो पोत्रो"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "पतरस लिखेल दुसरो पोत्रो"
+  "1JN":
+    name: "1 योहान"
+    slug: "1-yohana"
+    name_toc: "योहान लिखेल पेल्लो पोत्रो"
+  "2JN":
+    name: "2 योहान"
+    slug: "2-yohana"
+    name_toc: "योहान लिखेल दुसरो पोत्रो"
+  "3JN":
+    name: "3 योहान"
+    slug: "3-yohana"
+    name_toc: "योहान लिखेल तीसरो पोत्रो"
+  "JUD":
+    name: "यहुदा"
+    slug: "yahuda"
+    name_toc: "यहुदा लिखेल पोत्रो"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"
+    name_toc: "योहान ने प्रकाशितवाक्य"

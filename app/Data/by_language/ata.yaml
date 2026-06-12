@@ -1,0 +1,89 @@
+language: "ata"
+books:
+  "GEN":
+    name: "TAVAꞌU"
+    slug: "tavau"
+  "JON":
+    name: "Iona"
+    slug: "iona"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ioanesi"
+    slug: "ioanesi"
+  "ACT":
+    name: "Aposeli"
+    slug: "aposeli"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "1 Kolinito"
+    slug: "1-kolinito"
+  "2CO":
+    name: "2 Kolinito"
+    slug: "2-kolinito"
+  "GAL":
+    name: "Xalatia"
+    slug: "xalatia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimoni"
+    slug: "pilimoni"
+  "HEB":
+    name: "Evalaio"
+    slug: "evalaio"
+  "JAS":
+    name: "Iakovo"
+    slug: "iakovo"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Ioanesi"
+    slug: "1-ioanesi"
+  "2JN":
+    name: "2 Ioanesi"
+    slug: "2-ioanesi"
+  "3JN":
+    name: "3 Ioanesi"
+    slug: "3-ioanesi"
+  "JUD":
+    name: "Iudasi"
+    slug: "iudasi"
+  "REV":
+    name: "Revelesen"
+    slug: "revelesen"

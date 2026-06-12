@@ -1,0 +1,83 @@
+language: "kqe"
+books:
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yahiya"
+    slug: "yahiya"
+  "ACT":
+    name: "Gawbuk"
+    slug: "gawbuk"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Ipisos"
+    slug: "ipisos"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Tisalonika"
+    slug: "1-tisalonika"
+  "2TH":
+    name: "2 Tisalonika"
+    slug: "2-tisalonika"
+  "1TI":
+    name: "1 Timotiyo"
+    slug: "1-timotiyo"
+  "2TI":
+    name: "2 Timotiyo"
+    slug: "2-timotiyo"
+  "TIT":
+    name: "Titos"
+    slug: "titos"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibrani"
+    slug: "hibrani"
+  "JAS":
+    name: "Yakob"
+    slug: "yakob"
+  "1PE":
+    name: "1 Pitros"
+    slug: "1-pitros"
+  "2PE":
+    name: "2 Pitros"
+    slug: "2-pitros"
+  "1JN":
+    name: "1 Yahiya"
+    slug: "1-yahiya"
+  "2JN":
+    name: "2 Yahiya"
+    slug: "2-yahiya"
+  "3JN":
+    name: "3 Yahiya"
+    slug: "3-yahiya"
+  "JUD":
+    name: "Yahod"
+    slug: "yahod"
+  "REV":
+    name: "Pyakita"
+    slug: "pyakita"

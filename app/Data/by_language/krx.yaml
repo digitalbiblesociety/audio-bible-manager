@@ -1,0 +1,53 @@
+language: "krx"
+books:
+  "GEN":
+    name: "Púcook"
+    slug: "pucook"
+  "EXO":
+    name: "Efúlii"
+    slug: "efulii"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Saŋ"
+    slug: "sa"
+  "ACT":
+    name: "Páhin"
+    slug: "pahin"
+  "EPH":
+    name: "Efes"
+    slug: "efes"
+  "PHP":
+    name: "Filipoy"
+    slug: "filipoy"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Pihiburu"
+    slug: "pihiburu"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1JN":
+    name: "1 Saŋ"
+    slug: "1-sa"
+  "2JN":
+    name: "2 Saŋ"
+    slug: "2-sa"
+  "3JN":
+    name: "3 Saŋ"
+    slug: "3-sa"
+  "REV":
+    name: "Káyisan"
+    slug: "kayisan"

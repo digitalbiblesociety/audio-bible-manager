@@ -1,0 +1,266 @@
+language: "nde"
+books:
+  "GEN":
+    name: "UGenesisi"
+    slug: "ugenesisi"
+    name_toc: "UGenesisi"
+  "EXO":
+    name: "U-Eksodasi"
+    slug: "u-eksodasi"
+    name_toc: "U-Eksodasi"
+  "LEV":
+    name: "ULevi"
+    slug: "ulevi"
+    name_toc: "ULevi"
+  "NUM":
+    name: "AmaNani"
+    slug: "amanani"
+    name_toc: "AmaNani"
+  "DEU":
+    name: "UDutheronomi"
+    slug: "udutheronomi"
+    name_toc: "UDutheronomi"
+  "JOS":
+    name: "UJoshuwa"
+    slug: "ujoshuwa"
+    name_toc: "UJoshuwa"
+  "JDG":
+    name: "Abahluleli"
+    slug: "abahluleli"
+    name_toc: "Abahluleli"
+  "RUT":
+    name: "URuthe"
+    slug: "uruthe"
+    name_toc: "URuthe"
+  "1SA":
+    name: "1 USamuyeli"
+    slug: "1-usamuyeli"
+    name_toc: "Ugwalo Lwakuqala LukaSamuyeli"
+  "2SA":
+    name: "2 USamuyeli"
+    slug: "2-usamuyeli"
+    name_toc: "Ugwalo Lwesibili LukaSamuyeli"
+  "1KI":
+    name: "1 AmaKhosi"
+    slug: "1-amakhosi"
+    name_toc: "Ugwalo Lwakuqala LwamaKhosi"
+  "2KI":
+    name: "2 AmaKhosi"
+    slug: "2-amakhosi"
+    name_toc: "Ugwalo Lwesibili LwamaKhosi"
+  "1CH":
+    name: "1 ImiLando"
+    slug: "1-imilando"
+    name_toc: "Ugwalo Lwakuqala LwemiLando"
+  "2CH":
+    name: "2 ImiLando"
+    slug: "2-imilando"
+    name_toc: "Ugwalo Lwesibili LwemiLando"
+  "EZR":
+    name: "U-Ezra"
+    slug: "u-ezra"
+    name_toc: "U-Ezra"
+  "NEH":
+    name: "UNehemiya"
+    slug: "unehemiya"
+    name_toc: "UNehemiya"
+  "EST":
+    name: "U-Esta"
+    slug: "u-esta"
+    name_toc: "U-Esta"
+  "JOB":
+    name: "UJobe"
+    slug: "ujobe"
+    name_toc: "UJobe"
+  "PSA":
+    name: "AmaHubo"
+    slug: "amahubo"
+    name_toc: "AmaHubo"
+  "PRO":
+    name: "Izaga"
+    slug: "izaga"
+    name_toc: "Izaga"
+  "ECC":
+    name: "UmTshumayeli"
+    slug: "umtshumayeli"
+    name_toc: "UmTshumayeli"
+  "SNG":
+    name: "Ingoma"
+    slug: "ingoma"
+    name_toc: "Ingoma Yezingoma"
+  "ISA":
+    name: "U-Isaya"
+    slug: "u-isaya"
+    name_toc: "U-Isaya"
+  "JER":
+    name: "UJeremiya"
+    slug: "ujeremiya"
+    name_toc: "UJeremiya"
+  "LAM":
+    name: "Izililo"
+    slug: "izililo"
+    name_toc: "Izililo"
+  "EZK":
+    name: "UHezekhiyeli"
+    slug: "uhezekhiyeli"
+    name_toc: "UHezekhiyeli"
+  "DAN":
+    name: "UDanyeli"
+    slug: "udanyeli"
+    name_toc: "UDanyeli"
+  "HOS":
+    name: "UHosiya"
+    slug: "uhosiya"
+    name_toc: "UHosiya"
+  "JOL":
+    name: "UJoweli"
+    slug: "ujoweli"
+    name_toc: "UJoweli"
+  "AMO":
+    name: "U-Amosi"
+    slug: "u-amosi"
+    name_toc: "U-Amosi"
+  "OBA":
+    name: "U-Obhadaya"
+    slug: "u-obhadaya"
+    name_toc: "U-Obhadaya"
+  "JON":
+    name: "UJona"
+    slug: "ujona"
+    name_toc: "UJona"
+  "MIC":
+    name: "UMikha"
+    slug: "umikha"
+    name_toc: "UMikha"
+  "NAM":
+    name: "UNahume"
+    slug: "unahume"
+    name_toc: "UNahume"
+  "HAB":
+    name: "UHabhakhukhi"
+    slug: "uhabhakhukhi"
+    name_toc: "UHabhakhukhi"
+  "ZEP":
+    name: "UZefaniya"
+    slug: "uzefaniya"
+    name_toc: "UZefaniya"
+  "HAG":
+    name: "UHagayi"
+    slug: "uhagayi"
+    name_toc: "UHagayi"
+  "ZEC":
+    name: "UZakhariya"
+    slug: "uzakhariya"
+    name_toc: "UZakhariya"
+  "MAL":
+    name: "UMalaki"
+    slug: "umalaki"
+    name_toc: "UMalaki"
+  "MAT":
+    name: "UMatewu"
+    slug: "umatewu"
+    name_toc: "Ivangeli LikaMatewu"
+  "MRK":
+    name: "UMakho"
+    slug: "umakho"
+    name_toc: "Ivangeli LikaMakho"
+  "LUK":
+    name: "ULukha"
+    slug: "ulukha"
+    name_toc: "Ivangeli LikaLukha"
+  "JHN":
+    name: "UJohane"
+    slug: "ujohane"
+    name_toc: "Ivangeli LikaJohane"
+  "ACT":
+    name: "Imisebenzi"
+    slug: "imisebenzi"
+    name_toc: "Imisebenzi YabaPostoli"
+  "ROM":
+    name: "AbaseRoma"
+    slug: "abaseroma"
+    name_toc: "Incwadi KaPhawuli KwabaseRoma"
+  "1CO":
+    name: "1 AbaseKhorinte"
+    slug: "1-abasekhorinte"
+    name_toc: "Incwadi KaPhawuli Yakuqala KwabaseKhorinte"
+  "2CO":
+    name: "2 AbaseKhorinte"
+    slug: "2-abasekhorinte"
+    name_toc: "Incwadi KaPhawuli Yesibili KwabaseKhorinte"
+  "GAL":
+    name: "AbaseGalathiya"
+    slug: "abasegalathiya"
+    name_toc: "Incwadi KaPhawuli KwabaseGalathiya"
+  "EPH":
+    name: "Abase-Efesu"
+    slug: "abase-efesu"
+    name_toc: "Incwadi KaPhawuli Kwabase-Efesu"
+  "PHP":
+    name: "AbaseFiliphi"
+    slug: "abasefiliphi"
+    name_toc: "Incwadi KaPhawuli KwabaseFiliphi"
+  "COL":
+    name: "AbaseKholose"
+    slug: "abasekholose"
+    name_toc: "Incwadi KaPhawuli KwabaseKholose"
+  "1TH":
+    name: "1 AbaseThesalonika"
+    slug: "1-abasethesalonika"
+    name_toc: "Incwadi KaPhawuli Yakuqala KwabaseThesalonika"
+  "2TH":
+    name: "2 AbaseThesalonika"
+    slug: "2-abasethesalonika"
+    name_toc: "Incwadi KaPhawuli Yesibili KwabaseThesalonika"
+  "1TI":
+    name: "1 UThimothi"
+    slug: "1-uthimothi"
+    name_toc: "Incwadi KaPhawuli Yakuqala KuThimothi"
+  "2TI":
+    name: "2 UThimothi"
+    slug: "2-uthimothi"
+    name_toc: "Incwadi KaPhawuli Yesibili KuThimothi"
+  "TIT":
+    name: "UThithu"
+    slug: "uthithu"
+    name_toc: "Incwadi KaPhawuli KuThithu"
+  "PHM":
+    name: "UFilimoni"
+    slug: "ufilimoni"
+    name_toc: "Incwadi KaPhawuli KuFilimoni"
+  "HEB":
+    name: "AmaHebheru"
+    slug: "amahebheru"
+    name_toc: "Incwadi KumaHebheru"
+  "JAS":
+    name: "UJakhobe"
+    slug: "ujakhobe"
+    name_toc: "Incwadi KaJakhobe"
+  "1PE":
+    name: "1 UPhethro"
+    slug: "1-uphethro"
+    name_toc: "Incwadi Yakuqala KaPhethro"
+  "2PE":
+    name: "2 UPhethro"
+    slug: "2-uphethro"
+    name_toc: "Incwadi Yesibili KaPhethro"
+  "1JN":
+    name: "1 UJohane"
+    slug: "1-ujohane"
+    name_toc: "Incwadi Yakuqala KaJohane"
+  "2JN":
+    name: "2 UJohane"
+    slug: "2-ujohane"
+    name_toc: "Incwadi Yesibili KaJohane"
+  "3JN":
+    name: "3 UJohane"
+    slug: "3-ujohane"
+    name_toc: "Incwadi Yesithathu KaJohane"
+  "JUD":
+    name: "UJuda"
+    slug: "ujuda"
+    name_toc: "Incwadi KaJuda"
+  "REV":
+    name: "Isambulo"
+    slug: "isambulo"
+    name_toc: "Isambulo"

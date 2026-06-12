@@ -1,0 +1,8 @@
+language: "urw"
+books:
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "LUK":
+    name: "Luk"
+    slug: "luk"

@@ -1,0 +1,266 @@
+language: "swk"
+books:
+  "GEN":
+    name: "Kutoma"
+    slug: "kutoma"
+    name_toc: "Surati I Paulus Si Titus"
+  "EXO":
+    name: "Kubuluka"
+    slug: "kubuluka"
+    name_toc: "Surati I Paulus Si Filemon"
+  "LEV":
+    name: "Levitiko"
+    slug: "levitiko"
+    name_toc: "Surati Sarang Koa U Tau Ibrani"
+  "NUM":
+    name: "Kalembera"
+    slug: "kalembera"
+    name_toc: "Surati Yakobus"
+  "DEU":
+    name: "Deuteronomo"
+    slug: "deuteronomo"
+    name_toc: "Surati Petrus Ko Kahimotongange"
+  "JOS":
+    name: "Yoswa"
+    slug: "yoswa"
+    name_toc: "Surati I Petrus Karuange"
+  "JDG":
+    name: "Atongi"
+    slug: "atongi"
+    name_toc: "Surati Yohanes Ko Kahimotongange"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+    name_toc: "Surati Yohanes Ko Karuange"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Surati Yohanes Ko Katilunge"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Surati I Yudas"
+  "1KI":
+    name: "1 Mafumu"
+    slug: "1-mafumu"
+    name_toc: "Kal᷊al᷊ahe Sarang Koa I Yohanes"
+  "2KI":
+    name: "2 Mafumu"
+    slug: "2-mafumu"
+    name_toc: "Karariadi"
+  "1CH":
+    name: "1 Mbiri"
+    slug: "1-mbiri"
+    name_toc: "Sasuwang"
+  "2CH":
+    name: "2 Mbiri"
+    slug: "2-mbiri"
+    name_toc: "Imamat"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+    name_toc: "Rekenang"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Saukang"
+  "EST":
+    name: "Estere"
+    slug: "estere"
+    name_toc: "Yosua"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Mamamonesi"
+  "PSA":
+    name: "Masalimo"
+    slug: "masalimo"
+    name_toc: "Rut"
+  "PRO":
+    name: "Miyambi"
+    slug: "miyambi"
+    name_toc: "Samuel Kahimotongange"
+  "ECC":
+    name: "Nyakulalika"
+    slug: "nyakulalika"
+    name_toc: "Samuel Karuange"
+  "SNG":
+    name: "Nyimbo Za Solomoni"
+    slug: "nyimbo-za-solomoni"
+    name_toc: "Manga Ratu Kahimotongange"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Manga Ratu Karuange"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Tawarikh Kahimotongange"
+  "LAM":
+    name: "Chiliro"
+    slug: "chiliro"
+    name_toc: "Tawarikh Karuange"
+  "EZK":
+    name: "Ezekiele"
+    slug: "ezekiele"
+    name_toc: "Ezra"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Nehemia"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ester"
+  "JOL":
+    name: "Yowele"
+    slug: "yowele"
+    name_toc: "Ayub"
+  "AMO":
+    name: "Amose"
+    slug: "amose"
+    name_toc: "Mazmur"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Sasasa"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Munanasi"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Samperi Dadalo"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Yesaya"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Yeremia"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Sasangi"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Yehezkiel"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+    name_toc: "Daniel"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Hosea"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Yoël"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+    name_toc: "Amos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Obaja"
+  "JHN":
+    name: "Yohani"
+    slug: "yohani"
+    name_toc: "Yunus"
+  "ACT":
+    name: "Mabasa"
+    slug: "mabasa"
+    name_toc: "Mikha"
+  "ROM":
+    name: "Aroma"
+    slug: "aroma"
+    name_toc: "Nahum"
+  "1CO":
+    name: "1 Akorinto"
+    slug: "1-akorinto"
+    name_toc: "Habakuk"
+  "2CO":
+    name: "2 Akorinto"
+    slug: "2-akorinto"
+    name_toc: "Zefanya"
+  "GAL":
+    name: "Agalatia"
+    slug: "agalatia"
+    name_toc: "Hagai"
+  "EPH":
+    name: "Aefeso"
+    slug: "aefeso"
+    name_toc: "Zakharia"
+  "PHP":
+    name: "Afilipi"
+    slug: "afilipi"
+    name_toc: "Maleakhi"
+  "COL":
+    name: "Akolose"
+    slug: "akolose"
+    name_toc: "Habari Mapia Ko Niul᷊i I Matius"
+  "1TH":
+    name: "1 Atesalonika"
+    slug: "1-atesalonika"
+    name_toc: "Habari Mapia Ko Niul᷊i I MARKUS"
+  "2TH":
+    name: "2 Atesalonika"
+    slug: "2-atesalonika"
+    name_toc: "Habari Mapia Ko Niul᷊i I Lukas"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Habari Mapia ko Niul᷊i I Yohanes"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Wuke Ngu Manga Rasuli"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Surati I Paulus Sarang Jamaati Su Roma"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Surati Paulus Ko Kahimotongange Sarang Jamaati Su Korintus"
+  "HEB":
+    name: "Aheberi"
+    slug: "aheberi"
+    name_toc: "Surati Paulus Ko Karuange Sarang Jamaati Su Korintus"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Surati Paulus Sarang Manga Jamaati Su Galatia"
+  "1PE":
+    name: "1 Peturo"
+    slug: "1-peturo"
+    name_toc: "Surati Paulus Sarang Jamaati Su Efesus"
+  "2PE":
+    name: "2 Peturo"
+    slug: "2-peturo"
+    name_toc: "Surati Paulus Sarang Jamaati Su Filipi"
+  "1JN":
+    name: "1 Yohani"
+    slug: "1-yohani"
+    name_toc: "Surati Paulus Sarang Jamaati Su Kolose"
+  "2JN":
+    name: "2 Yohani"
+    slug: "2-yohani"
+    name_toc: "Surati Paulus ko Kahimotongange Sarang Jamaati Su Tesalonika"
+  "3JN":
+    name: "3 Yohani"
+    slug: "3-yohani"
+    name_toc: "Surati Paulus ko Karuange Sarang Jamaati Su Tesalonika"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Surati Paulus Ko Kahimotongange Si Timotius"
+  "REV":
+    name: "Chidziwiso"
+    slug: "chidziwiso"
+    name_toc: "Surati Paulus Ko Karuange Si Timotius"

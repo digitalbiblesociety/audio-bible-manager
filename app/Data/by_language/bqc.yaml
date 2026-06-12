@@ -1,0 +1,200 @@
+language: "bqc"
+books:
+  "GEN":
+    name: "Daalɛa"
+    slug: "daala"
+  "EXO":
+    name: "Bↄa"
+    slug: "ba"
+  "LEV":
+    name: "Levii buiↄ"
+    slug: "levii-bui"
+  "NUM":
+    name: "Naokɛa"
+    slug: "naoka"
+  "DEU":
+    name: "Ikoyã"
+    slug: "ikoya"
+  "JOS":
+    name: "Yozuee"
+    slug: "yozuee"
+  "JDG":
+    name: "Dↄaanaↄ"
+    slug: "daana"
+  "RUT":
+    name: "Lutu"
+    slug: "lutu"
+  "1SA":
+    name: "1 Samuɛli"
+    slug: "1-samuli"
+  "2SA":
+    name: "2 Samuɛli"
+    slug: "2-samuli"
+  "1KI":
+    name: "1 Kíaↄ"
+    slug: "1-kia"
+  "2KI":
+    name: "2 Kíaↄ"
+    slug: "2-kia"
+  "1CH":
+    name: "1 Lada"
+    slug: "1-lada"
+  "2CH":
+    name: "2 Lada"
+    slug: "2-lada"
+  "EZR":
+    name: "Ɛzala"
+    slug: "zala"
+  "NEH":
+    name: "Nɛɛmii"
+    slug: "nmii"
+  "EST":
+    name: "Ɛsitɛɛ"
+    slug: "sit"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+  "PSA":
+    name: "Soũↄ"
+    slug: "sou"
+  "PRO":
+    name: "Yáasiↄ"
+    slug: "yaasi"
+  "ECC":
+    name: "Làasoode"
+    slug: "laasoode"
+  "SNG":
+    name: "Salomↄↄ lɛ"
+    slug: "salom-l"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Zelemii"
+    slug: "zelemii"
+  "LAM":
+    name: "Wɛ̃nalɛ"
+    slug: "wnal"
+  "EZK":
+    name: "Ezekiɛli"
+    slug: "ezekili"
+  "DAN":
+    name: "Daniɛli"
+    slug: "danili"
+  "HOS":
+    name: "Ozee"
+    slug: "ozee"
+  "JOL":
+    name: "Yoɛli"
+    slug: "yoli"
+  "AMO":
+    name: "Amↄsi"
+    slug: "amsi"
+  "OBA":
+    name: "Abadia"
+    slug: "abadia"
+  "JON":
+    name: "Yonasi"
+    slug: "yonasi"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nauũ"
+    slug: "nauu"
+  "HAB":
+    name: "Abaku"
+    slug: "abaku"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Age"
+    slug: "age"
+  "ZEC":
+    name: "Zakali"
+    slug: "zakali"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matiee"
+    slug: "matiee"
+  "MRK":
+    name: "Maaku"
+    slug: "maaku"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Zãa"
+    slug: "zaa"
+  "ACT":
+    name: "Zĩnaↄ yãkɛaↄ"
+    slug: "zina-yaka"
+  "ROM":
+    name: "Lomadeↄ"
+    slug: "lomade"
+  "1CO":
+    name: "1 Kↄlɛnideↄ"
+    slug: "1-klnide"
+  "2CO":
+    name: "2 Kↄlɛnideↄ"
+    slug: "2-klnide"
+  "GAL":
+    name: "Galatiↄ"
+    slug: "galati"
+  "EPH":
+    name: "Ɛfɛsɛdeↄ"
+    slug: "fsde"
+  "PHP":
+    name: "Filipideↄ"
+    slug: "filipide"
+  "COL":
+    name: "Kↄlↄsideↄ"
+    slug: "klside"
+  "1TH":
+    name: "1 Tɛsalonideↄ"
+    slug: "1-tsalonide"
+  "2TH":
+    name: "2 Tɛsalonideↄ"
+    slug: "2-tsalonide"
+  "1TI":
+    name: "1 Timↄtee"
+    slug: "1-timtee"
+  "2TI":
+    name: "2 Timↄtee"
+    slug: "2-timtee"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemↄↄ"
+    slug: "filem"
+  "HEB":
+    name: "Ɛbɛluↄ"
+    slug: "blu"
+  "JAS":
+    name: "Zaaki"
+    slug: "zaaki"
+  "1PE":
+    name: "1 Piɛɛ"
+    slug: "1-pi"
+  "2PE":
+    name: "2 Piɛɛ"
+    slug: "2-pi"
+  "1JN":
+    name: "1 Zãa"
+    slug: "1-zaa"
+  "2JN":
+    name: "2 Zãa"
+    slug: "2-zaa"
+  "3JN":
+    name: "3 Zãa"
+    slug: "3-zaa"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Zia yã́"
+    slug: "zia-ya"

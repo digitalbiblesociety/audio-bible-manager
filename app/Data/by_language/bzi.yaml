@@ -1,0 +1,83 @@
+language: "bzi"
+books:
+  "MAT":
+    name: "มัทธิว"
+    slug: "maththiw"
+  "MRK":
+    name: "มาระโก"
+    slug: "marako"
+  "LUK":
+    name: "ลูกา"
+    slug: "luka"
+  "JHN":
+    name: "ยอห์น"
+    slug: "yn"
+  "ACT":
+    name: "กิจการ"
+    slug: "kichkar"
+  "ROM":
+    name: "โรม"
+    slug: "rom"
+  "1CO":
+    name: "1 โครินธ์"
+    slug: "1-khorin"
+  "2CO":
+    name: "2 โครินธ์"
+    slug: "2-khorin"
+  "GAL":
+    name: "กาลาเทีย"
+    slug: "kalatheiy"
+  "EPH":
+    name: "เอเฟซัส"
+    slug: "efesas"
+  "PHP":
+    name: "ฟิลิปปี"
+    slug: "filippi"
+  "COL":
+    name: "โคโลสี"
+    slug: "kholosi"
+  "1TH":
+    name: "1 เธสะโลนิกา"
+    slug: "1-thesalonika"
+  "2TH":
+    name: "2 เธสะโลนิกา"
+    slug: "2-thesalonika"
+  "1TI":
+    name: "1 ทิโมธี"
+    slug: "1-thimothi"
+  "2TI":
+    name: "2 ทิโมธี"
+    slug: "2-thimothi"
+  "TIT":
+    name: "ทิตัส"
+    slug: "thitas"
+  "PHM":
+    name: "ฟีเลโมน"
+    slug: "filemon"
+  "HEB":
+    name: "ฮีบรู"
+    slug: "hibru"
+  "JAS":
+    name: "ยากอบ"
+    slug: "yakb"
+  "1PE":
+    name: "1 เปโตร"
+    slug: "1-petor"
+  "2PE":
+    name: "2 เปโตร"
+    slug: "2-petor"
+  "1JN":
+    name: "1 ยอห์น"
+    slug: "1-yn"
+  "2JN":
+    name: "2 ยอห์น"
+    slug: "2-yn"
+  "3JN":
+    name: "3 ยอห์น"
+    slug: "3-yn"
+  "JUD":
+    name: "ยูดา"
+    slug: "yuda"
+  "REV":
+    name: "วิวรณ์"
+    slug: "wiwr"

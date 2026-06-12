@@ -1,0 +1,200 @@
+language: "tgk"
+books:
+  "GEN":
+    name: "Ҳастӣ"
+    slug: "ast"
+  "EXO":
+    name: "Хуруҷ"
+    slug: "huru"
+  "LEV":
+    name: "Ибодат"
+    slug: "ibodat"
+  "NUM":
+    name: "Ададҳо"
+    slug: "adado"
+  "DEU":
+    name: "Такрори Шариат"
+    slug: "takrori-sariat"
+  "JOS":
+    name: "Еҳушаъ"
+    slug: "eusa"
+  "JDG":
+    name: "Доварон"
+    slug: "dovaron"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1 Подшоҳон"
+    slug: "1-podsoon"
+  "2SA":
+    name: "2 Подшоҳон"
+    slug: "2-podsoon"
+  "1KI":
+    name: "3 Подшоҳон"
+    slug: "3-podsoon"
+  "2KI":
+    name: "4 Подшоҳон"
+    slug: "4-podsoon"
+  "1CH":
+    name: "1 Вақоеънома"
+    slug: "1-vakoenoma"
+  "2CH":
+    name: "2 Вақоеънома"
+    slug: "2-vakoenoma"
+  "EZR":
+    name: "Эзро"
+    slug: "ezro"
+  "NEH":
+    name: "Наҳемьё"
+    slug: "naeme"
+  "EST":
+    name: "Эстер"
+    slug: "ester"
+  "JOB":
+    name: "Айюб"
+    slug: "ajub"
+  "PSA":
+    name: "Забур"
+    slug: "zabur"
+  "PRO":
+    name: "Масалҳо"
+    slug: "masalo"
+  "ECC":
+    name: "Воиз"
+    slug: "voiz"
+  "SNG":
+    name: "Суруди Сурудҳо"
+    slug: "surudi-surudo"
+  "ISA":
+    name: "Ишаъё"
+    slug: "isae"
+  "JER":
+    name: "Ирмиё"
+    slug: "irmie"
+  "LAM":
+    name: "Навҳаҳои Ирмиё"
+    slug: "navaoi-irmie"
+  "EZK":
+    name: "Ҳизқиёл"
+    slug: "izkiel"
+  "DAN":
+    name: "Дониёл"
+    slug: "doniel"
+  "HOS":
+    name: "Ҳушаъ"
+    slug: "usa"
+  "JOL":
+    name: "Юил"
+    slug: "uil"
+  "AMO":
+    name: "Омӯс"
+    slug: "oms"
+  "OBA":
+    name: "Убадьё"
+    slug: "ubade"
+  "JON":
+    name: "Юнус"
+    slug: "unus"
+  "MIC":
+    name: "Мико"
+    slug: "miko"
+  "NAM":
+    name: "Наҳум"
+    slug: "naum"
+  "HAB":
+    name: "Ҳабаққуқ"
+    slug: "abakkuk"
+  "ZEP":
+    name: "Сафаньё"
+    slug: "safane"
+  "HAG":
+    name: "Ҳаҷҷай"
+    slug: "aaj"
+  "ZEC":
+    name: "Закарьё"
+    slug: "zakare"
+  "MAL":
+    name: "Малокӣ"
+    slug: "malok"
+  "MAT":
+    name: "Матто"
+    slug: "matto"
+  "MRK":
+    name: "Марқӯс"
+    slug: "marks"
+  "LUK":
+    name: "Луқо"
+    slug: "luko"
+  "JHN":
+    name: "Юҳанно"
+    slug: "uanno"
+  "ACT":
+    name: "Аъмол"
+    slug: "amol"
+  "ROM":
+    name: "Ба Румиён"
+    slug: "ba-rumien"
+  "1CO":
+    name: "1 Ба Қӯринтиён"
+    slug: "1-ba-krintien"
+  "2CO":
+    name: "2 Ба Қӯринтиён"
+    slug: "2-ba-krintien"
+  "GAL":
+    name: "Ба Ғалотиён"
+    slug: "ba-galotien"
+  "EPH":
+    name: "Ба Эфсӯсиён"
+    slug: "ba-efssien"
+  "PHP":
+    name: "Ба Филиппиён"
+    slug: "ba-filippien"
+  "COL":
+    name: "Ба Қӯлассиён"
+    slug: "ba-klassien"
+  "1TH":
+    name: "1 Ба Таслӯникиён"
+    slug: "1-ba-taslnikien"
+  "2TH":
+    name: "2 Ба Таслӯникиён"
+    slug: "2-ba-taslnikien"
+  "1TI":
+    name: "1 Ба Тимотиюс"
+    slug: "1-ba-timotius"
+  "2TI":
+    name: "2 Ба Тимотиюс"
+    slug: "2-ba-timotius"
+  "TIT":
+    name: "Ба Титус"
+    slug: "ba-titus"
+  "PHM":
+    name: "Ба Филемӯн"
+    slug: "ba-filemn"
+  "HEB":
+    name: "Ба Ибриён"
+    slug: "ba-ibrien"
+  "JAS":
+    name: "Яъқуб"
+    slug: "akub"
+  "1PE":
+    name: "1 Петрус"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Петрус"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Юҳанно"
+    slug: "1-uanno"
+  "2JN":
+    name: "2 Юҳанно"
+    slug: "2-uanno"
+  "3JN":
+    name: "3 Юҳанно"
+    slug: "3-uanno"
+  "JUD":
+    name: "Яҳудо"
+    slug: "audo"
+  "REV":
+    name: "Ваҳй"
+    slug: "vaj"

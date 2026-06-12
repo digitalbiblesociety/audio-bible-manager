@@ -1,0 +1,83 @@
+language: "lag"
+books:
+  "MAT":
+    name: "Matáayo"
+    slug: "mataayo"
+  "MRK":
+    name: "Maáriki"
+    slug: "maariki"
+  "LUK":
+    name: "Lʉ́ka"
+    slug: "lka"
+  "JHN":
+    name: "Yooháani"
+    slug: "yoohaani"
+  "ACT":
+    name: "Mɨrɨmo ya Vatumwi"
+    slug: "mrmo-ya-vatumwi"
+  "ROM":
+    name: "Varúumi"
+    slug: "varuumi"
+  "1CO":
+    name: "1 Vakoríinto"
+    slug: "1-vakoriinto"
+  "2CO":
+    name: "2 Vakoríinto"
+    slug: "2-vakoriinto"
+  "GAL":
+    name: "Vagalatía"
+    slug: "vagalatia"
+  "EPH":
+    name: "Vaeféeso"
+    slug: "vaefeeso"
+  "PHP":
+    name: "Vafilíipi"
+    slug: "vafiliipi"
+  "COL":
+    name: "Vakolosáai"
+    slug: "vakolosaai"
+  "1TH":
+    name: "1 Vatesaloníike"
+    slug: "1-vatesaloniike"
+  "2TH":
+    name: "2 Vatesaloníike"
+    slug: "2-vatesaloniike"
+  "1TI":
+    name: "1 Timotéeo"
+    slug: "1-timoteeo"
+  "2TI":
+    name: "2 Timotéeo"
+    slug: "2-timoteeo"
+  "TIT":
+    name: "Tíito"
+    slug: "tiito"
+  "PHM":
+    name: "Filemóoni"
+    slug: "filemooni"
+  "HEB":
+    name: "Vaeburanía"
+    slug: "vaeburania"
+  "JAS":
+    name: "Yaakúupu"
+    slug: "yaakuupu"
+  "1PE":
+    name: "1 Peéteri"
+    slug: "1-peeteri"
+  "2PE":
+    name: "2 Peéteri"
+    slug: "2-peeteri"
+  "1JN":
+    name: "1 Yooháani"
+    slug: "1-yoohaani"
+  "2JN":
+    name: "2 Yooháani"
+    slug: "2-yoohaani"
+  "3JN":
+    name: "3 Yooháani"
+    slug: "3-yoohaani"
+  "JUD":
+    name: "Yʉ́ʉda"
+    slug: "yda"
+  "REV":
+    name: "Wiivariyuli"
+    slug: "wiivariyuli"

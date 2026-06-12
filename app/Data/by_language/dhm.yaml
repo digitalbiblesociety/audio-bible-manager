@@ -1,0 +1,83 @@
+language: "dhm"
+books:
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Ovilinga"
+    slug: "ovilinga"
+  "ROM":
+    name: "Ovaroma"
+    slug: "ovaroma"
+  "1CO":
+    name: "1 Ovakorinto"
+    slug: "1-ovakorinto"
+  "2CO":
+    name: "2 Ovakorinto"
+    slug: "2-ovakorinto"
+  "GAL":
+    name: "Ovagalati"
+    slug: "ovagalati"
+  "EPH":
+    name: "Ovaefeso"
+    slug: "ovaefeso"
+  "PHP":
+    name: "Ovafilippi"
+    slug: "ovafilippi"
+  "COL":
+    name: "Ovakolossa"
+    slug: "ovakolossa"
+  "1TH":
+    name: "1 Ovatessalonika"
+    slug: "1-ovatessalonika"
+  "2TH":
+    name: "2 Ovatessalonika"
+    slug: "2-ovatessalonika"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ovaheberi"
+    slug: "ovaheberi"
+  "JAS":
+    name: "Jakob"
+    slug: "jakob"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2 Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3 Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Eholololo"
+    slug: "eholololo"

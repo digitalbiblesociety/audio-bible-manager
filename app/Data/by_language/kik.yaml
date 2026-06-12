@@ -1,0 +1,200 @@
+language: "kik"
+books:
+  "GEN":
+    name: "Kĩambĩrĩria"
+    slug: "kiambiriria"
+  "EXO":
+    name: "Thaama"
+    slug: "thaama"
+  "LEV":
+    name: "Alawii"
+    slug: "alawii"
+  "NUM":
+    name: "Ndari"
+    slug: "ndari"
+  "DEU":
+    name: "Gũcookerithia"
+    slug: "gucookerithia"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Atiirĩrĩri"
+    slug: "atiiririri"
+  "RUT":
+    name: "Ruthu"
+    slug: "ruthu"
+  "1SA":
+    name: "1 Samũeli"
+    slug: "1-samueli"
+  "2SA":
+    name: "2 Samũeli"
+    slug: "2-samueli"
+  "1KI":
+    name: "1 Athamaki"
+    slug: "1-athamaki"
+  "2KI":
+    name: "2 Athamaki"
+    slug: "2-athamaki"
+  "1CH":
+    name: "1 Maũndũ Ma Matukũ Ma Tene"
+    slug: "1-maundu-ma-matuku-ma-tene"
+  "2CH":
+    name: "2 Maũndũ ma Matukũ ma Tene"
+    slug: "2-maundu-ma-matuku-ma-tene"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+  "PSA":
+    name: "Thaburi"
+    slug: "thaburi"
+  "PRO":
+    name: "Thimo"
+    slug: "thimo"
+  "ECC":
+    name: "Kohelethu"
+    slug: "kohelethu"
+  "SNG":
+    name: "Rwĩmbo"
+    slug: "rwimbo"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Macakaya"
+    slug: "macakaya"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mathayo"
+    slug: "mathayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johana"
+    slug: "johana"
+  "ACT":
+    name: "Atũmwo"
+    slug: "atumwo"
+  "ROM":
+    name: "Aroma"
+    slug: "aroma"
+  "1CO":
+    name: "1 Akorinitho"
+    slug: "1-akorinitho"
+  "2CO":
+    name: "2 Akorinitho"
+    slug: "2-akorinitho"
+  "GAL":
+    name: "Agalatia"
+    slug: "agalatia"
+  "EPH":
+    name: "Aefeso"
+    slug: "aefeso"
+  "PHP":
+    name: "Afilipi"
+    slug: "afilipi"
+  "COL":
+    name: "Akolosai"
+    slug: "akolosai"
+  "1TH":
+    name: "1 Athesalonike"
+    slug: "1-athesalonike"
+  "2TH":
+    name: "2 Athesalonike"
+    slug: "2-athesalonike"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+  "HEB":
+    name: "Ahibirania"
+    slug: "ahibirania"
+  "JAS":
+    name: "Jakubu"
+    slug: "jakubu"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Johana"
+    slug: "1-johana"
+  "2JN":
+    name: "2 Johana"
+    slug: "2-johana"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+  "JUD":
+    name: "Judasi"
+    slug: "judasi"
+  "REV":
+    name: "Kũguũrĩrio"
+    slug: "kuguuririo"

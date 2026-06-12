@@ -1,0 +1,83 @@
+language: "ayp"
+books:
+  "MAT":
+    name: "متّى"
+    slug: "mty"
+  "MRK":
+    name: "مرقس"
+    slug: "mrqs"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+  "JHN":
+    name: "يوحنّا"
+    slug: "ywhna"
+  "ACT":
+    name: "أعمال الرّسل"
+    slug: "aamal-alrsl"
+  "ROM":
+    name: "مكتوب بولس لروُما"
+    slug: "mktwb-bwls-lrwma"
+  "1CO":
+    name: "1 كوُرنثوُس"
+    slug: "1-kwrnthws"
+  "2CO":
+    name: "2 كوُرنْثوُس"
+    slug: "2-kwrnthws"
+  "GAL":
+    name: "غلاطيا"
+    slug: "ghlatya"
+  "EPH":
+    name: "إفسوُس"
+    slug: "afsws"
+  "PHP":
+    name: "فيليبي"
+    slug: "felipe"
+  "COL":
+    name: "كوُلوُسي"
+    slug: "kwlwsy"
+  "1TH":
+    name: "1 تسالوُنيكي"
+    slug: "1-tsalwnyky"
+  "2TH":
+    name: "2 تسالوُنيكي"
+    slug: "2-tsalwnyky"
+  "1TI":
+    name: "1 تيموُثاوُس"
+    slug: "1-tymwthaws"
+  "2TI":
+    name: "2 تيموُثاوُس"
+    slug: "2-tymwthaws"
+  "TIT":
+    name: "تيطس"
+    slug: "tyts"
+  "PHM":
+    name: "فيلمون"
+    slug: "philimon"
+  "HEB":
+    name: "عبرانيين"
+    slug: "abraniyn"
+  "JAS":
+    name: "يعقوب"
+    slug: "yaqob"
+  "1PE":
+    name: "1 بطرس"
+    slug: "1-btrs"
+  "2PE":
+    name: "2 بطرس"
+    slug: "2-btrs"
+  "1JN":
+    name: "1 يوحنّا"
+    slug: "1-ywhna"
+  "2JN":
+    name: "2 يوحنّا"
+    slug: "2-ywhna"
+  "3JN":
+    name: "3 يوحنّا"
+    slug: "3-ywhna"
+  "JUD":
+    name: "يهوذا"
+    slug: "yhwdha"
+  "REV":
+    name: "رؤيا"
+    slug: "ruya"

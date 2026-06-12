@@ -1,0 +1,83 @@
+language: "gna"
+books:
+  "MAT":
+    name: "Matíyé"
+    slug: "matiye"
+  "MRK":
+    name: "Márkɩ"
+    slug: "mark"
+  "LUK":
+    name: "Lúki"
+    slug: "luki"
+  "JHN":
+    name: "Jã́"
+    slug: "ja"
+  "ACT":
+    name: "Mɩ́déenɲe"
+    slug: "mdeene"
+  "ROM":
+    name: "Ɔrɔ́mɩbɔ"
+    slug: "rmb"
+  "1CO":
+    name: "1 Kóorɛ́ntɩbɛ"
+    slug: "1-koorntb"
+  "2CO":
+    name: "2 Kóorɛ́ntɩbɛ"
+    slug: "2-koorntb"
+  "GAL":
+    name: "Gálásíbe"
+    slug: "galasibe"
+  "EPH":
+    name: "Éfɛ́zɩbɛ"
+    slug: "efzb"
+  "PHP":
+    name: "Filípibe"
+    slug: "filipibe"
+  "COL":
+    name: "Kɔ́lɔ́sɩbɔ"
+    slug: "klsb"
+  "1TH":
+    name: "1 Tésálóníkibe"
+    slug: "1-tesalonikibe"
+  "2TH":
+    name: "2 Tésálóníkibe"
+    slug: "2-tesalonikibe"
+  "1TI":
+    name: "1 Tímóté"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Tímóté"
+    slug: "2-timote"
+  "TIT":
+    name: "Títi"
+    slug: "titi"
+  "PHM":
+    name: "Fílémɔ́"
+    slug: "filem"
+  "HEB":
+    name: "Eburubo"
+    slug: "eburubo"
+  "JAS":
+    name: "Jákɩ"
+    slug: "jak"
+  "1PE":
+    name: "1 Pɛ́ɛrɩ"
+    slug: "1-pr"
+  "2PE":
+    name: "2 Pɛ́ɛrɩ"
+    slug: "2-pr"
+  "1JN":
+    name: "1 Jã́"
+    slug: "1-ja"
+  "2JN":
+    name: "2 Jã́"
+    slug: "2-ja"
+  "3JN":
+    name: "3 Jã́"
+    slug: "3-ja"
+  "JUD":
+    name: "Júdi"
+    slug: "judi"
+  "REV":
+    name: "Bʋka'ma"
+    slug: "bkama"

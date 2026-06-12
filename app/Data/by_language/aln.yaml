@@ -1,0 +1,83 @@
+language: "aln"
+books:
+  "MAT":
+    name: "Mattheo"
+    slug: "mattheo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Lluka"
+    slug: "lluka"
+  "JHN":
+    name: "Ioanni"
+    slug: "ioanni"
+  "ACT":
+    name: "Bëratë"
+    slug: "berate"
+  "ROM":
+    name: "Romanë"
+    slug: "romane"
+  "1CO":
+    name: "1 Korinthi"
+    slug: "1-korinthi"
+  "2CO":
+    name: "2 Korinthi"
+    slug: "2-korinthi"
+  "GAL":
+    name: "Gallatë"
+    slug: "gallate"
+  "EPH":
+    name: "Efesio"
+    slug: "efesio"
+  "PHP":
+    name: "Filippiot"
+    slug: "filippiot"
+  "COL":
+    name: "Kollosait"
+    slug: "kollosait"
+  "1TH":
+    name: "1 Seleniqiot"
+    slug: "1-seleniqiot"
+  "2TH":
+    name: "2 Seleniqiot"
+    slug: "2-seleniqiot"
+  "1TI":
+    name: "1 Timothe"
+    slug: "1-timothe"
+  "2TI":
+    name: "2 Timothe"
+    slug: "2-timothe"
+  "TIT":
+    name: "Titonë"
+    slug: "titone"
+  "PHM":
+    name: "Filimonë"
+    slug: "filimone"
+  "HEB":
+    name: "Çifut"
+    slug: "cifut"
+  "JAS":
+    name: "Iakovit"
+    slug: "iakovit"
+  "1PE":
+    name: "1 Petrosë"
+    slug: "1-petrose"
+  "2PE":
+    name: "2 Petrosë"
+    slug: "2-petrose"
+  "1JN":
+    name: "1 Ioannit"
+    slug: "1-ioannit"
+  "2JN":
+    name: "2 Ioannit"
+    slug: "2-ioannit"
+  "3JN":
+    name: "3 Ioannit"
+    slug: "3-ioannit"
+  "JUD":
+    name: "Iudhësë"
+    slug: "iudhese"
+  "REV":
+    name: "Apolalipsi"
+    slug: "apolalipsi"

@@ -1,0 +1,62 @@
+language: "msc"
+books:
+  "GEN":
+    name: "A Damira"
+    slug: "a-damira"
+  "EXO":
+    name: "Hɔr"
+    slug: "hr"
+  "JOS":
+    name: "Yos"
+    slug: "yos"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Yun"
+    slug: "yun"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuh"
+    slug: "yuh"
+  "ACT":
+    name: "Kew"
+    slug: "kew"
+  "GAL":
+    name: "Kalatikailu"
+    slug: "kalatikailu"
+  "EPH":
+    name: "Efe"
+    slug: "efe"
+  "PHP":
+    name: "Fil"
+    slug: "fil"
+  "COL":
+    name: "Kɔl"
+    slug: "kl"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1Pi"
+    slug: "1pi"
+  "2PE":
+    name: "2Pi"
+    slug: "2pi"
+  "1JN":
+    name: "1Yu"
+    slug: "1yu"
+  "2JN":
+    name: "2Yu"
+    slug: "2yu"
+  "3JN":
+    name: "3Yu"
+    slug: "3yu"
+  "JUD":
+    name: "Jud"
+    slug: "jud"

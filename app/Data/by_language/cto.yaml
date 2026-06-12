@@ -1,0 +1,20 @@
+language: "cto"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"

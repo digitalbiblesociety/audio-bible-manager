@@ -1,0 +1,5 @@
+language: "bea"
+books:
+  "MRK":
+    name: "St. Mark"
+    slug: "st-mark"

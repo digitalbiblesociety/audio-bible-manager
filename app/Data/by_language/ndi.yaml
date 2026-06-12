@@ -1,0 +1,110 @@
+language: "ndi"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+    name_toc: "Nwɔŋ Puu Sɔ̀ɔ̀nkè aa Mata bád doó"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Nwɔŋ Puu Sɔ̀ɔ̀nkè aa Markus bád doó"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Nwɔŋ Puu Sɔ̀ɔ̀nkè aa Luka bád doó"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Nwɔŋ Puu Sɔ̀ɔ̀nkè aa Yohana bád Yéésù yílú roó"
+  "ACT":
+    name: "Gbantumsə̀ bəd Tùsá"
+    slug: "gbantumse-bed-tusa"
+    name_toc: "Gbantumsə̀ bəd Tùsá"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Núúboòraa Pol bád pii nɛ́b bagké bəraa Roma bìlə́ roó"
+  "1CO":
+    name: "1 Korintu"
+    slug: "1-korintu"
+    name_toc: "Núúboòd éèn də̀gə̀ də̀gə̀ bə̀ aa Pol bád pii nɛ́b bagké bəraa Korintu bìlə́ roó"
+  "2CO":
+    name: "2 Korintu"
+    slug: "2-korintu"
+    name_toc: "Núúboòd iirúb aa Pol bád pii nɛ́b bagké bəraa Korintu bìlə́ roó"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "Núúboòraa Pol bád pii nɛ́b bagké bəraa Galatiya yɛ́b bəroó"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Núúboòraa Pol bád pii nɛ́b bagké bəraa Efesus bìlə́ roó"
+  "PHP":
+    name: "Filipiya"
+    slug: "filipiya"
+    name_toc: "Núúboòraa Pol bád pii nɛ́b bagké bəraa Filipiya bìlə́ roó"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+    name_toc: "Núúboòraa Pol bád pii nɛ́b bagké bəraa Kolosia bìlə́ roó"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Núúboòd éèn də̀gə̀ də̀gə̀ bə̀ aa Pol bád pii nɛ́b bagké bəraa Tesalonika bìlə́ roó"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Núúboòd iirúb aa Pol bád pii nɛ́b bagké bəraa Tesalonika bìlə́ roó"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Núúboòd éèn də̀gə̀ də̀gə̀ bə̀ aa Pol bád pii Timote roó"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Núúboòd iirúb aa Pol bád pii Timote roó"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Núúboòraa Pol bád pii Titus doó"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Núúboòraa Pol bád pii Filemon doó"
+  "HEB":
+    name: "Ibraniŋko bəraa"
+    slug: "ibraniko-beraa"
+    name_toc: "Núúboòraa bád bə̀ pii Ibraniŋko bəraa bə̀ bíl nɛ́b bagké bəd doó"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+    name_toc: "Núúboòraa Yakuba bád pii nɛ́b bagké bəd doó"
+  "1PE":
+    name: "1 Piyɛr"
+    slug: "1-piyr"
+    name_toc: "Núúboòd éèn də̀gə̀ də̀gə̀ bə̀ aa Piyɛr bád pii nɛ́b bagké bəd doó"
+  "2PE":
+    name: "2 Piyɛr"
+    slug: "2-piyr"
+    name_toc: "Núúboòd iirúb aa Piyɛr bád pii nɛ́b bagké bəd doó"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Núúboòd éèn də̀gə̀ də̀gə̀ bə̀ aa Yohana bád pii nɛ́b bagké bəd doó"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Núúboòd iirúb aa Yohana bád pii nɛ́b bagké bəd doó"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Núúboòd toorúb aa Yohana bád pii nɛ́b bagké bəd doó"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Núúboòraa Yuda bád doó"
+  "REV":
+    name: "Kedké Yohana Núù bìá"
+    slug: "kedke-yohana-nuu-bia"
+    name_toc: "Kedké Yohana Núù bìá"

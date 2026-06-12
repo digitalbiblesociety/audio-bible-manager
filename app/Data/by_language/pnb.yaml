@@ -1,0 +1,200 @@
+language: "pnb"
+books:
+  "GEN":
+    name: "ਉਤਪਤ"
+    slug: "utapata"
+  "EXO":
+    name: "ਕੂਚ"
+    slug: "kuca"
+  "LEV":
+    name: "ਲੇਵੀਆਂ ਦੀ ਪੋਥੀ"
+    slug: "leviam-di-pothi"
+  "NUM":
+    name: "ਗਿਣਤੀ"
+    slug: "ginati"
+  "DEU":
+    name: "ਬਿਵਸਥਾ ਸਾਰ"
+    slug: "bivasatha-sara"
+  "JOS":
+    name: "ਯਹੋਸ਼ੁਆ"
+    slug: "yahosaa"
+  "JDG":
+    name: "ਨਿਆਂਈਆਂ ਦੀ ਪੋਥੀ"
+    slug: "niamiam-di-pothi"
+  "RUT":
+    name: "ਰੂਥ"
+    slug: "rutha"
+  "1SA":
+    name: "1 ਸਮੂਏਲ"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 ਸਮੂਏਲ"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 ਰਾਜਿਆਂ"
+    slug: "1-rajiam"
+  "2KI":
+    name: "2 ਰਾਜਿਆਂ"
+    slug: "2-rajiam"
+  "1CH":
+    name: "1 ਇਤਿਹਾਸ"
+    slug: "1-itihasa"
+  "2CH":
+    name: "2 ਇਤਿਹਾਸ"
+    slug: "2-itihasa"
+  "EZR":
+    name: "ਅਜ਼ਰਾ"
+    slug: "ajara"
+  "NEH":
+    name: "ਨਹਮਯਾਹ"
+    slug: "nahamayaha"
+  "EST":
+    name: "ਅਸਤਰ"
+    slug: "asatara"
+  "JOB":
+    name: "ਅੱਯੂਬ"
+    slug: "ayuba"
+  "PSA":
+    name: "ਜ਼ਬੂਰ"
+    slug: "jabura"
+  "PRO":
+    name: "ਕਹਾਉਤਾਂ"
+    slug: "kahautam"
+  "ECC":
+    name: "ਉਪਦੇਸ਼ਕ"
+    slug: "upadesaka"
+  "SNG":
+    name: "ਸੁਲੇਮਾਨ ਦਾ ਗੀਤ"
+    slug: "sulemana-da-gita"
+  "ISA":
+    name: "ਯਸਾਯਾਹ"
+    slug: "yasayaha"
+  "JER":
+    name: "ਯਿਰਮਿਯਾਹ"
+    slug: "yiramiyaha"
+  "LAM":
+    name: "ਯਿਰਮਿਯਾਹ ਦਾ ਵਿਰਲਾਪ"
+    slug: "yiramiyaha-da-viralapa"
+  "EZK":
+    name: "ਹਿਜ਼ਕੀਏਲ"
+    slug: "hijakiela"
+  "DAN":
+    name: "ਦਾਨੀਏਲ"
+    slug: "daniela"
+  "HOS":
+    name: "ਹੋਸ਼ੇਆ"
+    slug: "hosaa"
+  "JOL":
+    name: "ਯੋਏਲ"
+    slug: "yoela"
+  "AMO":
+    name: "ਆਮੋਸ"
+    slug: "amosa"
+  "OBA":
+    name: "ਓਬਦਯਾਹ"
+    slug: "obadayaha"
+  "JON":
+    name: "ਯੂਨਾਹ"
+    slug: "yunaha"
+  "MIC":
+    name: "ਮੀਕਾਹ"
+    slug: "mikaha"
+  "NAM":
+    name: "ਨਹੂਮ"
+    slug: "nahuma"
+  "HAB":
+    name: "ਹਬੱਕੂਕ"
+    slug: "habakuka"
+  "ZEP":
+    name: "ਸਫ਼ਨਯਾਹ"
+    slug: "saphanayaha"
+  "HAG":
+    name: "ਹੱਜਈ"
+    slug: "hajai"
+  "ZEC":
+    name: "ਜ਼ਕਰਯਾਹ"
+    slug: "jakarayaha"
+  "MAL":
+    name: "ਮਲਾਕੀ"
+    slug: "malaki"
+  "MAT":
+    name: "ਮੱਤੀ ਦੀ ਇੰਜੀਲ"
+    slug: "mati-di-imjila"
+  "MRK":
+    name: "ਮਰਕੁਸ ਦੀ ਇੰਜੀਲ"
+    slug: "marakusa-di-imjila"
+  "LUK":
+    name: "ਲੂਕਾ ਦੀ ਇੰਜੀਲ"
+    slug: "luka-di-imjila"
+  "JHN":
+    name: "ਯੂਹੰਨਾ ਦੀ ਇੰਜੀਲ"
+    slug: "yuhamna-di-imjila"
+  "ACT":
+    name: "ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ"
+    slug: "rasulam-de-karataba"
+  "ROM":
+    name: "ਰੋਮੀਆਂ ਨੂੰ"
+    slug: "romiam-num"
+  "1CO":
+    name: "ਕੁਰਿੰਥੀਆਂ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ"
+    slug: "kurimthiam-num-pahili-patri"
+  "2CO":
+    name: "ਕੁਰਿੰਥੀਆਂ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ"
+    slug: "kurimthiam-num-duji-patri"
+  "GAL":
+    name: "ਗਲਾਤਿਯਾ ਨੂੰ"
+    slug: "galatiya-num"
+  "EPH":
+    name: "ਅਫ਼ਸੀਆਂ ਨੂੰ"
+    slug: "aphasiam-num"
+  "PHP":
+    name: "ਫਿਲਿੱਪੀਆਂ ਨੂੰ"
+    slug: "philipiam-num"
+  "COL":
+    name: "ਕੁਲੁੱਸੀਆਂ ਨੂੰ"
+    slug: "kulusiam-num"
+  "1TH":
+    name: "ਥੱਸਲੁਨੀਕੀਆ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ"
+    slug: "thasalunikia-num-pahili-patri"
+  "2TH":
+    name: "ਥੱਸਲੁਨੀਕੀਆ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ"
+    slug: "thasalunikia-num-duji-patri"
+  "1TI":
+    name: "ਤਿਮੋਥਿਉਸ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ"
+    slug: "timothiusa-num-pahili-patri"
+  "2TI":
+    name: "ਤਿਮੋਥਿਉਸ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ"
+    slug: "timothiusa-num-duji-patri"
+  "TIT":
+    name: "ਤੀਤੁਸ ਨੂੰ"
+    slug: "titusa-num"
+  "PHM":
+    name: "ਫਿਲੇਮੋਨ ਨੂੰ"
+    slug: "philemona-num"
+  "HEB":
+    name: "ਇਬਰਾਨੀਆਂ ਨੂੰ"
+    slug: "ibaraniam-num"
+  "JAS":
+    name: "ਯਾਕੂਬ ਦੀ ਪੱਤ੍ਰੀ"
+    slug: "yakuba-di-patri"
+  "1PE":
+    name: "ਪਤਰਸ ਦੀ ਪਹਿਲੀ ਪੱਤ੍ਰੀ"
+    slug: "patarasa-di-pahili-patri"
+  "2PE":
+    name: "ਪਤਰਸ ਦੀ ਦੂਜੀ ਪੱਤ੍ਰੀ"
+    slug: "patarasa-di-duji-patri"
+  "1JN":
+    name: "ਯੂਹੰਨਾ ਦੀ ਪਹਿਲੀ ਪੱਤ੍ਰੀ"
+    slug: "yuhamna-di-pahili-patri"
+  "2JN":
+    name: "ਯੂਹੰਨਾ ਦੀ ਦੂਜੀ ਪੱਤ੍ਰੀ"
+    slug: "yuhamna-di-duji-patri"
+  "3JN":
+    name: "ਯੂਹੰਨਾ ਦੀ ਤੀਸਰੀ ਪੱਤ੍ਰੀ"
+    slug: "yuhamna-di-tisari-patri"
+  "JUD":
+    name: "ਯਹੂਦਾਹ ਦੀ ਪੱਤ੍ਰੀ"
+    slug: "yahudaha-di-patri"
+  "REV":
+    name: "ਯੂਹੰਨਾ ਦੇ ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ"
+    slug: "yuhamna-de-parakasa-di-pothi"

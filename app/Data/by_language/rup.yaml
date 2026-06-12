@@ -1,0 +1,32 @@
+language: "rup"
+books:
+  "MAT":
+    name: "Matheu"
+    slug: "matheu"
+  "MRK":
+    name: "Marcu"
+    slug: "marcu"
+  "1TI":
+    name: "1 Timoteu"
+    slug: "1-timoteu"
+  "2TI":
+    name: "2 Timoteu"
+    slug: "2-timoteu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "1JN":
+    name: "1 Ioan"
+    slug: "1-ioan"
+  "2JN":
+    name: "2 Ioan"
+    slug: "2-ioan"
+  "3JN":
+    name: "3 Ioan"
+    slug: "3-ioan"
+  "JUD":
+    name: "Iuda"
+    slug: "iuda"

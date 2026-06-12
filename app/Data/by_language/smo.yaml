@@ -1,0 +1,302 @@
+language: "smo"
+books:
+  "GEN":
+    name: "Kenese"
+    slug: "kenese"
+    name_toc: "اِفسين"
+  "EXO":
+    name: "Esoto"
+    slug: "esoto"
+    name_toc: "بادشاهن جو پهريون ڪتاب"
+  "LEV":
+    name: "Levitiko"
+    slug: "levitiko"
+    name_toc: "بادشاهن جو ٻيو ڪتاب"
+  "NUM":
+    name: "Numera"
+    slug: "numera"
+    name_toc: "تواريخ جو پهريون ڪتاب"
+  "DEU":
+    name: "Teuteronome"
+    slug: "teuteronome"
+    name_toc: "2.ٿسلونيڪين"
+  "JOS":
+    name: "Iosua"
+    slug: "iosua"
+    name_toc: "1.تيمٿيس"
+  "JDG":
+    name: "Faamasino,"
+    slug: "faamasino"
+    name_toc: "نحمياہ جو ڪتاب"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+    name_toc: "طيطس"
+  "1SA":
+    name: "1 Samuelu"
+    slug: "1-samuelu"
+    name_toc: "فليمون"
+  "2SA":
+    name: "2 Samuelu"
+    slug: "2-samuelu"
+    name_toc: "عبرانين"
+  "1KI":
+    name: "1 Tupu"
+    slug: "1-tupu"
+    name_toc: "يعقوب"
+  "2KI":
+    name: "2 Tupu"
+    slug: "2-tupu"
+    name_toc: "1.پطرس"
+  "1CH":
+    name: "1 Nofoa‘iga a Tupu"
+    slug: "1-nofoaiga-a-tupu"
+    name_toc: "2.پطرس"
+  "2CH":
+    name: "2 Nofoa‘iga a Tupu"
+    slug: "2-nofoaiga-a-tupu"
+    name_toc: "1.يوحنا"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+    name_toc: "2.يوحنا"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+    name_toc: "3.يوحنا"
+  "EST":
+    name: "Eseta,"
+    slug: "eseta"
+    name_toc: "حزقي ايل نبيءَ جو ڪتاب"
+  "JOB":
+    name: "Iopu"
+    slug: "iopu"
+    name_toc: "ڳاڻاٽو"
+  "PSA":
+    name: "Salāmo"
+    slug: "salamo"
+    name_toc: "شريعت جو دور"
+  "PRO":
+    name: "Faataoto,"
+    slug: "faataoto"
+    name_toc: "يوايل جو ڪتاب"
+  "ECC":
+    name: "Failauga"
+    slug: "failauga"
+    name_toc: "رهبرَ"
+  "SNG":
+    name: "Pese"
+    slug: "pese"
+    name_toc: "رُوت"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+    name_toc: "1.بادشاهَہ"
+  "JER":
+    name: "Ieremia"
+    slug: "ieremia"
+    name_toc: "2.بادشاهَہ"
+  "LAM":
+    name: "Auega,"
+    slug: "auega"
+    name_toc: "ناحوم جو ڪتاب"
+  "EZK":
+    name: "Esekielu"
+    slug: "esekielu"
+    name_toc: "عزرا"
+  "DAN":
+    name: "Tanielu,"
+    slug: "tanielu"
+    name_toc: "صفنياہ جو ڪتاب"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "آستر"
+  "JOL":
+    name: "Ioelu"
+    slug: "ioelu"
+    name_toc: "ايوب"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+    name_toc: "زبور"
+  "OBA":
+    name: "Opetaia"
+    slug: "opetaia"
+    name_toc: "چوڻيون"
+  "JON":
+    name: "Iona"
+    slug: "iona"
+    name_toc: "واعظ"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "راڳن جو راڳ"
+  "NAM":
+    name: "Nauma"
+    slug: "nauma"
+    name_toc: "يسعياہ"
+  "HAB":
+    name: "Sapakuka"
+    slug: "sapakuka"
+    name_toc: "يرمياہ"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+    name_toc: "زاريون"
+  "HAG":
+    name: "Hakai"
+    slug: "hakai"
+    name_toc: "حزقي‌ايل"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "دانيال"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "هوسيع"
+  "TOB":
+    name: "Topita"
+    slug: "topita"
+    name_toc: "يهوداہ"
+  "JDT":
+    name: "Iutita"
+    slug: "iutita"
+    name_toc: "آڪاش‌واڻي"
+  "ESG":
+    name: "Esther Greek"
+    slug: "esther-greek"
+    name_toc: "پيدائش"
+  "WIS":
+    name: "Poto"
+    slug: "poto"
+    name_toc: "1.سموئيل"
+  "SIR":
+    name: "Sirako"
+    slug: "sirako"
+    name_toc: "2.سموئيل"
+  "BAR":
+    name: "Baruch"
+    slug: "baruch"
+    name_toc: "2.تواريخ"
+  "DAG":
+    name: "Daniel Greek"
+    slug: "daniel-greek"
+    name_toc: "نحمياہ"
+  "1MA":
+    name: "1 Makapaio"
+    slug: "1-makapaio"
+    name_toc: "خروج"
+  "2MA":
+    name: "2 Makapaio"
+    slug: "2-makapaio"
+    name_toc: "لاوي سرشتو"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+    name_toc: "O le tusi a Paulo i Efeso"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+    name_toc: "O le tusi a Paulo i Filipi"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "O le tusi a Paulo i Kolose"
+  "JHN":
+    name: "Ioane"
+    slug: "ioane"
+    name_toc: "O le tusi muamua a Paulo i Tesalonia"
+  "ACT":
+    name: "Galuega"
+    slug: "galuega"
+    name_toc: "O le tusi e lua a Paulo i Tesalonia"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "O le tusi a Paulo ‘iā Filemoni"
+  "1CO":
+    name: "1 Korinito"
+    slug: "1-korinito"
+    name_toc: "O le tusi i Eperu"
+  "2CO":
+    name: "2 Korinito"
+    slug: "2-korinito"
+    name_toc: "O le tusi a Iakopo"
+  "GAL":
+    name: "Kalatia"
+    slug: "kalatia"
+    name_toc: "O le tusi muamua a Peteru"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "O le tusi e lua a Peteru"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "O le tusi muamua a Ioane"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "O le tusi e lua a Ioane"
+  "1TH":
+    name: "1 Tesalonia"
+    slug: "1-tesalonia"
+    name_toc: "O le tusi e tolu a Ioane"
+  "2TH":
+    name: "2 Tesalonia"
+    slug: "2-tesalonia"
+    name_toc: "O le tusi a Iuta"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "O le Fa‘aaliga"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "موسيٰ جو پهريون ڪتاب يعني پيدائش"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "موسيٰ جو ٻيو ڪتاب يعني خروج"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "موسيٰ جو ٽيون ڪتاب يعني لاوي سرشتو"
+  "HEB":
+    name: "Eperu"
+    slug: "eperu"
+    name_toc: "موسيٰ جو چوٿون ڪتاب يعني ڳاڻاٽو"
+  "JAS":
+    name: "Iakopo"
+    slug: "iakopo"
+    name_toc: "O le ulua‘i tusi a Paulo ‘iā Timoteo"
+  "1PE":
+    name: "1 Peteru"
+    slug: "1-peteru"
+    name_toc: "O le tusi e lua a Paulo ‘iā Timoteo"
+  "2PE":
+    name: "2 Peteru"
+    slug: "2-peteru"
+    name_toc: "موسيٰ جو پنجون ڪتاب يعني شريعت جو دور"
+  "1JN":
+    name: "1 Ioane"
+    slug: "1-ioane"
+    name_toc: "O le tusi a Paulo ‘iā Tito"
+  "2JN":
+    name: "2 Ioane"
+    slug: "2-ioane"
+    name_toc: "يشوع جو ڪتاب"
+  "3JN":
+    name: "3 Ioane"
+    slug: "3-ioane"
+    name_toc: "قاضين جو ڪتاب"
+  "JUD":
+    name: "Iuta"
+    slug: "iuta"
+    name_toc: "روٿ جو ڪتاب"
+  "REV":
+    name: "Faaaliga,"
+    slug: "faaaliga"
+    name_toc: "گلتين"

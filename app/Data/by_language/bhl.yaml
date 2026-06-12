@@ -1,0 +1,92 @@
+language: "bhl"
+books:
+  "GEN":
+    name: "Talfut Kese"
+    slug: "talfut-kese"
+  "RUT":
+    name: "Ilut"
+    slug: "ilut"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Iluk"
+    slug: "iluk"
+  "JHN":
+    name: "Sion"
+    slug: "sion"
+  "ACT":
+    name: "Kalan Kunum"
+    slug: "kalan-kunum"
+  "ROM":
+    name: "Ulom"
+    slug: "ulom"
+  "1CO":
+    name: "1 Kolin"
+    slug: "1-kolin"
+  "2CO":
+    name: "2 Kolin"
+    slug: "2-kolin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filibai"
+    slug: "filibai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Kibulu"
+    slug: "kibulu"
+  "JAS":
+    name: "Sekow"
+    slug: "sekow"
+  "1PE":
+    name: "1 Fita"
+    slug: "1-fita"
+  "2PE":
+    name: "2 Fita"
+    slug: "2-fita"
+  "1JN":
+    name: "1 Sion"
+    slug: "1-sion"
+  "2JN":
+    name: "2 Sion"
+    slug: "2-sion"
+  "3JN":
+    name: "3 Sion"
+    slug: "3-sion"
+  "JUD":
+    name: "Yut"
+    slug: "yut"
+  "REV":
+    name: "Fitew Dase"
+    slug: "fitew-dase"

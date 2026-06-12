@@ -1,0 +1,200 @@
+language: "ben"
+books:
+  "GEN":
+    name: "আদিপুস্তক"
+    slug: "adipustaka"
+  "EXO":
+    name: "যাত্রাপুস্তক"
+    slug: "yatrapustaka"
+  "LEV":
+    name: "লেবীয়"
+    slug: "lebiya"
+  "NUM":
+    name: "গণনা"
+    slug: "ganana"
+  "DEU":
+    name: "দ্বিতীয় বিবরণ"
+    slug: "dbitiya-bibarana"
+  "JOS":
+    name: "যিহোশূয়"
+    slug: "yihosuya"
+  "JDG":
+    name: "বিচারকর্ত্তৃগণ"
+    slug: "bicarakarttrgana"
+  "RUT":
+    name: "রূত"
+    slug: "ruta"
+  "1SA":
+    name: "1 শমূয়েল"
+    slug: "1-samuyela"
+  "2SA":
+    name: "2 শমূয়েল"
+    slug: "2-samuyela"
+  "1KI":
+    name: "1 রাজাবলি"
+    slug: "1-rajabali"
+  "2KI":
+    name: "2 রাজাবলি"
+    slug: "2-rajabali"
+  "1CH":
+    name: "1 বংশাবলি"
+    slug: "1-bamsabali"
+  "2CH":
+    name: "2 বংশাবলি"
+    slug: "2-bamsabali"
+  "EZR":
+    name: "ইষ্রা"
+    slug: "isra"
+  "NEH":
+    name: "নহিমিয়"
+    slug: "nahimiya"
+  "EST":
+    name: "ইষ্টের"
+    slug: "istera"
+  "JOB":
+    name: "ইয়োব"
+    slug: "iyoba"
+  "PSA":
+    name: "গীতসংহিতা"
+    slug: "gitasamhita"
+  "PRO":
+    name: "হিতোপদেশ"
+    slug: "hitopadesa"
+  "ECC":
+    name: "উপদেশক"
+    slug: "upadesaka"
+  "SNG":
+    name: "পরমগীত"
+    slug: "paramagita"
+  "ISA":
+    name: "যিশাইয়"
+    slug: "yisaiya"
+  "JER":
+    name: "যিরমিয়"
+    slug: "yiramiya"
+  "LAM":
+    name: "বিলাপ"
+    slug: "bilapa"
+  "EZK":
+    name: "যিহিস্কেল"
+    slug: "yihiskela"
+  "DAN":
+    name: "দানিয়েল"
+    slug: "daniyela"
+  "HOS":
+    name: "হোশেয়"
+    slug: "hoseya"
+  "JOL":
+    name: "যোয়েল"
+    slug: "yoyela"
+  "AMO":
+    name: "আমোষ"
+    slug: "amosa"
+  "OBA":
+    name: "ওবদিয়"
+    slug: "obadiya"
+  "JON":
+    name: "যোনা"
+    slug: "yona"
+  "MIC":
+    name: "মীখা"
+    slug: "mikha"
+  "NAM":
+    name: "নহূম"
+    slug: "nahuma"
+  "HAB":
+    name: "হবককূক"
+    slug: "habakakuka"
+  "ZEP":
+    name: "সফনিয়"
+    slug: "saphaniya"
+  "HAG":
+    name: "হগয়"
+    slug: "hagaya"
+  "ZEC":
+    name: "সখরিয়"
+    slug: "sakhariya"
+  "MAL":
+    name: "মালাখি"
+    slug: "malakhi"
+  "MAT":
+    name: "মথি"
+    slug: "mathi"
+  "MRK":
+    name: "মার্ক"
+    slug: "marka"
+  "LUK":
+    name: "লুক"
+    slug: "luka"
+  "JHN":
+    name: "যোহন"
+    slug: "yohana"
+  "ACT":
+    name: "প্রেরিতদের কার্য্য"
+    slug: "preritadera-karyya"
+  "ROM":
+    name: "রোমীয়"
+    slug: "romiya"
+  "1CO":
+    name: "1 করিন্থীয়"
+    slug: "1-karinthiya"
+  "2CO":
+    name: "2 করিন্থীয়"
+    slug: "2-karinthiya"
+  "GAL":
+    name: "গালাতীয়"
+    slug: "galatiya"
+  "EPH":
+    name: "ইফিষীয়"
+    slug: "iphisiya"
+  "PHP":
+    name: "ফিলিপীয়"
+    slug: "philipiya"
+  "COL":
+    name: "কলসীয়"
+    slug: "kalasiya"
+  "1TH":
+    name: "1 থিষলনীকীয়"
+    slug: "1-thisalanikiya"
+  "2TH":
+    name: "2 থিষলনীকীয়"
+    slug: "2-thisalanikiya"
+  "1TI":
+    name: "1 তীমথিয়"
+    slug: "1-timathiya"
+  "2TI":
+    name: "2 তীমথিয়"
+    slug: "2-timathiya"
+  "TIT":
+    name: "তীত"
+    slug: "tita"
+  "PHM":
+    name: "ফিলীমন"
+    slug: "philimana"
+  "HEB":
+    name: "ইব্রীয়"
+    slug: "ibriya"
+  "JAS":
+    name: "যাকোব"
+    slug: "yakoba"
+  "1PE":
+    name: "1 পিতর"
+    slug: "1-pitara"
+  "2PE":
+    name: "2 পিতর"
+    slug: "2-pitara"
+  "1JN":
+    name: "1 যোহন"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 যোহন"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 যোহন"
+    slug: "3-yohana"
+  "JUD":
+    name: "যিহূদা"
+    slug: "yihuda"
+  "REV":
+    name: "প্রকাশিত বাক্য"
+    slug: "prakasita-bakya"

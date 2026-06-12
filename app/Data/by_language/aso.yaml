@@ -1,0 +1,83 @@
+language: "aso"
+books:
+  "MAT":
+    name: "MATAIOꞌ"
+    slug: "mataio"
+  "MRK":
+    name: "MALEKOꞌ"
+    slug: "maleko"
+  "LUK":
+    name: "LUKAꞌ"
+    slug: "luka"
+  "JHN":
+    name: "ZOHANEꞌ"
+    slug: "zohane"
+  "ACT":
+    name: "APOSOLOꞌ"
+    slug: "aposolo"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolidi"
+    slug: "1-kolidi"
+  "2CO":
+    name: "2 Kolidi"
+    slug: "2-kolidi"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "EHESOꞌ"
+    slug: "eheso"
+  "PHP":
+    name: "Hilipi"
+    slug: "hilipi"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 TIMOTEOꞌ"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 TIMOTEOꞌ"
+    slug: "2-timoteo"
+  "TIT":
+    name: "TITOꞌ"
+    slug: "tito"
+  "PHM":
+    name: "HILEMONIꞌ"
+    slug: "hilemoni"
+  "HEB":
+    name: "HEBILAIOꞌ"
+    slug: "hebilaio"
+  "JAS":
+    name: "ZAKOBOꞌ"
+    slug: "zakobo"
+  "1PE":
+    name: "1 PETOLOꞌ"
+    slug: "1-petolo"
+  "2PE":
+    name: "2 PETOLOꞌ"
+    slug: "2-petolo"
+  "1JN":
+    name: "1 ZOHANEꞌ"
+    slug: "1-zohane"
+  "2JN":
+    name: "2 ZOHANEꞌ"
+    slug: "2-zohane"
+  "3JN":
+    name: "3 ZOHANEꞌ"
+    slug: "3-zohane"
+  "JUD":
+    name: "ZUDAꞌ"
+    slug: "zuda"
+  "REV":
+    name: "Leveleseni"
+    slug: "leveleseni"

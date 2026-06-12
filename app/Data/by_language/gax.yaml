@@ -1,0 +1,224 @@
+language: "gax"
+books:
+  "GEN":
+    name: "Uumama"
+    slug: "uumama"
+  "EXO":
+    name: "Bahisa"
+    slug: "bahisa"
+  "LEV":
+    name: "Lawi"
+    slug: "lawi"
+  "NUM":
+    name: "Henna"
+    slug: "henna"
+  "DEU":
+    name: "Qaabacha Seera"
+    slug: "qaabacha-seera"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Jaallaboota"
+    slug: "jaallaboota"
+  "RUT":
+    name: "Ruthi"
+    slug: "ruthi"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+  "1KI":
+    name: "1 Hayyoota"
+    slug: "1-hayyoota"
+  "2KI":
+    name: "2 Hayyoota"
+    slug: "2-hayyoota"
+  "1CH":
+    name: "1 Odu duri"
+    slug: "1-odu-duri"
+  "2CH":
+    name: "2 Odu duri"
+    slug: "2-odu-duri"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Aayubu"
+    slug: "aayubu"
+  "PSA":
+    name: "Faaru"
+    slug: "faaru"
+  "PRO":
+    name: "Mammaasa"
+    slug: "mammaasa"
+  "ECC":
+    name: "Abba herega"
+    slug: "abba-herega"
+  "SNG":
+    name: "Faaru solomoni"
+    slug: "faaru-solomoni"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Boha"
+    slug: "boha"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+  "JDT":
+    name: "Yudithi"
+    slug: "yudithi"
+  "ESG":
+    name: "Esta (GRIKITINI)"
+    slug: "esta-grikitini"
+  "WIS":
+    name: "Qarooma Solomoni"
+    slug: "qarooma-solomoni"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+  "1MA":
+    name: "1 Makabayo"
+    slug: "1-makabayo"
+  "2MA":
+    name: "2 Makabayo"
+    slug: "2-makabayo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Huji Ergattu"
+    slug: "huji-ergattu"
+  "ROM":
+    name: "Rumi"
+    slug: "rumi"
+  "1CO":
+    name: "1 Korintho"
+    slug: "1-korintho"
+  "2CO":
+    name: "2 Korintho"
+    slug: "2-korintho"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+  "1TH":
+    name: "1Tasaloonqe"
+    slug: "1tasaloonqe"
+  "2TH":
+    name: "2Tasaloonqe"
+    slug: "2tasaloonqe"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Ebrania"
+    slug: "ebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohona"
+    slug: "1-yohona"
+  "2JN":
+    name: "2 Yohona"
+    slug: "2-yohona"
+  "3JN":
+    name: "3 Yohona"
+    slug: "3-yohona"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Mudhii Yohaannisii"
+    slug: "mudhii-yohaannisii"

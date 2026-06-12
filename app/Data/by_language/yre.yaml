@@ -1,0 +1,83 @@
+language: "yre"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Drɛwɩ (Actes)"
+    slug: "drw-actes"
+  "ROM":
+    name: "Rɔmɛn"
+    slug: "rmn"
+  "1CO":
+    name: "1 Korɛnti"
+    slug: "1-kornti"
+  "2CO":
+    name: "2 Korɛnti"
+    slug: "2-kornti"
+  "GAL":
+    name: "Galatɩ"
+    slug: "galat"
+  "EPH":
+    name: "Efɛz"
+    slug: "efz"
+  "PHP":
+    name: "Filipʋ"
+    slug: "filip"
+  "COL":
+    name: "Kolɔs"
+    slug: "kols"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Ebre"
+    slug: "ebre"
+  "JAS":
+    name: "Zaji"
+    slug: "zaji"
+  "1PE":
+    name: "1 Piɛri"
+    slug: "1-piri"
+  "2PE":
+    name: "2 Piɛri"
+    slug: "2-piri"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+  "REV":
+    name: "Apokalis"
+    slug: "apokalis"

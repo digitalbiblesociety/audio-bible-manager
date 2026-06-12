@@ -1,0 +1,221 @@
+language: "gej"
+books:
+  "GEN":
+    name: "Gɔ̃mèjèje be Xoma"
+    slug: "gmejeje-be-xoma"
+  "EXO":
+    name: "Toto jo"
+    slug: "toto-jo"
+  "LEV":
+    name: "Levìwo"
+    slug: "leviwo"
+  "NUM":
+    name: "Àmè Hɛ̃hlɛ̃"
+    slug: "ame-hhl"
+  "DEU":
+    name: "Èsea gbìgbɔ̀ hlɛ̃"
+    slug: "esea-gbigb-hl"
+  "JOS":
+    name: "Yosùa"
+    slug: "yosua"
+  "JDG":
+    name: "Kòjoɖotɔwo"
+    slug: "kojootwo"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1Samuɛl"
+    slug: "1samul"
+  "2SA":
+    name: "2Samuɛl"
+    slug: "2samul"
+  "1KI":
+    name: "1Èfìɔwo"
+    slug: "1efiwo"
+  "2KI":
+    name: "2Èfìɔ"
+    slug: "2efi"
+  "1CH":
+    name: "1Kronikà"
+    slug: "1kronika"
+  "2CH":
+    name: "2Kronikà"
+    slug: "2kronika"
+  "EZR":
+    name: "Ɛzrà"
+    slug: "zra"
+  "NEH":
+    name: "Nèhemìa"
+    slug: "nehemia"
+  "JOB":
+    name: "Yɔb"
+    slug: "yb"
+  "PSA":
+    name: "Èhàwo"
+    slug: "ehawo"
+  "PRO":
+    name: "Èlododowo"
+    slug: "elododowo"
+  "ECC":
+    name: "Àɖàŋùɖètɔ"
+    slug: "aauet"
+  "SNG":
+    name: "Èhàwo be Èhà"
+    slug: "ehawo-be-eha"
+  "ISA":
+    name: "Ezayà"
+    slug: "ezaya"
+  "JER":
+    name: "Yeremìa"
+    slug: "yeremia"
+  "LAM":
+    name: "Àlenanawo"
+    slug: "alenanawo"
+  "EZK":
+    name: "Ezekìɛl"
+    slug: "ezekil"
+  "HOS":
+    name: "Òzeà"
+    slug: "ozea"
+  "JOL":
+    name: "Yoɛ̀l"
+    slug: "yol"
+  "AMO":
+    name: "Àmos"
+    slug: "amos"
+  "OBA":
+    name: "Obadìa"
+    slug: "obadia"
+  "JON":
+    name: "Yonà"
+    slug: "yona"
+  "MIC":
+    name: "Mikà"
+    slug: "mika"
+  "NAM":
+    name: "Nàhum"
+    slug: "nahum"
+  "HAB":
+    name: "Hàbakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sèfanìa"
+    slug: "sefania"
+  "HAG":
+    name: "Hagài"
+    slug: "hagai"
+  "ZEC":
+    name: "Zakarìa"
+    slug: "zakaria"
+  "MAL":
+    name: "Malakìa"
+    slug: "malakia"
+  "TOB":
+    name: "Tobì"
+    slug: "tobi"
+  "JDT":
+    name: "Yudìt"
+    slug: "yudit"
+  "ESG":
+    name: "Ɛstà-G"
+    slug: "sta-g"
+  "WIS":
+    name: "Ànyasã"
+    slug: "anyasa"
+  "SIR":
+    name: "Sirasid"
+    slug: "sirasid"
+  "BAR":
+    name: "Bàruk"
+    slug: "baruk"
+  "DAG":
+    name: "Dàniɛl-G"
+    slug: "danil-g"
+  "1MA":
+    name: "1Màkàbeòwo"
+    slug: "1makabeowo"
+  "2MA":
+    name: "2Màkàbeòwo"
+    slug: "2makabeowo"
+  "MAT":
+    name: "Màteo"
+    slug: "mateo"
+  "MRK":
+    name: "Markò"
+    slug: "marko"
+  "LUK":
+    name: "Lukà"
+    slug: "luka"
+  "JHN":
+    name: "Yòhanɛ̀s"
+    slug: "yohans"
+  "ACT":
+    name: "Èdɔwɔ̀wɔwo"
+    slug: "edwwwo"
+  "ROM":
+    name: "Romàtɔwo"
+    slug: "romatwo"
+  "1CO":
+    name: "1Kòrɛ̃tòtɔwo"
+    slug: "1kortotwo"
+  "2CO":
+    name: "2Kòrɛ̃tòtɔwo"
+    slug: "2kortotwo"
+  "GAL":
+    name: "Galatìatɔwɔ"
+    slug: "galatiatw"
+  "EPH":
+    name: "Efesòtɔwo"
+    slug: "efesotwo"
+  "PHP":
+    name: "Fìlipìtɔwo"
+    slug: "filipitwo"
+  "COL":
+    name: "Kolosètɔwo"
+    slug: "kolosetwo"
+  "1TH":
+    name: "1Tɛsalonikà"
+    slug: "1tsalonika"
+  "2TH":
+    name: "2Tɛsalonikà"
+    slug: "2tsalonika"
+  "1TI":
+    name: "1Timòteo"
+    slug: "1timoteo"
+  "2TI":
+    name: "2Timòteo"
+    slug: "2timoteo"
+  "TIT":
+    name: "Titò"
+    slug: "tito"
+  "PHM":
+    name: "Filemɔ̀n"
+    slug: "filemn"
+  "HEB":
+    name: "Hebrùwo"
+    slug: "hebruwo"
+  "JAS":
+    name: "Yakobò"
+    slug: "yakobo"
+  "1PE":
+    name: "1Petrò"
+    slug: "1petro"
+  "2PE":
+    name: "2Petrò"
+    slug: "2petro"
+  "1JN":
+    name: "1Yòhanɛ̀s"
+    slug: "1yohans"
+  "2JN":
+    name: "2Yòhanɛ̀s"
+    slug: "2yohans"
+  "3JN":
+    name: "3Yòhanɛ̀s"
+    slug: "3yohans"
+  "JUD":
+    name: "Yudà"
+    slug: "yuda"
+  "REV":
+    name: "Àvìmènu"
+    slug: "avimenu"

@@ -1,0 +1,83 @@
+language: "ego"
+books:
+  "MAT":
+    name: "Amatiyu"
+    slug: "amatiyu"
+  "MRK":
+    name: "Amarku"
+    slug: "amarku"
+  "LUK":
+    name: "Oluka"
+    slug: "oluka"
+  "JHN":
+    name: "Eyohana"
+    slug: "eyohana"
+  "ACT":
+    name: "Otum"
+    slug: "otum"
+  "ROM":
+    name: "MoaOroma"
+    slug: "moaoroma"
+  "1CO":
+    name: "1 MoaOkorinti"
+    slug: "1-moaokorinti"
+  "2CO":
+    name: "2 MoaOkorinti"
+    slug: "2-moaokorinti"
+  "GAL":
+    name: "MoaEgalasiya"
+    slug: "moaegalasiya"
+  "EPH":
+    name: "MoAfisu"
+    slug: "moafisu"
+  "PHP":
+    name: "MoaEfilibi"
+    slug: "moaefilibi"
+  "COL":
+    name: "MoaOkolosi"
+    slug: "moaokolosi"
+  "1TH":
+    name: "1 MoaEtasolonika"
+    slug: "1-moaetasolonika"
+  "2TH":
+    name: "2 MoaEtasolonika"
+    slug: "2-moaetasolonika"
+  "1TI":
+    name: "1 Etimoti"
+    slug: "1-etimoti"
+  "2TI":
+    name: "2 Etimoti"
+    slug: "2-etimoti"
+  "TIT":
+    name: "Etitu"
+    slug: "etitu"
+  "PHM":
+    name: "Efilimo"
+    slug: "efilimo"
+  "HEB":
+    name: "MoaIbrani"
+    slug: "moaibrani"
+  "JAS":
+    name: "Eyakubu"
+    slug: "eyakubu"
+  "1PE":
+    name: "1 Ebitru"
+    slug: "1-ebitru"
+  "2PE":
+    name: "2 Ebitru"
+    slug: "2-ebitru"
+  "1JN":
+    name: "1 Eyohana"
+    slug: "1-eyohana"
+  "2JN":
+    name: "2 Eyohana"
+    slug: "2-eyohana"
+  "3JN":
+    name: "3 Eyohana"
+    slug: "3-eyohana"
+  "JUD":
+    name: "Eyahuda"
+    slug: "eyahuda"
+  "REV":
+    name: "Otsotsa"
+    slug: "otsotsa"

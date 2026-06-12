@@ -1,0 +1,200 @@
+language: "hnn"
+books:
+  "GEN":
+    name: "Gimpuunan"
+    slug: "gimpuunan"
+  "EXO":
+    name: "Pag-ighit"
+    slug: "pag-ighit"
+  "LEV":
+    name: "Libitiku"
+    slug: "libitiku"
+  "NUM":
+    name: "Bilang"
+    slug: "bilang"
+  "DEU":
+    name: "Diyuturunumiyu"
+    slug: "diyuturunumiyu"
+  "JOS":
+    name: "Huswi"
+    slug: "huswi"
+  "JDG":
+    name: "Talaghusay"
+    slug: "talaghusay"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samwil"
+    slug: "1-samwil"
+  "2SA":
+    name: "2 Samwil"
+    slug: "2-samwil"
+  "1KI":
+    name: "1 Hari"
+    slug: "1-hari"
+  "2KI":
+    name: "2 Hari"
+    slug: "2-hari"
+  "1CH":
+    name: "1 Krunika"
+    slug: "1-krunika"
+  "2CH":
+    name: "2 Krunika"
+    slug: "2-krunika"
+  "EZR":
+    name: "Isra"
+    slug: "isra"
+  "NEH":
+    name: "Nihimyas"
+    slug: "nihimyas"
+  "EST":
+    name: "Istir"
+    slug: "istir"
+  "JOB":
+    name: "Hub"
+    slug: "hub"
+  "PSA":
+    name: "Kanta"
+    slug: "kanta"
+  "PRO":
+    name: "Kabagawan"
+    slug: "kabagawan"
+  "ECC":
+    name: "Manugtudlu"
+    slug: "manugtudlu"
+  "SNG":
+    name: "Kanta ni Sulumun"
+    slug: "kanta-ni-sulumun"
+  "ISA":
+    name: "Isayas"
+    slug: "isayas"
+  "JER":
+    name: "Hirimyas"
+    slug: "hirimyas"
+  "LAM":
+    name: "Karukuan"
+    slug: "karukuan"
+  "EZK":
+    name: "Isikil"
+    slug: "isikil"
+  "DAN":
+    name: "Danyil"
+    slug: "danyil"
+  "HOS":
+    name: "Husyas"
+    slug: "husyas"
+  "JOL":
+    name: "Huwil"
+    slug: "huwil"
+  "AMO":
+    name: "Amus"
+    slug: "amus"
+  "OBA":
+    name: "Ubadyas"
+    slug: "ubadyas"
+  "JON":
+    name: "Hunas"
+    slug: "hunas"
+  "MIC":
+    name: "Mikas"
+    slug: "mikas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sipanyas"
+    slug: "sipanyas"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+  "ZEC":
+    name: "Sakaryas"
+    slug: "sakaryas"
+  "MAL":
+    name: "Malakyas"
+    slug: "malakyas"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Huwan"
+    slug: "huwan"
+  "ACT":
+    name: "Binwat"
+    slug: "binwat"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"
+  "1CO":
+    name: "1 Kurintu"
+    slug: "1-kurintu"
+  "2CO":
+    name: "2 Kurintu"
+    slug: "2-kurintu"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Ipisu"
+    slug: "ipisu"
+  "PHP":
+    name: "Pilipus"
+    slug: "pilipus"
+  "COL":
+    name: "Kulusas"
+    slug: "kulusas"
+  "1TH":
+    name: "1 Tisalunika"
+    slug: "1-tisalunika"
+  "2TH":
+    name: "2 Tisalunika"
+    slug: "2-tisalunika"
+  "1TI":
+    name: "1 Timutiyu"
+    slug: "1-timutiyu"
+  "2TI":
+    name: "2 Timutiyu"
+    slug: "2-timutiyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Hibriyu"
+    slug: "hibriyu"
+  "JAS":
+    name: "Santiyagu"
+    slug: "santiyagu"
+  "1PE":
+    name: "1 Pidru"
+    slug: "1-pidru"
+  "2PE":
+    name: "2 Pidru"
+    slug: "2-pidru"
+  "1JN":
+    name: "1 Huwan"
+    slug: "1-huwan"
+  "2JN":
+    name: "2 Huwan"
+    slug: "2-huwan"
+  "3JN":
+    name: "3 Huwan"
+    slug: "3-huwan"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+  "REV":
+    name: "Ipinakakit"
+    slug: "ipinakakit"

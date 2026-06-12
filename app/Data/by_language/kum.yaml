@@ -1,0 +1,83 @@
+language: "kum"
+books:
+  "MAT":
+    name: "Маттайны Инжили"
+    slug: "mattajny-inzili"
+  "MRK":
+    name: "Маркны Инжили"
+    slug: "markny-inzili"
+  "LUK":
+    name: "Лукъаны Инжили"
+    slug: "lukany-inzili"
+  "JHN":
+    name: "Югьанны Инжили"
+    slug: "uganny-inzili"
+  "ACT":
+    name: "Элчилени ишлери"
+    slug: "elcileni-isleri"
+  "ROM":
+    name: "Румдагъылагъа язылгъан кагъыз"
+    slug: "rumdagylaga-azylgan-kagyz"
+  "1CO":
+    name: "Коринфдегилеге язылгъан биринчи кагъыз"
+    slug: "korinfdegilege-azylgan-birinci-kagyz"
+  "2CO":
+    name: "Коринфдегилеге язылгъан экинчи кагъыз"
+    slug: "korinfdegilege-azylgan-ekinci-kagyz"
+  "GAL":
+    name: "Галатиядагъылагъа язылгъан кагъыз"
+    slug: "galatiadagylaga-azylgan-kagyz"
+  "EPH":
+    name: "Эфесдегилеге язылгъан кагъыз"
+    slug: "efesdegilege-azylgan-kagyz"
+  "PHP":
+    name: "Филиппадагъылагъа язылгъан кагъыз"
+    slug: "filippadagylaga-azylgan-kagyz"
+  "COL":
+    name: "Колосдагъылагъа язылгъан кагъыз"
+    slug: "kolosdagylaga-azylgan-kagyz"
+  "1TH":
+    name: "Салоникдегилеге язылгъан биринчи кагъыз"
+    slug: "salonikdegilege-azylgan-birinci-kagyz"
+  "2TH":
+    name: "Салоникдегилеге язылгъан экинчи кагъыз"
+    slug: "salonikdegilege-azylgan-ekinci-kagyz"
+  "1TI":
+    name: "Тимофейге язылгъан биринчи кагъыз"
+    slug: "timofejge-azylgan-birinci-kagyz"
+  "2TI":
+    name: "Тимофейге язылгъан экинчи кагъыз"
+    slug: "timofejge-azylgan-ekinci-kagyz"
+  "TIT":
+    name: "Титге язылгъан кагъыз"
+    slug: "titge-azylgan-kagyz"
+  "PHM":
+    name: "Филимонгъа язылгъан кагъыз"
+    slug: "filimonga-azylgan-kagyz"
+  "HEB":
+    name: "Ягьудилеге язылгъан кагъыз"
+    slug: "agudilege-azylgan-kagyz"
+  "JAS":
+    name: "Якъуб язгъан кагъыз"
+    slug: "akub-azgan-kagyz"
+  "1PE":
+    name: "Петер язгъан биринчи кагъыз"
+    slug: "peter-azgan-birinci-kagyz"
+  "2PE":
+    name: "Петер язгъан экинчи кагъыз"
+    slug: "peter-azgan-ekinci-kagyz"
+  "1JN":
+    name: "Югьан язгъан биринчи кагъыз"
+    slug: "ugan-azgan-birinci-kagyz"
+  "2JN":
+    name: "Югьан язгъан экинчи кагъыз"
+    slug: "ugan-azgan-ekinci-kagyz"
+  "3JN":
+    name: "Югьан язгъан уьчюнчю кагъыз"
+    slug: "ugan-azgan-ucuncu-kagyz"
+  "JUD":
+    name: "Ягьуда язгъан кагъыз"
+    slug: "aguda-azgan-kagyz"
+  "REV":
+    name: "Аллагьны Югьангъа йиберген вагьийи"
+    slug: "allagny-uganga-jibergen-vagiji"

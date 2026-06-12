@@ -1,0 +1,266 @@
+language: "lnd"
+books:
+  "GEN":
+    name: "Pudut"
+    slug: "pudut"
+    name_toc: "Pudut"
+  "EXO":
+    name: "Pura'"
+    slug: "pura"
+    name_toc: "Pura'"
+  "LEV":
+    name: "Ukum"
+    slug: "ukum"
+    name_toc: "Ukum"
+  "NUM":
+    name: "Iap"
+    slug: "iap"
+    name_toc: "Iap"
+  "DEU":
+    name: "Bada' Ratnan Ukum"
+    slug: "bada-ratnan-ukum"
+    name_toc: "Bada' Ratnan Ukum"
+  "JOS":
+    name: "Yusak"
+    slug: "yusak"
+    name_toc: "Surat Yusak"
+  "JDG":
+    name: "Lun Luk Nguyut"
+    slug: "lun-luk-nguyut"
+    name_toc: "Surat Lun Luk Nguyut"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Surat Rut"
+  "1SA":
+    name: "Semuil Luk Pun-pun"
+    slug: "semuil-luk-pun-pun"
+    name_toc: "Surat Semuil Luk Pun-pun"
+  "2SA":
+    name: "Semuil Luk Kedueh"
+    slug: "semuil-luk-kedueh"
+    name_toc: "Surat Semuil Luk Kedueh"
+  "1KI":
+    name: "Raca'-raca' Luk Pun-pun"
+    slug: "raca-raca-luk-pun-pun"
+    name_toc: "Surat Raca'-raca' Luk Pun-pun"
+  "2KI":
+    name: "Raca'-raca' Luk Kedueh"
+    slug: "raca-raca-luk-kedueh"
+    name_toc: "Surat Raca'-raca' Luk Kedueh"
+  "1CH":
+    name: "Inul Luk Pun-pun"
+    slug: "inul-luk-pun-pun"
+    name_toc: "Surat Inul Luk Pun-pun"
+  "2CH":
+    name: "Inul Luk Kedueh"
+    slug: "inul-luk-kedueh"
+    name_toc: "Surat Inul Luk Kedueh"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Surat Esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Surat Nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Surat Ester"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Surat Ayub"
+  "PSA":
+    name: "Nani Ubur"
+    slug: "nani-ubur"
+    name_toc: "Nani Ubur"
+  "PRO":
+    name: "Bale'"
+    slug: "bale"
+    name_toc: "Surat Bale'"
+  "ECC":
+    name: "Lun Luk Mada'"
+    slug: "lun-luk-mada"
+    name_toc: "Lun Luk Mada'"
+  "SNG":
+    name: "Nani Selimun"
+    slug: "nani-selimun"
+    name_toc: "Nani Selimun"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Surat Yesaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Surat Yeremia"
+  "LAM":
+    name: "Tido Yeremia"
+    slug: "tido-yeremia"
+    name_toc: "Tido Yeremia"
+  "EZK":
+    name: "Yehiskiel"
+    slug: "yehiskiel"
+    name_toc: "Surat Yehiskiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Surat Daniel"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+    name_toc: "Surat Hosia"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Surat Yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Surat Amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Surat Obadia"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+    name_toc: "Surat Yunus"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Surat Mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Surat Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Surat Habakuk"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Surat Sepania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Surat Hagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Surat Sekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Surat Malaki"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Bala Luk Do' Luk Inayud Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Bala Luk Do' Luk Inayud Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Bala Luk Do' Luk Inayud Lukas"
+  "JHN":
+    name: "Yahya"
+    slug: "yahya"
+    name_toc: "Bala Luk Do' Luk Inayud Yahya"
+  "ACT":
+    name: "Kekamen Rasul-rasul"
+    slug: "kekamen-rasul-rasul"
+    name_toc: "Kekamen Rasul-rasul"
+  "ROM":
+    name: "Rum"
+    slug: "rum"
+    name_toc: "Surat Luk Bire Paulus Kuan Lun Rum"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Surat Luk Pun-pun Bire Paulus Kuan Lun Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Surat Luk Kedueh Luk Bire Paulus Kuan Lun Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Surat Luk Bire Paulus Kuan Lun Galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "Surat Luk Bire Paulus Kuan Lun Epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Surat Luk Bire Paulus Kuan Lun Pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Surat Luk Bire Paulus Kuan Lun Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Surat Luk Pun-pun Bire Paulus Kuan Lun Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Surat Luk Kedueh Luk Bire Paulus Kuan Lun Tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Surat Luk Pun-pun Bire Paulus Kuan Timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Surat Luk Kedueh Luk Bire Paulus Kuan Timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Surat Luk Bire Paulus Kuan Titus"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+    name_toc: "Surat Luk Bire Paulus Kuan Pilimon"
+  "HEB":
+    name: "Iberani"
+    slug: "iberani"
+    name_toc: "Surat Luk Bire Kuan Lun Iberani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+    name_toc: "Surat Luk Bire Yakub"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Surat Luk Pun-pun Bire Petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Surat Luk Kedueh Luk Bire Petrus"
+  "1JN":
+    name: "1 Yahya"
+    slug: "1-yahya"
+    name_toc: "Surat Luk Pun-pun Bire Yahya"
+  "2JN":
+    name: "2 Yahya"
+    slug: "2-yahya"
+    name_toc: "Surat Luk Kedueh Luk Bire Yahya"
+  "3JN":
+    name: "3 Yahya"
+    slug: "3-yahya"
+    name_toc: "Surat Luk Keteluh Luk Bire Yahya"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+    name_toc: "Surat Luk Bire Yahuda"
+  "REV":
+    name: "Bala Luk Linio"
+    slug: "bala-luk-linio"
+    name_toc: "Bala Luk Linio Kuan Yahya"

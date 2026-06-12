@@ -1,0 +1,266 @@
+language: "mww"
+books:
+  "GEN":
+    name: "Chivkeeb"
+    slug: "chivkeeb"
+    name_toc: "Chivkeeb"
+  "EXO":
+    name: "Khiav Dim"
+    slug: "khiav-dim"
+    name_toc: "Khiav Dim"
+  "LEV":
+    name: "Levis Kevcai"
+    slug: "levis-kevcai"
+    name_toc: "Phau Levis Kevcai"
+  "NUM":
+    name: "Teev Npe"
+    slug: "teev-npe"
+    name_toc: "Teev Npe"
+  "DEU":
+    name: "Kevcai"
+    slug: "kevcai"
+    name_toc: "Kevcai"
+  "JOS":
+    name: "Yausua"
+    slug: "yausua"
+    name_toc: "Yausua"
+  "JDG":
+    name: "Cov Thawj"
+    slug: "cov-thawj"
+    name_toc: "Cov Thawj"
+  "RUT":
+    name: "Luv"
+    slug: "luv"
+    name_toc: "Luv"
+  "1SA":
+    name: "1 Xamuyee"
+    slug: "1-xamuyee"
+    name_toc: "1 Xamuyee"
+  "2SA":
+    name: "2 Xamuyee"
+    slug: "2-xamuyee"
+    name_toc: "2 Xamuyee"
+  "1KI":
+    name: "1 Vajntxwv"
+    slug: "1-vajntxwv"
+    name_toc: "1 Vajntxwv"
+  "2KI":
+    name: "2 Vajntxwv"
+    slug: "2-vajntxwv"
+    name_toc: "2 Vajntxwv"
+  "1CH":
+    name: "1 Vaj Keeb Kwm"
+    slug: "1-vaj-keeb-kwm"
+    name_toc: "1 Vaj Keeb Kwm"
+  "2CH":
+    name: "2 Vaj Keeb Kwm"
+    slug: "2-vaj-keeb-kwm"
+    name_toc: "2 Vaj Keeb Kwm"
+  "EZR":
+    name: "Exala"
+    slug: "exala"
+    name_toc: "Exala"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Nehemi"
+  "EST":
+    name: "Exathaw"
+    slug: "exathaw"
+    name_toc: "Exathaw"
+  "JOB":
+    name: "Yauj"
+    slug: "yauj"
+    name_toc: "Yauj"
+  "PSA":
+    name: "Ntawv Nkauj"
+    slug: "ntawv-nkauj"
+    name_toc: "Ntawv Nkauj"
+  "PRO":
+    name: "Pajlug"
+    slug: "pajlug"
+    name_toc: "Pajlug"
+  "ECC":
+    name: "Tej Lus Qhia"
+    slug: "tej-lus-qhia"
+    name_toc: "Tej Lus Qhia"
+  "SNG":
+    name: "Xalaumoo Zaj Nkauj"
+    slug: "xalaumoo-zaj-nkauj"
+    name_toc: "Xalaumoo Zaj Nkauj"
+  "ISA":
+    name: "Yaxaya"
+    slug: "yaxaya"
+    name_toc: "Yaxaya"
+  "JER":
+    name: "Yelemi"
+    slug: "yelemi"
+    name_toc: "Yelemi"
+  "LAM":
+    name: "Zaj Nkauj Ntsuag"
+    slug: "zaj-nkauj-ntsuag"
+    name_toc: "Zaj Nkauj Ntsuag"
+  "EZK":
+    name: "Exekhee"
+    slug: "exekhee"
+    name_toc: "Exekhee"
+  "DAN":
+    name: "Daniyee"
+    slug: "daniyee"
+    name_toc: "Daniyee"
+  "HOS":
+    name: "Hauxeya"
+    slug: "hauxeya"
+    name_toc: "Hauxeya"
+  "JOL":
+    name: "Yau‑ee"
+    slug: "yauee"
+    name_toc: "Yau‑ee"
+  "AMO":
+    name: "Amau"
+    slug: "amau"
+    name_toc: "Amau"
+  "OBA":
+    name: "Aunpadiya"
+    slug: "aunpadiya"
+    name_toc: "Aunpadiya"
+  "JON":
+    name: "Yauna"
+    slug: "yauna"
+    name_toc: "Yauna"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nahu"
+    slug: "nahu"
+    name_toc: "Nahu"
+  "HAB":
+    name: "Hanpaku"
+    slug: "hanpaku"
+    name_toc: "Hanpaku"
+  "ZEP":
+    name: "Xefaniya"
+    slug: "xefaniya"
+    name_toc: "Xefaniya"
+  "HAG":
+    name: "Hakai"
+    slug: "hakai"
+    name_toc: "Hakai"
+  "ZEC":
+    name: "Xekhaliya"
+    slug: "xekhaliya"
+    name_toc: "Xekhaliya"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+    name_toc: "Malakhi"
+  "MAT":
+    name: "Mathai"
+    slug: "mathai"
+    name_toc: "Mathai"
+  "MRK":
+    name: "Malakau"
+    slug: "malakau"
+    name_toc: "Malakau"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yauhas"
+    slug: "yauhas"
+    name_toc: "Yauhas"
+  "ACT":
+    name: "Tes Haujlwm"
+    slug: "tes-haujlwm"
+    name_toc: "Cov Timthawj Tes Haujlwm"
+  "ROM":
+    name: "Loos"
+    slug: "loos"
+    name_toc: "Loos"
+  "1CO":
+    name: "1 Khaulee"
+    slug: "1-khaulee"
+    name_toc: "1 Khaulee"
+  "2CO":
+    name: "2 Khaulee"
+    slug: "2-khaulee"
+    name_toc: "2 Khaulee"
+  "GAL":
+    name: "Kalatia"
+    slug: "kalatia"
+    name_toc: "Kalatia"
+  "EPH":
+    name: "Efexau"
+    slug: "efexau"
+    name_toc: "Efexau"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Filipi"
+  "COL":
+    name: "Khaulauxi"
+    slug: "khaulauxi"
+    name_toc: "Khaulauxi"
+  "1TH":
+    name: "1 Thexalaunika"
+    slug: "1-thexalaunika"
+    name_toc: "1 Thexalaunika"
+  "2TH":
+    name: "2 Thexalaunika"
+    slug: "2-thexalaunika"
+    name_toc: "2 Thexalaunika"
+  "1TI":
+    name: "1 Timaute"
+    slug: "1-timaute"
+    name_toc: "1 Timaute"
+  "2TI":
+    name: "2 Timaute"
+    slug: "2-timaute"
+    name_toc: "2 Timaute"
+  "TIT":
+    name: "Titau"
+    slug: "titau"
+    name_toc: "Titau"
+  "PHM":
+    name: "Filemoo"
+    slug: "filemoo"
+    name_toc: "Filemoo"
+  "HEB":
+    name: "Henplais"
+    slug: "henplais"
+    name_toc: "Henplais"
+  "JAS":
+    name: "Yakaunpau"
+    slug: "yakaunpau"
+    name_toc: "Yakaunpau"
+  "1PE":
+    name: "1 Petus"
+    slug: "1-petus"
+    name_toc: "1 Petus"
+  "2PE":
+    name: "2 Petus"
+    slug: "2-petus"
+    name_toc: "2 Petus"
+  "1JN":
+    name: "1 Yauhas"
+    slug: "1-yauhas"
+    name_toc: "1 Yauhas"
+  "2JN":
+    name: "2 Yauhas"
+    slug: "2-yauhas"
+    name_toc: "2 Yauhas"
+  "3JN":
+    name: "3 Yauhas"
+    slug: "3-yauhas"
+    name_toc: "3 Yauhas"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda"
+  "REV":
+    name: "Tshwmsim"
+    slug: "tshwmsim"
+    name_toc: "Tej Yogtoog Uas Yauhas Pom Hauv Phau Tshwmsim"

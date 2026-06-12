@@ -1,0 +1,83 @@
+language: "mbt"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Huwan"
+    slug: "huwan"
+  "ACT":
+    name: "Me Himu"
+    slug: "me-himu"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"
+  "1CO":
+    name: "1 Kurintu"
+    slug: "1-kurintu"
+  "2CO":
+    name: "2 Kurintu"
+    slug: "2-kurintu"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Ipisu"
+    slug: "ipisu"
+  "PHP":
+    name: "Pilipus"
+    slug: "pilipus"
+  "COL":
+    name: "Kulusas"
+    slug: "kulusas"
+  "1TH":
+    name: "1 Tisalunika"
+    slug: "1-tisalunika"
+  "2TH":
+    name: "2 Tisalunika"
+    slug: "2-tisalunika"
+  "1TI":
+    name: "1 Timutiyu"
+    slug: "1-timutiyu"
+  "2TI":
+    name: "2 Timutiyu"
+    slug: "2-timutiyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Hibruwanen"
+    slug: "hibruwanen"
+  "JAS":
+    name: "Santiyagu"
+    slug: "santiyagu"
+  "1PE":
+    name: "1 Pidru"
+    slug: "1-pidru"
+  "2PE":
+    name: "2 Pidru"
+    slug: "2-pidru"
+  "1JN":
+    name: "1 Huwan"
+    slug: "1-huwan"
+  "2JN":
+    name: "2 Huwan"
+    slug: "2-huwan"
+  "3JN":
+    name: "3 Huwan"
+    slug: "3-huwan"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+  "REV":
+    name: "Impakita"
+    slug: "impakita"

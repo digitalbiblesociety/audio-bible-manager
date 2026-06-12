@@ -1,0 +1,32 @@
+language: "mfo"
+books:
+  "GEN":
+    name: "Ittẹwọr"
+    slug: "ittewor"
+  "EXO":
+    name: "Nnwẹr kw'Orenga"
+    slug: "nnwer-kw-orenga"
+  "DEU":
+    name: "Deutẹrọnọmi"
+    slug: "deuteronomi"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Nnwẹr kw'Asi-aponga"
+    slug: "nnwer-kw-asi-aponga"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samwẹl"
+    slug: "1-samwel"
+  "2SA":
+    name: "Nnwẹr kw'ottong afa kwa Samwẹl"
+    slug: "nnwer-kw-ottong-afa-kwa-samwel"
+  "1KI":
+    name: "1 Avaarnọng"
+    slug: "1-avaarnong"
+  "2KI":
+    name: "2 Avaar"
+    slug: "2-avaar"

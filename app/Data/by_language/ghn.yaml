@@ -1,0 +1,83 @@
+language: "ghn"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Jone"
+    slug: "jone"
+  "ACT":
+    name: "Roiti"
+    slug: "roiti"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "1 Koriniti"
+    slug: "1-koriniti"
+  "2CO":
+    name: "2 Koriniti"
+    slug: "2-koriniti"
+  "GAL":
+    name: "Qelesia"
+    slug: "qelesia"
+  "EPH":
+    name: "Episasi"
+    slug: "episasi"
+  "PHP":
+    name: "Pilipae"
+    slug: "pilipae"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Taetusi"
+    slug: "taetusi"
+  "PHM":
+    name: "Pilimone"
+    slug: "pilimone"
+  "HEB":
+    name: "Giburu"
+    slug: "giburu"
+  "JAS":
+    name: "Jekopi"
+    slug: "jekopi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jone"
+    slug: "1-jone"
+  "2JN":
+    name: "2 Jone"
+    slug: "2-jone"
+  "3JN":
+    name: "3 Jone"
+    slug: "3-jone"
+  "JUD":
+    name: "Jiudasi"
+    slug: "jiudasi"
+  "REV":
+    name: "Dogodogoro"
+    slug: "dogodogoro"

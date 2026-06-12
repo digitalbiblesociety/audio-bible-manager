@@ -1,0 +1,83 @@
+language: "hrv"
+books:
+  "MAT":
+    name: "Matej"
+    slug: "matej"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ivan"
+    slug: "ivan"
+  "ACT":
+    name: "Djela apostolska"
+    slug: "djela-apostolska"
+  "ROM":
+    name: "Rimljanima"
+    slug: "rimljanima"
+  "1CO":
+    name: "Korinćanima 1"
+    slug: "korincanima-1"
+  "2CO":
+    name: "Korinćanima 2"
+    slug: "korincanima-2"
+  "GAL":
+    name: "Galaćanima"
+    slug: "galacanima"
+  "EPH":
+    name: "Efežanima"
+    slug: "efezanima"
+  "PHP":
+    name: "Filipljanima"
+    slug: "filipljanima"
+  "COL":
+    name: "Kološanima"
+    slug: "kolosanima"
+  "1TH":
+    name: "Solunjanima 1"
+    slug: "solunjanima-1"
+  "2TH":
+    name: "Solunjanima 2"
+    slug: "solunjanima-2"
+  "1TI":
+    name: "Timoteju 1"
+    slug: "timoteju-1"
+  "2TI":
+    name: "Timoteju 2"
+    slug: "timoteju-2"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebrejima"
+    slug: "hebrejima"
+  "JAS":
+    name: "Jakovljeva"
+    slug: "jakovljeva"
+  "1PE":
+    name: "Petrova 1"
+    slug: "petrova-1"
+  "2PE":
+    name: "Petrova 2"
+    slug: "petrova-2"
+  "1JN":
+    name: "Ivanova 1"
+    slug: "ivanova-1"
+  "2JN":
+    name: "Ivanova 2"
+    slug: "ivanova-2"
+  "3JN":
+    name: "Ivanova 3"
+    slug: "ivanova-3"
+  "JUD":
+    name: "Judina"
+    slug: "judina"
+  "REV":
+    name: "Otkrivenje"
+    slug: "otkrivenje"

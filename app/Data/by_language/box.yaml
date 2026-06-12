@@ -1,0 +1,83 @@
+language: "box"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Maaki"
+    slug: "maaki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Zãn"
+    slug: "zan"
+  "ACT":
+    name: "Bè-wénia"
+    slug: "be-wenia"
+  "ROM":
+    name: "Oroomusa"
+    slug: "oroomusa"
+  "1CO":
+    name: "Korɛntesa nín-yání"
+    slug: "korntesa-nin-yani"
+  "2CO":
+    name: "Korɛntesa ɲun níi"
+    slug: "korntesa-un-nii"
+  "GAL":
+    name: "Kalasiisa"
+    slug: "kalasiisa"
+  "EPH":
+    name: "Efɛɛzesa"
+    slug: "efzesa"
+  "PHP":
+    name: "Filiipusa"
+    slug: "filiipusa"
+  "COL":
+    name: "Koloosisa"
+    slug: "koloosisa"
+  "1TH":
+    name: "Tesaloniikisa nín-yání"
+    slug: "tesaloniikisa-nin-yani"
+  "2TH":
+    name: "Tesaloniikisa ɲun níi"
+    slug: "tesaloniikisa-un-nii"
+  "1TI":
+    name: "Timɔtee nín-yání"
+    slug: "timtee-nin-yani"
+  "2TI":
+    name: "Timɔtee ɲun níi"
+    slug: "timtee-un-nii"
+  "TIT":
+    name: "Tiite"
+    slug: "tiite"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Hebere"
+    slug: "hebere"
+  "JAS":
+    name: "Zaaki"
+    slug: "zaaki"
+  "1PE":
+    name: "Piɛre nín-yání"
+    slug: "pire-nin-yani"
+  "2PE":
+    name: "Piɛre ɲun níi"
+    slug: "pire-un-nii"
+  "1JN":
+    name: "Zãn nín-yání"
+    slug: "zan-nin-yani"
+  "2JN":
+    name: "Zãn ɲun níi"
+    slug: "zan-un-nii"
+  "3JN":
+    name: "Zãn tĩn níi"
+    slug: "zan-tin-nii"
+  "JUD":
+    name: "Zude"
+    slug: "zude"
+  "REV":
+    name: "Bè-sànkanii"
+    slug: "be-sankanii"

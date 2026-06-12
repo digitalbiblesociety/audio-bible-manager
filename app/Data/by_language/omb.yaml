@@ -1,0 +1,47 @@
+language: "omb"
+books:
+  "GEN":
+    name: "Tavui Leo"
+    slug: "tavui-leo"
+  "DEU":
+    name: "Jesua"
+    slug: "jesua"
+  "JOS":
+    name: "Jesua"
+    slug: "jesua"
+  "JDG":
+    name: "Tangaloi Vagamwasoi"
+    slug: "tangaloi-vagamwasoi"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Ratahigi"
+    slug: "1-ratahigi"
+  "2KI":
+    name: "2 Ratahigi"
+    slug: "2-ratahigi"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "PSA":
+    name: "Psa"
+    slug: "psa"
+  "PRO":
+    name: "Pro"
+    slug: "pro"
+  "ISA":
+    name: "Isa"
+    slug: "isa"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+  "JON":
+    name: "Jon"
+    slug: "jon"

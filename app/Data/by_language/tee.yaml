@@ -1,0 +1,83 @@
+language: "tee"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Xivan"
+    slug: "xivan"
+  "ACT":
+    name: "Ixtamalakachan Ju Jesús"
+    slug: "ixtamalakachan-ju-jesus"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+  "GAL":
+    name: "Galacia"
+    slug: "galacia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+  "1TH":
+    name: "1 Tesalónica"
+    slug: "1-tesalonica"
+  "2TH":
+    name: "2 Tesalónica"
+    slug: "2-tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Ju Israelitanin"
+    slug: "ju-israelitanin"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pitalu'"
+    slug: "1-pitalu"
+  "2PE":
+    name: "2 Pitalu'"
+    slug: "2-pitalu"
+  "1JN":
+    name: "1 Xivan"
+    slug: "1-xivan"
+  "2JN":
+    name: "2 Xivan"
+    slug: "2-xivan"
+  "3JN":
+    name: "3 Xivan"
+    slug: "3-xivan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Ju Amavasalacalh"
+    slug: "ju-amavasalacalh"

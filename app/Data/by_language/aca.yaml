@@ -1,0 +1,32 @@
+language: "aca"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "JUD":
+    name: "San Judas"
+    slug: "san-judas"

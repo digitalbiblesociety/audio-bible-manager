@@ -1,0 +1,83 @@
+language: "kpj"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joaõ"
+    slug: "joao"
+  "ACT":
+    name: "Aõhebo Rotỹỹnyre"
+    slug: "aohebo-rotyynyre"
+  "ROM":
+    name: "Roma-ò"
+    slug: "roma-o"
+  "1CO":
+    name: "1 Oritxi-ò"
+    slug: "1-oritxi-o"
+  "2CO":
+    name: "2 Oritxi-ò"
+    slug: "2-oritxi-o"
+  "GAL":
+    name: "Alatxia-ò"
+    slug: "alatxia-o"
+  "EPH":
+    name: "Efesu-ò"
+    slug: "efesu-o"
+  "PHP":
+    name: "Filipi‑ò"
+    slug: "filipio"
+  "COL":
+    name: "Òlòsò‑ò"
+    slug: "olosoo"
+  "1TH":
+    name: "1 Tesalonia‑ò"
+    slug: "1-tesaloniao"
+  "2TH":
+    name: "2 Tesalonia‑ò"
+    slug: "2-tesaloniao"
+  "1TI":
+    name: "1 Tximòtxi-ò"
+    slug: "1-tximotxi-o"
+  "2TI":
+    name: "2 Tximòtxi-ò"
+    slug: "2-tximotxi-o"
+  "TIT":
+    name: "Txitu‑ò"
+    slug: "txituo"
+  "PHM":
+    name: "Filemo‑ò"
+    slug: "filemoo"
+  "HEB":
+    name: "Hebreu‑ò"
+    slug: "hebreuo"
+  "JAS":
+    name: "Txiau"
+    slug: "txiau"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juaõ"
+    slug: "1-juao"
+  "2JN":
+    name: "2 Joaõ"
+    slug: "2-joao"
+  "3JN":
+    name: "3 Juaõ"
+    slug: "3-juao"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apocalipse"
+    slug: "apocalipse"

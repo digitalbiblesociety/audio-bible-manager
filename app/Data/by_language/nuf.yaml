@@ -1,0 +1,5 @@
+language: "nuf"
+books:
+  "JHN":
+    name: "Jhn"
+    slug: "jhn"

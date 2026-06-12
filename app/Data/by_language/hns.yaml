@@ -1,0 +1,83 @@
+language: "hns"
+books:
+  "MAT":
+    name: "Mateas"
+    slug: "mateas"
+  "MRK":
+    name: "Markas"
+    slug: "markas"
+  "LUK":
+    name: "Loekaas"
+    slug: "loekaas"
+  "JHN":
+    name: "Johaanas"
+    slug: "johaanas"
+  "ACT":
+    name: "Pathaawal Waalan"
+    slug: "pathaawal-waalan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korente"
+    slug: "1-korente"
+  "2CO":
+    name: "2 Korente"
+    slug: "2-korente"
+  "GAL":
+    name: "Gaalaatsia"
+    slug: "gaalaatsia"
+  "EPH":
+    name: "Efese"
+    slug: "efese"
+  "PHP":
+    name: "Fielepie"
+    slug: "fielepie"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Tesaalonieka"
+    slug: "1-tesaalonieka"
+  "2TH":
+    name: "2 Tesaalonieka"
+    slug: "2-tesaalonieka"
+  "1TI":
+    name: "1 Tiemotias"
+    slug: "1-tiemotias"
+  "2TI":
+    name: "2 Tiemotias"
+    slug: "2-tiemotias"
+  "TIT":
+    name: "Tietas"
+    slug: "tietas"
+  "PHM":
+    name: "Fielemon"
+    slug: "fielemon"
+  "HEB":
+    name: "Hebar log"
+    slug: "hebar-log"
+  "JAS":
+    name: "Jaakobas"
+    slug: "jaakobas"
+  "1PE":
+    name: "1 Petras"
+    slug: "1-petras"
+  "2PE":
+    name: "2 Petras"
+    slug: "2-petras"
+  "1JN":
+    name: "1 Johaanas"
+    slug: "1-johaanas"
+  "2JN":
+    name: "2 Johaanas"
+    slug: "2-johaanas"
+  "3JN":
+    name: "3 Johaanas"
+    slug: "3-johaanas"
+  "JUD":
+    name: "Joedaas"
+    slug: "joedaas"
+  "REV":
+    name: "Aagam ke baat"
+    slug: "aagam-ke-baat"

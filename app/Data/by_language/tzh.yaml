@@ -1,0 +1,266 @@
+language: "tzh"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+    name_toc: "ELIVULU lia ESTER"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+    name_toc: "ELIVULU lia YOVI"
+  "LEV":
+    name: "Levítico"
+    slug: "levitico"
+    name_toc: "ELIVULU lia OLOSAMO"
+  "NUM":
+    name: "Números"
+    slug: "numeros"
+    name_toc: "ELIVULU LIOLOSAPO via SALOMONE"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Ukundi"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "Ocisungo Ca Salomone"
+  "JDG":
+    name: "Jueces"
+    slug: "jueces"
+    name_toc: "ELIVULU lia ISAYA"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "ELIVULU lia YEREMIYA"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "ELIVULU lia ASIÕSUILO"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "ELIVULU lia ESEKIELE"
+  "1KI":
+    name: "1 Reyes"
+    slug: "1-reyes"
+    name_toc: "ELIVULU lia DANIELE"
+  "2KI":
+    name: "2 Reyes"
+    slug: "2-reyes"
+    name_toc: "ELIVULU lia HOSEA"
+  "1CH":
+    name: "1 Crónicas"
+    slug: "1-cronicas"
+    name_toc: "ELIVULU lia YOELI"
+  "2CH":
+    name: "2 Crónicas"
+    slug: "2-cronicas"
+    name_toc: "ELIVULU lia AMOSI"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "ELIVULU lia OVADIYA"
+  "NEH":
+    name: "Nehemías"
+    slug: "nehemias"
+    name_toc: "ELIVULU lia YONA"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "ELIVULU lia MIKA"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "ELIVULU lia NAHUMI"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+    name_toc: "ELIVULU lia HAVAKUKI"
+  "PRO":
+    name: "Proverbios"
+    slug: "proverbios"
+    name_toc: "ELIVULU lia SOFONIYA"
+  "ECC":
+    name: "Eclesiastés"
+    slug: "eclesiastes"
+    name_toc: "ELIVULU lia HAGAI"
+  "SNG":
+    name: "Cantares"
+    slug: "cantares"
+    name_toc: "ELIVULU lia SAKARIYA"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+    name_toc: "ELIVULU lia MALAKIYA"
+  "JER":
+    name: "Jeremías"
+    slug: "jeremias"
+    name_toc: "Elivulu Liondaka Yiwa Ya Yesu Kristu Ya Sapula Mateo"
+  "LAM":
+    name: "Lamentaciones"
+    slug: "lamentaciones"
+    name_toc: "Elivulu Liondaka Yiwa Ya Yesu Kristu Ya Sapula Marko"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+    name_toc: "Elivulu Liondaka Yiwa Ya Yesu Kristu Ya Sapula Luka"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Elivulu Liondaka Yiwa Ya Yesu Kristu Ya Sapula Yoano"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Elivulu Liovilinga Viovapostolo"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Ukanda Paulu A Sonehela Va Roma"
+  "AMO":
+    name: "Amós"
+    slug: "amos"
+    name_toc: "Ukanda Watete Paulu A Sonehela Va Korindo"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "Ukanda Wavali Paulu A Sonehela Va Korindo"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+    name_toc: "Ukanda Paulu A Sonehela Va Galatia"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Ukanda Paulu A Sonehela Va Efeso"
+  "NAM":
+    name: "Nahúm"
+    slug: "nahum"
+    name_toc: "Ukanda Paulu A Sonehela Va Filipoi"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Ukanda Paulu A Sonehela Va Kolosai"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "Ukanda Watete Paulu A Sonehela Va Tesalonike"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Ukanda Wavali Paulu A Sonehela Va Tesalonike"
+  "ZEC":
+    name: "Zacarías"
+    slug: "zacarias"
+    name_toc: "Ukanda Watete Paulu A Sonehela Timoteo"
+  "MAL":
+    name: "Malaquías"
+    slug: "malaquias"
+    name_toc: "Ukanda Wavali Paulu A Sonehela Timoteo"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Carta de san Pablo a Tito"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "Carta de san Pablo a Filemón"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Carta a los Hebreos"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Carta de Santiago"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+    name_toc: "Primera carta de san Pedro"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+    name_toc: "Segunda carta de san Pedro"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+    name_toc: "Primera carta de san Juan"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+    name_toc: "Segunda carta de san Juan"
+  "GAL":
+    name: "Galatas"
+    slug: "galatas"
+    name_toc: "Tercera carta de san Juan"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+    name_toc: "Carta de san Judas"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+    name_toc: "Apocalipsis"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+    name_toc: "ELIVULU LIATETE LIA MOSE lia lukiwa EFETIKILO"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+    name_toc: "ELIVULU LIAVALI LIA MOSE lia lukiwa ETUNDILO"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+    name_toc: "ELIVULU LIATATU LIA MOSE lia lukiwa OVISILA"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "ELIVULU LIAKUÃLA LIA MOSE lia lukiwa ATENDELO"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "ELIVULU LIATÃLO LIA MOSE lia lukiwa ESINUMUĨLO"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "ELIVULU lia YEHOSUA"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Elivulu Liolonganji"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+    name_toc: "ELIVULU lia RUTI"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "ELIVULU LIATETE lia SAMUELE"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "ELIVULU LIAVALI lia SAMUELE"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "ELIVULU LIATETE li OLOSOMA"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "ELIVULU LIAVALI lia OLOSOMA"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "ELIVULU LIATETE li ASAPULO"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "ELIVULU LIAVALI lia ASAPULO"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "ELIVULU lia ESERA"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"
+    name_toc: "ELIVULU lia NEHEMIYA"

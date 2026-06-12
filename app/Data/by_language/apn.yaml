@@ -1,0 +1,83 @@
+language: "apn"
+books:
+  "MAT":
+    name: "Matêwre"
+    slug: "matewre"
+  "MRK":
+    name: "Makre"
+    slug: "makre"
+  "LUK":
+    name: "Rukre"
+    slug: "rukre"
+  "JHN":
+    name: "Juãw"
+    slug: "juaw"
+  "ACT":
+    name: "Atre"
+    slug: "atre"
+  "ROM":
+    name: "Rõmãn"
+    slug: "roman"
+  "1CO":
+    name: "Wam Korĩt"
+    slug: "wam-korit"
+  "2CO":
+    name: "Sikũn Korĩt"
+    slug: "sikun-korit"
+  "GAL":
+    name: "Karatas"
+    slug: "karatas"
+  "EPH":
+    name: "Epes"
+    slug: "epes"
+  "PHP":
+    name: "Piripos"
+    slug: "piripos"
+  "COL":
+    name: "Korosẽ"
+    slug: "korose"
+  "1TH":
+    name: "Wam Tesarõn"
+    slug: "wam-tesaron"
+  "2TH":
+    name: "Sikũn Tesarõn"
+    slug: "sikun-tesaron"
+  "1TI":
+    name: "Wam Ximotre"
+    slug: "wam-ximotre"
+  "2TI":
+    name: "Sikũn Ximotre"
+    slug: "sikun-ximotre"
+  "TIT":
+    name: "Xitre"
+    slug: "xitre"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Eprêw"
+    slug: "eprew"
+  "JAS":
+    name: "Xiakre"
+    slug: "xiakre"
+  "1PE":
+    name: "Wam Pêtre"
+    slug: "wam-petre"
+  "2PE":
+    name: "Sikũn Pêtre"
+    slug: "sikun-petre"
+  "1JN":
+    name: "Wam Juãw"
+    slug: "wam-juaw"
+  "2JN":
+    name: "Sikũn Juãw"
+    slug: "sikun-juaw"
+  "3JN":
+    name: "Hapuhã Juãw"
+    slug: "hapuha-juaw"
+  "JUD":
+    name: "Jutre"
+    slug: "jutre"
+  "REV":
+    name: "Apokarip"
+    slug: "apokarip"

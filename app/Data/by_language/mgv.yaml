@@ -1,0 +1,83 @@
+language: "mgv"
+books:
+  "MAT":
+    name: "Matei"
+    slug: "matei"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Mahengu"
+    slug: "mahengu"
+  "ROM":
+    name: "Aloma"
+    slug: "aloma"
+  "1CO":
+    name: "1Akolintu"
+    slug: "1akolintu"
+  "2CO":
+    name: "2 Akolintu"
+    slug: "2-akolintu"
+  "GAL":
+    name: "Agalatia"
+    slug: "agalatia"
+  "EPH":
+    name: "Aepesu"
+    slug: "aepesu"
+  "PHP":
+    name: "Apilipi"
+    slug: "apilipi"
+  "COL":
+    name: "Akolosai"
+    slug: "akolosai"
+  "1TH":
+    name: "1 Atesaloniki"
+    slug: "1-atesaloniki"
+  "2TH":
+    name: "2 Atesaloniki"
+    slug: "2-atesaloniki"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pilimini"
+    slug: "pilimini"
+  "HEB":
+    name: "Aebulania"
+    slug: "aebulania"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+  "1PE":
+    name: "1 Petili"
+    slug: "1-petili"
+  "2PE":
+    name: "2 Petili"
+    slug: "2-petili"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Uyekulii"
+    slug: "uyekulii"

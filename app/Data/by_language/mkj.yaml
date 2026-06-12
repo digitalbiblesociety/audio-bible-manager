@@ -1,0 +1,8 @@
+language: "mkj"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"

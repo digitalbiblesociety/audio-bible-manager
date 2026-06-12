@@ -1,0 +1,236 @@
+language: "tpi"
+books:
+  "GEN":
+    name: "Stat"
+    slug: "stat"
+  "EXO":
+    name: "Kisim Bek"
+    slug: "kisim-bek"
+  "LEV":
+    name: "Wok Pris"
+    slug: "wok-pris"
+  "NUM":
+    name: "Namba"
+    slug: "namba"
+  "DEU":
+    name: "Lo"
+    slug: "lo"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Hetman"
+    slug: "hetman"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 King"
+    slug: "1-king"
+  "2KI":
+    name: "2 King"
+    slug: "2-king"
+  "1CH":
+    name: "1 Stori"
+    slug: "1-stori"
+  "2CH":
+    name: "2 Stori"
+    slug: "2-stori"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Buk Song"
+    slug: "buk-song"
+  "PRO":
+    name: "Gutpela Sindaun"
+    slug: "gutpela-sindaun"
+  "ECC":
+    name: "Saveman"
+    slug: "saveman"
+  "SNG":
+    name: "Solomon"
+    slug: "solomon"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Krai"
+    slug: "krai"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Esta Grik"
+    slug: "esta-grik"
+  "WIS":
+    name: "Gutpela Stretpela Tingting"
+    slug: "gutpela-stretpela-tingting"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "LJE":
+    name: "Pas Bilong Jeremaia"
+    slug: "pas-bilong-jeremaia"
+  "S3Y":
+    name: "Tripela Yangpela Man"
+    slug: "tripela-yangpela-man"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+  "1MA":
+    name: "1 Makabi"
+    slug: "1-makabi"
+  "2MA":
+    name: "2 Makabi"
+    slug: "2-makabi"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Kamapim Tok Hait"
+    slug: "kamapim-tok-hait"

@@ -1,0 +1,83 @@
+language: "ttc"
+books:
+  "MAT":
+    name: "Stz'ib'en Matey"
+    slug: "stziben-matey"
+  "MRK":
+    name: "Stz'ib'en Mak"
+    slug: "stziben-mak"
+  "LUK":
+    name: "Stz'ib'en Luks"
+    slug: "stziben-luks"
+  "JHN":
+    name: "Stz'ib'en Wa'nch"
+    slug: "stziben-wanch"
+  "ACT":
+    name: "Kyaq'umb'en Kye Tky'ixel Jesus"
+    slug: "kyaqumben-kye-tkyixel-jesus"
+  "ROM":
+    name: "Kye Aj Rom"
+    slug: "kye-aj-rom"
+  "1CO":
+    name: "Tb'ay U'j Kye Aj Korint"
+    slug: "tbay-uj-kye-aj-korint"
+  "2CO":
+    name: "Tkab'i' U'j Kye Aj Korint"
+    slug: "tkabi-uj-kye-aj-korint"
+  "GAL":
+    name: "Kye Aj Galasy"
+    slug: "kye-aj-galasy"
+  "EPH":
+    name: "Kye Aj Efeso"
+    slug: "kye-aj-efeso"
+  "PHP":
+    name: "Kye Aj Filipos"
+    slug: "kye-aj-filipos"
+  "COL":
+    name: "Kye Aj Kolosas"
+    slug: "kye-aj-kolosas"
+  "1TH":
+    name: "Tb'ay U'j Kye Aj Tesalonk"
+    slug: "tbay-uj-kye-aj-tesalonk"
+  "2TH":
+    name: "Tkab'i' U'j Kye Aj Tesalonk"
+    slug: "tkabi-uj-kye-aj-tesalonk"
+  "1TI":
+    name: "Tb'ay U'j Te Timotey"
+    slug: "tbay-uj-te-timotey"
+  "2TI":
+    name: "Tkab'i' U'j Te Timotey"
+    slug: "tkabi-uj-te-timotey"
+  "TIT":
+    name: "Te Tit"
+    slug: "te-tit"
+  "PHM":
+    name: "Te Mo'nch"
+    slug: "te-monch"
+  "HEB":
+    name: "Kye Ebrey"
+    slug: "kye-ebrey"
+  "JAS":
+    name: "Stz'ib'en Chaw"
+    slug: "stziben-chaw"
+  "1PE":
+    name: "Tb'ay U'j Stz'ib'en Xhpe'y"
+    slug: "tbay-uj-stziben-xhpey"
+  "2PE":
+    name: "Tkab'i' U'j Stz'ib'en Xhpe'y"
+    slug: "tkabi-uj-stziben-xhpey"
+  "1JN":
+    name: "Tb'ay U'j Stz'ib'en Wa'nch"
+    slug: "tbay-uj-stziben-wanch"
+  "2JN":
+    name: "Tkab'i' U'j Stz'ib'en Wa'nch"
+    slug: "tkabi-uj-stziben-wanch"
+  "3JN":
+    name: "Toxi' U'j Stz'ib'en Wa'nch"
+    slug: "toxi-uj-stziben-wanch"
+  "JUD":
+    name: "Stz'ib'en Juds"
+    slug: "stziben-juds"
+  "REV":
+    name: "Te Tmankb'il"
+    slug: "te-tmankbil"

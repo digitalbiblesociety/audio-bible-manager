@@ -1,0 +1,83 @@
+language: "mux"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Lluk"
+    slug: "lluk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Liipa Mundurum Yima"
+    slug: "liipa-mundurum-yima"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Korin Kumbi-lepale"
+    slug: "korin-kumbi-lepale"
+  "2CO":
+    name: "Korin Aelepale"
+    slug: "korin-aelepale"
+  "GAL":
+    name: "Gallesia"
+    slug: "gallesia"
+  "EPH":
+    name: "Epesas"
+    slug: "epesas"
+  "PHP":
+    name: "Pillipai"
+    slug: "pillipai"
+  "COL":
+    name: "Kollosi"
+    slug: "kollosi"
+  "1TH":
+    name: "Tesallonaika Kumbi-lepale"
+    slug: "tesallonaika-kumbi-lepale"
+  "2TH":
+    name: "Tesallonaika Aelepale"
+    slug: "tesallonaika-aelepale"
+  "1TI":
+    name: "Timoti Kumbi-lepale"
+    slug: "timoti-kumbi-lepale"
+  "2TI":
+    name: "Timoti Aelepale"
+    slug: "timoti-aelepale"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Pillimon"
+    slug: "pillimon"
+  "HEB":
+    name: "Ipuru"
+    slug: "ipuru"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "Pita Kumbi-lepale"
+    slug: "pita-kumbi-lepale"
+  "2PE":
+    name: "Pita Aelepale"
+    slug: "pita-aelepale"
+  "1JN":
+    name: "Jon Kumbi-lepale"
+    slug: "jon-kumbi-lepale"
+  "2JN":
+    name: "Jon Tale-sipale"
+    slug: "jon-tale-sipale"
+  "3JN":
+    name: "Jon Yupuku-sipale"
+    slug: "jon-yupuku-sipale"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Liipa Ora Sirim"
+    slug: "liipa-ora-sirim"

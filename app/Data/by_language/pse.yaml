@@ -1,0 +1,110 @@
+language: "pse"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Tito"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Filemón"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Hebreos"
+  "JHN":
+    name: "Yuhanis"
+    slug: "yuhanis"
+    name_toc: "Santiago"
+  "ACT":
+    name: "Rasul"
+    slug: "rasul"
+    name_toc: "1 Pedro"
+  "ROM":
+    name: "Rum"
+    slug: "rum"
+    name_toc: "2 Pedro"
+  "1CO":
+    name: "1 Kurintus"
+    slug: "1-kurintus"
+    name_toc: "1 Juan"
+  "2CO":
+    name: "2 Kurintus"
+    slug: "2-kurintus"
+    name_toc: "2 Juan"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "3 Juan"
+  "EPH":
+    name: "Ipisus"
+    slug: "ipisus"
+    name_toc: "Judas"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Apocalipsis"
+  "COL":
+    name: "Kulusi"
+    slug: "kulusi"
+    name_toc: "Génesis"
+  "1TH":
+    name: "1 Tesalunika"
+    slug: "1-tesalunika"
+    name_toc: "Éxodo"
+  "2TH":
+    name: "2 Tesalunika"
+    slug: "2-tesalunika"
+    name_toc: "Deuteronomio"
+  "1TI":
+    name: "1 Timutius"
+    slug: "1-timutius"
+    name_toc: "Josué"
+  "2TI":
+    name: "2 Timutius"
+    slug: "2-timutius"
+    name_toc: "Jueces"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Rut"
+  "PHM":
+    name: "Pilemun"
+    slug: "pilemun"
+    name_toc: "Primer libro de Samuel"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Segundo libro de Samuel"
+  "JAS":
+    name: "Yakubus"
+    slug: "yakubus"
+    name_toc: "Primer libro de los Reyes"
+  "1PE":
+    name: "1 Pitrus"
+    slug: "1-pitrus"
+    name_toc: "Segundo libro de los Reyes"
+  "2PE":
+    name: "2 Pitrus"
+    slug: "2-pitrus"
+    name_toc: "Primer libro de las Crónicas"
+  "1JN":
+    name: "1 Yuhanis"
+    slug: "1-yuhanis"
+    name_toc: "Segundo libro de las Crónicas"
+  "2JN":
+    name: "2 Yuhanis"
+    slug: "2-yuhanis"
+    name_toc: "Esdras"
+  "3JN":
+    name: "3 Yuhanis"
+    slug: "3-yuhanis"
+    name_toc: "Nehemías"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Ester"
+  "REV":
+    name: "Pengina'an"
+    slug: "pengina-an"
+    name_toc: "Job"

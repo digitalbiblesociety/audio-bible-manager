@@ -1,0 +1,200 @@
+language: "dop"
+books:
+  "GEN":
+    name: "Kɑncɑɑlɑɣɑ"
+    slug: "kncl"
+  "EXO":
+    name: "Lɩɩʋ"
+    slug: "l"
+  "LEV":
+    name: "Lefii"
+    slug: "lefii"
+  "NUM":
+    name: "Kʋkɑlʋɣʋ"
+    slug: "kkl"
+  "DEU":
+    name: "Kʋsǝsɩɩtʋ Lɛlʋɣʋ"
+    slug: "ksst-ll"
+  "JOS":
+    name: "Yosuwee"
+    slug: "yosuwee"
+  "JDG":
+    name: "Pɑɑsǝnlɑɑ"
+    slug: "psnl"
+  "RUT":
+    name: "Luuti"
+    slug: "luuti"
+  "1SA":
+    name: "Sɑmiyɛɛlɩ I"
+    slug: "smiyl-i"
+  "2SA":
+    name: "Sɑmiyɛɛlɩ II"
+    slug: "smiyl-ii"
+  "1KI":
+    name: "Awulɑɑ I"
+    slug: "awul-i"
+  "2KI":
+    name: "Awulɑɑ II"
+    slug: "awul-ii"
+  "1CH":
+    name: "Kʋtɔɔsʋtʋ I"
+    slug: "ktst-i"
+  "2CH":
+    name: "Kʋtɔɔsʋtʋ II"
+    slug: "ktst-ii"
+  "EZR":
+    name: "Ɩsǝtǝlɑsɩ"
+    slug: "stls"
+  "NEH":
+    name: "Nehemii"
+    slug: "nehemii"
+  "EST":
+    name: "Ɩsǝtɛɛ"
+    slug: "st"
+  "JOB":
+    name: "Soopu"
+    slug: "soopu"
+  "PSA":
+    name: "Yontu"
+    slug: "yontu"
+  "PRO":
+    name: "Atuwɑ"
+    slug: "atuw"
+  "ECC":
+    name: "Ləmɑɣɑsɛɛ tʋ"
+    slug: "lems-t"
+  "SNG":
+    name: "Yontu Tɑɑ Yontu"
+    slug: "yontu-t-yontu"
+  "ISA":
+    name: "Ɩsɑyii"
+    slug: "syii"
+  "JER":
+    name: "Selemii"
+    slug: "selemii"
+  "LAM":
+    name: "Wulɑ"
+    slug: "wul"
+  "EZK":
+    name: "Ɩsekiyɛɛlɩ"
+    slug: "sekiyl"
+  "DAN":
+    name: "Tɑniyɛɛlɩ"
+    slug: "tniyl"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Sowɛɛlɩ"
+    slug: "sowl"
+  "AMO":
+    name: "Amɔɔsɩ"
+    slug: "ams"
+  "OBA":
+    name: "Apitiyɑɑsɩ"
+    slug: "apitiys"
+  "JON":
+    name: "Yonɑɑsɩ"
+    slug: "yons"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+  "NAM":
+    name: "Nɑhum"
+    slug: "nhum"
+  "HAB":
+    name: "Hɑpɑkuku"
+    slug: "hpkuku"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Asee"
+    slug: "asee"
+  "ZEC":
+    name: "Sɑkɑlɩ"
+    slug: "skl"
+  "MAL":
+    name: "Mɑlɑsi"
+    slug: "mlsi"
+  "MAT":
+    name: "Mɑtiyee"
+    slug: "mtiyee"
+  "MRK":
+    name: "Mɑlǝkɩ"
+    slug: "mlk"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Yohɑɑnɩ"
+    slug: "yohn"
+  "ACT":
+    name: "Tillɑɑ Tǝmlɛ"
+    slug: "till-tml"
+  "ROM":
+    name: "Lom"
+    slug: "lom"
+  "1CO":
+    name: "Kɔlɛntɩ I"
+    slug: "klnt-i"
+  "2CO":
+    name: "Kɔlɛntɩ II"
+    slug: "klnt-ii"
+  "GAL":
+    name: "Kɑlɑtɩ"
+    slug: "klt"
+  "EPH":
+    name: "Ɩfeesu"
+    slug: "feesu"
+  "PHP":
+    name: "Filipʋ"
+    slug: "filip"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "Tɛsɑlonikɩ I"
+    slug: "tslonik-i"
+  "2TH":
+    name: "Tɛsɑlonikɩ II"
+    slug: "tslonik-ii"
+  "1TI":
+    name: "Timotee I"
+    slug: "timotee-i"
+  "2TI":
+    name: "Timotee II"
+    slug: "timotee-ii"
+  "TIT":
+    name: "Titʋ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filemn"
+  "HEB":
+    name: "Hepǝlɑ"
+    slug: "hepl"
+  "JAS":
+    name: "Sɑɑkɩ"
+    slug: "sk"
+  "1PE":
+    name: "Piyɛɛ I"
+    slug: "piy-i"
+  "2PE":
+    name: "Piyɛɛ II"
+    slug: "piy-ii"
+  "1JN":
+    name: "Yohɑɑnɩ I"
+    slug: "yohn-i"
+  "2JN":
+    name: "Yohɑɑnɩ II"
+    slug: "yohn-ii"
+  "3JN":
+    name: "Yohɑɑnɩ III"
+    slug: "yohn-iii"
+  "JUD":
+    name: "Yuti"
+    slug: "yuti"
+  "REV":
+    name: "Kukulutu"
+    slug: "kukulutu"

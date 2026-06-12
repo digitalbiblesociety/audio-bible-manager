@@ -1,0 +1,71 @@
+language: "brb"
+books:
+  "GEN":
+    name: "បាត់ អន់នួរៗ ពន់ឋើម"
+    slug: "bat-annuor-ponthaeum"
+  "RUT":
+    name: "រត"
+    slug: "rot"
+  "PSA":
+    name: "ព្រតឹះ ព្រនែ"
+    slug: "proth-prone"
+  "JON":
+    name: "យណ"
+    slug: "yon"
+  "MAT":
+    name: "ម៉ាថាយ"
+    slug: "mathay"
+  "MRK":
+    name: "កាន ប៉ិន អង់កល់ៗ"
+    slug: "kan-ben-angkal"
+  "LUK":
+    name: "លក"
+    slug: "lok"
+  "ACT":
+    name: "កព"
+    slug: "kap"
+  "ROM":
+    name: "រ៉ូម"
+    slug: "rom"
+  "1CO":
+    name: "១ កូរិនថុះ"
+    slug: "1-korinthoh"
+  "2CO":
+    name: "២ កូរិនថុះ"
+    slug: "2-korinthoh"
+  "EPH":
+    name: "អ៊ែភែសូ"
+    slug: "epheso"
+  "PHP":
+    name: "ភីលីប"
+    slug: "philib"
+  "COL":
+    name: "កូឡុះ"
+    slug: "koloh"
+  "1TH":
+    name: "១ ធែសាឡូនិក"
+    slug: "1-thesalonik"
+  "2TH":
+    name: "២ ធែសាឡូនិក"
+    slug: "2-thesalonik"
+  "1TI":
+    name: "១ ទីម៉ូធែ"
+    slug: "1-timothe"
+  "2TI":
+    name: "២ ធីម៉ូធែ"
+    slug: "2-thimothe"
+  "TIT":
+    name: "ទីតុះ"
+    slug: "titoh"
+  "PHM":
+    name: "ភីលែម៉ូន"
+    slug: "philemon"
+  "JAS":
+    name: "យ៉ាគ់ យ៉ាកុប"
+    slug: "yak-yakob"
+  "1PE":
+    name: "តើម ប៊ឹង យ៉ាគ់ ពែត្រុះ"
+    slug: "taeum-bung-yak-petroh"
+  "2PE":
+    name: "២ពែត្រុះ"
+    slug: "2petroh"

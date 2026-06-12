@@ -1,0 +1,83 @@
+language: "bod"
+books:
+  "MAT":
+    name: "མད་ཐཱ།"
+    slug: "mad-tha"
+  "MRK":
+    name: "མཱཪ་ཀུ"
+    slug: "ma-ku"
+  "LUK":
+    name: "ལོ་ཀུ"
+    slug: "lo-ku"
+  "JHN":
+    name: "ཡོ་ཧ་ནན།"
+    slug: "yo-ha-nan"
+  "ACT":
+    name: "མཛད་འཕྲིན།"
+    slug: "mdzad-phrin"
+  "ROM":
+    name: "རོ་མཱ་པ།"
+    slug: "ro-ma-pa"
+  "1CO":
+    name: "ཀོ་རིན་ཐུ་པ་དང་པོ།"
+    slug: "ko-rin-thu-pa-dang-po"
+  "2CO":
+    name: "ཀོ་རིན་ཐུ་པ་གཉིས་པ།"
+    slug: "ko-rin-thu-pa-gnyis-pa"
+  "GAL":
+    name: "ག་ལད་ཡཱ་པ།"
+    slug: "ga-lad-ya-pa"
+  "EPH":
+    name: "ཨེ་ཕེ་སི་པ།"
+    slug: "e-phe-si-pa"
+  "PHP":
+    name: "ཕི་ལིབ་པི་པ།"
+    slug: "phi-lib-pi-pa"
+  "COL":
+    name: "ཀོ་ལོ་སཱ་པ།"
+    slug: "ko-lo-sa-pa"
+  "1TH":
+    name: "ཐེ་སཱ་ལོ་ནེ་ཀེ་དང་པོ།"
+    slug: "the-sa-lo-ne-ke-dang-po"
+  "2TH":
+    name: "ཐེ་སཱ་ལོ་ནེ་ཀེ་གཉིས་པ།"
+    slug: "the-sa-lo-ne-ke-gnyis-pa"
+  "1TI":
+    name: "ཐི་མོ་ཐེ་དང་པོ།"
+    slug: "thi-mo-the-dang-po"
+  "2TI":
+    name: "ཐི་མོ་ཐེ་གཉིས་པ།"
+    slug: "thi-mo-the-gnyis-pa"
+  "TIT":
+    name: "ཐེ་ཏུ།"
+    slug: "the-tu"
+  "PHM":
+    name: "ཕི་ལེ་མོན།"
+    slug: "phi-le-mon"
+  "HEB":
+    name: "ཨིབ་རི་པ།"
+    slug: "ib-ri-pa"
+  "JAS":
+    name: "ཡ་ཀོབ།"
+    slug: "ya-kob"
+  "1PE":
+    name: "པེ་ཏྲོ་དང་པོ།"
+    slug: "pe-tro-dang-po"
+  "2PE":
+    name: "པེ་ཏྲོ་གཉིས་པ།"
+    slug: "pe-tro-gnyis-pa"
+  "1JN":
+    name: "ཡོ་ཧ་ནན་དང་པོ།"
+    slug: "yo-ha-nan-dang-po"
+  "2JN":
+    name: "ཡོ་ཧ་ནན་གཉིས་པ།"
+    slug: "yo-ha-nan-gnyis-pa"
+  "3JN":
+    name: "ཡོ་ཧ་ནན་གསུམ་པ།"
+    slug: "yo-ha-nan-gsum-pa"
+  "JUD":
+    name: "ཡ་ཧུ་དཱ།"
+    slug: "ya-hu-da"
+  "REV":
+    name: "མངོན་པ།"
+    slug: "mngon-pa"

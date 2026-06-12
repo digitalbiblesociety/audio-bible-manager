@@ -1,0 +1,83 @@
+language: "mbl"
+books:
+  "MAT":
+    name: "Mãteo"
+    slug: "mateo"
+  "MRK":
+    name: "Mã'ak"
+    slug: "maak"
+  "LUK":
+    name: "Nok"
+    slug: "nok"
+  "JHN":
+    name: "Yoãm"
+    slug: "yoam"
+  "ACT":
+    name: "'At"
+    slug: "at"
+  "ROM":
+    name: "Hõmãn"
+    slug: "homan"
+  "1CO":
+    name: "1 Konĩn"
+    slug: "1-konin"
+  "2CO":
+    name: "2 Konĩn"
+    slug: "2-konin"
+  "GAL":
+    name: "Gat"
+    slug: "gat"
+  "EPH":
+    name: "'Epex"
+    slug: "epex"
+  "PHP":
+    name: "Pinipẽn"
+    slug: "pinipen"
+  "COL":
+    name: "Konoxẽn"
+    slug: "konoxen"
+  "1TH":
+    name: "1 Texanõn"
+    slug: "1-texanon"
+  "2TH":
+    name: "2 Texanõn"
+    slug: "2-texanon"
+  "1TI":
+    name: "1 Tĩmõn"
+    slug: "1-timon"
+  "2TI":
+    name: "2 Tĩmõn"
+    slug: "2-timon"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Pinẽm"
+    slug: "pinem"
+  "HEB":
+    name: "'Emeo"
+    slug: "emeo"
+  "JAS":
+    name: "Tiak"
+    slug: "tiak"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+  "1JN":
+    name: "1 Yoãm"
+    slug: "1-yoam"
+  "2JN":
+    name: "2 Yoãm"
+    slug: "2-yoam"
+  "3JN":
+    name: "3 Yoãm"
+    slug: "3-yoam"
+  "JUD":
+    name: "Yot"
+    slug: "yot"
+  "REV":
+    name: "Apokalipse"
+    slug: "apokalipse"

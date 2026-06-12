@@ -1,0 +1,200 @@
+language: "twi"
+books:
+  "GEN":
+    name: "1 Mose (Gyenesis)"
+    slug: "1-mose-gyenesis"
+  "EXO":
+    name: "2 Mose (Ɛksodɔs)"
+    slug: "2-mose-ksods"
+  "LEV":
+    name: "3 Mose (Lewitikɔs)"
+    slug: "3-mose-lewitiks"
+  "NUM":
+    name: "4 Mose (Numeri)"
+    slug: "4-mose-numeri"
+  "DEU":
+    name: "5 Mose (Deuteronomium)"
+    slug: "5-mose-deuteronomium"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Atemmufoɔ"
+    slug: "atemmufo"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Ahemfo"
+    slug: "1-ahemfo"
+  "2KI":
+    name: "2 Ahemfo"
+    slug: "2-ahemfo"
+  "1CH":
+    name: "1 Berɛsosɛm"
+    slug: "1-bersosm"
+  "2CH":
+    name: "2 Berɛsosɛm"
+    slug: "2-bersosm"
+  "EZR":
+    name: "Ɛsra"
+    slug: "sra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ɛster"
+    slug: "ster"
+  "JOB":
+    name: "Hiob"
+    slug: "hiob"
+  "PSA":
+    name: "Nnwom"
+    slug: "nnwom"
+  "PRO":
+    name: "Mmɛbusɛm"
+    slug: "mmbusm"
+  "ECC":
+    name: "Ɔsɛnkafoɔ"
+    slug: "snkafo"
+  "SNG":
+    name: "Nnwom Mu Dwom"
+    slug: "nnwom-mu-dwom"
+  "ISA":
+    name: "Yesaia"
+    slug: "yesaia"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Kwadwom"
+    slug: "kwadwom"
+  "EZK":
+    name: "Hesekiel"
+    slug: "hesekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoɛl"
+    slug: "yol"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Asomafoɔ"
+    slug: "asomafo"
+  "ROM":
+    name: "Romafoɔ"
+    slug: "romafo"
+  "1CO":
+    name: "1 Korintofoɔ"
+    slug: "1-korintofo"
+  "2CO":
+    name: "2 Korintofoɔ"
+    slug: "2-korintofo"
+  "GAL":
+    name: "Galatifoɔ"
+    slug: "galatifo"
+  "EPH":
+    name: "Efesofoɔ"
+    slug: "efesofo"
+  "PHP":
+    name: "Filipifoɔ"
+    slug: "filipifo"
+  "COL":
+    name: "Kolosefoɔ"
+    slug: "kolosefo"
+  "1TH":
+    name: "1 Tesalonikafoɔ"
+    slug: "1-tesalonikafo"
+  "2TH":
+    name: "2 Tesalonikafoɔ"
+    slug: "2-tesalonikafo"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebrifoɔ"
+    slug: "hebrifo"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Adiyisɛm"
+    slug: "adiyism"

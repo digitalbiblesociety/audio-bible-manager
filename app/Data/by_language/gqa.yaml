@@ -1,0 +1,35 @@
+language: "gqa"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maruku"
+    slug: "maruku"
+  "JHN":
+    name: "Yohanna"
+    slug: "yohanna"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+  "1CO":
+    name: "1 Corinthians"
+    slug: "1-corinthians"
+  "2CO":
+    name: "2 Corinthians"
+    slug: "2-corinthians"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+  "EPH":
+    name: "Afisawa"
+    slug: "afisawa"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"

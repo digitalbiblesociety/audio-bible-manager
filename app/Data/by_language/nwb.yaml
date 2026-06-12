@@ -1,0 +1,83 @@
+language: "nwb"
+books:
+  "MAT":
+    name: "Matiee"
+    slug: "matiee"
+  "MRK":
+    name: "Maakɩ"
+    slug: "maak"
+  "LUK":
+    name: "Luukɩ"
+    slug: "luuk"
+  "JHN":
+    name: "ꞌZaan"
+    slug: "zaan"
+  "ACT":
+    name: "Nʋnʋkpli"
+    slug: "nnkpli"
+  "ROM":
+    name: "ꞌWlɔmʋkɔmʋ"
+    slug: "wlmkm"
+  "1CO":
+    name: "1 Kɔlɛɛtɩkɔmʋ"
+    slug: "1-kltkm"
+  "2CO":
+    name: "2 Kɔlɛɛtɩkɔmʋ"
+    slug: "2-kltkm"
+  "GAL":
+    name: "Galasiikɔmʋ"
+    slug: "galasiikm"
+  "EPH":
+    name: "Efɛɛzɩkɔmʋ"
+    slug: "efzkm"
+  "PHP":
+    name: "Filiipʋkɔmʋ"
+    slug: "filiipkm"
+  "COL":
+    name: "Kolɔsʋkɔmʋ"
+    slug: "kolskm"
+  "1TH":
+    name: "1 Tesalonikɩkɔmʋ"
+    slug: "1-tesalonikkm"
+  "2TH":
+    name: "2 Tesalonikɩkɔmʋ"
+    slug: "2-tesalonikkm"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Tiitɩ"
+    slug: "tiit"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eblee"
+    slug: "eblee"
+  "JAS":
+    name: "Zaakɩ"
+    slug: "zaak"
+  "1PE":
+    name: "1 ꞌPiɛlɩ"
+    slug: "1-pil"
+  "2PE":
+    name: "2 ꞌPiɛlɩ"
+    slug: "2-pil"
+  "1JN":
+    name: "1 ꞌZaan"
+    slug: "1-zaan"
+  "2JN":
+    name: "2 ꞌZaan"
+    slug: "2-zaan"
+  "3JN":
+    name: "3 ꞌZaan"
+    slug: "3-zaan"
+  "JUD":
+    name: "Ziidɩ"
+    slug: "ziid"
+  "REV":
+    name: "ꞌꞌDukuyrilizadɩ"
+    slug: "dukuyrilizad"

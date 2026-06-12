@@ -1,0 +1,173 @@
+language: "jae"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Eksodus"
+    slug: "eksodus"
+  "LEV":
+    name: "Lewitikus"
+    slug: "lewitikus"
+  "NUM":
+    name: "Namba"
+    slug: "namba"
+  "DEU":
+    name: "Daiteronomi"
+    slug: "daiteronomi"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Gôliŋwaga"
+    slug: "golinwaga"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Samuelnê 1"
+    slug: "samuelne-1"
+  "2SA":
+    name: "Samuelnê 2"
+    slug: "samuelne-2"
+  "1KI":
+    name: "Kiŋnêŋ 1"
+    slug: "kinnen-1"
+  "2KI":
+    name: "Kiŋnêŋ 2"
+    slug: "kinnen-2"
+  "2CH":
+    name: "Miŋ"
+    slug: "min"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Pesalem"
+    slug: "pesalem"
+  "ECC":
+    name: "Ŋacmêtê Tau"
+    slug: "nacmete-tau"
+  "ISA":
+    name: "Jesaia"
+    slug: "jesaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Taŋiboa"
+    slug: "taniboa"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAL":
+    name: "Maleaki"
+    slug: "maleaki"
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joaŋ"
+    slug: "joan"
+  "ACT":
+    name: "Apostolo"
+    slug: "apostolo"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Korinti 1"
+    slug: "korinti-1"
+  "2CO":
+    name: "Korinti 2"
+    slug: "korinti-2"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Epese"
+    slug: "epese"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Koloso"
+    slug: "koloso"
+  "1TH":
+    name: "Tesaloniki 1"
+    slug: "tesaloniki-1"
+  "2TH":
+    name: "Tesaloniki 2"
+    slug: "tesaloniki-2"
+  "1TI":
+    name: "Timote 1"
+    slug: "timote-1"
+  "2TI":
+    name: "Timote 2"
+    slug: "timote-2"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "Petere 1"
+    slug: "petere-1"
+  "2PE":
+    name: "Petere 2"
+    slug: "petere-2"
+  "1JN":
+    name: "Joaŋ 1"
+    slug: "joan-1"
+  "2JN":
+    name: "Joaŋ 2"
+    slug: "joan-2"
+  "3JN":
+    name: "Joaŋ 3"
+    slug: "joan-3"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Geoc Lasê"
+    slug: "geoc-lase"

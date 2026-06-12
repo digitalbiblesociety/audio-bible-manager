@@ -1,0 +1,200 @@
+language: "hat"
+books:
+  "GEN":
+    name: "Jenèz"
+    slug: "jenez"
+  "EXO":
+    name: "Egzòd"
+    slug: "egzod"
+  "LEV":
+    name: "Levitik"
+    slug: "levitik"
+  "NUM":
+    name: "Resansman"
+    slug: "resansman"
+  "DEU":
+    name: "Deteronòm"
+    slug: "deteronom"
+  "JOS":
+    name: "Jozye"
+    slug: "jozye"
+  "JDG":
+    name: "Jij"
+    slug: "jij"
+  "RUT":
+    name: "Rit"
+    slug: "rit"
+  "1SA":
+    name: "1 Samyèl"
+    slug: "1-samyel"
+  "2SA":
+    name: "2 Samyèl"
+    slug: "2-samyel"
+  "1KI":
+    name: "1 Wa"
+    slug: "1-wa"
+  "2KI":
+    name: "2 Wa"
+    slug: "2-wa"
+  "1CH":
+    name: "1 Istwa"
+    slug: "1-istwa"
+  "2CH":
+    name: "2 Istwa"
+    slug: "2-istwa"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+  "NEH":
+    name: "Neemi"
+    slug: "neemi"
+  "EST":
+    name: "Estè"
+    slug: "este"
+  "JOB":
+    name: "Jòb"
+    slug: "job"
+  "PSA":
+    name: "Sòm"
+    slug: "som"
+  "PRO":
+    name: "Pwovèb"
+    slug: "pwoveb"
+  "ECC":
+    name: "Eklezyas"
+    slug: "eklezyas"
+  "SNG":
+    name: "Chante Salomon"
+    slug: "chante-salomon"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+  "LAM":
+    name: "Plenn"
+    slug: "plenn"
+  "EZK":
+    name: "Ezekyèl"
+    slug: "ezekyel"
+  "DAN":
+    name: "Danyèl"
+    slug: "danyel"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+  "JOL":
+    name: "Jowèl"
+    slug: "jowel"
+  "AMO":
+    name: "Amòs"
+    slug: "amos"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MIC":
+    name: "Miche"
+    slug: "miche"
+  "NAM":
+    name: "Nawoun"
+    slug: "nawoun"
+  "HAB":
+    name: "Abakouk"
+    slug: "abakouk"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aje"
+    slug: "aje"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Lik"
+    slug: "lik"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Travay"
+    slug: "travay"
+  "ROM":
+    name: "Ròm"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efèz"
+    slug: "efez"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kolòs"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ebre"
+    slug: "ebre"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piè"
+    slug: "1-pie"
+  "2PE":
+    name: "2 Piè"
+    slug: "2-pie"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jid"
+    slug: "jid"
+  "REV":
+    name: "Revelasyon"
+    slug: "revelasyon"

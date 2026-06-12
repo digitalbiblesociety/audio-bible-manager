@@ -1,0 +1,200 @@
+language: "zul"
+books:
+  "GEN":
+    name: "IGenesisi"
+    slug: "igenesisi"
+  "EXO":
+    name: "I-Eksodusi"
+    slug: "i-eksodusi"
+  "LEV":
+    name: "ILevithikhusi"
+    slug: "ilevithikhusi"
+  "NUM":
+    name: "INumeri"
+    slug: "inumeri"
+  "DEU":
+    name: "IDutheronomi"
+    slug: "idutheronomi"
+  "JOS":
+    name: "UJoshuwa"
+    slug: "ujoshuwa"
+  "JDG":
+    name: "Abehluleli"
+    slug: "abehluleli"
+  "RUT":
+    name: "URuthi"
+    slug: "uruthi"
+  "1SA":
+    name: "1 USamuweli"
+    slug: "1-usamuweli"
+  "2SA":
+    name: "2 USamuweli"
+    slug: "2-usamuweli"
+  "1KI":
+    name: "1 AMakhosi"
+    slug: "1-amakhosi"
+  "2KI":
+    name: "2 AMakhosi"
+    slug: "2-amakhosi"
+  "1CH":
+    name: "1 IZikhronike"
+    slug: "1-izikhronike"
+  "2CH":
+    name: "2 IZikhronike"
+    slug: "2-izikhronike"
+  "EZR":
+    name: "U-Ezra"
+    slug: "u-ezra"
+  "NEH":
+    name: "UNehemiya"
+    slug: "unehemiya"
+  "EST":
+    name: "U-Esteri"
+    slug: "u-esteri"
+  "JOB":
+    name: "UJobe"
+    slug: "ujobe"
+  "PSA":
+    name: "AMahubo"
+    slug: "amahubo"
+  "PRO":
+    name: "IZaga"
+    slug: "izaga"
+  "ECC":
+    name: "UMshumayeli"
+    slug: "umshumayeli"
+  "SNG":
+    name: "ISihlabelelo Sezihlabelelo"
+    slug: "isihlabelelo-sezihlabelelo"
+  "ISA":
+    name: "U-Izaya"
+    slug: "u-izaya"
+  "JER":
+    name: "UJeremiya"
+    slug: "ujeremiya"
+  "LAM":
+    name: "ISililo"
+    slug: "isililo"
+  "EZK":
+    name: "UHezekeli"
+    slug: "uhezekeli"
+  "DAN":
+    name: "UDaniyeli"
+    slug: "udaniyeli"
+  "HOS":
+    name: "UHoziya"
+    slug: "uhoziya"
+  "JOL":
+    name: "UJoweli"
+    slug: "ujoweli"
+  "AMO":
+    name: "U-Amose"
+    slug: "u-amose"
+  "OBA":
+    name: "U-Obhadiya"
+    slug: "u-obhadiya"
+  "JON":
+    name: "UJona"
+    slug: "ujona"
+  "MIC":
+    name: "UMikha"
+    slug: "umikha"
+  "NAM":
+    name: "UNahumi"
+    slug: "unahumi"
+  "HAB":
+    name: "UHabhakuki"
+    slug: "uhabhakuki"
+  "ZEP":
+    name: "UZefaniya"
+    slug: "uzefaniya"
+  "HAG":
+    name: "UHagayi"
+    slug: "uhagayi"
+  "ZEC":
+    name: "UZakhariya"
+    slug: "uzakhariya"
+  "MAL":
+    name: "UMalakhi"
+    slug: "umalakhi"
+  "MAT":
+    name: "NgokukaMathewu"
+    slug: "ngokukamathewu"
+  "MRK":
+    name: "NgokukaMakhu"
+    slug: "ngokukamakhu"
+  "LUK":
+    name: "NgokukaLuka"
+    slug: "ngokukaluka"
+  "JHN":
+    name: "NgokukaJohane"
+    slug: "ngokukajohane"
+  "ACT":
+    name: "IZenzo"
+    slug: "izenzo"
+  "ROM":
+    name: "KwabaseRoma"
+    slug: "kwabaseroma"
+  "1CO":
+    name: "1 KwabaseKhorinte"
+    slug: "1-kwabasekhorinte"
+  "2CO":
+    name: "2 KwabaseKhorinte"
+    slug: "2-kwabasekhorinte"
+  "GAL":
+    name: "KwabaseGalathiya"
+    slug: "kwabasegalathiya"
+  "EPH":
+    name: "Kwabase-Efesu"
+    slug: "kwabase-efesu"
+  "PHP":
+    name: "KwabaseFiliphi"
+    slug: "kwabasefiliphi"
+  "COL":
+    name: "KwabaseKholose"
+    slug: "kwabasekholose"
+  "1TH":
+    name: "1 KwabaseThesalonikha"
+    slug: "1-kwabasethesalonikha"
+  "2TH":
+    name: "2 KwabaseThesalonikha"
+    slug: "2-kwabasethesalonikha"
+  "1TI":
+    name: "1 KuThimothewu"
+    slug: "1-kuthimothewu"
+  "2TI":
+    name: "2 KuThimothewu"
+    slug: "2-kuthimothewu"
+  "TIT":
+    name: "KuThithu"
+    slug: "kuthithu"
+  "PHM":
+    name: "KuFilemoni"
+    slug: "kufilemoni"
+  "HEB":
+    name: "KumaHebheru"
+    slug: "kumahebheru"
+  "JAS":
+    name: "EkaJakobe"
+    slug: "ekajakobe"
+  "1PE":
+    name: "1 KaPhethro"
+    slug: "1-kaphethro"
+  "2PE":
+    name: "2 KaPhethro"
+    slug: "2-kaphethro"
+  "1JN":
+    name: "1 KaJohane"
+    slug: "1-kajohane"
+  "2JN":
+    name: "2 KaJohane"
+    slug: "2-kajohane"
+  "3JN":
+    name: "3 KaJohane"
+    slug: "3-kajohane"
+  "JUD":
+    name: "EkaJuda"
+    slug: "ekajuda"
+  "REV":
+    name: "ISambulo"
+    slug: "isambulo"

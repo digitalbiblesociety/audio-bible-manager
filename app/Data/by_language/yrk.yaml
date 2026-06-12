@@ -1,0 +1,11 @@
+language: "yrk"
+books:
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"

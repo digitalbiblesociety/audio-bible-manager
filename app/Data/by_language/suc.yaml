@@ -1,0 +1,83 @@
+language: "suc"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Piginang"
+    slug: "piginang"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintu"
+    slug: "1-korintu"
+  "2CO":
+    name: "2 Korintu"
+    slug: "2-korintu"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Episus"
+    slug: "episus"
+  "PHP":
+    name: "Pilipus"
+    slug: "pilipus"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timuti"
+    slug: "1-timuti"
+  "2TI":
+    name: "2 Timuti"
+    slug: "2-timuti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Hibruanan"
+    slug: "hibruanan"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Piter"
+    slug: "1-piter"
+  "2PE":
+    name: "2 Piter"
+    slug: "2-piter"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Pilantaꞌ"
+    slug: "pilanta"

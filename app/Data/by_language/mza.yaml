@@ -1,0 +1,83 @@
+language: "mza"
+books:
+  "MAT":
+    name: "Tutu Mate"
+    slug: "tutu-mate"
+  "MRK":
+    name: "Tutu Marku"
+    slug: "tutu-marku"
+  "LUK":
+    name: "Tutu Luka"
+    slug: "tutu-luka"
+  "JHN":
+    name: "Tutu Xuva"
+    slug: "tutu-xuva"
+  "ACT":
+    name: "Tutu Hechos"
+    slug: "tutu-hechos"
+  "ROM":
+    name: "Tutu Romanu"
+    slug: "tutu-romanu"
+  "1CO":
+    name: "Tutu Corintu Nunuu"
+    slug: "tutu-corintu-nunuu"
+  "2CO":
+    name: "Tutu Corintu Uvi"
+    slug: "tutu-corintu-uvi"
+  "GAL":
+    name: "Tutu Gálata"
+    slug: "tutu-galata"
+  "EPH":
+    name: "Tutu Efesu"
+    slug: "tutu-efesu"
+  "PHP":
+    name: "Tutu Filipu"
+    slug: "tutu-filipu"
+  "COL":
+    name: "Tutu Colosa"
+    slug: "tutu-colosa"
+  "1TH":
+    name: "Tutu Tesalónica Nunuu"
+    slug: "tutu-tesalonica-nunuu"
+  "2TH":
+    name: "Tutu Tesalónica Uvi"
+    slug: "tutu-tesalonica-uvi"
+  "1TI":
+    name: "Tutu Timoteu Nunuu"
+    slug: "tutu-timoteu-nunuu"
+  "2TI":
+    name: "Tutu Timoteu Uvi"
+    slug: "tutu-timoteu-uvi"
+  "TIT":
+    name: "Tutu Titu"
+    slug: "tutu-titu"
+  "PHM":
+    name: "Tutu Filemón"
+    slug: "tutu-filemon"
+  "HEB":
+    name: "Tutu Hebreu"
+    slug: "tutu-hebreu"
+  "JAS":
+    name: "Tutu Jandiau"
+    slug: "tutu-jandiau"
+  "1PE":
+    name: "Tutu Petu' Nunuu"
+    slug: "tutu-petu-nunuu"
+  "2PE":
+    name: "Tutu Petu' Uvi"
+    slug: "tutu-petu-uvi"
+  "1JN":
+    name: "Tutu Xuva Nunuu"
+    slug: "tutu-xuva-nunuu"
+  "2JN":
+    name: "Tutu Xuva Uvi"
+    slug: "tutu-xuva-uvi"
+  "3JN":
+    name: "Tutu Xuva Uni"
+    slug: "tutu-xuva-uni"
+  "JUD":
+    name: "Tutu Juda"
+    slug: "tutu-juda"
+  "REV":
+    name: "Tutu Apocalipsis"
+    slug: "tutu-apocalipsis"

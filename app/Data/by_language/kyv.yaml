@@ -1,0 +1,110 @@
+language: "kyv"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्तीके लिख्ल खुश-खबरी"
+  "MRK":
+    name: "मर्कूस"
+    slug: "markusa"
+    name_toc: "मर्कूसके लिख्ल खुश-खबरी"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "लूकाके लिख्ल खुश-खबरी"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+    name_toc: "यूहन्नाके लिख्ल खुश-खबरी"
+  "ACT":
+    name: "चुन्ल आर भेज्ल चेलासब"
+    slug: "cunla-ara-bhejla-celasaba"
+    name_toc: "चुन्ल आर भेज्ल चेलासिके काम"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+    name_toc: "रोम सहरके विश्वासीसिके लिए लिख्ल चिट्ठी"
+  "1CO":
+    name: "१ कोरन्थी"
+    slug: "1-koranthi"
+    name_toc: "कोरन्थी सहरके विश्वासीसिके लिए लिख्ल पहेला चिट्ठी"
+  "2CO":
+    name: "२ कोरन्थी"
+    slug: "2-koranthi"
+    name_toc: "कोरन्थी सहरके विश्वासीसिके लिए लिख्ल दोसरा चिट्ठी"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+    name_toc: "गलातिया प्रदेशके विश्वासीसिके लिए लिख्ल पावलके चिट्ठी"
+  "EPH":
+    name: "एफिसी"
+    slug: "ephisi"
+    name_toc: "एफिसस सहरके विश्वासीसिके लिए लिख्ल पावलके चिट्ठी"
+  "PHP":
+    name: "फिलिप्पी"
+    slug: "philippi"
+    name_toc: "फिलिप्पी सहरके विश्वासीसिके लिए लिख्ल पावलके चिट्ठी"
+  "COL":
+    name: "कलस्सी"
+    slug: "kalassi"
+    name_toc: "कलस्सी सहरके विश्वासीसिके लिए लिख्ल पावलके चिट्ठी"
+  "1TH":
+    name: "१ थेसलोनिकी"
+    slug: "1-thesaloniki"
+    name_toc: "थेसलोनिकी सहरके विश्वासीसिके लिए लिख्ल पावलके पहेला चिट्ठी"
+  "2TH":
+    name: "२ थेसलोनिकी"
+    slug: "2-thesaloniki"
+    name_toc: "थेसलोनिकी सहरके विश्वासीसिके लिए लिख्ल पावलके दोसरा चिट्ठी"
+  "1TI":
+    name: "१ तिमोथी"
+    slug: "1-timothi"
+    name_toc: "तिमोथीके पावलके पहेला चिट्ठी"
+  "2TI":
+    name: "२ तिमोथी"
+    slug: "2-timothi"
+    name_toc: "तिमोथीके पावलके दोसरा चिट्ठी"
+  "TIT":
+    name: "तीतस"
+    slug: "titasa"
+    name_toc: "तीतसके पावलके चिट्ठी"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "फिलेमोनके पावलके चिट्ठी"
+  "HEB":
+    name: "हिब्रू"
+    slug: "hibru"
+    name_toc: "हिब्रूसिके लिए चिट्ठी"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "याकूबके चिट्ठी"
+  "1PE":
+    name: "१ पत्रुस"
+    slug: "1-patrusa"
+    name_toc: "पत्रुसके पहेला चिट्ठी"
+  "2PE":
+    name: "२ पत्रुस"
+    slug: "2-patrusa"
+    name_toc: "पत्रुसके दोसरा चिट्ठी"
+  "1JN":
+    name: "१ यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "यूहन्नाके पहेला चिट्ठी"
+  "2JN":
+    name: "२ यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "यूहन्नाके दोसर चिट्ठी"
+  "3JN":
+    name: "३ यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "यूहन्नाके तेसर चिट्ठी"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदाके चिट्ठी"
+  "REV":
+    name: "प्रकाश"
+    slug: "prakasa"
+    name_toc: "प्रकाश"

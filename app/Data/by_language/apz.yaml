@@ -1,0 +1,83 @@
+language: "apz"
+books:
+  "MAT":
+    name: "Matɨyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Joun"
+    slug: "joun"
+  "ACT":
+    name: "Apousel"
+    slug: "apousel"
+  "ROM":
+    name: "Loum"
+    slug: "loum"
+  "1CO":
+    name: "1 Koulin"
+    slug: "1-koulin"
+  "2CO":
+    name: "2 Koulin"
+    slug: "2-koulin"
+  "GAL":
+    name: "Ngkolesiya"
+    slug: "ngkolesiya"
+  "EPH":
+    name: "Efesos"
+    slug: "efesos"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Koulousi"
+    slug: "koulousi"
+  "1TH":
+    name: "1 Tesolounika"
+    slug: "1-tesolounika"
+  "2TH":
+    name: "2 Tesolounika"
+    slug: "2-tesolounika"
+  "1TI":
+    name: "1 Timouti"
+    slug: "1-timouti"
+  "2TI":
+    name: "2 Timouti"
+    slug: "2-timouti"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Filemoun"
+    slug: "filemoun"
+  "HEB":
+    name: "Hipɨlu"
+    slug: "hipilu"
+  "JAS":
+    name: "Jemɨs"
+    slug: "jemis"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Joun"
+    slug: "1-joun"
+  "2JN":
+    name: "2 Joun"
+    slug: "2-joun"
+  "3JN":
+    name: "3 Joun"
+    slug: "3-joun"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Toho Wojo Honajo Hungkuno"
+    slug: "toho-wojo-honajo-hungkuno"

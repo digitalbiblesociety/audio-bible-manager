@@ -1,0 +1,200 @@
+language: "bom"
+books:
+  "GEN":
+    name: "Susumo"
+    slug: "susumo"
+  "EXO":
+    name: "Nusu"
+    slug: "nusu"
+  "LEV":
+    name: "Bepiris"
+    slug: "bepiris"
+  "NUM":
+    name: "Bara BeIsrayɛl"
+    slug: "bara-beisrayl"
+  "DEU":
+    name: "Bare Badu"
+    slug: "bare-badu"
+  "JOS":
+    name: "Yɔshuwa"
+    slug: "yshuwa"
+  "JDG":
+    name: "Besuga Israyɛl"
+    slug: "besuga-israyl"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samwɛl"
+    slug: "1-samwl"
+  "2SA":
+    name: "2 Samwɛl"
+    slug: "2-samwl"
+  "1KI":
+    name: "1 Begwɔ̀m"
+    slug: "1-begwm"
+  "2KI":
+    name: "2 Begwɔ̀m"
+    slug: "2-begwm"
+  "1CH":
+    name: "1 Neha-Raane"
+    slug: "1-neha-raane"
+  "2CH":
+    name: "2 Neha-Raane"
+    slug: "2-neha-raane"
+  "EZR":
+    name: "Ɛzra"
+    slug: "zra"
+  "NEH":
+    name: "Nɛhɛmiya"
+    slug: "nhmiya"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+  "JOB":
+    name: "Iyɔp"
+    slug: "iyp"
+  "PSA":
+    name: "Lɛlɛ"
+    slug: "ll"
+  "PRO":
+    name: "Cīnat Neha"
+    slug: "cinat-neha"
+  "ECC":
+    name: "Mwat Ngyɛgɛt Pyɛ́"
+    slug: "mwat-ngygt-py"
+  "SNG":
+    name: "Lwɛlɛ Sɔlɔmɔn"
+    slug: "lwl-slmn"
+  "ISA":
+    name: "Yɛshaya"
+    slug: "yshaya"
+  "JER":
+    name: "Yirmiya"
+    slug: "yirmiya"
+  "LAM":
+    name: "Lɛlɛ Sesin"
+    slug: "ll-sesin"
+  "EZK":
+    name: "Yɛzɛkyɛl"
+    slug: "yzkyl"
+  "DAN":
+    name: "Danyɛl"
+    slug: "danyl"
+  "HOS":
+    name: "Hosheya"
+    slug: "hosheya"
+  "JOL":
+    name: "Yɔwɛl"
+    slug: "ywl"
+  "AMO":
+    name: "Amɔs"
+    slug: "ams"
+  "OBA":
+    name: "Obadya"
+    slug: "obadya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Tsefanya"
+    slug: "tsefanya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zɛkarya"
+    slug: "zkarya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matayus"
+    slug: "matayus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Tomong Betom Yɛsu"
+    slug: "tomong-betom-ysu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Kɔrintɔs"
+    slug: "1-krints"
+  "2CO":
+    name: "2 Kɔrintɔs"
+    slug: "2-krints"
+  "GAL":
+    name: "Galatya"
+    slug: "galatya"
+  "EPH":
+    name: "Ɛfɛsus"
+    slug: "fsus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kɔlɔsi"
+    slug: "klsi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotawus"
+    slug: "1-timotawus"
+  "2TI":
+    name: "2 Timotawus"
+    slug: "2-timotawus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "BeIbrani"
+    slug: "beibrani"
+  "JAS":
+    name: "Yakɔp"
+    slug: "yakp"
+  "1PE":
+    name: "1 Bitrus"
+    slug: "1-bitrus"
+  "2PE":
+    name: "2 Bitrus"
+    slug: "2-bitrus"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Reto Fong Yohana"
+    slug: "reto-fong-yohana"

@@ -1,0 +1,53 @@
+language: "wmt"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Kings"
+    slug: "1-kings"
+  "2KI":
+    name: "2 Kings"
+    slug: "2-kings"
+  "PSA":
+    name: "Psalms"
+    slug: "psalms"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "1CO":
+    name: "1 Corinthians"
+    slug: "1-corinthians"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"

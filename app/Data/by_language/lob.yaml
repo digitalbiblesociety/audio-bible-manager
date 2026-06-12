@@ -1,0 +1,110 @@
+language: "lob"
+books:
+  "MAT":
+    name: "Matiə"
+    slug: "matie"
+    name_toc: "Tutugo Bʋɔɔkɛ Thɛnɩ Thãgbara Mɔ̃kɛ Matiə Kɔɔ Knerenɩ"
+  "MRK":
+    name: "Markɩ"
+    slug: "mark"
+    name_toc: "Tutugo Bʋɔɔkɛ Thɛnɩ Thãgbara Mɔ̃kɛ Markɩ Kɔɔ Kherenɩ"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+    name_toc: "Tutugo Bʋɔɔkɛ Thɛnɩ Thãgbara Mɔ̃kɛ Luki Kɔɔ Kherenɩ"
+  "JHN":
+    name: "Jã"
+    slug: "ja"
+    name_toc: "Tutugo Bʋɔɔkɛ Thɛnɩ Thãgbara Mɔ̃kɛ Jã Kɔɔ Kherenɩ"
+  "ACT":
+    name: "Thãgbaa Thɔ̃thɔnaa Thɔ̃"
+    slug: "thagbaa-ththnaa-th"
+    name_toc: "Thãgbaa Thɔ̃thɔnaa Thɔ̃"
+  "ROM":
+    name: "Rɔmdara"
+    slug: "rmdara"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Rɔmdara"
+  "1CO":
+    name: "1 Korɛ̃tɩdara"
+    slug: "1-kortdara"
+    name_toc: "Caca Sɛbɛɛkɛ Pol Kɔɔ Knerenɩ A Ha Korɛ̃tɩdara"
+  "2CO":
+    name: "Korɛ̃tɩdara"
+    slug: "kortdara"
+    name_toc: "Balanyɔ Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Korɛ̃tɩdara"
+  "GAL":
+    name: "Galasɩdara"
+    slug: "galasdara"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Galasɩdara"
+  "EPH":
+    name: "Efɛjɩdara"
+    slug: "efjdara"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Efɛjɩdara"
+  "PHP":
+    name: "Filipidara"
+    slug: "filipidara"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Knerenɩ A Ha Filipidara"
+  "COL":
+    name: "Kolosɩdara"
+    slug: "kolosdara"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Kolosɩdara"
+  "1TH":
+    name: "1 Tesalonɩkɩdara"
+    slug: "1-tesalonkdara"
+    name_toc: "Caca Sɛbɛɛkɛ Pol Kɔɔ Knerenɩ A Ha Tesalonɩkɩdara"
+  "2TH":
+    name: "2 Tesalonɩkɩdara"
+    slug: "2-tesalonkdara"
+    name_toc: "Balanyɔ Sɛbɛɛkɛ Pol Kɔɔ Knerenɩ A Ha Tesalonɩkɩdara"
+  "1TI":
+    name: "1 Timothe"
+    slug: "1-timothe"
+    name_toc: "Caca Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Timothe"
+  "2TI":
+    name: "2 Timothe"
+    slug: "2-timothe"
+    name_toc: "Balanyɔ Sɛbɛɛkɛ Pol Kɔɔ Knerenɩ A Ha Timothe"
+  "TIT":
+    name: "Tɩtɩ"
+    slug: "tt"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Tɩtɩ"
+  "PHM":
+    name: "Filemɔ̃"
+    slug: "filem"
+    name_toc: "Sɛbɛɛkɛ Pol Kɔɔ Kherenɩ A Ha Filemɔ̃"
+  "HEB":
+    name: "Ebirəsɔ"
+    slug: "ebires"
+    name_toc: "Sɛbɛɛkɛ Wɩ Kherenɩ A Ha Ebirəsɔ"
+  "JAS":
+    name: "Jakɩ"
+    slug: "jak"
+    name_toc: "Sɛbɛɛkɛ Jakɩ Kɔɔ Kherenɩ"
+  "1PE":
+    name: "1 Pɩɛr"
+    slug: "1-pr"
+    name_toc: "Caca Sɛbɛɛkɛ Pɩɛr Kɔɔ Kherenɩ"
+  "2PE":
+    name: "2 Pɩɛr"
+    slug: "2-pr"
+    name_toc: "Balanyɔ Sɛbɛɛkɛ Pɩɛr Kɔɔ Kherenɩ"
+  "1JN":
+    name: "1 Jã"
+    slug: "1-ja"
+    name_toc: "Caca Sɛbɛɛkɛ Jã Kɔɔ Kherenɩ"
+  "2JN":
+    name: "2 Jã"
+    slug: "2-ja"
+    name_toc: "Balanyɔ Sɛbɛɛkɛ Jã Kɔɔ Kherenɩ"
+  "3JN":
+    name: "3 Jã"
+    slug: "3-ja"
+    name_toc: "Balãther Sɛbɛɛkɛ Jã Kɔɔ Kherenɩ"
+  "JUD":
+    name: "Juudi"
+    slug: "juudi"
+    name_toc: "Sɛbɛɛkɛ Juudi Kɔɔ Kherenɩ"
+  "REV":
+    name: "Nirɔrɛ"
+    slug: "nirr"
+    name_toc: "Nirɔrɛ"

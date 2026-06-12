@@ -1,0 +1,266 @@
+language: "urh"
+books:
+  "GEN":
+    name: "Jẹnẹsis"
+    slug: "jenesis"
+    name_toc: "2 थिस्सलुनीकियों"
+  "EXO":
+    name: "Ẹyano"
+    slug: "eyano"
+    name_toc: "1 तीमुथियुस"
+  "LEV":
+    name: "Livitikọs"
+    slug: "livitikos"
+    name_toc: "2 तीमुथियुस"
+  "NUM":
+    name: "Ukeri"
+    slug: "ukeri"
+    name_toc: "तीतुस"
+  "DEU":
+    name: "Urhi Rivẹ"
+    slug: "urhi-rive"
+    name_toc: "फिलेमोन"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "इब्रानियों"
+  "JDG":
+    name: "Iguẹdjọ"
+    slug: "iguedjo"
+    name_toc: "2 पतरस"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+    name_toc: "2 यूहन्ना"
+  "1SA":
+    name: "1 Samuẹl"
+    slug: "1-samuel"
+    name_toc: "3 यूहन्ना"
+  "2SA":
+    name: "2 Samuẹl"
+    slug: "2-samuel"
+    name_toc: "यहूदा"
+  "1KI":
+    name: "1 Ivie"
+    slug: "1-ivie"
+    name_toc: "प्रगटीकरण"
+  "2KI":
+    name: "Ivie rẹ Ivẹ"
+    slug: "ivie-re-ive"
+    name_toc: "ꕮꕊꔱꖳ"
+  "1CH":
+    name: "1 Ikun rẹ Ivie"
+    slug: "1-ikun-re-ivie"
+    name_toc: "ꕮꕊꕃ"
+  "2CH":
+    name: "2 Ikun rẹ Ivie"
+    slug: "2-ikun-re-ivie"
+    name_toc: "ꖨꕃ"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "ꗘꘋ"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+    name_toc: "ꔎꖫꘂ ꖸꕊ ꕮ ꖏꔀ ꖸ"
+  "EST":
+    name: "Ẹsta"
+    slug: "esta"
+    name_toc: "ꖃꕱꘋ ꕺꖃꔀ"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "ꗛꔷꘋꔳ ꕺꖃꔀ ꔖꔜꕯꕊ"
+  "PSA":
+    name: "Une rẹ Ejiro"
+    slug: "une-re-ejiro"
+    name_toc: "ꗛꔷꘋꔳ ꕺꖃꔀ ꗱꕞꕯꕊ"
+  "PRO":
+    name: "Isẹ"
+    slug: "ise"
+    name_toc: "ꕭꔒꔳꕩ ꕺꖃꔀ"
+  "ECC":
+    name: "Aghwoghwo"
+    slug: "aghwoghwo"
+    name_toc: "ꗡꕘꕢ ꕺꖃꔀ"
+  "SNG":
+    name: "Solomon"
+    slug: "solomon"
+    name_toc: "ꔱꔷꕐꔤ ꕺꖃꔀ"
+  "ISA":
+    name: "Aizaya"
+    slug: "aizaya"
+    name_toc: "ꗛꗏꕢꔤ ꕺꖃꔀ"
+  "JER":
+    name: "Jerimaya"
+    slug: "jerimaya"
+    name_toc: "ꗳꕢꖃꕇꕪ ꕺꖃꔀ ꔖꔜꕯꕊ"
+  "LAM":
+    name: "Uvwerhe"
+    slug: "uvwerhe"
+    name_toc: "ꗳꕢꖃꕇꕪ ꕺꖃꔀ ꗱꕞꕯꕊ"
+  "EZK":
+    name: "Izikiẹl"
+    slug: "izikiel"
+    name_toc: "ꔳꗞꔎ ꕺꖃꔀ ꔖꔜꕯꕊ"
+  "DAN":
+    name: "Daniẹl"
+    slug: "daniel"
+    name_toc: "ꔳꗞꔎ ꕺꖃꔀ ꗱꕞꕯꕊ"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+    name_toc: "ꕚꔤꕚꔻ ꕺꖃꔀ"
+  "JOL":
+    name: "Joẹl"
+    slug: "joel"
+    name_toc: "ꔱꔒꗞꘋ ꕺꖃꔀ"
+  "AMO":
+    name: "Emọs"
+    slug: "emos"
+    name_toc: "ꕑꕇꔻꕞꔤꕞ ꕺꖃꔀ"
+  "OBA":
+    name: "Ọbe rẹ Ọmraro Ọbadaya Obadaya"
+    slug: "obe-re-omraro-obadaya-obadaya"
+    name_toc: "ꔛꕆꔻ"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "ꔪꗳ ꕞ ꕺꖃꔀ ꔖꔜꕯꕊ"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+    name_toc: "ꔪꗳ ꕞ ꕺꖃꔀ ꗱꕞꕯꕊ"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "ꗘꘋ ꕞ ꕺꖃꔀ ꔖꔜꕯꕊ"
+  "HAB":
+    name: "Habakọk"
+    slug: "habakok"
+    name_toc: "ꗘꘋ ꕞ ꕺꖃꔀ ꗱꕞꕯꕊ"
+  "ZEP":
+    name: "Zẹfanaya"
+    slug: "zefanaya"
+    name_toc: "ꗘꘋ ꕞ ꕺꖃꔀ ꕢꕔꕯꕊ"
+  "HAG":
+    name: "Hegae"
+    slug: "hegae"
+    name_toc: "ꖱꖕ"
+  "ZEC":
+    name: "Zekaraya"
+    slug: "zekaraya"
+    name_toc: "ꕪꘋꕓ ꕞ ꖏ ꖷ ꖸ ꕀꕩ ꗘꘋꕞ"
+  "MAL":
+    name: "Malakae"
+    slug: "malakae"
+    name_toc: "Ndumi ngyicha chandu ingyiṟeie nyi Matayo"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Ndumi ngyicha chandu ingyiṟeie nyi Mariko"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Ndumi ngyicha chandu ingyiṟeie nyi Luka"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Ndumi ngyicha chandu ingyiṟeie nyi Yohane"
+  "JHN":
+    name: "Jọn"
+    slug: "jon"
+    name_toc: "Mawuto Ga Wasu"
+  "ACT":
+    name: "Iruo rẹ Iyinkọn na"
+    slug: "iruo-re-iyinkon-na"
+    name_toc: "Paruo ya Paulo ko Waroma"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Paruo ya kuwooka ya Paulo ko Wakorinto"
+  "1CO":
+    name: "1 Kọrẹnt"
+    slug: "1-korent"
+    name_toc: "Paruo ya kawi ya Paulo ko Wakorinto"
+  "2CO":
+    name: "2 Kọrẹnt"
+    slug: "2-korent"
+    name_toc: "Paruo ya Paulo ko Wagalatia"
+  "GAL":
+    name: "Galesha"
+    slug: "galesha"
+    name_toc: "Paruo ya Paulo ko Waefeso"
+  "EPH":
+    name: "Ẹfesọs"
+    slug: "efesos"
+    name_toc: "Paruo ya Paulo ko Wafilyipi"
+  "PHP":
+    name: "Filipae"
+    slug: "filipae"
+    name_toc: "Paruo ya Paulo ko Wakolosai"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Paruo ya kuwooka ya Paulo ko Watesalonikye"
+  "1TH":
+    name: "1 Tẹsalonaika"
+    slug: "1-tesalonaika"
+    name_toc: "Paruo ya kawi ya Paulo ko Watesalonikye"
+  "2TH":
+    name: "2 Tẹsalonaika"
+    slug: "2-tesalonaika"
+    name_toc: "Paruo ya kuwooka ya Paulo ko Timoteo"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Paruo ya kawi ya Paulo ko Timoteo"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Paruo ya Paulo ko Tito"
+  "TIT":
+    name: "Taitọs"
+    slug: "taitos"
+    name_toc: "Paruo ya Paulo ko Filemon"
+  "PHM":
+    name: "Filimọn"
+    slug: "filimon"
+    name_toc: "Paruo ko Waebrania"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "Paruo ya Yakobo"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "Paruo ya kuwooka ya Petiro"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Paruo ya kawi ya Petiro"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Paruo ya kuwooka ya Yohane"
+  "1JN":
+    name: "1 Jọn"
+    slug: "1-jon"
+    name_toc: "Paruo ya kawi ya Yohane"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+    name_toc: "Paruo ya kaṟaaṟu ya Yohane"
+  "3JN":
+    name: "3 Jọn"
+    slug: "3-jon"
+    name_toc: "Paruo ya Yuda"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Ulogo Ruwa aleshukuya Yohane"
+  "REV":
+    name: "Ẹvwọphia"
+    slug: "evwophia"
+    name_toc: "Kìn Nyɔ̧ɔ̧́ Màtíyò yi tɨnndé"

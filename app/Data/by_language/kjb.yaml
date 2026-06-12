@@ -1,0 +1,266 @@
+language: "kjb"
+books:
+  "GEN":
+    name: "Gn"
+    slug: "gn"
+    name_toc: "Génesis"
+  "EXO":
+    name: "Ex"
+    slug: "ex"
+    name_toc: "Éxodo"
+  "LEV":
+    name: "Lv"
+    slug: "lv"
+    name_toc: "Levítico"
+  "NUM":
+    name: "Nm"
+    slug: "nm"
+    name_toc: "Números"
+  "DEU":
+    name: "Dt"
+    slug: "dt"
+    name_toc: "Deuteronomio"
+  "JOS":
+    name: "Jos"
+    slug: "jos"
+    name_toc: "Josué"
+  "JDG":
+    name: "Jue"
+    slug: "jue"
+    name_toc: "Eb Juez"
+  "RUT":
+    name: "Rt"
+    slug: "rt"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 S"
+    slug: "1-s"
+    name_toc: "Babel Libroal Cham Samuel"
+  "2SA":
+    name: "2 S"
+    slug: "2-s"
+    name_toc: "Yet Is Cab Libroal Cham Samuel"
+  "1KI":
+    name: "1 R"
+    slug: "1-r"
+    name_toc: "Babel Libroal Yabixal Eb Rey"
+  "2KI":
+    name: "2 R"
+    slug: "2-r"
+    name_toc: "Yet Is Cab Libroal Yabixal Eb Rey"
+  "1CH":
+    name: "1 Cr"
+    slug: "1-cr"
+    name_toc: "Babel Libroal Crónicas"
+  "2CH":
+    name: "2 Cr"
+    slug: "2-cr"
+    name_toc: "Yet Is Cab Libroal Crónicas"
+  "EZR":
+    name: "Esd"
+    slug: "esd"
+    name_toc: "Esdras"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Nehemías"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Sal"
+    slug: "sal"
+    name_toc: "Salmos"
+  "PRO":
+    name: "Pr"
+    slug: "pr"
+    name_toc: "Proverbios"
+  "ECC":
+    name: "Ec"
+    slug: "ec"
+    name_toc: "Eclesiastés"
+  "SNG":
+    name: "Cnt"
+    slug: "cnt"
+    name_toc: "A Jun Bit Manxa Watx'ilok"
+  "ISA":
+    name: "Is"
+    slug: "is"
+    name_toc: "Isaías"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+    name_toc: "Jeremías"
+  "LAM":
+    name: "Lm"
+    slug: "lm"
+    name_toc: "A Oyeb Bit Yet Cusc'ulal"
+  "EZK":
+    name: "Ez"
+    slug: "ez"
+    name_toc: "Ezequiel"
+  "DAN":
+    name: "Dn"
+    slug: "dn"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Os"
+    slug: "os"
+    name_toc: "Oseas"
+  "JOL":
+    name: "Jl"
+    slug: "jl"
+    name_toc: "Joel"
+  "AMO":
+    name: "Am"
+    slug: "am"
+    name_toc: "Amós"
+  "OBA":
+    name: "Abd"
+    slug: "abd"
+    name_toc: "Abdías"
+  "JON":
+    name: "Jon"
+    slug: "jon"
+    name_toc: "Jonás"
+  "MIC":
+    name: "Miq"
+    slug: "miq"
+    name_toc: "Miqueas"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habac"
+  "ZEP":
+    name: "Sof"
+    slug: "sof"
+    name_toc: "Sofonías"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Hageo"
+  "ZEC":
+    name: "Zac"
+    slug: "zac"
+    name_toc: "Zacarías"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malaquías"
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+    name_toc: "San Mateo"
+  "MRK":
+    name: "Mc"
+    slug: "mc"
+    name_toc: "San Marcos"
+  "LUK":
+    name: "Lc"
+    slug: "lc"
+    name_toc: "San Lucas"
+  "JHN":
+    name: "Jn"
+    slug: "jn"
+    name_toc: "San Juan"
+  "ACT":
+    name: "Hch"
+    slug: "hch"
+    name_toc: "Tzetak Yetal Max El Yunen Eb Chekbej Jesús"
+  "ROM":
+    name: "Ro"
+    slug: "ro"
+    name_toc: "A Tx'an Is Carta San Pablo Bay Eb Aj Roma"
+  "1CO":
+    name: "1 Co"
+    slug: "1-co"
+    name_toc: "A Tx'an Is Babel Carta San Pablo Bay Eb Aj Corinto"
+  "2CO":
+    name: "2 Co"
+    slug: "2-co"
+    name_toc: "A Tx'an Yet Is Cab Carta San Pablo Bay Eb Aj Corinto"
+  "GAL":
+    name: "Gl"
+    slug: "gl"
+    name_toc: "A Tx'an Is Carta San Pablo Bay Eb Aj Galicia"
+  "EPH":
+    name: "Ef"
+    slug: "ef"
+    name_toc: "A Tx'an Is Carta San Pablo Bay Eb Aj Éfeso"
+  "PHP":
+    name: "Flp"
+    slug: "flp"
+    name_toc: "A Tx'an Is Carta San Pablo Bay Eb Aj Filipos"
+  "COL":
+    name: "Col"
+    slug: "col"
+    name_toc: "A Tx'an Is Carta San Pablo Bay Eb Aj Colosas"
+  "1TH":
+    name: "1 Ts"
+    slug: "1-ts"
+    name_toc: "A Tx'an Is Babel Carta San Pablo Bay Eb Aj Tesalónica"
+  "2TH":
+    name: "2 Ts"
+    slug: "2-ts"
+    name_toc: "A Tx'an Yet Is Cab Carta San Pablo Bay Eb Aj Tesalónica"
+  "1TI":
+    name: "1 Ti"
+    slug: "1-ti"
+    name_toc: "A Tx'an Is Babel Carta San Pablo Bay Timoteo"
+  "2TI":
+    name: "2 Ti"
+    slug: "2-ti"
+    name_toc: "A Tx'an Yet Is Cab Carta San Pablo Bay Timoteo"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Tito"
+  "PHM":
+    name: "Flm"
+    slug: "flm"
+    name_toc: "Filemón"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+    name_toc: "Hebreos"
+  "JAS":
+    name: "Stg"
+    slug: "stg"
+    name_toc: "Santiago"
+  "1PE":
+    name: "1 P"
+    slug: "1-p"
+    name_toc: "Is Babel Carta San Pedro"
+  "2PE":
+    name: "2 P"
+    slug: "2-p"
+    name_toc: "Yet Is Cab Carta San Pedro"
+  "1JN":
+    name: "1 Jn"
+    slug: "1-jn"
+    name_toc: "Is Babel Carta San Juan"
+  "2JN":
+    name: "2 Jn"
+    slug: "2-jn"
+    name_toc: "Yet Is Cab Carta San Juan"
+  "3JN":
+    name: "3 Jn"
+    slug: "3-jn"
+    name_toc: "Yet Is Yox Carta San Juan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "San Judas"
+  "REV":
+    name: "Ap"
+    slug: "ap"
+    name_toc: "Apocalípsis"

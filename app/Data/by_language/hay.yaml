@@ -1,0 +1,236 @@
+language: "hay"
+books:
+  "GEN":
+    name: "Embandizo"
+    slug: "embandizo"
+  "EXO":
+    name: "Okuruga"
+    slug: "okuruga"
+  "LEV":
+    name: "Eby'abalevita"
+    slug: "eby-abalevita"
+  "NUM":
+    name: "Orubara"
+    slug: "orubara"
+  "DEU":
+    name: "Obwijukiro"
+    slug: "obwijukiro"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Abaramuzi"
+    slug: "abaramuzi"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+  "1KI":
+    name: "1 Abakama"
+    slug: "1-abakama"
+  "2KI":
+    name: "2 Abakama"
+    slug: "2-abakama"
+  "1CH":
+    name: "1 Amakuru"
+    slug: "1-amakuru"
+  "2CH":
+    name: "2 Amakuru"
+    slug: "2-amakuru"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esita(Hebrew)"
+    slug: "esita-hebrew"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+  "PSA":
+    name: "Ezaburi"
+    slug: "ezaburi"
+  "PRO":
+    name: "Emigani"
+    slug: "emigani"
+  "ECC":
+    name: "Mwegesa"
+    slug: "mwegesa"
+  "SNG":
+    name: "Oruhoya"
+    slug: "oruhoya"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Okutongya"
+    slug: "okutongya"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+  "JDT":
+    name: "Yudithi"
+    slug: "yudithi"
+  "ESG":
+    name: "Esita"
+    slug: "esita"
+  "WIS":
+    name: "Obumanyi"
+    slug: "obumanyi"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+  "LJE":
+    name: "Ebarua ya Yeremia"
+    slug: "ebarua-ya-yeremia"
+  "S3Y":
+    name: "Abasigazi bashatu"
+    slug: "abasigazi-bashatu"
+  "SUS":
+    name: "Shuzana"
+    slug: "shuzana"
+  "BEL":
+    name: "Beli n'enjoka"
+    slug: "beli-n-enjoka"
+  "1MA":
+    name: "1 Abamakabeo"
+    slug: "1-abamakabeo"
+  "2MA":
+    name: "2 Abamakabeo"
+    slug: "2-abamakabeo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Ebikorwa"
+    slug: "ebikorwa"
+  "ROM":
+    name: "Abaroma"
+    slug: "abaroma"
+  "1CO":
+    name: "1 Abakorinto"
+    slug: "1-abakorinto"
+  "2CO":
+    name: "2 Abakorinto"
+    slug: "2-abakorinto"
+  "GAL":
+    name: "Abagalasia"
+    slug: "abagalasia"
+  "EPH":
+    name: "Abaefeso"
+    slug: "abaefeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+  "COL":
+    name: "Abakolosai"
+    slug: "abakolosai"
+  "1TH":
+    name: "1 Abatesalonika"
+    slug: "1-abatesalonika"
+  "2TH":
+    name: "2 Abatesalonika"
+    slug: "2-abatesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Abaheburania"
+    slug: "abaheburania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Okushurulirwa"
+    slug: "okushurulirwa"

@@ -1,0 +1,5 @@
+language: "adz"
+books:
+  "GEN":
+    name: "Miamun"
+    slug: "miamun"

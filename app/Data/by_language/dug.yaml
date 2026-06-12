@@ -1,0 +1,83 @@
+language: "dug"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johana"
+    slug: "johana"
+  "ACT":
+    name: "Mahendo"
+    slug: "mahendo"
+  "ROM":
+    name: "Arumi"
+    slug: "arumi"
+  "1CO":
+    name: "1 Akorito"
+    slug: "1-akorito"
+  "2CO":
+    name: "2 Akorito"
+    slug: "2-akorito"
+  "GAL":
+    name: "Agalatiya"
+    slug: "agalatiya"
+  "EPH":
+    name: "Aefeso"
+    slug: "aefeso"
+  "PHP":
+    name: "Afilipi"
+    slug: "afilipi"
+  "COL":
+    name: "Akolosai"
+    slug: "akolosai"
+  "1TH":
+    name: "1 Atesalonike"
+    slug: "1-atesalonike"
+  "2TH":
+    name: "2 Atesalonike"
+    slug: "2-atesalonike"
+  "1TI":
+    name: "1 Tʼimoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Tʼimoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Aburania"
+    slug: "aburania"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "1 Pʼetero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pʼetero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Johana"
+    slug: "1-johana"
+  "2JN":
+    name: "2 Johana"
+    slug: "2-johana"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Ufunulo"
+    slug: "ufunulo"

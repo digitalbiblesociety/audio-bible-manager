@@ -1,0 +1,83 @@
+language: "xuo"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Marki"
+    slug: "marki"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Za̰a"
+    slug: "zaa"
+  "ACT":
+    name: "Peɗ nzoɓ ndáy nzaapeɗri"
+    slug: "pe-nzo-nday-nzaaperi"
+  "ROM":
+    name: "Rɔmri"
+    slug: "rmri"
+  "1CO":
+    name: "1 Kɔrɛ̰teri"
+    slug: "1-krteri"
+  "2CO":
+    name: "2 Kɔrɛ̰teri"
+    slug: "2-krteri"
+  "GAL":
+    name: "Galasiri"
+    slug: "galasiri"
+  "EPH":
+    name: "Efɛzri"
+    slug: "efzri"
+  "PHP":
+    name: "Filiɓri"
+    slug: "filiri"
+  "COL":
+    name: "Kolosiri"
+    slug: "kolosiri"
+  "1TH":
+    name: "1 Tesalonikri"
+    slug: "1-tesalonikri"
+  "2TH":
+    name: "2 Tesalonikri"
+    slug: "2-tesalonikri"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemo̰n"
+    slug: "filemon"
+  "HEB":
+    name: "Eborori"
+    slug: "eborori"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "1 Piyɛr"
+    slug: "1-piyr"
+  "2PE":
+    name: "2 Piyɛr"
+    slug: "2-piyr"
+  "1JN":
+    name: "1 Za̰a"
+    slug: "1-zaa"
+  "2JN":
+    name: "2 Za̰a"
+    slug: "2-zaa"
+  "3JN":
+    name: "3 Za̰a"
+    slug: "3-zaa"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+  "REV":
+    name: "Fe ká tina nun ha̰ Za̰a"
+    slug: "fe-ka-tina-nun-ha-zaa"

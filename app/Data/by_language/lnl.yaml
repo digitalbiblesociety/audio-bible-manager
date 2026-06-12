@@ -1,0 +1,83 @@
+language: "lnl"
+books:
+  "MAT":
+    name: "Matiyə̈"
+    slug: "matiye"
+  "MRK":
+    name: "Mâreke"
+    slug: "mareke"
+  "LUK":
+    name: "Lûke"
+    slug: "luke"
+  "JHN":
+    name: "Jâan"
+    slug: "jaan"
+  "ACT":
+    name: "Abadjângele"
+    slug: "abadjangele"
+  "ROM":
+    name: "Rômo"
+    slug: "romo"
+  "1CO":
+    name: "1 Körɛ̂nte"
+    slug: "1-kornte"
+  "2CO":
+    name: "2 Körɛ̂nte"
+    slug: "2-kornte"
+  "GAL":
+    name: "Gälâte"
+    slug: "galate"
+  "EPH":
+    name: "Ëfêze"
+    slug: "efeze"
+  "PHP":
+    name: "Fïlîpe"
+    slug: "filipe"
+  "COL":
+    name: "Kölôse"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tësälönîke"
+    slug: "1-tesalonike"
+  "2TH":
+    name: "2 Tësälönîke"
+    slug: "2-tesalonike"
+  "1TI":
+    name: "1 Timotë"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timotë"
+    slug: "2-timote"
+  "TIT":
+    name: "Tîte"
+    slug: "tite"
+  "PHM":
+    name: "Filemön"
+    slug: "filemon"
+  "HEB":
+    name: "Aheborö"
+    slug: "aheboro"
+  "JAS":
+    name: "Jâke"
+    slug: "jake"
+  "1PE":
+    name: "1 Pîêre"
+    slug: "1-piere"
+  "2PE":
+    name: "2 Pîêre"
+    slug: "2-piere"
+  "1JN":
+    name: "1 Jâan"
+    slug: "1-jaan"
+  "2JN":
+    name: "2 Jâan"
+    slug: "2-jaan"
+  "3JN":
+    name: "3 Jâan"
+    slug: "3-jaan"
+  "JUD":
+    name: "Jûde"
+    slug: "jude"
+  "REV":
+    name: "Apökälîbïchi"
+    slug: "apokalibichi"

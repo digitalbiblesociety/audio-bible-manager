@@ -1,0 +1,95 @@
+language: "krs"
+books:
+  "GEN":
+    name: "Gõcõ Lãgá"
+    slug: "goco-laga"
+  "EXO":
+    name: "Úgú Létë"
+    slug: "ugu-lete"
+  "RUT":
+    name: "Rútã"
+    slug: "ruta"
+  "JON":
+    name: "Jónã"
+    slug: "jona"
+  "MAT":
+    name: "Mãtéyõ"
+    slug: "mateyo"
+  "MRK":
+    name: "Márkõ"
+    slug: "marko"
+  "LUK":
+    name: "Lúkã"
+    slug: "luka"
+  "JHN":
+    name: "Jónõ"
+    slug: "jono"
+  "ACT":
+    name: "Nẽté ká Yõmó Yõpó"
+    slug: "nete-ka-yomo-yopo"
+  "ROM":
+    name: "Rómã"
+    slug: "roma"
+  "1CO":
+    name: "1 Kõréntĩyã"
+    slug: "1-korentiya"
+  "2CO":
+    name: "2 Kõréntĩyã"
+    slug: "2-korentiya"
+  "GAL":
+    name: "Gãlátĩyã"
+    slug: "galatiya"
+  "EPH":
+    name: "Éfësũsũ"
+    slug: "efesusu"
+  "PHP":
+    name: "Fĩlípĩyã"
+    slug: "filipiya"
+  "COL":
+    name: "Kõlósẽ"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tãsãlónĩkã"
+    slug: "1-tasalonika"
+  "2TH":
+    name: "2 Tãsãlónĩkã"
+    slug: "2-tasalonika"
+  "1TI":
+    name: "1 Tímõtĩ"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Tímõtĩ"
+    slug: "2-timoti"
+  "TIT":
+    name: "Táyítõsõ"
+    slug: "tayitoso"
+  "PHM":
+    name: "Fílmõnõ"
+    slug: "filmono"
+  "HEB":
+    name: "Íbrũ"
+    slug: "ibru"
+  "JAS":
+    name: "Jémĩsĩ"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pítãrã"
+    slug: "1-pitara"
+  "2PE":
+    name: "2 Pítãrã"
+    slug: "2-pitara"
+  "1JN":
+    name: "1 Jónõ"
+    slug: "1-jono"
+  "2JN":
+    name: "2 Jónõ"
+    slug: "2-jono"
+  "3JN":
+    name: "3 Jónõ"
+    slug: "3-jono"
+  "JUD":
+    name: "Júdẽ"
+    slug: "jude"
+  "REV":
+    name: "Gïtĩ Ádá"
+    slug: "giti-ada"

@@ -1,0 +1,266 @@
+language: "run"
+books:
+  "GEN":
+    name: "Itanguriro"
+    slug: "itanguriro"
+    name_toc: "Paulus 'ai Surata ra Titus"
+  "EXO":
+    name: "Kuvayo"
+    slug: "kuvayo"
+    name_toc: "Paulus 'ai Surata ra Filemon"
+  "LEV":
+    name: "Abalewi"
+    slug: "abalewi"
+    name_toc: "Surata toma Ngowa'a 'Ibrani"
+  "NUM":
+    name: "Guharūra"
+    slug: "guharura"
+    name_toc: "Yakobus 'ai Surata"
+  "DEU":
+    name: "Gusubira mu Vyagezwe"
+    slug: "gusubira-mu-vyagezwe"
+    name_toc: "Petrus 'ai Surata ma Mulaingi"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+    name_toc: "Petrus 'ai Surata ma Soi Ýiýi"
+  "JDG":
+    name: "Abacamanza"
+    slug: "abacamanza"
+    name_toc: "Yohanes 'ai Surata ma Mulaingi"
+  "RUT":
+    name: "Rusi"
+    slug: "rusi"
+    name_toc: "Yohanes 'ai Surata ma Soi Ýiýi"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Yohanes 'ai Surata ma Soi Ro'ange"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Yudas 'ai Surata"
+  "1KI":
+    name: "1 Abami"
+    slug: "1-abami"
+    name_toc: "Tingoýi'i ra Yesus Kristus tala"
+  "2KI":
+    name: "2 Abami"
+    slug: "2-abami"
+    name_toc: "Kitab Zabur"
+  "1CH":
+    name: "1 Ivyo ku Ngoma"
+    slug: "1-ivyo-ku-ngoma"
+    name_toc: "Kitab Matius"
+  "2CH":
+    name: "2 Ivyo ku Ngoma"
+    slug: "2-ivyo-ku-ngoma"
+    name_toc: "Kitab Markus"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Kitab Lukas"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Kitab Yahya"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "Kisah Rasul-rasul"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Surat Paulus Tipaq Jemaah Léq Roma"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+    name_toc: "Surat Paulus Saq Penembéq Tipaq Jemaah Léq Korintus"
+  "PRO":
+    name: "Imigani"
+    slug: "imigani"
+    name_toc: "Surat Paulus Saq Kedue Tipaq Jemaah Léq Korintus"
+  "ECC":
+    name: "Umusiguzi"
+    slug: "umusiguzi"
+    name_toc: "Surat Paulus Tipaq Jemaah-jemaah Léq Galatia"
+  "SNG":
+    name: "Indirimbo ya Salomo"
+    slug: "indirimbo-ya-salomo"
+    name_toc: "Surat Paulus Tipaq Jemaah Léq Epesus"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Surat Paulus Tipaq Jemaah Léq Pilipi"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Surat Paulus Tipaq Jemaah Léq Kolose"
+  "LAM":
+    name: "Gucura Intimba"
+    slug: "gucura-intimba"
+    name_toc: "Surat Paulus Saq Penembéq Tipaq Jemaah Léq Tesalonika"
+  "EZK":
+    name: "Ezekiyeli"
+    slug: "ezekiyeli"
+    name_toc: "Surat Paulus Saq Kedue Tipaq Jemaah L~eq Tesalonika"
+  "DAN":
+    name: "Daniyeli"
+    slug: "daniyeli"
+    name_toc: "Surat Paulus Saq Penembéq Tipaq Timotius"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Surat Paulus Saq Kedue Tipaq Timotius"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+    name_toc: "Surat Paulus Tipaq Titus"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Surat Paulus Tipaq Pilemon"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Surat Tipaq Dengan Ibrani"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Surat Yakub"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Surat Petrus Saq Penembéq"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Surat Petrus Saq Kedue"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Surat Yahya Saq Penembéq"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Surat Yahya Saq Kedue"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+    name_toc: "Surat Yahya Saq Ketelu"
+  "ZEC":
+    name: "Zekariya"
+    slug: "zekariya"
+    name_toc: "Surat Yudas"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Wahyu Tipaq Yahya"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Mbeti ti Joël"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Mbeti ti Amos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mbeti ti Abdias"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Mbeti ti Jonas"
+  "ACT":
+    name: "Ivyakozwe"
+    slug: "ivyakozwe"
+    name_toc: "Kozo Mbeti so Pierre atokua ni"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Use Mbeti so Pierre atokua ni"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+    name_toc: "Kozo Mbeti so Jean atokua ni"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+    name_toc: "Use Mbeti so Jean atokua ni"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "Ota Mbeti so Jean atokua ni"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Mbeti so Jude atokua ni"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Mbeti ti Aye so Nzapa afa na Jean (Apocalypse)"
+  "COL":
+    name: "Kolosayi"
+    slug: "kolosayi"
+    name_toc: "Habari Roanga ga'a Matius 'a lefo"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+    name_toc: "Habari Roanga ga'a Markus 'a lefo"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+    name_toc: "Habari Roanga ga'a Lukas 'a lefo"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+    name_toc: "Nzoni Tënë so Jean asu na mbeti"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+    name_toc: "Mbeti ti Aye so awatokua asara (Actes des Apôtres)"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Mbeti so Paul atokua na Eglize ti Rome (Romains)"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Kozo Mbeti so Paul atokua na Eglize ti Korente (1 Corinthiens)"
+  "HEB":
+    name: "Abaheburayo"
+    slug: "abaheburayo"
+    name_toc: "Use Mbeti so Paul atokua na Eglize ti Korente (2 Corinthiens)"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Mbeti so Paul atokua na Eglize ti Galasii (Galates)"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Mbeti so Paul atokua na Eglize ti Efeze (Éphésiens)"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Mbeti so Paul atokua na Eglize ti Filipe (Philippiens)"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Mbeti so Paul atokua na Eglize ti Kolose (Colossiens)"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Kozo Mbeti so Paul atokua na Eglize ti Tesalonike (1 Thessaloniciens)"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Use Mbeti so Paul atokua na Eglize ti Tesalonike (2 Thessaloniciens)"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Kozo Mbeti so Paul atokua na Timothée"
+  "REV":
+    name: "Ivyahishuwe"
+    slug: "ivyahishuwe"
+    name_toc: "Paulus 'ai Surata ma Soi Ýiýi ra Timotius"

@@ -1,0 +1,17 @@
+language: "icr"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"

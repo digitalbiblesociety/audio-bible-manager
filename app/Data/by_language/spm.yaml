@@ -1,0 +1,8 @@
+language: "spm"
+books:
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "ACT":
+    name: "Iesusɨm Mbɨsevisir Gumasi"
+    slug: "iesusim-mbisevisir-gumasi"

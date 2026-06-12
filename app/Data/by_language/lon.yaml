@@ -1,0 +1,266 @@
+language: "lon"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Nibukhu na Genesis"
+  "EXO":
+    name: "Eksodo"
+    slug: "eksodo"
+    name_toc: "Nibukhu na Eksodo"
+  "LEV":
+    name: "Levitiko"
+    slug: "levitiko"
+    name_toc: "Nibukhu na Levitiko"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+    name_toc: "Nibukhu na Numeri"
+  "DEU":
+    name: "Deuteronomo"
+    slug: "deuteronomo"
+    name_toc: "Nibukhu na Deuteronomo"
+  "JOS":
+    name: "Yoswa"
+    slug: "yoswa"
+    name_toc: "Nibukhu na Yoswa"
+  "JDG":
+    name: "Oweeruza"
+    slug: "oweeruza"
+    name_toc: "Nibukhu na Oweeruza"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+    name_toc: "Nibukhu na Rute"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Nibukhu nawaamba na Samuele"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Nibukhu naneepiilli na Samuele"
+  "1KI":
+    name: "1 Mamwene"
+    slug: "1-mamwene"
+    name_toc: "Nibukhu nawaamba na Mamwene"
+  "2KI":
+    name: "2 Mamwene"
+    slug: "2-mamwene"
+    name_toc: "Nibukhu naneepiilli na Mamwene"
+  "1CH":
+    name: "1 Epilli"
+    slug: "1-epilli"
+    name_toc: "Nibukhu nawaamba na Epilli"
+  "2CH":
+    name: "2 Epilli"
+    slug: "2-epilli"
+    name_toc: "Nibukhu naneepiilli na Epilli"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+    name_toc: "Nibukhu na Ezara"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Nibukhu na Nehemiya"
+  "EST":
+    name: "Estere"
+    slug: "estere"
+    name_toc: "Nibukhu na Estere"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Nibukhu na Yobu"
+  "PSA":
+    name: "Masalimo"
+    slug: "masalimo"
+    name_toc: "Nibukhu na Masalimo"
+  "PRO":
+    name: "Miyambo"
+    slug: "miyambo"
+    name_toc: "Nibukhu na Miyambo"
+  "ECC":
+    name: "Oollalleya"
+    slug: "oollalleya"
+    name_toc: "Nibukhu na Oollalleya"
+  "SNG":
+    name: "Nchipo na Solomoni"
+    slug: "nchipo-na-solomoni"
+    name_toc: "Nchipo na Solomoni"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Nibukhu na Yesaya"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Nibukhu na Yeremiya"
+  "LAM":
+    name: "Maliro"
+    slug: "maliro"
+    name_toc: "Nibukhu na Maliro"
+  "EZK":
+    name: "Ezekiele"
+    slug: "ezekiele"
+    name_toc: "Nibukhu na Ezekiele"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Nibukhu na Daniele"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Nibukhu na Hoseya"
+  "JOL":
+    name: "Yowele"
+    slug: "yowele"
+    name_toc: "Nibukhu na Yowele"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Nibukhu na Amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Nibukhu na Obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Nibukhu na Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Nibukhu na Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Nibukhu na Nahumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Nibukhu na Habakuku"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Nibukhu na Zefaniya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Nibukhu na Hagai"
+  "ZEC":
+    name: "Zekariya"
+    slug: "zekariya"
+    name_toc: "Nibukhu na Zekariya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Nibukhu na Malaki"
+  "MAT":
+    name: "Mateyu"
+    slug: "mateyu"
+    name_toc: "Othenga waphaama woolembiwa ni Mateyu"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Othenga waphaama woolembiwa ni Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Othenga waphaama woolembiwa ni Luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Othenga waphaama woolembiwa ni Yohane"
+  "ACT":
+    name: "Mitteko"
+    slug: "mitteko"
+    name_toc: "Mitteko dda amurummwa"
+  "ROM":
+    name: "Aroma"
+    slug: "aroma"
+    name_toc: "Kalata a Paulo owaalembella Aroma"
+  "1CO":
+    name: "1 Akorinto"
+    slug: "1-akorinto"
+    name_toc: "Kalata awaamba a Paulo owaalembella Akorinto"
+  "2CO":
+    name: "2 Akorinto"
+    slug: "2-akorinto"
+    name_toc: "Kalata aneepiilli a Paulo owaalembella Akorinto"
+  "GAL":
+    name: "Agalatiya"
+    slug: "agalatiya"
+    name_toc: "Kalata a Paulo owaalembella Agalatiya"
+  "EPH":
+    name: "Aefeso"
+    slug: "aefeso"
+    name_toc: "Kalata a Paulo owaalembella Aefeso"
+  "PHP":
+    name: "Afilipi"
+    slug: "afilipi"
+    name_toc: "Kalata a Paulo owaalembella Afilipi"
+  "COL":
+    name: "Akolose"
+    slug: "akolose"
+    name_toc: "Kalata a Paulo owaalembella Akolose"
+  "1TH":
+    name: "1 Atesalonika"
+    slug: "1-atesalonika"
+    name_toc: "Kalata awaamba a Paulo owaalembella Atesalonika"
+  "2TH":
+    name: "2 Atesalonika"
+    slug: "2-atesalonika"
+    name_toc: "Kalata aneepiilli a Paulo owaalembella Atesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Kalata awaamba a Paulo oomulembella Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Kalata aneepiilli a Paulo oomulembella Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Kalata a Paulo oomulembella Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Kalata a Paulo oomulembella Filemoni"
+  "HEB":
+    name: "Aheberi"
+    slug: "aheberi"
+    name_toc: "Kalata owaalembella Aheberi"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Kalata oolembiwa ni Yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Kalata awaamba oolembiwa ni Petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Kalata aneepiilli oolembiwa ni Petro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Kalata awaamba oolembiwa ni Yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Kalata aneepiilli oolembiwa ni Yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Kalata aneeraru oolembiwa ni Yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Kalata oolembiwa ni Yuda"
+  "REV":
+    name: "Yawuupullulla"
+    slug: "yawuupullulla"
+    name_toc: "Yawuupullulla ya wa Yohane"

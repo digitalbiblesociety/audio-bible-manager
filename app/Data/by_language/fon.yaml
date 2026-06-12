@@ -1,0 +1,230 @@
+language: "fon"
+books:
+  "GEN":
+    name: "Bǐbɛ́mɛ"
+    slug: "bibm"
+  "EXO":
+    name: "Tíntɔ́n"
+    slug: "tintn"
+  "LEV":
+    name: "Levíi ví"
+    slug: "levii-vi"
+  "NUM":
+    name: "Kɛ́nsísɔ́"
+    slug: "knsis"
+  "DEU":
+    name: "Sɛ́nflínmɛ"
+    slug: "snflinm"
+  "JOS":
+    name: "Jozuwée"
+    slug: "jozuwee"
+  "JDG":
+    name: "Hwɛɖɔtɔ́"
+    slug: "hwt"
+  "RUT":
+    name: "Hwliti"
+    slug: "hwliti"
+  "1SA":
+    name: "1 Samuwɛ́li"
+    slug: "1-samuwli"
+  "2SA":
+    name: "2 Samuwɛ́li"
+    slug: "2-samuwli"
+  "1KI":
+    name: "1 Axɔ́sú"
+    slug: "1-axsu"
+  "2KI":
+    name: "2 Axɔ́sú"
+    slug: "2-axsu"
+  "1CH":
+    name: "1 Tan"
+    slug: "1-tan"
+  "2CH":
+    name: "2 Tan"
+    slug: "2-tan"
+  "EZR":
+    name: "Ɛsidlási"
+    slug: "sidlasi"
+  "NEH":
+    name: "Nɛɛmíi"
+    slug: "nmii"
+  "EST":
+    name: "Ɛsitɛ́ɛ"
+    slug: "sit"
+  "JOB":
+    name: "Jɔ̌bu"
+    slug: "jbu"
+  "PSA":
+    name: "Ɖɛhan"
+    slug: "han"
+  "PRO":
+    name: "Nǔnywɛ́xó"
+    slug: "nunywxo"
+  "ECC":
+    name: "Nǔnywɛ́tɔ́xó"
+    slug: "nunywtxo"
+  "SNG":
+    name: "Hanvíví"
+    slug: "hanvivi"
+  "ISA":
+    name: "Ezayíi"
+    slug: "ezayii"
+  "JER":
+    name: "Jelemíi"
+    slug: "jelemii"
+  "LAM":
+    name: "Gbɛvíhan"
+    slug: "gbvihan"
+  "EZK":
+    name: "Ezekiyɛ́li"
+    slug: "ezekiyli"
+  "DAN":
+    name: "Daniyɛ́li"
+    slug: "daniyli"
+  "HOS":
+    name: "Ozée"
+    slug: "ozee"
+  "JOL":
+    name: "Jowɛ́li"
+    slug: "jowli"
+  "AMO":
+    name: "Amɔ́si"
+    slug: "amsi"
+  "OBA":
+    name: "Abudiyási"
+    slug: "abudiyasi"
+  "JON":
+    name: "Jonási"
+    slug: "jonasi"
+  "MIC":
+    name: "Micée"
+    slug: "micee"
+  "NAM":
+    name: "Naxúmu"
+    slug: "naxumu"
+  "HAB":
+    name: "Xabakúku"
+    slug: "xabakuku"
+  "ZEP":
+    name: "Sofoníi"
+    slug: "sofonii"
+  "HAG":
+    name: "Ajée"
+    slug: "ajee"
+  "ZEC":
+    name: "Zakalíi"
+    slug: "zakalii"
+  "MAL":
+    name: "Malacíi"
+    slug: "malacii"
+  "TOB":
+    name: "Tobíi"
+    slug: "tobii"
+  "JDT":
+    name: "Judíti"
+    slug: "juditi"
+  "ESG":
+    name: "Ɛsitɛ́ɛ Glɛ̌sigbe"
+    slug: "sit-glsigbe"
+  "WIS":
+    name: "Sɛ́núnywɛ́"
+    slug: "snunyw"
+  "SIR":
+    name: "Silaki ví"
+    slug: "silaki-vi"
+  "BAR":
+    name: "Balúki"
+    slug: "baluki"
+  "LJE":
+    name: "Jelemíi wlán"
+    slug: "jelemii-wlan"
+  "DAG":
+    name: "Daniyɛ́li Glɛ̌sigbe"
+    slug: "daniyli-glsigbe"
+  "1MA":
+    name: "1 Makabée"
+    slug: "1-makabee"
+  "2MA":
+    name: "2 Makabée"
+    slug: "2-makabee"
+  "MAT":
+    name: "Matíe"
+    slug: "matie"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Jǎan"
+    slug: "jaan"
+  "ACT":
+    name: "Mɛsɛ́dó"
+    slug: "msdo"
+  "ROM":
+    name: "Hlɔ̌manu"
+    slug: "hlmanu"
+  "1CO":
+    name: "1 Kɔlɛ́ntinu"
+    slug: "1-klntinu"
+  "2CO":
+    name: "2 Kɔlɛ́ntinu"
+    slug: "2-klntinu"
+  "GAL":
+    name: "Galatinu"
+    slug: "galatinu"
+  "EPH":
+    name: "Efɛ́zinu"
+    slug: "efzinu"
+  "PHP":
+    name: "Filípunu"
+    slug: "filipunu"
+  "COL":
+    name: "Kolósinu"
+    slug: "kolosinu"
+  "1TH":
+    name: "1 Tɛsalonikinu"
+    slug: "1-tsalonikinu"
+  "2TH":
+    name: "2 Tɛsalonikinu"
+    slug: "2-tsalonikinu"
+  "1TI":
+    name: "1 Timɔtée"
+    slug: "1-timtee"
+  "2TI":
+    name: "2 Timɔtée"
+    slug: "2-timtee"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemɔ́ɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eblée"
+    slug: "eblee"
+  "JAS":
+    name: "Jaki"
+    slug: "jaki"
+  "1PE":
+    name: "1 Piyɛ́ɛ"
+    slug: "1-piy"
+  "2PE":
+    name: "2 Piyɛ́ɛ"
+    slug: "2-piy"
+  "1JN":
+    name: "1 Jǎan"
+    slug: "1-jaan"
+  "2JN":
+    name: "2 Jǎan"
+    slug: "2-jaan"
+  "3JN":
+    name: "3 Jǎan"
+    slug: "3-jaan"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Nǔɖexlɛ́mɛ"
+    slug: "nuexlm"

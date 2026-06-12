@@ -1,0 +1,5 @@
+language: "jmx"
+books:
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"

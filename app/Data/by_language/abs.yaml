@@ -1,0 +1,83 @@
+language: "abs"
+books:
+  "MAT":
+    name: "Indjil Mattheus"
+    slug: "indjil-mattheus"
+  "MRK":
+    name: "Indjil Markus"
+    slug: "indjil-markus"
+  "LUK":
+    name: "Indjil Lukas"
+    slug: "indjil-lukas"
+  "JHN":
+    name: "Indijil Joannes"
+    slug: "indijil-joannes"
+  "ACT":
+    name: "Perbowatan Rasul‐rasul"
+    slug: "perbowatan-rasulrasul"
+  "ROM":
+    name: "Kapada awrang Rawma"
+    slug: "kapada-awrang-rawma"
+  "1CO":
+    name: "Kapada awrang Korinthus"
+    slug: "kapada-awrang-korinthus"
+  "2CO":
+    name: "Kapada awrang Korinthus"
+    slug: "kapada-awrang-korinthus"
+  "GAL":
+    name: "Kapada awrang Galatia"
+    slug: "kapada-awrang-galatia"
+  "EPH":
+    name: "Kapada awrang Efesus"
+    slug: "kapada-awrang-efesus"
+  "PHP":
+    name: "Kapada Filémon"
+    slug: "kapada-filemon"
+  "COL":
+    name: "Kapada awrang Kolossa"
+    slug: "kapada-awrang-kolossa"
+  "1TH":
+    name: "Kapada awrang Thessalonike"
+    slug: "kapada-awrang-thessalonike"
+  "2TH":
+    name: "Kapada awrang Thessalonike, jang kaduwa"
+    slug: "kapada-awrang-thessalonike-jang-kaduwa"
+  "1TI":
+    name: "Kapada Timotheus"
+    slug: "kapada-timotheus"
+  "2TI":
+    name: "Kapada Timotheus"
+    slug: "kapada-timotheus"
+  "TIT":
+    name: "Kapada Titus"
+    slug: "kapada-titus"
+  "PHM":
+    name: "Kapada Filémon"
+    slug: "kapada-filemon"
+  "HEB":
+    name: "Kapada awrang Ibrani"
+    slug: "kapada-awrang-ibrani"
+  "JAS":
+    name: "Surat Jakobus"
+    slug: "surat-jakobus"
+  "1PE":
+    name: "Surat Petrus"
+    slug: "surat-petrus"
+  "2PE":
+    name: "Surat Petrus"
+    slug: "surat-petrus"
+  "1JN":
+    name: "Surat Joannes"
+    slug: "surat-joannes"
+  "2JN":
+    name: "Surat Joannes"
+    slug: "surat-joannes"
+  "3JN":
+    name: "Surat Joannes"
+    slug: "surat-joannes"
+  "JUD":
+    name: "Surat Judas"
+    slug: "surat-judas"
+  "REV":
+    name: "Apokalipsis Joannes"
+    slug: "apokalipsis-joannes"

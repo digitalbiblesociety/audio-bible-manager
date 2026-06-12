@@ -1,0 +1,83 @@
+language: "dga"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Gyn"
+    slug: "gyn"
+  "ACT":
+    name: "Tom"
+    slug: "tom"
+  "ROM":
+    name: "Uro"
+    slug: "uro"
+  "1CO":
+    name: "1 Kor"
+    slug: "1-kor"
+  "2CO":
+    name: "Kor"
+    slug: "kor"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "EPH":
+    name: "Efe"
+    slug: "efe"
+  "PHP":
+    name: "Fil"
+    slug: "fil"
+  "COL":
+    name: "Kolo"
+    slug: "kolo"
+  "1TH":
+    name: "I Tesa"
+    slug: "i-tesa"
+  "2TH":
+    name: "II Tesa"
+    slug: "ii-tesa"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Fil"
+    slug: "fil"
+  "HEB":
+    name: "Hib"
+    slug: "hib"
+  "JAS":
+    name: "Gyi"
+    slug: "gyi"
+  "1PE":
+    name: "1 Pit"
+    slug: "1-pit"
+  "2PE":
+    name: "2 Pit"
+    slug: "2-pit"
+  "1JN":
+    name: "1 Gyn"
+    slug: "1-gyn"
+  "2JN":
+    name: "2 Gyn"
+    slug: "2-gyn"
+  "3JN":
+    name: "3 Gyn"
+    slug: "3-gyn"
+  "JUD":
+    name: "Gyu"
+    slug: "gyu"
+  "REV":
+    name: "Yel"
+    slug: "yel"

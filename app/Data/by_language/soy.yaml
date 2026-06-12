@@ -1,0 +1,83 @@
+language: "soy"
+books:
+  "MAT":
+    name: "Mɑtiyee"
+    slug: "mtiyee"
+  "MRK":
+    name: "Mɑriki"
+    slug: "mriki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Yohɑni"
+    slug: "yohni"
+  "ACT":
+    name: "Uléécɑɑ Pitumɛ Mɛwɑi"
+    slug: "uleec-pitum-mwi"
+  "ROM":
+    name: "Rɔm"
+    slug: "rm"
+  "1CO":
+    name: "1 Korɛnti"
+    slug: "1-kornti"
+  "2CO":
+    name: "2 Korɛnti"
+    slug: "2-kornti"
+  "GAL":
+    name: "Kɑlɑɑti"
+    slug: "klti"
+  "EPH":
+    name: "Efɛɛsi"
+    slug: "efsi"
+  "PHP":
+    name: "Filipu"
+    slug: "filipu"
+  "COL":
+    name: "Kolɔɔsi"
+    slug: "kolsi"
+  "1TH":
+    name: "1 Tɛsɑloniki"
+    slug: "1-tsloniki"
+  "2TH":
+    name: "2 Tɛsɑloniki"
+    slug: "2-tsloniki"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Epireeyɛ"
+    slug: "epireey"
+  "JAS":
+    name: "Yɑkupu"
+    slug: "ykupu"
+  "1PE":
+    name: "1 Piyɛɛ"
+    slug: "1-piy"
+  "2PE":
+    name: "2 Piyɛɛ"
+    slug: "2-piy"
+  "1JN":
+    name: "1 Yohɑni"
+    slug: "1-yohni"
+  "2JN":
+    name: "2 Yohɑni"
+    slug: "2-yohni"
+  "3JN":
+    name: "3 Yohɑni"
+    slug: "3-yohni"
+  "JUD":
+    name: "Yuuti"
+    slug: "yuuti"
+  "REV":
+    name: "Yohɑni Mɛyɛnɛ"
+    slug: "yohni-myn"

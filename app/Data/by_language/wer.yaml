@@ -1,0 +1,83 @@
+language: "wer"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Son"
+    slug: "son"
+  "ACT":
+    name: "Ngön Yaaö Omnarö"
+    slug: "ngon-yaao-omnaro"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Kalesia"
+    slug: "kalesia"
+  "EPH":
+    name: "Epesas"
+    slug: "epesas"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Pailimon"
+    slug: "pailimon"
+  "HEB":
+    name: "Ipru"
+    slug: "ipru"
+  "JAS":
+    name: "Sems"
+    slug: "sems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Son"
+    slug: "1-son"
+  "2JN":
+    name: "2 Son"
+    slug: "2-son"
+  "3JN":
+    name: "3 Son"
+    slug: "3-son"
+  "JUD":
+    name: "Yut"
+    slug: "yut"
+  "REV":
+    name: "Ënëma Ngönte"
+    slug: "enema-ngonte"

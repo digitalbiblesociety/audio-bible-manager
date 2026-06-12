@@ -1,0 +1,266 @@
+language: "lhu"
+books:
+  "GEN":
+    name: "Awˬ hkuiˉ puiˍ ve li‸"
+    slug: "aw-hkui-pui-ve-li"
+    name_toc: "AWˬ HKUIˉ PUIˍ VE LI‸ (Genesis)"
+  "EXO":
+    name: "Tawˆ kʼai ve li‸"
+    slug: "taw-kai-ve-li"
+    name_toc: "TAWˆ KʼAI VE LI‸ (Exodus)"
+  "LEV":
+    name: "Oˉ kʼoˍ pui ve li‸"
+    slug: "o-ko-pui-ve-li"
+    name_toc: "Oˉ KʼOˍ PUI VE LI‸ (Leviticus)"
+  "NUM":
+    name: "Heh puiˉ hkʼaw ve li‸"
+    slug: "heh-pui-hkaw-ve-li"
+    name_toc: "HEH PUIˉ HKʼAW VE LI‸ (Numbers)"
+  "DEU":
+    name: "Bon maˍ ve li‸"
+    slug: "bon-ma-ve-li"
+    name_toc: "BON MAˍ VE LI‸ (Deuteronomy)"
+  "JOS":
+    name: "Yawˇsuˆ li‸"
+    slug: "yawsu-li"
+    name_toc: "YAWˇSUˆ LI‸ (Joshua)"
+  "JDG":
+    name: "Suhˉ jehˬ ve li‸"
+    slug: "suh-jeh-ve-li"
+    name_toc: "SUHˉ JEHˬ VE LI‸ (Judges)"
+  "RUT":
+    name: "Ruˉhtaˆ li‸"
+    slug: "ruhta-li"
+    name_toc: "RUˉHTAˆ LI‸ (Ruth)"
+  "1SA":
+    name: "1 Saˍmo-eˍlaˆ li‸"
+    slug: "1-samo-ela-li"
+    name_toc: "1 SAˍMO-EˍLAˆ LI‸ (1 Samuel)"
+  "2SA":
+    name: "2 Saˍmo-eˍlaˆ li‸"
+    slug: "2-samo-ela-li"
+    name_toc: "2 SAˍMO-EˍLAˆ LI‸ (2 Samuel)"
+  "1KI":
+    name: "1 Jawˇmawˇ li‸"
+    slug: "1-jawmaw-li"
+    name_toc: "1 JAWˇMAWˇ LI‸ (1 Kings)"
+  "2KI":
+    name: "2 Jawˇmawˇ li‸"
+    slug: "2-jawmaw-li"
+    name_toc: "2 JAWˇMAWˇ LI‸ (2 Kings)"
+  "1CH":
+    name: "1 Raˍsaˍvanˍ li‸"
+    slug: "1-rasavan-li"
+    name_toc: "1 RAˍSAˍVANˍ LI‸ (1 Chronicles)"
+  "2CH":
+    name: "2 Raˍsaˍvanˍ li‸"
+    slug: "2-rasavan-li"
+    name_toc: "2 RAˍSAˍVANˍ LI‸ (2 Chronicles)"
+  "EZR":
+    name: "Eˇzaˍraˆ li‸"
+    slug: "ezara-li"
+    name_toc: "EˇZAˍRAˆ LI‸ (Ezra)"
+  "NEH":
+    name: "Neˍhaˍmiˆ li‸"
+    slug: "nehami-li"
+    name_toc: "NEˍHAˍMIˆ LI‸ (Nehemiah)"
+  "EST":
+    name: "Iˉsaˍtaˆ li‸"
+    slug: "isata-li"
+    name_toc: "IˉSAˍTAˆ LI‸ (Esther)"
+  "JOB":
+    name: "Yawˇbaˆ li‸"
+    slug: "yawba-li"
+    name_toc: "YAWˇBAˆ LI‸ (Job)"
+  "PSA":
+    name: "Chiˇ mvuh ve li‸"
+    slug: "chi-mvuh-ve-li"
+    name_toc: "CHIˇ MVUH VE LI‸ (Psalms)"
+  "PRO":
+    name: "Tawˇ naˉ ve li‸"
+    slug: "taw-na-ve-li"
+    name_toc: "TAWˇ NAˉ VE LI‸ (Proverbs)"
+  "ECC":
+    name: "Cuˇ yiˍ piˇ ve li‸"
+    slug: "cu-yi-pi-ve-li"
+    name_toc: "CUˇ YIˍ PIˇ VE LI‸ (Ecclesiastes)"
+  "SNG":
+    name: "Sawˉla‸monˍ ve kʼa muiˬ hkawˇ"
+    slug: "sawlamon-ve-ka-mui-hkaw"
+    name_toc: "SAWˉLA‸MONˍ VE KʼA MUIˬ HKAWˇ (Song of Solomon)"
+  "ISA":
+    name: "Iˉsaˍyaˆ li‸"
+    slug: "isaya-li"
+    name_toc: "IˉSAˍYAˆ LI‸ (Isaiah)"
+  "JER":
+    name: "Yeˍraˍmiˆ li‸"
+    slug: "yerami-li"
+    name_toc: "YEˍRAˍMIˆ LI‸ (Jeremiah)"
+  "LAM":
+    name: "Dawˇ haˍ ve li‸"
+    slug: "daw-ha-ve-li"
+    name_toc: "DAWˇ HAˍ VE LI‸ (Lamentations)"
+  "EZK":
+    name: "Yeˍsaˍkeˍlaˆ li‸"
+    slug: "yesakela-li"
+    name_toc: "YEˍSAˍKEˍLAˆ LI‸ (Ezekiel)"
+  "DAN":
+    name: "Daˍyeˍlaˆ li‸"
+    slug: "dayela-li"
+    name_toc: "DAˍYEˍLAˆ LI‸ (Daniel)"
+  "HOS":
+    name: "Hawˇseˍ li‸"
+    slug: "hawse-li"
+    name_toc: "HAWˇSEˍ LI‸ (Hosea)"
+  "JOL":
+    name: "Yawˇlaˆ li‸"
+    slug: "yawla-li"
+    name_toc: "YAWˇLAˆ LI‸ (Joel)"
+  "AMO":
+    name: "Aˍmoˆ li‸"
+    slug: "amo-li"
+    name_toc: "AˍMOˆ LI‸ (Amos)"
+  "OBA":
+    name: "Awˇbaˍdiˆ li‸"
+    slug: "awbadi-li"
+    name_toc: "AWˇBAˍDIˆ LI‸ (Obadiah)"
+  "JON":
+    name: "Yoˇnaˆ li‸"
+    slug: "yona-li"
+    name_toc: "YOˇNAˆ LI‸ (Jonah)"
+  "MIC":
+    name: "Miˆhkaˍ li‸"
+    slug: "mihka-li"
+    name_toc: "MIˆHKAˍ LI‸ (Micah)"
+  "NAM":
+    name: "Naˍhunˍ li‸"
+    slug: "nahun-li"
+    name_toc: "NAˍHUNˍ LI‸ (Nahum)"
+  "HAB":
+    name: "Haˍbaˍkuˆ li‸"
+    slug: "habaku-li"
+    name_toc: "HAˍBAˍKUˆ LI‸ (Habakkuk)"
+  "ZEP":
+    name: "Zeˍhpaˍniˆ li‸"
+    slug: "zehpani-li"
+    name_toc: "ZEˍHPAˍNIˆ LI‸ (Zephaniah)"
+  "HAG":
+    name: "Haˆgehˇ li‸"
+    slug: "hageh-li"
+    name_toc: "HAˆGEHˇ LI‸ (Haggai)"
+  "ZEC":
+    name: "Zaˍhkaˍriˆ li‸"
+    slug: "zahkari-li"
+    name_toc: "ZAˍHKAˍRIˆ LI‸ (Zechariah)"
+  "MAL":
+    name: "Maˍlaˍhkiˆ li‸"
+    slug: "malahki-li"
+    name_toc: "MAˍLAˍHKIˆ LI‸ (Malachi)"
+  "MAT":
+    name: "Ma‸htehˍ li‸"
+    slug: "mahteh-li"
+    name_toc: "MA‸HTEHˍ~ bvuh‸ taˍ ve ha lehˬ ve bon hkawˇ~ (Matthew)"
+  "MRK":
+    name: "Maˍkuˆ li‸"
+    slug: "maku-li"
+    name_toc: "MAˍKUˆ bvuh‸ taˍ ve ha lehˬ ve bon hkawˇ (Mark)"
+  "LUK":
+    name: "Luˉka‸ li‸"
+    slug: "luka-li"
+    name_toc: "LUˉKA‸ bvuh‸ taˍ ve ha lehˬ ve bon hkawˇ (Luke)"
+  "JHN":
+    name: "Yoˇhanˬ li‸"
+    slug: "yohan-li"
+    name_toc: "YOˇHANˬ bvuh‸ taˍ ve ha lehˬ ve bon hkawˇ (John)"
+  "ACT":
+    name: "Tcuh yaˇ li‸"
+    slug: "tcuh-ya-li"
+    name_toc: "TCUH YAˇ hui kanˉ te ve awˬ lawn li‸ (Acts)"
+  "ROM":
+    name: "Roˉma‸ li‸"
+    slug: "roma-li"
+    name_toc: "ROˉMA‸ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ (Rome)"
+  "1CO":
+    name: "1 Kawˇrenˍhtuˆ li‸"
+    slug: "1-kawrenhtu-li"
+    name_toc: "KAWˇRENˍHTUˆ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ awˉ lawˉ teˇ k’oˆ (1 Corinthians)"
+  "2CO":
+    name: "2 Kawˇrenˍhtuˆ li‸"
+    slug: "2-kawrenhtu-li"
+    name_toc: "KAWˇRENˍHTUˆ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ nyiˇ k’oˆ teˇ k’oˆ (2 Corinthians)"
+  "GAL":
+    name: "Gaˍlaˍtiˆ li‸"
+    slug: "galati-li"
+    name_toc: "GAˍLAˍTIˆ~ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ (Galatians)"
+  "EPH":
+    name: "Eˇfeˇsu‸ li‸"
+    slug: "efesu-li"
+    name_toc: "EˇFEˇSU‸~ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ (Ephesians)"
+  "PHP":
+    name: "Hpiˇliˇpiˆ li‸"
+    slug: "hpilipi-li"
+    name_toc: "HPIˇLIˇPIˆ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ (Philippians)"
+  "COL":
+    name: "Kawˇlawˇsehˇ li‸"
+    slug: "kawlawseh-li"
+    name_toc: "KAWˇLAWˇSEHˇ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ (Colossians)"
+  "1TH":
+    name: "1 Hteˇsaˍlawˇniˆ li‸"
+    slug: "1-htesalawni-li"
+    name_toc: "HTEˇSAˍLAWˇNIˆ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ awˉ lawˉ teˇ k’oˆ (1 Thessalonians)"
+  "2TH":
+    name: "2 Hteˇsaˍlawˇniˆ li‸"
+    slug: "2-htesalawni-li"
+    name_toc: "HTEˇSAˍLAWˇNIˆ Hkri‸ yaˇ hui hta‸ bvuh‸ piˇ ve li‸ nyiˇ k’oˆ teˇ k’oˆ (2 Thessalonians)"
+  "1TI":
+    name: "1 Tiˆmoˉseˍ li‸"
+    slug: "1-timose-li"
+    name_toc: "TIˆMOˉSEˍ hta‸ bvuh‸ piˇ ve li‸ awˉ lawˉ teˇ k’oˆ (1 Timothy)"
+  "2TI":
+    name: "2 Tiˆmoˉseˍ li‸"
+    slug: "2-timose-li"
+    name_toc: "TIˆMOˉSEˍ hta‸ bvuh‸ piˇ ve li‸ nyiˇ k’oˆ teˇ k’oˆ (2 Timothy)"
+  "TIT":
+    name: "Tiˇtuˆ li‸"
+    slug: "titu-li"
+    name_toc: "TIˇTUˆ hta‸ bvuh‸ piˇ ve li‸ (Titus)"
+  "PHM":
+    name: "Hpiˇleˍmonˍ li‸"
+    slug: "hpilemon-li"
+    name_toc: "HPIˇLEˍMONˍ hta‸ bvuh‸ piˇ ve li‸ (Philemon)"
+  "HEB":
+    name: "Heˍbrehˇ li‸"
+    slug: "hebreh-li"
+    name_toc: "HEˍBREHˇ chaw hui hta‸ bvuh‸ piˇ ve li‸ (Hebrews)"
+  "JAS":
+    name: "Yaˍkoˆ li‸"
+    slug: "yako-li"
+    name_toc: "YAˍKOˆ bvuh‸ ve li‸ (James)"
+  "1PE":
+    name: "1 Peˍtruˆ li‸"
+    slug: "1-petru-li"
+    name_toc: "PEˍTRUˆ bvuh‸ ve li‸ awˉ lawˉ teˇ k’oˆ (1 Peter)"
+  "2PE":
+    name: "2 Peˍtruˆ li‸"
+    slug: "2-petru-li"
+    name_toc: "PEˍTRUˆ bvuh‸ ve li‸ nyiˇ kʼoˆ teˇ k’oˆ (2 Peter)"
+  "1JN":
+    name: "1 Yoˇhanˬ li‸"
+    slug: "1-yohan-li"
+    name_toc: "YOˇHANˬ bvuh‸ ve li‸ awˉ lawˉ teˇ k’oˆ (1 John)"
+  "2JN":
+    name: "2 Yoˇhanˬ li‸"
+    slug: "2-yohan-li"
+    name_toc: "YOˇHANˬ bvuh‸ ve li‸ nyiˇ k’oˆ teˇ k’oˆ (2 John)"
+  "3JN":
+    name: "3 Yoˇhanˬ li‸"
+    slug: "3-yohan-li"
+    name_toc: "YOˇHANˬ bvuh‸ ve li‸ shehˆ k’oˆ teˇ k’oˆ (3 John)"
+  "JUD":
+    name: "Yuˇda‸ li‸"
+    slug: "yuda-li"
+    name_toc: "YUˇDA‸ bvuh‸ ve li‸ (Jude)"
+  "REV":
+    name: "Hpeu‸maˍ ve li‸"
+    slug: "hpeuma-ve-li"
+    name_toc: "HPEU‸MAˍ VE LI‸ (Revelation)"

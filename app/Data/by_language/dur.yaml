@@ -1,0 +1,83 @@
+language: "dur"
+books:
+  "MAT":
+    name: "Matío"
+    slug: "matio"
+  "MRK":
+    name: "Márkus"
+    slug: "markus"
+  "LUK":
+    name: "Lúg"
+    slug: "lug"
+  "JHN":
+    name: "Yoohá̧na"
+    slug: "yoohana"
+  "ACT":
+    name: "Debtere ba'ad waa ba'ad voo nɔ"
+    slug: "debtere-ba-ad-waa-ba-ad-voo-n"
+  "ROM":
+    name: "Nán Róma Vʉ"
+    slug: "nan-roma-v"
+  "1CO":
+    name: "1 Nán Koríńti vu̵"
+    slug: "1-nan-korinti-vu"
+  "2CO":
+    name: "2 Nán Koríńti Vʉ"
+    slug: "2-nan-korinti-v"
+  "GAL":
+    name: "Nán Galád Vʉ"
+    slug: "nan-galad-v"
+  "EPH":
+    name: "Nán Ɛfɛ́ɛz Vʉ"
+    slug: "nan-fz-v"
+  "PHP":
+    name: "Nán Filíb Vʉ"
+    slug: "nan-filib-v"
+  "COL":
+    name: "Nán Kolosíi Vʉ"
+    slug: "nan-kolosii-v"
+  "1TH":
+    name: "1 Nán Tesaloníi Vʉ"
+    slug: "1-nan-tesalonii-v"
+  "2TH":
+    name: "2 Nán Tesaloníi Vʉ"
+    slug: "2-nan-tesalonii-v"
+  "1TI":
+    name: "1 Timɔtée"
+    slug: "1-timtee"
+  "2TI":
+    name: "2 Timɔtée"
+    slug: "2-timtee"
+  "TIT":
+    name: "Tíd"
+    slug: "tid"
+  "PHM":
+    name: "Filmóŋ"
+    slug: "filmo"
+  "HEB":
+    name: "Nán Eebərә́ə Vʉ"
+    slug: "nan-eebere-v"
+  "JAS":
+    name: "Yaakúbu"
+    slug: "yaakubu"
+  "1PE":
+    name: "1 Piɛ́r"
+    slug: "1-pir"
+  "2PE":
+    name: "2 Piɛ́r"
+    slug: "2-pir"
+  "1JN":
+    name: "1 Yoohá̧na"
+    slug: "1-yoohana"
+  "2JN":
+    name: "2 Yoohá̧na"
+    slug: "2-yoohana"
+  "3JN":
+    name: "3 Yoohá̧na"
+    slug: "3-yoohana"
+  "JUD":
+    name: "Yúúda"
+    slug: "yuuda"
+  "REV":
+    name: "Debtere Hȩn Ho̧lȩ́"
+    slug: "debtere-hen-hole"

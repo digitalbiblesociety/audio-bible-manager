@@ -1,0 +1,116 @@
+language: "ahr"
+books:
+  "GEN":
+    name: "उत्पती"
+    slug: "utpati"
+  "EXO":
+    name: "निर्गम"
+    slug: "nirgama"
+  "LEV":
+    name: "लेवीय"
+    slug: "leviya"
+  "JOS":
+    name: "यहोशवा"
+    slug: "yahosava"
+  "EST":
+    name: "एस्तेर"
+    slug: "estera"
+  "ECC":
+    name: "उपदेशक"
+    slug: "upadesaka"
+  "EZK":
+    name: "यहेज्केल"
+    slug: "yahejkela"
+  "DAN":
+    name: "दानीएल"
+    slug: "daniela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MIC":
+    name: "मीखा"
+    slug: "mikha"
+  "MAT":
+    name: "मत्तय"
+    slug: "mattaya"
+  "MRK":
+    name: "मार्क"
+    slug: "marka"
+  "LUK":
+    name: "लूक"
+    slug: "luka"
+  "JHN":
+    name: "योहान"
+    slug: "yohana"
+  "ACT":
+    name: "प्रेषितस्ना काम"
+    slug: "presitasna-kama"
+  "ROM":
+    name: "रोमकरस्ले पत्र"
+    slug: "romakarasle-patra"
+  "1CO":
+    name: "करिंथकरांसस्ले पहिल पत्र"
+    slug: "karimthakaramsasle-pahila-patra"
+  "2CO":
+    name: "करिंथकरांस पत्र"
+    slug: "karimthakaramsa-patra"
+  "GAL":
+    name: "गलतीकरांस पत्र"
+    slug: "galatikaramsa-patra"
+  "EPH":
+    name: "इफिसकरस्ले पत्र"
+    slug: "iphisakarasle-patra"
+  "PHP":
+    name: "फिलिप्पैकरस्ले पत्र"
+    slug: "philippaikarasle-patra"
+  "COL":
+    name: "कलस्सैकरस्ले पत्र"
+    slug: "kalassaikarasle-patra"
+  "1TH":
+    name: "थेस्सलनीकरस्ले पहिला पत्र"
+    slug: "thessalanikarasle-pahila-patra"
+  "2TH":
+    name: "थेस्सलनीकरस्ले दुसरा पत्र"
+    slug: "thessalanikarasle-dusara-patra"
+  "1TI":
+    name: "तीमुथियुस ले पहिला पत्र"
+    slug: "timuthiyusa-le-pahila-patra"
+  "2TI":
+    name: "तीमुथियुस ले दुसरा पत्र"
+    slug: "timuthiyusa-le-dusara-patra"
+  "TIT":
+    name: "तीत ले पत्र"
+    slug: "tita-le-patra"
+  "PHM":
+    name: "फिलेमोन ले पत्र"
+    slug: "philemona-le-patra"
+  "HEB":
+    name: "इब्री लोकस्ले पत्र"
+    slug: "ibri-lokasle-patra"
+  "JAS":
+    name: "याकोब ना पत्र"
+    slug: "yakoba-na-patra"
+  "1PE":
+    name: "पेत्र ना पहिला पत्र"
+    slug: "petra-na-pahila-patra"
+  "2PE":
+    name: "पेत्र ना दुसरा पत्र"
+    slug: "petra-na-dusara-patra"
+  "1JN":
+    name: "योहान ना पहिला पत्र"
+    slug: "yohana-na-pahila-patra"
+  "2JN":
+    name: "योहान ना दुसरा पत्र"
+    slug: "yohana-na-dusara-patra"
+  "3JN":
+    name: "योहान ना तिसरा पत्र"
+    slug: "yohana-na-tisara-patra"
+  "JUD":
+    name: "यहूदा ना पत्र"
+    slug: "yahuda-na-patra"
+  "REV":
+    name: "योहान ले हुयेल प्रकटीकरण"
+    slug: "yohana-le-huyela-prakatikarana"

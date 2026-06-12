@@ -1,0 +1,83 @@
+language: "waj"
+books:
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Marakaa"
+    slug: "marakaa"
+  "LUK":
+    name: "Rukaaso"
+    slug: "rukaaso"
+  "JHN":
+    name: "Yuvuaano"
+    slug: "yuvuaano"
+  "ACT":
+    name: "Aposoroo"
+    slug: "aposoroo"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+  "1CO":
+    name: "1 Koridii"
+    slug: "1-koridii"
+  "2CO":
+    name: "2 Koridii"
+    slug: "2-koridii"
+  "GAL":
+    name: "Garatiaa"
+    slug: "garatiaa"
+  "EPH":
+    name: "Epesiisa"
+    slug: "epesiisa"
+  "PHP":
+    name: "Piripii"
+    slug: "piripii"
+  "COL":
+    name: "Korosii"
+    slug: "korosii"
+  "1TH":
+    name: "1 Tesoronikii"
+    slug: "1-tesoronikii"
+  "2TH":
+    name: "2 Tesoronikii"
+    slug: "2-tesoronikii"
+  "1TI":
+    name: "1 Timotii"
+    slug: "1-timotii"
+  "2TI":
+    name: "2 Timotii"
+    slug: "2-timotii"
+  "TIT":
+    name: "Titii"
+    slug: "titii"
+  "PHM":
+    name: "Pirimuuno"
+    slug: "pirimuuno"
+  "HEB":
+    name: "Eporai"
+    slug: "eporai"
+  "JAS":
+    name: "Yakoopo"
+    slug: "yakoopo"
+  "1PE":
+    name: "1 Petorooso"
+    slug: "1-petorooso"
+  "2PE":
+    name: "2 Petorooso"
+    slug: "2-petorooso"
+  "1JN":
+    name: "1 Yuvuaano"
+    slug: "1-yuvuaano"
+  "2JN":
+    name: "2 Yuvuaano"
+    slug: "2-yuvuaano"
+  "3JN":
+    name: "3 Yuvuaano"
+    slug: "3-yuvuaano"
+  "JUD":
+    name: "Yutaava"
+    slug: "yutaava"
+  "REV":
+    name: "Reveraisiina"
+    slug: "reveraisiina"

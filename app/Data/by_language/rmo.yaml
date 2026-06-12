@@ -1,0 +1,266 @@
+language: "rmo"
+books:
+  "GEN":
+    name: "1. Mose"
+    slug: "1-mose"
+    name_toc: "Tito"
+  "EXO":
+    name: "2. Mose"
+    slug: "2-mose"
+    name_toc: "Filimoni"
+  "LEV":
+    name: "3. Mose"
+    slug: "3-mose"
+    name_toc: "Va-Heberu"
+  "NUM":
+    name: "4. Mose"
+    slug: "4-mose"
+    name_toc: "Yakobe"
+  "DEU":
+    name: "5. Mose"
+    slug: "5-mose"
+    name_toc: "I Petrosi"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+    name_toc: "II Petrosi"
+  "JDG":
+    name: "Čačepangre"
+    slug: "cacepangre"
+    name_toc: "Igitabo ca Rusi"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "II Yohana"
+  "1SA":
+    name: "1. Samuel"
+    slug: "1-samuel"
+    name_toc: "III Yohana"
+  "2SA":
+    name: "2. Samuel"
+    slug: "2-samuel"
+    name_toc: "Yuda"
+  "1KI":
+    name: "1. Rajengro liil"
+    slug: "1-rajengro-liil"
+    name_toc: "Mpfuletelo"
+  "2KI":
+    name: "2. Rajengro liil"
+    slug: "2-rajengro-liil"
+    name_toc: "Ubutumwa Bgiza Uko Bganditswe Na Matayo"
+  "1CH":
+    name: "1. Familjakro liil"
+    slug: "1-familjakro-liil"
+    name_toc: "Ubutumwa Bgiza Uko Bganditswe Na Mariko"
+  "2CH":
+    name: "2. Familjakro liil"
+    slug: "2-familjakro-liil"
+    name_toc: "Ubutumwa Bgiza Uko Bganditswe Na Luka"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Ubutumwa Bgiza Uko Bganditswe Na Yohana"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Ivyakozwe N’intumwa"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Icete Paulo Yandikiye Abaroma"
+  "JOB":
+    name: "Hiob"
+    slug: "hiob"
+    name_toc: "Icete Ca Mbere Paulo Yandikye Ab’i Korinto"
+  "PSA":
+    name: "Debleskri gili"
+    slug: "debleskri-gili"
+    name_toc: "Icete Ca Kabiri Paulo Yandikiye Ab’i Korinto"
+  "PRO":
+    name: "Gosewe laba"
+    slug: "gosewe-laba"
+    name_toc: "Icete Paulo Yandikiye Ab’i Galatiya"
+  "ECC":
+    name: "Sikepaskro"
+    slug: "sikepaskro"
+    name_toc: "Icete Paulo Yandikiye Abanyefeso"
+  "SNG":
+    name: "Kamlepaskri gili"
+    slug: "kamlepaskri-gili"
+    name_toc: "Icete Paulo Yandikiye Ab’i Filipi"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+    name_toc: "Icete Paulo Yandikiye Ab’i Kolosayi"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Icete Ca Mbere Paulo Yandikiye Ab’i Tesalonike"
+  "LAM":
+    name: "Ropaskre gilja"
+    slug: "ropaskre-gilja"
+    name_toc: "Icete Ca Kabiri Paulo Yandikiye Ab’i Tesalonike"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Igitabo ca Daniyeli"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Icete Ca Kabiri Paulo Yandikiye Timoteyo"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Icete Paulo Yandikiye Tito"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Icete Paulo Yandikiye Filemoni"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Icete Candikiwe Abaheburayo"
+  "OBA":
+    name: "Obadja"
+    slug: "obadja"
+    name_toc: "Icete Canditswe Na Yakobo"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Icete Ca Mbere Canditswe Na Petero"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Nahumu"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Icete Ca Mbere Canditswe Na Yohana"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Icete Ca Kabiri Canditswe Na Yohana"
+  "ZEP":
+    name: "Zefanja"
+    slug: "zefanja"
+    name_toc: "Icete Ca Gatatu Canditswe Na Yohana"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+    name_toc: "Icete Canditswe Na Yuda"
+  "ZEC":
+    name: "Zakarie"
+    slug: "zakarie"
+    name_toc: "Malaki"
+  "MAL":
+    name: "Maleachi"
+    slug: "maleachi"
+    name_toc: "Ubutumwa Bwiza uko bwanditswe na Matayo"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Ubutumwa Bwiza uko bwanditswe na Mariko"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Ubutumwa Bwiza uko bwanditswe na Luka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ubutumwa Bwiza uko bwanditswe na Yohana"
+  "JHN":
+    name: "Johanni"
+    slug: "johanni"
+    name_toc: "Ivyakozwe nʼIntumwa"
+  "ACT":
+    name: "Bičepangre"
+    slug: "bicepangre"
+    name_toc: "Icete Paulo Yandikiye Aboroma"
+  "ROM":
+    name: "Remarja"
+    slug: "remarja"
+    name_toc: "Ikete rya mbere Pawulo yandikiye abʼi Korinto"
+  "1CO":
+    name: "1. Korintarja"
+    slug: "1-korintarja"
+    name_toc: "Ikete rya kabiri Pawulo yandikiye abʼi Korinto"
+  "2CO":
+    name: "2. Korintarja"
+    slug: "2-korintarja"
+    name_toc: "Ikete Pawulo yandikiye abʼi Galatiya"
+  "GAL":
+    name: "Galatarja"
+    slug: "galatarja"
+    name_toc: "Ikete Pawulo yandikiye abo muri Efeso"
+  "EPH":
+    name: "Efesarja"
+    slug: "efesarja"
+    name_toc: "Ikete Pawulo yandikiye abʼi Filipi"
+  "PHP":
+    name: "Filiparja"
+    slug: "filiparja"
+    name_toc: "Ikete Pawulo yandikiye abʼi Kolosayi"
+  "COL":
+    name: "Kolossarja"
+    slug: "kolossarja"
+    name_toc: "Ikete rya mbere Pawulo yandikiye abʼi Tesalonike"
+  "1TH":
+    name: "1. Tessalonikarja"
+    slug: "1-tessalonikarja"
+    name_toc: "Ikete rya kabiri Pawulo yandikiye abʼi Tesalonike"
+  "2TH":
+    name: "2. Tessalonikarja"
+    slug: "2-tessalonikarja"
+    name_toc: "Ikete rya mbere Pawulo yandikiye Timoteyo"
+  "1TI":
+    name: "1. Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Ikete rya kabiri Pawulo yandikiye Timoteyo"
+  "2TI":
+    name: "2. Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ikete Pawulo yandikiye Tito"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ikete Pawulo yandikiye Filemoni"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Ikete candikiwe Abaheburayo"
+  "HEB":
+    name: "Hebrearja"
+    slug: "hebrearja"
+    name_toc: "Ikete rya gatatu ryanditswe na Yohana"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Ikete ryanditswe na Yuda"
+  "1PE":
+    name: "1. Petro"
+    slug: "1-petro"
+    name_toc: "Ikete ryanditswe na Yakobo"
+  "2PE":
+    name: "2. Petro"
+    slug: "2-petro"
+    name_toc: "Ikete rya mbere ryanditswe na Petero"
+  "1JN":
+    name: "1. Johanni"
+    slug: "1-johanni"
+    name_toc: "Ikete rya kabiri ryanditswe na Petero"
+  "2JN":
+    name: "2. Johanni"
+    slug: "2-johanni"
+    name_toc: "Ikete rya mbere ryanditswe na Yohana"
+  "3JN":
+    name: "3. Johanni"
+    slug: "3-johanni"
+    name_toc: "Ikete rya kabiri ryanditswe na Yohana"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Ivyahishuwe"
+  "REV":
+    name: "Debleskro tsiro"
+    slug: "debleskro-tsiro"
+    name_toc: "Igitabo ca Mose ca Mbere Citwa Itanguriro"

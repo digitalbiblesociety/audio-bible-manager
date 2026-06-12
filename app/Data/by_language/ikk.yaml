@@ -1,0 +1,200 @@
+language: "ikk"
+books:
+  "GEN":
+    name: "Jẹnẹsisi"
+    slug: "jenesisi"
+  "EXO":
+    name: "Ọpụpụ"
+    slug: "opupu"
+  "LEV":
+    name: "Lẹvitikọsụ"
+    slug: "levitikosu"
+  "NUM":
+    name: "Ọgụngụn"
+    slug: "ogungun"
+  "DEU":
+    name: "Ditrọnọmi"
+    slug: "ditronomi"
+  "JOS":
+    name: "Joshụa"
+    slug: "joshua"
+  "JDG":
+    name: "Ndị Han Eṅẹn"
+    slug: "ndi-han-enen"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "Samuẹlụ Nke Ibuzọ"
+    slug: "samuelu-nke-ibuzo"
+  "2SA":
+    name: "Samuẹlụ Nke Ẹbụọ"
+    slug: "samuelu-nke-ebuo"
+  "1KI":
+    name: "Ndị-nze Nke Ibuzọ"
+    slug: "ndi-nze-nke-ibuzo"
+  "2KI":
+    name: "Ndị-nze Nke Ẹbụọ"
+    slug: "ndi-nze-nke-ebuo"
+  "1CH":
+    name: "Ihiẹn Mẹni Nke Ibuzọ"
+    slug: "ihien-meni-nke-ibuzo"
+  "2CH":
+    name: "Ihiẹn Mẹni Nke Ẹbụọ"
+    slug: "ihien-meni-nke-ebuo"
+  "EZR":
+    name: "Ẹzra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Ẹsta"
+    slug: "esta"
+  "JOB":
+    name: "Jobu"
+    slug: "jobu"
+  "PSA":
+    name: "Ẹbụ-ọma"
+    slug: "ebu-oma"
+  "PRO":
+    name: "Itẹn"
+    slug: "iten"
+  "ECC":
+    name: "Ẹkịliziastisi"
+    slug: "ekiliziastisi"
+  "SNG":
+    name: "Ẹbụ Solomọnụ"
+    slug: "ebu-solomonu"
+  "ISA":
+    name: "Azaya"
+    slug: "azaya"
+  "JER":
+    name: "Jerimaya"
+    slug: "jerimaya"
+  "LAM":
+    name: "Ẹkwan"
+    slug: "ekwan"
+  "EZK":
+    name: "Izikẹlụ"
+    slug: "izikelu"
+  "DAN":
+    name: "Daniẹlụ"
+    slug: "danielu"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+  "JOL":
+    name: "Juwẹlụ"
+    slug: "juwelu"
+  "AMO":
+    name: "Emọsụ"
+    slug: "emosu"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maịka"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakọkụ"
+    slug: "habakoku"
+  "ZEP":
+    name: "Zẹfanaya"
+    slug: "zefanaya"
+  "HAG":
+    name: "Hagaị"
+    slug: "hagai"
+  "ZEC":
+    name: "Zẹkaraya"
+    slug: "zekaraya"
+  "MAL":
+    name: "Malakaị"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Makị"
+    slug: "maki"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Jọnụ"
+    slug: "jonu"
+  "ACT":
+    name: "Ọrụn Ndị-Ozi"
+    slug: "orun-ndi-ozi"
+  "ROM":
+    name: "Ndị Rom"
+    slug: "ndi-rom"
+  "1CO":
+    name: "1 Ndị Kọrẹntị"
+    slug: "1-ndi-korenti"
+  "2CO":
+    name: "2 Ndị Kọrẹntị"
+    slug: "2-ndi-korenti"
+  "GAL":
+    name: "Ndị Galeshịa"
+    slug: "ndi-galeshia"
+  "EPH":
+    name: "Ndị Ẹfẹsọsị"
+    slug: "ndi-efesosi"
+  "PHP":
+    name: "Ndị Filipi"
+    slug: "ndi-filipi"
+  "COL":
+    name: "Ndị Kolosi"
+    slug: "ndi-kolosi"
+  "1TH":
+    name: "1 Ndị Tẹsalonika"
+    slug: "1-ndi-tesalonika"
+  "2TH":
+    name: "2 Ndị Tẹsalonika"
+    slug: "2-ndi-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taịtọsị"
+    slug: "taitosi"
+  "PHM":
+    name: "Filemọnụ"
+    slug: "filemonu"
+  "HEB":
+    name: "Ndị Hibru"
+    slug: "ndi-hibru"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jọnụ"
+    slug: "1-jonu"
+  "2JN":
+    name: "2 Jọnụ"
+    slug: "2-jonu"
+  "3JN":
+    name: "3 Jọnụ"
+    slug: "3-jonu"
+  "JUD":
+    name: "Judu"
+    slug: "judu"
+  "REV":
+    name: "Nghọsị"
+    slug: "nghosi"

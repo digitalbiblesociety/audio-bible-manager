@@ -1,0 +1,221 @@
+language: "shr"
+books:
+  "GEN":
+    name: "Murhondêro"
+    slug: "murhondero"
+  "EXO":
+    name: "Lubungo"
+    slug: "lubungo"
+  "LEV":
+    name: "Ben Levi"
+    slug: "ben-levi"
+  "NUM":
+    name: "Mibalè"
+    slug: "mibale"
+  "DEU":
+    name: "Lushika"
+    slug: "lushika"
+  "JOS":
+    name: "Yozwe"
+    slug: "yozwe"
+  "JDG":
+    name: "Bacîranuzi"
+    slug: "baciranuzi"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+  "1KI":
+    name: "1 Bâm"
+    slug: "1-bam"
+  "2KI":
+    name: "2 Bâm"
+    slug: "2-bam"
+  "1CH":
+    name: "1 Nganîro"
+    slug: "1-nganiro"
+  "2CH":
+    name: "2 Nganîro"
+    slug: "2-nganiro"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+  "PSA":
+    name: "Ennanga"
+    slug: "ennanga"
+  "PRO":
+    name: "Migani"
+    slug: "migani"
+  "ECC":
+    name: "Muhanûzi"
+    slug: "muhanuzi"
+  "SNG":
+    name: "Lwimbo"
+    slug: "lwimbo"
+  "ISA":
+    name: "Izaya"
+    slug: "izaya"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+  "LAM":
+    name: "Ndûlù"
+    slug: "ndulu"
+  "EZK":
+    name: "Ezekiyeli"
+    slug: "ezekiyeli"
+  "DAN":
+    name: "Daniyeli"
+    slug: "daniyeli"
+  "HOS":
+    name: "Hozeya"
+    slug: "hozeya"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Abudiya"
+    slug: "abudiya"
+  "JON":
+    name: "Yônà"
+    slug: "yona"
+  "MIC":
+    name: "Mikeyo"
+    slug: "mikeyo"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sofoniya"
+    slug: "sofoniya"
+  "HAG":
+    name: "Haggeyo"
+    slug: "haggeyo"
+  "ZEC":
+    name: "Zakariya"
+    slug: "zakariya"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+  "JDT":
+    name: "Yuditi"
+    slug: "yuditi"
+  "WIS":
+    name: "Bushinganyanya"
+    slug: "bushinganyanya"
+  "SIR":
+    name: "BurhSira"
+    slug: "burhsira"
+  "BAR":
+    name: "Baruki"
+    slug: "baruki"
+  "1MA":
+    name: "1 Makabeyo"
+    slug: "1-makabeyo"
+  "2MA":
+    name: "2 Makabeyo"
+    slug: "2-makabeyo"
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowane"
+    slug: "yowane"
+  "ACT":
+    name: "Ebijiro"
+    slug: "ebijiro"
+  "ROM":
+    name: "Barom"
+    slug: "barom"
+  "1CO":
+    name: "1 Bakorinti"
+    slug: "1-bakorinti"
+  "2CO":
+    name: "2 Bakorinti"
+    slug: "2-bakorinti"
+  "GAL":
+    name: "Bagalasiya"
+    slug: "bagalasiya"
+  "EPH":
+    name: "Befezi"
+    slug: "befezi"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+  "COL":
+    name: "Bakolosi"
+    slug: "bakolosi"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Bahabraniya"
+    slug: "bahabraniya"
+  "JAS":
+    name: "Yakôbo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yowane"
+    slug: "1-yowane"
+  "2JN":
+    name: "2 Yowane"
+    slug: "2-yowane"
+  "3JN":
+    name: "3 Yowane"
+    slug: "3-yowane"
+  "JUD":
+    name: "Yûda"
+    slug: "yuda"
+  "REV":
+    name: "Mafulûlo"
+    slug: "mafululo"

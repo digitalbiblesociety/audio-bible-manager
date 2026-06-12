@@ -1,0 +1,83 @@
+language: "bza"
+books:
+  "MAT":
+    name: "Máfiyu"
+    slug: "mafiyu"
+  "MRK":
+    name: "Mái"
+    slug: "mai"
+  "LUK":
+    name: "Lúu"
+    slug: "luu"
+  "JHN":
+    name: "Njɔú"
+    slug: "nju"
+  "ACT":
+    name: "Ti Gɛ́ɛ́ Haítii"
+    slug: "ti-g-haitii"
+  "ROM":
+    name: "Lóómi"
+    slug: "loomi"
+  "1CO":
+    name: "Kɔ́l̃e Hesendaa Gɔlɔí"
+    slug: "kle-hesendaa-gli"
+  "2CO":
+    name: "Kɔ́l̃e Gɔ́lɔi Hele Kélei"
+    slug: "kle-gli-hele-kelei"
+  "GAL":
+    name: "Galésiya"
+    slug: "galesiya"
+  "EPH":
+    name: "Ɛ́fɛsɔ"
+    slug: "fs"
+  "PHP":
+    name: "Félepa"
+    slug: "felepa"
+  "COL":
+    name: "Kɔlɔ́se"
+    slug: "klse"
+  "1TH":
+    name: "Tɛsalónika Hesendaa Gɔlɔí"
+    slug: "tsalonika-hesendaa-gli"
+  "2TH":
+    name: "Tɛsalónika Gɔ́lɔi Hele Kélei"
+    slug: "tsalonika-gli-hele-kelei"
+  "1TI":
+    name: "Tímoti Hesendaa Gɔlɔí"
+    slug: "timoti-hesendaa-gli"
+  "2TI":
+    name: "Tímoti Gɔ́lɔi Hele Kélei"
+    slug: "timoti-gli-hele-kelei"
+  "TIT":
+    name: "Táitɔ"
+    slug: "tait"
+  "PHM":
+    name: "Felémo"
+    slug: "felemo"
+  "HEB":
+    name: "Híbulu"
+    slug: "hibulu"
+  "JAS":
+    name: "Jimisí"
+    slug: "jimisi"
+  "1PE":
+    name: "Pítɛ Hesendaa Gɔlɔí"
+    slug: "pit-hesendaa-gli"
+  "2PE":
+    name: "Pítɛ Gɔ́lɔi Hele Kélei"
+    slug: "pit-gli-hele-kelei"
+  "1JN":
+    name: "Njɔú Hesendaa Gɔlɔí"
+    slug: "nju-hesendaa-gli"
+  "2JN":
+    name: "Njɔú Gɔ́lɔi Hele Kélei"
+    slug: "nju-gli-hele-kelei"
+  "3JN":
+    name: "Njɔú Gɔ́lɔi Hawa Kélei"
+    slug: "nju-gli-hawa-kelei"
+  "JUD":
+    name: "Júu"
+    slug: "juu"
+  "REV":
+    name: "Faa Yákɛ Kɔ́lɔi"
+    slug: "faa-yak-kli"

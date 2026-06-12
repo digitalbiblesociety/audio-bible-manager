@@ -1,0 +1,298 @@
+language: "kam"
+books:
+  "GEN":
+    name: "Mwa"
+    slug: "mwa"
+    name_toc: "Mwambĩlĩĩlyo"
+  "EXO":
+    name: "Kuma"
+    slug: "kuma"
+    name_toc: "Ĩvuku ya kelĩ ya Mose Yĩtawa"
+  "LEV":
+    name: "Ali"
+    slug: "ali"
+    name_toc: "Alivai"
+  "NUM":
+    name: "Mot"
+    slug: "mot"
+    name_toc: "Motalo"
+  "DEU":
+    name: "Kũt"
+    slug: "kut"
+    name_toc: "Kũtũngĩlĩĩlwa kwa Mĩao"
+  "JOS":
+    name: "Yos"
+    slug: "yos"
+    name_toc: "Yosua"
+  "JDG":
+    name: "Asi"
+    slug: "asi"
+    name_toc: "Asili"
+  "RUT":
+    name: "Lũ"
+    slug: "lu"
+    name_toc: "Lũthi"
+  "1SA":
+    name: "1Sam"
+    slug: "1sam"
+    name_toc: "1 Samũeli"
+  "2SA":
+    name: "2Sam"
+    slug: "2sam"
+    name_toc: "2 Samũeli"
+  "1KI":
+    name: "1Asu"
+    slug: "1asu"
+    name_toc: "1 Asumbĩ"
+  "2KI":
+    name: "2Asu"
+    slug: "2asu"
+    name_toc: "2 Asumbĩ"
+  "1CH":
+    name: "1Mav"
+    slug: "1mav"
+    name_toc: "1 Maũndũ ma Mavinda"
+  "2CH":
+    name: "2Mav"
+    slug: "2mav"
+    name_toc: "2 Maũndũ ma Mavinda"
+  "EZR":
+    name: "Esa"
+    slug: "esa"
+    name_toc: "Esala"
+  "NEH":
+    name: "Nee"
+    slug: "nee"
+    name_toc: "Neemia"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "Esita"
+  "JOB":
+    name: "Yovu"
+    slug: "yovu"
+    name_toc: "Ĩvuku ya Yovu"
+  "PSA":
+    name: "Sav"
+    slug: "sav"
+    name_toc: "Savulĩ"
+  "PRO":
+    name: "Nth"
+    slug: "nth"
+    name_toc: "Nthimo"
+  "ECC":
+    name: "Mũta"
+    slug: "muta"
+    name_toc: "Mũtavany'a"
+  "SNG":
+    name: "Wa"
+    slug: "wa"
+    name_toc: "Wathi wa Solomoni"
+  "ISA":
+    name: "Ĩsa"
+    slug: "isa"
+    name_toc: "Ĩsaia"
+  "JER":
+    name: "Yel"
+    slug: "yel"
+    name_toc: "Yelemia"
+  "LAM":
+    name: "Iĩo"
+    slug: "iio"
+    name_toc: "Iĩo Sya Yelemia"
+  "EZK":
+    name: "Esek"
+    slug: "esek"
+    name_toc: "Esekieli"
+  "DAN":
+    name: "Nda"
+    slug: "nda"
+    name_toc: "Ndanieli"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+    name_toc: "Ĩvuku ya OSEA"
+  "JOL":
+    name: "Yoe"
+    slug: "yoe"
+    name_toc: "Yoeli"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Ova"
+    slug: "ova"
+    name_toc: "Ovatia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Ĩvuku ya YONA"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Ĩvuku ya Mika"
+  "NAM":
+    name: "Naũ"
+    slug: "nau"
+    name_toc: "Naũmu"
+  "HAB":
+    name: "Ava"
+    slug: "ava"
+    name_toc: "Avakũki"
+  "ZEP":
+    name: "Nzev"
+    slug: "nzev"
+    name_toc: "Nzevania"
+  "HAG":
+    name: "Akai"
+    slug: "akai"
+    name_toc: "Ĩvuku ya AKAI"
+  "ZEC":
+    name: "Nzek"
+    slug: "nzek"
+    name_toc: "Nzekalia"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malaki"
+  "TOB":
+    name: "Tov"
+    slug: "tov"
+    name_toc: "Toviti"
+  "JDT":
+    name: "Yund"
+    slug: "yund"
+    name_toc: "Yundithi"
+  "ESG":
+    name: "Est-Kĩk"
+    slug: "est-kik"
+    name_toc: "Esita yĩla yaandĩkiwe na Kĩkiliki"
+  "WIS":
+    name: "Ũĩ"
+    slug: "ui"
+    name_toc: "Ũĩ wa Solomoni"
+  "SIR":
+    name: "Sil"
+    slug: "sil"
+    name_toc: "Silaki"
+  "BAR":
+    name: "Mba"
+    slug: "mba"
+    name_toc: "Mbaluku"
+  "1MA":
+    name: "1Mak"
+    slug: "1mak"
+    name_toc: "1 Makambii"
+  "2MA":
+    name: "2Mak"
+    slug: "2mak"
+    name_toc: "2 Makambii"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Mathayo"
+  "MRK":
+    name: "Mk"
+    slug: "mk"
+    name_toc: "Maliko"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+    name_toc: "Lũka"
+  "JHN":
+    name: "Yoa"
+    slug: "yoa"
+    name_toc: "Yoana"
+  "ACT":
+    name: "Meko"
+    slug: "meko"
+    name_toc: "Meko ma Atũmwa"
+  "ROM":
+    name: "Alo"
+    slug: "alo"
+    name_toc: "Alomi"
+  "1CO":
+    name: "1Ako"
+    slug: "1ako"
+    name_toc: "1 Akolintho"
+  "2CO":
+    name: "2Ako"
+    slug: "2ako"
+    name_toc: "2 Akolintho"
+  "GAL":
+    name: "Aka"
+    slug: "aka"
+    name_toc: "Akalatia"
+  "EPH":
+    name: "Aev"
+    slug: "aev"
+    name_toc: "Aeveso"
+  "PHP":
+    name: "Avi"
+    slug: "avi"
+    name_toc: "Avilivi"
+  "COL":
+    name: "Akol"
+    slug: "akol"
+    name_toc: "Akolosai"
+  "1TH":
+    name: "1Ath"
+    slug: "1ath"
+    name_toc: "1 Athesalonika"
+  "2TH":
+    name: "2Ath"
+    slug: "2ath"
+    name_toc: "2 Athesalonika"
+  "1TI":
+    name: "1Tim"
+    slug: "1tim"
+    name_toc: "1 Timotheo"
+  "2TI":
+    name: "2Tim"
+    slug: "2tim"
+    name_toc: "2 Timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Valũa wa Mũtũmwa Vaulo ũla wamũandĩkĩe TITO"
+  "PHM":
+    name: "Vil"
+    slug: "vil"
+    name_toc: "Vilemoni"
+  "HEB":
+    name: "Aevl"
+    slug: "aevl"
+    name_toc: "Aevelania"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+    name_toc: "Yakovo"
+  "1PE":
+    name: "1Vet"
+    slug: "1vet"
+    name_toc: "1 Vetelo"
+  "2PE":
+    name: "2Vet"
+    slug: "2vet"
+    name_toc: "2 Vetelo"
+  "1JN":
+    name: "1Yoa"
+    slug: "1yoa"
+    name_toc: "1 Yoana"
+  "2JN":
+    name: "2Yoa"
+    slug: "2yoa"
+    name_toc: "2 Yoana"
+  "3JN":
+    name: "3Yoa"
+    slug: "3yoa"
+    name_toc: "3 Yoana"
+  "JUD":
+    name: "Yuta"
+    slug: "yuta"
+    name_toc: "Valũa wa YUTA"
+  "REV":
+    name: "Ũvu"
+    slug: "uvu"
+    name_toc: "Ũvuany'o kwa Yoana"

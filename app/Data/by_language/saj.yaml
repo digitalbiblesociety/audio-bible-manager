@@ -1,0 +1,110 @@
+language: "saj"
+books:
+  "MAT":
+    name: "Matias"
+    slug: "matias"
+    name_toc: "Ozee sɛ́wɔ"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Zowɛli sɛ́wɔ"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Amɔɔsi sɛ́wɔ"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Abdiasi sɛ́wɔ"
+  "ACT":
+    name: "Yesus 'ai so-soma'a"
+    slug: "yesus-ai-so-soma-a"
+    name_toc: "Zonaasi sɛ́wɔ"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Misee sɛ́wɔ"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Nahumu sɛ́wɔ"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Abakuku sɛ́wɔ"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Sofonii sɛ́wɔ"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Azee sɛ́wɔ"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Zakarii sɛ́wɔ"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Malakii sɛ́wɔ"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Matiə a sɛ́wɔ"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Marki a sɛ́wɔ"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Luku a sɛ́wɔ"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Zaã a sɛ́wɔ"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Nya ǹ dín sɛ́wɔ"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Rɔmu minin sɛ́wɔ"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Korɛnti minin sɛ́wɔ bibinaa"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Korɛnti minin sɛ́wɔ paabaa ǹ wɔ"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Galaasi minin sɛ́wɔ"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Efɛɛzi minin sɛ́wɔ"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Filipi minin sɛ́wɔ"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Kolɔɔsi minin sɛ́wɔ"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Tesaloniki minin sɛ́wɔ bibinaa"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Tesaloniki minin sɛ́wɔ paabaa ǹ wɔ"
+  "REV":
+    name: "Tingoýi"
+    slug: "tingoyi"
+    name_toc: "Timote sɛ́wɔ bibinaa"

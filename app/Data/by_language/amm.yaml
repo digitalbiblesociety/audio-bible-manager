@@ -1,0 +1,83 @@
+language: "amm"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+  "LUK":
+    name: "Luko"
+    slug: "luko"
+  "JHN":
+    name: "Iyono"
+    slug: "iyono"
+  "ACT":
+    name: "Mi"
+    slug: "mi"
+  "ROM":
+    name: "Lomo"
+    slug: "lomo"
+  "1CO":
+    name: "1 Kolino"
+    slug: "1-kolino"
+  "2CO":
+    name: "2 Kolino"
+    slug: "2-kolino"
+  "GAL":
+    name: "Kaloisiya"
+    slug: "kaloisiya"
+  "EPH":
+    name: "Ifiso"
+    slug: "ifiso"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tisolonaika"
+    slug: "1-tisolonaika"
+  "2TH":
+    name: "2 Tisolonaika"
+    slug: "2-tisolonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taituso"
+    slug: "taituso"
+  "PHM":
+    name: "Filimono"
+    slug: "filimono"
+  "HEB":
+    name: "Hipolu"
+    slug: "hipolu"
+  "JAS":
+    name: "Yamiso"
+    slug: "yamiso"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Iyono"
+    slug: "1-iyono"
+  "2JN":
+    name: "2 Iyono"
+    slug: "2-iyono"
+  "3JN":
+    name: "3 Iyono"
+    slug: "3-iyono"
+  "JUD":
+    name: "Yuto"
+    slug: "yuto"
+  "REV":
+    name: "Kukalokokai Imo"
+    slug: "kukalokokai-imo"

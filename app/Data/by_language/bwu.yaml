@@ -1,0 +1,83 @@
+language: "bwu"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Jɔɔn"
+    slug: "jn"
+  "ACT":
+    name: "Tuima"
+    slug: "tuima"
+  "ROM":
+    name: "Aroom Demma"
+    slug: "aroom-demma"
+  "1CO":
+    name: "1 Korinti Demma"
+    slug: "1-korinti-demma"
+  "2CO":
+    name: "2 Korinti Demma"
+    slug: "2-korinti-demma"
+  "GAL":
+    name: "Galatia Demma"
+    slug: "galatia-demma"
+  "EPH":
+    name: "Efisos Demma"
+    slug: "efisos-demma"
+  "PHP":
+    name: "Filipai Demma"
+    slug: "filipai-demma"
+  "COL":
+    name: "Kolose Demma"
+    slug: "kolose-demma"
+  "1TH":
+    name: "1 Tesalonika Demma"
+    slug: "1-tesalonika-demma"
+  "2TH":
+    name: "2 Tesalonika Demma"
+    slug: "2-tesalonika-demma"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Failemon"
+    slug: "failemon"
+  "HEB":
+    name: "Yiburu Demma"
+    slug: "yiburu-demma"
+  "JAS":
+    name: "Jeemsi"
+    slug: "jeemsi"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jɔɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Pa Sakka"
+    slug: "pa-sakka"

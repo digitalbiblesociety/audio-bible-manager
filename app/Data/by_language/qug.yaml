@@ -1,0 +1,266 @@
+language: "qug"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+    name_toc: "Tito"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+    name_toc: "Filemón"
+  "LEV":
+    name: "Levítico"
+    slug: "levitico"
+    name_toc: "Hebreos"
+  "NUM":
+    name: "Números"
+    slug: "numeros"
+    name_toc: "Santiago"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "1 Pedro"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "2 Pedro"
+  "JDG":
+    name: "Jueces"
+    slug: "jueces"
+    name_toc: "1 Juan"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "2 Juan"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "3 Juan"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Judas"
+  "1KI":
+    name: "1 Reyes"
+    slug: "1-reyes"
+    name_toc: "Apocalipsis"
+  "2KI":
+    name: "2 Reyes"
+    slug: "2-reyes"
+    name_toc: "Génesis"
+  "1CH":
+    name: "1 Crónicas"
+    slug: "1-cronicas"
+    name_toc: "Éxodo"
+  "2CH":
+    name: "2 Crónicas"
+    slug: "2-cronicas"
+    name_toc: "Levítico"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Números"
+  "NEH":
+    name: "Nehemías"
+    slug: "nehemias"
+    name_toc: "Deuteronomio"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Josúe"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Jueces"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+    name_toc: "Rut"
+  "PRO":
+    name: "Proverbios"
+    slug: "proverbios"
+    name_toc: "Ñawpaqkaq Samuel"
+  "ECC":
+    name: "Eclesiastés"
+    slug: "eclesiastes"
+    name_toc: "Iskaykaq Samuel"
+  "SNG":
+    name: "Cantares"
+    slug: "cantares"
+    name_toc: "Ñawpaqkaq Reyes"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+    name_toc: "Iskaykaq Reyes"
+  "JER":
+    name: "Jeremías"
+    slug: "jeremias"
+    name_toc: "Ñawpaqkaq Cronicas"
+  "LAM":
+    name: "Lamentaciones"
+    slug: "lamentaciones"
+    name_toc: "Iskaykaq Cronicas"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+    name_toc: "Esdras"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Nehemías"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Ester"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Job"
+  "AMO":
+    name: "Amós"
+    slug: "amos"
+    name_toc: "Salmos"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "Proverbios"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+    name_toc: "Eclesiastés"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Cantares"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Isaías"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Jeremías"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "Lamentaciones"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Ezekiel"
+  "ZEC":
+    name: "Zacarías"
+    slug: "zacarias"
+    name_toc: "Daniel"
+  "MAL":
+    name: "Malaquías"
+    slug: "malaquias"
+    name_toc: "Oseas"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Joel"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "Amós"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Abdías"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Jonás"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+    name_toc: "Mikías"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+    name_toc: "Nahum"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+    name_toc: "Habakuk"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+    name_toc: "Sofonías"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+    name_toc: "Hageo"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+    name_toc: "Zakarías"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+    name_toc: "Malakías"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+    name_toc: "Mateoq Qelqasqan"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+    name_toc: "Marcospa Qelqasqan"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+    name_toc: "Lucaspa Qelqasqan"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Juanpa Qelqasqan"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Apostolkunaq Ruwasqan"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Roma Llaqtapi Iñiq T'aqaman Pabloq Qelqasqan Carta"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Corinto Llaqtapi Iñiq T'aqaman Pabloq Ñawpaqkaq Qelqasqan Carta"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+    name_toc: "Corinto Llaqtapi Iñiq T'aqaman Pabloq Iskaykaq Qelqasqan Carta"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "Galacia Provinciapi Kaq Iñiq T'aqakunaman Pabloq Qelqasqan Carta"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Éfeso Llaqtapi Iñiq T'aqaman Pabloq Qelqasqan Carta"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Filipos Llaqtapi Iñiq T'aqaman Pabloq Qelqasqan Carta"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "Colosas Llaqtapi Iñiq T'aqaman Pabloq Qelqasqan Carta"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "Tesalonica Llaqtapi Iñiq T'aqaman Pabloq Ñawpaqkaq Qelqasqan Carta"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "Tesalonica Llaqtapi Iñiq T'aqaman Pabloq Iskaykaq Qelqasqan Carta"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Timoteoman Pabloq Ñawpaqkaq Qelqasqan Carta"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"
+    name_toc: "Timoteoman Pabloq Iskaykaq Qelqasqan Carta"

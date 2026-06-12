@@ -1,0 +1,200 @@
+language: "sin"
+books:
+  "GEN":
+    name: "උත්පත්ති"
+    slug: "utpatti"
+  "EXO":
+    name: "නික්මයාම"
+    slug: "nikmayama"
+  "LEV":
+    name: "ලෙවී කථාව"
+    slug: "levi-kathava"
+  "NUM":
+    name: "ගණන් කථාව"
+    slug: "ganan-kathava"
+  "DEU":
+    name: "ද්වීතීය කථාව"
+    slug: "dvitiya-kathava"
+  "JOS":
+    name: "යෝෂුවා"
+    slug: "yosuva"
+  "JDG":
+    name: "විනිශ්චයකාරයන්ගේ පොත"
+    slug: "viniscayakarayange-pota"
+  "RUT":
+    name: "රූත්ගේ කථාව"
+    slug: "rutge-kathava"
+  "1SA":
+    name: "1 සාමුවෙල්"
+    slug: "1-samuvel"
+  "2SA":
+    name: "2 සාමුවෙල්"
+    slug: "2-samuvel"
+  "1KI":
+    name: "1 රාජාවලිය"
+    slug: "1-rajavaliya"
+  "2KI":
+    name: "2 රාජාවලිය"
+    slug: "2-rajavaliya"
+  "1CH":
+    name: "1 වංශාවලිය"
+    slug: "1-vamsavaliya"
+  "2CH":
+    name: "2 වංශාවලිය 1"
+    slug: "2-vamsavaliya-1"
+  "EZR":
+    name: "එස්රා"
+    slug: "esra"
+  "NEH":
+    name: "නෙහෙමියා"
+    slug: "nehemiya"
+  "EST":
+    name: "එස්තර්"
+    slug: "estar"
+  "JOB":
+    name: "ජෝබ්"
+    slug: "job"
+  "PSA":
+    name: "ගීතාවලිය"
+    slug: "gitavaliya"
+  "PRO":
+    name: "හිතෝපදේශ"
+    slug: "hitopadesa"
+  "ECC":
+    name: "ධර්මදේශකයා"
+    slug: "dharmadesakaya"
+  "SNG":
+    name: "ප්‍රේම ගී"
+    slug: "prema-gi"
+  "ISA":
+    name: "යෙසායා"
+    slug: "yesaya"
+  "JER":
+    name: "ජෙරෙමියා"
+    slug: "jeremiya"
+  "LAM":
+    name: "විලාප ගී"
+    slug: "vilapa-gi"
+  "EZK":
+    name: "එසකියෙල්"
+    slug: "esakiyel"
+  "DAN":
+    name: "දානියෙල්"
+    slug: "daniyel"
+  "HOS":
+    name: "හොසියා"
+    slug: "hosiya"
+  "JOL":
+    name: "ජෝවෙල්"
+    slug: "jovel"
+  "AMO":
+    name: "ආමොස්"
+    slug: "amos"
+  "OBA":
+    name: "ඔබදියා"
+    slug: "obadiya"
+  "JON":
+    name: "ජෝනා"
+    slug: "jona"
+  "MIC":
+    name: "මීකා"
+    slug: "mika"
+  "NAM":
+    name: "නාහූම්"
+    slug: "nahum"
+  "HAB":
+    name: "හබක්කුක්"
+    slug: "habakkuk"
+  "ZEP":
+    name: "ශෙපනියා"
+    slug: "sepaniya"
+  "HAG":
+    name: "හග්ගයි"
+    slug: "haggayi"
+  "ZEC":
+    name: "සෙකරියා"
+    slug: "sekariya"
+  "MAL":
+    name: "මලාකී"
+    slug: "malaki"
+  "MAT":
+    name: "ශු. මතෙව්"
+    slug: "su-matev"
+  "MRK":
+    name: "ශු. මාර්ක්"
+    slug: "su-mark"
+  "LUK":
+    name: "ශු. ලූක්"
+    slug: "su-luk"
+  "JHN":
+    name: "ශු. යොහන්"
+    slug: "su-yohan"
+  "ACT":
+    name: "ක්‍රියා"
+    slug: "kriya"
+  "ROM":
+    name: "රෝම"
+    slug: "roma"
+  "1CO":
+    name: "1 කොරින්ති"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 කොරින්ති"
+    slug: "2-korinti"
+  "GAL":
+    name: "ගලාති"
+    slug: "galati"
+  "EPH":
+    name: "එපීස"
+    slug: "episa"
+  "PHP":
+    name: "පිලිප්පි"
+    slug: "pilippi"
+  "COL":
+    name: "කොලොස්සි"
+    slug: "kolossi"
+  "1TH":
+    name: "1 තෙසලෝනික"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 තෙසලෝනික"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 තිමෝති"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 තිමෝති"
+    slug: "2-timoti"
+  "TIT":
+    name: "තීතස්"
+    slug: "titas"
+  "PHM":
+    name: "පිලෙමොන්"
+    slug: "pilemon"
+  "HEB":
+    name: "හෙබ්‍රෙව්"
+    slug: "hebrev"
+  "JAS":
+    name: "යාකොබ්"
+    slug: "yakob"
+  "1PE":
+    name: "1 පේතෘස්"
+    slug: "1-petrs"
+  "2PE":
+    name: "2 පේතෘස්"
+    slug: "2-petrs"
+  "1JN":
+    name: "1 යොහන්"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 යොහන්"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 යොහන්"
+    slug: "3-yohan"
+  "JUD":
+    name: "යූදස් (යූද්)"
+    slug: "yudas-yud"
+  "REV":
+    name: "එළිදරව්"
+    slug: "elidarav"

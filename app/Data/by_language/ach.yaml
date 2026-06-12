@@ -1,0 +1,200 @@
+language: "ach"
+books:
+  "GEN":
+    name: "Acakki"
+    slug: "acakki"
+  "EXO":
+    name: "Nia"
+    slug: "nia"
+  "LEV":
+    name: "Lulevi"
+    slug: "lulevi"
+  "NUM":
+    name: "Wel"
+    slug: "wel"
+  "DEU":
+    name: "Nwoyo Cik"
+    slug: "nwoyo-cik"
+  "JOS":
+    name: "Yocwa"
+    slug: "yocwa"
+  "JDG":
+    name: "Luŋolkop"
+    slug: "luolkop"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Camuel"
+    slug: "1-camuel"
+  "2SA":
+    name: "2 Camuel"
+    slug: "2-camuel"
+  "1KI":
+    name: "1 Luker"
+    slug: "1-luker"
+  "2KI":
+    name: "2 Luker"
+    slug: "2-luker"
+  "1CH":
+    name: "1 Tekwaro"
+    slug: "1-tekwaro"
+  "2CH":
+    name: "2 Tekwaro"
+    slug: "2-tekwaro"
+  "EZR":
+    name: "Ejira"
+    slug: "ejira"
+  "NEH":
+    name: "Nekemia"
+    slug: "nekemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Yubu"
+    slug: "yubu"
+  "PSA":
+    name: "Jabuli"
+    slug: "jabuli"
+  "PRO":
+    name: "Carolok"
+    slug: "carolok"
+  "ECC":
+    name: "Latitlok"
+    slug: "latitlok"
+  "SNG":
+    name: "Wer pa Solomon"
+    slug: "wer-pa-solomon"
+  "ISA":
+    name: "Icaya"
+    slug: "icaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Koko"
+    slug: "koko"
+  "EZK":
+    name: "Ejekiel"
+    slug: "ejekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Kocea"
+    slug: "kocea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amoc"
+    slug: "amoc"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+  "HAB":
+    name: "Kabakuk"
+    slug: "kabakuk"
+  "ZEP":
+    name: "Jepania"
+    slug: "jepania"
+  "HAG":
+    name: "Aggai"
+    slug: "aggai"
+  "ZEC":
+    name: "Jekaria"
+    slug: "jekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Tic Pa Lukwena"
+    slug: "tic-pa-lukwena"
+  "ROM":
+    name: "Jo Roma"
+    slug: "jo-roma"
+  "1CO":
+    name: "1 Jo Korint"
+    slug: "1-jo-korint"
+  "2CO":
+    name: "2 Jo Korint"
+    slug: "2-jo-korint"
+  "GAL":
+    name: "Jo Galatia"
+    slug: "jo-galatia"
+  "EPH":
+    name: "Jo Epeco"
+    slug: "jo-epeco"
+  "PHP":
+    name: "Jo Pilipi"
+    slug: "jo-pilipi"
+  "COL":
+    name: "Jo Kolocai"
+    slug: "jo-kolocai"
+  "1TH":
+    name: "1 Jo Tecalonika"
+    slug: "1-jo-tecalonika"
+  "2TH":
+    name: "2 Jo Tecalonika"
+    slug: "2-jo-tecalonika"
+  "1TI":
+    name: "1 Temceo"
+    slug: "1-temceo"
+  "2TI":
+    name: "2 Temceo"
+    slug: "2-temceo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Jo Ibru"
+    slug: "jo-ibru"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Niyabo"
+    slug: "niyabo"

@@ -1,0 +1,83 @@
+language: "kwd"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Wane ni Kwairiinga"
+    slug: "wane-ni-kwairiinga"
+  "ROM":
+    name: "Efesas"
+    slug: "efesas"
+  "1CO":
+    name: "Efesas"
+    slug: "efesas"
+  "2CO":
+    name: "Efesas"
+    slug: "efesas"
+  "GAL":
+    name: "Efesas"
+    slug: "efesas"
+  "EPH":
+    name: "Efesas"
+    slug: "efesas"
+  "PHP":
+    name: "Filipae"
+    slug: "filipae"
+  "COL":
+    name: "Kolosae"
+    slug: "kolosae"
+  "1TH":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TH":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "Taetas"
+    slug: "taetas"
+  "TIT":
+    name: "Taetas"
+    slug: "taetas"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibrus"
+    slug: "hibrus"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+  "1PE":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2PE":
+    name: "1 Jon"
+    slug: "1-jon"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "Refelesin"
+    slug: "refelesin"
+  "JUD":
+    name: "Refelesin"
+    slug: "refelesin"
+  "REV":
+    name: "Refelesin"
+    slug: "refelesin"

@@ -1,0 +1,314 @@
+language: "kdj"
+books:
+  "GEN":
+    name: "Akisy."
+    slug: "akisy"
+    name_toc: "Akisyakinet"
+  "EXO":
+    name: "Awos."
+    slug: "awos"
+    name_toc: "Awosit"
+  "LEV":
+    name: "Ŋilep."
+    slug: "ilep"
+    name_toc: "Ŋilepi"
+  "NUM":
+    name: "Ekim."
+    slug: "ekim"
+    name_toc: "Ekimar"
+  "DEU":
+    name: "Ŋikis."
+    slug: "ikis"
+    name_toc: "Ŋikisila"
+  "JOS":
+    name: "Yos."
+    slug: "yos"
+    name_toc: "Yosua"
+  "JDG":
+    name: "Ŋikat."
+    slug: "ikat"
+    name_toc: "Ŋikatubok"
+  "RUT":
+    name: "Rus."
+    slug: "rus"
+    name_toc: "Rus"
+  "1SA":
+    name: "1 Sam."
+    slug: "1-sam"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Sam."
+    slug: "2-sam"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Ŋirw."
+    slug: "1-irw"
+    name_toc: "1 Ŋirwosi"
+  "2KI":
+    name: "2 Ŋirw."
+    slug: "2-irw"
+    name_toc: "2 Ŋirwosi"
+  "1CH":
+    name: "1 Ŋakiro a ŋirwa"
+    slug: "1-akiro-a-irwa"
+    name_toc: "1 Ŋakiro a Ŋirwa"
+  "2CH":
+    name: "2 Ŋakiro a ŋirwa"
+    slug: "2-akiro-a-irwa"
+    name_toc: "2 Ŋakiro a Ŋirwa"
+  "EZR":
+    name: "Esir"
+    slug: "esir"
+    name_toc: "Esira"
+  "NEH":
+    name: "Neem."
+    slug: "neem"
+    name_toc: "Neemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Esta"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Yob"
+  "PSA":
+    name: "Ŋikiru."
+    slug: "ikiru"
+    name_toc: "Ŋikirukisyo"
+  "PRO":
+    name: "Ŋakit."
+    slug: "akit"
+    name_toc: "Ŋakitadapeta"
+  "ECC":
+    name: "Ekal."
+    slug: "ekal"
+    name_toc: "Ekalimonokinan"
+  "SNG":
+    name: "Eete a Ŋie."
+    slug: "eete-a-ie"
+    name_toc: "Eete a Ŋieosyo"
+  "ISA":
+    name: "Isa."
+    slug: "isa"
+    name_toc: "Isaya"
+  "JER":
+    name: "Yer."
+    slug: "yer"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Aum."
+    slug: "aum"
+    name_toc: "Aumonokin"
+  "EZK":
+    name: "Esek."
+    slug: "esek"
+    name_toc: "Esekiel"
+  "DAN":
+    name: "Dan."
+    slug: "dan"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+    name_toc: "Osea"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obad."
+    slug: "obad"
+    name_toc: "Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+    name_toc: "Naum"
+  "HAB":
+    name: "Abak."
+    slug: "abak"
+    name_toc: "Abakuk"
+  "ZEP":
+    name: "Sepan."
+    slug: "sepan"
+    name_toc: "Sepania"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+    name_toc: "Agai"
+  "ZEC":
+    name: "Sakar"
+    slug: "sakar"
+    name_toc: "Sakaria"
+  "MAL":
+    name: "Mal."
+    slug: "mal"
+    name_toc: "Malakai"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+    name_toc: "Tobit"
+  "JDT":
+    name: "Yudis"
+    slug: "yudis"
+    name_toc: "Yudis"
+  "ESG":
+    name: "Esta Gr"
+    slug: "esta-gr"
+    name_toc: "Esta Gr"
+  "WIS":
+    name: "Aos."
+    slug: "aos"
+    name_toc: "Aosou a Solomon"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+    name_toc: "Sirak"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+    name_toc: "Baruk"
+  "LJE":
+    name: "Ab.Yer"
+    slug: "ab-yer"
+    name_toc: "Abaruwa a Yeremia"
+  "S3Y":
+    name: "Eete. ŋi. a Ŋiu."
+    slug: "eete-i-a-iu"
+    name_toc: "Eete a ŋisorok a ŋiuni"
+  "SUS":
+    name: "Sus"
+    slug: "sus"
+    name_toc: "Susana"
+  "BEL":
+    name: "Bel. Ep."
+    slug: "bel-ep"
+    name_toc: "Bel ka Epiu"
+  "1MA":
+    name: "1 Ŋimak."
+    slug: "1-imak"
+    name_toc: "1 Ŋimakabi"
+  "2MA":
+    name: "2 Ŋimak."
+    slug: "2-imak"
+    name_toc: "2 Ŋimakabi"
+  "MAT":
+    name: "Mat."
+    slug: "mat"
+    name_toc: "Matayo"
+  "MRK":
+    name: "Mar."
+    slug: "mar"
+    name_toc: "Mariko"
+  "LUK":
+    name: "Luk."
+    slug: "luk"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yoa."
+    slug: "yoa"
+    name_toc: "Yoana"
+  "ACT":
+    name: "Ŋitic."
+    slug: "itic"
+    name_toc: "Ŋiticisyo a Ŋikiyakya"
+  "ROM":
+    name: "Ŋirom."
+    slug: "irom"
+    name_toc: "Ŋiromanin"
+  "1CO":
+    name: "1 Ŋikor."
+    slug: "1-ikor"
+    name_toc: "1 Ŋikorinto"
+  "2CO":
+    name: "2 Ŋikor."
+    slug: "2-ikor"
+    name_toc: "2 Ŋikorinto"
+  "GAL":
+    name: "Ŋigal."
+    slug: "igal"
+    name_toc: "Ŋigalatiyae"
+  "EPH":
+    name: "Ŋiep."
+    slug: "iep"
+    name_toc: "Ŋiepesoi"
+  "PHP":
+    name: "Ŋipil."
+    slug: "ipil"
+    name_toc: "Ŋipilipi"
+  "COL":
+    name: "Ŋikol."
+    slug: "ikol"
+    name_toc: "Ŋikolosae"
+  "1TH":
+    name: "1 Ŋites."
+    slug: "1-ites"
+    name_toc: "1 Ŋitesalonikae"
+  "2TH":
+    name: "2 Ŋites."
+    slug: "2-ites"
+    name_toc: "2 Ŋitesalonikae"
+  "1TI":
+    name: "1 Tim."
+    slug: "1-tim"
+    name_toc: "1 Timoteo"
+  "2TI":
+    name: "2 Tim."
+    slug: "2-tim"
+    name_toc: "2 Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Tito"
+  "PHM":
+    name: "Pil."
+    slug: "pil"
+    name_toc: "Pilemon"
+  "HEB":
+    name: "Ŋibur."
+    slug: "ibur"
+    name_toc: "Ŋiburaniyae"
+  "JAS":
+    name: "Yak."
+    slug: "yak"
+    name_toc: "Yakobo"
+  "1PE":
+    name: "1 Pet."
+    slug: "1-pet"
+    name_toc: "1 Petero"
+  "2PE":
+    name: "2 Pet."
+    slug: "2-pet"
+    name_toc: "2 Petero"
+  "1JN":
+    name: "1 Yoa."
+    slug: "1-yoa"
+    name_toc: "1 Yoana"
+  "2JN":
+    name: "2 Yoa."
+    slug: "2-yoa"
+    name_toc: "2 Yoana"
+  "3JN":
+    name: "3 Yoa."
+    slug: "3-yoa"
+    name_toc: "3 Yoana"
+  "JUD":
+    name: "Yud."
+    slug: "yud"
+    name_toc: "Yuda"
+  "REV":
+    name: "Akis."
+    slug: "akis"
+    name_toc: "Akisileerekinet"

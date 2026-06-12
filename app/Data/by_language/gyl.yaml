@@ -1,0 +1,77 @@
+language: "gyl"
+books:
+  "MAT":
+    name: "ማቶስ"
+    slug: "matos"
+  "MRK":
+    name: "ማርቆስ"
+    slug: "mareqos"
+  "LUK":
+    name: "ሉቃስ"
+    slug: "luqas"
+  "JHN":
+    name: "ዮሀንስ"
+    slug: "yohanes"
+  "ACT":
+    name: "ኦይትምስባብከስታ ፍክስ"
+    slug: "oyetemesebabekaseta-fekes"
+  "1CO":
+    name: "1 ቆርንቶስ"
+    slug: "1-qorenetos"
+  "2CO":
+    name: "2 ቆርንቶስ"
+    slug: "2-qorenetos"
+  "GAL":
+    name: "ገላትያ"
+    slug: "galateya"
+  "EPH":
+    name: "ኤፈሶን"
+    slug: "efason"
+  "PHP":
+    name: "ፍልጵስዮስ"
+    slug: "felepeseyos"
+  "COL":
+    name: "ቆለስያስ"
+    slug: "qolaseyas"
+  "1TH":
+    name: "1 ተስሎንቄ"
+    slug: "1-taseloneqe"
+  "2TH":
+    name: "2 ተሰሎንቄ"
+    slug: "2-tasaloneqe"
+  "1TI":
+    name: "1 ጢማቶስ"
+    slug: "1-timatos"
+  "2TI":
+    name: "2 ጢማቶስ"
+    slug: "2-timatos"
+  "PHM":
+    name: "ፍልሞና"
+    slug: "felemona"
+  "HEB":
+    name: "ዕብራውያን"
+    slug: "eberaweyan"
+  "JAS":
+    name: "ያይቆብ"
+    slug: "yayeqob"
+  "1PE":
+    name: "1 ጴጥሮስ"
+    slug: "1-peteros"
+  "2PE":
+    name: "2 ጴጥሮስ"
+    slug: "2-peteros"
+  "1JN":
+    name: "1 ዮሀንስ"
+    slug: "1-yohanes"
+  "2JN":
+    name: "2 ዮሀንስ"
+    slug: "2-yohanes"
+  "3JN":
+    name: "3 ዮሀንስ"
+    slug: "3-yohanes"
+  "JUD":
+    name: "ይሁዳ"
+    slug: "yehuda"
+  "REV":
+    name: "ለምለም"
+    slug: "lamelam"

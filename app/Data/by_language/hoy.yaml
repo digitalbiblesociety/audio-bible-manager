@@ -1,0 +1,116 @@
+language: "hoy"
+books:
+  "GEN":
+    name: "उत्पत्ति"
+    slug: "utpatti"
+  "EXO":
+    name: "निर्गमन"
+    slug: "nirgamana"
+  "LEV":
+    name: "लैव्यव्यवस्था"
+    slug: "laivyavyavastha"
+  "JOS":
+    name: "यहोशू"
+    slug: "yahosu"
+  "EST":
+    name: "एस्तेर"
+    slug: "estera"
+  "ECC":
+    name: "सभोपदेशक"
+    slug: "sabhopadesaka"
+  "EZK":
+    name: "यहेजकेल"
+    slug: "yahejakela"
+  "DAN":
+    name: "दानिय्येल"
+    slug: "daniyyela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MIC":
+    name: "मीका"
+    slug: "mika"
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "प्रेरितगोळ"
+    slug: "preritagola"
+  "ROM":
+    name: "रोमियों"
+    slug: "romiyom"
+  "1CO":
+    name: "१ कुरिन्थि"
+    slug: "1-kurinthi"
+  "2CO":
+    name: "२ कुरिन्थि"
+    slug: "2-kurinthi"
+  "GAL":
+    name: "गलातिगोळ"
+    slug: "galatigola"
+  "EPH":
+    name: "इफिसिगोळ"
+    slug: "iphisigola"
+  "PHP":
+    name: "फिलिप्पिगोळ"
+    slug: "philippigola"
+  "COL":
+    name: "कुलुस्सिगोळ"
+    slug: "kulussigola"
+  "1TH":
+    name: "१ थिस्सलुनीकि"
+    slug: "1-thissaluniki"
+  "2TH":
+    name: "२ थिस्सलुनीकि"
+    slug: "2-thissaluniki"
+  "1TI":
+    name: "१ तीमुथियुस"
+    slug: "1-timuthiyusa"
+  "2TI":
+    name: "२ तीमुथियुस"
+    slug: "2-timuthiyusa"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "इब्रानिगोळ"
+    slug: "ibranigola"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "१ पतरस"
+    slug: "1-patarasa"
+  "2PE":
+    name: "२ पतरस"
+    slug: "2-patarasa"
+  "1JN":
+    name: "१ यूहन्ना"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "२ यूहन्ना"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "३ यूहन्ना"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"

@@ -1,0 +1,266 @@
+language: "shn"
+books:
+  "GEN":
+    name: "ငဝ်ႈ"
+    slug: "ngaw"
+    name_toc: "Kitaab Astiir"
+  "EXO":
+    name: "ဢွၵ်ႇၵႂႃႇ"
+    slug: "wakkwa"
+    name_toc: "Kitaab Ayyuub"
+  "LEV":
+    name: "ႁဵတ်းဝၢတ်ႈ"
+    slug: "ha-ta-wat"
+    name_toc: "Kitaab al-Zabuur"
+  "NUM":
+    name: "ၼႂ်းထိူၼ်ႇ"
+    slug: "nwa-htiun"
+    name_toc: "Kitaab al-Amsaal"
+  "DEU":
+    name: "ႁေႃးတြႃး"
+    slug: "ho-tja"
+    name_toc: "Kitaab al-Jaamiʼa"
+  "JOS":
+    name: "ယေႃးသု"
+    slug: "jo-thu"
+    name_toc: "Nachiid al-Anchaad"
+  "JDG":
+    name: "ၵူၼ်းလူင်"
+    slug: "kun-lung"
+    name_toc: "Kitaab Ichaʼya"
+  "RUT":
+    name: "ရုထႃႉ"
+    slug: "ju-hta"
+    name_toc: "Kitaab Irmiya"
+  "1SA":
+    name: "1 သမူၺ်ႇ"
+    slug: "1-tha-munj"
+    name_toc: "Maraasi Irmiya"
+  "2SA":
+    name: "2 သမူၺ်ႇ"
+    slug: "2-tha-munj"
+    name_toc: "Kitaab Hizgiyaal"
+  "1KI":
+    name: "3 ရႃႇၸဝၢင်ႇ"
+    slug: "3-jatsa-wang"
+    name_toc: "كتاب دَنْيال"
+  "2KI":
+    name: "4 ရႃႇၸဝၢင်ႇ"
+    slug: "4-jatsa-wang"
+    name_toc: "كتاب هُوشَع"
+  "1CH":
+    name: "1 ရႃႇၶျုၵ်ႈ"
+    slug: "1-jachuk"
+    name_toc: "Kitaab Yuwiil"
+  "2CH":
+    name: "2 ရႃႇၶျုၵ်ႈ"
+    slug: "2-jachuk"
+    name_toc: "Kitaab Amuus"
+  "EZR":
+    name: "ဢေးၸရႃႇ"
+    slug: "ei-tsa-ja"
+    name_toc: "Kitaab Ubadya"
+  "NEH":
+    name: "ၼေႇ"
+    slug: "nei"
+    name_toc: "Kitaab Yuunus"
+  "EST":
+    name: "ဢေးသတႃႇ"
+    slug: "ei-tha-ta"
+    name_toc: "Kitaab Miikha"
+  "JOB":
+    name: "ယေႃးၽႃႉ"
+    slug: "jo-hpa"
+    name_toc: "Kitaab Naahuum"
+  "PSA":
+    name: "သႃႇလၢမ်ႇ"
+    slug: "thalam"
+    name_toc: "Kitaab Habaguug"
+  "PRO":
+    name: "သုၵ်ႉတၢမ်ႇ"
+    slug: "thuktam"
+    name_toc: "Kitaab Safanya"
+  "ECC":
+    name: "တေႇသၼႃႇ"
+    slug: "teitha-na"
+    name_toc: "Kitaab Haggaay"
+  "SNG":
+    name: "သေႃးလမုၼ်ႇ"
+    slug: "tho-la-mun"
+    name_toc: "Kitaab Zakariiya"
+  "ISA":
+    name: "ဢိ"
+    slug: "i"
+    name_toc: "Kitaab Malaakhi"
+  "JER":
+    name: "ယေႇရမိ"
+    slug: "jeija-mi"
+    name_toc: "Matta"
+  "LAM":
+    name: "ပွင်ႉၶၢင်း"
+    slug: "pwinkhang"
+    name_toc: "Markhus"
+  "EZK":
+    name: "ယေႇၸၵျေႇလႃႉ"
+    slug: "jeitsa-kjeila"
+    name_toc: "Luukha"
+  "DAN":
+    name: "တၢၼ်ႇယေႇလႃႉ"
+    slug: "tanjeila"
+    name_toc: "Yuuhanna"
+  "HOS":
+    name: "ႁူဝ်းသေႇ"
+    slug: "ho-thei"
+    name_toc: "Aʼmaal al-Rusul"
+  "JOL":
+    name: "ယူဝ်းဢေႇလႃႉ"
+    slug: "jo-eila"
+    name_toc: "Rooma"
+  "AMO":
+    name: "ဢႃႇမူတ်ႉ"
+    slug: "amut"
+    name_toc: "1 Kuruntus"
+  "OBA":
+    name: "ဢေႃးပတိ"
+    slug: "o-pa-ti"
+    name_toc: "2 Kuruntus"
+  "JON":
+    name: "ယူဝ်းၼႃႉ"
+    slug: "jo-na"
+    name_toc: "Khalaatiya"
+  "MIC":
+    name: "မိၶႃႇ"
+    slug: "mi-kha"
+    name_toc: "Afasus"
+  "NAM":
+    name: "ၼႃႇႁုမ်ႇ"
+    slug: "nahoun"
+    name_toc: "Filibbi"
+  "HAB":
+    name: "ႁပၵ်ႉၵုၵ်ႉ"
+    slug: "ha-pakkuk"
+    name_toc: "Kuluusi"
+  "ZEP":
+    name: "ၸေႇၽၼိ"
+    slug: "tseihpa-ni"
+    name_toc: "1 Tasaluuniiki"
+  "HAG":
+    name: "ႁၵ်ႉၵႄး"
+    slug: "hakke"
+    name_toc: "2 Tasaluuniiki"
+  "ZEC":
+    name: "ၸႃႇၶရိ"
+    slug: "tsakha-ji"
+    name_toc: "1 Timuutaawus"
+  "MAL":
+    name: "မႃႇလၶိ"
+    slug: "mala-khi"
+    name_toc: "2 Timuutaawus"
+  "MAT":
+    name: "မတ်ႈ"
+    slug: "ma"
+    name_toc: "Tiitus"
+  "MRK":
+    name: "မႃႇ"
+    slug: "ma"
+    name_toc: "Filimuun"
+  "LUK":
+    name: "လု"
+    slug: "lu"
+    name_toc: "Ibraaniyiin"
+  "JHN":
+    name: "ယူဝ်း"
+    slug: "jo"
+    name_toc: "Yaakhuub"
+  "ACT":
+    name: "တမၢၼ်ႇ"
+    slug: "ta-man"
+    name_toc: "1 Butrus"
+  "ROM":
+    name: "ရူဝ်းမႃႉ"
+    slug: "jo-ma"
+    name_toc: "2 Butrus"
+  "1CO":
+    name: "1 ၵေႃး"
+    slug: "1-ko"
+    name_toc: "1 Yuuhanna"
+  "2CO":
+    name: "2 ၵေႃး"
+    slug: "2-ko"
+    name_toc: "2 Yuuhanna"
+  "GAL":
+    name: "ၵလႃႇတိ"
+    slug: "ka-lati"
+    name_toc: "3 Yuuhanna"
+  "EPH":
+    name: "ဢေးၽႅတ်ႈ"
+    slug: "ei-hpet"
+    name_toc: "Yahuuza"
+  "PHP":
+    name: "ၽိလိပ်ႉပိ"
+    slug: "hpi-lei-pi"
+    name_toc: "Al-Ruʼya"
+  "COL":
+    name: "ၵေႃးလေႃးသေး"
+    slug: "ko-lo-thei"
+    name_toc: "كتاب التكوين"
+  "1TH":
+    name: "1 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ"
+    slug: "1-htei-thalo-nik"
+    name_toc: "كتاب الخُروج"
+  "2TH":
+    name: "2 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ"
+    slug: "2-htei-thalo-nik"
+    name_toc: "كتاب اللاوِيِّين"
+  "1TI":
+    name: "1 တိမေႃးသေႇ"
+    slug: "1-ti-mo-thei"
+    name_toc: "كتاب العَدد"
+  "2TI":
+    name: "2 တိမေႃးသေႇ"
+    slug: "2-ti-mo-thei"
+    name_toc: "كتاب التَثْنِية"
+  "TIT":
+    name: "တိတု"
+    slug: "ti-tu"
+    name_toc: "كتاب يَشُوع"
+  "PHM":
+    name: "ၽိလေႇမုၼ်ႇ"
+    slug: "hpi-leimun"
+    name_toc: "كتاب القُضياء"
+  "HEB":
+    name: "ႁေႇပြႄး"
+    slug: "heipje"
+    name_toc: "كتاب رَعُوث"
+  "JAS":
+    name: "ယႃႇၵုပ်ႈ"
+    slug: "jakou"
+    name_toc: "كتاب 1 صَمُوِيل"
+  "1PE":
+    name: "1 ပေႇတရု"
+    slug: "1-peita-ju"
+    name_toc: "كتاب 2 صَمُوِيل"
+  "2PE":
+    name: "2 ပေႇတရု"
+    slug: "2-peita-ju"
+    name_toc: "كتاب 1 مُلوك"
+  "1JN":
+    name: "1 ယူဝ်း"
+    slug: "1-jo"
+    name_toc: "كتاب 2 مُلوك"
+  "2JN":
+    name: "2 ယူဝ်း"
+    slug: "2-jo"
+    name_toc: "كتاب 1 أخبار"
+  "3JN":
+    name: "3 ယူဝ်း"
+    slug: "3-jo"
+    name_toc: "كتاب 2 أخبار"
+  "JUD":
+    name: "ယုတႃႉ"
+    slug: "ju-ta"
+    name_toc: "كتاب عَزْرا"
+  "REV":
+    name: "ပျႃႇတိၵ်ႈ"
+    slug: "pjatik"
+    name_toc: "كتاب نَحَمْيا"

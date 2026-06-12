@@ -1,0 +1,86 @@
+language: "kde"
+books:
+  "GEN":
+    name: "Ntandiliko"
+    slug: "ntandiliko"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Malukushi"
+    slug: "malukushi"
+  "LUK":
+    name: "Lukashi"
+    slug: "lukashi"
+  "JHN":
+    name: "Nshuwau"
+    slug: "nshuwau"
+  "ACT":
+    name: "Vitendo vya Vamyombe"
+    slug: "vitendo-vya-vamyombe"
+  "ROM":
+    name: "Valoma"
+    slug: "valoma"
+  "1CO":
+    name: "I Vakolintu"
+    slug: "i-vakolintu"
+  "2CO":
+    name: "II Vakolintu"
+    slug: "ii-vakolintu"
+  "GAL":
+    name: "Vagalata"
+    slug: "vagalata"
+  "EPH":
+    name: "Vaepeshu"
+    slug: "vaepeshu"
+  "PHP":
+    name: "Vapilipo"
+    slug: "vapilipo"
+  "COL":
+    name: "Vakoloshu"
+    slug: "vakoloshu"
+  "1TH":
+    name: "I Vateshalonika"
+    slug: "i-vateshalonika"
+  "2TH":
+    name: "II Vateshalonika"
+    slug: "ii-vateshalonika"
+  "1TI":
+    name: "I Timoti"
+    slug: "i-timoti"
+  "2TI":
+    name: "II Timoti"
+    slug: "ii-timoti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pilemoni"
+    slug: "pilemoni"
+  "HEB":
+    name: "Vabalaniya"
+    slug: "vabalaniya"
+  "JAS":
+    name: "Tiyagu"
+    slug: "tiyagu"
+  "1PE":
+    name: "I Patulu"
+    slug: "i-patulu"
+  "2PE":
+    name: "II Patulu"
+    slug: "ii-patulu"
+  "1JN":
+    name: "I Nshuwau"
+    slug: "i-nshuwau"
+  "2JN":
+    name: "II Nshuwau"
+    slug: "ii-nshuwau"
+  "3JN":
+    name: "III Nshuwau"
+    slug: "iii-nshuwau"
+  "JUD":
+    name: "Yudashi"
+    slug: "yudashi"
+  "REV":
+    name: "Maono"
+    slug: "maono"

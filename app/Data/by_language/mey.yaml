@@ -1,0 +1,5 @@
+language: "mey"
+books:
+  "GEN":
+    name: "التكوين"
+    slug: "altkwyn"

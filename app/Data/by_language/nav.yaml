@@ -1,0 +1,266 @@
+language: "nav"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "GENESIS Mózes Binaaltsoos Áłtséhígíí Hodeeshzhiizh Wolyéii"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+    name_toc: "EXODUS Mózes Binaaltsoos Naakiígíí Ch'í'íldee' Wolyéhígíí"
+  "LEV":
+    name: "Leviticus"
+    slug: "leviticus"
+    name_toc: "LEVITICUS Mózes Binaaltsoos Tá'ígíí Biyi' Bik'eh Ó'oo'níiłii"
+  "NUM":
+    name: "Numbers"
+    slug: "numbers"
+    name_toc: "NUMBERS Mózes Binaaltsoos Dį́'ígíí Biyi' Daho'déélta'"
+  "DEU":
+    name: "Deuteronomy"
+    slug: "deuteronomy"
+    name_toc: "DEUTERONOMY Mózes Binaaltsoos Ashdla'ígíí Biyi' Bee Haz'áanii Bee Hanáá'oodzíí'"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "JOSHUA Jáshowa Baa Hane'ii Binaaltsoos"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+    name_toc: "JUDGES Ándahodii'aahii Baa Hane'ii Binaaltsoos"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "RUTH Ruth Baa Hane'ii Binaaltsoos"
+  "1SA":
+    name: "I Samuel"
+    slug: "i-samuel"
+    name_toc: "I SAMUEL Naaltsoos Biyi' Sámuel Baa Hane'ii Átséhígíí"
+  "2SA":
+    name: "II Samuel"
+    slug: "ii-samuel"
+    name_toc: "II SAMUEL Naaltsoos Biyi' Sámuel Baa Hane'ii Naakiígíí"
+  "1KI":
+    name: "I Kings"
+    slug: "i-kings"
+    name_toc: "I KINGS Aláahgo Nidant'áii Baa Dahane' Átséhígíí"
+  "2KI":
+    name: "II Kings"
+    slug: "ii-kings"
+    name_toc: "II KINGS Aláahgo Nidant'áii Baa Dahane' Naakiígíí"
+  "1CH":
+    name: "I Chronicles"
+    slug: "i-chronicles"
+    name_toc: "I CHRONICLES Ádahoodzaii Baa Hane' Átséhígíí"
+  "2CH":
+    name: "II Chronicles"
+    slug: "ii-chronicles"
+    name_toc: "II CHRONICLES Ádahoodzaii Baa Hane' Naakiígíí"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "EZRA Naaltsoos Biyi' Ézra Baa Hane'ii"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+    name_toc: "NEHEMIAH Naaltsoos Biyi' Niihemáíyah Baa Hane'ii"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+    name_toc: "ESTHER Naaltsoos Biyi' Esther Baa Hane'ii"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "JOB Naaltsoos Biyi' Job Baa Hane'ii"
+  "PSA":
+    name: "Psalms"
+    slug: "psalms"
+    name_toc: "PSALMS Sin Danilíinii"
+  "PRO":
+    name: "Proverbs"
+    slug: "proverbs"
+    name_toc: "PROVERBS Saad Bee Hódzą́"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+    name_toc: "ECCLESIASTES Halne'í"
+  "SNG":
+    name: "Song Of Solomon"
+    slug: "song-of-solomon"
+    name_toc: "SONG OF SOLOMON Sálaman Biyiin"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+    name_toc: "ISAIAH Diyin God Yá Halne'ii Aizéíyah Binaaltsoos"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+    name_toc: "JEREMIAH Diyin God Yá Halne'ii Jeremáíyah Binaaltsoos"
+  "LAM":
+    name: "Lamentations"
+    slug: "lamentations"
+    name_toc: "LAMENTATIONS Jeremáíyah Atínídindleehígíí Baa Hane'"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "EZEKIEL Diyin God Yá Halne'ii Iizííkiyel Binaaltsoos"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "DANIEL Diyin God Yá Halne'ii Daniel Binaaltsoos"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "HOSEA Diyin God Yá Halne'ii Hozéíya Binaaltsoos"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "JOEL Diyin God Yá Halne'ii Jówel Binaaltsoos"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "AMOS Diyin God Yá Halne'ii Éímas Binaaltsoos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+    name_toc: "OBADIAH Diyin God Yá Halne'ii Obadáíyah Binaaltsoos"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+    name_toc: "JONAH Diyin God Yá Halne'ii Jónah Binaaltsoos"
+  "MIC":
+    name: "Micah"
+    slug: "micah"
+    name_toc: "MICAH Diyin God Yá Halne'ii Máíkah Binaaltsoos"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "NAHUM Diyin God Yá Halne'ii Néíham Binaaltsoos"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+    name_toc: "HABAKKUK Diyin God Yá Halne'ii Habákak Binaaltsoos"
+  "ZEP":
+    name: "Zephaniah"
+    slug: "zephaniah"
+    name_toc: "ZEPHANIAH Diyin God Yá Halne'ii Zefanáíyah Binaaltsoos"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+    name_toc: "HAGGAI Diyin God Yá Halne'ii Hágeiyai Binaaltsoos"
+  "ZEC":
+    name: "Zechariah"
+    slug: "zechariah"
+    name_toc: "ZECHARIAH Diyin God Yá Halne'ii Zekaráíyah Binaaltsoos"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+    name_toc: "MALACHI Diyin God Yá Halne'ii Málakai Binaaltsoos"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+    name_toc: "MATTHEW Bik'ehgo Hane' Yá'át'éehii"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "MARK Bik'ehgo Hane' Yá'át'éehii"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "LUKE Bik'ehgo Hane' Yá'át'éehii"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "JOHN John Bik'ehgo Hane' Yá'át'éehii"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "ACTS Daal'aadii Ádáát'įįdígíí"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+    name_toc: "ROMANS Romedi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii"
+  "1CO":
+    name: "I Corinthians"
+    slug: "i-corinthians"
+    name_toc: "I CORINTHIANS Kórinthdi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii Átséhígíí"
+  "2CO":
+    name: "II Corinthians"
+    slug: "ii-corinthians"
+    name_toc: "II CORINTHIANS Kórinthdi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii Naakiígíí"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+    name_toc: "GALATIANS Galéíshiyadi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+    name_toc: "EPHESIANS Éfesasdi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+    name_toc: "PHILIPPIANS Fílipaidi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+    name_toc: "COLOSSIANS Kalásiidi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii"
+  "1TH":
+    name: "I Thessalonians"
+    slug: "i-thessalonians"
+    name_toc: "I THESSALONIANS Thesalonáíkadi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii Áłtséhígíí"
+  "2TH":
+    name: "II Thessalonians"
+    slug: "ii-thessalonians"
+    name_toc: "II THESSALONIANS Thesalonáíkadi Da'oodlání Danilíinii Bich'į' Paul Naaltsoos Áyiilaii Naakiígíí"
+  "1TI":
+    name: "I Timothy"
+    slug: "i-timothy"
+    name_toc: "I TIMOTHY Timothy Bich'į' Paul Naaltsoos Áyiilaii Átséhígíí"
+  "2TI":
+    name: "II Timothy"
+    slug: "ii-timothy"
+    name_toc: "II TIMOTHY Timothy Bich'į' Paul Naaltsoos Áyiilaii Naakiígíí"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "TITUS Táítas Bich'į' Paul Naaltsoos Áyiilaii"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+    name_toc: "PHILEMON Failííman Bich'į' Paul Naaltsoos Áyiilaii"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+    name_toc: "HEBREWS Hííbrew Dine'é Bich'į' Naaltsoos Ályaii"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "JAMES James Binaaltsoos"
+  "1PE":
+    name: "I Peter"
+    slug: "i-peter"
+    name_toc: "I PETER Peter Binaaltsoos Átséhígíí"
+  "2PE":
+    name: "II Peter"
+    slug: "ii-peter"
+    name_toc: "II PETER Peter Binaaltsoos Naakiígíí"
+  "1JN":
+    name: "I John"
+    slug: "i-john"
+    name_toc: "I JOHN John Binaaltsoos Átséhígíí"
+  "2JN":
+    name: "II John"
+    slug: "ii-john"
+    name_toc: "II JOHN John Binaaltsoos Naakiígíí"
+  "3JN":
+    name: "III John"
+    slug: "iii-john"
+    name_toc: "III JOHN John Binaaltsoos Tá'ígíí"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "JUDE Jude Binaaltsoos"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"
+    name_toc: "REVELATION John Bich'į' Yit'íní Ályaii"

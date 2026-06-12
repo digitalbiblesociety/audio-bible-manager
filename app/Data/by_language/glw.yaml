@@ -1,0 +1,26 @@
+language: "glw"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "JHN":
+    name: "Jhn"
+    slug: "jhn"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Co"
+    slug: "1co"
+  "2CO":
+    name: "2Co"
+    slug: "2co"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "COL":
+    name: "Col"
+    slug: "col"

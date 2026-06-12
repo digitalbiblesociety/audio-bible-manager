@@ -1,0 +1,298 @@
+language: "lwg"
+books:
+  "GEN":
+    name: "Obuchachilo"
+    slug: "obuchachilo"
+    name_toc: "Eshitabu Shiambeli Shia Musa Eshilangwa Mbu Obuchachilo"
+  "EXO":
+    name: "Okhurula"
+    slug: "okhurula"
+    name_toc: "Eshitabu Shiakhabili Shia Musa Eshilangwa Mbu Okhurula"
+  "LEV":
+    name: "Abalawi"
+    slug: "abalawi"
+    name_toc: "Eshitabu Eshiakhataru Eshia Musa Eshilangwa Mbu Abalawi"
+  "NUM":
+    name: "Obubali"
+    slug: "obubali"
+    name_toc: "Eshitabu Eshiakhane Eshia Musa Eshilangwa Mbu, Obubali"
+  "DEU":
+    name: "Okhukalushila Mumalako Ka Musa"
+    slug: "okhukalushila-mumalako-ka-musa"
+    name_toc: "Eshitabu Shiakharano Eshia Musa Eshilangwa Mbu, Okhukalushila Mumalako Ka Musa"
+  "JOS":
+    name: "Yoshwa"
+    slug: "yoshwa"
+    name_toc: "Eshitabu Shia Yoshwa"
+  "JDG":
+    name: "Abayaasi"
+    slug: "abayaasi"
+    name_toc: "Eshitabu Shia Abayaasi"
+  "RUT":
+    name: "Rutsi"
+    slug: "rutsi"
+    name_toc: "Eshitabu Shia Rutsi"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Eshitabu Shiambeli Shia Samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Eshitabu Shiakhabili Shia Samweli"
+  "1KI":
+    name: "1 Abaruchi"
+    slug: "1-abaruchi"
+    name_toc: "Eshitabu Shiambeli Eshia Abaruchi"
+  "2KI":
+    name: "2 Abaruchi"
+    slug: "2-abaruchi"
+    name_toc: "Eshitabu Shiakhabili Eshia Abaruchi"
+  "1CH":
+    name: "1 Akakhale"
+    slug: "1-akakhale"
+    name_toc: "Eshitabu Shiambeli Eshia Akakhale"
+  "2CH":
+    name: "2 Akakhale"
+    slug: "2-akakhale"
+    name_toc: "Eshitabu Shiakhabili Shia Akakhale"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Eshitabu Shia Ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Eshitabu Eshia Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Eshitabu Eshia Esita"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+    name_toc: "Eshitabu Shia Ayubu"
+  "PSA":
+    name: "Tsitsabuli"
+    slug: "tsitsabuli"
+    name_toc: "Eshitabu Shia Tsitsabuli"
+  "PRO":
+    name: "Tsinjelo"
+    slug: "tsinjelo"
+    name_toc: "Eshitabu Eshia Tsinjelo"
+  "ECC":
+    name: "Omwibaali"
+    slug: "omwibaali"
+    name_toc: "Eshitabu Shia Omwibaali"
+  "SNG":
+    name: "Olwimbo Olukhulundu"
+    slug: "olwimbo-olukhulundu"
+    name_toc: "Olwimbo Olukhulundu"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Eshitabu Shiomulakusi Isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Eshitabu Shiomulakusi Yeremia"
+  "LAM":
+    name: "Tsinzikhuulo"
+    slug: "tsinzikhuulo"
+    name_toc: "Tsinzikhuulo"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Eshitabu Shiomulakusi Ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Eshitabu Shia Danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Eshitabu Shiomulakusi Hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Eshitabu Shia Yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Eshitabu Shiomulakusi Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Eshitabu Shiomulakusi Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Eshitabu Khumulakusi Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Eshitabu Shiomulakusi Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Eshitabu Shiomulakusi Nahumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Eshitabu Shiomulakusi Habakuku"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Eshitabu Shiomulakusi Zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Eshitabu Shiomulakusi Hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Eshitabu Shiomulakusi Zakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Eshitabu Eshia Malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+    name_toc: "Eshitabu Eshia Tobiti"
+  "JDT":
+    name: "Yuditsi"
+    slug: "yuditsi"
+    name_toc: "Eshitabu Eshia Yuditsi"
+  "ESG":
+    name: "Esita (Mulugiriki)"
+    slug: "esita-mulugiriki"
+    name_toc: "Eshitabu Eshia Esita (Mulugiriki)"
+  "WIS":
+    name: "Obuchesi Obwa Solomoni"
+    slug: "obuchesi-obwa-solomoni"
+    name_toc: "Eshitabu Eshia Obuchesi Obwa Solomoni"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+    name_toc: "Obuchesi Bwa Yoshwa Omusiani Wa Sira (Ekilesiasitiko)"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+    name_toc: "Eshitabu Shia Baruku"
+  "1MA":
+    name: "1 Makabayo"
+    slug: "1-makabayo"
+    name_toc: "Eshitabu Eshiambeli Eshia Makabayo"
+  "2MA":
+    name: "2 Makabayo"
+    slug: "2-makabayo"
+    name_toc: "Eshitabu Eshiakhabili Eshia Makabayo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Injiili Shinga Olwa Yahandikwa Nende Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Injiili Shinga Olwa Yahandikwa Nende Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Injiili Shinga Olwa Yahandikwa Nende Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Injiili Shinga Olwa Yahandikwa Nende Yohana"
+  "ACT":
+    name: "Ebikhole Bia Abarume"
+    slug: "ebikhole-bia-abarume"
+    name_toc: "Ebikhole Bia Abarume"
+  "ROM":
+    name: "Abaroma"
+    slug: "abaroma"
+    name_toc: "Ibarwa Ya Paulo Yahandichila Abaroma"
+  "1CO":
+    name: "1 Abakorinzo"
+    slug: "1-abakorinzo"
+    name_toc: "Ibarwa Yambeli Eya Paulo Yahandichila Abakorinzo"
+  "2CO":
+    name: "2 Abakorinzo"
+    slug: "2-abakorinzo"
+    name_toc: "Ibarwa Yakhabili Eya Paulo Yahandichila Abakorinzo"
+  "GAL":
+    name: "Abagalatia"
+    slug: "abagalatia"
+    name_toc: "Ibarwa Ya Paulo Yahandichila Abagalatia"
+  "EPH":
+    name: "Abaefeso"
+    slug: "abaefeso"
+    name_toc: "Ibarwa Eya Paulo Yahandichila Abaefeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+    name_toc: "Ibarwa Eya Paulo Yahandichila Abafilipi"
+  "COL":
+    name: "Abakolosai"
+    slug: "abakolosai"
+    name_toc: "Ibarwa Eya Paulo Yahandichila Abakolosai"
+  "1TH":
+    name: "1 Abatsesalonika"
+    slug: "1-abatsesalonika"
+    name_toc: "Ibarwa Yambeli Eya Paulo Yahandichila Abatsesalonika"
+  "2TH":
+    name: "2 Abatsesalonika"
+    slug: "2-abatsesalonika"
+    name_toc: "Ibarwa Yakhabili Eya Paulo Yahandichila Abatsesalonika"
+  "1TI":
+    name: "1 Timotseyo"
+    slug: "1-timotseyo"
+    name_toc: "Ibarwa Yambeli Eya Paulo Yahandichila Timotseyo"
+  "2TI":
+    name: "2 Timotseyo"
+    slug: "2-timotseyo"
+    name_toc: "Ibabwa Yakhabili Eya Paulo Yahandichila Timotseyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ibarwa Eya Paulo Yahandichila Tito"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Ibarwa Eya Paulo Yahandichila Filemona"
+  "HEB":
+    name: "Abaheburania"
+    slug: "abaheburania"
+    name_toc: "Ibarwa Eyahandiichilwa Abaheburania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Ibarwa Ya Yakobo Yahandika"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Ibarwa Yambeli Eya Petero Yahandika"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Ibarwa Yakhabili Eya Petero Yahandika"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Ibarwa Yambeli Eya Yohana Yahandika"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Ibarwa Yakhabili Eya Yohana Yahandika"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Ibarwa Yakhataru Eya Yohana Yahandika"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ibarwa Eya Yuda Yahandika"
+  "REV":
+    name: "Obufwimbuli"
+    slug: "obufwimbuli"
+    name_toc: "Obufwimbuli Obwahaanwa Khu Yohana"

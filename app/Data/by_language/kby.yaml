@@ -1,0 +1,14 @@
+language: "kby"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"

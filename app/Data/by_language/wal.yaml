@@ -1,0 +1,176 @@
+language: "wal"
+books:
+  "GEN":
+    name: "Doomettaabaa"
+    slug: "doomettaabaa"
+  "EXO":
+    name: "Kessaabaa"
+    slug: "kessaabaa"
+  "LEV":
+    name: "Wogaabaa"
+    slug: "wogaabaa"
+  "NUM":
+    name: "Qoodaabaa"
+    slug: "qoodaabaa"
+  "DEU":
+    name: "Zaarettido Wogaa"
+    slug: "zaarettido-wogaa"
+  "JOS":
+    name: "Yaasu"
+    slug: "yaasu"
+  "JDG":
+    name: "Daannatu Maxaafaa"
+    slug: "daannatu-maxaafaa"
+  "1SA":
+    name: "Sameela Maxaafaa Koiruwaa"
+    slug: "sameela-maxaafaa-koiruwaa"
+  "2SA":
+    name: "Sameela Maxaafaa Naa77anttuwaa"
+    slug: "sameela-maxaafaa-naa77anttuwaa"
+  "1KI":
+    name: "Kawotu Maxaafaa Koiruwaa"
+    slug: "kawotu-maxaafaa-koiruwaa"
+  "2KI":
+    name: "Kawotu Maxaafaa Naa77anttuwaa"
+    slug: "kawotu-maxaafaa-naa77anttuwaa"
+  "1CH":
+    name: "Hanidabaa Odiya Koiro Maxaafaa"
+    slug: "hanidabaa-odiya-koiro-maxaafaa"
+  "2CH":
+    name: "Hanidabaa Odiya Naa77antto Maxaafaa"
+    slug: "hanidabaa-odiya-naa77antto-maxaafaa"
+  "EZR":
+    name: "Izira Maxaafaa"
+    slug: "izira-maxaafaa"
+  "NEH":
+    name: "Nahimiyaa Maxaafaa"
+    slug: "nahimiyaa-maxaafaa"
+  "EST":
+    name: "Asttiri Maxaafaa"
+    slug: "asttiri-maxaafaa"
+  "JOB":
+    name: "Iyyooba Maxaafaa"
+    slug: "iyyooba-maxaafaa"
+  "PRO":
+    name: "Leemiso Maxaafaa"
+    slug: "leemiso-maxaafaa"
+  "ECC":
+    name: "Eranchchaa Maxaafaa"
+    slug: "eranchchaa-maxaafaa"
+  "ISA":
+    name: "Isiyaasa"
+    slug: "isiyaasa"
+  "JER":
+    name: "Ermmaasa"
+    slug: "ermmaasa"
+  "LAM":
+    name: "Ermmaasa Zilaassaa"
+    slug: "ermmaasa-zilaassaa"
+  "EZK":
+    name: "Hizqqeela"
+    slug: "hizqqeela"
+  "DAN":
+    name: "Daaneela"
+    slug: "daaneela"
+  "HOS":
+    name: "Hoose7a"
+    slug: "hoose7a"
+  "JOL":
+    name: "Yuu7eela"
+    slug: "yuu7eela"
+  "AMO":
+    name: "Amoxa"
+    slug: "amoxa"
+  "OBA":
+    name: "Abddiyyu"
+    slug: "abddiyyu"
+  "JON":
+    name: "Yoonaasa"
+    slug: "yoonaasa"
+  "MIC":
+    name: "Mikiyaasa"
+    slug: "mikiyaasa"
+  "NAM":
+    name: "Naahooma"
+    slug: "naahooma"
+  "HAB":
+    name: "Imbbaaqooma"
+    slug: "imbbaaqooma"
+  "HAG":
+    name: "Hagge"
+    slug: "hagge"
+  "MAL":
+    name: "Milkkiyaasa"
+    slug: "milkkiyaasa"
+  "MAT":
+    name: "Maatiyoosa"
+    slug: "maatiyoosa"
+  "MRK":
+    name: "Marqqoosa"
+    slug: "marqqoosa"
+  "LUK":
+    name: "Luqaasa"
+    slug: "luqaasa"
+  "JHN":
+    name: "Yohaannisa"
+    slug: "yohaannisa"
+  "ACT":
+    name: "Yesuusi Kiittidoogeetu Oosuwaa"
+    slug: "yesuusi-kiittidoogeetu-oosuwaa"
+  "1CO":
+    name: "Koiro Qoronttoosa"
+    slug: "koiro-qoronttoosa"
+  "2CO":
+    name: "Naa77antto Qoronttoosa"
+    slug: "naa77antto-qoronttoosa"
+  "GAL":
+    name: "Galaatiyaa"
+    slug: "galaatiyaa"
+  "EPH":
+    name: "Efisoona"
+    slug: "efisoona"
+  "PHP":
+    name: "Piliphphisiyuusa"
+    slug: "piliphphisiyuusa"
+  "COL":
+    name: "Qolasiyaasa"
+    slug: "qolasiyaasa"
+  "1TH":
+    name: "Koiro Tasalonqqe"
+    slug: "koiro-tasalonqqe"
+  "2TH":
+    name: "Naa77antto Tasalonqqe"
+    slug: "naa77antto-tasalonqqe"
+  "1TI":
+    name: "Koiro Ximootiyoosa"
+    slug: "koiro-ximootiyoosa"
+  "2TI":
+    name: "Naa77antto Ximootiyoosa"
+    slug: "naa77antto-ximootiyoosa"
+  "PHM":
+    name: "Pilimoona"
+    slug: "pilimoona"
+  "HEB":
+    name: "Ibraawe"
+    slug: "ibraawe"
+  "JAS":
+    name: "Yaaqooba"
+    slug: "yaaqooba"
+  "1PE":
+    name: "Koiro PHeexiroosa"
+    slug: "koiro-pheexiroosa"
+  "2PE":
+    name: "Naa77antto PHeexiroosa"
+    slug: "naa77antto-pheexiroosa"
+  "1JN":
+    name: "Koiro Yohaannisa"
+    slug: "koiro-yohaannisa"
+  "2JN":
+    name: "Naa77antto Yohaannisa"
+    slug: "naa77antto-yohaannisa"
+  "3JN":
+    name: "Heezzantto Yohaannisa"
+    slug: "heezzantto-yohaannisa"
+  "JUD":
+    name: "Yihudaa"
+    slug: "yihudaa"

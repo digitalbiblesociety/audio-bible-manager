@@ -1,0 +1,8 @@
+language: "nss"
+books:
+  "GEN":
+    name: "Ndroyi Melit Masih"
+    slug: "ndroyi-melit-masih"
+  "MRK":
+    name: "Markus"
+    slug: "markus"

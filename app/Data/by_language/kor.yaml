@@ -1,0 +1,200 @@
+language: "kor"
+books:
+  "GEN":
+    name: "창세기"
+    slug: "changsegi"
+  "EXO":
+    name: "출애굽기"
+    slug: "chulaegupgi"
+  "LEV":
+    name: "레위기"
+    slug: "rewigi"
+  "NUM":
+    name: "민수기"
+    slug: "minsugi"
+  "DEU":
+    name: "신명기"
+    slug: "sinmyeonggi"
+  "JOS":
+    name: "여호수아"
+    slug: "yeohosua"
+  "JDG":
+    name: "사사기"
+    slug: "sasagi"
+  "RUT":
+    name: "룻기"
+    slug: "rutgi"
+  "1SA":
+    name: "사무엘상"
+    slug: "samuelsang"
+  "2SA":
+    name: "사무엘하"
+    slug: "samuelha"
+  "1KI":
+    name: "열왕기상"
+    slug: "yeolwanggisang"
+  "2KI":
+    name: "열왕기하"
+    slug: "yeolwanggiha"
+  "1CH":
+    name: "역대상"
+    slug: "yeokdaesang"
+  "2CH":
+    name: "역대하"
+    slug: "yeokdaeha"
+  "EZR":
+    name: "에스라"
+    slug: "eseura"
+  "NEH":
+    name: "느헤미야"
+    slug: "neuhemiya"
+  "EST":
+    name: "에스더"
+    slug: "eseudeo"
+  "JOB":
+    name: "욥기"
+    slug: "yopgi"
+  "PSA":
+    name: "시편"
+    slug: "sipyeon"
+  "PRO":
+    name: "잠언"
+    slug: "jameon"
+  "ECC":
+    name: "전도서"
+    slug: "jeondoseo"
+  "SNG":
+    name: "아가"
+    slug: "aga"
+  "ISA":
+    name: "이사야"
+    slug: "isaya"
+  "JER":
+    name: "예레미야"
+    slug: "yeremiya"
+  "LAM":
+    name: "예레미야애가"
+    slug: "yeremiyaaega"
+  "EZK":
+    name: "에스겔"
+    slug: "eseugel"
+  "DAN":
+    name: "다니엘"
+    slug: "daniel"
+  "HOS":
+    name: "호세아"
+    slug: "hosea"
+  "JOL":
+    name: "요엘"
+    slug: "yoel"
+  "AMO":
+    name: "아모스"
+    slug: "amoseu"
+  "OBA":
+    name: "오바댜"
+    slug: "obadya"
+  "JON":
+    name: "요나"
+    slug: "yona"
+  "MIC":
+    name: "미가"
+    slug: "miga"
+  "NAM":
+    name: "나훔"
+    slug: "nahum"
+  "HAB":
+    name: "하박국"
+    slug: "habakguk"
+  "ZEP":
+    name: "스바냐"
+    slug: "seubanya"
+  "HAG":
+    name: "학개"
+    slug: "hakgae"
+  "ZEC":
+    name: "스가랴"
+    slug: "seugarya"
+  "MAL":
+    name: "말라기"
+    slug: "malragi"
+  "MAT":
+    name: "마태복음"
+    slug: "mataebokeum"
+  "MRK":
+    name: "마가복음"
+    slug: "magabokeum"
+  "LUK":
+    name: "누가복음"
+    slug: "nugabokeum"
+  "JHN":
+    name: "요한복음"
+    slug: "yohanbokeum"
+  "ACT":
+    name: "사도행전"
+    slug: "sadohaengjeon"
+  "ROM":
+    name: "로마서"
+    slug: "romaseo"
+  "1CO":
+    name: "고린도전서"
+    slug: "gorindojeonseo"
+  "2CO":
+    name: "고린도후서"
+    slug: "gorindohuseo"
+  "GAL":
+    name: "갈라디아서"
+    slug: "galradiaseo"
+  "EPH":
+    name: "에베소서"
+    slug: "ebesoseo"
+  "PHP":
+    name: "빌립보서"
+    slug: "bilripboseo"
+  "COL":
+    name: "골로새서"
+    slug: "golrosaeseo"
+  "1TH":
+    name: "데살로니가전서"
+    slug: "desalronigajeonseo"
+  "2TH":
+    name: "데살로니가후서"
+    slug: "desalronigahuseo"
+  "1TI":
+    name: "디모데전서"
+    slug: "dimodejeonseo"
+  "2TI":
+    name: "디모데후서"
+    slug: "dimodehuseo"
+  "TIT":
+    name: "디도서"
+    slug: "didoseo"
+  "PHM":
+    name: "빌레몬서"
+    slug: "bilremonseo"
+  "HEB":
+    name: "히브리서"
+    slug: "hibeuriseo"
+  "JAS":
+    name: "야고보서"
+    slug: "yagoboseo"
+  "1PE":
+    name: "베드로전서"
+    slug: "bedeurojeonseo"
+  "2PE":
+    name: "베드로후서"
+    slug: "bedeurohuseo"
+  "1JN":
+    name: "요한일서"
+    slug: "yohanilseo"
+  "2JN":
+    name: "요한이서"
+    slug: "yohaniseo"
+  "3JN":
+    name: "요한삼서"
+    slug: "yohansamseo"
+  "JUD":
+    name: "유다서"
+    slug: "yudaseo"
+  "REV":
+    name: "요한계시록"
+    slug: "yohangyesirok"

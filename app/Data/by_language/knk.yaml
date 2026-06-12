@@ -1,0 +1,266 @@
+language: "knk"
+books:
+  "GEN":
+    name: "Ko-Dabirɛnu"
+    slug: "ko-dabirnu"
+    name_toc: "Ko-Dabirɛnu"
+  "EXO":
+    name: "Bɔ-Koe-Iyipiti"
+    slug: "b-koe-iyipiti"
+    name_toc: "Bɔ-Koe-Iyipiti"
+  "LEV":
+    name: "Saraka-Masɔlɛnuta Tɔnnu"
+    slug: "saraka-maslnuta-tnnu"
+    name_toc: "Saraka-Masɔlɛnuta-Tɔnnu"
+  "NUM":
+    name: "Yilan-Yilan Koe"
+    slug: "yilan-yilan-koe"
+    name_toc: "Yilan-Yilan-Koe"
+  "DEU":
+    name: "Tɔn-Fɔɛ-Fila-Nyɔgɛ"
+    slug: "tn-f-fila-nyg"
+    name_toc: "Tɔn-Fɔɛ-Fila-Nyɔgɛ"
+  "JOS":
+    name: "Yasowa"
+    slug: "yasowa"
+    name_toc: "Yasowa"
+  "JDG":
+    name: "Kɛlɛ-Kurugbɛnu"
+    slug: "kl-kurugbnu"
+    name_toc: "Kɛlɛ-Kurugbɛnu"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Ruti"
+  "1SA":
+    name: "1 Samuwɛli"
+    slug: "1-samuwli"
+    name_toc: "Samuwɛli Fɔlɔtɛ"
+  "2SA":
+    name: "2 Samuwɛli"
+    slug: "2-samuwli"
+    name_toc: "Samuwɛli Fila Nyɔgɛ"
+  "1KI":
+    name: "1 Mansɛnu"
+    slug: "1-mansnu"
+    name_toc: "Isirɛla Mansɛnu Fɔlɔtɛ"
+  "2KI":
+    name: "2 Mansɛnu"
+    slug: "2-mansnu"
+    name_toc: "Isirɛla Mansɛnu Fila Nyɔgɛ"
+  "1CH":
+    name: "1 Ko-Kɔrɔta-Karan"
+    slug: "1-ko-krta-karan"
+    name_toc: "Ko-Kɔrɔta-Karan Fɔlɔtɛ"
+  "2CH":
+    name: "2 Ko-Kɔrɔta-Karan"
+    slug: "2-ko-krta-karan"
+    name_toc: "Ko-Kɔrɔta-Karan Fila Nyɔgɛ"
+  "EZR":
+    name: "Ɛsira"
+    slug: "sira"
+    name_toc: "Ɛsira"
+  "NEH":
+    name: "Nihɛmaya"
+    slug: "nihmaya"
+    name_toc: "Nihɛmaya"
+  "EST":
+    name: "Ɛsita"
+    slug: "sita"
+    name_toc: "Ɛsita"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Yobu"
+  "PSA":
+    name: "Yaburi"
+    slug: "yaburi"
+    name_toc: "Yaburinu"
+  "PRO":
+    name: "Hɛnkilimaya-Kumɛnu"
+    slug: "hnkilimaya-kumnu"
+    name_toc: "Hɛnkilimaya-Kumɛnu"
+  "ECC":
+    name: "Makawandili Kumɛnu"
+    slug: "makawandili-kumnu"
+    name_toc: "Makawandili Kɛ Kumɛnu"
+  "SNG":
+    name: "Keninteya-Siginu"
+    slug: "keninteya-siginu"
+    name_toc: "Keninteya-Siginu"
+  "ISA":
+    name: "Aiseya"
+    slug: "aiseya"
+    name_toc: "Aiseya"
+  "JER":
+    name: "Yɛrɛmaya"
+    slug: "yrmaya"
+    name_toc: "Yɛrɛmaya"
+  "LAM":
+    name: "Nimisa Koe"
+    slug: "nimisa-koe"
+    name_toc: "Nimisa-Koe"
+  "EZK":
+    name: "Isikiyɛli"
+    slug: "isikiyli"
+    name_toc: "Isikiyɛli"
+  "DAN":
+    name: "Daniyɛli"
+    slug: "daniyli"
+    name_toc: "Daniyɛli"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Hoseya"
+  "JOL":
+    name: "Yowɛli"
+    slug: "yowli"
+    name_toc: "Yowɛli"
+  "AMO":
+    name: "Emɔsi"
+    slug: "emsi"
+    name_toc: "Emɔsi"
+  "OBA":
+    name: "Hɔbadaya"
+    slug: "hbadaya"
+    name_toc: "Hɔbadaya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+    name_toc: "Maika"
+  "NAM":
+    name: "Nehami"
+    slug: "nehami"
+    name_toc: "Nehami"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Habakuku"
+  "ZEP":
+    name: "Sɛfanaya"
+    slug: "sfanaya"
+    name_toc: "Sɛfanaya"
+  "HAG":
+    name: "Hegayi"
+    slug: "hegayi"
+    name_toc: "Hegayi"
+  "ZEC":
+    name: "Sakaraya"
+    slug: "sakaraya"
+    name_toc: "Sakaraya"
+  "MAL":
+    name: "Malakayi"
+    slug: "malakayi"
+    name_toc: "Malakayi"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Matiyu"
+  "MRK":
+    name: "Maraka"
+    slug: "maraka"
+    name_toc: "Maraka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yɔni"
+    slug: "yni"
+    name_toc: "Yɔni"
+  "ACT":
+    name: "Kɛwɔlɛnu"
+    slug: "kwlnu"
+    name_toc: "Kilayɛnuta Kɛwɔlɛnu"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+    name_toc: "Romu Kɛnu"
+  "1CO":
+    name: "1 Kɔrɛnti"
+    slug: "1-krnti"
+    name_toc: "Kɔrɛnti Kɛnu Fɔlɔtɛ"
+  "2CO":
+    name: "2 Kɔrɛnti"
+    slug: "2-krnti"
+    name_toc: "Kɔrɛnti Kɛnu Fila Nyɔgɛ"
+  "GAL":
+    name: "Kalesiya"
+    slug: "kalesiya"
+    name_toc: "Kalesiya Kɛnu"
+  "EPH":
+    name: "Ɛfɛsa"
+    slug: "fsa"
+    name_toc: "Ɛfɛsa Kɛnu"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+    name_toc: "Filipai Kɛnu"
+  "COL":
+    name: "Kɔlɔsi"
+    slug: "klsi"
+    name_toc: "Kɔlɔsi Kɛnu"
+  "1TH":
+    name: "1 Tɛsalonaika"
+    slug: "1-tsalonaika"
+    name_toc: "Tɛsalonaika Kɛnu Fɔlɔtɛ"
+  "2TH":
+    name: "2 Tɛsalonaika"
+    slug: "2-tsalonaika"
+    name_toc: "Tɛsalonaika Kɛnu Fila Nyɔgɛ"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Timoti Fɔlɔtɛ"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Timoti Fila Nyɔgɛ"
+  "TIT":
+    name: "Taita"
+    slug: "taita"
+    name_toc: "Taita"
+  "PHM":
+    name: "Failiman"
+    slug: "failiman"
+    name_toc: "Failiman"
+  "HEB":
+    name: "Hiburunu"
+    slug: "hiburunu"
+    name_toc: "Hiburunu"
+  "JAS":
+    name: "Yemesi"
+    slug: "yemesi"
+    name_toc: "Yemesi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Pita Fɔlɔtɛ"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pita Fila Nyɔgɛ"
+  "1JN":
+    name: "1 Yɔni"
+    slug: "1-yni"
+    name_toc: "Yɔni Fɔlɔtɛ"
+  "2JN":
+    name: "2 Yɔni"
+    slug: "2-yni"
+    name_toc: "Yɔni Fila Nyɔgɛ"
+  "3JN":
+    name: "3 Yɔni"
+    slug: "3-yni"
+    name_toc: "Yɔni Sawa Nyɔgɛ"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+    name_toc: "Yude"
+  "REV":
+    name: "Lankɛnimayɛ"
+    slug: "lanknimay"
+    name_toc: "Lankɛnimayɛ"

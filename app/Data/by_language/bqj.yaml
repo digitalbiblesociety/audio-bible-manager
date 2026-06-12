@@ -1,0 +1,92 @@
+language: "bqj"
+books:
+  "GEN":
+    name: "Fíĉilum"
+    slug: "ficilum"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Sonas"
+    slug: "sonas"
+  "MAT":
+    name: "Macie"
+    slug: "macie"
+  "MRK":
+    name: "Maruk"
+    slug: "maruk"
+  "LUK":
+    name: "Lik"
+    slug: "lik"
+  "JHN":
+    name: "Saaŋ"
+    slug: "saan"
+  "ACT":
+    name: "Mukanay"
+    slug: "mukanay"
+  "ROM":
+    name: "Bugaa Rom"
+    slug: "bugaa-rom"
+  "1CO":
+    name: "1 Bugaa Korent"
+    slug: "1-bugaa-korent"
+  "2CO":
+    name: "2 Bugaa Korent"
+    slug: "2-bugaa-korent"
+  "GAL":
+    name: "Bugaa Galasi"
+    slug: "bugaa-galasi"
+  "EPH":
+    name: "Bugal Efes"
+    slug: "bugal-efes"
+  "PHP":
+    name: "Bugaa Filip"
+    slug: "bugaa-filip"
+  "COL":
+    name: "Bugaa Kolos"
+    slug: "bugaa-kolos"
+  "1TH":
+    name: "1 Bugaa Tesalonik"
+    slug: "1-bugaa-tesalonik"
+  "2TH":
+    name: "2 Bugaa Tesalonik"
+    slug: "2-bugaa-tesalonik"
+  "1TI":
+    name: "1 Timonte"
+    slug: "1-timonte"
+  "2TI":
+    name: "2 Timonte"
+    slug: "2-timonte"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Hibori"
+    slug: "hibori"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Ᵽier"
+    slug: "1-ier"
+  "2PE":
+    name: "2 Ᵽier"
+    slug: "2-ier"
+  "1JN":
+    name: "1 Saaŋ"
+    slug: "1-saan"
+  "2JN":
+    name: "2 Saaŋ"
+    slug: "2-saan"
+  "3JN":
+    name: "3 Saaŋ"
+    slug: "3-saan"
+  "JUD":
+    name: "Sid"
+    slug: "sid"
+  "REV":
+    name: "Bagitener"
+    slug: "bagitener"

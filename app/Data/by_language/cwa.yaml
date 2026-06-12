@@ -1,0 +1,83 @@
+language: "cwa"
+books:
+  "MAT":
+    name: "Mataayo"
+    slug: "mataayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Ruuka"
+    slug: "ruuka"
+  "JHN":
+    name: "Yoana"
+    slug: "yoana"
+  "ACT":
+    name: "Amakorwa ga Abhatumwa"
+    slug: "amakorwa-ga-abhatumwa"
+  "ROM":
+    name: "Abharuumi"
+    slug: "abharuumi"
+  "1CO":
+    name: "1 Abhakorinto"
+    slug: "1-abhakorinto"
+  "2CO":
+    name: "2 Abhakorinto"
+    slug: "2-abhakorinto"
+  "GAL":
+    name: "Abhagaratia"
+    slug: "abhagaratia"
+  "EPH":
+    name: "Abhaefeso"
+    slug: "abhaefeso"
+  "PHP":
+    name: "Abhafiripi"
+    slug: "abhafiripi"
+  "COL":
+    name: "Abhakorosai"
+    slug: "abhakorosai"
+  "1TH":
+    name: "1 Abhatesaronike"
+    slug: "1-abhatesaronike"
+  "2TH":
+    name: "2 Abhatesaronike"
+    slug: "2-abhatesaronike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Firimoni"
+    slug: "firimoni"
+  "HEB":
+    name: "Abhaebhurania"
+    slug: "abhaebhurania"
+  "JAS":
+    name: "Yakobho"
+    slug: "yakobho"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yoana"
+    slug: "1-yoana"
+  "2JN":
+    name: "2 Yoana"
+    slug: "2-yoana"
+  "3JN":
+    name: "3 Yoana"
+    slug: "3-yoana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Obhukundukuri bhwa Yoana"
+    slug: "obhukundukuri-bhwa-yoana"

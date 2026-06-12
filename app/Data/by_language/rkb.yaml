@@ -1,0 +1,83 @@
+language: "rkb"
+books:
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Marakos"
+    slug: "marakos"
+  "LUK":
+    name: "Rukas"
+    slug: "rukas"
+  "JHN":
+    name: "Suão"
+    slug: "suao"
+  "ACT":
+    name: "Atos"
+    slug: "atos"
+  "ROM":
+    name: "Homanos"
+    slug: "homanos"
+  "1CO":
+    name: "1 Korĩtios"
+    slug: "1-koritios"
+  "2CO":
+    name: "2 Korĩtios"
+    slug: "2-koritios"
+  "GAL":
+    name: "Karatas"
+    slug: "karatas"
+  "EPH":
+    name: "Epesios"
+    slug: "epesios"
+  "PHP":
+    name: "Piripẽses"
+    slug: "piripeses"
+  "COL":
+    name: "Korosẽses"
+    slug: "koroseses"
+  "1TH":
+    name: "1 Tesaronisẽses"
+    slug: "1-tesaroniseses"
+  "2TH":
+    name: "2 Tesaronisẽses"
+    slug: "2-tesaroniseses"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Piremo"
+    slug: "piremo"
+  "HEB":
+    name: "Ebereus"
+    slug: "ebereus"
+  "JAS":
+    name: "Tsiaku"
+    slug: "tsiaku"
+  "1PE":
+    name: "1 Peduru"
+    slug: "1-peduru"
+  "2PE":
+    name: "2 Peduru"
+    slug: "2-peduru"
+  "1JN":
+    name: "1 Suão"
+    slug: "1-suao"
+  "2JN":
+    name: "2 Suão"
+    slug: "2-suao"
+  "3JN":
+    name: "3 Suão"
+    slug: "3-suao"
+  "JUD":
+    name: "Sudas"
+    slug: "sudas"
+  "REV":
+    name: "Apokaripisi"
+    slug: "apokaripisi"

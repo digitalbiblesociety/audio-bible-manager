@@ -1,0 +1,200 @@
+language: "ukr"
+books:
+  "GEN":
+    name: "Буття"
+    slug: "butta"
+  "EXO":
+    name: "Вихід"
+    slug: "vihid"
+  "LEV":
+    name: "Левіти"
+    slug: "leviti"
+  "NUM":
+    name: "Числа"
+    slug: "cisla"
+  "DEU":
+    name: "Второзаконня"
+    slug: "vtorozakonna"
+  "JOS":
+    name: "Книга Ісуса Навина"
+    slug: "kniga-isusa-navina"
+  "JDG":
+    name: "Книга Суддів"
+    slug: "kniga-suddiv"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1 Самуїла"
+    slug: "1-samuila"
+  "2SA":
+    name: "2 Самуїла"
+    slug: "2-samuila"
+  "1KI":
+    name: "1 Царів"
+    slug: "1-cariv"
+  "2KI":
+    name: "2 Царів"
+    slug: "2-cariv"
+  "1CH":
+    name: "1 Хронік"
+    slug: "1-hronik"
+  "2CH":
+    name: "2 Хронік"
+    slug: "2-hronik"
+  "EZR":
+    name: "Ездри"
+    slug: "ezdri"
+  "NEH":
+    name: "Неємії"
+    slug: "neemii"
+  "EST":
+    name: "Естер"
+    slug: "ester"
+  "JOB":
+    name: "Йова"
+    slug: "jova"
+  "PSA":
+    name: "Псалми"
+    slug: "psalmi"
+  "PRO":
+    name: "Притчі"
+    slug: "pritci"
+  "ECC":
+    name: "Еклезіаста"
+    slug: "ekleziasta"
+  "SNG":
+    name: "Пісня Пісень"
+    slug: "pisna-pisen"
+  "ISA":
+    name: "Ісаї"
+    slug: "isai"
+  "JER":
+    name: "Єремії"
+    slug: "eremii"
+  "LAM":
+    name: "Плач Єремії"
+    slug: "plac-eremii"
+  "EZK":
+    name: "Єзекіїля"
+    slug: "ezekiila"
+  "DAN":
+    name: "Даниїла"
+    slug: "daniila"
+  "HOS":
+    name: "Осії"
+    slug: "osii"
+  "JOL":
+    name: "Йоіла"
+    slug: "joila"
+  "AMO":
+    name: "Амоса"
+    slug: "amosa"
+  "OBA":
+    name: "Авдія"
+    slug: "avdia"
+  "JON":
+    name: "Йони"
+    slug: "joni"
+  "MIC":
+    name: "Міхея"
+    slug: "mihea"
+  "NAM":
+    name: "Наума"
+    slug: "nauma"
+  "HAB":
+    name: "Аввакума"
+    slug: "avvakuma"
+  "ZEP":
+    name: "Софонії"
+    slug: "sofonii"
+  "HAG":
+    name: "Аггея"
+    slug: "aggea"
+  "ZEC":
+    name: "Захарії"
+    slug: "zaharii"
+  "MAL":
+    name: "Малахії"
+    slug: "malahii"
+  "MAT":
+    name: "Матвія"
+    slug: "matvia"
+  "MRK":
+    name: "Марка"
+    slug: "marka"
+  "LUK":
+    name: "Луки"
+    slug: "luki"
+  "JHN":
+    name: "Івана"
+    slug: "ivana"
+  "ACT":
+    name: "Дії"
+    slug: "dii"
+  "ROM":
+    name: "Римлян"
+    slug: "rimlan"
+  "1CO":
+    name: "1 Коринтян"
+    slug: "1-korintan"
+  "2CO":
+    name: "2 Коринтян"
+    slug: "2-korintan"
+  "GAL":
+    name: "Галатів"
+    slug: "galativ"
+  "EPH":
+    name: "Ефесян"
+    slug: "efesan"
+  "PHP":
+    name: "Филип’ян"
+    slug: "filipan"
+  "COL":
+    name: "Колосян"
+    slug: "kolosan"
+  "1TH":
+    name: "1 Солунян"
+    slug: "1-solunan"
+  "2TH":
+    name: "2 Солунян"
+    slug: "2-solunan"
+  "1TI":
+    name: "1 Тимофія"
+    slug: "1-timofia"
+  "2TI":
+    name: "2 Тимофія"
+    slug: "2-timofia"
+  "TIT":
+    name: "Тита"
+    slug: "tita"
+  "PHM":
+    name: "Филимона"
+    slug: "filimona"
+  "HEB":
+    name: "Євреїв"
+    slug: "evreiv"
+  "JAS":
+    name: "Якова"
+    slug: "akova"
+  "1PE":
+    name: "1 Петра"
+    slug: "1-petra"
+  "2PE":
+    name: "2 Петра"
+    slug: "2-petra"
+  "1JN":
+    name: "1 Івана"
+    slug: "1-ivana"
+  "2JN":
+    name: "2 Івана"
+    slug: "2-ivana"
+  "3JN":
+    name: "3 Івана"
+    slug: "3-ivana"
+  "JUD":
+    name: "Юди"
+    slug: "udi"
+  "REV":
+    name: "Об’явлення"
+    slug: "obavlenna"

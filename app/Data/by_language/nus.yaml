@@ -1,0 +1,266 @@
+language: "nus"
+books:
+  "GEN":
+    name: "Tuk"
+    slug: "tuk"
+    name_toc: "Tuk Cäkä Ɣɔaa"
+  "EXO":
+    name: "Ɣöth"
+    slug: "oth"
+    name_toc: "Ɣöth ji̱ I-thɛ-rɛl"
+  "LEV":
+    name: "Liib"
+    slug: "liib"
+    name_toc: "Bok Ciɛŋni Palä ji̱ Lii-bay"
+  "NUM":
+    name: "Kuen"
+    slug: "kuen"
+    name_toc: "Bok Kuenä ji̱ I-thɛ-rɛl"
+  "DEU":
+    name: "Ŋuɔ̱t"
+    slug: "ut"
+    name_toc: "Nyɔak Latä Ŋuɔ̱tni"
+  "JOS":
+    name: "Jɔc"
+    slug: "jc"
+    name_toc: "Jɔ-cua"
+  "JDG":
+    name: "Ruëëc"
+    slug: "rueec"
+    name_toc: "Warɛgak kɛ kui̱ Ruëëcni"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Ruth"
+  "1SA":
+    name: "1 Tham"
+    slug: "1-tham"
+    name_toc: "Bok Mi Cɔal I̱ Tha-muɛl in Nhiam"
+  "2SA":
+    name: "2 Tham"
+    slug: "2-tham"
+    name_toc: "Bok Mi Cɔal I̱ Tha-muɛl in Rɛwdɛ"
+  "1KI":
+    name: "1 Kua̱r"
+    slug: "1-kuar"
+    name_toc: "Bok kɛ kui̱ Kua̱ri in Nhiam"
+  "2KI":
+    name: "2 Kua̱r"
+    slug: "2-kuar"
+    name_toc: "Bok kɛ kui̱ Kua̱ri in Rɛwdɛ"
+  "1CH":
+    name: "1 Kuɛ̈n"
+    slug: "1-kun"
+    name_toc: "Bok Kuɛ̈ɛ̈ni in Nhiam"
+  "2CH":
+    name: "2 Kuɛ̈n"
+    slug: "2-kun"
+    name_toc: "Bok Kuɛ̈ɛ̈ni in Rɛwdɛ"
+  "EZR":
+    name: "Ɛdh"
+    slug: "dh"
+    name_toc: "Ɛdhra"
+  "NEH":
+    name: "Nɛm"
+    slug: "nm"
+    name_toc: "Nɛ-ɣɛm-yaa"
+  "EST":
+    name: "Ɛth"
+    slug: "th"
+    name_toc: "Ɛth-ter"
+  "JOB":
+    name: "I-yob"
+    slug: "i-yob"
+    name_toc: "I-yob"
+  "PSA":
+    name: "Diit"
+    slug: "diit"
+    name_toc: "Diit Puɔnyä kɛnɛ Pal"
+  "PRO":
+    name: "Pɛl"
+    slug: "pl"
+    name_toc: "Ruac Pɛli"
+  "ECC":
+    name: "Ŋi̱i̱c"
+    slug: "iic"
+    name_toc: "Ŋi̱i̱cä"
+  "SNG":
+    name: "Thɔl"
+    slug: "thl"
+    name_toc: "Dit Thɔ-lo-mon"
+  "ISA":
+    name: "I-ca-yaa"
+    slug: "i-ca-yaa"
+    name_toc: "Bok Go̱kä ni I-ca-yaa"
+  "JER":
+    name: "Yir"
+    slug: "yir"
+    name_toc: "Bok Go̱kä ni Yir-mɛ-yaa"
+  "LAM":
+    name: "Jiɛth"
+    slug: "jith"
+    name_toc: "Lat Jiɛthkä Lɔaac"
+  "EZK":
+    name: "Yɛdh"
+    slug: "ydh"
+    name_toc: "Bok Go̱kä ni Yɛdh-ki-el"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Bok Go̱kä ni Da-ni-yel"
+  "HOS":
+    name: "Ɣocä"
+    slug: "oca"
+    name_toc: "Bok Go̱kä ni Ɣocä"
+  "JOL":
+    name: "Yo-el"
+    slug: "yo-el"
+    name_toc: "Bok Go̱kä ni Yo-el"
+  "AMO":
+    name: "A-mɔth"
+    slug: "a-mth"
+    name_toc: "Bok Go̱kä ni A-mɔth"
+  "OBA":
+    name: "Obad"
+    slug: "obad"
+    name_toc: "Bok Go̱kä ni O-bad-yaa"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Bok Go̱kä ni Jona"
+  "MIC":
+    name: "Mikaa"
+    slug: "mikaa"
+    name_toc: "Bok Go̱kä ni Mikaa"
+  "NAM":
+    name: "Nɛ̈m"
+    slug: "nm"
+    name_toc: "Bok Go̱kä ni Nɛ̈-ɣum"
+  "HAB":
+    name: "Ɣäb"
+    slug: "ab"
+    name_toc: "Bok Go̱kä ni Ɣä-bɛ̈-kuk"
+  "ZEP":
+    name: "Dhɛp"
+    slug: "dhp"
+    name_toc: "Bok Go̱kä ni Dhɛ-pɛ̈n-yaa"
+  "HAG":
+    name: "Ɣag"
+    slug: "ag"
+    name_toc: "Bok Go̱kä ni Ɣa-gay"
+  "ZEC":
+    name: "Dhɛk"
+    slug: "dhk"
+    name_toc: "Bok Go̱kä ni Dhɛ-kar-yaa"
+  "MAL":
+    name: "Mɛ̈l"
+    slug: "ml"
+    name_toc: "Bok Go̱kä ni Mɛ̈l-a-ki"
+  "MAT":
+    name: "Mɛ̈t"
+    slug: "mt"
+    name_toc: "Mɛ̈-thiw"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Luk"
+  "JHN":
+    name: "Jɔ̱ɔ̱n"
+    slug: "jn"
+    name_toc: "Jɔ̱ɔ̱n"
+  "ACT":
+    name: "Lät"
+    slug: "lat"
+    name_toc: "Lät Jaakni Yecu"
+  "ROM":
+    name: "Röm"
+    slug: "rom"
+    name_toc: "Ji̱ Röm"
+  "1CO":
+    name: "1 Kor"
+    slug: "1-kor"
+    name_toc: "1 Ji̱ Ko-rinth"
+  "2CO":
+    name: "2 Kor"
+    slug: "2-kor"
+    name_toc: "2 Ji̱ Ko-rinth"
+  "GAL":
+    name: "Gäl"
+    slug: "gal"
+    name_toc: "Ji̱ Gä-lëë-cia"
+  "EPH":
+    name: "Ɛpɛ"
+    slug: "p"
+    name_toc: "Ji̱ Ɛ-pɛ-thäth"
+  "PHP":
+    name: "Pil"
+    slug: "pil"
+    name_toc: "Ji̱ Pi-li-pi"
+  "COL":
+    name: "Kol"
+    slug: "kol"
+    name_toc: "Ji̱ Ko-lɔ-thi"
+  "1TH":
+    name: "1 Thɛ"
+    slug: "1-th"
+    name_toc: "1 Ji̱ Thɛ-tha-lo-ni-ka"
+  "2TH":
+    name: "2 Thɛ"
+    slug: "2-th"
+    name_toc: "2 Ji̱ Thɛ-tha-lo-ni-ka"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "1 Ti-mo-thi"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "2 Ti-mo-thi"
+  "TIT":
+    name: "Tay"
+    slug: "tay"
+    name_toc: "Tay-täth"
+  "PHM":
+    name: "Pay"
+    slug: "pay"
+    name_toc: "Pay-le-mon"
+  "HEB":
+    name: "Ɣib"
+    slug: "ib"
+    name_toc: "Ji̱ Ɣi-bɛ-ru"
+  "JAS":
+    name: "Jem"
+    slug: "jem"
+    name_toc: "Je-mɛth"
+  "1PE":
+    name: "1 Pit"
+    slug: "1-pit"
+    name_toc: "1 Pi-tɔr"
+  "2PE":
+    name: "2 Pit"
+    slug: "2-pit"
+    name_toc: "2 Pi-tɔr"
+  "1JN":
+    name: "1 Jɔ̱ɔ̱n"
+    slug: "1-jn"
+    name_toc: "1 Jɔ̱ɔ̱n"
+  "2JN":
+    name: "2 Jɔ̱ɔ̱n"
+    slug: "2-jn"
+    name_toc: "2 Jɔ̱ɔ̱n"
+  "3JN":
+    name: "3 Jɔ̱ɔ̱n"
+    slug: "3-jn"
+    name_toc: "3 Jɔ̱ɔ̱n"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+    name_toc: "Juud"
+  "REV":
+    name: "Nyuuth"
+    slug: "nyuuth"
+    name_toc: "Nyuuth Jɔ̱ɔ̱n"

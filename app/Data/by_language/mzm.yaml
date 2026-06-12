@@ -1,0 +1,110 @@
+language: "mzm"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Labeenang Matiyu"
+  "MRK":
+    name: "Maraku"
+    slug: "maraku"
+    name_toc: "Labeenang Maraku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Labeenang Luka"
+  "JHN":
+    name: "Yɔhana"
+    slug: "yhana"
+    name_toc: "Labeenang Yɔhana"
+  "ACT":
+    name: "Zang Shonang Yeesɔ"
+    slug: "zang-shonang-yees"
+    name_toc: "Vuu ɓɔɔ rɛɛ zang shoonang Yeesɔ ri palɛ ɓɛɛ"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe zang tipi Rooma ɓɛɛ"
+  "1CO":
+    name: "1 Koranti"
+    slug: "1-koranti"
+    name_toc: "Labeenang tìng shɔɔnang ɓɔɔ Bulu bèe zang tipi Koranti ɓɛɛ"
+  "2CO":
+    name: "2 Koranti"
+    slug: "2-koranti"
+    name_toc: "Labeenang doo knti ɓɔɔ Bulu bèe zang tipi Koranti ɓɛɛ"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe zang tipi Galati ɓɛɛ"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe zang tipi Afisa ɓɛɛ"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe zang Laa ɓɔɔ ri ka tipi Filipi ɓɛɛ"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe zang tipi Kolosi ɓɛɛ"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Labeenang tìng shɔɔnang ɓɔɔ Bulu bèe zang tipi Tesalonika ɓɛɛ"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Labeenang doo knti ɓɔɔ Bulu bèe zang tipi Tesalonika ɓɛɛ"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Labeenang ting shɔɔnang ɓɔɔ Bulu bèe Timoti ɓɛɛ"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Labeenang doo knti ɓɔɔ Bulu bèe Timoti ɓɛɛ"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe Titu ɓɛɛ"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Labeenang ɓɔɔ Bulu bèe Filimon ɓɛɛ"
+  "HEB":
+    name: "Yahudi"
+    slug: "yahudi"
+    name_toc: "Labeenang ɓɔɔ zang bèe zang Yahudi ɓɛɛ"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+    name_toc: "Labeenang ɓɔɔ Yakubu bèe ɓɛɛ"
+  "1PE":
+    name: "1 Bituru"
+    slug: "1-bituru"
+    name_toc: "Labeenang ting shɔɔnang ɓɔɔ Bituru bèe ɓɛɛ"
+  "2PE":
+    name: "2 Bituru"
+    slug: "2-bituru"
+    name_toc: "Labeenang doo knti ɓɔɔ Bituru bèe ɓɛɛ"
+  "1JN":
+    name: "1 Yɔhana"
+    slug: "1-yhana"
+    name_toc: "Labeenang ting shɔɔnang ɓɔɔ Yɔhana bèe ɓɛɛ"
+  "2JN":
+    name: "2 Yɔhana"
+    slug: "2-yhana"
+    name_toc: "Labeenang doo knti ɓɔɔ Yɔhana bèe ɓɛɛ"
+  "3JN":
+    name: "3 Yɔhana"
+    slug: "3-yhana"
+    name_toc: "Labeenang ɓɔɔ Yɔhana bèe ka knti ɓɔɔ doo knti ɓɛɛ"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+    name_toc: "Labeenang ɓɔɔ Yahuza bèe ɓɛɛ"
+  "REV":
+    name: "Vuu ɓɔɔ zang nwangsɛ Yɔhana"
+    slug: "vuu-zang-nwangs-yhana"
+    name_toc: "Labeenang vuu ɓɔɔ zang nwangsɛ Yɔhana ɓɛɛ"

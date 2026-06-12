@@ -1,0 +1,50 @@
+language: "gle"
+books:
+  "1SA":
+    name: "I Samuel"
+    slug: "i-samuel"
+  "2SA":
+    name: "II Samuel"
+    slug: "ii-samuel"
+  "1KI":
+    name: "I Riogh"
+    slug: "i-riogh"
+  "2KI":
+    name: "II Riogh"
+    slug: "ii-riogh"
+  "1CH":
+    name: "I Croinicoibh"
+    slug: "i-croinicoibh"
+  "2CH":
+    name: "II Croiniclibh"
+    slug: "ii-croiniclibh"
+  "1CO":
+    name: "I Ccorintiánach"
+    slug: "i-ccorintianach"
+  "2CO":
+    name: "II Ccorintiánach"
+    slug: "ii-ccorintianach"
+  "1TH":
+    name: "I Ttessalonicanach"
+    slug: "i-ttessalonicanach"
+  "2TH":
+    name: "II Ttessalonicanach"
+    slug: "ii-ttessalonicanach"
+  "1TI":
+    name: "I Timóteuis"
+    slug: "i-timoteuis"
+  "2TI":
+    name: "II Timóteuis"
+    slug: "ii-timoteuis"
+  "1PE":
+    name: "II Pheadair"
+    slug: "ii-pheadair"
+  "2PE":
+    name: "II Pheadair"
+    slug: "ii-pheadair"
+  "1JN":
+    name: "I Eóin"
+    slug: "i-eoin"
+  "2JN":
+    name: "II Eóin"
+    slug: "ii-eoin"

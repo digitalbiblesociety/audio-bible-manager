@@ -1,0 +1,200 @@
+language: "bbc"
+books:
+  "GEN":
+    name: "1 Musa"
+    slug: "1-musa"
+  "EXO":
+    name: "2 Musa"
+    slug: "2-musa"
+  "LEV":
+    name: "3 Musa"
+    slug: "3-musa"
+  "NUM":
+    name: "4 Musa"
+    slug: "4-musa"
+  "DEU":
+    name: "5 Musa"
+    slug: "5-musa"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Panguhum"
+    slug: "panguhum"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Rajaraja"
+    slug: "1-rajaraja"
+  "2KI":
+    name: "2 Rajaraja"
+    slug: "2-rajaraja"
+  "1CH":
+    name: "1 Kronika"
+    slug: "1-kronika"
+  "2CH":
+    name: "2 Kronika"
+    slug: "2-kronika"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalmen"
+    slug: "psalmen"
+  "PRO":
+    name: "Poda Sian Raja Salomo"
+    slug: "poda-sian-raja-salomo"
+  "ECC":
+    name: "Parjamita Sian Si Salomo"
+    slug: "parjamita-sian-si-salomo"
+  "SNG":
+    name: "Ende Ni Angka Ende Sian Si Salomo"
+    slug: "ende-ni-angka-ende-sian-si-salomo"
+  "ISA":
+    name: "Panurirang Jesaya"
+    slug: "panurirang-jesaya"
+  "JER":
+    name: "Panurirang Jeremia"
+    slug: "panurirang-jeremia"
+  "LAM":
+    name: "Ende Andung Sian Panurirang Jeremia"
+    slug: "ende-andung-sian-panurirang-jeremia"
+  "EZK":
+    name: "Panurirang Hesekiel"
+    slug: "panurirang-hesekiel"
+  "DAN":
+    name: "Panurirang Daniel"
+    slug: "panurirang-daniel"
+  "HOS":
+    name: "Panurirang Hosea"
+    slug: "panurirang-hosea"
+  "JOL":
+    name: "Panurirang Joel"
+    slug: "panurirang-joel"
+  "AMO":
+    name: "Panurirang Amos"
+    slug: "panurirang-amos"
+  "OBA":
+    name: "Panurirang Obaja"
+    slug: "panurirang-obaja"
+  "JON":
+    name: "Panurirang Jona"
+    slug: "panurirang-jona"
+  "MIC":
+    name: "Panurirang Mika"
+    slug: "panurirang-mika"
+  "NAM":
+    name: "Panurirang Nahum"
+    slug: "panurirang-nahum"
+  "HAB":
+    name: "Panurirang Habakuk"
+    slug: "panurirang-habakuk"
+  "ZEP":
+    name: "Panurirang Sepania"
+    slug: "panurirang-sepania"
+  "HAG":
+    name: "Panurirang Haggai"
+    slug: "panurirang-haggai"
+  "ZEC":
+    name: "Panurirang Sakaria"
+    slug: "panurirang-sakaria"
+  "MAL":
+    name: "Panurirang Maleaki"
+    slug: "panurirang-maleaki"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Ulaon Ni Apostel"
+    slug: "ulaon-ni-apostel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilippi"
+    slug: "pilippi"
+  "COL":
+    name: "Kolosse"
+    slug: "kolosse"
+  "1TH":
+    name: "1 Tessalonik"
+    slug: "1-tessalonik"
+  "2TH":
+    name: "2 Tessalonik"
+    slug: "2-tessalonik"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Heber"
+    slug: "heber"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2 Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3 Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Pangungkapon"
+    slug: "pangungkapon"

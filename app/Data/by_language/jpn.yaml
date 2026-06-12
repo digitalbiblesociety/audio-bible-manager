@@ -1,0 +1,83 @@
+language: "jpn"
+books:
+  "MAT":
+    name: "マタイの福音書"
+    slug: "matainofukuinsho"
+  "MRK":
+    name: "マルコの福音書"
+    slug: "marukonofukuinsho"
+  "LUK":
+    name: "ルカの福音書"
+    slug: "rukanofukuinsho"
+  "JHN":
+    name: "ヨハネの福音書"
+    slug: "yohanenofukuinsho"
+  "ACT":
+    name: "使徒の働き"
+    slug: "shitonohataraki"
+  "ROM":
+    name: "ローマ人への手紙"
+    slug: "romajinhenotegami"
+  "1CO":
+    name: "コリント人への手紙第一"
+    slug: "korintojinhenotegamidaiichi"
+  "2CO":
+    name: "コリント人への手紙第二"
+    slug: "korintojinhenotegamidaini"
+  "GAL":
+    name: "ガラテヤ人への手紙"
+    slug: "garateyajinhenotegami"
+  "EPH":
+    name: "エペソ人への手紙"
+    slug: "epesojinhenotegami"
+  "PHP":
+    name: "ピリピ人への手紙"
+    slug: "piripijinhenotegami"
+  "COL":
+    name: "コロサイ人への手紙"
+    slug: "korosaijinhenotegami"
+  "1TH":
+    name: "テサロニケ人への手紙第一"
+    slug: "tesaronikejinhenotegamidaiichi"
+  "2TH":
+    name: "テサロニケ人への手紙第二"
+    slug: "tesaronikejinhenotegamidaini"
+  "1TI":
+    name: "テモテへの手紙第一"
+    slug: "temotehenotegamidaiichi"
+  "2TI":
+    name: "テモテへの手紙第二"
+    slug: "temotehenotegamidaini"
+  "TIT":
+    name: "テトスへの手紙"
+    slug: "tetosuhenotegami"
+  "PHM":
+    name: "ピレモンへの手紙"
+    slug: "piremonhenotegami"
+  "HEB":
+    name: "ヘブル人への手紙"
+    slug: "heburujinhenotegami"
+  "JAS":
+    name: "ヤコブの手紙"
+    slug: "yakobunotegami"
+  "1PE":
+    name: "ペテロの手紙第一"
+    slug: "peteronotegamidaiichi"
+  "2PE":
+    name: "ペテロの手紙第二"
+    slug: "peteronotegamidaini"
+  "1JN":
+    name: "ヨハネの手紙第一"
+    slug: "yohanenotegamidaiichi"
+  "2JN":
+    name: "ヨハネの手紙第二"
+    slug: "yohanenotegamidaini"
+  "3JN":
+    name: "ヨハネの手紙第三"
+    slug: "yohanenotegamidaisan"
+  "JUD":
+    name: "ユダの手紙"
+    slug: "yudanotegami"
+  "REV":
+    name: "ヨハネの黙示録"
+    slug: "yohanenomokushiroku"

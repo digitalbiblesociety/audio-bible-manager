@@ -1,0 +1,5 @@
+language: "tpx"
+books:
+  "JON":
+    name: "Jonáa"
+    slug: "jonaa"

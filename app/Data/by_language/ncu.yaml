@@ -1,0 +1,83 @@
+language: "ncu"
+books:
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanee"
+    slug: "yohanee"
+  "ACT":
+    name: "Ayaa‑rɔ aye̱re̱po̱‑ɔ asuŋ"
+    slug: "ayaar-ayerepo-asun"
+  "ROM":
+    name: "Roma awuye"
+    slug: "roma-awuye"
+  "1CO":
+    name: "1 Korintoo awuye"
+    slug: "1-korintoo-awuye"
+  "2CO":
+    name: "2 Korintoo awuye"
+    slug: "2-korintoo-awuye"
+  "GAL":
+    name: "Galatiya awuye"
+    slug: "galatiya-awuye"
+  "EPH":
+    name: "Ifisus awuye"
+    slug: "ifisus-awuye"
+  "PHP":
+    name: "Filipii awuye"
+    slug: "filipii-awuye"
+  "COL":
+    name: "Kolosii awuye"
+    slug: "kolosii-awuye"
+  "1TH":
+    name: "1 Tisalonikaa awuye"
+    slug: "1-tisalonikaa-awuye"
+  "2TH":
+    name: "2 Tisalonikaa awuye"
+    slug: "2-tisalonikaa-awuye"
+  "1TI":
+    name: "1 Timotii"
+    slug: "1-timotii"
+  "2TI":
+    name: "2 Timotii"
+    slug: "2-timotii"
+  "TIT":
+    name: "Tiitus"
+    slug: "tiitus"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filemn"
+  "HEB":
+    name: "Heebrii awuye"
+    slug: "heebrii-awuye"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Peetroo"
+    slug: "1-peetroo"
+  "2PE":
+    name: "2 Peetroo"
+    slug: "2-peetroo"
+  "1JN":
+    name: "1 Yohanee"
+    slug: "1-yohanee"
+  "2JN":
+    name: "2 Yohanee"
+    slug: "2-yohanee"
+  "3JN":
+    name: "3 Yohanee"
+    slug: "3-yohanee"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Aleebo̱kaapo̱tɔ"
+    slug: "aleebokaapot"

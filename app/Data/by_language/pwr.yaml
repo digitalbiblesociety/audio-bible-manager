@@ -1,0 +1,83 @@
+language: "pwr"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "योहन"
+    slug: "yohana"
+  "ACT":
+    name: "पेरीत"
+    slug: "perita"
+  "ROM":
+    name: "रोमियो"
+    slug: "romiyo"
+  "1CO":
+    name: "1 कुरिन्थियो"
+    slug: "1-kurinthiyo"
+  "2CO":
+    name: "2 कुरिन्थियो"
+    slug: "2-kurinthiyo"
+  "GAL":
+    name: "गलातियो"
+    slug: "galatiyo"
+  "EPH":
+    name: "इफिसियो"
+    slug: "iphisiyo"
+  "PHP":
+    name: "फिलिप्पियो"
+    slug: "philippiyo"
+  "COL":
+    name: "कुलुस्सियो"
+    slug: "kulussiyo"
+  "1TH":
+    name: "1 थिस्सलुनीकियो"
+    slug: "1-thissalunikiyo"
+  "2TH":
+    name: "2 थिस्सलुनीकियो"
+    slug: "2-thissalunikiyo"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "इब्रानियो"
+    slug: "ibraniyo"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+  "1JN":
+    name: "1 योहन"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 योहन"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 योहन"
+    slug: "3-yohana"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "परकासित वाक्य"
+    slug: "parakasita-vakya"

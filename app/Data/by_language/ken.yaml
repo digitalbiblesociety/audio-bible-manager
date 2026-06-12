@@ -1,0 +1,83 @@
+language: "ken"
+books:
+  "MAT":
+    name: "Mátio"
+    slug: "matio"
+  "MRK":
+    name: "Mák"
+    slug: "mak"
+  "LUK":
+    name: "Lúkas"
+    slug: "lukas"
+  "JHN":
+    name: "Jɔ̌n"
+    slug: "jn"
+  "ACT":
+    name: "Bɛtɨk"
+    slug: "btik"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Kɔrint"
+    slug: "1-krint"
+  "2CO":
+    name: "2 Kɔrint"
+    slug: "2-krint"
+  "GAL":
+    name: "Galéshia"
+    slug: "galeshia"
+  "EPH":
+    name: "Ɛfɛsɔs"
+    slug: "fss"
+  "PHP":
+    name: "Fílipi"
+    slug: "filipi"
+  "COL":
+    name: "Kɔlɔse"
+    slug: "klse"
+  "1TH":
+    name: "1 Tɛsalónika"
+    slug: "1-tsalonika"
+  "2TH":
+    name: "2 Tɛsalónika"
+    slug: "2-tsalonika"
+  "1TI":
+    name: "1 Timɔti"
+    slug: "1-timti"
+  "2TI":
+    name: "2 Timɔti"
+    slug: "2-timti"
+  "TIT":
+    name: "Táytɔs"
+    slug: "tayts"
+  "PHM":
+    name: "Filɛmɔn"
+    slug: "filmn"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Píta"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Píta"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jɔ̌n"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔ̌n"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔ̌n"
+    slug: "3-jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Kɛnɔ́ Jɔ̌n"
+    slug: "kn-jn"

@@ -1,0 +1,83 @@
+language: "naw"
+books:
+  "MAT":
+    name: "Matiwu"
+    slug: "matiwu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Gyɔn"
+    slug: "gyn"
+  "ACT":
+    name: "Krisito Asunpu mʋ kusun"
+    slug: "krisito-asunpu-m-kusun"
+  "ROM":
+    name: "Roma abi"
+    slug: "roma-abi"
+  "1CO":
+    name: "1 Korinto abi"
+    slug: "1-korinto-abi"
+  "2CO":
+    name: "2 Korinto abi"
+    slug: "2-korinto-abi"
+  "GAL":
+    name: "Galati abi"
+    slug: "galati-abi"
+  "EPH":
+    name: "Efeso abi"
+    slug: "efeso-abi"
+  "PHP":
+    name: "Filipi abi"
+    slug: "filipi-abi"
+  "COL":
+    name: "Kolose abi"
+    slug: "kolose-abi"
+  "1TH":
+    name: "1 Tesalonika abi"
+    slug: "1-tesalonika-abi"
+  "2TH":
+    name: "2 Tesalonika abi"
+    slug: "2-tesalonika-abi"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hibriwu abi"
+    slug: "hibriwu-abi"
+  "JAS":
+    name: "Gyemisi"
+    slug: "gyemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Gyɔn"
+    slug: "1-gyn"
+  "2JN":
+    name: "2 Gyɔn"
+    slug: "2-gyn"
+  "3JN":
+    name: "3 Gyɔn"
+    slug: "3-gyn"
+  "JUD":
+    name: "Gyudi"
+    slug: "gyudi"
+  "REV":
+    name: "Asɩnlɛɛ kaapʋsa"
+    slug: "asnl-kaapsa"

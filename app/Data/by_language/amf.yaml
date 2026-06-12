@@ -1,0 +1,83 @@
+language: "amf"
+books:
+  "MAT":
+    name: "Maatoos"
+    slug: "maatoos"
+  "MRK":
+    name: "Marqoos"
+    slug: "marqoos"
+  "LUK":
+    name: "Luqaas"
+    slug: "luqaas"
+  "JHN":
+    name: "Wannis"
+    slug: "wannis"
+  "ACT":
+    name: "Yittsadhaanasa Waadimano"
+    slug: "yittsadhaanasa-waadimano"
+  "ROM":
+    name: "Roome"
+    slug: "roome"
+  "1CO":
+    name: "Bira Qorontoos"
+    slug: "bira-qorontoos"
+  "2CO":
+    name: "Lansoa Qorontoos"
+    slug: "lansoa-qorontoos"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epsoon"
+    slug: "epsoon"
+  "PHP":
+    name: "Pilbhisoos"
+    slug: "pilbhisoos"
+  "COL":
+    name: "Qolasias"
+    slug: "qolasias"
+  "1TH":
+    name: "Bira Teselonqe"
+    slug: "bira-teselonqe"
+  "2TH":
+    name: "Lansoa Teselonqe"
+    slug: "lansoa-teselonqe"
+  "1TI":
+    name: "Bira Thimaatoos"
+    slug: "bira-thimaatoos"
+  "2TI":
+    name: "Lansoa Thimaatoos"
+    slug: "lansoa-thimaatoos"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Pilmona"
+    slug: "pilmona"
+  "HEB":
+    name: "Ibra"
+    slug: "ibra"
+  "JAS":
+    name: "Yayqoob"
+    slug: "yayqoob"
+  "1PE":
+    name: "Bira Bhethiroos"
+    slug: "bira-bhethiroos"
+  "2PE":
+    name: "Lansoa Bhethiroos"
+    slug: "lansoa-bhethiroos"
+  "1JN":
+    name: "Bira Wannis"
+    slug: "bira-wannis"
+  "2JN":
+    name: "Lansoa Wannis"
+    slug: "lansoa-wannis"
+  "3JN":
+    name: "Makkansoa Wannis"
+    slug: "makkansoa-wannis"
+  "JUD":
+    name: "Yiwda"
+    slug: "yiwda"
+  "REV":
+    name: "Wannissa Shedintono"
+    slug: "wannissa-shedintono"

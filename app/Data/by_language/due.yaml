@@ -1,0 +1,83 @@
+language: "due"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Huwen"
+    slug: "huwen"
+  "ACT":
+    name: "Yedi"
+    slug: "yedi"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilepos"
+    slug: "pilepos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Teto"
+    slug: "teto"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Huwen"
+    slug: "1-huwen"
+  "2JN":
+    name: "2 Huwen"
+    slug: "2-huwen"
+  "3JN":
+    name: "3 Huwen"
+    slug: "3-huwen"
+  "JUD":
+    name: "Hodes"
+    slug: "hodes"
+  "REV":
+    name: "Pagpakita"
+    slug: "pagpakita"

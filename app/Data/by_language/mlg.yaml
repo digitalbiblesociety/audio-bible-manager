@@ -1,0 +1,200 @@
+language: "mlg"
+books:
+  "GEN":
+    name: "Genesisy"
+    slug: "genesisy"
+  "EXO":
+    name: "Eksodosy"
+    slug: "eksodosy"
+  "LEV":
+    name: "Levitikosy"
+    slug: "levitikosy"
+  "NUM":
+    name: "Nomery"
+    slug: "nomery"
+  "DEU":
+    name: "Deoteronomia"
+    slug: "deoteronomia"
+  "JOS":
+    name: "Josoa"
+    slug: "josoa"
+  "JDG":
+    name: "Mpitsara"
+    slug: "mpitsara"
+  "RUT":
+    name: "Rota"
+    slug: "rota"
+  "1SA":
+    name: "1 Samoela"
+    slug: "1samoela"
+  "2SA":
+    name: "2 Samoela"
+    slug: "2samoela"
+  "1KI":
+    name: "1 Mpanjaka"
+    slug: "1mpanjaka"
+  "2KI":
+    name: "2 Mpanjaka"
+    slug: "2mpanjaka"
+  "1CH":
+    name: "1 Tantara"
+    slug: "1tantara"
+  "2CH":
+    name: "2 Tantara"
+    slug: "2tantara"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Estera"
+    slug: "estera"
+  "JOB":
+    name: "Joba"
+    slug: "joba"
+  "PSA":
+    name: "Salamo"
+    slug: "salamo"
+  "PRO":
+    name: "Ohabolana"
+    slug: "ohabolana"
+  "ECC":
+    name: "Mpitoriteny"
+    slug: "mpitoriteny"
+  "SNG":
+    name: "Tononkiran’i Solomona"
+    slug: "tononkirani-solomona"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Fitomaniana"
+    slug: "fitomaniana"
+  "EZK":
+    name: "Ezekiela"
+    slug: "ezekiela"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joela"
+    slug: "joela"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahoma"
+    slug: "nahoma"
+  "HAB":
+    name: "Habakoka"
+    slug: "habakoka"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+  "MAL":
+    name: "Malakia"
+    slug: "malakia"
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Lioka"
+    slug: "lioka"
+  "JHN":
+    name: "Jaona"
+    slug: "jaona"
+  "ACT":
+    name: "Asan’ny Apostoly"
+    slug: "asanny-apostoly"
+  "ROM":
+    name: "Romana"
+    slug: "romana"
+  "1CO":
+    name: "1 Korintiana"
+    slug: "1korintiana"
+  "2CO":
+    name: "2 Korintiana"
+    slug: "2korintiana"
+  "GAL":
+    name: "Galatiana"
+    slug: "galatiana"
+  "EPH":
+    name: "Efesiana"
+    slug: "efesiana"
+  "PHP":
+    name: "Filipiana"
+    slug: "filipiana"
+  "COL":
+    name: "Kolosiana"
+    slug: "kolosiana"
+  "1TH":
+    name: "1 Tesaloniana"
+    slug: "1tesaloniana"
+  "2TH":
+    name: "2 Tesaloniana"
+    slug: "2tesaloniana"
+  "1TI":
+    name: "1 Timoty"
+    slug: "1timoty"
+  "2TI":
+    name: "2 Timoty"
+    slug: "2timoty"
+  "TIT":
+    name: "Titosy"
+    slug: "titosy"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Jakoba"
+    slug: "jakoba"
+  "1PE":
+    name: "1 Petera"
+    slug: "1petera"
+  "2PE":
+    name: "2 Petera"
+    slug: "2petera"
+  "1JN":
+    name: "1 Jaona"
+    slug: "1jaona"
+  "2JN":
+    name: "2 Jaona"
+    slug: "2jaona"
+  "3JN":
+    name: "3 Jaona"
+    slug: "3jaona"
+  "JUD":
+    name: "Joda"
+    slug: "joda"
+  "REV":
+    name: "Apokalipsy"
+    slug: "apokalipsy"

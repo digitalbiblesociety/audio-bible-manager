@@ -1,0 +1,200 @@
+language: "yue"
+books:
+  "GEN":
+    name: "Ch‘òng‐shaì Keì"
+    slug: "chongshai-kei"
+  "EXO":
+    name: "Ch‘ut Oi‐k‘āp Keì"
+    slug: "chut-oikap-kei"
+  "LEV":
+    name: "Leî‐meî‐keì"
+    slug: "leimeikei"
+  "NUM":
+    name: "Mān‐shò Keí Leūk"
+    slug: "mansho-kei-leuk"
+  "DEU":
+    name: "Fūk‐ch‘uēn Lūt‐laî Keì"
+    slug: "fukchuen-lutlai-kei"
+  "JOS":
+    name: "YEUKₒ‐SHUE‐À"
+    slug: "yeukoshuea"
+  "JDG":
+    name: "Sẑ‐sz Keì"
+    slug: "szsz-kei"
+  "RUT":
+    name: "Lô-tak shî"
+    slug: "lo-tak-shi"
+  "1SA":
+    name: "I. SAATₒ‐MŎ‐Ĭ"
+    slug: "i-saatomoi"
+  "2SA":
+    name: "II. SAATₒ‐MŎ‐Ĭ"
+    slug: "ii-saatomoi"
+  "1KI":
+    name: "I. Līt‐wōng Keí‐leūk"
+    slug: "i-litwong-keileuk"
+  "2KI":
+    name: "Ii. Līt‐wōng Keí‐leūk"
+    slug: "ii-litwong-keileuk"
+  "1CH":
+    name: "I. Līk‐toî Chì‐leūk"
+    slug: "i-liktoi-chileuk"
+  "2CH":
+    name: "Ii. Līk‐toî Chì‐leūk"
+    slug: "ii-liktoi-chileuk"
+  "EZR":
+    name: "Ĭ‐sẑ‐la"
+    slug: "iszla"
+  "NEH":
+    name: "Neĭ‐hei‐maĭ"
+    slug: "neiheimai"
+  "EST":
+    name: "Ĭ‐SẐ‐T‘IPₒ"
+    slug: "isztipo"
+  "JOB":
+    name: "YEUKₒ‐PAAKₒ"
+    slug: "yeukopaako"
+  "PSA":
+    name: "Shi‐p‘in"
+    slug: "shipin"
+  "PRO":
+    name: "Cham‐īn"
+    slug: "chamin"
+  "ECC":
+    name: "Ch‘uēn‐tô"
+    slug: "chuento"
+  "SNG":
+    name: "Ngă‐koh"
+    slug: "ngakoh"
+  "ISA":
+    name: "Ĭ‐tsoi‐à"
+    slug: "itsoia"
+  "JER":
+    name: "Yē‐leî‐maĭ"
+    slug: "yeleimai"
+  "LAM":
+    name: "Yē‐leî‐maĭ Oi‐koh"
+    slug: "yeleimai-oikoh"
+  "EZK":
+    name: "Ĭ‐SAI‐KITₒ"
+    slug: "isaikito"
+  "DAN":
+    name: "Taân‐ĭ‐leĭ"
+    slug: "taanilei"
+  "HOS":
+    name: "Hōh‐sai"
+    slug: "hohsai"
+  "JOL":
+    name: "YEUKₒ‐Ĭ"
+    slug: "yeukoi"
+  "AMO":
+    name: "À‐moh‐sẑ"
+    slug: "amohsz"
+  "OBA":
+    name: "Oh‐pa‐taí"
+    slug: "ohpatai"
+  "JON":
+    name: "YEUKₒ‐NĀ"
+    slug: "yeukona"
+  "MIC":
+    name: "Maĭ‐ka"
+    slug: "maika"
+  "NAM":
+    name: "Nā‐yung"
+    slug: "nayung"
+  "HAB":
+    name: "Hap‐pa‐kuk"
+    slug: "happakuk"
+  "ZEP":
+    name: "Sai‐faan‐ngă"
+    slug: "saifaannga"
+  "HAG":
+    name: "Hap‐kei"
+    slug: "hapkei"
+  "ZEC":
+    name: "SAATₒ‐KA‐LEÎ‐À"
+    slug: "saatokaleia"
+  "MAL":
+    name: "Mă‐la‐kei"
+    slug: "malakei"
+  "MAT":
+    name: "Mă‐t‘aaì"
+    slug: "mataai"
+  "MRK":
+    name: "Mă‐Hóh"
+    slug: "mahoh"
+  "LUK":
+    name: "Lô‐Ka"
+    slug: "loka"
+  "JHN":
+    name: "Yeukₒ‐Hôn"
+    slug: "yeukohon"
+  "ACT":
+    name: "Sz̀‐T‘ō Hâng‐Chuên"
+    slug: "szto-hangchuen"
+  "ROM":
+    name: "Lōh‐Mă"
+    slug: "lohma"
+  "1CO":
+    name: "1 Koh‐Lām‐Toh"
+    slug: "1-kohlamtoh"
+  "2CO":
+    name: "2 Koh‐Lām‐Toh"
+    slug: "2-kohlamtoh"
+  "GAL":
+    name: "Ka‐La‐T‘aaì"
+    slug: "kalataai"
+  "EPH":
+    name: "Ĭ‐Fat‐Shóh"
+    slug: "ifatshoh"
+  "PHP":
+    name: "Feī‐Laāp‐Peí"
+    slug: "feilaappei"
+  "COL":
+    name: "Koh‐Lōh‐Sai"
+    slug: "kohlohsai"
+  "1TH":
+    name: "1 T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka"
+    slug: "1-tiposaatolohneika"
+  "2TH":
+    name: "2 T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka"
+    slug: "2-tiposaatolohneika"
+  "1TI":
+    name: "1 T‘aī‐Moh‐T‘aaì"
+    slug: "1-taimohtaai"
+  "2TI":
+    name: "2 T‘aī‐Moh‐T‘aaì"
+    slug: "2-taimohtaai"
+  "TIT":
+    name: "T‘aī‐Toh"
+    slug: "taitoh"
+  "PHM":
+    name: "Feī‐Leî‐Moōn"
+    slug: "feileimoon"
+  "HEB":
+    name: "Hei‐Paakₒ‐Loī"
+    slug: "heipaakoloi"
+  "JAS":
+    name: "Ngă‐Kokₒ"
+    slug: "ngakoko"
+  "1PE":
+    name: "1 Peí‐Tak"
+    slug: "1-peitak"
+  "2PE":
+    name: "2 Peí‐Tak"
+    slug: "2-peitak"
+  "1JN":
+    name: "1 Yeukₒ‐Hôn"
+    slug: "1-yeukohon"
+  "2JN":
+    name: "2 Yeukₒ‐hôn"
+    slug: "2-yeukohon"
+  "3JN":
+    name: "3 Yeukₒ‐Hôn"
+    slug: "3-yeukohon"
+  "JUD":
+    name: "Yaū‐Taaî"
+    slug: "yautaai"
+  "REV":
+    name: "Māk‐Shî‐Lūk"
+    slug: "makshiluk"

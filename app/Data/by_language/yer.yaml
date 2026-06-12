@@ -1,0 +1,98 @@
+language: "yer"
+books:
+  "EXO":
+    name: "Nfa"
+    slug: "nfa"
+  "LEV":
+    name: "ALevitikus"
+    slug: "alevitikus"
+  "JOS":
+    name: "aJoshuwa"
+    slug: "ajoshuwa"
+  "JDG":
+    name: "Nnap-Akwali"
+    slug: "nnap-akwali"
+  "RUT":
+    name: "aRut"
+    slug: "arut"
+  "1SA":
+    name: "1 aSamuwel"
+    slug: "1-asamuwel"
+  "2SA":
+    name: "2 aSamuwel"
+    slug: "2-asamuwel"
+  "EZK":
+    name: "aEzikyel"
+    slug: "aezikyel"
+  "HOS":
+    name: "aHoziya"
+    slug: "ahoziya"
+  "AMO":
+    name: "aAmos"
+    slug: "aamos"
+  "HAG":
+    name: "aHagayi"
+    slug: "ahagayi"
+  "ZEC":
+    name: "aZakariya"
+    slug: "azakariya"
+  "ACT":
+    name: "Inok onəm-rere"
+    slug: "inok-onem-rere"
+  "ROM":
+    name: "aRom"
+    slug: "arom"
+  "1CO":
+    name: "1 aKorinti"
+    slug: "1-akorinti"
+  "2CO":
+    name: "2 aKorinti"
+    slug: "2-akorinti"
+  "GAL":
+    name: "aGalatiya"
+    slug: "agalatiya"
+  "EPH":
+    name: "aAfisa"
+    slug: "aafisa"
+  "PHP":
+    name: "aFilibi"
+    slug: "afilibi"
+  "COL":
+    name: "aKolosi"
+    slug: "akolosi"
+  "1TH":
+    name: "1 aTasalonika"
+    slug: "1-atasalonika"
+  "2TH":
+    name: "2 aTasalonika"
+    slug: "2-atasalonika"
+  "1TI":
+    name: "1 aTimoti"
+    slug: "1-atimoti"
+  "2TI":
+    name: "2 aTimoti"
+    slug: "2-atimoti"
+  "TIT":
+    name: "aTitus"
+    slug: "atitus"
+  "PHM":
+    name: "aFilimon"
+    slug: "afilimon"
+  "HEB":
+    name: "aIbərahim"
+    slug: "aiberahim"
+  "JAS":
+    name: "aYakubu"
+    slug: "ayakubu"
+  "1PE":
+    name: "1 aBiturus"
+    slug: "1-abiturus"
+  "1JN":
+    name: "1 aYohana"
+    slug: "1-ayohana"
+  "2JN":
+    name: "2 aYohana"
+    slug: "2-ayohana"
+  "JUD":
+    name: "aYahuda"
+    slug: "ayahuda"

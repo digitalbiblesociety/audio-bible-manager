@@ -1,0 +1,83 @@
+language: "kyq"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Naabm jee kaan̰ naabm Isage"
+    slug: "naabm-jee-kaan-naabm-isage"
+  "ROM":
+    name: "Rɔmɛge"
+    slug: "rmge"
+  "1CO":
+    name: "1 Kɔrint"
+    slug: "1-krint"
+  "2CO":
+    name: "2 Kɔrint"
+    slug: "2-krint"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Ɛpɛz"
+    slug: "pz"
+  "PHP":
+    name: "Pilip"
+    slug: "pilip"
+  "COL":
+    name: "Kɔlɔs"
+    slug: "kls"
+  "1TH":
+    name: "Tɛsalonikŋ deete"
+    slug: "tsalonikn-deete"
+  "2TH":
+    name: "Tɛsalonikŋ gɛn k‑dige"
+    slug: "tsalonikn-gn-kdige"
+  "1TI":
+    name: "Timote kɛn deete"
+    slug: "timote-kn-deete"
+  "2TI":
+    name: "Timote gɛn k‑dige"
+    slug: "timote-gn-kdige"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ɛbrege"
+    slug: "brege"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "Piɛr deete"
+    slug: "pir-deete"
+  "2PE":
+    name: "Piɛr gɛn k‑dige"
+    slug: "pir-gn-kdige"
+  "1JN":
+    name: "Jan deete"
+    slug: "jan-deete"
+  "2JN":
+    name: "Jan gɛn k‑dige"
+    slug: "jan-gn-kdige"
+  "3JN":
+    name: "Jan gɛn k‑mɔtɔge"
+    slug: "jan-gn-kmtge"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Apokalips"
+    slug: "apokalips"

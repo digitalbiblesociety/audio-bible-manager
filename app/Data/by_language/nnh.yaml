@@ -1,0 +1,110 @@
+language: "nnh"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+    name_toc: "Ŋwà’ne Matio"
+  "MRK":
+    name: "Malékuse"
+    slug: "malekuse"
+    name_toc: "Ŋwà’ne Malékuse"
+  "LUK":
+    name: "Lukase"
+    slug: "lukase"
+    name_toc: "Ŋwà’ne Lukase"
+  "JHN":
+    name: "Jâŋ"
+    slug: "ja"
+    name_toc: "Ŋwà’ne Jâŋ"
+  "ACT":
+    name: "Megàŋ ntúm"
+    slug: "mega-ntum"
+    name_toc: "Ŋwà’ne megàŋ ntúm Yěsô"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Roma"
+  "1CO":
+    name: "1 Korento"
+    slug: "1-korento"
+    name_toc: "1 Ŋwà’ne á mbwò pʉ̀a Korento"
+  "2CO":
+    name: "2 Korento"
+    slug: "2-korento"
+    name_toc: "2 Ŋwà’ne á mbwò pʉ̀a Korento"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Galatia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Efeso"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Filipo"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Kolosia"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "1 Ŋwà’ne á mbwò pʉ̀a Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "2 Ŋwà’ne á mbwò pʉ̀a Tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "1 Ŋwà’ne á mbwò Timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "2 Ŋwà’ne á mbwò Timote"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Ŋwà’ne á mbwò Titus"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+    name_toc: "Ŋwà’ne á mbwò Filemo"
+  "HEB":
+    name: "Heber"
+    slug: "heber"
+    name_toc: "Ŋwà’ne á mbwò pʉ̀a Heber"
+  "JAS":
+    name: "Jâg"
+    slug: "jag"
+    name_toc: "Ŋwà’ne Jâg"
+  "1PE":
+    name: "1 Piɛ"
+    slug: "1-pi"
+    name_toc: "1 Ŋwà’ne Piɛ"
+  "2PE":
+    name: "2 Piɛ"
+    slug: "2-pi"
+    name_toc: "2 Ŋwà’ne Piɛ"
+  "1JN":
+    name: "1 Jâŋ"
+    slug: "1-ja"
+    name_toc: "1 Ŋwà’ne Jâŋ"
+  "2JN":
+    name: "2 Jâŋ"
+    slug: "2-ja"
+    name_toc: "2 Ŋwà’ne Jâŋ"
+  "3JN":
+    name: "3 Jâŋ"
+    slug: "3-ja"
+    name_toc: "3 Ŋwà’ne Jâŋ"
+  "JUD":
+    name: "Jẅide"
+    slug: "jwide"
+    name_toc: "Ŋwà’ne á mbwò Jẅide"
+  "REV":
+    name: "Ŋwà’ne Ngyà jʉ’"
+    slug: "wane-ngya-j"
+    name_toc: "Ŋwà’ne Ngyà jʉ’"

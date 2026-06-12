@@ -1,0 +1,86 @@
+language: "heg"
+books:
+  "GEN":
+    name: "Dehet Hmunan Hesa Kua"
+    slug: "dehet-hmunan-hesa-kua"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yuhanis"
+    slug: "yuhanis"
+  "ACT":
+    name: "Dehet deng Aan in Nutus sas"
+    slug: "dehet-deng-aan-in-nutus-sas"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Korintus mesa la"
+    slug: "korintus-mesa-la"
+  "2CO":
+    name: "Korintus dua la"
+    slug: "korintus-dua-la"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Tesalonika mesa la"
+    slug: "tesalonika-mesa-la"
+  "2TH":
+    name: "Tesalonika dua la"
+    slug: "tesalonika-dua-la"
+  "1TI":
+    name: "Timutius mesa la"
+    slug: "timutius-mesa-la"
+  "2TI":
+    name: "Timutius dua la"
+    slug: "timutius-dua-la"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1PE":
+    name: "Petrus mesa la"
+    slug: "petrus-mesa-la"
+  "2PE":
+    name: "Petrus dua la"
+    slug: "petrus-dua-la"
+  "1JN":
+    name: "Yuhanis mesa la"
+    slug: "yuhanis-mesa-la"
+  "2JN":
+    name: "Yuhanis dua la"
+    slug: "yuhanis-dua-la"
+  "3JN":
+    name: "Yuhanis tilu la"
+    slug: "yuhanis-tilu-la"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Apan-kloma Hnika Balu"
+    slug: "apan-kloma-hnika-balu"

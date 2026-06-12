@@ -1,0 +1,200 @@
+language: "ifk"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Libiticus"
+    slug: "libiticus"
+  "NUM":
+    name: "Numbers"
+    slug: "numbers"
+  "DEU":
+    name: "Deuteronomy"
+    slug: "deuteronomy"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Hanadan Huwes"
+    slug: "hanadan-huwes"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Patul"
+    slug: "1-patul"
+  "2KI":
+    name: "2 Patul"
+    slug: "2-patul"
+  "1CH":
+    name: "1 Chronicles"
+    slug: "1-chronicles"
+  "2CH":
+    name: "2 Chronicles"
+    slug: "2-chronicles"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalms"
+    slug: "psalms"
+  "PRO":
+    name: "Proverbs"
+    slug: "proverbs"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+  "SNG":
+    name: "Song of Songs"
+    slug: "song-of-songs"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "LAM":
+    name: "Lamentations"
+    slug: "lamentations"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Mikah"
+    slug: "mikah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Sephaniah"
+    slug: "sephaniah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sekariah"
+    slug: "sekariah"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Apostoles"
+    slug: "apostoles"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Corinth"
+    slug: "1-corinth"
+  "2CO":
+    name: "2 Corinth"
+    slug: "2-corinth"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Ephesus"
+    slug: "ephesus"
+  "PHP":
+    name: "Philippi"
+    slug: "philippi"
+  "COL":
+    name: "Colossae"
+    slug: "colossae"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Impainilan"
+    slug: "impainilan"

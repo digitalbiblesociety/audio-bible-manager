@@ -1,0 +1,188 @@
+language: "jiv"
+books:
+  "GEN":
+    name: "Naṉ."
+    slug: "nan"
+  "EXO":
+    name: "Jiin."
+    slug: "jiin"
+  "LEV":
+    name: "Riw."
+    slug: "riw"
+  "NUM":
+    name: "Wek."
+    slug: "wek"
+  "DEU":
+    name: "Muis."
+    slug: "muis"
+  "JOS":
+    name: "Jus."
+    slug: "jus"
+  "JDG":
+    name: "Suma."
+    slug: "suma"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Sam."
+    slug: "1-sam"
+  "2SA":
+    name: "2 Sam."
+    slug: "2-sam"
+  "1KI":
+    name: "1 Akup."
+    slug: "1-akup"
+  "2KI":
+    name: "2 Akup."
+    slug: "2-akup"
+  "EZR":
+    name: "Ists."
+    slug: "ists"
+  "NEH":
+    name: "Neem."
+    slug: "neem"
+  "EST":
+    name: "Istr."
+    slug: "istr"
+  "JOB":
+    name: "Juup"
+    slug: "juup"
+  "PSA":
+    name: "YKan."
+    slug: "ykan"
+  "PRO":
+    name: "Neka."
+    slug: "neka"
+  "SNG":
+    name: "Anen."
+    slug: "anen"
+  "ISA":
+    name: "Isa."
+    slug: "isa"
+  "JER":
+    name: "Jrm."
+    slug: "jrm"
+  "LAM":
+    name: "Ukan."
+    slug: "ukan"
+  "EZK":
+    name: "Isk."
+    slug: "isk"
+  "DAN":
+    name: "Tan."
+    slug: "tan"
+  "HOS":
+    name: "Use."
+    slug: "use"
+  "JOL":
+    name: "Juir"
+    slug: "juir"
+  "AMO":
+    name: "Ams."
+    slug: "ams"
+  "OBA":
+    name: "Apt."
+    slug: "apt"
+  "JON":
+    name: "Jns."
+    slug: "jns"
+  "MIC":
+    name: "Mik."
+    slug: "mik"
+  "HAB":
+    name: "Awa."
+    slug: "awa"
+  "ZEP":
+    name: "Sup."
+    slug: "sup"
+  "HAG":
+    name: "Aji."
+    slug: "aji"
+  "ZEC":
+    name: "Sak."
+    slug: "sak"
+  "MAL":
+    name: "Mks."
+    slug: "mks"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Márkus"
+    slug: "markus"
+  "LUK":
+    name: "Rúkas"
+    slug: "rukas"
+  "JHN":
+    name: "Juaṉ"
+    slug: "juan"
+  "ACT":
+    name: "Túramu"
+    slug: "turamu"
+  "ROM":
+    name: "Rúmanam"
+    slug: "rumanam"
+  "1CO":
+    name: "1 Kurintiunam"
+    slug: "1-kurintiunam"
+  "2CO":
+    name: "2 Kurintiunam"
+    slug: "2-kurintiunam"
+  "GAL":
+    name: "Karaseanam"
+    slug: "karaseanam"
+  "EPH":
+    name: "Ipisiunam"
+    slug: "ipisiunam"
+  "PHP":
+    name: "Jiripiusnum"
+    slug: "jiripiusnum"
+  "COL":
+    name: "Kurusenam"
+    slug: "kurusenam"
+  "1TH":
+    name: "1 Tisarúnikianam"
+    slug: "1-tisarunikianam"
+  "2TH":
+    name: "2 Tisarúnikianam"
+    slug: "2-tisarunikianam"
+  "1TI":
+    name: "1 Timiutéun"
+    slug: "1-timiuteun"
+  "2TI":
+    name: "2 Timiutéun"
+    slug: "2-timiuteun"
+  "TIT":
+    name: "Titiun"
+    slug: "titiun"
+  "PHM":
+    name: "Jirimiúṉkan"
+    slug: "jirimiunkan"
+  "HEB":
+    name: "Israernum"
+    slug: "israernum"
+  "JAS":
+    name: "Sántiak"
+    slug: "santiak"
+  "1PE":
+    name: "1 Pítiur"
+    slug: "1-pitiur"
+  "2PE":
+    name: "2 Pítiur"
+    slug: "2-pitiur"
+  "1JN":
+    name: "1 Juaṉ"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juaṉ"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juaṉ"
+    slug: "3-juan"
+  "JUD":
+    name: "Jútas"
+    slug: "jutas"
+  "REV":
+    name: "Apukarípsis"
+    slug: "apukaripsis"

@@ -1,0 +1,83 @@
+language: "fuq"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahayya"
+    slug: "yahayya"
+  "ACT":
+    name: "Kuuɗe Lilaaɓe"
+    slug: "kuue-lilaae"
+  "ROM":
+    name: "Roomankoo'en"
+    slug: "roomankooen"
+  "1CO":
+    name: "1 Korontu'en"
+    slug: "1-korontuen"
+  "2CO":
+    name: "2 Korontu'en"
+    slug: "2-korontuen"
+  "GAL":
+    name: "Galaatiya'en"
+    slug: "galaatiyaen"
+  "EPH":
+    name: "Efesu'en"
+    slug: "efesuen"
+  "PHP":
+    name: "Filipi'en"
+    slug: "filipien"
+  "COL":
+    name: "Koloosi'en"
+    slug: "koloosien"
+  "1TH":
+    name: "1 Tesaloonika'en"
+    slug: "1-tesaloonikaen"
+  "2TH":
+    name: "2 Tesaloonika'en"
+    slug: "2-tesaloonikaen"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tiitus"
+    slug: "tiitus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ibraaninkoo'en"
+    slug: "ibraaninkooen"
+  "JAS":
+    name: "Yaakuubu"
+    slug: "yaakuubu"
+  "1PE":
+    name: "1 Biiturus"
+    slug: "1-biiturus"
+  "2PE":
+    name: "2 Biiturus"
+    slug: "2-biiturus"
+  "1JN":
+    name: "1 Yahayya"
+    slug: "1-yahayya"
+  "2JN":
+    name: "2 Yahayya"
+    slug: "2-yahayya"
+  "3JN":
+    name: "3 Yahayya"
+    slug: "3-yahayya"
+  "JUD":
+    name: "Yahuuda"
+    slug: "yahuuda"
+  "REV":
+    name: "Wahayu Yahayya"
+    slug: "wahayu-yahayya"

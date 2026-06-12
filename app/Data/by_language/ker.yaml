@@ -1,0 +1,110 @@
+language: "ker"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+    name_toc: "Kel pəsaŋ kəmarwaŋ gə minti Matiye jiiriniy"
+  "MRK":
+    name: "Markə"
+    slug: "marke"
+    name_toc: "Kel pəsaŋ kəmarwaŋ gə minti Markə jiiriniy"
+  "LUK":
+    name: "Liki"
+    slug: "liki"
+    name_toc: "Kel pəsaŋ kəmarwaŋ gə minti Liki jiiriniy"
+  "JHN":
+    name: "Zaŋ"
+    slug: "za"
+    name_toc: "Kel pəsaŋ kəmarwaŋ gə minti Zaŋ jiiriniy"
+  "ACT":
+    name: "Joŋre"
+    slug: "jore"
+    name_toc: "Joŋre kə Kaa kə Vaa-veŋ"
+  "ROM":
+    name: "Romeŋ"
+    slug: "rome"
+    name_toc: "Kefter bə minti Pol jiirunu a kaanə Romeŋ"
+  "1CO":
+    name: "I Koreŋtəŋ"
+    slug: "i-korete"
+    name_toc: "Kefter bə ajew bə minti Pol jiirunu a kaanə Koreŋtəŋ"
+  "2CO":
+    name: "II Koreŋtəŋ"
+    slug: "ii-korete"
+    name_toc: "Kefter bə ɓasi bə minti Pol jiirunu a kaanə Koreŋtəŋ"
+  "GAL":
+    name: "Galatiŋ"
+    slug: "galati"
+    name_toc: "Kefter bə minti Pol jiirunu a kaanə Galatiŋ"
+  "EPH":
+    name: "Efesiŋ"
+    slug: "efesi"
+    name_toc: "Kefter bə minti Pol jiirunu a kaanə Efesiŋ"
+  "PHP":
+    name: "Filipiŋ"
+    slug: "filipi"
+    name_toc: "Kefter bə minti Pol jiirunu a kaanə Filipiŋ"
+  "COL":
+    name: "Kolosiŋ"
+    slug: "kolosi"
+    name_toc: "Kefter bə minti Pol jiirunu a kaanə Kolosiŋ"
+  "1TH":
+    name: "1 Tesalonikiŋ"
+    slug: "1-tesaloniki"
+    name_toc: "Kefter bə ajew bə minti Pol jiirunu a kaanə Tesalonikiŋ"
+  "2TH":
+    name: "II Tesalonikiŋ"
+    slug: "ii-tesaloniki"
+    name_toc: "Kefter bə ɓasi bə minti Pol jiirunu a kaanə Tesalonikiŋ"
+  "1TI":
+    name: "I Timote"
+    slug: "i-timote"
+    name_toc: "Kefter bə ajew bə minti Pol jiirunu a Timoteŋ"
+  "2TI":
+    name: "II Timote"
+    slug: "ii-timote"
+    name_toc: "Kefter bə ɓasi bə minti Pol jiirunu a Timote"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+    name_toc: "Kefter bə minti Pol jiirunu a Titiŋ"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemo"
+    name_toc: "Kefter bə minti Pol jiirunu a Filemoŋ"
+  "HEB":
+    name: "Hebereŋ"
+    slug: "hebere"
+    name_toc: "Kefter bə minti yə jiirunu a kaanə Hebereŋ"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+    name_toc: "Kefter bə minti Zaki jiirunuŋ"
+  "1PE":
+    name: "I Piyer"
+    slug: "i-piyer"
+    name_toc: "Kefter bə ajew bə minti Piyer jiirunuŋ"
+  "2PE":
+    name: "II Piyer"
+    slug: "ii-piyer"
+    name_toc: "Kefter bə ɓasi bə minti Piyer jiirunuŋ"
+  "1JN":
+    name: "I Zaŋ"
+    slug: "i-za"
+    name_toc: "Kefter bə ajew bə minti Zaŋ jiirunuŋ"
+  "2JN":
+    name: "II Zaŋ"
+    slug: "ii-za"
+    name_toc: "Kefter bə ɓasi bə minti Zaŋ jiirunuŋ"
+  "3JN":
+    name: "III Zaŋ"
+    slug: "iii-za"
+    name_toc: "Kefter bə soope bə minti Zaŋ jiirunuŋ"
+  "JUD":
+    name: "Zudi"
+    slug: "zudi"
+    name_toc: "Kefter bə minti Zudi jiirunuŋ"
+  "REV":
+    name: "Veɗe"
+    slug: "vee"
+    name_toc: "Kar gə minti Pepeŋ vəɗnəy a Zaŋ"

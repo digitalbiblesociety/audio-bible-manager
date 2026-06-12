@@ -1,0 +1,8 @@
+language: "klt"
+books:
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "MRK":
+    name: "Mak"
+    slug: "mak"

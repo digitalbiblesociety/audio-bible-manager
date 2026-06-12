@@ -1,0 +1,86 @@
+language: "zty"
+books:
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+  "MAT":
+    name: "Matío"
+    slug: "matio"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Ẕwa"
+    slug: "wa"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+  "1TH":
+    name: "1 Tesalonisenses"
+    slug: "1-tesalonisenses"
+  "2TH":
+    name: "2 Tesalonisenses"
+    slug: "2-tesalonisenses"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+  "JAS":
+    name: "Žedw"
+    slug: "zedw"
+  "1PE":
+    name: "1 Bedw"
+    slug: "1-bedw"
+  "2PE":
+    name: "2 Bedw"
+    slug: "2-bedw"
+  "1JN":
+    name: "1 Ẕwa"
+    slug: "1-wa"
+  "2JN":
+    name: "2 Ẕwa"
+    slug: "2-wa"
+  "3JN":
+    name: "3 Ẕwa"
+    slug: "3-wa"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apokalipsis"
+    slug: "apokalipsis"

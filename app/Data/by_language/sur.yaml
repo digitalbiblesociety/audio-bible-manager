@@ -1,0 +1,56 @@
+language: "sur"
+books:
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "ACT":
+    name: "Ɗak"
+    slug: "ak"
+  "1CO":
+    name: "1 Koronti"
+    slug: "1-koronti"
+  "2CO":
+    name: "2 Koronti"
+    slug: "2-koronti"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Afisus"
+    slug: "afisus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tasoloni"
+    slug: "1-tasoloni"
+  "2TH":
+    name: "2 Tasoloni"
+    slug: "2-tasoloni"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Suun"
+    slug: "suun"

@@ -1,0 +1,266 @@
+language: "umb"
+books:
+  "GEN":
+    name: "Efetikilo"
+    slug: "efetikilo"
+    name_toc: "Ɛsta Hɔŋ"
+  "EXO":
+    name: "Etundilo"
+    slug: "etundilo"
+    name_toc: "Joob Hɔŋ"
+  "LEV":
+    name: "Ovisila"
+    slug: "ovisila"
+    name_toc: "Yira Hɔŋ"
+  "NUM":
+    name: "Atendelo"
+    slug: "atendelo"
+    name_toc: "Sɛɛliizi Hɔŋ"
+  "DEU":
+    name: "Esinumuĩlo"
+    slug: "esinumuilo"
+    name_toc: "Nunzuma Hɔŋ"
+  "JOS":
+    name: "Yehosua"
+    slug: "yehosua"
+    name_toc: "Yirsum Hɔŋ"
+  "JDG":
+    name: "Liolonganji"
+    slug: "liolonganji"
+    name_toc: "Aizaaya Hɔŋ"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Jɛrɛmia Hɔŋ"
+  "1SA":
+    name: "I Samuele"
+    slug: "i-samuele"
+    name_toc: "Liyira Hɔŋ"
+  "2SA":
+    name: "II Samuele"
+    slug: "ii-samuele"
+    name_toc: "Ɛzɛkiɛl Hɔŋ"
+  "1KI":
+    name: "I Olosoma"
+    slug: "i-olosoma"
+    name_toc: "Daniɛl Hɔŋ"
+  "2KI":
+    name: "II Olosoma"
+    slug: "ii-olosoma"
+    name_toc: "Hozia Hɔŋ"
+  "1CH":
+    name: "I Asapulo"
+    slug: "i-asapulo"
+    name_toc: "Jowɛl Hɔŋ"
+  "2CH":
+    name: "II Asapulo"
+    slug: "ii-asapulo"
+    name_toc: "Emɔs Hɔŋ"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+    name_toc: "Obadia Hɔŋ"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Joona Hɔŋ"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Maika Hɔŋ"
+  "JOB":
+    name: "Yovi"
+    slug: "yovi"
+    name_toc: "Nahum Hɔŋ"
+  "PSA":
+    name: "Olosamo"
+    slug: "olosamo"
+    name_toc: "Habakuk Hɔŋ"
+  "PRO":
+    name: "Olosapo"
+    slug: "olosapo"
+    name_toc: "Zɛfania Hɔŋ"
+  "ECC":
+    name: "Ukundi"
+    slug: "ukundi"
+    name_toc: "Hagai Hɔŋ"
+  "SNG":
+    name: "Ocisungo Ca Salomone"
+    slug: "ocisungo-ca-salomone"
+    name_toc: "Zɛkaria Hɔŋ"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Malakai Hɔŋ"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Amaniyesuma Matiu N Sɛbɛɛrɛ Keŋ"
+  "LAM":
+    name: "Asiõsuilo"
+    slug: "asiosuilo"
+    name_toc: "Amaniyesuma Maak N Sɛbɛɛrɛ Keŋ"
+  "EZK":
+    name: "Esekiele"
+    slug: "esekiele"
+    name_toc: "Amaniyesuma Luuk N Sɛbɛɛrɛ Keŋ"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Amaniyesuma Jɔɔn N Sɛbɛɛrɛ Keŋ"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Yeesu Huŋhunna Wiɛɛlaarɛ Keŋ"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Room Hina Labuu Keŋ"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Lugli Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Kɔrint Hina Labuu Keŋ"
+  "OBA":
+    name: "Ovadiya"
+    slug: "ovadiya"
+    name_toc: "Hɔnnɛɛhiŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Kɔrint Hina Labuu Keŋ"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Galesia Hina Labuu Keŋ"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Ɛfɛsus Hina Labuu Keŋ"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Filipai Hina Labuu Keŋ"
+  "HAB":
+    name: "Havakuki"
+    slug: "havakuki"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Kɔlɔsi Hina Labuu Keŋ"
+  "ZEP":
+    name: "Sofoniya"
+    slug: "sofoniya"
+    name_toc: "Lugli Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Tɛsalɔnika Hina Labuu Keŋ"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hɔnnɛɛhiŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Tɛsalɔnika Hina Labuu Keŋ"
+  "ZEC":
+    name: "Sakariya"
+    slug: "sakariya"
+    name_toc: "Lugli Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Timoti Labuu Keŋ"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+    name_toc: "Hɔnnɛɛhiŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Timoti Labuu Keŋ"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Taitus Labuu Keŋ"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Hɔŋ La Pɔɔl N Sɛbɛɛ Tɛɛ Failimɔn Labuu Keŋ"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Hɔŋ La Ban Sɛbɛɛ Tɛɛ Hibru Hina Labuu Keŋ"
+  "JHN":
+    name: "Yoano"
+    slug: "yoano"
+    name_toc: "Jems Hɔnsɛbiirɛ Keŋ"
+  "ACT":
+    name: "Ovilinga"
+    slug: "ovilinga"
+    name_toc: "Pitta Lugli Hɔnsɛbiirɛ Keŋ"
+  "ROM":
+    name: "Va Roma"
+    slug: "va-roma"
+    name_toc: "Pitta Hɔnsɛbii Nɛɛhinnɛ Keŋ"
+  "1CO":
+    name: "I Va Korindo"
+    slug: "i-va-korindo"
+    name_toc: "Jɔɔn Lugli Hɔnsɛbiirɛ Keŋ"
+  "2CO":
+    name: "II Va Korindo"
+    slug: "ii-va-korindo"
+    name_toc: "Jɔɔn Hɔnsɛbii Nɛɛhinnɛ Keŋ"
+  "GAL":
+    name: "Va Galatia"
+    slug: "va-galatia"
+    name_toc: "Jɔɔn Hɔnsɛbii Horohinnɛ Keŋ"
+  "EPH":
+    name: "Va Efeso"
+    slug: "va-efeso"
+    name_toc: "Juud Hɔnsɛbiirɛ Keŋ"
+  "PHP":
+    name: "Va Filipoi"
+    slug: "va-filipoi"
+    name_toc: "Yeesu Kristo Wipillaarɛ Keŋ"
+  "COL":
+    name: "Va Kolosai"
+    slug: "va-kolosai"
+    name_toc: "मत्तय का सुसमाचार"
+  "1TH":
+    name: "I Va Tesalonike"
+    slug: "i-va-tesalonike"
+    name_toc: "मरकुस का सुसमाचार"
+  "2TH":
+    name: "II Va Tesalonike"
+    slug: "ii-va-tesalonike"
+    name_toc: "लूका का सुसमाचार"
+  "1TI":
+    name: "I Timoteo"
+    slug: "i-timoteo"
+    name_toc: "योहान का सुसमाचार"
+  "2TI":
+    name: "II Timoteo"
+    slug: "ii-timoteo"
+    name_toc: "प्रेरितों के काम"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "याकूब"
+  "PHM":
+    name: "Filemone"
+    slug: "filemone"
+    name_toc: "1 पतरस"
+  "HEB":
+    name: "Va Heveru"
+    slug: "va-heveru"
+    name_toc: "1 यूहन्ना"
+  "JAS":
+    name: "Tiago"
+    slug: "tiago"
+    name_toc: "रोमियो"
+  "1PE":
+    name: "I Petulu"
+    slug: "i-petulu"
+    name_toc: "1 कुरिन्थियों"
+  "2PE":
+    name: "II Petulu"
+    slug: "ii-petulu"
+    name_toc: "2 कुरिन्थियों"
+  "1JN":
+    name: "I Yoano"
+    slug: "i-yoano"
+    name_toc: "गलातियों"
+  "2JN":
+    name: "II Yoano"
+    slug: "ii-yoano"
+    name_toc: "इफिसियों"
+  "3JN":
+    name: "III Yoano"
+    slug: "iii-yoano"
+    name_toc: "फिलिप्पियों"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "कुलुस्सियों"
+  "REV":
+    name: "Esituluilo"
+    slug: "esituluilo"
+    name_toc: "1 थिस्सलुनीकियों"

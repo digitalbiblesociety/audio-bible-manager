@@ -1,0 +1,83 @@
+language: "daa"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Maark"
+    slug: "maark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yaaya"
+    slug: "yaaya"
+  "ACT":
+    name: "Akt"
+    slug: "akt"
+  "ROM":
+    name: "Roomen"
+    slug: "roomen"
+  "1CO":
+    name: "1 Korentiyen"
+    slug: "1-korentiyen"
+  "2CO":
+    name: "2 Korentiyen"
+    slug: "2-korentiyen"
+  "GAL":
+    name: "Galaat"
+    slug: "galaat"
+  "EPH":
+    name: "Epeeziyen"
+    slug: "epeeziyen"
+  "PHP":
+    name: "Pilipiyen"
+    slug: "pilipiyen"
+  "COL":
+    name: "Koloosiyen"
+    slug: "koloosiyen"
+  "1TH":
+    name: "1 Tesalonisiyen"
+    slug: "1-tesalonisiyen"
+  "2TH":
+    name: "2 Tesalonisiyen"
+    slug: "2-tesalonisiyen"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Hebru"
+    slug: "hebru"
+  "PHM":
+    name: "Hebru"
+    slug: "hebru"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Zaak"
+    slug: "zaak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yaaya"
+    slug: "1-yaaya"
+  "2JN":
+    name: "2 Yaaya"
+    slug: "2-yaaya"
+  "3JN":
+    name: "Zuud"
+    slug: "zuud"
+  "JUD":
+    name: "Zuud"
+    slug: "zuud"
+  "REV":
+    name: "Apokalips"
+    slug: "apokalips"

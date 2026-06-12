@@ -1,0 +1,83 @@
+language: "oym"
+books:
+  "MAT":
+    name: "Mateusi"
+    slug: "mateusi"
+  "MRK":
+    name: "Maku"
+    slug: "maku"
+  "LUK":
+    name: "Rukasi"
+    slug: "rukasi"
+  "JHN":
+    name: "Juwão"
+    slug: "juwao"
+  "ACT":
+    name: "Jesu koty rewarà kõ"
+    slug: "jesu-koty-rewara-ko"
+  "ROM":
+    name: "Romã"
+    slug: "roma"
+  "1CO":
+    name: "1 Korĩtu"
+    slug: "1-koritu"
+  "2CO":
+    name: "2 Korĩtu"
+    slug: "2-koritu"
+  "GAL":
+    name: "Karasia"
+    slug: "karasia"
+  "EPH":
+    name: "Epesu"
+    slug: "epesu"
+  "PHP":
+    name: "Piripu"
+    slug: "piripu"
+  "COL":
+    name: "Korosu"
+    slug: "korosu"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Timoteu"
+    slug: "1-timoteu"
+  "2TI":
+    name: "2 Timoteu"
+    slug: "2-timoteu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Epereu"
+    slug: "epereu"
+  "JAS":
+    name: "Tiaku"
+    slug: "tiaku"
+  "1PE":
+    name: "1 Peturu"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 Peturu"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 Juwão"
+    slug: "1-juwao"
+  "2JN":
+    name: "2 Juwão"
+    slug: "2-juwao"
+  "3JN":
+    name: "3 Juwão"
+    slug: "3-juwao"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Jesu jimoikatuawerà"
+    slug: "jesu-jimoikatuawera"

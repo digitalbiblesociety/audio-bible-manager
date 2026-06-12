@@ -1,0 +1,110 @@
+language: "pkb"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "2 Semueli"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "1 Raja-raja"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "2 Raja-raja"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Sura 1 Tawari"
+  "ACT":
+    name: "Mahendo"
+    slug: "mahendo"
+    name_toc: "Sura 2 Tawari"
+  "ROM":
+    name: "Warumi"
+    slug: "warumi"
+    name_toc: "Esira"
+  "1CO":
+    name: "1 Wakorint̯o"
+    slug: "1-wakorinto"
+    name_toc: "Nehemia"
+  "2CO":
+    name: "2 Wakorint̯o"
+    slug: "2-wakorinto"
+    name_toc: "Seteri"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+    name_toc: "Sura I Ayubi"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Polinga"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "Patada"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+    name_toc: "Topotuntu"
+  "1TH":
+    name: "1 Watesalonike"
+    slug: "1-watesalonike"
+    name_toc: "Ngayu I Ncalomo"
+  "2TH":
+    name: "2 Watesalonike"
+    slug: "2-watesalonike"
+    name_toc: "Yesaya"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Yeremia"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Potumangi"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Yehesikieli"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Danieli"
+  "HEB":
+    name: "Waeburania"
+    slug: "waeburania"
+    name_toc: "Hosea"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Yoeli"
+  "1PE":
+    name: "1 Pet̯ero"
+    slug: "1-petero"
+    name_toc: "Amosi"
+  "2PE":
+    name: "2 Pet̯ero"
+    slug: "2-petero"
+    name_toc: "Obaja"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Yona"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Mika"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Nahu"
+  "JUD":
+    name: "Yud̯a"
+    slug: "yuda"
+    name_toc: "Habaku"
+  "REV":
+    name: "Upfenuo wa Yohana"
+    slug: "upfenuo-wa-yohana"
+    name_toc: "Sepanya"

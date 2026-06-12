@@ -1,0 +1,200 @@
+language: "guj"
+books:
+  "GEN":
+    name: "ઉત્પત્તિ"
+    slug: "utpatti"
+  "EXO":
+    name: "નિર્ગમન"
+    slug: "nirgamana"
+  "LEV":
+    name: "લેવીય"
+    slug: "leviya"
+  "NUM":
+    name: "ગણના"
+    slug: "ganana"
+  "DEU":
+    name: "પુનર્નિયમ"
+    slug: "punarniyama"
+  "JOS":
+    name: "યહોશુઆ"
+    slug: "yahosua"
+  "JDG":
+    name: "ન્યાયાધીશો"
+    slug: "nyayadhiso"
+  "RUT":
+    name: "રૂથ"
+    slug: "rutha"
+  "1SA":
+    name: "1 શમુએલનું"
+    slug: "1-samuelanum"
+  "2SA":
+    name: "2 શમુએલનું"
+    slug: "2-samuelanum"
+  "1KI":
+    name: "1 રાજાઓનું"
+    slug: "1-rajaonum"
+  "2KI":
+    name: "2 રાજાઓનું"
+    slug: "2-rajaonum"
+  "1CH":
+    name: "1 કાળવૃત્તાંતનું"
+    slug: "1-kalavrttamtanum"
+  "2CH":
+    name: "2 કાળવૃત્તાંતનું"
+    slug: "2-kalavrttamtanum"
+  "EZR":
+    name: "એઝરા"
+    slug: "ejhara"
+  "NEH":
+    name: "નહેમ્યા"
+    slug: "nahemya"
+  "EST":
+    name: "એસ્તેર"
+    slug: "estera"
+  "JOB":
+    name: "અયૂબ"
+    slug: "ayuba"
+  "PSA":
+    name: "ગીતશાસ્ત્ર"
+    slug: "gitasastra"
+  "PRO":
+    name: "નીતિવચનો"
+    slug: "nitivacano"
+  "ECC":
+    name: "સભાશિક્ષક"
+    slug: "sabhasiksaka"
+  "SNG":
+    name: "ગીતોનું ગીત"
+    slug: "gitonum-gita"
+  "ISA":
+    name: "યશાયા"
+    slug: "yasaya"
+  "JER":
+    name: "યર્મિયા"
+    slug: "yarmiya"
+  "LAM":
+    name: "યર્મિયાનો વિલાપ"
+    slug: "yarmiyano-vilapa"
+  "EZK":
+    name: "હઝકિયેલ"
+    slug: "hajhakiyela"
+  "DAN":
+    name: "દાનિયેલ"
+    slug: "daniyela"
+  "HOS":
+    name: "હોશિયા"
+    slug: "hosiya"
+  "JOL":
+    name: "યોએલ"
+    slug: "yoela"
+  "AMO":
+    name: "આમોસ"
+    slug: "amosa"
+  "OBA":
+    name: "ઓબાદ્યા"
+    slug: "obadya"
+  "JON":
+    name: "યૂના"
+    slug: "yuna"
+  "MIC":
+    name: "મિખાહ"
+    slug: "mikhaha"
+  "NAM":
+    name: "નાહૂમ"
+    slug: "nahuma"
+  "HAB":
+    name: "હબાક્કુક"
+    slug: "habakkuka"
+  "ZEP":
+    name: "સફાન્યા"
+    slug: "saphanya"
+  "HAG":
+    name: "હાગ્ગાય"
+    slug: "haggaya"
+  "ZEC":
+    name: "ઝખાર્યા"
+    slug: "jhakharya"
+  "MAL":
+    name: "માલાખી"
+    slug: "malakhi"
+  "MAT":
+    name: "માથ્થી"
+    slug: "maththi"
+  "MRK":
+    name: "માર્ક"
+    slug: "marka"
+  "LUK":
+    name: "લૂક"
+    slug: "luka"
+  "JHN":
+    name: "યોહાન"
+    slug: "yohana"
+  "ACT":
+    name: "પ્રેરિતોનાં કૃત્યો"
+    slug: "preritonam-krtyo"
+  "ROM":
+    name: "રોમનો"
+    slug: "romano"
+  "1CO":
+    name: "1 કરિંથીઓ"
+    slug: "1-karimthio"
+  "2CO":
+    name: "2 કરિંથીઓ"
+    slug: "2-karimthio"
+  "GAL":
+    name: "ગલાતીઓ"
+    slug: "galatio"
+  "EPH":
+    name: "એફેસીઓ"
+    slug: "ephesio"
+  "PHP":
+    name: "ફિલિપ્પીઓ"
+    slug: "philippio"
+  "COL":
+    name: "કલોસ્સીઓ"
+    slug: "kalossio"
+  "1TH":
+    name: "1 થેસ્સલોનિકીઓ"
+    slug: "1-thessalonikio"
+  "2TH":
+    name: "2 થેસ્સલોનિકીઓ"
+    slug: "2-thessalonikio"
+  "1TI":
+    name: "1 તિમ."
+    slug: "1-tima"
+  "2TI":
+    name: "2 તિમોથી"
+    slug: "2-timothi"
+  "TIT":
+    name: "તિતસ"
+    slug: "titasa"
+  "PHM":
+    name: "ફિલેમોન"
+    slug: "philemona"
+  "HEB":
+    name: "હિબ્રૂઓ"
+    slug: "hibruo"
+  "JAS":
+    name: "યાકૂબ"
+    slug: "yakuba"
+  "1PE":
+    name: "1 પિતર"
+    slug: "1-pitara"
+  "2PE":
+    name: "2 પિતર"
+    slug: "2-pitara"
+  "1JN":
+    name: "1 યોહાન"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 યોહાન"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 યોહાન"
+    slug: "3-yohana"
+  "JUD":
+    name: "યહુદા"
+    slug: "yahuda"
+  "REV":
+    name: "પ્રકટીકરણ"
+    slug: "prakatikarana"

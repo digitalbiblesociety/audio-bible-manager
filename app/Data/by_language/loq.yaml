@@ -1,0 +1,83 @@
+language: "loq"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Malako"
+    slug: "malako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+  "ACT":
+    name: "Bitoma"
+    slug: "bitoma"
+  "ROM":
+    name: "Ɓaloma"
+    slug: "baloma"
+  "1CO":
+    name: "1 Ɓakoliti"
+    slug: "1-bakoliti"
+  "2CO":
+    name: "2 Ɓakoliti"
+    slug: "2-bakoliti"
+  "GAL":
+    name: "Ɓagalatia"
+    slug: "bagalatia"
+  "EPH":
+    name: "Ɓaefese"
+    slug: "baefese"
+  "PHP":
+    name: "Ɓafilipi"
+    slug: "bafilipi"
+  "COL":
+    name: "Ɓakolose"
+    slug: "bakolose"
+  "1TH":
+    name: "1 Ɓatesaloniki"
+    slug: "1-batesaloniki"
+  "2TH":
+    name: "2 Ɓatesaloniki"
+    slug: "2-batesaloniki"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ɓaebele"
+    slug: "baebele"
+  "JAS":
+    name: "Zake"
+    slug: "zake"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Iwɛninyama sa Maphɔɔ"
+    slug: "iwninyama-sa-maph"

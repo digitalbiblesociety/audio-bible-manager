@@ -1,0 +1,83 @@
+language: "att"
+books:
+  "MAT":
+    name: "Mattiu"
+    slug: "mattiu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Kuan"
+    slug: "kuan"
+  "ACT":
+    name: "Kingnguá"
+    slug: "kingngua"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilippay"
+    slug: "pilippay"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tessalonika"
+    slug: "1-tessalonika"
+  "2TH":
+    name: "2 Tessalonika"
+    slug: "2-tessalonika"
+  "1TI":
+    name: "1 Timotio"
+    slug: "1-timotio"
+  "2TI":
+    name: "2 Timotio"
+    slug: "2-timotio"
+  "TIT":
+    name: "Titò"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Kebru"
+    slug: "kebru"
+  "JAS":
+    name: "Ime"
+    slug: "ime"
+  "1PE":
+    name: "1 Eduru"
+    slug: "1-eduru"
+  "2PE":
+    name: "2 Eduru"
+    slug: "2-eduru"
+  "1JN":
+    name: "1 Kuan"
+    slug: "1-kuan"
+  "2JN":
+    name: "2 Kuan"
+    slug: "2-kuan"
+  "3JN":
+    name: "3 Kuan"
+    slug: "3-kuan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Nepalappâ"
+    slug: "nepalappa"

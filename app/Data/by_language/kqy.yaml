@@ -1,0 +1,110 @@
+language: "kqy"
+books:
+  "MAT":
+    name: "Matoose"
+    slug: "matoose"
+    name_toc: "Matoose Modhe Odo"
+  "MRK":
+    name: "Marqoose"
+    slug: "marqoose"
+    name_toc: "Marqoose Modhe Odo"
+  "LUK":
+    name: "Luqaase"
+    slug: "luqaase"
+    name_toc: "Luqaase Modhe Odo"
+  "JHN":
+    name: "Yohanise"
+    slug: "yohanise"
+    name_toc: "Yohanise Modhe Odo"
+  "ACT":
+    name: "Anxuttaasiti"
+    slug: "anxuttaasiti"
+    name_toc: "Anxuttaasiti Hanto Hanta"
+  "ROM":
+    name: "Roomaxituse"
+    slug: "roomaxituse"
+    name_toc: "Anxutta Phawlosey Roomaxituse Anso Woosso"
+  "1CO":
+    name: "1Qorontoosaxituse"
+    slug: "1qorontoosaxituse"
+    name_toc: "Anxutta Phawlosey Qorontoosaxituse Anso Bidzunxo Woosso"
+  "2CO":
+    name: "2Qorontoosaxituse"
+    slug: "2qorontoosaxituse"
+    name_toc: "Anxutta Phawlosey Qorontoosaxituse Anso Lakko Woosso"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "Anxutta Phawlosey Galatiya Wudaxituse Anso Woosso"
+  "EPH":
+    name: "Efesoonaxituse"
+    slug: "efesoonaxituse"
+    name_toc: "Anxutta Phawlosey Efesoonaxituse Anso Woosso"
+  "PHP":
+    name: "Filphisoosaxituse"
+    slug: "filphisoosaxituse"
+    name_toc: "Anxutta Phawlosey Filphisoosaxituse Anso Woosso"
+  "COL":
+    name: "Qollasiyasaxituse"
+    slug: "qollasiyasaxituse"
+    name_toc: "Anxutta Phawlosey Qollasiyasaxituse Anso Woosso"
+  "1TH":
+    name: "1Teselonqaxituse"
+    slug: "1teselonqaxituse"
+    name_toc: "Anxutta Phawlosey Teselonqaxituse Anso Bidzunxo Woosso"
+  "2TH":
+    name: "2Teselonqaxituse"
+    slug: "2teselonqaxituse"
+    name_toc: "Anxutta Phawlosey Teselonqaxituse Anso Lakko Woosso"
+  "1TI":
+    name: "1Xhimootoosese"
+    slug: "1xhimootoosese"
+    name_toc: "Anxutta Phawlosey Xhimootoosese Anso Bidzunxo Woosso"
+  "2TI":
+    name: "2Xhimootoosese"
+    slug: "2xhimootoosese"
+    name_toc: "Anxutta Phawlosey Xhimootoosese Anso Lakko Woosso"
+  "TIT":
+    name: "Titose"
+    slug: "titose"
+    name_toc: "Anxutta Phawlosey Titose Anso Woosso"
+  "PHM":
+    name: "Filmonase"
+    slug: "filmonase"
+    name_toc: "Anxutta Phawlosey Filmonase Anso Woosso"
+  "HEB":
+    name: "Ibraxituse"
+    slug: "ibraxituse"
+    name_toc: "Ibraxituse Anxutta Woosso"
+  "JAS":
+    name: "Yayqoobey"
+    slug: "yayqoobey"
+    name_toc: "Yayqoobey Anso Woosso"
+  "1PE":
+    name: "1Phexhrosey"
+    slug: "1phexhrosey"
+    name_toc: "Anxutta Phexhrosey Anso Bidzunxo Woosso"
+  "2PE":
+    name: "2Phexhrosey"
+    slug: "2phexhrosey"
+    name_toc: "Anxutta Phexhrosey Anso Lakko Woosso"
+  "1JN":
+    name: "1Yohanisey"
+    slug: "1yohanisey"
+    name_toc: "Anxutta Yohanisey Anso Bidzunxo Woosso"
+  "2JN":
+    name: "2Yohanisey"
+    slug: "2yohanisey"
+    name_toc: "Anxutta Yohanisey Anso Lakko Woosso"
+  "3JN":
+    name: "3Yohanisey"
+    slug: "3yohanisey"
+    name_toc: "Anxutta Yohanisey Anso Haysso Woosso"
+  "JUD":
+    name: "Yayqoobeyndo"
+    slug: "yayqoobeyndo"
+    name_toc: "Yayqoobeyndo Na'i Yuuday Anso Woosso"
+  "REV":
+    name: "Yohanise Haraje"
+    slug: "yohanise-haraje"
+    name_toc: "Yohanise Haraje"

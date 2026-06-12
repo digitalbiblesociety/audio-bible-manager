@@ -1,0 +1,83 @@
+language: "mbi"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Ke Nenged-ulaula"
+    slug: "ke-nenged-ulaula"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"
+  "1CO":
+    name: "1 Kurintu"
+    slug: "1-kurintu"
+  "2CO":
+    name: "2 Kurintu"
+    slug: "2-kurintu"
+  "GAL":
+    name: "Gelasiya"
+    slug: "gelasiya"
+  "EPH":
+    name: "Ipisu"
+    slug: "ipisu"
+  "PHP":
+    name: "Pilipus"
+    slug: "pilipus"
+  "COL":
+    name: "Kulasi"
+    slug: "kulasi"
+  "1TH":
+    name: "1 Tiselunika"
+    slug: "1-tiselunika"
+  "2TH":
+    name: "2 Tiselunika"
+    slug: "2-tiselunika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hibruhanen"
+    slug: "hibruhanen"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+  "REV":
+    name: "Ke Imperayag"
+    slug: "ke-imperayag"

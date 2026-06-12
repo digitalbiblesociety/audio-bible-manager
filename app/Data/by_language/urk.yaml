@@ -1,0 +1,83 @@
+language: "urk"
+books:
+  "MAT":
+    name: "มัดทัย"
+    slug: "madthay"
+  "MRK":
+    name: "มาระโก"
+    slug: "marako"
+  "LUK":
+    name: "ลูกา"
+    slug: "luka"
+  "JHN":
+    name: "โยฮัน"
+    slug: "yohan"
+  "ACT":
+    name: "ปือบูวัจ"
+    slug: "puebuwach"
+  "ROM":
+    name: "โรม"
+    slug: "rom"
+  "1CO":
+    name: "1 โกริน"
+    slug: "1-korin"
+  "2CO":
+    name: "2 โกริน"
+    slug: "2-korin"
+  "GAL":
+    name: "ฆาลาเตีย"
+    slug: "khalateiy"
+  "EPH":
+    name: "เอเฟซัด"
+    slug: "efesad"
+  "PHP":
+    name: "ฟีลิบปี"
+    slug: "filibpi"
+  "COL":
+    name: "โกโลซี"
+    slug: "kolosi"
+  "1TH":
+    name: "1 เทซะโลนิกา"
+    slug: "1-thesalonika"
+  "2TH":
+    name: "2 เทซะโลนิกา"
+    slug: "2-thesalonika"
+  "1TI":
+    name: "1 ทิโมที"
+    slug: "1-thimothi"
+  "2TI":
+    name: "2 ทิโมที"
+    slug: "2-thimothi"
+  "TIT":
+    name: "ทีตัด"
+    slug: "thitad"
+  "PHM":
+    name: "ฟีเลโมน"
+    slug: "filemon"
+  "HEB":
+    name: "ฮีบรู"
+    slug: "hibru"
+  "JAS":
+    name: "ยากอบ"
+    slug: "yakb"
+  "1PE":
+    name: "1 เปโตร"
+    slug: "1-petor"
+  "2PE":
+    name: "2 เปโตร"
+    slug: "2-petor"
+  "1JN":
+    name: "1 โยฮัน"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 โยฮัน"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 โยฮัน"
+    slug: "3-yohan"
+  "JUD":
+    name: "ยูดา"
+    slug: "yuda"
+  "REV":
+    name: "ซูรัจ ปลีฮัจ"
+    slug: "surach-plihach"

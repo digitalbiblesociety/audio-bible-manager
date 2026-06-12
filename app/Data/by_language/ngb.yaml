@@ -1,0 +1,110 @@
+language: "ngb"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+    name_toc: "Nzɔ Pa tɛ Yezo Kristo Matie asu"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Nzɔ̃ Pa tɛ Yezo Kristo mɛ Marko asu"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Nzɔ̃ Pa Tɛ Yezo Kristo mɛ Luka asu"
+  "JHN":
+    name: "Yoanɛ"
+    slug: "yoan"
+    name_toc: "Nzɔ̃ Pa tɛ Yezo Kristo mɛ Yoanɛ asu"
+  "ACT":
+    name: "Awa Pangɔ Kwa"
+    slug: "awa-pang-kwa"
+    name_toc: "Kwa mɛ Awa Pangɔ Kwa tɛ Yezo ali"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Mbɛti mɛ Polo ato hɛ awa Kristo ti Roma"
+  "1CO":
+    name: "1 Kɔrinto"
+    slug: "1-krinto"
+    name_toc: "Kɔzo mbɛti mɛ Polo ato hɛ awa Kristo ti Kɔrinto"
+  "2CO":
+    name: "2 Kɔrinto"
+    slug: "2-krinto"
+    name_toc: "Mbeti ti sɛ mɛ Polo ato hɛ awa Kristo ti Kɔrinto"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Mbeti mɛ Polo ato hɛ awa Kristo ti Galatia"
+  "EPH":
+    name: "Efɛzɛ"
+    slug: "efz"
+    name_toc: "Mbɛti mɛ Polo ato bɛ awa Kristo ti Efɛzɛ"
+  "PHP":
+    name: "Filipɛ"
+    slug: "filip"
+    name_toc: "Mbɛti mɛ Polo ato hɛ awa Kristo ti Filipɛ"
+  "COL":
+    name: "Kɔlɔsɛ"
+    slug: "kls"
+    name_toc: "Mbɛti mɛ Polo ato hɛ awa Kristo ti Kɔlɔsɛ"
+  "1TH":
+    name: "1 Tɛsalɔnikɛ"
+    slug: "1-tsalnik"
+    name_toc: "Kɔzo mbɛti mɛ Polo ato hɛ awa Kristo ti Tɛsalɔnikɛ"
+  "2TH":
+    name: "2 Tɛsalɔnikɛ"
+    slug: "2-tsalnik"
+    name_toc: "Mbɛti ti sɛ mɛ Polo ato hɛ awa Kristo ti Tɛsalɔnikɛ"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+    name_toc: "Kɔzo mbɛti mɛ Polo ato hɛ̃ Timɔte"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+    name_toc: "Mbɛti ti sɛ mɛ Polo ato hɛ̃ Timɔte"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Mbɛti mɛ Polo ato hɛ Tito"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+    name_toc: "Mbɛti mɛ Polo ato hɛ Filemɔ"
+  "HEB":
+    name: "Aebreo"
+    slug: "aebreo"
+    name_toc: "Mbɛti mɛ ato hɛ Aebreo"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+    name_toc: "Mbɛti mɛ Zaki asu"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Kɔzo mbɛti mɛ Petro asu"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Mbɛti ti sɛ mɛ Petro asu"
+  "1JN":
+    name: "1 Yoanɛ"
+    slug: "1-yoan"
+    name_toc: "Kɔzo mbɛti mɛ Yoanɛ asu"
+  "2JN":
+    name: "2 Yoanɛ"
+    slug: "2-yoan"
+    name_toc: "Mbɛti ti sɛ mɛ Yoanɛ asu"
+  "3JN":
+    name: "3 Yoanɛ"
+    slug: "3-yoan"
+    name_toc: "Mbɛti ti ta mɛ Yoanɛ asu"
+  "JUD":
+    name: "Yudɛ"
+    slug: "yud"
+    name_toc: "Mbɛti mɛ Yudɛ asu"
+  "REV":
+    name: "Suma"
+    slug: "suma"
+    name_toc: "Alo mɛ Yezo Kristo afa na Yoanɛ na ya Suma"

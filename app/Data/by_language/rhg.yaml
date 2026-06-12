@@ -1,0 +1,92 @@
+language: "rhg"
+books:
+  "GEN":
+    name: "Torah"
+    slug: "torah"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Moti"
+    slug: "moti"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yohánna"
+    slug: "yohanna"
+  "ACT":
+    name: "Asab"
+    slug: "asab"
+  "ROM":
+    name: "Romiól"
+    slug: "romiol"
+  "1CO":
+    name: "1 Kórintiól"
+    slug: "1-korintiol"
+  "2CO":
+    name: "2 Kórintiól"
+    slug: "2-korintiol"
+  "GAL":
+    name: "Galatiyo"
+    slug: "galatiyo"
+  "EPH":
+    name: "Ifišiyo"
+    slug: "ifisiyo"
+  "PHP":
+    name: "Filíppaiól"
+    slug: "filippaiol"
+  "COL":
+    name: "Kolóciól"
+    slug: "kolociol"
+  "1TH":
+    name: "1 Tisóloniól"
+    slug: "1-tisoloniol"
+  "2TH":
+    name: "2 Tisóloniól"
+    slug: "2-tisoloniol"
+  "1TI":
+    name: "1 Timóti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timóti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibraniól"
+    slug: "hibraniol"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Fitor"
+    slug: "1-fitor"
+  "2PE":
+    name: "2 Fitor"
+    slug: "2-fitor"
+  "1JN":
+    name: "1 Yohánna"
+    slug: "1-yohanna"
+  "2JN":
+    name: "2 Yohánna"
+    slug: "2-yohanna"
+  "3JN":
+    name: "3 Yohánna"
+    slug: "3-yohanna"
+  "JUD":
+    name: "Yohúdah"
+    slug: "yohudah"
+  "REV":
+    name: "Zahéri"
+    slug: "zaheri"

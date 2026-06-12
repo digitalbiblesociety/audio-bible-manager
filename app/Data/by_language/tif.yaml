@@ -1,0 +1,83 @@
+language: "tif"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Korin"
+    slug: "1korin"
+  "2CO":
+    name: "2Korin"
+    slug: "2korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesis"
+    slug: "efesis"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1Tesalonaika"
+    slug: "1tesalonaika"
+  "2TH":
+    name: "2Tesalonaika"
+    slug: "2tesalonaika"
+  "1TI":
+    name: "1Timoti"
+    slug: "1timoti"
+  "2TI":
+    name: "2Timoti"
+    slug: "2timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1Pita"
+    slug: "1pita"
+  "2PE":
+    name: "2Pita"
+    slug: "2pita"
+  "1JN":
+    name: "1Jon"
+    slug: "1jon"
+  "2JN":
+    name: "2Jon"
+    slug: "2jon"
+  "3JN":
+    name: "3Jon"
+    slug: "3jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Revelesin"
+    slug: "revelesin"

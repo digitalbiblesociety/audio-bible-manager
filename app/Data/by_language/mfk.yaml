@@ -1,0 +1,110 @@
+language: "mfk"
+books:
+  "MAT":
+    name: "Matiyew"
+    slug: "matiyew"
+    name_toc: "Mey Hayna Wayna ma Bay Yezu Kriste Matiyew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Mey Hayna Wayna ma Bay Yezu Kriste Mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Mey Hayna Wayna ma Bay Yezu Kriste Luk"
+  "JHN":
+    name: "Zaŋ"
+    slug: "za"
+    name_toc: "Mey Hayna Wayna ma Yezu Kriste Zaŋ"
+  "ACT":
+    name: "Mber"
+    slug: "mber"
+    name_toc: "Mber ma Maslaŋ hay"
+  "ROM":
+    name: "Romeŋ"
+    slug: "rome"
+    name_toc: "Ɗeriwel a Romeŋ hay"
+  "1CO":
+    name: "1 Korintieŋ"
+    slug: "1-korintie"
+    name_toc: "Ɗeriwel tsəfəmey ana a Korintieŋ hay"
+  "2CO":
+    name: "2 Korintieŋ"
+    slug: "2-korintie"
+    name_toc: "Ɗeriwel ma tsetsew ana a Korintieŋ"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+    name_toc: "Ɗeriwel a Galat hay"
+  "EPH":
+    name: "Efeziyeŋ"
+    slug: "efeziye"
+    name_toc: "Ɗeriwel a Efeziyeŋ hay"
+  "PHP":
+    name: "Filipieŋ"
+    slug: "filipie"
+    name_toc: "Ɗeriwel a Filipieŋ hay"
+  "COL":
+    name: "Kolosieŋ"
+    slug: "kolosie"
+    name_toc: "Ɗeriwel a Kolosieŋ hay"
+  "1TH":
+    name: "1 Tesalonisieŋ"
+    slug: "1-tesalonisie"
+    name_toc: "Ɗeriwel tsəfəmey ana a Tesalonisieŋ hay"
+  "2TH":
+    name: "2 Tesalonisieŋ"
+    slug: "2-tesalonisie"
+    name_toc: "Ɗeriwel ma tsetsew ana a Tesalonisieŋ hay"
+  "1TI":
+    name: "1 Timotey"
+    slug: "1-timotey"
+    name_toc: "Ɗeriwel tsəfəmey ana a Timotey"
+  "2TI":
+    name: "2 Timotey"
+    slug: "2-timotey"
+    name_toc: "Ɗeriwel ma tsetsew ana a Timotey"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Ɗeriwel a Tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemo"
+    name_toc: "Ɗeriwel a Filemoŋ"
+  "HEB":
+    name: "Ebrew"
+    slug: "ebrew"
+    name_toc: "Ɗeriwel a Ebrew hay"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+    name_toc: "Ɗeriwel ma Zak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+    name_toc: "Ɗeriwel ma Piyer tsəfəmey ana"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+    name_toc: "Ɗeriwel ma Piyer ma tsetsew ana"
+  "1JN":
+    name: "1 Zaŋ"
+    slug: "1-za"
+    name_toc: "Ɗeriwel ma Zaŋ tsəfəmey ana"
+  "2JN":
+    name: "2 Zaŋ"
+    slug: "2-za"
+    name_toc: "Ɗeriwel ma Zaŋ ma tsetsew ana"
+  "3JN":
+    name: "3 Zaŋ"
+    slug: "3-za"
+    name_toc: "Ɗeriwel ma Zaŋ ma makar ana"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+    name_toc: "Ɗeriwel ma Zud"
+  "REV":
+    name: "Apokalis"
+    slug: "apokalis"
+    name_toc: "Ɗeriwel ma Apokalis ma Zaŋ"

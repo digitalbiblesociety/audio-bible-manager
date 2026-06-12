@@ -1,0 +1,266 @@
+language: "tcc"
+books:
+  "GEN":
+    name: "Giing'eeta"
+    slug: "giing-eeta"
+    name_toc: "Eitabo Loka Daniel"
+  "EXO":
+    name: "Riteayda"
+    slug: "riteayda"
+    name_toc: "Kosea"
+  "LEV":
+    name: "Ng'asheega Lawi"
+    slug: "ng-asheega-lawi"
+    name_toc: "Yoel"
+  "NUM":
+    name: "Iitooda"
+    slug: "iitooda"
+    name_toc: "Amos"
+  "DEU":
+    name: "Giipkeata Diigheanda"
+    slug: "giipkeata-diigheanda"
+    name_toc: "Obadia"
+  "JOS":
+    name: "Yoshuwa"
+    slug: "yoshuwa"
+    name_toc: "Yona"
+  "JDG":
+    name: "Fuga Laja Girgweaguutka"
+    slug: "fuga-laja-girgweaguutka"
+    name_toc: "Mika"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Nakum"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Kabakuk"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Sepania"
+  "1KI":
+    name: "1 Sugoodiga"
+    slug: "1-sugoodiga"
+    name_toc: "Kagai"
+  "2KI":
+    name: "2 Sugoodiga"
+    slug: "2-sugoodiga"
+    name_toc: "Sekaria"
+  "1CH":
+    name: "1 Damanyoojiga"
+    slug: "1-damanyoojiga"
+    name_toc: "Malaki"
+  "2CH":
+    name: "2 Damanyoojiga"
+    slug: "2-damanyoojiga"
+    name_toc: "Akiro Nukajokak Kwape Iwadikator Matayo Lokalaunan"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Akiro Nukajokak Kwape Iwadikator Marako"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Akiro Nukajokak Kwape Iwadikator Luka"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Akiro Nukajokak Kwape Iwadikator Yokana"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+    name_toc: "Aswamisio Nuka Ikiyakia"
+  "PSA":
+    name: "Nyiigheega"
+    slug: "nyiigheega"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejaas Iromayon"
+  "PRO":
+    name: "Ghwasiildeanga"
+    slug: "ghwasiildeanga"
+    name_toc: "Ebalua Losodit Loka Paul Ekiyakia Mama Ejaas Ikorinton"
+  "ECC":
+    name: "Reekusiinda"
+    slug: "reekusiinda"
+    name_toc: "Ebalua Lokiareit Loka Paul Ekiyakia Mama Ejaas Ikorinton"
+  "SNG":
+    name: "Sarmeeda Sulemani"
+    slug: "sarmeeda-sulemani"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejaas Igalatian"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejaas Ipeson"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejaas Ipilipin"
+  "LAM":
+    name: "Heareega"
+    slug: "heareega"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejaas Ikolosain"
+  "EZK":
+    name: "Esekieli"
+    slug: "esekieli"
+    name_toc: "Ebalua Losodit Loka Paul Ekiyakia Mama Ejaas Isesalonikan"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Ebalua Lokiareit Loka Paul Ekiyakia Mama Ejaas Isesalonikan"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Ebalua Losodit Loka Paul Ekiyakia Mama Ejai Timoteo"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Ebalua Lokiareit Loka Paul Ekiyakia Mama Ejai Timoteo"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejai Tito"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Ebalua Loka Paul Ekiyakia Mama Ejai Pilemon"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Ebalua Mama Ejaas Iburanian"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Ebalua Loka Yakob"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Ebalua Losodit Loka Petero Mama Ejaas Ituŋa Kere"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Ebalua Lokiareit Loka Petero Mama Ejaas Ituŋa Kere"
+  "ZEP":
+    name: "Sefaniya"
+    slug: "sefaniya"
+    name_toc: "Ebalua Losodit Loka Yokana"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+    name_toc: "Ebalua Lokiareit Loka Yokana"
+  "ZEC":
+    name: "Sakariya"
+    slug: "sakariya"
+    name_toc: "Ebalua Lokiwuniet Loka Yokana"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Ebalua Loka Yuda Mama Ejaas Ituŋa Kere"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Apukokinio Naka Yokana Lokalaunan"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Eitabo Losodit Loka Musa Loenyaritai Ageun"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ilagho Lyaloli Tahawo Ni Marko"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ilagho Lyaloli Tahawo Ni Luka"
+  "ACT":
+    name: "Gadiyeeda Giijasoodiga"
+    slug: "gadiyeeda-giijasoodiga"
+    name_toc: "Eitabo Lokiwoŋonet Loka Musa Loenyaritai Aimario"
+  "ROM":
+    name: "Rumi"
+    slug: "rumi"
+    name_toc: "Madeo Gha Watumo"
+  "1CO":
+    name: "1 Gorinto"
+    slug: "1-gorinto"
+    name_toc: "Barua Ya Paulo Kwa Waroma"
+  "2CO":
+    name: "2 Gorinto"
+    slug: "2-gorinto"
+    name_toc: "Barua Ya Hambiri Ya Paulo Kwa Wakorintho"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "Barua Ya Kaili Ya Paulo Kwa Wakorintho"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Barua Ya Paulo Kwa Wagalatia"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Barua Ya Paulo Kwa Waefeso"
+  "COL":
+    name: "Golosayi"
+    slug: "golosayi"
+    name_toc: "Barua Ya Paulo Kwa Wafilipi"
+  "1TH":
+    name: "1 Desalonike"
+    slug: "1-desalonike"
+    name_toc: "Barua Ya Paulo Kwa Wakolosai"
+  "2TH":
+    name: "2 Desalonike"
+    slug: "2-desalonike"
+    name_toc: "Barua Ya Hambiri Ya Paulo Kwa Wathesalonike"
+  "1TI":
+    name: "1 Dimoteo"
+    slug: "1-dimoteo"
+    name_toc: "Barua Ya Kaili Ya Paulo Kwa Wathesalonike"
+  "2TI":
+    name: "2 Dimoteo"
+    slug: "2-dimoteo"
+    name_toc: "Eitabo Loka Esera"
+  "TIT":
+    name: "Dito"
+    slug: "dito"
+    name_toc: "Barua Ya Kaili Ya Paulo Kwa Timotheo"
+  "PHM":
+    name: "Filimoon"
+    slug: "filimoon"
+    name_toc: "Eitabo Loka Esita"
+  "HEB":
+    name: "Ebraniya"
+    slug: "ebraniya"
+    name_toc: "Eitabo Loka Yob"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Barua Kwa Wahebrania"
+  "1PE":
+    name: "1 Betro"
+    slug: "1-betro"
+    name_toc: "Awaragasia"
+  "2PE":
+    name: "2 Betro"
+    slug: "2-betro"
+    name_toc: "Ecclesiastes Arai Ekalimonokinan"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Barua Ya Kaili Ya Petro"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Barua Ya Hambiri Ya Johana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Barua Ya Kaili Ya Johana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Barua Ya Katatu Ya Johana"
+  "REV":
+    name: "Giidaheechta"
+    slug: "giidaheechta"
+    name_toc: "Eitabo Loka Enabi Esekiel"

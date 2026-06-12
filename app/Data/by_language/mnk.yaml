@@ -1,0 +1,266 @@
+language: "mnk"
+books:
+  "GEN":
+    name: "1 Musa"
+    slug: "1-musa"
+    name_toc: "Musa la Kitaabu Foloo"
+  "EXO":
+    name: "2 Musa"
+    slug: "2-musa"
+    name_toc: "Musa la Kitaabu Fulanjaŋo"
+  "LEV":
+    name: "3 Musa"
+    slug: "3-musa"
+    name_toc: "Musa la Kitaabu Sabanjaŋo"
+  "NUM":
+    name: "4 Musa"
+    slug: "4-musa"
+    name_toc: "Musa la Kitaabu Naaninjaŋo"
+  "DEU":
+    name: "5 Musa"
+    slug: "5-musa"
+    name_toc: "Musa la Kitaabu Luulunjaŋo"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+    name_toc: "Yosuwa la Kitaaboo"
+  "JDG":
+    name: "Kiitindirilaalu"
+    slug: "kiitindirilaalu"
+    name_toc: "Kiitindirilaalu la Kitaaboo"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Ruti la Kitaaboo"
+  "1SA":
+    name: "1 Samuweli"
+    slug: "1-samuweli"
+    name_toc: "Samuweli la Kitaabu Foloo"
+  "2SA":
+    name: "2 Samuweli"
+    slug: "2-samuweli"
+    name_toc: "Samuweli la Kitaabu Fulanjaŋo"
+  "1KI":
+    name: "1 Mansoolu"
+    slug: "1-mansoolu"
+    name_toc: "Mansoolu la Kitaabu Foloo"
+  "2KI":
+    name: "2 Mansoolu"
+    slug: "2-mansoolu"
+    name_toc: "Mansoolu la Kitaabu Fulanjaŋo"
+  "1CH":
+    name: "1 Taarika"
+    slug: "1-taarika"
+    name_toc: "Taarika Kitaabu Foloo"
+  "2CH":
+    name: "2 Taarika"
+    slug: "2-taarika"
+    name_toc: "Taarika Kitaabu Fulanjaŋo"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "Esira la Kitaaboo"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Nehemiya la Kitaaboo"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita la Kitaaboo"
+  "JOB":
+    name: "Yuuba"
+    slug: "yuuba"
+    name_toc: "Yuuba la Kitaaboo"
+  "PSA":
+    name: "Jabuuroolu"
+    slug: "jabuuroolu"
+    name_toc: "Jabuuroolu"
+  "PRO":
+    name: "Kuma Kotoomaalu"
+    slug: "kuma-kotoomaalu"
+    name_toc: "Kuma Kotoomaalu Kitaaboo"
+  "ECC":
+    name: "Kawandilaa"
+    slug: "kawandilaa"
+    name_toc: "Kawandilaa la Kitaaboo"
+  "SNG":
+    name: "Suukuwo"
+    slug: "suukuwo"
+    name_toc: "Suukuwolu la Suukuwo"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Yesaya la Kitaaboo"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Yeremiya la Kitaaboo"
+  "LAM":
+    name: "Niikuyaa Suukuwolu"
+    slug: "niikuyaa-suukuwolu"
+    name_toc: "Niikuyaa Suukuwolu"
+  "EZK":
+    name: "Esekiyeli"
+    slug: "esekiyeli"
+    name_toc: "Esekiyeli la Kitaaboo"
+  "DAN":
+    name: "Daniyeli"
+    slug: "daniyeli"
+    name_toc: "Daniyeli la Kitaaboo"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Hoseya la Kitaaboo"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+    name_toc: "Yoweli la Kitaaboo"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Amosi la Kitaaboo"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Obadiya la Kitaaboo"
+  "JON":
+    name: "Yunusa"
+    slug: "yunusa"
+    name_toc: "Yunusa la Kitaaboo"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika la Kitaaboo"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Nahumu la Kitaaboo"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Habakuki la Kitaaboo"
+  "ZEP":
+    name: "Sefaniya"
+    slug: "sefaniya"
+    name_toc: "Sefaniya la Kitaaboo"
+  "HAG":
+    name: "Hakayi"
+    slug: "hakayi"
+    name_toc: "Hakayi la Kitaaboo"
+  "ZEC":
+    name: "Jakariya"
+    slug: "jakariya"
+    name_toc: "Jakariya la Kitaaboo"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Malaki la Kitaaboo"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Kibaari Betoo Yeesu Kiristu la kuwo to Matiyu ye meŋ safee"
+  "MRK":
+    name: "Maaka"
+    slug: "maaka"
+    name_toc: "Kibaari Betoo Yeesu Kiristu la kuwo to Maaka ye meŋ safee"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Kibaari Betoo Yeesu Kiristu la kuwo to Luka ye meŋ safee"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Kibaari Betoo Yeesu Kiristu la kuwo to Yohana ye meŋ safee"
+  "ACT":
+    name: "Kiilaalu"
+    slug: "kiilaalu"
+    name_toc: "Yeesu la Kiilaalu la Kebaaroolu"
+  "ROM":
+    name: "Roomankoolu"
+    slug: "roomankoolu"
+    name_toc: "Pawulu la Leetaroo Roomankoolu ye"
+  "1CO":
+    name: "1 Korintinkoolu"
+    slug: "1-korintinkoolu"
+    name_toc: "Pawulu la Leetari Foloo Korintinkoolu ye"
+  "2CO":
+    name: "2 Korintinkoolu"
+    slug: "2-korintinkoolu"
+    name_toc: "Pawulu la Leetari Fulanjaŋo Korintinkoolu ye"
+  "GAL":
+    name: "Kalatiyankoolu"
+    slug: "kalatiyankoolu"
+    name_toc: "Pawulu la Leetaroo Kalatiyankoolu ye"
+  "EPH":
+    name: "Efesusinkoolu"
+    slug: "efesusinkoolu"
+    name_toc: "Pawulu la Leetaroo Efesusinkoolu ye"
+  "PHP":
+    name: "Filipinkoolu"
+    slug: "filipinkoolu"
+    name_toc: "Pawulu la Leetaroo Filipinkoolu ye"
+  "COL":
+    name: "Kolosankoolu"
+    slug: "kolosankoolu"
+    name_toc: "Pawulu la Leetaroo Kolosankoolu ye"
+  "1TH":
+    name: "1 Tesalonikankoolu"
+    slug: "1-tesalonikankoolu"
+    name_toc: "Pawulu la Leetari Foloo Tesalonikankoolu ye"
+  "2TH":
+    name: "2 Tesalonikankoolu"
+    slug: "2-tesalonikankoolu"
+    name_toc: "Pawulu la Leetari Fulanjaŋo Tesalonikankoolu ye"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Pawulu la Leetari Foloo Timoti ye"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Pawulu la Leetari Fulanjaŋo Timoti ye"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Pawulu la Leetaroo Titus ye"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Pawulu la Leetaroo Filemoni ye"
+  "HEB":
+    name: "Hiburunkoolu"
+    slug: "hiburunkoolu"
+    name_toc: "Leetaroo Hiburunkoolu ye"
+  "JAS":
+    name: "Yankuba"
+    slug: "yankuba"
+    name_toc: "Yankuba la Leetaroo"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Pita la Leetari Foloo"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pita la Leetari Fulanjaŋo"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Yohana la Leetari Foloo"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Yohana la Leetari Fulanjaŋo"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Yohana la Leetari Sabanjaŋo"
+  "JUD":
+    name: "Yuuda"
+    slug: "yuuda"
+    name_toc: "Yuuda la Leetaroo"
+  "REV":
+    name: "Lankenemoo"
+    slug: "lankenemoo"
+    name_toc: "Yeesu Kiristu la Lankenemoo Yohana ye"

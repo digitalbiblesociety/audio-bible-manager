@@ -1,0 +1,83 @@
+language: "csk"
+books:
+  "MAT":
+    name: "Máciya"
+    slug: "maciya"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Lík"
+    slug: "lik"
+  "JHN":
+    name: "Saŋ"
+    slug: "san"
+  "ACT":
+    name: "Bakaanelabu"
+    slug: "bakaanelabu"
+  "ROM":
+    name: "Kata Lom"
+    slug: "kata-lom"
+  "1CO":
+    name: "1 Kata Koolent"
+    slug: "1-kata-koolent"
+  "2CO":
+    name: "2 Kata Koolent"
+    slug: "2-kata-koolent"
+  "GAL":
+    name: "Kata Galasi"
+    slug: "kata-galasi"
+  "EPH":
+    name: "Kata Efées"
+    slug: "kata-efees"
+  "PHP":
+    name: "Kata Fílib"
+    slug: "kata-filib"
+  "COL":
+    name: "Kata Kolos"
+    slug: "kata-kolos"
+  "1TH":
+    name: "1 Kata Tesalonik"
+    slug: "1-kata-tesalonik"
+  "2TH":
+    name: "2 Kata Tesalonik"
+    slug: "2-kata-tesalonik"
+  "1TI":
+    name: "1 Tímote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Tímote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Éebulo"
+    slug: "eebulo"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Fiyeel"
+    slug: "1-fiyeel"
+  "2PE":
+    name: "2 Fiyeel"
+    slug: "2-fiyeel"
+  "1JN":
+    name: "1 Saŋ"
+    slug: "1-san"
+  "2JN":
+    name: "2 Saŋ"
+    slug: "2-san"
+  "3JN":
+    name: "3 Saŋ"
+    slug: "3-san"
+  "JUD":
+    name: "Súd"
+    slug: "sud"
+  "REV":
+    name: "Búhiisenumabu"
+    slug: "buhiisenumabu"

@@ -1,0 +1,83 @@
+language: "atb"
+books:
+  "MAT":
+    name: "Mahte"
+    slug: "mahte"
+  "MRK":
+    name: "Markuq"
+    slug: "markuq"
+  "LUK":
+    name: "Lukaq"
+    slug: "lukaq"
+  "JHN":
+    name: "Yohan"
+    slug: "yohan"
+  "ACT":
+    name: "Lagyo"
+    slug: "lagyo"
+  "ROM":
+    name: "Romaq"
+    slug: "romaq"
+  "1CO":
+    name: "1 Korinhtuq"
+    slug: "1-korinhtuq"
+  "2CO":
+    name: "2 Korinhtuq"
+    slug: "2-korinhtuq"
+  "GAL":
+    name: "Galatiq"
+    slug: "galatiq"
+  "EPH":
+    name: "Ehpesu"
+    slug: "ehpesu"
+  "PHP":
+    name: "Hpilipi"
+    slug: "hpilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Htesaloni"
+    slug: "1-htesaloni"
+  "2TH":
+    name: "2 Htesaloni"
+    slug: "2-htesaloni"
+  "1TI":
+    name: "1 Timohti"
+    slug: "1-timohti"
+  "2TI":
+    name: "2 Timohti"
+    slug: "2-timohti"
+  "TIT":
+    name: "Tituq"
+    slug: "tituq"
+  "PHM":
+    name: "Hpilemon"
+    slug: "hpilemon"
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+  "JAS":
+    name: "Yakuq"
+    slug: "yakuq"
+  "1PE":
+    name: "1 Petruq"
+    slug: "1-petruq"
+  "2PE":
+    name: "2 Petruq"
+    slug: "2-petruq"
+  "1JN":
+    name: "1 Yohan"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 Yohan"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 Yohan"
+    slug: "3-yohan"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Shing-rán"
+    slug: "shing-ran"

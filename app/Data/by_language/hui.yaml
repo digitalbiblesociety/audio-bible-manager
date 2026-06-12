@@ -1,0 +1,236 @@
+language: "hui"
+books:
+  "GEN":
+    name: "Pigane Binigo"
+    slug: "pigane-binigo"
+  "EXO":
+    name: "Haru Penego"
+    slug: "haru-penego"
+  "LEV":
+    name: "Loma Binigo"
+    slug: "loma-binigo"
+  "NUM":
+    name: "Dagalene"
+    slug: "dagalene"
+  "DEU":
+    name: "Mana Loyane"
+    slug: "mana-loyane"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Haguane Heneru"
+    slug: "haguane-heneru"
+  "RUT":
+    name: "Ludi"
+    slug: "ludi"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+  "1KI":
+    name: "1 Kini"
+    slug: "1-kini"
+  "2KI":
+    name: "2 Kini"
+    slug: "2-kini"
+  "1CH":
+    name: "1 Bi Te"
+    slug: "1-bi-te"
+  "2CH":
+    name: "2 Bi Te"
+    slug: "2-bi-te"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+  "NEH":
+    name: "Nehemaia"
+    slug: "nehemaia"
+  "EST":
+    name: "Eseda"
+    slug: "eseda"
+  "JOB":
+    name: "Yobo"
+    slug: "yobo"
+  "PSA":
+    name: "Iba Gana"
+    slug: "iba-gana"
+  "PRO":
+    name: "Mini Gigabi"
+    slug: "mini-gigabi"
+  "ECC":
+    name: "Agali Mandabi"
+    slug: "agali-mandabi"
+  "SNG":
+    name: "Solomono"
+    slug: "solomono"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Yaremaia"
+    slug: "yaremaia"
+  "LAM":
+    name: "Dugu"
+    slug: "dugu"
+  "EZK":
+    name: "Esegiele"
+    slug: "esegiele"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoele"
+    slug: "yoele"
+  "AMO":
+    name: "Amoso"
+    slug: "amoso"
+  "OBA":
+    name: "Obadaia"
+    slug: "obadaia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Maiga"
+    slug: "maiga"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habagugu"
+    slug: "habagugu"
+  "ZEP":
+    name: "Sebanaia"
+    slug: "sebanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Segaraia"
+    slug: "segaraia"
+  "MAL":
+    name: "Malagai"
+    slug: "malagai"
+  "TOB":
+    name: "Tobidi"
+    slug: "tobidi"
+  "JDT":
+    name: "Yudidi"
+    slug: "yudidi"
+  "ESG":
+    name: "Eseda Girigi"
+    slug: "eseda-girigi"
+  "WIS":
+    name: "Gigabi"
+    slug: "gigabi"
+  "SIR":
+    name: "Siraga"
+    slug: "siraga"
+  "BAR":
+    name: "Barugu"
+    slug: "barugu"
+  "LJE":
+    name: "Yaremaiahanda"
+    slug: "yaremaiahanda"
+  "S3Y":
+    name: "Igiri Tebirali"
+    slug: "igiri-tebirali"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+  "BEL":
+    name: "Bele"
+    slug: "bele"
+  "1MA":
+    name: "1 Magabi"
+    slug: "1-magabi"
+  "2MA":
+    name: "2 Magabi"
+    slug: "2-magabi"
+  "MAT":
+    name: "Madiu"
+    slug: "madiu"
+  "MRK":
+    name: "Maga"
+    slug: "maga"
+  "LUK":
+    name: "Lugu"
+    slug: "lugu"
+  "JHN":
+    name: "Yone"
+    slug: "yone"
+  "ACT":
+    name: "Abosolo"
+    slug: "abosolo"
+  "ROM":
+    name: "Lomo"
+    slug: "lomo"
+  "1CO":
+    name: "1 Korindi"
+    slug: "1-korindi"
+  "2CO":
+    name: "2 Korindi"
+    slug: "2-korindi"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Ebesa"
+    slug: "ebesa"
+  "PHP":
+    name: "Pilibai"
+    slug: "pilibai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaiga"
+    slug: "1-tesalonaiga"
+  "2TH":
+    name: "2 Tesalonaiga"
+    slug: "2-tesalonaiga"
+  "1TI":
+    name: "1 Timodi"
+    slug: "1-timodi"
+  "2TI":
+    name: "2 Timodi"
+    slug: "2-timodi"
+  "TIT":
+    name: "Taidasa"
+    slug: "taidasa"
+  "PHM":
+    name: "Pilimono"
+    slug: "pilimono"
+  "HEB":
+    name: "Hiburu"
+    slug: "hiburu"
+  "JAS":
+    name: "Yamese"
+    slug: "yamese"
+  "1PE":
+    name: "1 Pida"
+    slug: "1-pida"
+  "2PE":
+    name: "2 Pida"
+    slug: "2-pida"
+  "1JN":
+    name: "1 Yone"
+    slug: "1-yone"
+  "2JN":
+    name: "2 Yone"
+    slug: "2-yone"
+  "3JN":
+    name: "3 Yone"
+    slug: "3-yone"
+  "JUD":
+    name: "Yudi"
+    slug: "yudi"
+  "REV":
+    name: "Mo Walia"
+    slug: "mo-walia"

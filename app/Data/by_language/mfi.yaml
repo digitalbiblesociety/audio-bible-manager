@@ -1,0 +1,86 @@
+language: "mfi"
+books:
+  "GEN":
+    name: "Gav."
+    slug: "gav"
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Slera-aha"
+    slug: "slera-aha"
+  "ROM":
+    name: "Rauma-aha"
+    slug: "rauma-aha"
+  "1CO":
+    name: "1 Kaurintus-aha"
+    slug: "1-kaurintus-aha"
+  "2CO":
+    name: "2 Kaurintus-aha"
+    slug: "2-kaurintus-aha"
+  "GAL":
+    name: "Galatiya-aha"
+    slug: "galatiya-aha"
+  "EPH":
+    name: "Aifaisus-aha"
+    slug: "aifaisus-aha"
+  "PHP":
+    name: "Filipi-aha"
+    slug: "filipi-aha"
+  "COL":
+    name: "Kaulausiya-aha"
+    slug: "kaulausiya-aha"
+  "1TH":
+    name: "1 Taisalauniki-aha"
+    slug: "1-taisalauniki-aha"
+  "2TH":
+    name: "2 Taisalauniki-aha"
+    slug: "2-taisalauniki-aha"
+  "1TI":
+    name: "1 Timaute"
+    slug: "1-timaute"
+  "2TI":
+    name: "2 Timaute"
+    slug: "2-timaute"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filaimaun"
+    slug: "filaimaun"
+  "HEB":
+    name: "Ibraniŋkau-aha"
+    slug: "ibraninkau-aha"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yuhanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 Yuhanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 Yuhanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Wahayu"
+    slug: "wahayu"

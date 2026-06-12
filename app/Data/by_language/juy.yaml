@@ -1,0 +1,80 @@
+language: "juy"
+books:
+  "MAT":
+    name: "ମାତିଉ"
+    slug: "matiu"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+  "LUK":
+    name: "ଲୁକ"
+    slug: "luka"
+  "ACT":
+    name: "ଅନାପ୍ପାୟ୍‌"
+    slug: "anappay"
+  "ROM":
+    name: "ରୋମିଅ"
+    slug: "romia"
+  "1CO":
+    name: "୧ କରନ୍ତି"
+    slug: "1-karanti"
+  "2CO":
+    name: "୨ କରନ୍ତି"
+    slug: "2-karanti"
+  "GAL":
+    name: "ଗାଲାତି"
+    slug: "galati"
+  "EPH":
+    name: "ଏପିସି"
+    slug: "episi"
+  "PHP":
+    name: "ପିଲିପି"
+    slug: "pilipi"
+  "COL":
+    name: "କଲସି"
+    slug: "kalasi"
+  "1TH":
+    name: "୧ ତେସଲନିକି"
+    slug: "1-tesalaniki"
+  "2TH":
+    name: "୨ ତେସଲନିକି"
+    slug: "2-tesalaniki"
+  "1TI":
+    name: "୧ ତିମତି"
+    slug: "1-timati"
+  "2TI":
+    name: "୨ ତିମତି"
+    slug: "2-timati"
+  "TIT":
+    name: "ତିତସ"
+    slug: "titasa"
+  "PHM":
+    name: "ପିଲିମନ୍‌"
+    slug: "piliman"
+  "HEB":
+    name: "ଏବ୍ରି"
+    slug: "ebri"
+  "JAS":
+    name: "ଜାକୁବ"
+    slug: "jakuba"
+  "1PE":
+    name: "୧ ପିତ୍ର"
+    slug: "1-pitra"
+  "2PE":
+    name: "୨ ପିତ୍ର"
+    slug: "2-pitra"
+  "1JN":
+    name: "୧ ଜନ"
+    slug: "1-jana"
+  "2JN":
+    name: "୨ ଜନ"
+    slug: "2-jana"
+  "3JN":
+    name: "୩ ଜନ"
+    slug: "3-jana"
+  "JUD":
+    name: "ଜିଉଦା"
+    slug: "jiuda"
+  "REV":
+    name: "ଅନବ୍‌ଜନାବର୍‌"
+    slug: "anabjanabar"

@@ -1,0 +1,110 @@
+language: "mhy"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Kabar Maeh Sa Natahampe Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Kabar Maeh Sa Natahampe Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Kabar Maeh Sa Natahampe Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Kabar Maeh Sa Natahampe Yohanes"
+  "ACT":
+    name: "Kesah Kawan Rasul"
+    slug: "kesah-kawan-rasul"
+    name_toc: "Kesah Kawan Rasul"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Surat Paulus Ma Ungkup Hang Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Surat Paulus Sa Palanungkai Ma Ungkup Hang Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Surat Paulus Sa Karueh Ma Ungkup Hang Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Surat Paulus Ma Kawan Ungkup Hang Galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "Surat Paulus Ma Ungkup Hang Epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Surat Paulus Ma Ungkup Hang Pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Surat Paulus Ma Ungkup Hang Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Surat Paulus Sa Palanungkai Ma Ungkup Hang Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Surat Paulus Sa Karueh Ma Ungkup Hang Tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Surat Paulus Sa Palanungkai Ma Hi Timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Surat Paulus Sa Karueh Ma Hi Timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Surat Paulus Ma Hi Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Surat Paulus Ma Hi Filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Surat Ma Ulun Ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Surat Yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Surat Petrus Sa Palanungkai"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Surat Petrus Sa Karueh"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Surat Yohanes Sa Palanungkai"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Surat Yohanes Sa Karueh"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Surat Yohanes Sa Katelu"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Surat Yudas"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"
+    name_toc: "Wahyu Ma Hi Yohanes"

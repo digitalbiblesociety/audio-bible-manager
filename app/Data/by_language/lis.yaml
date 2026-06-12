@@ -1,0 +1,266 @@
+language: "lis"
+books:
+  "GEN":
+    name: "yi ce yi wu To L"
+    slug: "yi-ce-yi-wu-to-l"
+    name_toc: "yi ce yi wu To L (genesis)"
+  "EXO":
+    name: "do je To L"
+    slug: "do-je-to-l"
+    name_toc: "do je To L (exodus)"
+  "LEV":
+    name: "lE-yi To L"
+    slug: "le-yi-to-l"
+    name_toc: "lE-yi To L (leviticus)"
+  "NUM":
+    name: "p xy U To L"
+    slug: "p-xy-u-to-l"
+    name_toc: "p xy U To L (numbers)"
+  "DEU":
+    name: "jU k bA m. To L"
+    slug: "ju-k-ba-m-to-l"
+    name_toc: "jU: k bA m. To L (deuteronomy)"
+  "JOS":
+    name: "yo-xu To L"
+    slug: "yo-xu-to-l"
+    name_toc: "yo-xu To L (joshua)"
+  "JDG":
+    name: "bA mu xy, P To L"
+    slug: "ba-mu-xy-p-to-l"
+    name_toc: "bA mu xy, P To L (judges)"
+  "RUT":
+    name: "ru-TE To L"
+    slug: "ru-te-to-l"
+    name_toc: "ru-TE To L (ruth)"
+  "1SA":
+    name: "1 s-mu-ye To L"
+    slug: "1-s-mu-ye-to-l"
+    name_toc: "1 s-mu-ye To L (first book of samuel)"
+  "2SA":
+    name: "2 s-mu-ye To L"
+    slug: "2-s-mu-ye-to-l"
+    name_toc: "2 s-mu-ye To L (second book of samuel)"
+  "1KI":
+    name: "1 w ti To L"
+    slug: "1-w-ti-to-l"
+    name_toc: "1 w ti To L (first book of the kings)"
+  "2KI":
+    name: "2 w ti To L"
+    slug: "2-w-ti-to-l"
+    name_toc: "2 w ti To L (second book of kings)"
+  "1CH":
+    name: "1 c mi To L"
+    slug: "1-c-mi-to-l"
+    name_toc: "1 c mi To L (first book of the chronicles)"
+  "2CH":
+    name: "2 c mi To L"
+    slug: "2-c-mi-to-l"
+    name_toc: "2 c mi To L (second book of the chronicles)"
+  "EZR":
+    name: "E,-sL-l To L"
+    slug: "e-sl-l-to-l"
+    name_toc: "E,-sL-l To L (the book of ezra)"
+  "NEH":
+    name: "ni-y-m-y To L"
+    slug: "ni-y-m-y-to-l"
+    name_toc: "ni-y-m-y To L (the book of nehemiah)"
+  "EST":
+    name: "E-sL-TE To L"
+    slug: "e-sl-te-to-l"
+    name_toc: "E-sL-TE To L (the book of esther)"
+  "JOB":
+    name: "yo-be To L"
+    slug: "yo-be-to-l"
+    name_toc: "yo-be To L (the book of job)"
+  "PSA":
+    name: "mu gw To L"
+    slug: "mu-gw-to-l"
+    name_toc: "mu gw To L (the book of psalms)"
+  "PRO":
+    name: "Vo jE To L"
+    slug: "vo-je-to-l"
+    name_toc: "Vo jE To L (the book of proverbs)"
+  "ECC":
+    name: "m. mi c P To L"
+    slug: "m-mi-c-p-to-l"
+    name_toc: "m. mi c P To L (ecclesiastes)"
+  "SNG":
+    name: "so-lo-mo mu gw To L"
+    slug: "so-lo-mo-mu-gw-to-l"
+    name_toc: "so-lo-mo mu gw To L (the song of solomon)"
+  "ISA":
+    name: "yi-s-y To L"
+    slug: "yi-s-y-to-l"
+    name_toc: "yi-s-y To L (the book of isaiah)"
+  "JER":
+    name: "ye-li-mi To L"
+    slug: "ye-li-mi-to-l"
+    name_toc: "ye-li-mi To L (the book of jeremiah)"
+  "LAM":
+    name: "a CyH jE To L"
+    slug: "a-cyh-je-to-l"
+    name_toc: "a CyH jE To L (lamentations)"
+  "EZK":
+    name: "yi-xi-ce To L"
+    slug: "yi-xi-ce-to-l"
+    name_toc: "yi-xi-ce To L (the book of ezekiel)"
+  "DAN":
+    name: "d-ni-le To L"
+    slug: "d-ni-le-to-l"
+    name_toc: "d-ni-le To L (the book of daniel)"
+  "HOS":
+    name: "ho-xi-y To L"
+    slug: "ho-xi-y-to-l"
+    name_toc: "ho-xi-y To L (the book of hosea)"
+  "JOL":
+    name: "yo-L To L"
+    slug: "yo-l-to-l"
+    name_toc: "yo-L To L (the book of joel)"
+  "AMO":
+    name: "a-mo-si To L"
+    slug: "a-mo-si-to-l"
+    name_toc: "a-mo-si To L (the book of amos)"
+  "OBA":
+    name: "o-bD-d-y; To L"
+    slug: "o-bd-d-y-to-l"
+    name_toc: "o-bD-d-y; To L (the book of obadiah)"
+  "JON":
+    name: "yo,-n To L"
+    slug: "yo-n-to-l"
+    name_toc: "yo,-n To L (the book of jonah)"
+  "MIC":
+    name: "mi-KD: To L"
+    slug: "mi-kd-to-l"
+    name_toc: "mi-KD: To L (the book of micah)"
+  "NAM":
+    name: "ne-yu-mD To L"
+    slug: "ne-yu-md-to-l"
+    name_toc: "ne-yu-mD To L (the book of nahum)"
+  "HAB":
+    name: "h-b-KL To L"
+    slug: "h-b-kl-to-l"
+    name_toc: "h-b-KL To L (the book of habakkuk)"
+  "ZEP":
+    name: "RD-J-n-y; To L"
+    slug: "rd-j-n-y-to-l"
+    name_toc: "RD-J-n-y; To L (the book of zephaniah)"
+  "HAG":
+    name: "h-kD To L"
+    slug: "h-kd-to-l"
+    name_toc: "h-kD To L (the book of haggai)"
+  "ZEC":
+    name: "s-cy-li-y To L"
+    slug: "s-cy-li-y-to-l"
+    name_toc: "s-cy-li-y To L (the book of zechariah)"
+  "MAL":
+    name: "mA-lD-KD To L"
+    slug: "ma-ld-kd-to-l"
+    name_toc: "mA-lD-KD To L (the book of malachi)"
+  "MAT":
+    name: "m-Ti To L"
+    slug: "m-ti-to-l"
+    name_toc: "m-Ti boO m L; Vo xE Vo To L (the gospel of matthew)"
+  "MRK":
+    name: "m-Ko To L"
+    slug: "m-ko-to-l"
+    name_toc: "m-Ko boO m L; Vo xE, Vo To L (the gospel of mark)"
+  "LUK":
+    name: "lu-K To L"
+    slug: "lu-k-to-l"
+    name_toc: "lu-K boO m L; Vo xE, Vo To L (the gospel of luke)"
+  "JHN":
+    name: "yo-v To L"
+    slug: "yo-v-to-l"
+    name_toc: "yo-v boO m L; Vo xE, Vo To L (the gospel of john)"
+  "ACT":
+    name: "fi du To L"
+    slug: "fi-du-to-l"
+    name_toc: "fi du bu yeO m c mi: To L (the acts of the apostles)"
+  "ROM":
+    name: "ro-m To L"
+    slug: "ro-m-to-l"
+    name_toc: "ro-m kw m Ku zi; Fo tA bo gLO m To L lA xu (romans)"
+  "1CO":
+    name: "1 Ko-lE-Tu To L"
+    slug: "1-ko-le-tu-to-l"
+    name_toc: "Ko-lE-Tu su tA bo gLO m To L lA xu yi wu. Ti cu. (the first epistle to the corinthians )"
+  "2CO":
+    name: "2 Ko-lE-Tu To L"
+    slug: "2-ko-le-tu-to-l"
+    name_toc: "Ko-lE-Tu su tA bo gLO m To L lA xu nyi: cu. Ti cu. m (the second epistle to the corinthians)"
+  "GAL":
+    name: "g-l-Ti-y To L"
+    slug: "g-l-ti-y-to-l"
+    name_toc: "g-l-Ti-y su tA bo gLO m To L lA xu (the epistle to the galatians)"
+  "EPH":
+    name: "yi-Ju-so To L"
+    slug: "yi-ju-so-to-l"
+    name_toc: "yi-Ju-so su tA bo gLO m To L lA xu (the epistle to the ephesians)"
+  "PHP":
+    name: "Pi-li-Pi To L"
+    slug: "pi-li-pi-to-l"
+    name_toc: "Pi-li-Pi su tA bo gLO m To L lA xu (the epistle to the philippians)"
+  "COL":
+    name: "ko-lo-xi To L"
+    slug: "ko-lo-xi-to-l"
+    name_toc: "ko-lo-xi su tA bo gLO m To L lA xu (the epistle to the colossians)"
+  "1TH":
+    name: "1 Te-s-lo-ni-y To L"
+    slug: "1-te-s-lo-ni-y-to-l"
+    name_toc: "Te-s-lo-ni-y su tA bo gLO m To L lA xu yi wu. Ti cu. m (the first epistle to the thessalonians)"
+  "2TH":
+    name: "2 Te-s-lo-ni-y To L"
+    slug: "2-te-s-lo-ni-y-to-l"
+    name_toc: "Te-s-lo-ni-y su tA bo gLO m To L lA xu nyi: cu. Ti cu. m (the second epistle to the thessalonians)"
+  "1TI":
+    name: "1 Ti-mo-Ti-wu To L"
+    slug: "1-ti-mo-ti-wu-to-l"
+    name_toc: "Ti-mo-Ti-wu tA bo gLO m To L lA xu yi wu. Ti cu. m (the first epistle to timothy)"
+  "2TI":
+    name: "2 Ti-mo-Ti-wu To L"
+    slug: "2-ti-mo-ti-wu-to-l"
+    name_toc: "Ti-mo-Ti-wu tA bo gLO m To L lA xu nyi: cu. Ti cu. m (the second epistle to timothy)"
+  "TIT":
+    name: "Ti-to To L"
+    slug: "ti-to-to-l"
+    name_toc: "Ti-to tA bo gLO m To L lA xu (the epistle to titus)"
+  "PHM":
+    name: "Pi-li-mD To L"
+    slug: "pi-li-md-to-l"
+    name_toc: "Pi-li-mD tA bo gLO m To L lA xu (the epistle to philemon)"
+  "HEB":
+    name: "vi-bE-ru To L"
+    slug: "vi-be-ru-to-l"
+    name_toc: "vi-bE-ru l Fo tA bo gLO m To L lA xu (the epistle to the hebrews)"
+  "JAS":
+    name: "y-ku To L"
+    slug: "y-ku-to-l"
+    name_toc: "y-ku boO m To L lA xu (the epistle of james)"
+  "1PE":
+    name: "1 Pi-TE To L"
+    slug: "1-pi-te-to-l"
+    name_toc: "Pi-TE boO m To L lA xu yi wu. Ti cu. m (the first epistle of peter)"
+  "2PE":
+    name: "2 Pi-TE To L"
+    slug: "2-pi-te-to-l"
+    name_toc: "Pi-TE boO m To L lA xu nyi: cu. Ti cu. m (the second epistle of peter)"
+  "1JN":
+    name: "1 yo-v To L"
+    slug: "1-yo-v-to-l"
+    name_toc: "yo-v boO m To L lA xu yi wu. Ti cu. m (the first epistle of john)"
+  "2JN":
+    name: "2 yo-v To L"
+    slug: "2-yo-v-to-l"
+    name_toc: "yo-v boO m To L lA xu nyi: cu. Ti cu. m (the second epistle of john)"
+  "3JN":
+    name: "3 yo-v To L"
+    slug: "3-yo-v-to-l"
+    name_toc: "yo-v boO m To L lA xu s cu. Ti cu. m (the third epistle of john)"
+  "JUD":
+    name: "yu-t To L"
+    slug: "yu-t-to-l"
+    name_toc: "yu-t boO m To L lA xu (the epistle of jude)"
+  "REV":
+    name: "mo gL du To L"
+    slug: "mo-gl-du-to-l"
+    name_toc: "mo gL du To L (the revelation of john)"

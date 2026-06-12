@@ -1,0 +1,200 @@
+language: "ksd"
+books:
+  "GEN":
+    name: "A Vunapaina"
+    slug: "a-vunapaina"
+  "EXO":
+    name: "A Niirop"
+    slug: "a-niirop"
+  "LEV":
+    name: "A Tarai Levi"
+    slug: "a-tarai-levi"
+  "NUM":
+    name: "A Niluluk"
+    slug: "a-niluluk"
+  "DEU":
+    name: "A Vartuluai Mulai"
+    slug: "a-vartuluai-mulai"
+  "JOS":
+    name: "Iosua"
+    slug: "iosua"
+  "JDG":
+    name: "A Umana Tena Varkurai"
+    slug: "a-umana-tena-varkurai"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 King"
+    slug: "1-king"
+  "2KI":
+    name: "2 King"
+    slug: "2-king"
+  "1CH":
+    name: "1 Tutumu Vakai"
+    slug: "1-tutumu-vakai"
+  "2CH":
+    name: "2 Tutumu Vakai"
+    slug: "2-tutumu-vakai"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nekemia"
+    slug: "nekemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Iob"
+    slug: "iob"
+  "PSA":
+    name: "A Umana Kakailai"
+    slug: "a-umana-kakailai"
+  "PRO":
+    name: "Tinata Valavalar"
+    slug: "tinata-valavalar"
+  "ECC":
+    name: "A Tena Varvai"
+    slug: "a-tena-varvai"
+  "SNG":
+    name: "A Kakailai I Lia"
+    slug: "a-kakailai-i-lia"
+  "ISA":
+    name: "Iesaia"
+    slug: "iesaia"
+  "JER":
+    name: "Ieremia"
+    slug: "ieremia"
+  "LAM":
+    name: "Niligur"
+    slug: "niligur"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "JOL":
+    name: "Ioel"
+    slug: "ioel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Iona"
+    slug: "iona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+  "HAB":
+    name: "Kabakuk"
+    slug: "kabakuk"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+  "HAG":
+    name: "Kagai"
+    slug: "kagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ioanes"
+    slug: "ioanes"
+  "ACT":
+    name: "Apostolo"
+    slug: "apostolo"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipoi"
+    slug: "pilipoi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ebraio"
+    slug: "ebraio"
+  "JAS":
+    name: "Iakobo"
+    slug: "iakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Ioanes"
+    slug: "1-ioanes"
+  "2JN":
+    name: "2 Ioanes"
+    slug: "2-ioanes"
+  "3JN":
+    name: "3 Ioanes"
+    slug: "3-ioanes"
+  "JUD":
+    name: "Iudas"
+    slug: "iudas"
+  "REV":
+    name: "Vavaarikai"
+    slug: "vavaarikai"

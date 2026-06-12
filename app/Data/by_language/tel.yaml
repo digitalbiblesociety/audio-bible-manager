@@ -1,0 +1,200 @@
+language: "tel"
+books:
+  "GEN":
+    name: "ఆదికాండము"
+    slug: "adikamdamu"
+  "EXO":
+    name: "నిర్గమకాండము"
+    slug: "nirgamakamdamu"
+  "LEV":
+    name: "లేవీయకాండము"
+    slug: "leviyakamdamu"
+  "NUM":
+    name: "సంఖ్యాకాండము"
+    slug: "samkhyakamdamu"
+  "DEU":
+    name: "ద్వితీయోపదేశకాండము"
+    slug: "dvitiyopadesakamdamu"
+  "JOS":
+    name: "యెహోషువ"
+    slug: "yehosuva"
+  "JDG":
+    name: "న్యాయాధిపతులు"
+    slug: "nyayadhipatulu"
+  "RUT":
+    name: "రూతు"
+    slug: "rutu"
+  "1SA":
+    name: "1 సమూయేలు"
+    slug: "1-samuyelu"
+  "2SA":
+    name: "2 సమూయేలు"
+    slug: "2-samuyelu"
+  "1KI":
+    name: "1 రాజులు"
+    slug: "1-rajulu"
+  "2KI":
+    name: "2 రాజులు"
+    slug: "2-rajulu"
+  "1CH":
+    name: "1 దినవృత్తాంతములు"
+    slug: "1-dinavrttamtamulu"
+  "2CH":
+    name: "2 దినవృత్తాంతములు"
+    slug: "2-dinavrttamtamulu"
+  "EZR":
+    name: "ఎజ్రా"
+    slug: "ejra"
+  "NEH":
+    name: "నెహెమ్యా"
+    slug: "nehemya"
+  "EST":
+    name: "ఎస్తేరు"
+    slug: "esteru"
+  "JOB":
+    name: "యోబు"
+    slug: "yobu"
+  "PSA":
+    name: "కీర్తనలు"
+    slug: "kirtanalu"
+  "PRO":
+    name: "సామెతలు"
+    slug: "sametalu"
+  "ECC":
+    name: "ప్రసంగి"
+    slug: "prasamgi"
+  "SNG":
+    name: "పరమ గీతము"
+    slug: "parama-gitamu"
+  "ISA":
+    name: "యెషయా"
+    slug: "yesaya"
+  "JER":
+    name: "యిర్మీయా"
+    slug: "yirmiya"
+  "LAM":
+    name: "విలాప వాక్యములు"
+    slug: "vilapa-vakyamulu"
+  "EZK":
+    name: "యెహెజ్కేలు"
+    slug: "yehejkelu"
+  "DAN":
+    name: "దానియేలు"
+    slug: "daniyelu"
+  "HOS":
+    name: "హోషేయ"
+    slug: "hoseya"
+  "JOL":
+    name: "యోవేలు"
+    slug: "yovelu"
+  "AMO":
+    name: "ఆమోసు"
+    slug: "amosu"
+  "OBA":
+    name: "ఓబద్యా"
+    slug: "obadya"
+  "JON":
+    name: "యోనా"
+    slug: "yona"
+  "MIC":
+    name: "మీకా"
+    slug: "mika"
+  "NAM":
+    name: "నహూము"
+    slug: "nahumu"
+  "HAB":
+    name: "హబక్కూకు"
+    slug: "habakkuku"
+  "ZEP":
+    name: "జెఫన్యా"
+    slug: "jephanya"
+  "HAG":
+    name: "హగ్గయి"
+    slug: "haggayi"
+  "ZEC":
+    name: "జెకర్యా"
+    slug: "jekarya"
+  "MAL":
+    name: "మలాకీ"
+    slug: "malaki"
+  "MAT":
+    name: "మత్తయి"
+    slug: "mattayi"
+  "MRK":
+    name: "మార్కు"
+    slug: "marku"
+  "LUK":
+    name: "లూకా"
+    slug: "luka"
+  "JHN":
+    name: "యోహాను"
+    slug: "yohanu"
+  "ACT":
+    name: "అపొస్తలుల కార్యములు"
+    slug: "apostalula-karyamulu"
+  "ROM":
+    name: "రోమీయులకు"
+    slug: "romiyulaku"
+  "1CO":
+    name: "1 కొరింథీయులకు"
+    slug: "1-korimthiyulaku"
+  "2CO":
+    name: "2 కొరింథీయులకు"
+    slug: "2-korimthiyulaku"
+  "GAL":
+    name: "గలతీయులకు"
+    slug: "galatiyulaku"
+  "EPH":
+    name: "ఎఫెసీయులకు"
+    slug: "ephesiyulaku"
+  "PHP":
+    name: "ఫిలిప్పీయులకు"
+    slug: "philippiyulaku"
+  "COL":
+    name: "కొలొస్సయులకు"
+    slug: "kolossayulaku"
+  "1TH":
+    name: "1 థెస్సలొనీకయులకు"
+    slug: "1-thessalonikayulaku"
+  "2TH":
+    name: "2 థెస్సలొనీకయులకు"
+    slug: "2-thessalonikayulaku"
+  "1TI":
+    name: "1 తిమోతికి"
+    slug: "1-timotiki"
+  "2TI":
+    name: "2 తిమోతికి"
+    slug: "2-timotiki"
+  "TIT":
+    name: "తీతుకు"
+    slug: "tituku"
+  "PHM":
+    name: "ఫిలేమోనుకు"
+    slug: "philemonuku"
+  "HEB":
+    name: "హెబ్రీయులకు"
+    slug: "hebriyulaku"
+  "JAS":
+    name: "యాకోబు"
+    slug: "yakobu"
+  "1PE":
+    name: "1 పేతురు"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 పేతురు"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 యోహాను"
+    slug: "1-yohanu"
+  "2JN":
+    name: "2 యోహాను"
+    slug: "2-yohanu"
+  "3JN":
+    name: "3 యోహాను"
+    slug: "3-yohanu"
+  "JUD":
+    name: "యూదా"
+    slug: "yuda"
+  "REV":
+    name: "ప్రకటన"
+    slug: "prakatana"

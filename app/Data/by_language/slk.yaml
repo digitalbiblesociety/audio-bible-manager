@@ -1,0 +1,83 @@
+language: "slk"
+books:
+  "MAT":
+    name: "Matúš"
+    slug: "matus"
+  "MRK":
+    name: "Marek"
+    slug: "marek"
+  "LUK":
+    name: "Lukáš"
+    slug: "lukas"
+  "JHN":
+    name: "Ján"
+    slug: "jan"
+  "ACT":
+    name: "Skutky"
+    slug: "skutky"
+  "ROM":
+    name: "Rimanom"
+    slug: "rimanom"
+  "1CO":
+    name: "1 Korinťanom"
+    slug: "1-korintanom"
+  "2CO":
+    name: "2 Korinťanom"
+    slug: "2-korintanom"
+  "GAL":
+    name: "Galaťanom"
+    slug: "galatanom"
+  "EPH":
+    name: "Efezanom"
+    slug: "efezanom"
+  "PHP":
+    name: "Filipanom"
+    slug: "filipanom"
+  "COL":
+    name: "Kolosanom"
+    slug: "kolosanom"
+  "1TH":
+    name: "1 Tesaloničanom"
+    slug: "1-tesalonicanom"
+  "2TH":
+    name: "2 Tesaloničanom"
+    slug: "2-tesalonicanom"
+  "1TI":
+    name: "1 Timotejovi"
+    slug: "1-timotejovi"
+  "2TI":
+    name: "2 Timotejovi"
+    slug: "2-timotejovi"
+  "TIT":
+    name: "Títovi"
+    slug: "titovi"
+  "PHM":
+    name: "Filemonovi"
+    slug: "filemonovi"
+  "HEB":
+    name: "Židom"
+    slug: "zidom"
+  "JAS":
+    name: "Jakuba"
+    slug: "jakuba"
+  "1PE":
+    name: "1 Petra"
+    slug: "1-petra"
+  "2PE":
+    name: "2 Petra"
+    slug: "2-petra"
+  "1JN":
+    name: "1 Jána"
+    slug: "1-jana"
+  "2JN":
+    name: "2 Jána"
+    slug: "2-jana"
+  "3JN":
+    name: "3 Jána"
+    slug: "3-jana"
+  "JUD":
+    name: "Júdov"
+    slug: "judov"
+  "REV":
+    name: "Zjavenie"
+    slug: "zjavenie"

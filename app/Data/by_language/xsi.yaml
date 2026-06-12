@@ -1,0 +1,86 @@
+language: "xsi"
+books:
+  "PSA":
+    name: "Wâŋgiŋa Paneâŋa kâ"
+    slug: "wangina-paneana-ka"
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Malaka"
+    slug: "malaka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+  "ACT":
+    name: "Pâri Tamâta"
+    slug: "pari-tamata"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Yamesi"
+    slug: "yamesi"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Zo Muli"
+    slug: "zo-muli"

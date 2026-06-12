@@ -1,0 +1,266 @@
+language: "pcm"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+    name_toc: "Olketa Profesi blong Obadaea"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+    name_toc: "Stori abaotem Profet Jona"
+  "LEV":
+    name: "Levitikus"
+    slug: "levitikus"
+    name_toc: "Olketa Profesi blong Maeka"
+  "NUM":
+    name: "Nombas"
+    slug: "nombas"
+    name_toc: "Olketa Profesi blong Neiham"
+  "DEU":
+    name: "Deutronomi"
+    slug: "deutronomi"
+    name_toc: "Olketa Profesi blong Habakuk"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Olketa Profesi blong Sefenaea"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+    name_toc: "Olketa Profesi blong Hagae"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Olketa Profesi blong Sekaraea"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Olketa Profesi blong Malakae"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Stori abaotem Tobit Tobit"
+  "1KI":
+    name: "1 Kings"
+    slug: "1-kings"
+    name_toc: "Stori abaotem Judit"
+  "2KI":
+    name: "2 Kings"
+    slug: "2-kings"
+    name_toc: "Esta long Grik Esta"
+  "1CH":
+    name: "1 Kronikles"
+    slug: "1-kronikles"
+    name_toc: "Waestok blong Solomon Waestok"
+  "2CH":
+    name: "2 Kronikles"
+    slug: "2-kronikles"
+    name_toc: "Waes blong Jisas San blong Sirak Sirak"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Stori blong Baruk Baruk"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+    name_toc: "Leta wea Jeremaea hemi raetem Leta blong Jeremaea"
+  "EST":
+    name: "Estha"
+    slug: "estha"
+    name_toc: "Prea blong Asaraea an singsing blong trifala yangman Singsing blong Trifala Yangman"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Stori abaotem Susana Susana"
+  "PSA":
+    name: "Psalms"
+    slug: "psalms"
+    name_toc: "Stori abaotem Bel an Draegon Bel an Draegon"
+  "PRO":
+    name: "Proverbs"
+    slug: "proverbs"
+    name_toc: "Fas buk blong Makabi Fas Makabi"
+  "ECC":
+    name: "Ekklesiastes"
+    slug: "ekklesiastes"
+    name_toc: "Mektu buk blong Makabi Mektu Makabi"
+  "SNG":
+    name: "Song of Songs"
+    slug: "song-of-songs"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Matiu hemi raetem"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Mak hemi raetem"
+  "JER":
+    name: "Jeremaya"
+    slug: "jeremaya"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Luk hemi raetem"
+  "LAM":
+    name: "Lamentashons"
+    slug: "lamentashons"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Jon hemi raetem"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Stori abaotem waka blong olketa Aposol"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Leta wea Pol hemi raetem go long sios long Rom"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Fas leta wea Pol hemi raetem go long sios long Korin"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Mektu leta wea Pol hemi raetem go long sios long Korin"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Leta wea Pol hemi raetem go long sios long Galesia"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+    name_toc: "Leta wea Pol hemi raetem go long sios long Efesas"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+    name_toc: "Leta wea Pol hemi raetem go long sios long Filipae"
+  "MIC":
+    name: "Mikah"
+    slug: "mikah"
+    name_toc: "Leta wea Pol hemi raetem go long sios long Kolosi"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Fas leta wea Pol hemi raetem go long sios long Tesalonaeka"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+    name_toc: "Mektu leta wea Pol hemi raetem go long sios long Tesalonaeka"
+  "ZEP":
+    name: "Zefanaya"
+    slug: "zefanaya"
+    name_toc: "Fas leta wea Pol hemi raetem go long Timoti"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+    name_toc: "Mektu leta wea Pol hemi raetem go long Timoti"
+  "ZEC":
+    name: "Zekaraya"
+    slug: "zekaraya"
+    name_toc: "Leta wea Pol hemi raetem go long Taetas"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+    name_toc: "Leta wea Pol hemi raetem go long Filimon"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Leta fo olketa Jiu hu i Kristin"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Leta wea Jemes hemi raetem"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "Fas leta wea Pita hemi raetem"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "Mektu leta wea Pita hemi raetem"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "Fas leta wea Jon hemi raetem"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+    name_toc: "Mektu leta wea Jon hemi raetem"
+  "1CO":
+    name: "1 Korintians"
+    slug: "1-korintians"
+    name_toc: "Mektri leta wea Jon hemi raetem"
+  "2CO":
+    name: "2 Korintians"
+    slug: "2-korintians"
+    name_toc: "Leta wea Jiud hemi raetem"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+    name_toc: "Stori abaotem olketa samting wea Jisas somaot long Jon"
+  "EPH":
+    name: "Efesians"
+    slug: "efesians"
+    name_toc: "Stat blong Evrisamting"
+  "PHP":
+    name: "Filippians"
+    slug: "filippians"
+    name_toc: "Olketa Pipol blong Israel i Kamaot from Ijip"
+  "COL":
+    name: "Kolossians"
+    slug: "kolossians"
+    name_toc: "Olketa Lo an Sakrifaes fo Kam long God"
+  "1TH":
+    name: "1 Tesalonians"
+    slug: "1-tesalonians"
+    name_toc: "Namba blong Olketa Traeb blong Israel"
+  "2TH":
+    name: "2 Tesalonians"
+    slug: "2-tesalonians"
+    name_toc: "Olketa Toktok blong Mosis"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Josua an Pipol blong Israel go long Kenan"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Stori abaotem Olketa Sif long Olketa Traeb blong Israel"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Stori abaotem Rut"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Fas Buk abaotem Samuel"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "Mektu Buk abaotem Samuel"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "Fas Buk abaotem Olketa King long Israel"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Mektu Buk abaotem Olketa King long Israel"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Fas Buk abaotem Olketa Bikman blong Israel"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+    name_toc: "Mektu Buk abaotem Olketa Bikman blong Israel"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+    name_toc: "Esra an Olketa Jiu Kambaek long Lan blong Olketa"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+    name_toc: "Nehemaea wetem Olketa blong Jiuda Mekem Ples blong Olketa"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Stori abaotem Esta"
+  "REV":
+    name: "Revelashon"
+    slug: "revelashon"
+    name_toc: "Stori abaotem Job"

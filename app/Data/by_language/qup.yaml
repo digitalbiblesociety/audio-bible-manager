@@ -1,0 +1,83 @@
+language: "qup"
+books:
+  "MAT":
+    name: "Mateopa Killkashkan Killka"
+    slug: "mateopa-killkashkan-killka"
+  "MRK":
+    name: "Markuspa Killkashkan Killka"
+    slug: "markuspa-killkashkan-killka"
+  "LUK":
+    name: "Lukaspa Killkashkan Killka"
+    slug: "lukaspa-killkashkan-killka"
+  "JHN":
+    name: "Juanpa Killkashkan Killka"
+    slug: "juanpa-killkashkan-killka"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romapi Kirikkunarayku Killka"
+    slug: "romapi-kirikkunarayku-killka"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasiapi Kirikkunarayku Killka"
+    slug: "galasiapi-kirikkunarayku-killka"
+  "EPH":
+    name: "Efesopi Kirikkunarayku Killka"
+    slug: "efesopi-kirikkunarayku-killka"
+  "PHP":
+    name: "Filipospi Kirikkunarayku Killka"
+    slug: "filipospi-kirikkunarayku-killka"
+  "COL":
+    name: "Kolosapi Kirikkunarayku Killka"
+    slug: "kolosapi-kirikkunarayku-killka"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "Timoteorayku Puntiru Killka"
+    slug: "timoteorayku-puntiru-killka"
+  "2TI":
+    name: "Timoteorayku Ishkaynin Killka"
+    slug: "timoteorayku-ishkaynin-killka"
+  "TIT":
+    name: "Titorayku Killka"
+    slug: "titorayku-killka"
+  "PHM":
+    name: "Filemonrayku Killka"
+    slug: "filemonrayku-killka"
+  "HEB":
+    name: "Hebreo Runakunarayku Killka"
+    slug: "hebreo-runakunarayku-killka"
+  "JAS":
+    name: "Santiagopa Killkashkan Killka"
+    slug: "santiagopa-killkashkan-killka"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judaspa Killkashkan"
+    slug: "judaspa-killkashkan"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

@@ -1,0 +1,8 @@
+language: "glv"
+books:
+  "WIS":
+    name: "Creenaght Solomon"
+    slug: "creenaght-solomon"
+  "SIR":
+    name: "Sirach (Ecclesiasticus)"
+    slug: "sirach-ecclesiasticus"

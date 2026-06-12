@@ -1,0 +1,10 @@
+language: "kiu"
+books:
+  "PSA":
+    name: "Zebur"
+    slug: "zebur"
+    name_toc: "Zebur"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Incila Lukay"

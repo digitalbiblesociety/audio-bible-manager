@@ -1,0 +1,110 @@
+language: "mda"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Rɛn zəze yə̄ Matiyu car ətù Yɛso Krisəti"
+  "MRK":
+    name: "Markusu"
+    slug: "markusu"
+    name_toc: "Rɛn zəze yə̄ Markusu car ətù Yɛso Krisəti"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Rɛn zəze yə̄ Luka car ətù Yɛso Krisəti"
+  "JHN":
+    name: "Yɔhanan"
+    slug: "yhanan"
+    name_toc: "Rɛn zəze yə̄ Yɔhanan car ətù Yɛso Krisəti"
+  "ACT":
+    name: "Kī bān te ndu Yɛso nan"
+    slug: "ki-ban-te-ndu-yso-nan"
+    name_toc: "Kī bān te ndu Yɛso nan"
+  "ROM":
+    name: "Roman"
+    slug: "roman"
+    name_toc: "Takə̀dā yə̄ Bulusu car mə̄nē Bān Roman"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+    name_toc: "Takə̀dā yə̄ kùcī yə̄ Bulusu car mə̄nē Bān Korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+    name_toc: "Takə̀dā yə̄ ywā yə̄ Bulusu car mə̄nē Bān Korinti"
+  "GAL":
+    name: "Galantiya"
+    slug: "galantiya"
+    name_toc: "Takə̀dā yə̄ Bulusu car mə̄nē Bān Galantiya"
+  "EPH":
+    name: "Yafisa"
+    slug: "yafisa"
+    name_toc: "Takə̀dā yə̄ Bulusu car mə̄nē Bān Yafisa"
+  "PHP":
+    name: "Filibi"
+    slug: "filibi"
+    name_toc: "Takə̀dā yə̄ Bulusu car mə̄nē Bān Filibi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Takə̀dā yə̄ Bulusu car mə̄nē Bān Kolosi"
+  "1TH":
+    name: "1 Tasalonika"
+    slug: "1-tasalonika"
+    name_toc: "Takə̀dā yə̄ kùcī yə̄ Bulusu car mə̄nē Bān Tasalonika"
+  "2TH":
+    name: "2 Tasalonika"
+    slug: "2-tasalonika"
+    name_toc: "Takə̀dā yə̄ ywā yə̄ Bulusu car mə̄nē Bān Tasalonika"
+  "1TI":
+    name: "1 Timɔti"
+    slug: "1-timti"
+    name_toc: "Takə̀dā yə̄ kùcī yə̄ Bulusu car Timɔti"
+  "2TI":
+    name: "2 Timɔti"
+    slug: "2-timti"
+    name_toc: "Takə̀dā yə̄ ywā yə̄ Bulusu car Timɔti"
+  "TIT":
+    name: "Titɔ"
+    slug: "tit"
+    name_toc: "Takə̀dā yə̄ Bulusu car Titɔ"
+  "PHM":
+    name: "Filemun"
+    slug: "filemun"
+    name_toc: "Takə̀dā yə̄ Bulusu car Filemun"
+  "HEB":
+    name: "Yahuda"
+    slug: "yahuda"
+    name_toc: "Takə̀dā yə̄ bə car mə̄nē Bān Yahuda"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+    name_toc: "Takə̀dā yə̄ Yakubu car"
+  "1PE":
+    name: "1 Bitrusu"
+    slug: "1-bitrusu"
+    name_toc: "Takə̀dā yə̄ kùcī yə̄ Bitrusu car"
+  "2PE":
+    name: "2 Bitrusu"
+    slug: "2-bitrusu"
+    name_toc: "Takə̀dā yə̄ ywā yə̄ Bitrusu car"
+  "1JN":
+    name: "1 Yɔhanan"
+    slug: "1-yhanan"
+    name_toc: "Takə̀dā yə̄ kùcī yə̄ Yɔhanan car"
+  "2JN":
+    name: "2 Yɔhanan"
+    slug: "2-yhanan"
+    name_toc: "Takə̀dā yə̄ ywā yə̄ Yɔhanan car"
+  "3JN":
+    name: "3 Yɔhanan"
+    slug: "3-yhanan"
+    name_toc: "Takə̀dā yə̄ tăr yə̄ Yɔhanan car"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+    name_toc: "Takə̀dā yə̄ Yahuza car"
+  "REV":
+    name: "Rɛn yə̄ Gbrīn tsar Yɔhanan"
+    slug: "rn-ye-gbrin-tsar-yhanan"
+    name_toc: "Rɛn yə̄ Gbrīn tsar Yɔhanan"

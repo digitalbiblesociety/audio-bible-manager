@@ -1,0 +1,8 @@
+language: "hav"
+books:
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "ACT":
+    name: "Bijiro"
+    slug: "bijiro"

@@ -1,0 +1,8 @@
+language: "nmw"
+books:
+  "MAT":
+    name: "Metiu"
+    slug: "metiu"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"

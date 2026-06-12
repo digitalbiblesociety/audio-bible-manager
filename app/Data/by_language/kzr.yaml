@@ -1,0 +1,83 @@
+language: "kzr"
+books:
+  "MAT":
+    name: "Mbete Matiye (Matthieu)"
+    slug: "mbete-matiye-matthieu"
+  "MRK":
+    name: "Mbete Marki (Marc)"
+    slug: "mbete-marki-marc"
+  "LUK":
+    name: "Mbete Luk (Luc)"
+    slug: "mbete-luk-luc"
+  "JHN":
+    name: "Mbete Za̧h (Jean)"
+    slug: "mbete-zah-jean"
+  "ACT":
+    name: "Mbete Fe laɓna Tempuki (Actes)"
+    slug: "mbete-fe-lana-tempuki-actes"
+  "ROM":
+    name: "Mbete Rɔmri (Romains)"
+    slug: "mbete-rmri-romains"
+  "1CO":
+    name: "Mbete Kɔrenteri a titilu (1 Corinthiens)"
+    slug: "mbete-krenteri-a-titilu-1-corinthiens"
+  "2CO":
+    name: "Mbete Kɔrenteri a seɗe-u (2 Corinthiens)"
+    slug: "mbete-krenteri-a-see-u-2-corinthiens"
+  "GAL":
+    name: "Mbete Galaɗri (Galates)"
+    slug: "mbete-galari-galates"
+  "EPH":
+    name: "Mbete Efezeri (Ephésiens)"
+    slug: "mbete-efezeri-ephesiens"
+  "PHP":
+    name: "Mbete Filipiri (Philippiens)"
+    slug: "mbete-filipiri-philippiens"
+  "COL":
+    name: "Mbete Kolosiri (Colossiens)"
+    slug: "mbete-kolosiri-colossiens"
+  "1TH":
+    name: "Mbete Tesaloniri a titilu (1 Thessaloniciens)"
+    slug: "mbete-tesaloniri-a-titilu-1-thessaloniciens"
+  "2TH":
+    name: "Mbete Tesaloniri a seɗe-u (2 Thessaloniciens)"
+    slug: "mbete-tesaloniri-a-see-u-2-thessaloniciens"
+  "1TI":
+    name: "Mbete Timote a titilu (1 Timothée)"
+    slug: "mbete-timote-a-titilu-1-timothee"
+  "2TI":
+    name: "Mbete Timote a seɗe-u (2 Timothée)"
+    slug: "mbete-timote-a-see-u-2-timothee"
+  "TIT":
+    name: "Mbete Tiɗ (Tite)"
+    slug: "mbete-ti-tite"
+  "PHM":
+    name: "Mbete Filemoŋ (Philémon)"
+    slug: "mbete-filemon-philemon"
+  "HEB":
+    name: "Mbete Ebereri (Hébreux)"
+    slug: "mbete-ebereri-hebreux"
+  "JAS":
+    name: "Mbete Zak (Jacques)"
+    slug: "mbete-zak-jacques"
+  "1PE":
+    name: "Mbete Piyer a titilu (1 Pierre)"
+    slug: "mbete-piyer-a-titilu-1-pierre"
+  "2PE":
+    name: "Mbete Piyer a seɗe-u (2 Pierre)"
+    slug: "mbete-piyer-a-see-u-2-pierre"
+  "1JN":
+    name: "Gun Mbete Za̧h a titilu (1 Jean)"
+    slug: "gun-mbete-zah-a-titilu-1-jean"
+  "2JN":
+    name: "Gun Mbete Za̧h a seɗe-u (2 Jean)"
+    slug: "gun-mbete-zah-a-see-u-2-jean"
+  "3JN":
+    name: "Gun Mbete Za̧h a sayu (3 Jean)"
+    slug: "gun-mbete-zah-a-sayu-3-jean"
+  "JUD":
+    name: "Mbete Zuɗ (Jude)"
+    slug: "mbete-zu-jude"
+  "REV":
+    name: "Mbete Ten sa̧wɓay (Apocalypse)"
+    slug: "mbete-ten-saway-apocalypse"

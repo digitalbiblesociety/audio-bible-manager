@@ -1,0 +1,5 @@
+language: "kdh"
+books:
+  "MAT":
+    name: "Maatéwu"
+    slug: "maatewu"

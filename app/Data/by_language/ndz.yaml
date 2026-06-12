@@ -1,0 +1,83 @@
+language: "ndz"
+books:
+  "MAT":
+    name: "Màtéyò"
+    slug: "mateyo"
+  "MRK":
+    name: "Márìkò"
+    slug: "mariko"
+  "LUK":
+    name: "Lúkà"
+    slug: "luka"
+  "JHN":
+    name: "Jòvánì"
+    slug: "jovani"
+  "ACT":
+    name: "Ndâ Nèté"
+    slug: "nda-nete"
+  "ROM":
+    name: "Rómà"
+    slug: "roma"
+  "1CO":
+    name: "1 Kòríndì"
+    slug: "1-korindi"
+  "2CO":
+    name: "2 Kòríndì"
+    slug: "2-korindi"
+  "GAL":
+    name: "Gàlátì"
+    slug: "galati"
+  "EPH":
+    name: "Éfàsù"
+    slug: "efasu"
+  "PHP":
+    name: "Fìlípì"
+    slug: "filipi"
+  "COL":
+    name: "Kòlósìyà"
+    slug: "kolosiya"
+  "1TH":
+    name: "1 Tèsàlónìkà"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tèsàlónìkà"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Tìmàtéyò"
+    slug: "1-timateyo"
+  "2TI":
+    name: "2 Tìmàtéyò"
+    slug: "2-timateyo"
+  "TIT":
+    name: "Títò"
+    slug: "tito"
+  "PHM":
+    name: "Fílímònì"
+    slug: "filimoni"
+  "HEB":
+    name: "Ìbìráyò"
+    slug: "ibirayo"
+  "JAS":
+    name: "Jákòmò"
+    slug: "jakomo"
+  "1PE":
+    name: "1 Pìyétòrò"
+    slug: "1-piyetoro"
+  "2PE":
+    name: "2 Pìyétòrò"
+    slug: "2-piyetoro"
+  "1JN":
+    name: "1 Jòvánì"
+    slug: "1-jovani"
+  "2JN":
+    name: "2 Jòvánì"
+    slug: "2-jovani"
+  "3JN":
+    name: "3 Jòvánì"
+    slug: "3-jovani"
+  "JUD":
+    name: "Júdà"
+    slug: "juda"
+  "REV":
+    name: "Có Kóó"
+    slug: "co-koo"

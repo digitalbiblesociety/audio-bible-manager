@@ -1,0 +1,5 @@
+language: "kqa"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"

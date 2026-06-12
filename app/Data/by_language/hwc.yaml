@@ -1,0 +1,83 @@
+language: "hwc"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Jesus Guys"
+    slug: "jesus-guys"
+  "ROM":
+    name: "Fo Da Rome Peopo"
+    slug: "fo-da-rome-peopo"
+  "1CO":
+    name: "Numba 1 Fo Da Corint Peopo"
+    slug: "numba-1-fo-da-corint-peopo"
+  "2CO":
+    name: "Numba 2 Fo Da Corint Peopo"
+    slug: "numba-2-fo-da-corint-peopo"
+  "GAL":
+    name: "Fo Da Galatia Peopo"
+    slug: "fo-da-galatia-peopo"
+  "EPH":
+    name: "Fo Da Efesus Peopo"
+    slug: "fo-da-efesus-peopo"
+  "PHP":
+    name: "Fo Da Philippi Peopo"
+    slug: "fo-da-philippi-peopo"
+  "COL":
+    name: "Fo Da Colosse Peopo"
+    slug: "fo-da-colosse-peopo"
+  "1TH":
+    name: "Numba 1 Fo Da Tessalonika Peopo"
+    slug: "numba-1-fo-da-tessalonika-peopo"
+  "2TH":
+    name: "Numba 2 Fo Da Tessalonika Peopo"
+    slug: "numba-2-fo-da-tessalonika-peopo"
+  "1TI":
+    name: "Numba 1 Fo Timoty"
+    slug: "numba-1-fo-timoty"
+  "2TI":
+    name: "Numba 2 Fo Timothy"
+    slug: "numba-2-fo-timothy"
+  "TIT":
+    name: "Fo Titus"
+    slug: "fo-titus"
+  "PHM":
+    name: "Fo Filemon"
+    slug: "fo-filemon"
+  "HEB":
+    name: "Fo Da Hebrew Peopo"
+    slug: "fo-da-hebrew-peopo"
+  "JAS":
+    name: "From James"
+    slug: "from-james"
+  "1PE":
+    name: "Numba 1 From Peter"
+    slug: "numba-1-from-peter"
+  "2PE":
+    name: "Numba 2 From Peter"
+    slug: "numba-2-from-peter"
+  "1JN":
+    name: "Numba 1 From John"
+    slug: "numba-1-from-john"
+  "2JN":
+    name: "Numba 2 From John"
+    slug: "numba-2-from-john"
+  "3JN":
+    name: "Numba 3 From John"
+    slug: "numba-3-from-john"
+  "JUD":
+    name: "From Jude"
+    slug: "from-jude"
+  "REV":
+    name: "Wat Jesus Show John"
+    slug: "wat-jesus-show-john"

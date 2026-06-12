@@ -1,0 +1,86 @@
+language: "aar"
+books:
+  "JOS":
+    name: "Yoosuwa"
+    slug: "yoosuwa"
+  "JDG":
+    name: "Makaabon"
+    slug: "makaabon"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1 Samuwel"
+    slug: "1-samuwel"
+  "2SA":
+    name: "2 Samuwel"
+    slug: "2-samuwel"
+  "1KI":
+    name: "1 Malikwa"
+    slug: "1-malikwa"
+  "2KI":
+    name: "2 Malikwa"
+    slug: "2-malikwa"
+  "1CH":
+    name: "1 Aydaad"
+    slug: "1-aydaad"
+  "2CH":
+    name: "2 Aydaad"
+    slug: "2-aydaad"
+  "EZR":
+    name: "Qedra"
+    slug: "qedra"
+  "NEH":
+    name: "Nacmiya"
+    slug: "nacmiya"
+  "EST":
+    name: "Aster"
+    slug: "aster"
+  "ISA":
+    name: "Yasaqya"
+    slug: "yasaqya"
+  "JER":
+    name: "Ermiyaas"
+    slug: "ermiyaas"
+  "EZK":
+    name: "Yacedkel"
+    slug: "yacedkel"
+  "DAN":
+    name: "Daaniyel"
+    slug: "daaniyel"
+  "HOS":
+    name: "Hosiqa"
+    slug: "hosiqa"
+  "JOL":
+    name: "Ayyuqel"
+    slug: "ayyuqel"
+  "AMO":
+    name: "Qaamus"
+    slug: "qaamus"
+  "OBA":
+    name: "Qobadya"
+    slug: "qobadya"
+  "JON":
+    name: "Yoonas"
+    slug: "yoonas"
+  "MIC":
+    name: "Miika"
+    slug: "miika"
+  "NAM":
+    name: "Naacum"
+    slug: "naacum"
+  "HAB":
+    name: "Cabakkuk"
+    slug: "cabakkuk"
+  "ZEP":
+    name: "Xafanya"
+    slug: "xafanya"
+  "HAG":
+    name: "Caggay"
+    slug: "caggay"
+  "ZEC":
+    name: "Zakariyya"
+    slug: "zakariyya"
+  "MAL":
+    name: "Malaaki"
+    slug: "malaaki"

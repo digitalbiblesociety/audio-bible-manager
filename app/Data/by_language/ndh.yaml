@@ -1,0 +1,83 @@
+language: "ndh"
+books:
+  "MAT":
+    name: "Mataayi"
+    slug: "mataayi"
+  "MRK":
+    name: "Maalika"
+    slug: "maalika"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yoohani"
+    slug: "yoohani"
+  "ACT":
+    name: "Mbombo isha Bhatumighwa"
+    slug: "mbombo-isha-bhatumighwa"
+  "ROM":
+    name: "Bhalooma"
+    slug: "bhalooma"
+  "1CO":
+    name: "1 Bhakolinti"
+    slug: "1-bhakolinti"
+  "2CO":
+    name: "2 Bhakolinti"
+    slug: "2-bhakolinti"
+  "GAL":
+    name: "Bhaghalatiiya"
+    slug: "bhaghalatiiya"
+  "EPH":
+    name: "Bhaefesi"
+    slug: "bhaefesi"
+  "PHP":
+    name: "Bhafilipi"
+    slug: "bhafilipi"
+  "COL":
+    name: "Bhakolosaayi"
+    slug: "bhakolosaayi"
+  "1TH":
+    name: "1 Bhatesaloniike"
+    slug: "1-bhatesaloniike"
+  "2TH":
+    name: "2 Bhatesaloniike"
+    slug: "2-bhatesaloniike"
+  "1TI":
+    name: "1 Tiimoti"
+    slug: "1-tiimoti"
+  "2TI":
+    name: "2 Tiimoti"
+    slug: "2-tiimoti"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+  "HEB":
+    name: "Bhahibhuli"
+    slug: "bhahibhuli"
+  "JAS":
+    name: "Yaakobhu"
+    slug: "yaakobhu"
+  "1PE":
+    name: "1 Peeteli"
+    slug: "1-peeteli"
+  "2PE":
+    name: "2 Peeteli"
+    slug: "2-peeteli"
+  "1JN":
+    name: "1 Yoohani"
+    slug: "1-yoohani"
+  "2JN":
+    name: "2 Yoohani"
+    slug: "2-yoohani"
+  "3JN":
+    name: "3 Yoohani"
+    slug: "3-yoohani"
+  "JUD":
+    name: "Yuuta"
+    slug: "yuuta"
+  "REV":
+    name: "Bhusetuli"
+    slug: "bhusetuli"

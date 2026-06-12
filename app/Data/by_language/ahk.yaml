@@ -1,0 +1,200 @@
+language: "ahk"
+books:
+  "GEN":
+    name: "Aˇ dahˬ"
+    slug: "a-dah"
+  "EXO":
+    name: "Doˆ-iˇ"
+    slug: "do-i"
+  "LEV":
+    name: "Uˬ duˬ"
+    slug: "u-du"
+  "NUM":
+    name: "Bawˇtsahˬ"
+    slug: "bawtsah"
+  "DEU":
+    name: "Dawˬmehˬ"
+    slug: "dawmeh"
+  "JOS":
+    name: "Yawˇshuˆ"
+    slug: "yawshu"
+  "JDG":
+    name: "Yaˇ kʼaˬ daˇ"
+    slug: "ya-ka-da"
+  "RUT":
+    name: "Luˇta"
+    slug: "luta"
+  "1SA":
+    name: "1 Saˬmeuˬlaˆ"
+    slug: "1-sameula"
+  "2SA":
+    name: "2 Saˬmeuˬlaˆ"
+    slug: "2-sameula"
+  "1KI":
+    name: "1 Sahˬpaˬ"
+    slug: "1-sahpa"
+  "2KI":
+    name: "2 Sahˬpaˬ"
+    slug: "2-sahpa"
+  "1CH":
+    name: "1 Laˬsaˬbaˬ"
+    slug: "1-lasaba"
+  "2CH":
+    name: "2 Laˬsaˬbaˬ"
+    slug: "2-lasaba"
+  "EZR":
+    name: "Eˇzaˬlaˬ"
+    slug: "ezala"
+  "NEH":
+    name: "Neˬhaˬmiˇ"
+    slug: "nehami"
+  "EST":
+    name: "Iˇsaˬtaˆ"
+    slug: "isata"
+  "JOB":
+    name: "Yawˇbaˆ"
+    slug: "yawba"
+  "PSA":
+    name: "Jaceuq"
+    slug: "jaceuq"
+  "PRO":
+    name: "Dawqdaq"
+    slug: "dawqdaq"
+  "ECC":
+    name: "Dawˬ tsoˆ"
+    slug: "daw-tso"
+  "SNG":
+    name: "Dawˬ caˇ"
+    slug: "daw-ca"
+  "ISA":
+    name: "Iˇsaˬyaˇ"
+    slug: "isaya"
+  "JER":
+    name: "Yeˬlaˬmiˇ"
+    slug: "yelami"
+  "LAM":
+    name: "Ngoeˇ dawˬ"
+    slug: "ngoe-daw"
+  "EZK":
+    name: "Yeˬsaˬgeˬlaˇ"
+    slug: "yesagela"
+  "DAN":
+    name: "Daˬyeˬlaˇ"
+    slug: "dayela"
+  "HOS":
+    name: "Hawˇseˬ"
+    slug: "hawse"
+  "JOL":
+    name: "Yawˇlaˆ"
+    slug: "yawla"
+  "AMO":
+    name: "Aˬmoˆ"
+    slug: "amo"
+  "OBA":
+    name: "Aaˇbaˬdiˇ"
+    slug: "aabadi"
+  "JON":
+    name: "Yawˇnaˆ"
+    slug: "yawna"
+  "MIC":
+    name: "Miˇkaˬ"
+    slug: "mika"
+  "NAM":
+    name: "Naˬhmˬ"
+    slug: "nahm"
+  "HAB":
+    name: "Haˬbaˬkuˆ"
+    slug: "habaku"
+  "ZEP":
+    name: "Zeˬpaˬniˇ"
+    slug: "zepani"
+  "HAG":
+    name: "Haˬgaiˇ"
+    slug: "hagai"
+  "ZEC":
+    name: "Zaˬkaˬliˇ"
+    slug: "zakali"
+  "MAL":
+    name: "Maˬlaˬkiˇ"
+    slug: "malaki"
+  "MAT":
+    name: "Maꞈtehˬ"
+    slug: "mateh"
+  "MRK":
+    name: "Maˬkuˆ"
+    slug: "maku"
+  "LUK":
+    name: "Luˇkaꞈ"
+    slug: "luka"
+  "JHN":
+    name: "Yoˇhaˬ"
+    slug: "yoha"
+  "ACT":
+    name: "Gʼaˬkʼehˇ"
+    slug: "gakeh"
+  "ROM":
+    name: "Lormav"
+    slug: "lormav"
+  "1CO":
+    name: "1 Gawˇliˬtu"
+    slug: "1-gawlitu"
+  "2CO":
+    name: "2 Gawˇliˬtu"
+    slug: "2-gawlitu"
+  "GAL":
+    name: "Gaˬlaˬtiˆ"
+    slug: "galati"
+  "EPH":
+    name: "Eˇpeˇsu"
+    slug: "epesu"
+  "PHP":
+    name: "Piˇliˇpiˆ"
+    slug: "pilipi"
+  "COL":
+    name: "Gawˇlawˇsehˇ"
+    slug: "gawlawseh"
+  "1TH":
+    name: "1 Teˇsaˬloˇni"
+    slug: "1-tesaloni"
+  "2TH":
+    name: "2 Teˇsaˬloˇni"
+    slug: "2-tesaloni"
+  "1TI":
+    name: "1 Tiˆmoˇseˬ"
+    slug: "1-timose"
+  "2TI":
+    name: "2 Tiˆmoˇseˬ"
+    slug: "2-timose"
+  "TIT":
+    name: "Tiˇtuˆ"
+    slug: "titu"
+  "PHM":
+    name: "Piˇleˇmoˬ"
+    slug: "pilemo"
+  "HEB":
+    name: "HeˬByehˇ"
+    slug: "hebyeh"
+  "JAS":
+    name: "Yaˬkoˆ"
+    slug: "yako"
+  "1PE":
+    name: "1 Beˬtuˆluˆ"
+    slug: "1-betulu"
+  "2PE":
+    name: "2 Beˬtuˆluˆ"
+    slug: "2-betulu"
+  "1JN":
+    name: "1 Yoˇhaˬ"
+    slug: "1-yoha"
+  "2JN":
+    name: "2 Yoˇhaˬ"
+    slug: "2-yoha"
+  "3JN":
+    name: "3 Yoˇhaˬ"
+    slug: "3-yoha"
+  "JUD":
+    name: "Yuˇdaˆ"
+    slug: "yuda"
+  "REV":
+    name: "Panmaeq"
+    slug: "panmaeq"

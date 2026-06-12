@@ -1,0 +1,83 @@
+language: "zas"
+books:
+  "MAT":
+    name: "San Matew"
+    slug: "san-matew"
+  "MRK":
+    name: "San Marcw"
+    slug: "san-marcw"
+  "LUK":
+    name: "San Lujc"
+    slug: "san-lujc"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Ni been ree apóstoles"
+    slug: "ni-been-ree-apostoles"
+  "ROM":
+    name: "Guiꞌch par ree bén Rom"
+    slug: "guich-par-ree-ben-rom"
+  "1CO":
+    name: "Guiꞌch yaloj par ree bén Corinto"
+    slug: "guich-yaloj-par-ree-ben-corinto"
+  "2CO":
+    name: "Guiꞌch barojp par ree bén Corinto"
+    slug: "guich-barojp-par-ree-ben-corinto"
+  "GAL":
+    name: "Guiꞌch par ree bén Galacia"
+    slug: "guich-par-ree-ben-galacia"
+  "EPH":
+    name: "Guiꞌch par ree bén Éfeso"
+    slug: "guich-par-ree-ben-efeso"
+  "PHP":
+    name: "Guiꞌch par ree bén Filipos"
+    slug: "guich-par-ree-ben-filipos"
+  "COL":
+    name: "Guiꞌch par ree bén Colosas"
+    slug: "guich-par-ree-ben-colosas"
+  "1TH":
+    name: "Guiꞌch yaloj par ree bén Tesalónica"
+    slug: "guich-yaloj-par-ree-ben-tesalonica"
+  "2TH":
+    name: "Guiꞌch barojp par ree bén Tesalónica"
+    slug: "guich-barojp-par-ree-ben-tesalonica"
+  "1TI":
+    name: "Guiꞌch yaloj par Timoteo"
+    slug: "guich-yaloj-par-timoteo"
+  "2TI":
+    name: "Guiꞌch barojp par Timoteo"
+    slug: "guich-barojp-par-timoteo"
+  "TIT":
+    name: "Guiꞌch par Tito"
+    slug: "guich-par-tito"
+  "PHM":
+    name: "Guiꞌch par Filemón"
+    slug: "guich-par-filemon"
+  "HEB":
+    name: "Guiꞌch par ree bén Hebreos"
+    slug: "guich-par-ree-ben-hebreos"
+  "JAS":
+    name: "Guiꞌch bacaa Santiaaw"
+    slug: "guich-bacaa-santiaaw"
+  "1PE":
+    name: "Guiꞌch yaloj bacaa San Pedr"
+    slug: "guich-yaloj-bacaa-san-pedr"
+  "2PE":
+    name: "Guiꞌch barojp bacaa San Pedr"
+    slug: "guich-barojp-bacaa-san-pedr"
+  "1JN":
+    name: "Guiꞌch yaloj bacaa San Juan"
+    slug: "guich-yaloj-bacaa-san-juan"
+  "2JN":
+    name: "Guiꞌch barojp bacaa San Juan"
+    slug: "guich-barojp-bacaa-san-juan"
+  "3JN":
+    name: "Guiꞌch bayon bacaa San Juan"
+    slug: "guich-bayon-bacaa-san-juan"
+  "JUD":
+    name: "Guiꞌch bacaa San Judas"
+    slug: "guich-bacaa-san-judas"
+  "REV":
+    name: "Ni balüü Jesucrist loj San Juan"
+    slug: "ni-baluu-jesucrist-loj-san-juan"

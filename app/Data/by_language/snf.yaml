@@ -1,0 +1,83 @@
+language: "snf"
+books:
+  "MAT":
+    name: "Mëccëe"
+    slug: "meccee"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Lúkkaa"
+    slug: "lukkaa"
+  "JHN":
+    name: "Saŋ"
+    slug: "san"
+  "ACT":
+    name: "Tumeencaa"
+    slug: "tumeencaa"
+  "ROM":
+    name: "Ɓu-room"
+    slug: "bu-room"
+  "1CO":
+    name: "1 Ɓu-korenti"
+    slug: "1-bu-korenti"
+  "2CO":
+    name: "2 Ɓu-korenti"
+    slug: "2-bu-korenti"
+  "GAL":
+    name: "Ɓu-galaat"
+    slug: "bu-galaat"
+  "EPH":
+    name: "Ɓu-efees"
+    slug: "bu-efees"
+  "PHP":
+    name: "Ɓu-filiip"
+    slug: "bu-filiip"
+  "COL":
+    name: "Ɓu-koloos"
+    slug: "bu-koloos"
+  "1TH":
+    name: "1 Ɓu-tesaloník"
+    slug: "1-bu-tesalonik"
+  "2TH":
+    name: "2 Ɓu-tesaloník"
+    slug: "2-bu-tesalonik"
+  "1TI":
+    name: "1 Tímotée"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Tímotée"
+    slug: "2-timotee"
+  "TIT":
+    name: "Tít"
+    slug: "tit"
+  "PHM":
+    name: "Fílemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "YAAWÚUꞌCAA"
+    slug: "yaawuucaa"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 PEEꞌ"
+    slug: "1-pee"
+  "2PE":
+    name: "2 PEEꞌ"
+    slug: "2-pee"
+  "1JN":
+    name: "1 Saŋ"
+    slug: "1-san"
+  "2JN":
+    name: "2 Saŋ"
+    slug: "2-san"
+  "3JN":
+    name: "3 Saŋ"
+    slug: "3-san"
+  "JUD":
+    name: "Yúut"
+    slug: "yuut"
+  "REV":
+    name: "Ínohlukoh"
+    slug: "inohlukoh"

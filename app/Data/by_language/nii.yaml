@@ -1,0 +1,83 @@
+language: "nii"
+books:
+  "MAT":
+    name: "Masyu"
+    slug: "masyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "I Korin"
+    slug: "i-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galeisiya"
+    slug: "galeisiya"
+  "EPH":
+    name: "Epeses"
+    slug: "epeses"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosii"
+    slug: "kolosii"
+  "1TH":
+    name: "I Tesilonaika"
+    slug: "i-tesilonaika"
+  "2TH":
+    name: "2 Tesilonaika"
+    slug: "2-tesilonaika"
+  "1TI":
+    name: "I Timosii"
+    slug: "i-timosii"
+  "2TI":
+    name: "2 Timosii"
+    slug: "2-timosii"
+  "TIT":
+    name: "Taisis"
+    slug: "taisis"
+  "PHM":
+    name: "Pailiimon"
+    slug: "pailiimon"
+  "HEB":
+    name: "Eipru"
+    slug: "eipru"
+  "JAS":
+    name: "Jeims"
+    slug: "jeims"
+  "1PE":
+    name: "I Piisa"
+    slug: "i-piisa"
+  "2PE":
+    name: "2 Piisa"
+    slug: "2-piisa"
+  "1JN":
+    name: "I Jon"
+    slug: "i-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jus"
+    slug: "jus"
+  "REV":
+    name: "Repeleisin"
+    slug: "repeleisin"

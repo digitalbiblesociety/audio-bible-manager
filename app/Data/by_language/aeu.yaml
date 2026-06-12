@@ -1,0 +1,89 @@
+language: "aeu"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "PSA":
+    name: "Tsiq eeq"
+    slug: "tsiq-eeq"
+  "MAT":
+    name: "Maqthaiq"
+    slug: "maqthaiq"
+  "MRK":
+    name: "Maqkul"
+    slug: "maqkul"
+  "LUK":
+    name: "Lulkavq"
+    slug: "lulkavq"
+  "JHN":
+    name: "Yaolhaq"
+    slug: "yaolhaq"
+  "ACT":
+    name: "Gaq khoel"
+    slug: "gaq-khoel"
+  "ROM":
+    name: "Lolmav"
+    slug: "lolmav"
+  "1CO":
+    name: "1 Gaolliqthu"
+    slug: "1-gaolliqthu"
+  "2CO":
+    name: "2 Gaolliqthu"
+    slug: "2-gaolliqthu"
+  "GAL":
+    name: "Gaqlaqtil"
+    slug: "gaqlaqtil"
+  "EPH":
+    name: "Eilpheilsu"
+    slug: "eilpheilsu"
+  "PHP":
+    name: "Pillilpiv"
+    slug: "pillilpiv"
+  "COL":
+    name: "Gaollaolsail"
+    slug: "gaollaolsail"
+  "1TH":
+    name: "1 Theilsaqlolni"
+    slug: "1-theilsaqlolni"
+  "2TH":
+    name: "2 Theilsaqlolni"
+    slug: "2-theilsaqlolni"
+  "1TI":
+    name: "1 Tilmolseiq"
+    slug: "1-tilmolseiq"
+  "2TI":
+    name: "2 Tilmolseiq"
+    slug: "2-tilmolseiq"
+  "TIT":
+    name: "Tiltuv"
+    slug: "tiltuv"
+  "PHM":
+    name: "Philleilmoq"
+    slug: "philleilmoq"
+  "HEB":
+    name: "Heiqbhail"
+    slug: "heiqbhail"
+  "JAS":
+    name: "Yaq kov"
+    slug: "yaq-kov"
+  "1PE":
+    name: "1 Bheiqtuvluv"
+    slug: "1-bheiqtuvluv"
+  "2PE":
+    name: "2 Bheiqtuvluv"
+    slug: "2-bheiqtuvluv"
+  "1JN":
+    name: "1 Yaolhaq"
+    slug: "1-yaolhaq"
+  "2JN":
+    name: "2 Yaolhaq"
+    slug: "2-yaolhaq"
+  "3JN":
+    name: "3 Yaolhaq"
+    slug: "3-yaolhaq"
+  "JUD":
+    name: "Yul dav"
+    slug: "yul-dav"
+  "REV":
+    name: "Phaodaiq"
+    slug: "phaodaiq"

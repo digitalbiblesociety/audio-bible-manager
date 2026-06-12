@@ -1,0 +1,110 @@
+language: "ksf"
+books:
+  "MAT":
+    name: "Matyoo"
+    slug: "matyoo"
+    name_toc: "Syeesyee à Ɓɔlɛ ànɛ MATYOO à kàngà"
+  "MRK":
+    name: "Marikus"
+    slug: "marikus"
+    name_toc: "Syeesyee à Ɓɔlɛ ànɛ MARIKUS à kàngà"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Syeesyee à Ɓɔlɛ ànɛ LUKAS à kàngà"
+  "JHN":
+    name: "Zyaŋ"
+    slug: "zya"
+    name_toc: "Syeesyee à Ɓɔlɛ ànɛ ZYAŊ à kàngà"
+  "ACT":
+    name: "Mɛ̀kìkìì Mɛ Ɓɛkɛ̀nì-fìtom"
+    slug: "mkikii-m-kni-fitom"
+    name_toc: "Mɛ̀kìkìì Mɛ Ɓɛkɛ̀nì-fìtom"
+  "ROM":
+    name: "Ròmɛŋ"
+    slug: "rom"
+    name_toc: "Kaàtà ànɛ Pol à kàngà ƁƐ̀RÒMƐŊ"
+  "1CO":
+    name: "1 Kɔ̀rɛ̀ŋtyɛŋ"
+    slug: "1-krty"
+    name_toc: "Kaàtà à ǹtonto ànɛ Pol à kàngà ƁƐ̀KƆ̀RƐ̀ŊTYƐŊ"
+  "2CO":
+    name: "2 Kɔ̀rɛ̀ŋtyɛŋ"
+    slug: "2-krty"
+    name_toc: "Kaàtà à kìɓɛ̀ɛ̀ ànɛ Pol à kàngà ƁƐ̀KƆ̀RƐ̀ŊTYƐŊ"
+  "GAL":
+    name: "Gàlat"
+    slug: "galat"
+    name_toc: "Kaàtà ànɛ Pol à kàngà ƁƐ̀GÀLAT"
+  "EPH":
+    name: "Efèzyɛŋ"
+    slug: "efezy"
+    name_toc: "Kaàtà ànɛ Pol à kàngà ƁƐ̀-EFÈZYƐŊ"
+  "PHP":
+    name: "Fìlìpyɛŋ"
+    slug: "filipy"
+    name_toc: "Kaàtà ànɛ Pol à kàngà ƁƐ̀FÌLÌPYƐŊ"
+  "COL":
+    name: "Kòlòsyɛŋ"
+    slug: "kolosy"
+    name_toc: "kaàtà ànɛ Pol à kàngà ƁƐ̀KÒLÒSYƐŊ"
+  "1TH":
+    name: "Tèsàlònìsyɛŋ"
+    slug: "tesalonisy"
+    name_toc: "Kaàtà à ǹtonto ànɛ Pol à kangà ƁƐ̀TÈSÀLÒNÌSYƐŊ"
+  "2TH":
+    name: "2 Tèsàlònìsyɛŋ"
+    slug: "2-tesalonisy"
+    name_toc: "Kaàtà à kìɓɛ̀ɛ̀ ànɛ Pol à kàngà ƁƐ̀TÈSÀLÒNÌSYƐŊ"
+  "1TI":
+    name: "Timote"
+    slug: "timote"
+    name_toc: "Kaàtà à ǹtonto ànɛ Pol à kàngà TIMOTE"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Kaàtà à kìɓɛ̀ɛ̀ ànɛ Pol à kàngà TIMOTE"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Kaàtà ànɛ Pol à kàngà TIT"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filem"
+    name_toc: "Kaàtà ànɛ Pol à kàngà FILEMƆŊ"
+  "HEB":
+    name: "Ebireegh"
+    slug: "ebireegh"
+    name_toc: "Kaàtà ànɛ ɓɛ kangà ƁƐ̀-EBIREEGH"
+  "JAS":
+    name: "Zyag"
+    slug: "zyag"
+    name_toc: "Kaàtà ànɛ ZYAG à kàngà ɓɛ̀gherɛ̀n"
+  "1PE":
+    name: "1 Pyɛɛri"
+    slug: "1-pyri"
+    name_toc: "Kaàtà à ǹtonto ànɛ PYƐƐRI à kàngà ɓɛ̀gherɛ̀n"
+  "2PE":
+    name: "2 Pyɛɛri"
+    slug: "2-pyri"
+    name_toc: "Kaàtà à kìɓɛ̀ɛ̀ ànɛ PYƐƐRI à kàngà ɓɛ̀gherɛ̀n"
+  "1JN":
+    name: "1 Zyaŋ"
+    slug: "1-zya"
+    name_toc: "Kaàtà à ǹtonto ànɛ ZYAŊ à kàngà ɓɛ̀gherɛ̀n"
+  "2JN":
+    name: "2 Zyaŋ"
+    slug: "2-zya"
+    name_toc: "Kaàtà à kìɓɛ̀ɛ̀ ànɛ ZYAŊ à kàngà ɓɛ̀gherɛ̀n"
+  "3JN":
+    name: "3 Zyaŋ"
+    slug: "3-zya"
+    name_toc: "Kaàtà à kìraa ànɛ ZYAŊ à kangà"
+  "JUD":
+    name: "Zyuudɛ"
+    slug: "zyuud"
+    name_toc: "Kaàtà ànɛ ZYUUDƐ à kàngà"
+  "REV":
+    name: "Àpòkàliɓsɛ̀"
+    slug: "apokalis"
+    name_toc: "Kaàtà à ÀPÒKÀLIƁSƐ̀"

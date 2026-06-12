@@ -1,0 +1,83 @@
+language: "dsh"
+books:
+  "MAT":
+    name: "Matááyo"
+    slug: "mataayo"
+  "MRK":
+    name: "Márko"
+    slug: "marko"
+  "LUK":
+    name: "Lúka"
+    slug: "luka"
+  "JHN":
+    name: "Yuána"
+    slug: "yuana"
+  "ACT":
+    name: "He Ekeny Gál Alb Fimiká"
+    slug: "he-ekeny-gal-alb-fimika"
+  "ROM":
+    name: "Róóma"
+    slug: "rooma"
+  "1CO":
+    name: "Korínto Erká"
+    slug: "korinto-erka"
+  "2CO":
+    name: "Korínto ki Naamaká"
+    slug: "korinto-ki-naamaka"
+  "GAL":
+    name: "Galátia"
+    slug: "galatia"
+  "EPH":
+    name: "Eféso"
+    slug: "efeso"
+  "PHP":
+    name: "Filíbi"
+    slug: "filibi"
+  "COL":
+    name: "Kolosááya"
+    slug: "kolosaaya"
+  "1TH":
+    name: "Dhesaloníke Erká"
+    slug: "dhesalonike-erka"
+  "2TH":
+    name: "Dhesaloníke ki Naamaká"
+    slug: "dhesalonike-ki-naamaka"
+  "1TI":
+    name: "Tímote Erká"
+    slug: "timote-erka"
+  "2TI":
+    name: "Tímote ki Naamaká"
+    slug: "timote-ki-naamaka"
+  "TIT":
+    name: "Títo"
+    slug: "tito"
+  "PHM":
+    name: "Fílemon"
+    slug: "filemon"
+  "HEB":
+    name: "Héberew"
+    slug: "heberew"
+  "JAS":
+    name: "Yákob"
+    slug: "yakob"
+  "1PE":
+    name: "Bétiro Erká"
+    slug: "betiro-erka"
+  "2PE":
+    name: "Bétiro ki Naamaká"
+    slug: "betiro-ki-naamaka"
+  "1JN":
+    name: "Yuána Erká"
+    slug: "yuana-erka"
+  "2JN":
+    name: "Yuána ki Naamaká"
+    slug: "yuana-ki-naamaka"
+  "3JN":
+    name: "Yuána ki Seđeká"
+    slug: "yuana-ki-seeka"
+  "JUD":
+    name: "Yúúa"
+    slug: "yuua"
+  "REV":
+    name: "Kí Edhesiny"
+    slug: "ki-edhesiny"

@@ -1,0 +1,266 @@
+language: "sag"
+books:
+  "GEN":
+    name: "Tongo nda ti aye"
+    slug: "tongo-nda-ti-aye"
+    name_toc: "Teggḭta lə Ojee"
+  "EXO":
+    name: "Sigingo"
+    slug: "sigingo"
+    name_toc: "Teggḭta lə Joɛl"
+  "LEV":
+    name: "Awayango-sandaga"
+    slug: "awayango-sandaga"
+    name_toc: "Teggḭta lə Amɔs"
+  "NUM":
+    name: "Wungo ti azo"
+    slug: "wungo-ti-azo"
+    name_toc: "Teggḭta lə Abdias"
+  "DEU":
+    name: "Ndia ti fani use ni"
+    slug: "ndia-ti-fani-use-ni"
+    name_toc: "Maktub gə́ wɔji dɔ Junas"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "Teggḭta lə Misee"
+  "JDG":
+    name: "Awafango-ngbanga"
+    slug: "awafango-ngbanga"
+    name_toc: "Teggḭta lə Nahum"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Teggḭta lə Habakuk"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Teggḭta lə Soponi"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Teggḭta lə Ajee"
+  "1KI":
+    name: "1 Agbia"
+    slug: "1-agbia"
+    name_toc: "Teggḭta lə Jakari"
+  "2KI":
+    name: "2 Agbia"
+    slug: "2-agbia"
+    name_toc: "Teggḭta lə Malasi"
+  "1CH":
+    name: "1 Mbai"
+    slug: "1-mbai"
+    name_toc: "Tagə́maji gə́ Matiyo ndang"
+  "2CH":
+    name: "2 Mbai"
+    slug: "2-mbai"
+    name_toc: "Tagə́maji gə́ Mark ndang"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Tagə́maji gə́ Lugu ndang"
+  "NEH":
+    name: "Néhémie"
+    slug: "nehemie"
+    name_toc: "Tagə́maji gə́ Ja̰ ndang"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+    name_toc: "Maktub gə́ wɔji dɔ Néra Njékaḭkulaje"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Maktub gə́ Pol ula ne ar njé gə́ Rɔmə"
+  "PSA":
+    name: "Abia (Psaumes)"
+    slug: "abia-psaumes"
+    name_toc: "Maktub gə́ Dɔtar gə́ Pol ula ne ar njé gə́ Kɔrḭtə"
+  "PRO":
+    name: "Amato"
+    slug: "amato"
+    name_toc: "Maktub gə́ Njekɔm’g joo gə́ Pol ula ne ar njé gə́ Kɔrḭtə"
+  "ECC":
+    name: "Zo ti bongbingo azo"
+    slug: "zo-ti-bongbingo-azo"
+    name_toc: "Maktub gə́ Pol ula ne ar njé gə́ Galati"
+  "SNG":
+    name: "B. ti abia"
+    slug: "b-ti-abia"
+    name_toc: "Maktub gə́ Pol ula ne ar njé gə́ Epesə"
+  "ISA":
+    name: "Ésaïe"
+    slug: "esaie"
+    name_toc: "Maktub gə́ Pol ula ne ar njé gə́ Pilibə"
+  "JER":
+    name: "Jérémie"
+    slug: "jeremie"
+    name_toc: "Maktub gə́ Pol ula ne ar njé gə́ Kolosə"
+  "LAM":
+    name: "Abia ti demango tere"
+    slug: "abia-ti-demango-tere"
+    name_toc: "Maktub gə́ Dɔtar gə́ Pol ula ne ar njé gə́ Tesalonikə"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Maktub gə́ Njékɔm’g joo gə́ Pol ula ne ar njé gə́ Tesalonikə"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Maktub gə́ Dɔtar gə́ Pol ula ne ar Timote"
+  "HOS":
+    name: "Osée"
+    slug: "osee"
+    name_toc: "Maktub gə́ Njekɔm’g Joo gə́ Pol ula ne ar Timote"
+  "JOL":
+    name: "Joël"
+    slug: "joel"
+    name_toc: "Maktub gə́ Pol ula ne ar Titə"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Maktub gə́ Pol ula ne ar Piləmɔ̰"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+    name_toc: "Maktub gə́ d’ula ne d’ar Ǝbrəje"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Maktub gə́ Jak ula ne ar ngan-Allaje"
+  "MIC":
+    name: "Mishe"
+    slug: "mishe"
+    name_toc: "Maktub gə́ Dɔtar gə́ Piɛrə ula ne ar ngan-Allaje"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Maktub gə́ Njekɔm’g joo gə́ Piɛrə ula ne ar ngan-Allaje"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Maktub gə́ Dɔtar gə́ Ja̰ ula ne ar ngan-Allaje"
+  "ZEP":
+    name: "Sofonii"
+    slug: "sofonii"
+    name_toc: "Maktub gə́ Njekɔm’g joo gə́ Ja̰ ula ne ar ngan-Allaje"
+  "HAG":
+    name: "Aggée"
+    slug: "aggee"
+    name_toc: "Maktub gə́ Njekɔm’g mṵda gə́ Ja̰ ula ne ar ngan-Allaje"
+  "ZEC":
+    name: "Zakarii"
+    slug: "zakarii"
+    name_toc: "Maktub gə́ Jude ula ne ar ngan-Allaje"
+  "MAL":
+    name: "Malashii"
+    slug: "malashii"
+    name_toc: "Loo gə́ killa rea kəm Ja̰’g"
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+    name_toc: "Siin giala kɔ ǹ sɛ́wɔ"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+    name_toc: "Bɔ bɛ̀rɛbaa nɛ ǹ sɛ́wɔ"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+    name_toc: "Lawa a wúlu-bɔlen sɛ́wɔ"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+    name_toc: "Minin nimi ǹ sɛ́wɔ"
+  "ACT":
+    name: "Awatokua"
+    slug: "awatokua"
+    name_toc: "Timəə dí-pɛn la ǹ sɛ́wɔ"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+    name_toc: "Zozoe sɛ́wɔ"
+  "1CO":
+    name: "1 Korente"
+    slug: "1-korente"
+    name_toc: "Sii yɔrɔ-bɔlen sɛ́wɔ"
+  "2CO":
+    name: "2 Korente"
+    slug: "2-korente"
+    name_toc: "Uruti sɛ́wɔ"
+  "GAL":
+    name: "Galasii"
+    slug: "galasii"
+    name_toc: "Samayeli sɛ́wɔ bibinaa"
+  "EPH":
+    name: "Efeze"
+    slug: "efeze"
+    name_toc: "Samayeli sɛ́wɔ paabaa ǹ wɔ"
+  "PHP":
+    name: "Filipe"
+    slug: "filipe"
+    name_toc: "Kiin sɛ́wɔ bibinaa"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Kiin sɛ́wɔ paabaa ǹ wɔ"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+    name_toc: "Kiin zɛnaa ǹ sii sɛ́wɔ bibinaa"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+    name_toc: "Kiin zɛnaa ǹ sii sɛ́wɔ paabaa ǹ wɔ"
+  "1TI":
+    name: "1 Timothée"
+    slug: "1-timothee"
+    name_toc: "Ɛsidrasi sɛ́wɔ"
+  "2TI":
+    name: "2 Timothée"
+    slug: "2-timothee"
+    name_toc: "Nehemii sɛ́wɔ"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Ɛsitɛɛrɛ sɛ́wɔ"
+  "PHM":
+    name: "Philémon"
+    slug: "philemon"
+    name_toc: "Zɔbu sɛ́wɔ"
+  "HEB":
+    name: "Ahebro"
+    slug: "ahebro"
+    name_toc: "Loen sɛ́wɔ"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+    name_toc: "Suusun sɛ́wɔ"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1-pierre"
+    name_toc: "Boo-laakalaali a sɛ́wɔ"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2-pierre"
+    name_toc: "Loe kɔɔ̃n kɔɔ̃n sɛ́wɔ"
+  "1JN":
+    name: "1 Jean"
+    slug: "1-jean"
+    name_toc: "Izayii sɛ́wɔ"
+  "2JN":
+    name: "2 Jean"
+    slug: "2-jean"
+    name_toc: "Zeremii sɛ́wɔ"
+  "3JN":
+    name: "3 Jean"
+    slug: "3-jean"
+    name_toc: "Busii pɛ ǹ sɛ́wɔ"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Ezekieli sɛ́wɔ"
+  "REV":
+    name: "Aye so Nzapa afa"
+    slug: "aye-so-nzapa-afa"
+    name_toc: "Danayeli sɛ́wɔ"

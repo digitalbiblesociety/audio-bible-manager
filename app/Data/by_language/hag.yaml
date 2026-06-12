@@ -1,0 +1,5 @@
+language: "hag"
+books:
+  "GEN":
+    name: "Piiligu"
+    slug: "piiligu"

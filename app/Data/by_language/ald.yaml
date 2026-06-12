@@ -1,0 +1,83 @@
+language: "ald"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Markɛ̀n"
+    slug: "markn"
+  "LUK":
+    name: "Lükɛ̀n"
+    slug: "lukn"
+  "JHN":
+    name: "Zhan"
+    slug: "zhan"
+  "ACT":
+    name: "Ɔkɔ̀hɔ̀n-wá-bɔ̀ kɔ̀hɔ̀n hán"
+    slug: "khn-wa-b-khn-han"
+  "ROM":
+    name: "Rɔmɛ̀n-anmàn-bɔ̀"
+    slug: "rmn-anman-b"
+  "1CO":
+    name: "1 Korɛntɛ̀n anmàn-bɔ̀"
+    slug: "1-korntn-anman-b"
+  "2CO":
+    name: "2 Korɛntɛ̀n anmàn-bɔ̀"
+    slug: "2-korntn-anman-b"
+  "GAL":
+    name: "Galasi anmàn-bɔ̀"
+    slug: "galasi-anman-b"
+  "EPH":
+    name: "Efɛzɛ̀n anmàn-bɔ̀"
+    slug: "efzn-anman-b"
+  "PHP":
+    name: "Filipɛ̀n anmàn-bɔ̀"
+    slug: "filipn-anman-b"
+  "COL":
+    name: "Kɔlɔsèn anmàn-bɔ̀"
+    slug: "klsen-anman-b"
+  "1TH":
+    name: "1 Tesalonikɛ̀n anmàn-bɔ̀"
+    slug: "1-tesalonikn-anman-b"
+  "2TH":
+    name: "2 Tesalonikɛ̀n anmàn-bɔ̀"
+    slug: "2-tesalonikn-anman-b"
+  "1TI":
+    name: "Kpàkpà timote"
+    slug: "kpakpa-timote"
+  "2TI":
+    name: "Anhyrɛmɛ̀n timote"
+    slug: "anhyrmn-timote"
+  "TIT":
+    name: "Titɛ̀n"
+    slug: "titn"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Ebre-bɔ̀"
+    slug: "ebre-b"
+  "JAS":
+    name: "Zhakɛ̀n"
+    slug: "zhakn"
+  "1PE":
+    name: "1 Piɛrɛ̀n"
+    slug: "1-pirn"
+  "2PE":
+    name: "2 Piɛrɛ̀n"
+    slug: "2-pirn"
+  "1JN":
+    name: "1 Zhan"
+    slug: "1-zhan"
+  "2JN":
+    name: "2 Zhan"
+    slug: "2-zhan"
+  "3JN":
+    name: "3 Zhan"
+    slug: "3-zhan"
+  "JUD":
+    name: "Zhüdɛ̀n"
+    slug: "zhudn"
+  "REV":
+    name: "Ɔwɔ-mɛ̀n-yrikàn"
+    slug: "w-mn-yrikan"

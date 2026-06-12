@@ -1,0 +1,83 @@
+language: "tos"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mrk"
+    slug: "mrk"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jhn"
+    slug: "jhn"
+  "ACT":
+    name: "Act"
+    slug: "act"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Co"
+    slug: "1co"
+  "2CO":
+    name: "2Co"
+    slug: "2co"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "EPH":
+    name: "Eph"
+    slug: "eph"
+  "PHP":
+    name: "Php"
+    slug: "php"
+  "COL":
+    name: "Col"
+    slug: "col"
+  "1TH":
+    name: "1Th"
+    slug: "1th"
+  "2TH":
+    name: "2Th"
+    slug: "2th"
+  "1TI":
+    name: "1Ti"
+    slug: "1ti"
+  "2TI":
+    name: "2Ti"
+    slug: "2ti"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Phm"
+    slug: "phm"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1PE":
+    name: "1Pe"
+    slug: "1pe"
+  "2PE":
+    name: "2Pe"
+    slug: "2pe"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"
+  "2JN":
+    name: "2Jn"
+    slug: "2jn"
+  "3JN":
+    name: "3Jn"
+    slug: "3jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Rev"
+    slug: "rev"

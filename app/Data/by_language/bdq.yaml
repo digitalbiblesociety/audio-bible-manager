@@ -1,0 +1,200 @@
+language: "bdq"
+books:
+  "GEN":
+    name: "Blŭng-A"
+    slug: "blung-a"
+  "EXO":
+    name: "Lĕch Đơ̆ng Êyiptơ"
+    slug: "lech-dong-eyipto"
+  "LEV":
+    name: "Lêwi"
+    slug: "lewi"
+  "NUM":
+    name: "Jô ̌ Bơngai"
+    slug: "jo-bongai"
+  "DEU":
+    name: "Bơthô Khôi Juăt"
+    slug: "botho-khoi-juat"
+  "JOS":
+    name: "Jôsuê"
+    slug: "josue"
+  "JDG":
+    name: "Lu 'Bok Sek Tơlang"
+    slug: "lu-bok-sek-tolang"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "I Samuel"
+    slug: "i-samuel"
+  "2SA":
+    name: "II Samuel"
+    slug: "ii-samuel"
+  "1KI":
+    name: "I Lu Pơtaô"
+    slug: "i-lu-potao"
+  "2KI":
+    name: "II Lu Pơtaô"
+    slug: "ii-lu-potao"
+  "1CH":
+    name: "I Hơ'mon"
+    slug: "i-homon"
+  "2CH":
+    name: "II Hơ'mon"
+    slug: "ii-homon"
+  "EZR":
+    name: "Esơra"
+    slug: "esora"
+  "NEH":
+    name: "Nêhêmi"
+    slug: "nehemi"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Hơrisô"
+    slug: "horiso"
+  "PRO":
+    name: "Tơdrông Pơđơk"
+    slug: "todrong-podok"
+  "ECC":
+    name: "Bôk Bơthô"
+    slug: "bok-botho"
+  "SNG":
+    name: "Hơri Hiôk"
+    slug: "hori-hiok"
+  "ISA":
+    name: "Êsai"
+    slug: "esai"
+  "JER":
+    name: "Jêrêmi"
+    slug: "jeremi"
+  "LAM":
+    name: "Nhơ̆m Hmôi"
+    slug: "nhom-hmoi"
+  "EZK":
+    name: "Êsêkiên"
+    slug: "esekien"
+  "DAN":
+    name: "Đaniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hôsia"
+    slug: "hosia"
+  "JOL":
+    name: "Jôel"
+    slug: "joel"
+  "AMO":
+    name: "Amôt"
+    slug: "amot"
+  "OBA":
+    name: "Ôbadia"
+    slug: "obadia"
+  "JON":
+    name: "Jôna"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Jêphania"
+    slug: "jephania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sachari"
+    slug: "sachari"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Mathiơ"
+    slug: "mathio"
+  "MRK":
+    name: "Markôs"
+    slug: "markos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yôhan"
+    slug: "yohan"
+  "ACT":
+    name: "Tơdrong Jang"
+    slug: "todrong-jang"
+  "ROM":
+    name: "Rôm"
+    slug: "rom"
+  "1CO":
+    name: "I Kôrintô"
+    slug: "i-korinto"
+  "2CO":
+    name: "II Kôrinto"
+    slug: "ii-korinto"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Êphêsô"
+    slug: "epheso"
+  "PHP":
+    name: "Philip"
+    slug: "philip"
+  "COL":
+    name: "Kôlôssê"
+    slug: "kolosse"
+  "1TH":
+    name: "I Têsalônik"
+    slug: "i-tesalonik"
+  "2TH":
+    name: "II Têsalônik"
+    slug: "ii-tesalonik"
+  "1TI":
+    name: "I Timôthê"
+    slug: "i-timothe"
+  "2TI":
+    name: "II Timôthê"
+    slug: "ii-timothe"
+  "TIT":
+    name: "Tĭt"
+    slug: "tit"
+  "PHM":
+    name: "Philêmôn"
+    slug: "philemon"
+  "HEB":
+    name: "Hêbrơ"
+    slug: "hebro"
+  "JAS":
+    name: "Yakơ"
+    slug: "yako"
+  "1PE":
+    name: "I Pêtrôs"
+    slug: "i-petros"
+  "2PE":
+    name: "II Pêtrôs"
+    slug: "ii-petros"
+  "1JN":
+    name: "I Yôhan"
+    slug: "i-yohan"
+  "2JN":
+    name: "II Yôhan"
+    slug: "ii-yohan"
+  "3JN":
+    name: "III Yôhan"
+    slug: "iii-yohan"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Tơdrong Tơ'bôh"
+    slug: "todrong-toboh"

@@ -1,0 +1,266 @@
+language: "sda"
+books:
+  "GEN":
+    name: "Kadadian"
+    slug: "kadadian"
+    name_toc: "Ɛseta Nwomaa Ne"
+  "EXO":
+    name: "Katassuran"
+    slug: "katassuran"
+    name_toc: "Yob Nwomaa Ne"
+  "LEV":
+    name: "Sura’ Katominaan"
+    slug: "sura-katominaan"
+    name_toc: "Edwein"
+  "NUM":
+    name: "Kadibilangan"
+    slug: "kadibilangan"
+    name_toc: "Anyandera"
+  "DEU":
+    name: "Pa’tole"
+    slug: "patole"
+    name_toc: "Nworɛ Dwirɛhanɛniɛ"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Edwein Nu Dwein"
+  "JDG":
+    name: "To Parengnge’"
+    slug: "to-parengnge"
+    name_toc: "Ngɔmhyɛlɛniɛ Yesaya Nwomaa Ne"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Ngɔmhyɛlɛniɛ Yeremia Nwomaa Ne"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Awuye"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Ngɔmhyɛlɛniɛ Hesekiel Nwomaa Ne"
+  "1KI":
+    name: "1 Datu"
+    slug: "1-datu"
+    name_toc: "Daniel Nwomaa Ne"
+  "2KI":
+    name: "2 Datu"
+    slug: "2-datu"
+    name_toc: "Ngɔmhyɛlɛniɛ Hosea Nwomaa Ne"
+  "1CH":
+    name: "1 Ossoranna Datu"
+    slug: "1-ossoranna-datu"
+    name_toc: "Ngɔmhyɛlɛniɛ Yoel Nwomaa Ne"
+  "2CH":
+    name: "2 Ossoranna Datu"
+    slug: "2-ossoranna-datu"
+    name_toc: "Ngɔmhyɛlɛniɛ Amose Nwomaa Ne"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ngɔmhyɛlɛniɛ Obadia Nwomaa Ne"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Ngɔmhyɛlɛniɛ Yona Nwomaa Ne"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ngɔmhyɛlɛniɛ Mika Nwomaa Ne"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Ngɔmhyɛlɛniɛ Nahum Nwomaa Ne"
+  "PSA":
+    name: "Pa’pudian"
+    slug: "papudian"
+    name_toc: "Ngɔmhyɛlɛniɛ Habakuku Nwomaa Ne"
+  "PRO":
+    name: "Sarambu Peada’"
+    slug: "sarambu-peada"
+    name_toc: "Ngɔmhyɛlɛniɛ Sefania Nwomaa Ne"
+  "ECC":
+    name: "Tomangada’"
+    slug: "tomangada"
+    name_toc: "Ngɔmhyɛlɛniɛ Hagae Nwomaa Ne"
+  "SNG":
+    name: "Pa’tendeng Ballo"
+    slug: "patendeng-ballo"
+    name_toc: "Ngɔmhyɛlɛniɛ Sakaria Nwomaa Ne"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Ngɔmhyɛlɛniɛ Malaki Nwomaa Ne"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Nzɛmba Ne Kyɛbɔ Mateo Hyerɛle Ne"
+  "LAM":
+    name: "Bating"
+    slug: "bating"
+    name_toc: "Nzɛmba Ne Kyɛbɔ Marko Hyerɛle Ne"
+  "EZK":
+    name: "Yehezkiel"
+    slug: "yehezkiel"
+    name_toc: "Nzɛmba Ne Kyɛbɔ Luka Hyerɛle Ne"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Nzɛmba Ne Kyɛbɔ Yohane Hyerɛle Ne"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Asomafoɛ Nemɔ Nnwumaa Ne"
+  "JOL":
+    name: "Yoël"
+    slug: "yoel"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Romanfoɛ"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Korintofoɛ"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Korintofoɛ"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Galatiafoɛ"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Ɛfesofoɛ"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Filipifoɛ"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Kolosefoɛ"
+  "ZEP":
+    name: "Zefanya"
+    slug: "zefanya"
+    name_toc: "Pɔɔlo Krataa Bɔ Oli Moa Bɔ Ɔhyerɛ Ɔɔmane Tɛsalonikafoɛ"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔtɔ So Nyɔ Bɔ Ɔhyerɛ Ɔɔmane Tɛsalonikafoɛ"
+  "ZEC":
+    name: "Zakharia"
+    slug: "zakharia"
+    name_toc: "Pɔɔlo Krataa Bɔ Oli Moa Bɔ Ɔhyerɛ Ɔɔmane Timoteo"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔtɔ So Nyɔ Bɔ Ɔhyerɛ Ɔɔmane Timoteo"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Tito"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Pɔɔlo Krataa Bɔ Ɔhyerɛ Ɔɔmane Filemon"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Krataa Bɔ Bɛhyerɛ Bɛɛmane Hebrifoɛ"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Yakobo Krataa Ne"
+  "ACT":
+    name: "Penggauranna Rasulu’"
+    slug: "penggauranna-rasulu"
+    name_toc: "Petro Krataa Bɔ Oli Moa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Petro Krataa Bɔ Ɔtɔ So Nyɔ"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Yohane Krataa Bɔ Oli Moa"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Yohane Krataa Bɔ Ɔtɔ So Nyɔ"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Yohane Krataa Bɔ Ɔtɔ So Nza"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Yuda Krataa Ne"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Yohane Nyekyire"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "मत्ती कर लिखल ईसू कर सुघर खभेर"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "मरकुस कर लिखल ईसू कर सुघर खभेर"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "लूका कर लिखल ईसू कर सुघर खभेर"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "यूहन्ना कर लिखल ईसू कर सुघर खभेर"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "परेरीत मन कर काम कर बखान"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "रोम कलीसिया बर चिट्ठी"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "कुरिन्थी कर चिट्ठी"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "कुरिन्थी कर चिट्ठी"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "गलाती इलाका कर कलीसिया बर पौलुस कर लिखल चिट्ठी"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "इफिसी सहर कर कलीसिया बर पौलुस कर लिखल चिट्ठी"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "फिलिप्पी सहर कर कलीसिया बर पौलुस कर लिखल चिट्ठी"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "कुलुस्से सहर कर कलीसिया बर पौलुस कर लिखल चिट्ठी"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "थिस्सलुनीके सहर कर कलीसिया ला पौलुस कर लिखल पहिला चिट्ठी"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "थिस्सलुनीके सहर कर कलीसिया ला पौलुस कर लिखल दूसरा चिट्ठी"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "तीमुथियुस कर नांव में पौलुस कर लिखल पहिला चिट्ठी"
+  "REV":
+    name: "Kada Ombo’ Lako Rasulu’ Yohanes"
+    slug: "kada-ombo-lako-rasulu-yohanes"
+    name_toc: "तीमुथियुस कर नांव में पौलुस कर लिखल दूसरा चिट्ठी"

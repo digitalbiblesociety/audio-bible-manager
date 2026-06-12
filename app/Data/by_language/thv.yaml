@@ -1,0 +1,14 @@
+language: "thv"
+books:
+  "GEN":
+    name: "Gen"
+    slug: "gen"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Jon"
+    slug: "jon"
+  "LUK":
+    name: "Luk"
+    slug: "luk"

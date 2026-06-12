@@ -1,0 +1,233 @@
+language: "ann"
+books:
+  "GEN":
+    name: "Ibeb"
+    slug: "ibeb"
+  "EXO":
+    name: "Isis"
+    slug: "isis"
+  "LEV":
+    name: "Lib"
+    slug: "lib"
+  "NUM":
+    name: "Ifuk"
+    slug: "ifuk"
+  "DEU":
+    name: "Ikan"
+    slug: "ikan"
+  "JOS":
+    name: "Jos"
+    slug: "jos"
+  "JDG":
+    name: "Oyer"
+    slug: "oyer"
+  "RUT":
+    name: "Rufu"
+    slug: "rufu"
+  "1SA":
+    name: "I Sam"
+    slug: "i-sam"
+  "2SA":
+    name: "II Sam"
+    slug: "ii-sam"
+  "1KI":
+    name: "I Ubọọn̄"
+    slug: "i-uboon"
+  "2KI":
+    name: "II Ubọọn̄"
+    slug: "ii-uboon"
+  "1CH":
+    name: "I Mfuf"
+    slug: "i-mfuf"
+  "2CH":
+    name: "II Mfuf"
+    slug: "ii-mfuf"
+  "EZR":
+    name: "Ejira"
+    slug: "ejira"
+  "NEH":
+    name: "Neyem"
+    slug: "neyem"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "JOB":
+    name: "Jobu"
+    slug: "jobu"
+  "PSA":
+    name: "Itọn̄"
+    slug: "iton"
+  "PRO":
+    name: "Urọk"
+    slug: "urok"
+  "ECC":
+    name: "Etip"
+    slug: "etip"
+  "SNG":
+    name: "Okwa"
+    slug: "okwa"
+  "ISA":
+    name: "Asaya"
+    slug: "asaya"
+  "JER":
+    name: "Jeri"
+    slug: "jeri"
+  "LAM":
+    name: "Ito"
+    slug: "ito"
+  "EZK":
+    name: "Ijik"
+    slug: "ijik"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+  "HOS":
+    name: "Osia"
+    slug: "osia"
+  "JOL":
+    name: "Juwen"
+    slug: "juwen"
+  "AMO":
+    name: "Emọs"
+    slug: "emos"
+  "OBA":
+    name: "Obid"
+    slug: "obid"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nawum"
+    slug: "nawum"
+  "HAB":
+    name: "Abak"
+    slug: "abak"
+  "ZEP":
+    name: "Jefan"
+    slug: "jefan"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+  "ZEC":
+    name: "Jek"
+    slug: "jek"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Esita-G"
+    slug: "esita-g"
+  "WIS":
+    name: "Iriọọn̄"
+    slug: "irioon"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+  "1MA":
+    name: "I Makab"
+    slug: "i-makab"
+  "2MA":
+    name: "II Makab"
+    slug: "ii-makab"
+  "1ES":
+    name: "I Esid"
+    slug: "i-esid"
+  "2ES":
+    name: "II Esid"
+    slug: "ii-esid"
+  "MAN":
+    name: "Man"
+    slug: "man"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jọn"
+    slug: "jon"
+  "ACT":
+    name: "Ikwaan̄"
+    slug: "ikwaan"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "I Kọr"
+    slug: "i-kor"
+  "2CO":
+    name: "II Kọr"
+    slug: "ii-kor"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "EPH":
+    name: "Efes"
+    slug: "efes"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kọl"
+    slug: "kol"
+  "1TH":
+    name: "I Tes"
+    slug: "i-tes"
+  "2TH":
+    name: "II Tes"
+    slug: "ii-tes"
+  "1TI":
+    name: "I Tim"
+    slug: "i-tim"
+  "2TI":
+    name: "II Timọti"
+    slug: "ii-timoti"
+  "TIT":
+    name: "Tai"
+    slug: "tai"
+  "PHM":
+    name: "Filim"
+    slug: "filim"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "I Pita"
+    slug: "i-pita"
+  "2PE":
+    name: "II Pita"
+    slug: "ii-pita"
+  "1JN":
+    name: "I Jọn"
+    slug: "i-jon"
+  "2JN":
+    name: "II Jọn"
+    slug: "ii-jon"
+  "3JN":
+    name: "III Jọn"
+    slug: "iii-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Ichi"
+    slug: "ichi"

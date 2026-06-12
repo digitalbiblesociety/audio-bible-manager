@@ -1,0 +1,83 @@
+language: "gbm"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "प्रेरितों के काम"
+    slug: "preritom-ke-kama"
+  "ROM":
+    name: "रोमियों"
+    slug: "romiyom"
+  "1CO":
+    name: "1 कुरिन्थियों"
+    slug: "1-kurinthiyom"
+  "2CO":
+    name: "2 कुरिन्थियों"
+    slug: "2-kurinthiyom"
+  "GAL":
+    name: "गलातियों"
+    slug: "galatiyom"
+  "EPH":
+    name: "इफिसियों"
+    slug: "iphisiyom"
+  "PHP":
+    name: "फिलिप्पियों"
+    slug: "philippiyom"
+  "COL":
+    name: "कुलुस्सियों"
+    slug: "kulussiyom"
+  "1TH":
+    name: "1 थिस्सलुनीकियों"
+    slug: "1-thissalunikiyom"
+  "2TH":
+    name: "2 थिस्सलुनीकियों"
+    slug: "2-thissalunikiyom"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "इब्रानियों"
+    slug: "ibraniyom"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकाशित वाक्य"
+    slug: "prakasita-vakya"

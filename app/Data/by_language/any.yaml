@@ -1,0 +1,83 @@
+language: "any"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Maakɩ"
+    slug: "maak"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Zʊan"
+    slug: "zuan"
+  "ACT":
+    name: "Junman"
+    slug: "junman"
+  "ROM":
+    name: "Lɔmʊn"
+    slug: "lmun"
+  "1CO":
+    name: "1 Kolɩntɩ"
+    slug: "1-kolnt"
+  "2CO":
+    name: "2 Kolɩntɩ"
+    slug: "2-kolnt"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efɛzɩ"
+    slug: "efz"
+  "PHP":
+    name: "Filipʊ Asɔnɩn Mma"
+    slug: "filipu-asnn-mma"
+  "COL":
+    name: "Kolɔsʊ"
+    slug: "kolsu"
+  "1TH":
+    name: "1 Tesaloninki"
+    slug: "1-tesaloninki"
+  "2TH":
+    name: "2 Tesaloninki"
+    slug: "2-tesaloninki"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titɩ"
+    slug: "tit"
+  "PHM":
+    name: "Filemʊn"
+    slug: "filemun"
+  "HEB":
+    name: "Ebele'n-mɔ"
+    slug: "ebelen-m"
+  "JAS":
+    name: "Zʊakɩ"
+    slug: "zuak"
+  "1PE":
+    name: "1 Pɩɛlɩ"
+    slug: "1-pl"
+  "2PE":
+    name: "2 Pɩɛlɩ"
+    slug: "2-pl"
+  "1JN":
+    name: "1 Zʊan"
+    slug: "1-zuan"
+  "2JN":
+    name: "2 Zʊan"
+    slug: "2-zuan"
+  "3JN":
+    name: "3 Zʊan"
+    slug: "3-zuan"
+  "JUD":
+    name: "Zudɩ"
+    slug: "zud"
+  "REV":
+    name: "Ayɩkele"
+    slug: "aykele"

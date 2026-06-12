@@ -1,0 +1,83 @@
+language: "ntr"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maake"
+    slug: "maake"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Gyɔn"
+    slug: "gyn"
+  "ACT":
+    name: "Kpilala"
+    slug: "kpilala"
+  "ROM":
+    name: "Romantena"
+    slug: "romantena"
+  "1CO":
+    name: "1 Korintotena"
+    slug: "1-korintotena"
+  "2CO":
+    name: "2 Korintotena"
+    slug: "2-korintotena"
+  "GAL":
+    name: "Galatiatena"
+    slug: "galatiatena"
+  "EPH":
+    name: "Efesotena"
+    slug: "efesotena"
+  "PHP":
+    name: "Filipitena"
+    slug: "filipitena"
+  "COL":
+    name: "Kolosetena"
+    slug: "kolosetena"
+  "1TH":
+    name: "1 Tesalonikatena"
+    slug: "1-tesalonikatena"
+  "2TH":
+    name: "2 Tesalonikatena"
+    slug: "2-tesalonikatena"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tituse"
+    slug: "tituse"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Hiburutena"
+    slug: "hiburutena"
+  "JAS":
+    name: "Gyemisi"
+    slug: "gyemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Gyɔn"
+    slug: "1-gyn"
+  "2JN":
+    name: "2 Gyɔn"
+    slug: "2-gyn"
+  "3JN":
+    name: "3 Gyɔn"
+    slug: "3-gyn"
+  "JUD":
+    name: "Gyuudi"
+    slug: "gyuudi"
+  "REV":
+    name: "Kalesewola"
+    slug: "kalesewola"

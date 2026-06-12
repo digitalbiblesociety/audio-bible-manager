@@ -1,0 +1,101 @@
+language: "bbb"
+books:
+  "GEN":
+    name: "Iko Zinume"
+    slug: "iko-zinume"
+  "EXO":
+    name: "Una Kaenamiae"
+    slug: "una-kaenamiae"
+  "NUM":
+    name: "Nabasi"
+    slug: "nabasi"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "NEH":
+    name: "Neamaea"
+    slug: "neamaea"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Ruki"
+    slug: "ruki"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+  "ACT":
+    name: "Ekisi"
+    slug: "ekisi"
+  "ROM":
+    name: "Romeni"
+    slug: "romeni"
+  "1CO":
+    name: "1 Koriniti"
+    slug: "1-koriniti"
+  "2CO":
+    name: "2 Koriniti"
+    slug: "2-koriniti"
+  "GAL":
+    name: "Garesiani"
+    slug: "garesiani"
+  "EPH":
+    name: "Ifisiani"
+    slug: "ifisiani"
+  "PHP":
+    name: "Firifiani"
+    slug: "firifiani"
+  "COL":
+    name: "Korosiani"
+    slug: "korosiani"
+  "1TH":
+    name: "1 Tesaroniasi"
+    slug: "1-tesaroniasi"
+  "2TH":
+    name: "2 Tesaroniasi"
+    slug: "2-tesaroniasi"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taetasi"
+    slug: "taetasi"
+  "PHM":
+    name: "Firimoni"
+    slug: "firimoni"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Fita"
+    slug: "1-fita"
+  "2PE":
+    name: "2 Fita"
+    slug: "2-fita"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Revaresoni"
+    slug: "revaresoni"

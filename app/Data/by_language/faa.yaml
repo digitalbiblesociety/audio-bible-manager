@@ -1,0 +1,83 @@
+language: "faa"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Ruki"
+    slug: "ruki"
+  "JHN":
+    name: "Yone"
+    slug: "yone"
+  "ACT":
+    name: "Tarira Aporo"
+    slug: "tarira-aporo"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "1 Korini"
+    slug: "1-korini"
+  "2CO":
+    name: "2 Korini"
+    slug: "2-korini"
+  "GAL":
+    name: "Karesia"
+    slug: "karesia"
+  "EPH":
+    name: "Efesase"
+    slug: "efesase"
+  "PHP":
+    name: "Firipai"
+    slug: "firipai"
+  "COL":
+    name: "Korosi"
+    slug: "korosi"
+  "1TH":
+    name: "1 Tesaronaeka"
+    slug: "1-tesaronaeka"
+  "2TH":
+    name: "2 Tesaronaeka"
+    slug: "2-tesaronaeka"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taetase"
+    slug: "taetase"
+  "PHM":
+    name: "Fairimone"
+    slug: "fairimone"
+  "HEB":
+    name: "Hipuru"
+    slug: "hipuru"
+  "JAS":
+    name: "Yamese"
+    slug: "yamese"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yone"
+    slug: "1-yone"
+  "2JN":
+    name: "2 Yone"
+    slug: "2-yone"
+  "3JN":
+    name: "3 Yone"
+    slug: "3-yone"
+  "JUD":
+    name: "Yuti"
+    slug: "yuti"
+  "REV":
+    name: "Some Faremaresa Tarisia"
+    slug: "some-faremaresa-tarisia"

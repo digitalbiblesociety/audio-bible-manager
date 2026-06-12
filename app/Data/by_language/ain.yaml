@@ -1,0 +1,83 @@
+language: "ain"
+books:
+  "MAT":
+    name: "Mattaios"
+    slug: "mattaios"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Roukos"
+    slug: "roukos"
+  "JHN":
+    name: "Yoannes"
+    slug: "yoannes"
+  "ACT":
+    name: "Apostoro ikip oma kambi"
+    slug: "apostoro-ikip-oma-kambi"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "I Korintos"
+    slug: "i-korintos"
+  "2CO":
+    name: "II Korintos"
+    slug: "ii-korintos"
+  "GAL":
+    name: "Garatea"
+    slug: "garatea"
+  "EPH":
+    name: "Epesos"
+    slug: "epesos"
+  "PHP":
+    name: "Piripoi"
+    slug: "piripoi"
+  "COL":
+    name: "Korosai"
+    slug: "korosai"
+  "1TH":
+    name: "I Tessaronike"
+    slug: "i-tessaronike"
+  "2TH":
+    name: "II Tessaronike"
+    slug: "ii-tessaronike"
+  "1TI":
+    name: "I Timoteos"
+    slug: "i-timoteos"
+  "2TI":
+    name: "II Timoteos"
+    slug: "ii-timoteos"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pirimon"
+    slug: "pirimon"
+  "HEB":
+    name: "Hebraios"
+    slug: "hebraios"
+  "JAS":
+    name: "Yakob"
+    slug: "yakob"
+  "1PE":
+    name: "I Petros"
+    slug: "i-petros"
+  "2PE":
+    name: "II Petros"
+    slug: "ii-petros"
+  "1JN":
+    name: "I Yoannes"
+    slug: "i-yoannes"
+  "2JN":
+    name: "II Yoannes"
+    slug: "ii-yoannes"
+  "3JN":
+    name: "III Yoannes"
+    slug: "iii-yoannes"
+  "JUD":
+    name: "Youdas"
+    slug: "youdas"
+  "REV":
+    name: "Ekambakbe"
+    slug: "ekambakbe"

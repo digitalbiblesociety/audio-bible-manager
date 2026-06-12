@@ -1,0 +1,200 @@
+language: "rop"
+books:
+  "GEN":
+    name: "Jenasis"
+    slug: "jenasis"
+  "EXO":
+    name: "Eksadas"
+    slug: "eksadas"
+  "LEV":
+    name: "Labidakas"
+    slug: "labidakas"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+  "DEU":
+    name: "Dyudaranami"
+    slug: "dyudaranami"
+  "JOS":
+    name: "Joshuwa"
+    slug: "joshuwa"
+  "JDG":
+    name: "Jadjis"
+    slug: "jadjis"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "Fes Semyul"
+    slug: "fes-semyul"
+  "2SA":
+    name: "Sekan Semyul"
+    slug: "sekan-semyul"
+  "1KI":
+    name: "Fes Kings"
+    slug: "fes-kings"
+  "2KI":
+    name: "Sekan Kings"
+    slug: "sekan-kings"
+  "1CH":
+    name: "Fes Kranakuls"
+    slug: "fes-kranakuls"
+  "2CH":
+    name: "Sekan Kranakuls"
+    slug: "sekan-kranakuls"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Niyamaiya"
+    slug: "niyamaiya"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Ola Saam"
+    slug: "ola-saam"
+  "PRO":
+    name: "Prabebs"
+    slug: "prabebs"
+  "ECC":
+    name: "Aklisiyestis"
+    slug: "aklisiyestis"
+  "SNG":
+    name: "Brabli Gudwan Song"
+    slug: "brabli-gudwan-song"
+  "ISA":
+    name: "Aisaiya"
+    slug: "aisaiya"
+  "JER":
+    name: "Jeramaiya"
+    slug: "jeramaiya"
+  "LAM":
+    name: "Leminteishans"
+    slug: "leminteishans"
+  "EZK":
+    name: "Isikiyel"
+    slug: "isikiyel"
+  "DAN":
+    name: "Denyul"
+    slug: "denyul"
+  "HOS":
+    name: "Hoseiya"
+    slug: "hoseiya"
+  "JOL":
+    name: "Jowal"
+    slug: "jowal"
+  "AMO":
+    name: "Eimos"
+    slug: "eimos"
+  "OBA":
+    name: "Obadaiya"
+    slug: "obadaiya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Neiham"
+    slug: "neiham"
+  "HAB":
+    name: "Hebakak"
+    slug: "hebakak"
+  "ZEP":
+    name: "Sefanaiya"
+    slug: "sefanaiya"
+  "HAG":
+    name: "Hegai"
+    slug: "hegai"
+  "ZEC":
+    name: "Sekaraiya"
+    slug: "sekaraiya"
+  "MAL":
+    name: "Melakai"
+    slug: "melakai"
+  "MAT":
+    name: "Mak"
+    slug: "mak"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Eks"
+    slug: "eks"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+  "1CO":
+    name: "Fes Karinthiyans"
+    slug: "fes-karinthiyans"
+  "2CO":
+    name: "Sekan Karinthiyans"
+    slug: "sekan-karinthiyans"
+  "GAL":
+    name: "Galeishans"
+    slug: "galeishans"
+  "EPH":
+    name: "Ifishans"
+    slug: "ifishans"
+  "PHP":
+    name: "Falipiyans"
+    slug: "falipiyans"
+  "COL":
+    name: "Kaloshans"
+    slug: "kaloshans"
+  "1TH":
+    name: "Fes Thesaloniyans"
+    slug: "fes-thesaloniyans"
+  "2TH":
+    name: "Sekan Thesaloniyans"
+    slug: "sekan-thesaloniyans"
+  "1TI":
+    name: "Fes Timathi"
+    slug: "fes-timathi"
+  "2TI":
+    name: "Sekan Timathi"
+    slug: "sekan-timathi"
+  "TIT":
+    name: "Taidas"
+    slug: "taidas"
+  "PHM":
+    name: "Failiman"
+    slug: "failiman"
+  "HEB":
+    name: "Hibrus"
+    slug: "hibrus"
+  "JAS":
+    name: "Jeims"
+    slug: "jeims"
+  "1PE":
+    name: "Fes Pida"
+    slug: "fes-pida"
+  "2PE":
+    name: "Sekan Pida"
+    slug: "sekan-pida"
+  "1JN":
+    name: "Fes Jon"
+    slug: "fes-jon"
+  "2JN":
+    name: "Sekan Jon"
+    slug: "sekan-jon"
+  "3JN":
+    name: "Thed Jon"
+    slug: "thed-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Rebaleishan"
+    slug: "rebaleishan"

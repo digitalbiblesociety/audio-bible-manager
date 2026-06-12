@@ -1,0 +1,83 @@
+language: "jam"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Aks"
+    slug: "aks"
+  "ROM":
+    name: "Ruoman"
+    slug: "ruoman"
+  "1CO":
+    name: "1 Korintiyan"
+    slug: "1-korintiyan"
+  "2CO":
+    name: "2 Korintiyan"
+    slug: "2-korintiyan"
+  "GAL":
+    name: "Gyalieshan"
+    slug: "gyalieshan"
+  "EPH":
+    name: "Ifiijan"
+    slug: "ifiijan"
+  "PHP":
+    name: "Filipiyan"
+    slug: "filipiyan"
+  "COL":
+    name: "Koloshan"
+    slug: "koloshan"
+  "1TH":
+    name: "1 Tesaluoniyan"
+    slug: "1-tesaluoniyan"
+  "2TH":
+    name: "2 Tesaluoniyan"
+    slug: "2-tesaluoniyan"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitos"
+    slug: "taitos"
+  "PHM":
+    name: "Failiiman"
+    slug: "failiiman"
+  "HEB":
+    name: "Iibruu"
+    slug: "iibruu"
+  "JAS":
+    name: "Jiemz"
+    slug: "jiemz"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Revilieshan"
+    slug: "revilieshan"

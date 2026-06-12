@@ -1,0 +1,122 @@
+language: "ses"
+books:
+  "GEN":
+    name: "Sintinoo"
+    slug: "sintinoo"
+  "EXO":
+    name: "Fattaroo"
+    slug: "fattaroo"
+  "LEV":
+    name: "Sargarey"
+    slug: "sargarey"
+  "NUM":
+    name: "Kabuyaney"
+    slug: "kabuyaney"
+  "DEU":
+    name: "Alhukumoo"
+    slug: "alhukumoo"
+  "JOS":
+    name: "Žozuwe"
+    slug: "zozuwe"
+  "JDG":
+    name: "Alkaaley"
+    slug: "alkaaley"
+  "RUT":
+    name: "Rutti"
+    slug: "rutti"
+  "1SA":
+    name: "SAMIYEL 1na"
+    slug: "samiyel-1na"
+  "2SA":
+    name: "SAMIYEL 2to"
+    slug: "samiyel-2to"
+  "1KI":
+    name: "KOKOYEY 1na"
+    slug: "kokoyey-1na"
+  "1CH":
+    name: "Taarikey 1na"
+    slug: "taarikey-1na"
+  "JON":
+    name: "Yunusa"
+    slug: "yunusa"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yehiya"
+    slug: "yehiya"
+  "ACT":
+    name: "Teegoyey"
+    slug: "teegoyey"
+  "ROM":
+    name: "Rom Borey Batagaa"
+    slug: "rom-borey-batagaa"
+  "1CO":
+    name: "KORENT BOREY BATAGA 1na"
+    slug: "korent-borey-bataga-1na"
+  "2CO":
+    name: "KORENT BOREY BATAGA 2to"
+    slug: "korent-borey-bataga-2to"
+  "GAL":
+    name: "Galati Borey Batagaa"
+    slug: "galati-borey-batagaa"
+  "EPH":
+    name: "Efez Borey Batagaa"
+    slug: "efez-borey-batagaa"
+  "PHP":
+    name: "Filipi Borey Batagaa"
+    slug: "filipi-borey-batagaa"
+  "COL":
+    name: "Kolos Borey Batagaa"
+    slug: "kolos-borey-batagaa"
+  "1TH":
+    name: "TESALONIK BOREY BATAGA 1na"
+    slug: "tesalonik-borey-bataga-1na"
+  "2TH":
+    name: "TESALONIK BOREY BATAGA 2to"
+    slug: "tesalonik-borey-bataga-2to"
+  "1TI":
+    name: "TIMOTE BATAGA 1na"
+    slug: "timote-bataga-1na"
+  "2TI":
+    name: "TIMOTE BATAGA 2to"
+    slug: "timote-bataga-2to"
+  "TIT":
+    name: "Tit Batagaa"
+    slug: "tit-batagaa"
+  "PHM":
+    name: "Filemoŋ Batagaa"
+    slug: "filemon-batagaa"
+  "HEB":
+    name: "Eberewey Batagaa"
+    slug: "eberewey-batagaa"
+  "JAS":
+    name: "Žak Batagaa"
+    slug: "zak-batagaa"
+  "1PE":
+    name: "PIYER BATAGA 1na"
+    slug: "piyer-bataga-1na"
+  "2PE":
+    name: "PIYER BATAGA 2to"
+    slug: "piyer-bataga-2to"
+  "1JN":
+    name: "YEHIYA BATAGA 1na"
+    slug: "yehiya-bataga-1na"
+  "2JN":
+    name: "YEHIYA BATAGA 2to"
+    slug: "yehiya-bataga-2to"
+  "3JN":
+    name: "YEHIYA BATAGA 3to"
+    slug: "yehiya-bataga-3to"
+  "JUD":
+    name: "Žud Batagaa"
+    slug: "zud-batagaa"
+  "REV":
+    name: "Bangandiroo"
+    slug: "bangandiroo"

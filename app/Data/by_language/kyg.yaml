@@ -1,0 +1,98 @@
+language: "kyg"
+books:
+  "RUT":
+    name: "Luti"
+    slug: "luti"
+  "EST":
+    name: "Esata"
+    slug: "esata"
+  "PSA":
+    name: "Samu"
+    slug: "samu"
+  "SNG":
+    name: "Salomoni Yokemae"
+    slug: "salomoni-yokemae"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Yoni"
+    slug: "yoni"
+  "ACT":
+    name: "Apa"
+    slug: "apa"
+  "ROM":
+    name: "Lomu"
+    slug: "lomu"
+  "1CO":
+    name: "1 Kolitiyani"
+    slug: "1-kolitiyani"
+  "2CO":
+    name: "2 Kolitiyani"
+    slug: "2-kolitiyani"
+  "GAL":
+    name: "Galesiya"
+    slug: "galesiya"
+  "EPH":
+    name: "Efasasi"
+    slug: "efasasi"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesaloniyani"
+    slug: "1-tesaloniyani"
+  "2TH":
+    name: "2 Tesaloniyani"
+    slug: "2-tesaloniyani"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Failimoni"
+    slug: "failimoni"
+  "HEB":
+    name: "Himulu"
+    slug: "himulu"
+  "JAS":
+    name: "Yemisi"
+    slug: "yemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yoni"
+    slug: "1-yoni"
+  "2JN":
+    name: "2 Yoni"
+    slug: "2-yoni"
+  "3JN":
+    name: "3 Yoni"
+    slug: "3-yoni"
+  "JUD":
+    name: "Yuti"
+    slug: "yuti"
+  "REV":
+    name: "Leveleseni"
+    slug: "leveleseni"

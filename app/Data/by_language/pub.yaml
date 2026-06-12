@@ -1,0 +1,5 @@
+language: "pub"
+books:
+  "MRK":
+    name: "Mark"
+    slug: "mark"

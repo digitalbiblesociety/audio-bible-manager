@@ -1,0 +1,71 @@
+language: "tat"
+books:
+  "MAT":
+    name: "Маттай"
+    slug: "mattaj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лүк"
+    slug: "luk"
+  "JHN":
+    name: "Яхъя"
+    slug: "aha"
+  "ROM":
+    name: "Римлыларга"
+    slug: "rimlylarga"
+  "1CO":
+    name: "1 Кѳринтлеләргә"
+    slug: "1-kfrintlelrg"
+  "GAL":
+    name: "Гәләтиялеләргә"
+    slug: "gltialelrg"
+  "EPH":
+    name: "Эфеслеләргә"
+    slug: "efeslelrg"
+  "PHP":
+    name: "Филиппуйлыларга"
+    slug: "filippujlylarga"
+  "COL":
+    name: "Кѳлессәйлеләргә"
+    slug: "kflessjlelrg"
+  "1TH":
+    name: "1 Тессалуникәлеләргә"
+    slug: "1-tessaluniklelrg"
+  "2TH":
+    name: "2 Тессалуникәлеләргә"
+    slug: "2-tessaluniklelrg"
+  "1TI":
+    name: "1 Тимутегә"
+    slug: "1-timuteg"
+  "2TI":
+    name: "2 Тимутегә"
+    slug: "2-timuteg"
+  "TIT":
+    name: "Титуска"
+    slug: "tituska"
+  "HEB":
+    name: "Еврейләргә"
+    slug: "evrejlrg"
+  "JAS":
+    name: "Ягъкуб"
+    slug: "agkub"
+  "1PE":
+    name: "1 Петер"
+    slug: "1-peter"
+  "1JN":
+    name: "1 Яхъя"
+    slug: "1-aha"
+  "2JN":
+    name: "2 Яхъя"
+    slug: "2-aha"
+  "3JN":
+    name: "3 Яхъя"
+    slug: "3-aha"
+  "JUD":
+    name: "Яһүд"
+    slug: "ahud"
+  "REV":
+    name: "Ачылыш"
+    slug: "acylys"

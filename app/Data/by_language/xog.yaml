@@ -1,0 +1,310 @@
+language: "xog"
+books:
+  "GEN":
+    name: "Amainhama"
+    slug: "amainhama"
+    name_toc: "Yoswa"
+  "EXO":
+    name: "Okuvaayo"
+    slug: "okuvaayo"
+    name_toc: "Ŵakulamula"
+  "LEV":
+    name: "Abalevi"
+    slug: "abalevi"
+    name_toc: "Lute"
+  "NUM":
+    name: "Okubala"
+    slug: "okubala"
+    name_toc: "1 Samuele"
+  "DEU":
+    name: "Amateeka Agokubiri"
+    slug: "amateeka-agokubiri"
+    name_toc: "2 Samuele"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+    name_toc: "1 Ayimwene"
+  "JDG":
+    name: "Abalamuzi"
+    slug: "abalamuzi"
+    name_toc: "2 Ayimwene"
+  "RUT":
+    name: "Ruthi"
+    slug: "ruthi"
+    name_toc: "1 Mbili"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+    name_toc: "2 Mbili"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+    name_toc: "Esala"
+  "1KI":
+    name: "1 Bakyabazinga"
+    slug: "1-bakyabazinga"
+    name_toc: "Nehemiya"
+  "2KI":
+    name: "2 Bakyabazinga"
+    slug: "2-bakyabazinga"
+    name_toc: "Esitele"
+  "1CH":
+    name: "1 Ebyomubyanda"
+    slug: "1-ebyomubyanda"
+    name_toc: "Yobu"
+  "2CH":
+    name: "2 Ebyomubyanda"
+    slug: "2-ebyomubyanda"
+    name_toc: "Masalimo"
+  "EZR":
+    name: "Ezera"
+    slug: "ezera"
+    name_toc: "Misyungu"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Jwakulalicila"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Daniele"
+  "PSA":
+    name: "Zabbuli"
+    slug: "zabbuli"
+    name_toc: "Hoseya"
+  "PRO":
+    name: "Ensambo"
+    slug: "ensambo"
+    name_toc: "Yoweli"
+  "ECC":
+    name: "Omulangirizi"
+    slug: "omulangirizi"
+    name_toc: "Amosi"
+  "SNG":
+    name: "Olwembo"
+    slug: "olwembo"
+    name_toc: "Obadiya"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+    name_toc: "Nahumu"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Habakuku"
+  "LAM":
+    name: "Okulira"
+    slug: "okulira"
+    name_toc: "Sefaniya"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Malaki"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Mateyu"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Masengo"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Aloma"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "1 Akolinto"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "2 Akolinto"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Agalatiya"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Aefeso"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Afilipi"
+  "HAB":
+    name: "Habakkuku"
+    slug: "habakkuku"
+    name_toc: "Akolose"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "1 Atesalonika"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+    name_toc: "2 Atesalonika"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+    name_toc: "1 Timoteo"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "2 Timoteo"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+    name_toc: "Nyimbo ja Solomoni"
+  "JDT":
+    name: "Yuditha"
+    slug: "yuditha"
+    name_toc: "Yesaya"
+  "ESG":
+    name: "Esitheri"
+    slug: "esitheri"
+    name_toc: "Yelemiya"
+  "WIS":
+    name: "Amagezi ga Solomoni"
+    slug: "amagezi-ga-solomoni"
+    name_toc: "Yona"
+  "SIR":
+    name: "Siraki"
+    slug: "siraki"
+    name_toc: "Mika"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+    name_toc: "Hagai"
+  "LJE":
+    name: "Embaluwa ya Yeremia"
+    slug: "embaluwa-ya-yeremia"
+    name_toc: "Sakaliya"
+  "S3Y":
+    name: "Okusaba kwa Azaria"
+    slug: "okusaba-kwa-azaria"
+    name_toc: "Luka"
+  "SUS":
+    name: "Susanna"
+    slug: "susanna"
+    name_toc: "Maliko"
+  "BEL":
+    name: "Beli n'Ogusota"
+    slug: "beli-n-ogusota"
+    name_toc: "Yohane"
+  "1MA":
+    name: "1 Abamakkabeo"
+    slug: "1-abamakkabeo"
+    name_toc: "Malilo"
+  "2MA":
+    name: "2 Abamakkabeo"
+    slug: "2-abamakkabeo"
+    name_toc: "Esekiele"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Tito"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Filimoni"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ahebeli"
+  "JHN":
+    name: "Yoanne"
+    slug: "yoanne"
+    name_toc: "Yakobo"
+  "ACT":
+    name: "Ebikolwa by'Abatume"
+    slug: "ebikolwa-by-abatume"
+    name_toc: "1 Petulo"
+  "ROM":
+    name: "Ab'e Roma"
+    slug: "ab-e-roma"
+    name_toc: "2 Petulo"
+  "1CO":
+    name: "1 Ab'e Korintho"
+    slug: "1-ab-e-korintho"
+    name_toc: "1 Yohane"
+  "2CO":
+    name: "2 Ab'e Korintho"
+    slug: "2-ab-e-korintho"
+    name_toc: "2 Yohane"
+  "GAL":
+    name: "Ab'e Galatia"
+    slug: "ab-e-galatia"
+    name_toc: "3 Yohane"
+  "EPH":
+    name: "Ab'Efeso"
+    slug: "ab-efeso"
+    name_toc: "Yuda"
+  "PHP":
+    name: "Ab'e Filippi"
+    slug: "ab-e-filippi"
+    name_toc: "Ciwunukuko"
+  "COL":
+    name: "Ab'e Kolosai"
+    slug: "ab-e-kolosai"
+    name_toc: "Ngani Jambone mpela yatite kulemba Che Matayo"
+  "1TH":
+    name: "1 Ab'e Thessalonika"
+    slug: "1-ab-e-thessalonika"
+    name_toc: "Ngani Jambone mpela yatite kulemba Che Maliko"
+  "2TH":
+    name: "2 Ab'e Thessalonika"
+    slug: "2-ab-e-thessalonika"
+    name_toc: "Ngani Jambone mpela yatite kulemba Che Luka"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+    name_toc: "Ngani Jambone mpela yatite kulemba Che Yohana"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+    name_toc: "Masengo ga achinduna"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Chikalata cha Paolo kwa Ŵaloma"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Chikalata chandanda cai  Paolo kwa Ŵakolinto"
+  "HEB":
+    name: "Abaheburayi"
+    slug: "abaheburayi"
+    name_toc: "Chikalata chaŵili cha  Paolo kwa Ŵakolinto"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Chikalata cha  Paolo kwa Ŵagalatia"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Chikalata cha  Paolo kwa Ŵaefeso"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Chikalata cha  Paolo kwa Ŵafilipi"
+  "1JN":
+    name: "1 Yoanne"
+    slug: "1-yoanne"
+    name_toc: "Chikalata cha Paolo kwa Ŵakolosai"
+  "2JN":
+    name: "2 Yoanne"
+    slug: "2-yoanne"
+    name_toc: "Chikalata chandanda cha Paolo kwa Ŵasesalonike"
+  "3JN":
+    name: "3 Yoanne"
+    slug: "3-yoanne"
+    name_toc: "Chikalata chaŵili cha Paolo kwa Ŵasesalonike"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Chikalata chandanda cha  Paolo kwa Timoseo"
+  "REV":
+    name: "Okwolekebwa"
+    slug: "okwolekebwa"
+    name_toc: "Chikalata chaŵili cha Paolo kwa Timoseo"

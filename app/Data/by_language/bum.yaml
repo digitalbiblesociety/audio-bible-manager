@@ -1,0 +1,236 @@
+language: "bum"
+books:
+  "GEN":
+    name: "Met"
+    slug: "met"
+  "EXO":
+    name: "Nk"
+    slug: "nk"
+  "LEV":
+    name: "Lv."
+    slug: "lv"
+  "NUM":
+    name: "Nlb"
+    slug: "nlb"
+  "DEU":
+    name: "Dt"
+    slug: "dt"
+  "JOS":
+    name: "Yas."
+    slug: "yas"
+  "JDG":
+    name: "Bm"
+    slug: "bm"
+  "RUT":
+    name: "Rt"
+    slug: "rt"
+  "1SA":
+    name: "1 S"
+    slug: "1-s"
+  "2SA":
+    name: "2 S"
+    slug: "2-s"
+  "1KI":
+    name: "1 Bb."
+    slug: "1-bb"
+  "2KI":
+    name: "2 Bb."
+    slug: "2-bb"
+  "1CH":
+    name: "1 Minkte"
+    slug: "1-minkte"
+  "2CH":
+    name: "2 Minkte"
+    slug: "2-minkte"
+  "EZR":
+    name: "Esd"
+    slug: "esd"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+  "EST":
+    name: "Est"
+    slug: "est"
+  "JOB":
+    name: "Yb"
+    slug: "yb"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Mink"
+    slug: "mink"
+  "ECC":
+    name: "Ekl"
+    slug: "ekl"
+  "SNG":
+    name: "So"
+    slug: "so"
+  "ISA":
+    name: "Eza"
+    slug: "eza"
+  "JER":
+    name: "Yer"
+    slug: "yer"
+  "LAM":
+    name: "Miny"
+    slug: "miny"
+  "EZK":
+    name: "Eze"
+    slug: "eze"
+  "DAN":
+    name: "Dn"
+    slug: "dn"
+  "HOS":
+    name: "Oz"
+    slug: "oz"
+  "JOL":
+    name: "Yo"
+    slug: "yo"
+  "AMO":
+    name: "Am"
+    slug: "am"
+  "OBA":
+    name: "Abd"
+    slug: "abd"
+  "JON":
+    name: "Yon"
+    slug: "yon"
+  "MIC":
+    name: "MiK"
+    slug: "mik"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+  "HAB":
+    name: "Ha"
+    slug: "ha"
+  "ZEP":
+    name: "Sof"
+    slug: "sof"
+  "HAG":
+    name: "Ag"
+    slug: "ag"
+  "ZEC":
+    name: "Zak"
+    slug: "zak"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+  "JDT":
+    name: "Yd"
+    slug: "yd"
+  "ESG":
+    name: "Estg"
+    slug: "estg"
+  "WIS":
+    name: "Fek"
+    slug: "fek"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bak"
+    slug: "bak"
+  "LJE":
+    name: "LYer"
+    slug: "lyer"
+  "S3Y":
+    name: "Dagr"
+    slug: "dagr"
+  "SUS":
+    name: "Suzane"
+    slug: "suzane"
+  "BEL":
+    name: "Bel A Nyo"
+    slug: "bel-a-nyo"
+  "1MA":
+    name: "1 Mak"
+    slug: "1-mak"
+  "2MA":
+    name: "2 Mak"
+    slug: "2-mak"
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+  "MRK":
+    name: "Mk"
+    slug: "mk"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+  "JHN":
+    name: "Yoa"
+    slug: "yoa"
+  "ACT":
+    name: "Mm"
+    slug: "mm"
+  "ROM":
+    name: "Rm"
+    slug: "rm"
+  "1CO":
+    name: "1 Ko"
+    slug: "1-ko"
+  "2CO":
+    name: "2 Ko"
+    slug: "2-ko"
+  "GAL":
+    name: "Ga"
+    slug: "ga"
+  "EPH":
+    name: "Ef"
+    slug: "ef"
+  "PHP":
+    name: "Fil"
+    slug: "fil"
+  "COL":
+    name: "Kôl"
+    slug: "kol"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+  "TIT":
+    name: "Tt"
+    slug: "tt"
+  "PHM":
+    name: "Film"
+    slug: "film"
+  "HEB":
+    name: "Hé"
+    slug: "he"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+  "1PE":
+    name: "1 Pi"
+    slug: "1-pi"
+  "2PE":
+    name: "2 Pi"
+    slug: "2-pi"
+  "1JN":
+    name: "1 Jn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jn"
+    slug: "3-jn"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Nli"
+    slug: "nli"

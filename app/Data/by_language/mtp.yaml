@@ -1,0 +1,110 @@
+language: "mtp"
+books:
+  "MAT":
+    name: "Maatewoh Yààmeh"
+    slug: "maatewoh-yaameh"
+    name_toc: "Silààt Tà 'Is Màànhyej Tà Maatewoh Yààmeh"
+  "MRK":
+    name: "Mààlhkos Yààmeh"
+    slug: "maalhkos-yaameh"
+    name_toc: "Silààt Tà 'Is Màànhyej Tà Mààlhkos Yààmeh"
+  "LUK":
+    name: "Luukas Yààmeh"
+    slug: "luukas-yaameh"
+    name_toc: "Silààt Tà 'Is Màànhyej Tà Luukas Yààmeh"
+  "JHN":
+    name: "Jwàành Yààmeh"
+    slug: "jwaanh-yaameh"
+    name_toc: "Silààt Tà 'Is Màànhyej Tà Jwàành Yààmeh"
+  "ACT":
+    name: "Aapostolhlhayis- Lhenhayh"
+    slug: "aapostolhlhayis-lhenhayh"
+    name_toc: "Aapostolhlhayis- Lhenhayh"
+  "ROM":
+    name: "Loomalheleyh"
+    slug: "loomalheleyh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Loomalheleyh"
+  "1CO":
+    name: "1 Koolintolheleyh"
+    slug: "1-koolintolheleyh"
+    name_toc: "Noojwukwyenek Tà T'ikyuun'pe Honhat Tà Pààwlo 'Ithaate Koolintolheleyh"
+  "2CO":
+    name: "2 Koolintolheleyh"
+    slug: "2-koolintolheleyh"
+    name_toc: "Noojwukwyenek Tà 'Imààlhkye La'nààyij 'Elh Tà T'ikyunh, Tà Pààwlo 'Ithaate Koolintolheleyh"
+  "GAL":
+    name: "Waalasyalheleyh"
+    slug: "waalasyalheleyh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Waalasyalheleyh"
+  "EPH":
+    name: "Eejwesolheleyh"
+    slug: "eejwesolheleyh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate 'Eejwesolheleyh"
+  "PHP":
+    name: "Jwiiliposlheleyh"
+    slug: "jwiiliposlheleyh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Jwiiliposlheleyh"
+  "COL":
+    name: "Koolosaslheleyh"
+    slug: "koolosaslheleyh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Koolosaslheleyh"
+  "1TH":
+    name: "1 Teesalonikalheleyh"
+    slug: "1-teesalonikalheleyh"
+    name_toc: "Noojwukwyenek Tà T'ikyuun'pe Honhat Tà Pààwlo 'Ithaate Teesalonikalheleyh"
+  "2TH":
+    name: "2 Teesalonikalheleyh"
+    slug: "2-teesalonikalheleyh"
+    name_toc: "Noojwukwyenek Tà 'Imààlhkye La'nààyij 'Elh Tà T'ikyunh, Tà Pààwlo 'Ithaate Teesalonikalheleyh"
+  "1TI":
+    name: "1 Tiimotewoh"
+    slug: "1-tiimotewoh"
+    name_toc: "Noojwukwyenek Tà T'ikyuun'pe Honhat Tà Pààwlo 'Ithaate Tiimotewoh"
+  "2TI":
+    name: "2 Tiimotewoh"
+    slug: "2-tiimotewoh"
+    name_toc: "Noojwukwyenek Tà 'Imààlhkye La'nààyij 'Elh Tà T'ikyunh, Tà Pààwlo 'Ithaate Tiimotewoh"
+  "TIT":
+    name: "Tiitoh"
+    slug: "tiitoh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Tiitoh"
+  "PHM":
+    name: "Jwiilemonh"
+    slug: "jwiilemonh"
+    name_toc: "Noojwukwyenek Tà Pààwlo 'Ithaate Jwiilemonh"
+  "HEB":
+    name: "Eewlewolhayis"
+    slug: "eewlewolhayis"
+    name_toc: "Noojwukwyenek Tà 'Nothaate 'Eewlewolhayis"
+  "JAS":
+    name: "Jwaakowoh"
+    slug: "jwaakowoh"
+    name_toc: "Jwaakowoh Lajwuukwyenek Tà Lakyeenek"
+  "1PE":
+    name: "1 Tuuntehen'"
+    slug: "1-tuuntehen"
+    name_toc: "Tuuntehen' Lajwuukwyenek Tà T'ikyunh"
+  "2PE":
+    name: "2 Tuuntehen'"
+    slug: "2-tuuntehen"
+    name_toc: "Tuuntehen' Lajwuukwyenek Tà 'Imààlhkye La'nààyij 'Elh Tà T'ikyunh"
+  "1JN":
+    name: "1 Jwàành"
+    slug: "1-jwaanh"
+    name_toc: "Jwàành Lajwuukwyenek Tà T'ikyunh"
+  "2JN":
+    name: "2 Jwàành"
+    slug: "2-jwaanh"
+    name_toc: "Jwàành Lajwuukwyenek Tà 'Imààlhkye La'nààyij 'Elh Tà T'ikyunh"
+  "3JN":
+    name: "3 Jwàành"
+    slug: "3-jwaanh"
+    name_toc: "Jwàành Lajwuukwyenek Tà 'Imààlhkye La'nààyij 'Iyhàj Tà 'Iihi Nitàk Tà T'ikyunh"
+  "JUD":
+    name: "Jwuulas"
+    slug: "jwuulas"
+    name_toc: "Jwuulas Lajwuukwyenek Tà Lakyeenek"
+  "REV":
+    name: "Aapokalipsis"
+    slug: "aapokalipsis"
+    name_toc: "Aapokalipsis 'Noo'nàlitshay Tà 'Nopààyne Jwàành"

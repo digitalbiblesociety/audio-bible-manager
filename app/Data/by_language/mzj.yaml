@@ -1,0 +1,110 @@
+language: "mzj"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Samakan kein kitabu min sɛvɛnin Matiyu bolo"
+  "MRK":
+    name: "Malɛkɛ"
+    slug: "malk"
+    name_toc: "Samakan kein kitabu min sɛvɛnin Malɛkɛ bolo"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Samakan kein kitabu min sɛvɛnin Luka bolo"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Samakan kein kitabu min sɛvɛnin Yohana bolo"
+  "ACT":
+    name: "Kɛkolu"
+    slug: "kkolu"
+    name_toc: "Isa ya Keladennu Kɛkolu"
+  "ROM":
+    name: "Lɔmukalu"
+    slug: "lmukalu"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa ﻿Lɔmukalu ma"
+  "1CO":
+    name: "1 Kolɛntikalu"
+    slug: "1-kolntikalu"
+    name_toc: "Pɔli ka lɛtɛlɛ kunfɔlɔ min lataa Kolɛntikalu ma"
+  "2CO":
+    name: "2 Kolɛntikalu"
+    slug: "2-kolntikalu"
+    name_toc: "Pɔli ka lɛtɛlɛ filana min lataa Kolɛntikalu"
+  "GAL":
+    name: "Galatiyakalu"
+    slug: "galatiyakalu"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Galatiyakalu ma"
+  "EPH":
+    name: "Ɛfɛsikalu"
+    slug: "fsikalu"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Ɛfɛsikalu ma"
+  "PHP":
+    name: "Filipikalu"
+    slug: "filipikalu"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Filipikalu ma"
+  "COL":
+    name: "Kɔlɔsikalu"
+    slug: "klsikalu"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Kɔlɔsikalu ma"
+  "1TH":
+    name: "1 Tɛsalonikakalu"
+    slug: "1-tsalonikakalu"
+    name_toc: "Pɔli ka lɛtɛlɛ kunfɔlɔ min lataa Tɛsalonikikalu ma"
+  "2TH":
+    name: "2 Tɛsalonikakalu"
+    slug: "2-tsalonikakalu"
+    name_toc: "Pɔli ka lɛtɛlɛ filana min lataa Tɛsalonikikalu ma"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Pɔli ka lɛtɛlɛ kunfɔlɔ min lataa Timote ma"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Timote ma"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Tite ma"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+    name_toc: "Pɔli ka lɛtɛlɛ min lataa Filemɔn ma"
+  "HEB":
+    name: "Hebululu"
+    slug: "hebululu"
+    name_toc: "Lɛtɛlɛ min lataanin Hebululu ma"
+  "JAS":
+    name: "Janguba"
+    slug: "janguba"
+    name_toc: "Janguba ka lɛtɛlɛ min sɛvɛ"
+  "1PE":
+    name: "1 Piyɛli"
+    slug: "1-piyli"
+    name_toc: "Piyɛli ka lɛtɛlɛ kunfɔlɔ min sɛvɛ"
+  "2PE":
+    name: "2 Piyɛli"
+    slug: "2-piyli"
+    name_toc: "Piyɛli ka lɛtɛlɛ filana min sɛvɛ"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Yohana ka lɛtɛlɛ kunfɔlɔ min sɛvɛ"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Yohana ka lɛtɛlɛ filana min sɛvɛ"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Yohana ka lɛtɛlɛ sawana min sɛvɛ"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Jude ka lɛtɛlɛ filana min sɛvɛ"
+  "REV":
+    name: "Ko Lankɛnɛmayanin"
+    slug: "ko-lanknmayanin"
+    name_toc: "Yohana ya ko lankɛnɛmayanin kitabu"

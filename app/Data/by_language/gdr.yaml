@@ -1,0 +1,83 @@
+language: "gdr"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yoan"
+    slug: "yoan"
+  "ACT":
+    name: "Ɨtaikena"
+    slug: "itaikena"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1Korinto"
+    slug: "1korinto"
+  "2CO":
+    name: "2Korinto"
+    slug: "2korinto"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipo"
+    slug: "pilipo"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+  "1TH":
+    name: "1Tesalonika"
+    slug: "1tesalonika"
+  "2TH":
+    name: "2Tesalonika"
+    slug: "2tesalonika"
+  "1TI":
+    name: "1Timote"
+    slug: "1timote"
+  "2TI":
+    name: "2Timote"
+    slug: "2timote"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ibru"
+    slug: "ibru"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1Petro"
+    slug: "1petro"
+  "2PE":
+    name: "2Petro"
+    slug: "2petro"
+  "1JN":
+    name: "1Yoan"
+    slug: "1yoan"
+  "2JN":
+    name: "2Yoan"
+    slug: "2yoan"
+  "3JN":
+    name: "3Yoan"
+    slug: "3yoan"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Ouyawa"
+    slug: "ouyawa"

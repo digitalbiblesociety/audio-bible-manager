@@ -1,0 +1,83 @@
+language: "eus"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Joan"
+    slug: "joan"
+  "ACT":
+    name: "Eginak"
+    slug: "eginak"
+  "ROM":
+    name: "Erromatarrei"
+    slug: "erromatarrei"
+  "1CO":
+    name: "1 Korintoarrei"
+    slug: "1-korintoarrei"
+  "2CO":
+    name: "2 Korintoarrei"
+    slug: "2-korintoarrei"
+  "GAL":
+    name: "Galaziarrei"
+    slug: "galaziarrei"
+  "EPH":
+    name: "Efesoarrei"
+    slug: "efesoarrei"
+  "PHP":
+    name: "Filipoarrei"
+    slug: "filipoarrei"
+  "COL":
+    name: "Kolosarrei"
+    slug: "kolosarrei"
+  "1TH":
+    name: "1 Tesalonikarrei"
+    slug: "1-tesalonikarrei"
+  "2TH":
+    name: "2 Tesalonikarrei"
+    slug: "2-tesalonikarrei"
+  "1TI":
+    name: "1 Timoteori"
+    slug: "1-timoteori"
+  "2TI":
+    name: "2 Timoteori"
+    slug: "2-timoteori"
+  "TIT":
+    name: "Titori"
+    slug: "titori"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Hebrearrei"
+    slug: "hebrearrei"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Joan"
+    slug: "1-joan"
+  "2JN":
+    name: "2 Joan"
+    slug: "2-joan"
+  "3JN":
+    name: "3 Joan"
+    slug: "3-joan"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Apokalipsia"
+    slug: "apokalipsia"

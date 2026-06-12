@@ -1,0 +1,83 @@
+language: "adj"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Ob Kok"
+    slug: "ob-kok"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korɛnt"
+    slug: "1-kornt"
+  "2CO":
+    name: "2 Korɛnt"
+    slug: "2-kornt"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Efɛs"
+    slug: "efs"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kolɔs"
+    slug: "kols"
+  "1TH":
+    name: "1 Tesaloni"
+    slug: "1-tesaloni"
+  "2TH":
+    name: "2 Tesaloni"
+    slug: "2-tesaloni"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebre"
+    slug: "ebre"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piɛr"
+    slug: "1-pir"
+  "2PE":
+    name: "2 Piɛr"
+    slug: "2-pir"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Es Ɛkn"
+    slug: "es-kn"

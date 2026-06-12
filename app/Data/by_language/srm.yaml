@@ -1,0 +1,83 @@
+language: "srm"
+books:
+  "MAT":
+    name: "Mateosi"
+    slug: "mateosi"
+  "MRK":
+    name: "Maikusi"
+    slug: "maikusi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Johanisi"
+    slug: "johanisi"
+  "ACT":
+    name: "Tjabukama"
+    slug: "tjabukama"
+  "ROM":
+    name: "Loomë"
+    slug: "loome"
+  "1CO":
+    name: "1 Kolenti"
+    slug: "1-kolenti"
+  "2CO":
+    name: "2 Kolenti"
+    slug: "2-kolenti"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Efeise"
+    slug: "efeise"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosën"
+    slug: "kolosen"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebelejën"
+    slug: "hebelejen"
+  "JAS":
+    name: "Jakobosi"
+    slug: "jakobosi"
+  "1PE":
+    name: "1 Petuisi"
+    slug: "1-petuisi"
+  "2PE":
+    name: "2 Petuisi"
+    slug: "2-petuisi"
+  "1JN":
+    name: "1 Johanisi"
+    slug: "1-johanisi"
+  "2JN":
+    name: "2 Johanisi"
+    slug: "2-johanisi"
+  "3JN":
+    name: "3 Johanisi"
+    slug: "3-johanisi"
+  "JUD":
+    name: "Judasi"
+    slug: "judasi"
+  "REV":
+    name: "Akoalimbo"
+    slug: "akoalimbo"

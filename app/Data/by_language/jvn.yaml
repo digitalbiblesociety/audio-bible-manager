@@ -1,0 +1,83 @@
+language: "jvn"
+books:
+  "MAT":
+    name: "Matéus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+  "ACT":
+    name: "Para Rasul"
+    slug: "para-rasul"
+  "ROM":
+    name: "Rum"
+    slug: "rum"
+  "1CO":
+    name: "1 Korinta"
+    slug: "1-korinta"
+  "2CO":
+    name: "2 Korinta"
+    slug: "2-korinta"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Efése"
+    slug: "efese"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosé"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tèsalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tèsalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1PE":
+    name: "1 Pétrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Pétrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Pamedaran"
+    slug: "pamedaran"

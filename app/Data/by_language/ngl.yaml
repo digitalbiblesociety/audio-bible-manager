@@ -1,0 +1,114 @@
+language: "ngl"
+books:
+  "PSA":
+    name: "Masalmo"
+    slug: "masalmo"
+    name_toc: "Masalmo"
+  "MAT":
+    name: "Mateyu"
+    slug: "mateyu"
+    name_toc: "Mitchaka Yaphama Ya Mateyu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+    name_toc: "Mitchaka Yaphama Ya Marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mitchaka Yaphama Ya Luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Mitchaka Yaphama Ya Yohane"
+  "ACT":
+    name: "Saweriwa Tarummwa"
+    slug: "saweriwa-tarummwa"
+    name_toc: "Saweriwa Tarummwa"
+  "ROM":
+    name: "aRoma"
+    slug: "aroma"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Aroma"
+  "1CO":
+    name: "1 aKorinto"
+    slug: "1-akorinto"
+    name_toc: "Ekarata Yopacherya Ya Paulo Murummwa Yorepela Wa Akorinto"
+  "2CO":
+    name: "2 aKorinto"
+    slug: "2-akorinto"
+    name_toc: "Ekarata Yanawili Ya Paulo Murummwa Yorepela Wa Akorinto"
+  "GAL":
+    name: "aGalitiya"
+    slug: "agalitiya"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Agalatiya"
+  "EPH":
+    name: "aEfeso"
+    slug: "aefeso"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Aefeso"
+  "PHP":
+    name: "aFilipi"
+    slug: "afilipi"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Afilipi"
+  "COL":
+    name: "aKolose"
+    slug: "akolose"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Akolose"
+  "1TH":
+    name: "1 aTesalonika"
+    slug: "1-atesalonika"
+    name_toc: "Ekarata Yopacherya Ya Paulo Murummwa Yorepela Wa Atesalonika"
+  "2TH":
+    name: "2 aTesalonika"
+    slug: "2-atesalonika"
+    name_toc: "Ekarata Yanawili Ya Paulo Murummwa Yorepela Wa Atesalonika"
+  "1TI":
+    name: "1 Timóteo"
+    slug: "1-timoteo"
+    name_toc: "Ekarata Yopacherya Ya Paulo Murummwa Yorepela Wa Timoteo"
+  "2TI":
+    name: "2 Timóteo"
+    slug: "2-timoteo"
+    name_toc: "Ekarata Yanawili Ya Paulo Murummwa Yorepela Wa Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Ekarata Ya Paulo Murummwa Yorepela Wa Filemoni"
+  "HEB":
+    name: "aHebri"
+    slug: "ahebri"
+    name_toc: "Ekarata Ya Paulo Murumma Yorepela Wa Ahebri"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Ekarata Ya Yakobo Murummwa Yorepela Wa Othene"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Ekarata Yopacherya Ya Petro Murummwa Yorepela Wa Othene"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Ekarata Yanawili Ya Petro Murummwa Yorepela Wa Othene"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Ekarata Yopacherya Ya Yohane Murummwa Yorepela Wa Othene"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Ekarata Yanawili Ya Yohane Murummwa"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Ekarata Yaneraru Ya Yohane Murummwa"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ekarata Ya Yuda Murummwa Yorepela Wa Othene"
+  "REV":
+    name: "Yawupulula"
+    slug: "yawupulula"
+    name_toc: "Yawupulula Ya Yohane"

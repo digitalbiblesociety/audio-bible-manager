@@ -1,0 +1,114 @@
+language: "mur"
+books:
+  "GEN":
+    name: "Ɛɛnycan O Loocu"
+    slug: "nycan-o-loocu"
+    name_toc: "Ɛɛnycan O Loocu"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+    name_toc: "Matiyu"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "MARKO Kaviyak o Joowo o Ayɛɛt Marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "LUKA Kaviyak o Colai Ayɛɛt Luka"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+    name_toc: "JƆN Kaviyak o Colai Ayɛɛt Jɔn"
+  "ACT":
+    name: "Toonnyak"
+    slug: "toonnyak"
+    name_toc: "TOONNYAK Kaal O Agɔɔn Toonnyawa"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "ROM Waragɛ o Ayeedek Pɔl Ɔl o Joowo Kuture o Kazi Rom<$&ROM01-01>"
+  "1CO":
+    name: "1 Korintiya"
+    slug: "1-korintiya"
+    name_toc: "1 KORINTIYA Waragɛ Codoi o Ayeedek Pɔl Ɔl o Abaak Kutur o Kazi Korintiya"
+  "2CO":
+    name: "2 Korintiya"
+    slug: "2-korintiya"
+    name_toc: "2 KORINTIYA Waragɛ Ram o Ayeedek Pɔl Ɔl o Abaak Korintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "GALATIYA Waragɛ o Ayeedek Pɔl Ɔl o Joowo Abaak Galatiya"
+  "EPH":
+    name: "Evesos"
+    slug: "evesos"
+    name_toc: "EVESOS Waragɛ o Ayeedek Pɔl Ɔl o Abaak Evesos"
+  "PHP":
+    name: "Vilipiya"
+    slug: "vilipiya"
+    name_toc: "VILIPIYA Waragɛ o Ayeedek Pɔl Ɔl O Abaak Vilipiya"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+    name_toc: "KOLOSIYA Waragɛ O Ayeedek Pɔl Ɔl O Abaak Kolosiya"
+  "1TH":
+    name: "1 Tɛsalonika"
+    slug: "1-tsalonika"
+    name_toc: "1 TƐSALONIKA Waragɛ Codoi o Ayeedek Pɔl Ɔl o Joowo Abaak Tɛsalonika"
+  "2TH":
+    name: "2 Tɛsalonika"
+    slug: "2-tsalonika"
+    name_toc: "2 TƐSALONIKA Waragɛ Ween Ram o Ayeedek Pɔl Ɔl o Joowo Abaak Tɛsalonika"
+  "1TI":
+    name: "1 Timozi"
+    slug: "1-timozi"
+    name_toc: "1 TIMOZI Waragɛ Codoi o Ayeedek Pɔl Timozi"
+  "2TI":
+    name: "2 Timozi"
+    slug: "2-timozi"
+    name_toc: "2 TIMOZI Waragɛ Ween Ram Ayeedek Pɔl Timozi"
+  "TIT":
+    name: "Titos"
+    slug: "titos"
+    name_toc: "TITOS Waragɛ o ayeedek Pɔl Titos"
+  "PHM":
+    name: "Vilimon"
+    slug: "vilimon"
+    name_toc: "VILIMON Waragɛ o Ayeedek Pɔl Vilimon"
+  "HEB":
+    name: "Ibiro"
+    slug: "ibiro"
+    name_toc: "IBIRO Waragɛ o Ayeedonek Ɔl o Ibiro"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+    name_toc: "JEMIS Waragɛ o Ayɛɛt Jemis"
+  "1PE":
+    name: "1 Pitɔr"
+    slug: "1-pitr"
+    name_toc: "1 PITƆR Waragɛ Codoi o Ayɛɛt Pitɔr"
+  "2PE":
+    name: "2 Pitɔr"
+    slug: "2-pitr"
+    name_toc: "2 PITƆR Waragɛ o Ayɛɛt Pitɔr Een Ram"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+    name_toc: "1 JƆN Waragɛ Codoi o Ayɛɛt Jɔn"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+    name_toc: "2 JƆN Waragɛ o Ayɛɛt Jɔn Een Ram"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+    name_toc: "3 JƆN Waragɛ o Ayɛɛt Jɔn Een Iiyu"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "JUD Waragɛ o Ayɛɛt Jud"
+  "REV":
+    name: "Wunozyak"
+    slug: "wunozyak"
+    name_toc: "WUNOZYAK Kaal o Ayelzak Jooi Jɔn Wunozyai"

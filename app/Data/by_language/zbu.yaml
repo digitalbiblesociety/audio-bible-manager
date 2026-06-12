@@ -1,0 +1,11 @@
+language: "zbu"
+books:
+  "MRK":
+    name: "Malkus"
+    slug: "malkus"
+  "ACT":
+    name: "Miˈshinkǝn"
+    slug: "mishinkn"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"

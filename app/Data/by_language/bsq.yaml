@@ -1,0 +1,200 @@
+language: "bsq"
+books:
+  "GEN":
+    name: "Jɛ́nɛ́sì"
+    slug: "jnsi"
+  "EXO":
+    name: "Ɛ́séɖɔ̀"
+    slug: "se"
+  "LEV":
+    name: "Ɖìvéɖékɔ̀"
+    slug: "iveek"
+  "NUM":
+    name: "Nɔ̀ɓà"
+    slug: "na"
+  "DEU":
+    name: "Dìtɔ̀wáɖánámɛ̀"
+    slug: "ditwaanam"
+  "JOS":
+    name: "Jasúé"
+    slug: "jasue"
+  "JDG":
+    name: "Tɔ̀ɔ̀-ɓìɔ̀"
+    slug: "t-i"
+  "RUT":
+    name: "Wuɖufí"
+    slug: "wuufi"
+  "1SA":
+    name: "1 Sámíò"
+    slug: "1-samio"
+  "2SA":
+    name: "2 Sámíò"
+    slug: "2-samio"
+  "1KI":
+    name: "1 Kĩ́ìn"
+    slug: "1-kiin"
+  "2KI":
+    name: "2 Kĩ́ìn"
+    slug: "2-kiin"
+  "1CH":
+    name: "1 Kánáníkɔ̀"
+    slug: "1-kananik"
+  "2CH":
+    name: "2 Kánáníkɔ̀"
+    slug: "2-kananik"
+  "EZR":
+    name: "Ɛ́zùɖùà"
+    slug: "zuua"
+  "NEH":
+    name: "Níòmádyà"
+    slug: "niomadya"
+  "EST":
+    name: "Ɛsɔ́ɖɔ́"
+    slug: "s"
+  "JOB":
+    name: "Jóɓò"
+    slug: "joo"
+  "PSA":
+    name: "Wɛ́ɖɛ́"
+    slug: "w"
+  "PRO":
+    name: "Nɔ́ɔ́"
+    slug: "n"
+  "ECC":
+    name: "Ìkíɖísìásì"
+    slug: "ikiisiasi"
+  "SNG":
+    name: "Sã́ɖòmàà Wɛ́ɖɛ́"
+    slug: "saomaa-w"
+  "ISA":
+    name: "Àzédyà"
+    slug: "azedya"
+  "JER":
+    name: "Jɛ̀ɖèmádyà"
+    slug: "jemadya"
+  "LAM":
+    name: "Vĩ̌-wùɖù"
+    slug: "vi-wuu"
+  "EZK":
+    name: "Ìzíkìò"
+    slug: "izikio"
+  "DAN":
+    name: "Dànyá"
+    slug: "danya"
+  "HOS":
+    name: "Hòzéà"
+    slug: "hozea"
+  "JOL":
+    name: "Jóɛ̀"
+    slug: "jo"
+  "AMO":
+    name: "Emɔ́"
+    slug: "em"
+  "OBA":
+    name: "Òbòdádyà"
+    slug: "obodadya"
+  "JON":
+    name: "Jónà"
+    slug: "jona"
+  "MIC":
+    name: "Mákà"
+    slug: "maka"
+  "NAM":
+    name: "Néhɔ̃̀"
+    slug: "neh"
+  "HAB":
+    name: "Hàbákù"
+    slug: "habaku"
+  "ZEP":
+    name: "Zɛ́fènádyà"
+    slug: "zfenadya"
+  "HAG":
+    name: "Hágàì"
+    slug: "hagai"
+  "ZEC":
+    name: "Zɛ́kɔ̀wáɖádyà"
+    slug: "zkwaadya"
+  "MAL":
+    name: "Máɖékà"
+    slug: "maeka"
+  "MAT":
+    name: "Máfíò"
+    slug: "mafio"
+  "MRK":
+    name: "Máà"
+    slug: "maa"
+  "LUK":
+    name: "Ɖúù"
+    slug: "uu"
+  "JHN":
+    name: "Jɔ̃́ɔ́"
+    slug: "j"
+  "ACT":
+    name: "Àpɔ́sò"
+    slug: "apso"
+  "ROM":
+    name: "Wóɖómà"
+    slug: "wooma"
+  "1CO":
+    name: "1 Kɔ̀ɖéíntĩ̀ɔ̀"
+    slug: "1-keinti"
+  "2CO":
+    name: "2 Kɔ̀ɖéíntĩ̀ɔ̀"
+    slug: "2-keinti"
+  "GAL":
+    name: "Gàɖézìà"
+    slug: "gaezia"
+  "EPH":
+    name: "Ìfísĩ̀ɔ̀"
+    slug: "ifisi"
+  "PHP":
+    name: "Fèɖópĩ̀à"
+    slug: "feopia"
+  "COL":
+    name: "Kɔ̀ɖɔ́sĩ̀à"
+    slug: "ksia"
+  "1TH":
+    name: "1 Tɛ̀sàɖónìà"
+    slug: "1-tsaonia"
+  "2TH":
+    name: "2 Tɛ̀sàɖónìà"
+    slug: "2-tsaonia"
+  "1TI":
+    name: "1 Tímétè"
+    slug: "1-timete"
+  "2TI":
+    name: "2 Tímétè"
+    slug: "2-timete"
+  "TIT":
+    name: "Tátɔ̀"
+    slug: "tat"
+  "PHM":
+    name: "Fàɖímɔ̀"
+    slug: "faim"
+  "HEB":
+    name: "Híìbúɖúù"
+    slug: "hiibuuu"
+  "JAS":
+    name: "Jĩ́ìn"
+    slug: "jiin"
+  "1PE":
+    name: "1 Píɖɛ̀"
+    slug: "1-pi"
+  "2PE":
+    name: "2 Píɖɛ̀"
+    slug: "2-pi"
+  "1JN":
+    name: "1 Jɔ̃́ɔ́"
+    slug: "1-j"
+  "2JN":
+    name: "2 Jɔ̃́ɔ́"
+    slug: "2-j"
+  "3JN":
+    name: "3 Jɔ̃́ɔ́"
+    slug: "3-j"
+  "JUD":
+    name: "Júɖè"
+    slug: "jue"
+  "REV":
+    name: "Wɛ̀ɖɛ̀ɓèɖésĩ̀ɔ̀"
+    slug: "weesi"

@@ -1,0 +1,110 @@
+language: "peg"
+books:
+  "MAT":
+    name: "ମାତିଉ"
+    slug: "matiu"
+    name_toc: "Olketa singsing blong olketa Jiu"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+    name_toc: "Olketa waes toktok"
+  "LUK":
+    name: "ଲୁକ"
+    slug: "luka"
+    name_toc: "Eklesiastes Waes Tisa"
+  "JHN":
+    name: "ଯୋହନ"
+    slug: "yohana"
+    name_toc: "Mektu leta wea Pol hemi raetem go long sios long Korin"
+  "ACT":
+    name: "ପକ୍ୟାତାକା"
+    slug: "pakyataka"
+    name_toc: "Olketa Profesi blong Aesaea"
+  "ROM":
+    name: "ରମିୟ"
+    slug: "ramiya"
+    name_toc: "Olketa Profesi blong Jeremaea"
+  "1CO":
+    name: "୧ କରନ୍ତିୟ"
+    slug: "1-karantiya"
+    name_toc: "Olketa Krae Singsing"
+  "2CO":
+    name: "୨ କରନ୍ତିୟ"
+    slug: "2-karantiya"
+    name_toc: "Olketa Profesi blong Profet Esikiel"
+  "GAL":
+    name: "ଗାଲାତିୟ"
+    slug: "galatiya"
+    name_toc: "Stori abaotem Daniel"
+  "EPH":
+    name: "ଏପିସିୟ"
+    slug: "episiya"
+    name_toc: "Olketa toktok blong Profet Hosia"
+  "PHP":
+    name: "ପିଲିପିୟ"
+    slug: "pilipiya"
+    name_toc: "Olketa Profesi blong Joel"
+  "COL":
+    name: "କଲସିୟ"
+    slug: "kalasiya"
+    name_toc: "Olketa Profesi blong Emos"
+  "1TH":
+    name: "୧ ଥେସଲନୀକିୟ"
+    slug: "1-thesalanikiya"
+    name_toc: "Leta wea Pol hemi raetem go long Taetas"
+  "2TH":
+    name: "୨ ଥେସଲନୀକିୟ"
+    slug: "2-thesalanikiya"
+    name_toc: "Leta wea Pol hemi raetem go long Filimon"
+  "1TI":
+    name: "୧ ତିମତି"
+    slug: "1-timati"
+    name_toc: "Olketa Profesi blong Maeka"
+  "2TI":
+    name: "୨ ତିମଥି"
+    slug: "2-timathi"
+    name_toc: "Leta wea Jemes hemi raetem"
+  "TIT":
+    name: "ତୀତସ"
+    slug: "titasa"
+    name_toc: "Fas leta wea Pita hemi raetem"
+  "PHM":
+    name: "ଫିଲୀମୋନ"
+    slug: "philimona"
+    name_toc: "Mektu leta wea Pita hemi raetem"
+  "HEB":
+    name: "ଏବ୍ରି"
+    slug: "ebri"
+    name_toc: "Olketa Profesi blong Habakuk"
+  "JAS":
+    name: "ଯାକୁବ"
+    slug: "yakuba"
+    name_toc: "Mektu leta wea Jon hemi raetem"
+  "1PE":
+    name: "୧ ପିତର"
+    slug: "1-pitara"
+    name_toc: "Mektri leta wea Jon hemi raetem"
+  "2PE":
+    name: "୨ ପିତର"
+    slug: "2-pitara"
+    name_toc: "Leta wea Jiud hemi raetem"
+  "1JN":
+    name: "୧ ଯୋହନ"
+    slug: "1-yohana"
+    name_toc: "Stori abaotem olketa samting wea Jisas somaot long Jon"
+  "2JN":
+    name: "୨ ଯୋହନ"
+    slug: "2-yohana"
+    name_toc: "Injili dza yorejwevyo ni MATAYO"
+  "3JN":
+    name: "୩ ଯୋହନ"
+    slug: "3-yohana"
+    name_toc: "Injili dza yorejwevyo ni MARKO"
+  "JUD":
+    name: "ଜିହୁଦା"
+    slug: "jihuda"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Luk hemi raetem"
+  "REV":
+    name: "ହତ୍‌ତି"
+    slug: "hatti"
+    name_toc: "Gudnius abaotem Jisas Kraes wea Jon hemi raetem"

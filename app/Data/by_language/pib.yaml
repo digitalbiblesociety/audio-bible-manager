@@ -1,0 +1,83 @@
+language: "pib"
+books:
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Lokasu"
+    slug: "lokasu"
+  "JHN":
+    name: "Gwa"
+    slug: "gwa"
+  "ACT":
+    name: "Yokanatkalune Kamrure"
+    slug: "yokanatkalune-kamrure"
+  "ROM":
+    name: "Romanone"
+    slug: "romanone"
+  "1CO":
+    name: "1 Korintyone"
+    slug: "1-korintyone"
+  "2CO":
+    name: "2 Korintyone"
+    slug: "2-korintyone"
+  "GAL":
+    name: "Kalatane"
+    slug: "kalatane"
+  "EPH":
+    name: "Gigwisone"
+    slug: "gigwisone"
+  "PHP":
+    name: "Wilipone"
+    slug: "wilipone"
+  "COL":
+    name: "Kolosane"
+    slug: "kolosane"
+  "1TH":
+    name: "1 Tesalonikane"
+    slug: "1-tesalonikane"
+  "2TH":
+    name: "2 Tesalonikane"
+    slug: "2-tesalonikane"
+  "1TI":
+    name: "1 Timotiyo"
+    slug: "1-timotiyo"
+  "2TI":
+    name: "2 Timotiyo"
+    slug: "2-timotiyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Wilimo"
+    slug: "wilimo"
+  "HEB":
+    name: "Gewreyone"
+    slug: "gewreyone"
+  "JAS":
+    name: "Santiyako"
+    slug: "santiyako"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Gwa"
+    slug: "1-gwa"
+  "2JN":
+    name: "2 Gwa"
+    slug: "2-gwa"
+  "3JN":
+    name: "3 Gwa"
+    slug: "3-gwa"
+  "JUD":
+    name: "Gota"
+    slug: "gota"
+  "REV":
+    name: "Gipgujetkaluru"
+    slug: "gipgujetkaluru"

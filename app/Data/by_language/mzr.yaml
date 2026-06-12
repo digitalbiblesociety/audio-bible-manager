@@ -1,0 +1,11 @@
+language: "mzr"
+books:
+  "GEN":
+    name: "Wenía"
+    slug: "wenia"
+  "JHN":
+    name: "João"
+    slug: "joao"
+  "JAS":
+    name: "Tiago"
+    slug: "tiago"

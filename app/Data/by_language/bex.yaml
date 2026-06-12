@@ -1,0 +1,89 @@
+language: "bex"
+books:
+  "GEN":
+    name: "Tisaki"
+    slug: "tisaki"
+  "EXO":
+    name: "Tɔdɔ"
+    slug: "td"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowani"
+    slug: "yowani"
+  "ACT":
+    name: "Ndɔbɔ ꞌBa Bɔ Laja"
+    slug: "ndb-ba-b-laja"
+  "ROM":
+    name: "Romo"
+    slug: "romo"
+  "1CO":
+    name: "1 Korinito"
+    slug: "1-korinito"
+  "2CO":
+    name: "2 Korinito"
+    slug: "2-korinito"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pïlïpöyï"
+    slug: "pilipoyi"
+  "COL":
+    name: "Kɔlɔse"
+    slug: "klse"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timatiyo"
+    slug: "1-timatiyo"
+  "2TI":
+    name: "2 Timatiyo"
+    slug: "2-timatiyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemona"
+    slug: "pilemona"
+  "HEB":
+    name: "Ebere"
+    slug: "ebere"
+  "JAS":
+    name: "Yakoba"
+    slug: "yakoba"
+  "1PE":
+    name: "1 Pïtörö"
+    slug: "1-pitoro"
+  "2PE":
+    name: "2 Pïtörö"
+    slug: "2-pitoro"
+  "1JN":
+    name: "1 Yowani"
+    slug: "1-yowani"
+  "2JN":
+    name: "2 Yowani"
+    slug: "2-yowani"
+  "3JN":
+    name: "3 Yowani"
+    slug: "3-yowani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Tileme"
+    slug: "tileme"

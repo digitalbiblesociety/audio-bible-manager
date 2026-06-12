@@ -1,0 +1,83 @@
+language: "oyd"
+books:
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዋሐንሳ"
+    slug: "wahanesa"
+  "ACT":
+    name: "ሐዋሩን ኦቻ"
+    slug: "hawarun-oca"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "1 ቆሮንቶሳ"
+    slug: "1-qoronetosa"
+  "2CO":
+    name: "2 ቆሮንቶሳ"
+    slug: "2-qoronetosa"
+  "GAL":
+    name: "ጋላትያ"
+    slug: "galateya"
+  "EPH":
+    name: "ኤፈሶነ"
+    slug: "efasona"
+  "PHP":
+    name: "ፍልጵስዩሳ"
+    slug: "felepeseyusa"
+  "COL":
+    name: "ቆላስያሳ"
+    slug: "qolaseyasa"
+  "1TH":
+    name: "1 ተሰሎንቄ"
+    slug: "1-tasaloneqe"
+  "2TH":
+    name: "2 ተሰሎንቄ"
+    slug: "2-tasaloneqe"
+  "1TI":
+    name: "1 ጢሞትዮሳ"
+    slug: "1-timoteyosa"
+  "2TI":
+    name: "2 ጢሞትዮሳ"
+    slug: "2-timoteyosa"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "ፍልሞና"
+    slug: "felemona"
+  "HEB":
+    name: "ዕብራዌ"
+    slug: "eberawe"
+  "JAS":
+    name: "ያይቆባ"
+    slug: "yayeqoba"
+  "1PE":
+    name: "1 ጴጥሮሳ"
+    slug: "1-peterosa"
+  "2PE":
+    name: "2 ጴጥሮሳ"
+    slug: "2-peterosa"
+  "1JN":
+    name: "1 ዋሐንሳ"
+    slug: "1-wahanesa"
+  "2JN":
+    name: "2 ዋሐንሳ"
+    slug: "2-wahanesa"
+  "3JN":
+    name: "3 ዋሐንሳ"
+    slug: "3-wahanesa"
+  "JUD":
+    name: "ይሁዳ"
+    slug: "yehuda"
+  "REV":
+    name: "ዋሐንሳ ቆንጭ"
+    slug: "wahanesa-qonec"

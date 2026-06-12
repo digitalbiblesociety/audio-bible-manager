@@ -1,0 +1,41 @@
+language: "plj"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Mbap kə mən Kartən kə Yesu"
+    slug: "mbap-ke-men-karten-ke-yesu"
+  "1CO":
+    name: "1 Mən Koranti"
+    slug: "1-men-koranti"
+  "2CO":
+    name: "2 Mən Koranti"
+    slug: "2-men-koranti"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Mən Pilipi"
+    slug: "men-pilipi"
+  "COL":
+    name: "Mən Kolosi"
+    slug: "men-kolosi"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"

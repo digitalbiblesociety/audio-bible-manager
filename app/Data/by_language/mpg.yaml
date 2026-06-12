@@ -1,0 +1,266 @@
+language: "mpg"
+books:
+  "GEN":
+    name: "Ad’u Tinda"
+    slug: "adu-tinda"
+    name_toc: "Wana ni mbaktum mba yam Ad’u Tindid’a"
+  "EXO":
+    name: "Buzuk ka Abud’a"
+    slug: "buzuk-ka-abuda"
+    name_toc: "Wana ni mbaktub mba yam Buzuk ka Abud’id’a"
+  "LEV":
+    name: "Sunda hi suma hi Levi-nid’a"
+    slug: "sunda-hi-suma-hi-levi-nida"
+    name_toc: "Wana ni mbaktum mba yam Sunda hi suma hi Levi-nid’a"
+  "NUM":
+    name: "Ndumba"
+    slug: "ndumba"
+    name_toc: "Wana ni mbaktum mba a Ndumba"
+  "DEU":
+    name: "Gat ta a hat á mbàd’id’a"
+    slug: "gat-ta-a-hat-a-mbadida"
+    name_toc: "Wana ni Gat ta a hat á mbàd’id’a"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+    name_toc: "Wana ni mbaktum mba Josue mi b’irita"
+  "JDG":
+    name: "Suma ka sariyad’a"
+    slug: "suma-ka-sariyada"
+    name_toc: "Wana ni mbaktumba hi Suma ka sariyad’id’a"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Wana ni mbaktum mba a b’irit yam Rut-ta"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Wana ni mbaktum mba avoka hi Samuel-la"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Wana ni mbaktum mba mbà d’a hi Samuel-la"
+  "1KI":
+    name: "1 Amuleina"
+    slug: "1-amuleina"
+    name_toc: "Wana ni mbaktum mba avok ka yam Amuleina"
+  "2KI":
+    name: "2 Amuleina"
+    slug: "2-amuleina"
+    name_toc: "Wana ni mbaktum mba mbà d’a yam Amuleinid’a"
+  "1CH":
+    name: "1 Sunda Hamuleinid’a"
+    slug: "1-sunda-hamuleinida"
+    name_toc: "Wana ni mbaktum mba avok ka de zlad’a yam Sunda Hamuleinid’a"
+  "2CH":
+    name: "2 Sunda Hamuleinid’a"
+    slug: "2-sunda-hamuleinida"
+    name_toc: "Wana ni mbaktum mba mbà d’a de zlad’a yam Sunda Hamuleinid’a"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Wana ni mbaktumba hi Esdras-sa"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Wana ni mbaktumba hi Nehemi-d’a"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Wana ni mbaktumba hi Ester-ra"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Wana ni mbaktumba hi Job-pa"
+  "PSA":
+    name: "Sawal la giled’a"
+    slug: "sawal-la-gileda"
+    name_toc: "Wana ni Sawal la Giled’a"
+  "PRO":
+    name: "Zla d’a d’ogolâ"
+    slug: "zla-da-dogola"
+    name_toc: "Wana ni Zla d’a d’ogolâ"
+  "ECC":
+    name: "Ma tchi wala"
+    slug: "ma-tchi-wala"
+    name_toc: "Wana ni mbaktumba hi Ma tchi walid’a"
+  "SNG":
+    name: "Sawal la kal teglesa"
+    slug: "sawal-la-kal-teglesa"
+    name_toc: "Wana ni Sawal la kal teglesa"
+  "ISA":
+    name: "Isai"
+    slug: "isai"
+    name_toc: "Wana ni mbaktumba hi Isai-d’a"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+    name_toc: "Wana ni mbaktumba hi Jermi-d’a"
+  "LAM":
+    name: "Hor ma tchina"
+    slug: "hor-ma-tchina"
+    name_toc: "Wana ni Hor ma tchina hi Jeremi-na"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+    name_toc: "Wana ni mbaktumba hi Ezekiyel-la"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Wana ni mbaktumba hi Daniel-la"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+    name_toc: "Wana ni mbaktumba hi Oze-d’a"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Wana ni mbaktumba hi Joel-la"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Wana ni mbaktumba hi Amos-sa"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+    name_toc: "Wana ni mbaktumba hi Abdiyas-sa"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Wana ni mbaktumba hi Jonas-sa"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+    name_toc: "Wana ni mbaktumba hi Mise-d’a"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Wana ni mbaktumba hi Nahum-mba"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Wana ni mbaktumba hi Habakuk-ka"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "Wana ni mbaktumba hi Sofoni-d’a"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+    name_toc: "Wana ni mbaktumba hi Aze-d’a"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+    name_toc: "Wana ni mbaktumba hi Zakari"
+  "MAL":
+    name: "Malatchi"
+    slug: "malatchi"
+    name_toc: "Wana ni mbaktumba hi Malatchi-d’a"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+    name_toc: "Wana ni Zla d’a Djivi d’a Matiye mi b’irita"
+  "MRK":
+    name: "Marik"
+    slug: "marik"
+    name_toc: "Wana ni Zla d’a Djivi d’a Marik mi b’irita"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+    name_toc: "Wana ni Zla d’a Djivi d’a Luc mi b’irita"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+    name_toc: "Wana ni Zla d’a Djivi d’a Jean mi b’irita"
+  "ACT":
+    name: "Sunda hi suma a sunuzinid’a"
+    slug: "sunda-hi-suma-a-sunuzinida"
+    name_toc: "Wana ni mbaktum mba yam Sunda hi suma a sunuzinid’a"
+  "ROM":
+    name: "Romê-na"
+    slug: "rome-na"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi Suma Romê-nid’a"
+  "1CO":
+    name: "1 Korente-na"
+    slug: "1-korente-na"
+    name_toc: "Wana ni mbaktum mba avok ka Paul mi b’irit mi Korente-nid’a"
+  "2CO":
+    name: "2 Korente-na"
+    slug: "2-korente-na"
+    name_toc: "Wana ni mbaktum mba mbà d’a Paul mi b’irit mi Korente-nid’a"
+  "GAL":
+    name: "Galat-na"
+    slug: "galat-na"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi suma Galat-nid’a"
+  "EPH":
+    name: "Efes-sâ"
+    slug: "efes-sa"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi suma Efes-sîd’a"
+  "PHP":
+    name: "Filip-ma"
+    slug: "filip-ma"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi suma Filip-mid’a"
+  "COL":
+    name: "Kolos-sâ"
+    slug: "kolos-sa"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi suma Kolos-sîd’a"
+  "1TH":
+    name: "1 Tasaloni’â"
+    slug: "1-tasalonia"
+    name_toc: "Wana ni mbaktum mba avok ka Paul mi b’irit mi suma Tasaloni’îd’a"
+  "2TH":
+    name: "2 Tasaloni’â"
+    slug: "2-tasalonia"
+    name_toc: "Wana ni mbaktum mba mbà d’a Paul mi b’irit mi suma Tasaloni’îd’a"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Wana ni mbaktum mba avok ka Paul mi b’irit mi Timote-d’a"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Wana ni mbaktum mba mbà d’a Paul mi b’irit mi Timote-d’a"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi Tit-ta"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Wana ni mbaktum mba Paul mi b’irit mi Filemon-nda"
+  "HEB":
+    name: "Hebre-na"
+    slug: "hebre-na"
+    name_toc: "Wana ni mbaktum mba a b’irit mi suma Hebre-nid’a"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+    name_toc: "Wana ni mbaktum mba Jacques mi b’irita"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1-pierre"
+    name_toc: "Wana ni mbaktum mba avok ka Pierre mi b’irita"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2-pierre"
+    name_toc: "Wana ni mbaktum mba mbà d’a Pierre mi b’irita"
+  "1JN":
+    name: "1 Jean"
+    slug: "1-jean"
+    name_toc: "Wana ni mbaktum mba avok ka Jean mi b’irita"
+  "2JN":
+    name: "2 Jean"
+    slug: "2-jean"
+    name_toc: "Wana ni mbaktum mba mbà d’a Jean mi b’irita"
+  "3JN":
+    name: "3 Jean"
+    slug: "3-jean"
+    name_toc: "Wana ni mbaktum mba hindi d’a Jean mi b’irita"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Wana ni mbaktum mba Jude mi b’irita"
+  "REV":
+    name: "Vama ndum mbeina"
+    slug: "vama-ndum-mbeina"
+    name_toc: "Wana ni vama Jesus Christ mi ndum mbei mi Jean-na"

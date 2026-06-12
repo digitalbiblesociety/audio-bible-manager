@@ -1,0 +1,83 @@
+language: "taq"
+books:
+  "MAT":
+    name: "Mătti"
+    slug: "matti"
+  "MRK":
+    name: "Marqəs"
+    slug: "marqes"
+  "LUK":
+    name: "Luqa"
+    slug: "luqa"
+  "JHN":
+    name: "Exya"
+    slug: "exya"
+  "ACT":
+    name: "Ijităn n-inəmmušal"
+    slug: "ijitan-n-inemmusal"
+  "ROM":
+    name: "Kăl-Roma"
+    slug: "kal-roma"
+  "1CO":
+    name: "1 Kăl-Kurənta"
+    slug: "1-kal-kurenta"
+  "2CO":
+    name: "2 Kăl-Kurənta"
+    slug: "2-kal-kurenta"
+  "GAL":
+    name: "Kăl-Gălasya"
+    slug: "kal-galasya"
+  "EPH":
+    name: "Kăl-Ifăsus"
+    slug: "kal-ifasus"
+  "PHP":
+    name: "Kăl-Fəlibb"
+    slug: "kal-felibb"
+  "COL":
+    name: "Kăl-Kuləs"
+    slug: "kal-kules"
+  "1TH":
+    name: "1 Kăl-Tăslonika"
+    slug: "1-kal-taslonika"
+  "2TH":
+    name: "2 Kăl-Tăslonika"
+    slug: "2-kal-taslonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Fălyamon"
+    slug: "falyamon"
+  "HEB":
+    name: "Ɣăbranităn"
+    slug: "abranitan"
+  "JAS":
+    name: "Yaqub"
+    slug: "yaqub"
+  "1PE":
+    name: "1 Bəṭrus"
+    slug: "1-betrus"
+  "2PE":
+    name: "2 Bəṭrus"
+    slug: "2-betrus"
+  "1JN":
+    name: "1 Exya"
+    slug: "1-exya"
+  "2JN":
+    name: "2 Exya"
+    slug: "2-exya"
+  "3JN":
+    name: "3 Exya"
+    slug: "3-exya"
+  "JUD":
+    name: "Hudd"
+    slug: "hudd"
+  "REV":
+    name: "Tănăfalilt"
+    slug: "tanafalilt"

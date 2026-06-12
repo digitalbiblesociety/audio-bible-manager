@@ -1,0 +1,83 @@
+language: "unr"
+books:
+  "MAT":
+    name: "ମାଥିଉ"
+    slug: "mathiu"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+  "LUK":
+    name: "ଲୁକ"
+    slug: "luka"
+  "JHN":
+    name: "ଯୋହାନ୍"
+    slug: "yohan"
+  "ACT":
+    name: "କୁଲାକାନ୍"
+    slug: "kulakan"
+  "ROM":
+    name: "ରୋମି"
+    slug: "romi"
+  "1CO":
+    name: "୧ କରିନ୍ଥିୟ"
+    slug: "1-karinthiya"
+  "2CO":
+    name: "୨ କରିନ୍ଥିୟ"
+    slug: "2-karinthiya"
+  "GAL":
+    name: "ଗାଲାତିୟ"
+    slug: "galatiya"
+  "EPH":
+    name: "ଏଫିସିୟ"
+    slug: "ephisiya"
+  "PHP":
+    name: "ଫିଲିପିୟ"
+    slug: "philipiya"
+  "COL":
+    name: "କଲସିୟ"
+    slug: "kalasiya"
+  "1TH":
+    name: "୧ ଥେସ୍‌ଲନିକା"
+    slug: "1-theslanika"
+  "2TH":
+    name: "୨ ଥେସ୍‌ଲନିକା"
+    slug: "2-theslanika"
+  "1TI":
+    name: "୧ ତିମଥି"
+    slug: "1-timathi"
+  "2TI":
+    name: "୨ ତିମଥି"
+    slug: "2-timathi"
+  "TIT":
+    name: "ତିତୁସ୍"
+    slug: "titus"
+  "PHM":
+    name: "ଫିଲେମୋନ୍"
+    slug: "philemon"
+  "HEB":
+    name: "ଏବ୍ରୀ"
+    slug: "ebri"
+  "JAS":
+    name: "ଯାକୁବ"
+    slug: "yakuba"
+  "1PE":
+    name: "1 ପାତ୍ରାସ୍"
+    slug: "1-patras"
+  "2PE":
+    name: "2 ପାତ୍ରାସ୍"
+    slug: "2-patras"
+  "1JN":
+    name: "1 ଯୋହାନ୍"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 ଯୋହାନ୍"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 ଯୋହାନ୍"
+    slug: "3-yohan"
+  "JUD":
+    name: "ୟାହୁଦା"
+    slug: "yahuda"
+  "REV":
+    name: "ଉଦୁବ୍‍କାଜି"
+    slug: "udubkaji"

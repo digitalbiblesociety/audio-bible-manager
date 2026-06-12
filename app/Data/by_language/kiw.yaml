@@ -1,0 +1,6 @@
+language: "kiw"
+books:
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+    name_toc: "Pai meai Ruka-ro iꞌati emerai-ka"

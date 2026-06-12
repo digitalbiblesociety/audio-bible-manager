@@ -1,0 +1,197 @@
+language: "tbl"
+books:
+  "GEN":
+    name: "Tekang Kbuten"
+    slug: "tekang-kbuten"
+  "EXO":
+    name: "Kehewà"
+    slug: "kehewa"
+  "LEV":
+    name: "Hlolò"
+    slug: "hlolo"
+  "NUM":
+    name: "Lista"
+    slug: "lista"
+  "DEU":
+    name: "Dwata"
+    slug: "dwata"
+  "JOS":
+    name: "Juswa"
+    slug: "juswa"
+  "JDG":
+    name: "Kmukum"
+    slug: "kmukum"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samwél"
+    slug: "1-samwel"
+  "2SA":
+    name: "2 Samwél"
+    slug: "2-samwel"
+  "1KI":
+    name: "1 Bok Kem Tau Hol Geta"
+    slug: "1-bok-kem-tau-hol-geta"
+  "2KI":
+    name: "2 Bok Kem Tau Hol Geta"
+    slug: "2-bok-kem-tau-hol-geta"
+  "1CH":
+    name: "1 Tutul Israél"
+    slug: "1-tutul-israel"
+  "2CH":
+    name: "2 Tutul Israél"
+    slug: "2-tutul-israel"
+  "EZR":
+    name: "Isra"
+    slug: "isra"
+  "NEH":
+    name: "Nihimaya"
+    slug: "nihimaya"
+  "EST":
+    name: "Istér"
+    slug: "ister"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Kem Lingón"
+    slug: "kem-lingon"
+  "PRO":
+    name: "Kem Udél Hlalak Tehe Selumun"
+    slug: "kem-udel-hlalak-tehe-selumun"
+  "ECC":
+    name: "Kehedem Tau Tmolok"
+    slug: "kehedem-tau-tmolok"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Jirimaya"
+    slug: "jirimaya"
+  "LAM":
+    name: "Lanu Jirimaya"
+    slug: "lanu-jirimaya"
+  "EZK":
+    name: "Isikél"
+    slug: "isikel"
+  "DAN":
+    name: "Danyél"
+    slug: "danyel"
+  "HOS":
+    name: "Husiya"
+    slug: "husiya"
+  "JOL":
+    name: "Juwél"
+    slug: "juwel"
+  "AMO":
+    name: "Amus"
+    slug: "amus"
+  "OBA":
+    name: "Ubadaya"
+    slug: "ubadaya"
+  "JON":
+    name: "Juna"
+    slug: "juna"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Hbakuk"
+    slug: "hbakuk"
+  "ZEP":
+    name: "Sifanaya"
+    slug: "sifanaya"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+  "ZEC":
+    name: "Sikaraya"
+    slug: "sikaraya"
+  "MAL":
+    name: "Malakay"
+    slug: "malakay"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Kul Nmò"
+    slug: "kul-nmo"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Kurin"
+    slug: "1-kurin"
+  "2CO":
+    name: "2 Kurin"
+    slug: "2-kurin"
+  "GAL":
+    name: "Glasya"
+    slug: "glasya"
+  "EPH":
+    name: "Ifisus"
+    slug: "ifisus"
+  "PHP":
+    name: "Flipay"
+    slug: "flipay"
+  "COL":
+    name: "Kulasi"
+    slug: "kulasi"
+  "1TH":
+    name: "1 Tisalunika"
+    slug: "1-tisalunika"
+  "2TH":
+    name: "2 Tisalunika"
+    slug: "2-tisalunika"
+  "1TI":
+    name: "1 Timuti"
+    slug: "1-timuti"
+  "2TI":
+    name: "2 Timuti"
+    slug: "2-timuti"
+  "TIT":
+    name: "Taytus"
+    slug: "taytus"
+  "PHM":
+    name: "Filimun"
+    slug: "filimun"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jim"
+    slug: "jim"
+  "1PE":
+    name: "1 Pitér"
+    slug: "1-piter"
+  "2PE":
+    name: "2 Pitér"
+    slug: "2-piter"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Deng Hegfan"
+    slug: "deng-hegfan"

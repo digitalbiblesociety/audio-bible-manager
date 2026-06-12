@@ -1,0 +1,200 @@
+language: "pol"
+books:
+  "GEN":
+    name: "Rodzaju"
+    slug: "rodzaju"
+  "EXO":
+    name: "Wyjścia"
+    slug: "wyjscia"
+  "LEV":
+    name: "Kapłańska"
+    slug: "kapanska"
+  "NUM":
+    name: "Liczb"
+    slug: "liczb"
+  "DEU":
+    name: "Powtórzonego"
+    slug: "powtorzonego"
+  "JOS":
+    name: "Jozuego"
+    slug: "jozuego"
+  "JDG":
+    name: "Księga Sędziów"
+    slug: "ksiega-sedziow"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "I Samuela"
+    slug: "i-samuela"
+  "2SA":
+    name: "II Samuela"
+    slug: "ii-samuela"
+  "1KI":
+    name: "I Królewska"
+    slug: "i-krolewska"
+  "2KI":
+    name: "II Królewska"
+    slug: "ii-krolewska"
+  "1CH":
+    name: "I Kronik"
+    slug: "i-kronik"
+  "2CH":
+    name: "II Kronik"
+    slug: "ii-kronik"
+  "EZR":
+    name: "Ezdrasza"
+    slug: "ezdrasza"
+  "NEH":
+    name: "Nehemiasza"
+    slug: "nehemiasza"
+  "EST":
+    name: "Estery"
+    slug: "estery"
+  "JOB":
+    name: "Hioba"
+    slug: "hioba"
+  "PSA":
+    name: "Psalmów"
+    slug: "psalmow"
+  "PRO":
+    name: "Przysłów"
+    slug: "przysow"
+  "ECC":
+    name: "Kaznodziei"
+    slug: "kaznodziei"
+  "SNG":
+    name: "Pieśń nad Pieśniami"
+    slug: "piesn-nad-piesniami"
+  "ISA":
+    name: "Izajasza"
+    slug: "izajasza"
+  "JER":
+    name: "Jeremiasza"
+    slug: "jeremiasza"
+  "LAM":
+    name: "Lamentacje"
+    slug: "lamentacje"
+  "EZK":
+    name: "Ezechiela"
+    slug: "ezechiela"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "HOS":
+    name: "Ozeasza"
+    slug: "ozeasza"
+  "JOL":
+    name: "Joela"
+    slug: "joela"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+  "OBA":
+    name: "Abdiasza"
+    slug: "abdiasza"
+  "JON":
+    name: "Jonasza"
+    slug: "jonasza"
+  "MIC":
+    name: "Micheasza"
+    slug: "micheasza"
+  "NAM":
+    name: "Nahuma"
+    slug: "nahuma"
+  "HAB":
+    name: "Habakuka"
+    slug: "habakuka"
+  "ZEP":
+    name: "Sofoniasza"
+    slug: "sofoniasza"
+  "HAG":
+    name: "Aggeusza"
+    slug: "aggeusza"
+  "ZEC":
+    name: "Zachariasza"
+    slug: "zachariasza"
+  "MAL":
+    name: "Malachiasza"
+    slug: "malachiasza"
+  "MAT":
+    name: "Mateusza"
+    slug: "mateusza"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Łukasza"
+    slug: "lukasza"
+  "JHN":
+    name: "Jana"
+    slug: "jana"
+  "ACT":
+    name: "Dzieje"
+    slug: "dzieje"
+  "ROM":
+    name: "Rzymian"
+    slug: "rzymian"
+  "1CO":
+    name: "1 Koryntian"
+    slug: "1-koryntian"
+  "2CO":
+    name: "2 Koryntian"
+    slug: "2-koryntian"
+  "GAL":
+    name: "Galacjan"
+    slug: "galacjan"
+  "EPH":
+    name: "Efezjan"
+    slug: "efezjan"
+  "PHP":
+    name: "Filipian"
+    slug: "filipian"
+  "COL":
+    name: "Kolosan"
+    slug: "kolosan"
+  "1TH":
+    name: "1 Tesaloniczan"
+    slug: "1-tesaloniczan"
+  "2TH":
+    name: "2 Tesaloniczan"
+    slug: "2-tesaloniczan"
+  "1TI":
+    name: "1 Tymoteusza"
+    slug: "1-tymoteusza"
+  "2TI":
+    name: "2 Tymoteusza"
+    slug: "2-tymoteusza"
+  "TIT":
+    name: "Tytusa"
+    slug: "tytusa"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+  "HEB":
+    name: "Hebrajczyków"
+    slug: "hebrajczykow"
+  "JAS":
+    name: "Jakuba"
+    slug: "jakuba"
+  "1PE":
+    name: "1 Piotra"
+    slug: "1-piotra"
+  "2PE":
+    name: "2 Piotra"
+    slug: "2-piotra"
+  "1JN":
+    name: "1 Jana"
+    slug: "1-jana"
+  "2JN":
+    name: "2 Jana"
+    slug: "2-jana"
+  "3JN":
+    name: "3 Jana"
+    slug: "3-jana"
+  "JUD":
+    name: "Judy"
+    slug: "judy"
+  "REV":
+    name: "Apokalipsa"
+    slug: "apokalipsa"

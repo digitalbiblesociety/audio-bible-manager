@@ -1,0 +1,83 @@
+language: "big"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowan"
+    slug: "yowan"
+  "ACT":
+    name: "Yawe Aposolowiligu Mizayeng"
+    slug: "yawe-aposolowiligu-mizayeng"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Kalesiya"
+    slug: "kalesiya"
+  "EPH":
+    name: "Epese"
+    slug: "epese"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Pilimo"
+    slug: "pilimo"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yowan"
+    slug: "1-yowan"
+  "2JN":
+    name: "2 Yowan"
+    slug: "2-yowan"
+  "3JN":
+    name: "3 Yowan"
+    slug: "3-yowan"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Ngago Kawela Wiyara"
+    slug: "ngago-kawela-wiyara"

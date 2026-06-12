@@ -1,0 +1,5 @@
+language: "aqk"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"

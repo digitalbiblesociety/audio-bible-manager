@@ -1,0 +1,92 @@
+language: "lid"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MAT":
+    name: "Metiu"
+    slug: "metiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesiya"
+    slug: "galesiya"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Hiburu"
+    slug: "hiburu"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Rebelesen"
+    slug: "rebelesen"

@@ -1,0 +1,80 @@
+language: "lez"
+books:
+  "MAT":
+    name: "МатӀай"
+    slug: "mataj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "ЛукӀа"
+    slug: "luka"
+  "JHN":
+    name: "Ягья"
+    slug: "aga"
+  "ACT":
+    name: "Крар"
+    slug: "krar"
+  "ROM":
+    name: "Римвийриз"
+    slug: "rimvijriz"
+  "1CO":
+    name: "1-Каринфвийриз"
+    slug: "1-karinfvijriz"
+  "2CO":
+    name: "2-Каринфвийриз"
+    slug: "2-karinfvijriz"
+  "GAL":
+    name: "ГалатӀвийриз"
+    slug: "galatvijriz"
+  "EPH":
+    name: "Эфесвийриз"
+    slug: "efesvijriz"
+  "PHP":
+    name: "ФилипӀвийриз"
+    slug: "filipvijriz"
+  "COL":
+    name: "Каласвийриз"
+    slug: "kalasvijriz"
+  "1TH":
+    name: "1-Саланиквийриз"
+    slug: "1-salanikvijriz"
+  "2TH":
+    name: "2-Саланиквийриз"
+    slug: "2-salanikvijriz"
+  "1TI":
+    name: "1-ТӀиматӀеяз"
+    slug: "1-timateaz"
+  "2TI":
+    name: "2-ТӀиматӀеяз"
+    slug: "2-timateaz"
+  "TIT":
+    name: "ТӀитӀаз"
+    slug: "titaz"
+  "HEB":
+    name: "Чувудриз"
+    slug: "cuvudriz"
+  "JAS":
+    name: "Якьуб"
+    slug: "akub"
+  "1PE":
+    name: "1-Петру"
+    slug: "1-petru"
+  "2PE":
+    name: "2-Петру"
+    slug: "2-petru"
+  "1JN":
+    name: "1-Ягья"
+    slug: "1-aga"
+  "2JN":
+    name: "2-Ягья"
+    slug: "2-aga"
+  "3JN":
+    name: "3-Ягья"
+    slug: "3-aga"
+  "JUD":
+    name: "Ягьуд"
+    slug: "agud"
+  "REV":
+    name: "Керемат"
+    slug: "keremat"

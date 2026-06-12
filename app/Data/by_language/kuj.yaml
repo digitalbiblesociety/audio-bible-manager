@@ -1,0 +1,298 @@
+language: "kuj"
+books:
+  "GEN":
+    name: "Ögötanga"
+    slug: "ogotanga"
+    name_toc: "Ëgëtabhö Ke Mbere Ke Mösa Këno Gëköbhërëkëroa Iga Ögötanga"
+  "EXO":
+    name: "Ëgeetëko"
+    slug: "egeeteko"
+    name_toc: "Ëgëtabhö Gë Kabhërë Ëke Mösa Këno Gëköbhërëkëroa Iga Ëgeetëko"
+  "LEV":
+    name: "Abharawi"
+    slug: "abharawi"
+    name_toc: "Ëgëtabhö Kë Gatatö Ke Mösa Këno Gëköbhërëkëroa Iga Abharawi"
+  "NUM":
+    name: "Ëbharo"
+    slug: "ebharo"
+    name_toc: "Ëgëtabhö Ge Kanai Ke Mösa Këno Gëköbhërëkëröa Iga Ëbharo"
+  "DEU":
+    name: "Ëhëëtöko ya Amarago"
+    slug: "eheetoko-ya-amarago"
+    name_toc: "Ëgëtabho Ke Gataano Ëke Mösa Këno Geköbhërëkeroa Iga Ëhëëtöko Ya Amarago"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Ëgëtabhö Ke Yosua"
+  "JDG":
+    name: "Abhahökania"
+    slug: "abhahokania"
+    name_toc: "Ëgëtabhö Kia Abhahökania"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Ëgëtabhö Ke Ruti"
+  "1SA":
+    name: "1 Samueri"
+    slug: "1-samueri"
+    name_toc: "Ëgëtabhö Ke Mbere Ge Samueri"
+  "2SA":
+    name: "2 Samueri"
+    slug: "2-samueri"
+    name_toc: "Ëgëtabhö Ge Kabhërë Ge Samueri"
+  "1KI":
+    name: "1 Abhagambi"
+    slug: "1-abhagambi"
+    name_toc: "Ëgëtabhö Ke Mbere Kia Abhagambi"
+  "2KI":
+    name: "2 Abhagambi"
+    slug: "2-abhagambi"
+    name_toc: "Ëgëtabhö Ge Kabhërë Kia Abhagambi"
+  "1CH":
+    name: "1 Amang'ana gi Ichinkaaga"
+    slug: "1-amang-ana-gi-ichinkaaga"
+    name_toc: "Ëgëtabhö Ke Mbere Kia Amang'ana Gi Ichinkaaga"
+  "2CH":
+    name: "2 Amang'ana gi Ichinkaaga"
+    slug: "2-amang-ana-gi-ichinkaaga"
+    name_toc: "Ëgëtabhö Ge Kabhërë Kia Amang'ana Gi Ichinkaaga"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "Ëgëtabhö Ke Esira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Ëgëtabhö Ke Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Ëgëtabhö Ke Esita"
+  "JOB":
+    name: "Ayubhu"
+    slug: "ayubhu"
+    name_toc: "Ëgëtabhö Ke Ayubhu"
+  "PSA":
+    name: "Ësabhuri"
+    slug: "esabhuri"
+    name_toc: "Ëgëtabhö Gë Ësabhuri"
+  "PRO":
+    name: "Ibhirengiö"
+    slug: "ibhirengio"
+    name_toc: "Ëgëtabhö Ki Ibhirengiö"
+  "ECC":
+    name: "Umurundia"
+    slug: "umurundia"
+    name_toc: "Ëgëtabhö Kiu Umurundia"
+  "SNG":
+    name: "Irisiringio rë Ëtegerio"
+    slug: "irisiringio-re-etegerio"
+    name_toc: "Irisiringio Rë Ëtegerio"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Ëgëtabhö Ke Isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Ëgëtabhö Ke Yeremia"
+  "LAM":
+    name: "Ikuuro"
+    slug: "ikuuro"
+    name_toc: "Ëgëtabhö Ke Yeremia Këno Gëköbhërëkëroa Iga Ikuuro"
+  "EZK":
+    name: "Esekieri"
+    slug: "esekieri"
+    name_toc: "Ëgëtabhö Ge Esekieri"
+  "DAN":
+    name: "Tanieri"
+    slug: "tanieri"
+    name_toc: "Ëgëtabhö Ge Tanieri"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ëgëtabhö Ke Hosea"
+  "JOL":
+    name: "Yoeri"
+    slug: "yoeri"
+    name_toc: "Ëgëtabhö Ke Yoeri"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Ëgëtabhö Ke Amosi"
+  "OBA":
+    name: "Obhatia"
+    slug: "obhatia"
+    name_toc: "Ëgëtabhö Ke Obhatia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Ëgëtabhö Ke Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Ëgëtabhö Ke Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Ëgëtabhö Ke Nahumu"
+  "HAB":
+    name: "Habhakuki"
+    slug: "habhakuki"
+    name_toc: "Ëgëtabhö Ke Habhakuki"
+  "ZEP":
+    name: "Sebhania"
+    slug: "sebhania"
+    name_toc: "Ëgëtabhö Ge Sebhania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Ëgëtabhö Ke Hagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Ëgëtabhö Ge Sekaria"
+  "MAL":
+    name: "Maraki"
+    slug: "maraki"
+    name_toc: "Ëgëtabhö Ke Maraki"
+  "TOB":
+    name: "Tobhiti"
+    slug: "tobhiti"
+    name_toc: "Ëgëtabhö Ge Tobhiti"
+  "JDT":
+    name: "Yutiti"
+    slug: "yutiti"
+    name_toc: "Ëgëtabhö Kë Yutiti"
+  "ESG":
+    name: "Esita (Ikigiriki)"
+    slug: "esita-ikigiriki"
+    name_toc: "Ëgëtabhö Ke Esita (Ikigiriki)"
+  "WIS":
+    name: "Öbhöng'aini bho Sureimani"
+    slug: "obhong-aini-bho-sureimani"
+    name_toc: "Öbhöng'aini Bho Sureimani"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+    name_toc: "Öbhöng'aini Bho Yosua, Ömoona O Sira"
+  "BAR":
+    name: "Bharuku"
+    slug: "bharuku"
+    name_toc: "Ëgëtabhö Ke Bharuku"
+  "1MA":
+    name: "1 Abamakabhayo"
+    slug: "1-abamakabhayo"
+    name_toc: "Ëgëtabhö Ke Mbere Ke Abamakabhayo"
+  "2MA":
+    name: "2 Abamakabhayo"
+    slug: "2-abamakabhayo"
+    name_toc: "Ëgëtabhö Ge Kabhërë Ke Abhamakabhayo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Igichiiratë Keebhörë Keendëkëröë Na Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Igichiiratë Keebhörë Keendëkëröë Na Mariko"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+    name_toc: "Igichiiratë Keebhörë Keendëkëröë Na Ruka"
+  "JHN":
+    name: "Yöhana"
+    slug: "yohana"
+    name_toc: "Amang'ana Amaiiya Këëbore Gaandekeroe Na Yöhana"
+  "ACT":
+    name: "Amaköra"
+    slug: "amakora"
+    name_toc: "Amaköra Gabatomoa"
+  "ROM":
+    name: "Abaruumi"
+    slug: "abaruumi"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Abaruumi"
+  "1CO":
+    name: "1 Abaköriinto"
+    slug: "1-abakoriinto"
+    name_toc: "Inyaruba Yambërë Yabauro Enö Aandekeeye Abaköriinto"
+  "2CO":
+    name: "2 Abaköriinto"
+    slug: "2-abakoriinto"
+    name_toc: "Inyaruba Yakabere Yabauro Enö Aandekeeye Abaköriinto"
+  "GAL":
+    name: "Abagaratia"
+    slug: "abagaratia"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Abagaratia"
+  "EPH":
+    name: "Abaëbëëso"
+    slug: "abaebeeso"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Abaëbëësö"
+  "PHP":
+    name: "Ababiribi"
+    slug: "ababiribi"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Ababiribi"
+  "COL":
+    name: "Abakörösai"
+    slug: "abakorosai"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Abakörösai"
+  "1TH":
+    name: "1 Abatesaronike"
+    slug: "1-abatesaronike"
+    name_toc: "Inyaruba Yambërë Yabauro Enö Aandekeeye Abatesaronike"
+  "2TH":
+    name: "2 Abatesaronike"
+    slug: "2-abatesaronike"
+    name_toc: "Inyaruba Yakabere Yabauro Enö Aandekeeye Abatesaronike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Inyaruba Yambërë Yabauro Enö Aandekeeye Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Inyaruba Yakabere Yabauro Enö Aandekeeye Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Inyaruba Yabauro Enö Aandekeeye Tito"
+  "PHM":
+    name: "Biremööni"
+    slug: "biremooni"
+    name_toc: "Inyaruba Ya Bauro Enö Aandekeeye Biremööni"
+  "HEB":
+    name: "Abaibrania"
+    slug: "abaibrania"
+    name_toc: "Inyaruba Enö Yaandekeeyoe Abaibrania"
+  "JAS":
+    name: "Yaköbö"
+    slug: "yakobo"
+    name_toc: "Inyaruba Ya Yaköbö"
+  "1PE":
+    name: "1 Bëëtërö"
+    slug: "1-beetero"
+    name_toc: "Inyaruba Yambërë Ya Bëëtërö"
+  "2PE":
+    name: "2 Bëëtërö"
+    slug: "2-beetero"
+    name_toc: "Inyaruba Yakabere Ya Bëëtërö"
+  "1JN":
+    name: "1 Yöhana"
+    slug: "1-yohana"
+    name_toc: "Inyaruba Yambërë Ya Yöhana"
+  "2JN":
+    name: "2 Yöhana"
+    slug: "2-yohana"
+    name_toc: "Inyaruba Yakabere Ya Yöhana"
+  "3JN":
+    name: "3 Yöhana"
+    slug: "3-yohana"
+    name_toc: "Inyaruba Yagatato Ya Yöhana"
+  "JUD":
+    name: "Yuta"
+    slug: "yuta"
+    name_toc: "Inyarubha Ya Yuta"
+  "REV":
+    name: "Öbhöhönyöro"
+    slug: "obhohonyoro"
+    name_toc: "Öbhöhönyöro Bho Yohana"

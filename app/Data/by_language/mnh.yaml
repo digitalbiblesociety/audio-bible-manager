@@ -1,0 +1,71 @@
+language: "mnh"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "ACT":
+    name: "Akwa"
+    slug: "akwa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Koriti"
+    slug: "koriti"
+  "2CO":
+    name: "Koriti"
+    slug: "koriti"
+  "GAL":
+    name: "Galate"
+    slug: "galate"
+  "EPH":
+    name: "Efeze"
+    slug: "efeze"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "2TH":
+    name: "Tesalonike"
+    slug: "tesalonike"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebre"
+    slug: "ebre"
+  "JAS":
+    name: "Jake"
+    slug: "jake"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yowane"
+    slug: "1-yowane"
+  "2JN":
+    name: "2 Yowane"
+    slug: "2-yowane"
+  "3JN":
+    name: "3 Yowane"
+    slug: "3-yowane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Kœwurœ"
+    slug: "koewuroe"

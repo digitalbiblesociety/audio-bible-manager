@@ -1,0 +1,86 @@
+language: "bdh"
+books:
+  "GEN":
+    name: "Dosị́ éyị́ e"
+    slug: "dosi-eyi-e"
+  "MAT":
+    name: "Matáyo"
+    slug: "matayo"
+  "MRK":
+    name: "Márɨko"
+    slug: "mariko"
+  "LUK":
+    name: "Lúka"
+    slug: "luka"
+  "JHN":
+    name: "Yiwáni"
+    slug: "yiwani"
+  "ACT":
+    name: "Moko ꞌbɨ ꞌyịmɨkása e"
+    slug: "moko-bi-yimikasa-e"
+  "ROM":
+    name: "Róma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korị́ndo"
+    slug: "1-korindo"
+  "2CO":
+    name: "2 Korị́ndo"
+    slug: "2-korindo"
+  "GAL":
+    name: "Galatíya"
+    slug: "galatiya"
+  "EPH":
+    name: "Éfeso"
+    slug: "efeso"
+  "PHP":
+    name: "Phị́lịpo"
+    slug: "philipo"
+  "COL":
+    name: "Kolósayi"
+    slug: "kolosayi"
+  "1TH":
+    name: "1 Tasalonị́ka"
+    slug: "1-tasalonika"
+  "2TH":
+    name: "2 Tasalonị́ka"
+    slug: "2-tasalonika"
+  "1TI":
+    name: "1 Timatíyo"
+    slug: "1-timatiyo"
+  "2TI":
+    name: "2 Timatíyo"
+    slug: "2-timatiyo"
+  "TIT":
+    name: "Tị́to"
+    slug: "tito"
+  "PHM":
+    name: "Felemúna"
+    slug: "felemuna"
+  "HEB":
+    name: "Ébere"
+    slug: "ebere"
+  "JAS":
+    name: "Yakóbo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Pétero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pétero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yiwáni"
+    slug: "1-yiwani"
+  "2JN":
+    name: "2 Yiwáni"
+    slug: "2-yiwani"
+  "3JN":
+    name: "3 Yiwáni"
+    slug: "3-yiwani"
+  "JUD":
+    name: "Yụ́da"
+    slug: "yuda"
+  "REV":
+    name: "ꞌDódoógụ"
+    slug: "dodoogu"

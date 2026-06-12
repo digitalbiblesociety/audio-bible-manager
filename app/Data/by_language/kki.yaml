@@ -1,0 +1,110 @@
+language: "kki"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Imbuli swamu foiandikigwe na Matayo"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+    name_toc: "Imbuli swanu foiandikigwe na Maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Imbuli swamu foiandikigwe na Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Imbuli iswanu foiandikigwe na Yohana"
+  "ACT":
+    name: "Sinhenda"
+    slug: "sinhenda"
+    name_toc: "Sinhenda sa Watumigwa"
+  "ROM":
+    name: "Waloma"
+    slug: "waloma"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa ku Waloma"
+  "1CO":
+    name: "1 Wakolinto"
+    slug: "1-wakolinto"
+    name_toc: "Ibaluwa ye inghonga ya Paulo Mutumigwa kuwa Wakolinto"
+  "2CO":
+    name: "2 Wakolinto"
+    slug: "2-wakolinto"
+    name_toc: "Ibaluwa ya keli ya Paulo Mutumigwa kwa Wakolinto"
+  "GAL":
+    name: "Wagalatiya"
+    slug: "wagalatiya"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa ku Wagalatiya"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Ibaluwa Ya Paulo Mutumigwa ku Waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa ku Wafilipi"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa kwa Wakolosai"
+  "1TH":
+    name: "1 Wasesalonike"
+    slug: "1-wasesalonike"
+    name_toc: "Ibaluwa ye inghonga ya Paulo Mutumigwa ku Wasesalonike"
+  "2TH":
+    name: "2 Wasesalonike"
+    slug: "2-wasesalonike"
+    name_toc: "Ibaluwa ya keli ya Paulo Mutumigwa ku Wasesalonike"
+  "1TI":
+    name: "1 Timoseyo"
+    slug: "1-timoseyo"
+    name_toc: "Ibaluwa ye inghonga ya Paulo Mutumigwa kwa Timoseyo"
+  "2TI":
+    name: "2 Timoseyo"
+    slug: "2-timoseyo"
+    name_toc: "Ibaluwa ya keli ya Paulo Mutumigwa kwa Timoseyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa kwa Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Ibaluwa ya Paulo Mutumigwa kwa Filemoni"
+  "HEB":
+    name: "Waebulaniya"
+    slug: "waebulaniya"
+    name_toc: "Ibaluwa ku Waebulaniya"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Ibaluwa kulawa kwa Yakobo"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+    name_toc: "Ibaluwa ye inghonga kulawa kwa Petulo"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+    name_toc: "Ibaluwa ya keli kulawa kwa Petulo"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Ibaluwa ye ighonga kulawa kwa Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Ibaluwa ye keli ya Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Ibaluwa ya kadatu kulawa kwa Yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ibaluwa ya Yuda"
+  "REV":
+    name: "Ugubulo"
+    slug: "ugubulo"
+    name_toc: "Ugubulo kwa Yohana"

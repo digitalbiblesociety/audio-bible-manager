@@ -1,0 +1,110 @@
+language: "nse"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Mateyo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Maliko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yh"
+    slug: "yh"
+    name_toc: "Yohane"
+  "ACT":
+    name: "Macitilo"
+    slug: "macitilo"
+    name_toc: "Macitilo"
+  "ROM":
+    name: "Aro"
+    slug: "aro"
+    name_toc: "Aroma"
+  "1CO":
+    name: "1 Ako"
+    slug: "1-ako"
+    name_toc: "1 Akolinto"
+  "2CO":
+    name: "2 Ako"
+    slug: "2-ako"
+    name_toc: "2 Akolinto"
+  "GAL":
+    name: "Aga"
+    slug: "aga"
+    name_toc: "Agalatiya"
+  "EPH":
+    name: "Aife"
+    slug: "aife"
+    name_toc: "Aifeso"
+  "PHP":
+    name: "Afi"
+    slug: "afi"
+    name_toc: "Afilipo"
+  "COL":
+    name: "Akolo"
+    slug: "akolo"
+    name_toc: "Akolose"
+  "1TH":
+    name: "1 Ate"
+    slug: "1-ate"
+    name_toc: "1 Atesalonika"
+  "2TH":
+    name: "2 Ate"
+    slug: "2-ate"
+    name_toc: "2 Atesalonika"
+  "1TI":
+    name: "1 Timo"
+    slug: "1-timo"
+    name_toc: "1 Timoteyo"
+  "2TI":
+    name: "2 Timo"
+    slug: "2-timo"
+    name_toc: "2 Timoteyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Tito"
+  "PHM":
+    name: "Fili"
+    slug: "fili"
+    name_toc: "Filimoni"
+  "HEB":
+    name: "Aheb"
+    slug: "aheb"
+    name_toc: "Ahebeli"
+  "JAS":
+    name: "Yako"
+    slug: "yako"
+    name_toc: "Yakobe"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+    name_toc: "1 Petulo"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+    name_toc: "2 Petulo"
+  "1JN":
+    name: "1 Yh"
+    slug: "1-yh"
+    name_toc: "1 Yohane"
+  "2JN":
+    name: "2Yh"
+    slug: "2yh"
+    name_toc: "2 Yohane"
+  "3JN":
+    name: "3 Yh"
+    slug: "3-yh"
+    name_toc: "3 Yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda"
+  "REV":
+    name: "coku"
+    slug: "coku"
+    name_toc: "Cokundululiwa"

@@ -1,0 +1,200 @@
+language: "pes"
+books:
+  "GEN":
+    name: "پیدایش"
+    slug: "pydaysh"
+  "EXO":
+    name: "خروج"
+    slug: "khrwj"
+  "LEV":
+    name: "لاویان"
+    slug: "lawyan"
+  "NUM":
+    name: "اعداد"
+    slug: "aadad"
+  "DEU":
+    name: "تثنیه"
+    slug: "tthnyh"
+  "JOS":
+    name: "یوشع"
+    slug: "ywsha"
+  "JDG":
+    name: "داوران"
+    slug: "dawran"
+  "RUT":
+    name: "روت"
+    slug: "rwt"
+  "1SA":
+    name: "اول سموئیل"
+    slug: "awl-smwiyl"
+  "2SA":
+    name: "دوم سموئیل"
+    slug: "dwm-smwiyl"
+  "1KI":
+    name: "اول پادشاهان"
+    slug: "awl-padshahan"
+  "2KI":
+    name: "دوم پادشاهان"
+    slug: "dwm-padshahan"
+  "1CH":
+    name: "اول تواریخ"
+    slug: "awl-twarykh"
+  "2CH":
+    name: "دوم تواریخ"
+    slug: "dwm-twarykh"
+  "EZR":
+    name: "عزرا"
+    slug: "azra"
+  "NEH":
+    name: "نحمیا"
+    slug: "nhmya"
+  "EST":
+    name: "استر"
+    slug: "astr"
+  "JOB":
+    name: "ایّوب"
+    slug: "aywb"
+  "PSA":
+    name: "مزامیر"
+    slug: "mzamyr"
+  "PRO":
+    name: "امثال"
+    slug: "amthal"
+  "ECC":
+    name: "جامعه"
+    slug: "jamah"
+  "SNG":
+    name: "غزل غزلها"
+    slug: "ghzl-ghzlha"
+  "ISA":
+    name: "اشعیا"
+    slug: "ashaya"
+  "JER":
+    name: "ارمیا"
+    slug: "armya"
+  "LAM":
+    name: "سوگنامه"
+    slug: "swgnamh"
+  "EZK":
+    name: "حزقیال"
+    slug: "hzqyal"
+  "DAN":
+    name: "دانیال"
+    slug: "danyal"
+  "HOS":
+    name: "هوشع"
+    slug: "hwsha"
+  "JOL":
+    name: "یوئیل"
+    slug: "ywiyl"
+  "AMO":
+    name: "عاموس"
+    slug: "aamws"
+  "OBA":
+    name: "عوبدیا"
+    slug: "awbdya"
+  "JON":
+    name: "یونس"
+    slug: "ywns"
+  "MIC":
+    name: "میکا"
+    slug: "myka"
+  "NAM":
+    name: "ناحوم"
+    slug: "nahwm"
+  "HAB":
+    name: "حبقوق"
+    slug: "hbqwq"
+  "ZEP":
+    name: "صَفَنیا"
+    slug: "sfnya"
+  "HAG":
+    name: "حَجّای"
+    slug: "hjay"
+  "ZEC":
+    name: "زکریا"
+    slug: "zkrya"
+  "MAL":
+    name: "ملاکی"
+    slug: "mlaky"
+  "MAT":
+    name: "متّی"
+    slug: "mty"
+  "MRK":
+    name: "مرقس"
+    slug: "mrqs"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+  "JHN":
+    name: "یوحنا"
+    slug: "ywhna"
+  "ACT":
+    name: "کارهای رسولان"
+    slug: "karhay-rswlan"
+  "ROM":
+    name: "رومیان"
+    slug: "rwmyan"
+  "1CO":
+    name: "اول قرنتیان"
+    slug: "awl-qrntyan"
+  "2CO":
+    name: "دوم قرنتیان"
+    slug: "dwm-qrntyan"
+  "GAL":
+    name: "غلاطیان"
+    slug: "ghlatyan"
+  "EPH":
+    name: "افسسیان"
+    slug: "afssyan"
+  "PHP":
+    name: "فیلپیان"
+    slug: "fylpyan"
+  "COL":
+    name: "کولسیان"
+    slug: "kwlsyan"
+  "1TH":
+    name: "تسالونیکیان"
+    slug: "tsalwnykyan"
+  "2TH":
+    name: "2 تسالونیکیان"
+    slug: "2-tsalwnykyan"
+  "1TI":
+    name: "1 تیموتاوس"
+    slug: "1-tymwtaws"
+  "2TI":
+    name: "2 تیموتاوس"
+    slug: "2-tymwtaws"
+  "TIT":
+    name: "تیطس"
+    slug: "tyts"
+  "PHM":
+    name: "فلیمون"
+    slug: "flymwn"
+  "HEB":
+    name: "عبرانیان"
+    slug: "abranyan"
+  "JAS":
+    name: "یعقوب"
+    slug: "yaqwb"
+  "1PE":
+    name: "اول پطرس"
+    slug: "awl-ptrs"
+  "2PE":
+    name: "دوم پطرس"
+    slug: "dwm-ptrs"
+  "1JN":
+    name: "اول یوحنا"
+    slug: "awl-ywhna"
+  "2JN":
+    name: "دوم یوحنا"
+    slug: "dwm-ywhna"
+  "3JN":
+    name: "سوم یوحنا"
+    slug: "swm-ywhna"
+  "JUD":
+    name: "یهودا"
+    slug: "yhwda"
+  "REV":
+    name: "مکاشفهٔ یوحنا"
+    slug: "mkashfh-ywhna"

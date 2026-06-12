@@ -1,0 +1,200 @@
+language: "suz"
+books:
+  "GEN":
+    name: "उत्पत्ती"
+    slug: "utpatti"
+  "EXO":
+    name: "प्रस्‍थान"
+    slug: "prasthana"
+  "LEV":
+    name: "लेवी"
+    slug: "levi"
+  "NUM":
+    name: "गन्‍ती"
+    slug: "ganti"
+  "DEU":
+    name: "ब्‍यवस्‍था"
+    slug: "byavastha"
+  "JOS":
+    name: "यहोसु"
+    slug: "yahosu"
+  "JDG":
+    name: "न्‍यायाधीस"
+    slug: "nyayadhisa"
+  "RUT":
+    name: "रूथ"
+    slug: "rutha"
+  "1SA":
+    name: "१ सामुएल"
+    slug: "1-samuela"
+  "2SA":
+    name: "२ सामुएल"
+    slug: "2-samuela"
+  "1KI":
+    name: "१ राजा"
+    slug: "1-raja"
+  "2KI":
+    name: "२ राजा"
+    slug: "2-raja"
+  "1CH":
+    name: "१ इतिहास"
+    slug: "1-itihasa"
+  "2CH":
+    name: "२ इतिहास"
+    slug: "2-itihasa"
+  "EZR":
+    name: "एज्रा"
+    slug: "ejra"
+  "NEH":
+    name: "नेहेम्‍याह"
+    slug: "nehemyaha"
+  "EST":
+    name: "एस्‍तर"
+    slug: "estara"
+  "JOB":
+    name: "अय्‍युब"
+    slug: "ayyuba"
+  "PSA":
+    name: "भजन संग्रह"
+    slug: "bhajana-samgraha"
+  "PRO":
+    name: "हितोपदेस"
+    slug: "hitopadesa"
+  "ECC":
+    name: "उपदेसक"
+    slug: "upadesaka"
+  "SNG":
+    name: "ठेयब कुम्सो"
+    slug: "theyaba-kumso"
+  "ISA":
+    name: "यसैया"
+    slug: "yasaiya"
+  "JER":
+    name: "येरमीया"
+    slug: "yeramiya"
+  "LAM":
+    name: "बिलाप"
+    slug: "bilapa"
+  "EZK":
+    name: "इजीकीएल"
+    slug: "ijikiela"
+  "DAN":
+    name: "दानीएल"
+    slug: "daniela"
+  "HOS":
+    name: "होसे"
+    slug: "hose"
+  "JOL":
+    name: "योएल"
+    slug: "yoela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "OBA":
+    name: "ओबदिया"
+    slug: "obadiya"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MIC":
+    name: "मीका"
+    slug: "mika"
+  "NAM":
+    name: "नहुम"
+    slug: "nahuma"
+  "HAB":
+    name: "हबकुक"
+    slug: "habakuka"
+  "ZEP":
+    name: "सेफन्‍याह"
+    slug: "sephanyaha"
+  "HAG":
+    name: "हाग्‍गै"
+    slug: "haggai"
+  "ZEC":
+    name: "जकरिया"
+    slug: "jakariya"
+  "MAL":
+    name: "मलाकी"
+    slug: "malaki"
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मर्कूस"
+    slug: "markusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "यूहन्‍ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "प्रेरित"
+    slug: "prerita"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+  "1CO":
+    name: "१ कोरिन्‍थी"
+    slug: "1-korinthi"
+  "2CO":
+    name: "२ कोरिन्‍थी"
+    slug: "2-korinthi"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+  "EPH":
+    name: "एफिसी"
+    slug: "ephisi"
+  "PHP":
+    name: "फिलिप्‍पी"
+    slug: "philippi"
+  "COL":
+    name: "कलस्‍सी"
+    slug: "kalassi"
+  "1TH":
+    name: "१ थिस्‍सलोनिकी"
+    slug: "1-thissaloniki"
+  "2TH":
+    name: "२ थिस्‍सलोनिकी"
+    slug: "2-thissaloniki"
+  "1TI":
+    name: "१ तिमोथी"
+    slug: "1-timothi"
+  "2TI":
+    name: "२ तिमोथी"
+    slug: "2-timothi"
+  "TIT":
+    name: "तीतस"
+    slug: "titasa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "हिब्रू"
+    slug: "hibru"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "१ पत्रुस"
+    slug: "1-patrusa"
+  "2PE":
+    name: "२ पत्रुस"
+    slug: "2-patrusa"
+  "1JN":
+    name: "१ यूहन्‍ना"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "२ यूहन्‍ना"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "३ यूहन्‍ना"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकाश"
+    slug: "prakasa"

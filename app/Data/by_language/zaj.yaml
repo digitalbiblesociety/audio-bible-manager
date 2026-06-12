@@ -1,0 +1,89 @@
+language: "zaj"
+books:
+  "GEN":
+    name: "Mwanduso"
+    slug: "mwanduso"
+  "EXO":
+    name: "Kuhalawa"
+    slug: "kuhalawa"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Sang'hano"
+    slug: "sanghano"
+  "ROM":
+    name: "Waloma"
+    slug: "waloma"
+  "1CO":
+    name: "1Wakolinto"
+    slug: "1wakolinto"
+  "2CO":
+    name: "2Wakolinto"
+    slug: "2wakolinto"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+  "1TH":
+    name: "1Watesalonike"
+    slug: "1watesalonike"
+  "2TH":
+    name: "2Watesalonike"
+    slug: "2watesalonike"
+  "1TI":
+    name: "1Timoteo"
+    slug: "1timoteo"
+  "2TI":
+    name: "2Timoteo"
+    slug: "2timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Waeblania"
+    slug: "waeblania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1Petulo"
+    slug: "1petulo"
+  "2PE":
+    name: "2Petulo"
+    slug: "2petulo"
+  "1JN":
+    name: "1Yohana"
+    slug: "1yohana"
+  "2JN":
+    name: "2Yohana"
+    slug: "2yohana"
+  "3JN":
+    name: "3Yohana"
+    slug: "3yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Lugubulo"
+    slug: "lugubulo"

@@ -1,0 +1,83 @@
+language: "gas"
+books:
+  "MAT":
+    name: "મત્તિ"
+    slug: "matti"
+  "MRK":
+    name: "માર્ક"
+    slug: "marka"
+  "LUK":
+    name: "લુક"
+    slug: "luka"
+  "JHN":
+    name: "યોહાન"
+    slug: "yohana"
+  "ACT":
+    name: "પ્રેરિતોનાં ક્રત્યો"
+    slug: "preritonam-kratyo"
+  "ROM":
+    name: "રોમનોનેં પત્ર"
+    slug: "romanonem-patra"
+  "1CO":
+    name: "1 કરિંથીઓને"
+    slug: "1-karimthione"
+  "2CO":
+    name: "2 કરિંથીઓને"
+    slug: "2-karimthione"
+  "GAL":
+    name: "ગલાતીઓનેં પત્ર"
+    slug: "galationem-patra"
+  "EPH":
+    name: "એફેસીઓને પત્ર"
+    slug: "ephesione-patra"
+  "PHP":
+    name: "ફિલિપ્પીઓનેં પત્ર"
+    slug: "philippionem-patra"
+  "COL":
+    name: "કલોસ્સીઓને પત્ર"
+    slug: "kalossione-patra"
+  "1TH":
+    name: "1 થેસ્સલોનિકીઓનેં"
+    slug: "1-thessalonikionem"
+  "2TH":
+    name: "2 થેસ્સલોનિકીઓનેં"
+    slug: "2-thessalonikionem"
+  "1TI":
+    name: "1 તિમોથીને"
+    slug: "1-timothine"
+  "2TI":
+    name: "2 તિમોથીને"
+    slug: "2-timothine"
+  "TIT":
+    name: "તિતસનં પત્ર"
+    slug: "titasanam-patra"
+  "PHM":
+    name: "ફિલેમોનનેં પત્ર"
+    slug: "philemonanem-patra"
+  "HEB":
+    name: "હિબ્રૂઓનેં પત્ર"
+    slug: "hibruonem-patra"
+  "JAS":
+    name: "યાકૂબ નો"
+    slug: "yakuba-no"
+  "1PE":
+    name: "1 પિતરનો પત્ર"
+    slug: "1-pitarano-patra"
+  "2PE":
+    name: "2 પિતરનો પત્ર"
+    slug: "2-pitarano-patra"
+  "1JN":
+    name: "1 યોહાન"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 યોહાન"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 યોહાન"
+    slug: "3-yohana"
+  "JUD":
+    name: "યહૂદાનો પત્ર"
+    slug: "yahudano-patra"
+  "REV":
+    name: "પ્રકટીકરણ"
+    slug: "prakatikarana"

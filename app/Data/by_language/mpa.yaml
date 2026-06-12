@@ -1,0 +1,83 @@
+language: "mpa"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Matendu"
+    slug: "matendu"
+  "ROM":
+    name: "Bhalumi"
+    slug: "bhalumi"
+  "1CO":
+    name: "1 Bhakolinso"
+    slug: "1-bhakolinso"
+  "2CO":
+    name: "2 Bhakolinso"
+    slug: "2-bhakolinso"
+  "GAL":
+    name: "Bhagalatia"
+    slug: "bhagalatia"
+  "EPH":
+    name: "Bhaefeso"
+    slug: "bhaefeso"
+  "PHP":
+    name: "Bhafilipi"
+    slug: "bhafilipi"
+  "COL":
+    name: "Bhakolosai"
+    slug: "bhakolosai"
+  "1TH":
+    name: "1 Bhasesalonike"
+    slug: "1-bhasesalonike"
+  "2TH":
+    name: "2 Bhasesalonike"
+    slug: "2-bhasesalonike"
+  "1TI":
+    name: "1 Timoseo"
+    slug: "1-timoseo"
+  "2TI":
+    name: "2 Timoseo"
+    slug: "2-timoseo"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimone"
+    slug: "filimone"
+  "HEB":
+    name: "Bhaebulania"
+    slug: "bhaebulania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petulu"
+    slug: "1-petulu"
+  "2PE":
+    name: "2 Petulu"
+    slug: "2-petulu"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Uyekuliku"
+    slug: "uyekuliku"

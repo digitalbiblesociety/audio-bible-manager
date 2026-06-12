@@ -1,0 +1,110 @@
+language: "otr"
+books:
+  "MAT":
+    name: "maṯa"
+    slug: "mata"
+    name_toc: "maṯa"
+  "MRK":
+    name: "markus"
+    slug: "markus"
+    name_toc: "markus"
+  "LUK":
+    name: "luka"
+    slug: "luka"
+    name_toc: "luka"
+  "JHN":
+    name: "yuwana"
+    slug: "yuwana"
+    name_toc: "yuwana"
+  "ACT":
+    name: "ŋɩru ŋun ŋapɩlo duwəjo"
+    slug: "ru-un-aplo-duwejo"
+    name_toc: "ŋɩru ŋun ŋapɩlo duwəjo"
+  "ROM":
+    name: "rumiya"
+    slug: "rumiya"
+    name_toc: "rumiya"
+  "1CO":
+    name: "1 kurinṯus"
+    slug: "1-kurintus"
+    name_toc: "1 kurinṯus"
+  "2CO":
+    name: "2 kurinṯus"
+    slug: "2-kurintus"
+    name_toc: "2 kurinṯus"
+  "GAL":
+    name: "galaṯia"
+    slug: "galatia"
+    name_toc: "galaṯia"
+  "EPH":
+    name: "awisus"
+    slug: "awisus"
+    name_toc: "awisus"
+  "PHP":
+    name: "bilibi"
+    slug: "bilibi"
+    name_toc: "bilibi"
+  "COL":
+    name: "kulusi"
+    slug: "kulusi"
+    name_toc: "kulusi"
+  "1TH":
+    name: "1 ṯasaluniki"
+    slug: "1-tasaluniki"
+    name_toc: "1 ṯasaluniki"
+  "2TH":
+    name: "2 ṯasaluniki"
+    slug: "2-tasaluniki"
+    name_toc: "2 ṯasaluniki"
+  "1TI":
+    name: "1 ṯimuṯawus"
+    slug: "1-timutawus"
+    name_toc: "1 ṯimuṯawus"
+  "2TI":
+    name: "2 ṯimuṯawus"
+    slug: "2-timutawus"
+    name_toc: "2 ṯimuṯawus"
+  "TIT":
+    name: "ṯitusŋ"
+    slug: "titus"
+    name_toc: "ṯitusŋ"
+  "PHM":
+    name: "bilimun"
+    slug: "bilimun"
+    name_toc: "bilimun"
+  "HEB":
+    name: "lɩbrani"
+    slug: "lbrani"
+    name_toc: "lɩbrani"
+  "JAS":
+    name: "yagub"
+    slug: "yagub"
+    name_toc: "yagub"
+  "1PE":
+    name: "1 buṯrus"
+    slug: "1-butrus"
+    name_toc: "1 buṯrus"
+  "2PE":
+    name: "2 buṯrus"
+    slug: "2-butrus"
+    name_toc: "2 buṯrus"
+  "1JN":
+    name: "1 yuwana"
+    slug: "1-yuwana"
+    name_toc: "1 yuwana"
+  "2JN":
+    name: "2 yuwana"
+    slug: "2-yuwana"
+    name_toc: "2 yuwana"
+  "3JN":
+    name: "3 yuwana"
+    slug: "3-yuwana"
+    name_toc: "3 yuwana"
+  "JUD":
+    name: "yauḏa"
+    slug: "yauda"
+    name_toc: "yauḏa"
+  "REV":
+    name: "ŋuɽun ŋun ŋaŋinu"
+    slug: "uun-un-ainu"
+    name_toc: "ŋuɽun ŋun ŋaŋinu"

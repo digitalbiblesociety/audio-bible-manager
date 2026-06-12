@@ -1,0 +1,314 @@
+language: "kdi"
+books:
+  "GEN":
+    name: "Ageini"
+    slug: "ageini"
+    name_toc: "Ageini"
+  "EXO":
+    name: "Yai"
+    slug: "yai"
+    name_toc: "Yai"
+  "LEV":
+    name: "Jolebi"
+    slug: "jolebi"
+    name_toc: "Jolebi"
+  "NUM":
+    name: "Wel"
+    slug: "wel"
+    name_toc: "Wel"
+  "DEU":
+    name: "Iswilia"
+    slug: "iswilia"
+    name_toc: "Iswilia"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Itabu Ka Yosua"
+  "JDG":
+    name: "Jongolkop"
+    slug: "jongolkop"
+    name_toc: "Itabu Me Jongolkop"
+  "RUT":
+    name: "Lusi"
+    slug: "lusi"
+    name_toc: "Itabu Ka Lusi"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Itabu Me Agege Ka Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Itabu Me Are Ka Samuel"
+  "1KI":
+    name: "1 Abakai"
+    slug: "1-abakai"
+    name_toc: "Itabu Me Agege Me Abakai"
+  "2KI":
+    name: "2 Abakai"
+    slug: "2-abakai"
+    name_toc: "Itabu Me Are Me Abakai"
+  "1CH":
+    name: "1 Iyutun"
+    slug: "1-iyutun"
+    name_toc: "Itabu Me Agege Me Iyutun"
+  "2CH":
+    name: "2 Iyutun"
+    slug: "2-iyutun"
+    name_toc: "Itabu Me Are Me Iyutun"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+    name_toc: "Itabu Ka Esera"
+  "NEH":
+    name: "Nekemia"
+    slug: "nekemia"
+    name_toc: "Itabu Ka Nekemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Itabu Ka Esita"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Itabu Ka Yobu"
+  "PSA":
+    name: "Sabuli"
+    slug: "sabuli"
+    name_toc: "Sabuli"
+  "PRO":
+    name: "Agole"
+    slug: "agole"
+    name_toc: "Itabu Me Agole"
+  "ECC":
+    name: "Ngarab kop"
+    slug: "ngarab-kop"
+    name_toc: "Itabu Me Ngarab Kop"
+  "SNG":
+    name: "Wer amit"
+    slug: "wer-amit"
+    name_toc: "Wer Amit"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Itabu Ka Isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Itabu Ka Yeremia"
+  "LAM":
+    name: "Koko ka Yeremia"
+    slug: "koko-ka-yeremia"
+    name_toc: "Itabu Me Koko"
+  "EZK":
+    name: "Esekeri"
+    slug: "esekeri"
+    name_toc: "Itabu Ka Esekeri"
+  "DAN":
+    name: "Danieri"
+    slug: "danieri"
+    name_toc: "Itabu Ka Danieri"
+  "HOS":
+    name: "Kosea"
+    slug: "kosea"
+    name_toc: "Itabu Ka Kosea"
+  "JOL":
+    name: "Yoweri"
+    slug: "yoweri"
+    name_toc: "Itabu Ka Yoweri"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Itabu Ka Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Itabu Ka Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Itabu Ka Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Itabu Ka Mika"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+    name_toc: "Itabu Ka Nakum"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Itabu Ka Abakuk"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Itabu Ka Sepania"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+    name_toc: "Itabu Ka Agai"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "Itabu Ka Sakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Itabu Ka Malaki"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Itabu Ka Tobit"
+  "JDT":
+    name: "Yudis"
+    slug: "yudis"
+    name_toc: "Itabu Ka Yudis"
+  "ESG":
+    name: "Esita (gurik)"
+    slug: "esita-gurik"
+    name_toc: "Itabu Ka Esita"
+  "WIS":
+    name: "Rieko"
+    slug: "rieko"
+    name_toc: "Rieko Ka Sulumani"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+    name_toc: "Itabu Ka Sira"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Itabu Ka Baruk"
+  "LJE":
+    name: "Baluwa ka Yeremia"
+    slug: "baluwa-ka-yeremia"
+    name_toc: "Baluwa Ka Yeremia"
+  "S3Y":
+    name: "Wer me awobe adek"
+    slug: "wer-me-awobe-adek"
+    name_toc: "Ilega Ka Asaria Kede Wer Me Awobe Adek"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Itabu Ka Susana"
+  "BEL":
+    name: "Bel kedeTwol"
+    slug: "bel-kedetwol"
+    name_toc: "Bel kede Twol kiyiliyili"
+  "1MA":
+    name: "1 Makabi"
+    slug: "1-makabi"
+    name_toc: "Itabu Me Agege Ka Makabi"
+  "2MA":
+    name: "2 Makabi"
+    slug: "2-makabi"
+    name_toc: "Itabu Me Are Ka Makabi"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Ejiri Kame Matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+    name_toc: "Ejiri Kame Marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ejiri Kame Luka"
+  "JHN":
+    name: "Yokana"
+    slug: "yokana"
+    name_toc: "Ejiri Kame Yokana"
+  "ACT":
+    name: "Tice"
+    slug: "tice"
+    name_toc: "Tice"
+  "ROM":
+    name: "Joroma"
+    slug: "joroma"
+    name_toc: "Baluwa Ka Paulo But Joroma"
+  "1CO":
+    name: "1 Jokorinti"
+    slug: "1-jokorinti"
+    name_toc: "Baluwa Ka Paulo Me Agege But Jokorinti"
+  "2CO":
+    name: "2 Jokorinti"
+    slug: "2-jokorinti"
+    name_toc: "Baluwa Ka Paulo Me Are But Jokorinti"
+  "GAL":
+    name: "Jogalatia"
+    slug: "jogalatia"
+    name_toc: "Baluwa Ka Paulo But Jogalatia"
+  "EPH":
+    name: "Joepeso"
+    slug: "joepeso"
+    name_toc: "Baluwa Ka Paulo But Joepeso"
+  "PHP":
+    name: "Jopilipi"
+    slug: "jopilipi"
+    name_toc: "Baluwa Ka Paulo But Jopilipi"
+  "COL":
+    name: "Jokolosai"
+    slug: "jokolosai"
+    name_toc: "Baluwa Ka Paulo But Jokolosai"
+  "1TH":
+    name: "1 Jotesalonika"
+    slug: "1-jotesalonika"
+    name_toc: "Baluwa Ka Paulo Me Agege But Jotesalonika"
+  "2TH":
+    name: "2 Jotesalonika"
+    slug: "2-jotesalonika"
+    name_toc: "Baluwa Ka Paulo Me Are But Jotesalonika"
+  "1TI":
+    name: "1 Temeseo"
+    slug: "1-temeseo"
+    name_toc: "Baluwa Ka Paulo Me Agege But Temeseo"
+  "2TI":
+    name: "2 Temeseo"
+    slug: "2-temeseo"
+    name_toc: "Baluwa Ka Paulo Me Are But Temeseo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Baluwa Ka Paulo But Tito"
+  "PHM":
+    name: "Epirimoni"
+    slug: "epirimoni"
+    name_toc: "Baluwa Ka Paulo But Epirimoni"
+  "HEB":
+    name: "Iburanian"
+    slug: "iburanian"
+    name_toc: "Baluwa Kame Kowandiko But Iburanian"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Baluwa Kowok Kibut Yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Baluwa Me Agege Kowok Kibut Petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Baluwa Me Are Kowok Kibut Petero"
+  "1JN":
+    name: "1 Yokana"
+    slug: "1-yokana"
+    name_toc: "Baluwa Me Agege Kowok Kibut Yokana"
+  "2JN":
+    name: "2 Yokana"
+    slug: "2-yokana"
+    name_toc: "Baluwa Me Are Kowok Kibut Yokana"
+  "3JN":
+    name: "3 Yokana"
+    slug: "3-yokana"
+    name_toc: "Baluwa Me Adek Kowok Kibut Yokana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Baluwa Kowok Kibut Yuda"
+  "REV":
+    name: "Gianyuta"
+    slug: "gianyuta"
+    name_toc: "Gianyuta But"

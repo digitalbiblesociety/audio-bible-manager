@@ -1,0 +1,83 @@
+language: "bax"
+books:
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+  "ACT":
+    name: "Actes"
+    slug: "actes"
+  "ROM":
+    name: "Romains"
+    slug: "romains"
+  "1CO":
+    name: "1 Corinthiens"
+    slug: "1-corinthiens"
+  "2CO":
+    name: "2 Corinthiens"
+    slug: "2-corinthiens"
+  "GAL":
+    name: "Galates"
+    slug: "galates"
+  "EPH":
+    name: "Éphésiens"
+    slug: "ephesiens"
+  "PHP":
+    name: "Philippiens"
+    slug: "philippiens"
+  "COL":
+    name: "Colossiens"
+    slug: "colossiens"
+  "1TH":
+    name: "1 Thessaloniciens"
+    slug: "1-thessaloniciens"
+  "2TH":
+    name: "2 Thessaloniciens"
+    slug: "2-thessaloniciens"
+  "1TI":
+    name: "1 Timothée"
+    slug: "1-timothee"
+  "2TI":
+    name: "2 Timothée"
+    slug: "2-timothee"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Philémon"
+    slug: "philemon"
+  "HEB":
+    name: "Hébreux"
+    slug: "hebreux"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1-pierre"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2-pierre"
+  "1JN":
+    name: "1 Jean"
+    slug: "1-jean"
+  "2JN":
+    name: "2 Jean"
+    slug: "2-jean"
+  "3JN":
+    name: "3 Jean"
+    slug: "3-jean"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Apocalypse"
+    slug: "apocalypse"

@@ -1,0 +1,86 @@
+language: "ncq"
+books:
+  "PRO":
+    name: "ປັຣນາຍ ປາລີ່ ພາຍາ"
+    slug: "pannay-pali-phanya"
+  "MAT":
+    name: "ມັດທາຍ"
+    slug: "matthay"
+  "MRK":
+    name: "ມາຣະໂກ"
+    slug: "marako"
+  "LUK":
+    name: "ລູກາ"
+    slug: "luka"
+  "JHN":
+    name: "ໂຢຮັນ"
+    slug: "yohan"
+  "ACT":
+    name: "ຣານະ ຕະ"
+    slug: "rana-ta"
+  "ROM":
+    name: "ໂຣມ"
+    slug: "rom"
+  "1CO":
+    name: "ໂກຣິນໂທ ມວຍ"
+    slug: "korintho-muany"
+  "2CO":
+    name: "ໂກຣິນໂທ ບາຣ"
+    slug: "korintho-ban"
+  "GAL":
+    name: "ຄາລາເຕຍ"
+    slug: "khalatey"
+  "EPH":
+    name: "ເອເພໂຊ"
+    slug: "epheso"
+  "PHP":
+    name: "ພີລິບປອຍ"
+    slug: "philippony"
+  "COL":
+    name: "ໂກໂລຊາຍ"
+    slug: "kolosay"
+  "1TH":
+    name: "ເທຊະໂລນິກ ມວຍ"
+    slug: "thesalonik-muany"
+  "2TH":
+    name: "ເທຊະໂລນິກ ບາຣ"
+    slug: "thesalonik-ban"
+  "1TI":
+    name: "ຕີໂມທຽວ ມວຍ"
+    slug: "timothiao-muany"
+  "2TI":
+    name: "ຕີໂມທຽວ ບາຣ"
+    slug: "timothiao-ban"
+  "TIT":
+    name: "ຕີໂຕ"
+    slug: "tito"
+  "PHM":
+    name: "ພີເລໂມນ"
+    slug: "philemon"
+  "HEB":
+    name: "ເຮັບເຣີ"
+    slug: "hepr"
+  "JAS":
+    name: "ຢາໂກໂບ"
+    slug: "yakobo"
+  "1PE":
+    name: "ເປໂຕ ມວຍ"
+    slug: "peto-muany"
+  "2PE":
+    name: "ເປໂຕ ບາຣ"
+    slug: "peto-ban"
+  "1JN":
+    name: "ໂຢຮັນ ມວຍ"
+    slug: "yohan-muany"
+  "2JN":
+    name: "ໂຢຮັນ ບາຣ"
+    slug: "yohan-ban"
+  "3JN":
+    name: "ໂຢຮັນ ໄປ"
+    slug: "yohan-pai"
+  "JUD":
+    name: "ຢູດາ"
+    slug: "yuda"
+  "REV":
+    name: "ອາປັຮ ເລືາຍ"
+    slug: "apah-leuay"

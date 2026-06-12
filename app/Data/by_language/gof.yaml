@@ -1,0 +1,200 @@
+language: "gof"
+books:
+  "GEN":
+    name: "መተ"
+    slug: "mata"
+  "EXO":
+    name: "Kessa"
+    slug: "kessa"
+  "LEV":
+    name: "ሌወታ"
+    slug: "lewata"
+  "NUM":
+    name: "ታይቦ"
+    slug: "tayebo"
+  "DEU":
+    name: "ዛረ"
+    slug: "zara"
+  "JOS":
+    name: "እያሱ"
+    slug: "eyasu"
+  "JDG":
+    name: "አይሰይሳታ"
+    slug: "ayesayesata"
+  "RUT":
+    name: "ኡሩቶ"
+    slug: "uruto"
+  "1SA":
+    name: "1 ሳሜላ"
+    slug: "1-samela"
+  "2SA":
+    name: "2 ሳሜላ"
+    slug: "2-samela"
+  "1KI":
+    name: "1 ካዎታ"
+    slug: "1-kawota"
+  "2KI":
+    name: "2 ካዎታ"
+    slug: "2-kawota"
+  "1CH":
+    name: "1 ታርከ"
+    slug: "1-tareka"
+  "2CH":
+    name: "2 ታርከ"
+    slug: "2-tareka"
+  "EZR":
+    name: "እዝራ"
+    slug: "ezera"
+  "NEH":
+    name: "ናህመ"
+    slug: "nahema"
+  "EST":
+    name: "አስትሮ"
+    slug: "asetero"
+  "JOB":
+    name: "እዮባ"
+    slug: "eyoba"
+  "PSA":
+    name: "ማዝሙረ"
+    slug: "mazemura"
+  "PRO":
+    name: "ሌምሶ"
+    slug: "lemeso"
+  "ECC":
+    name: "ኤራታ"
+    slug: "erata"
+  "SNG":
+    name: "ሶሎሞነ"
+    slug: "solomona"
+  "ISA":
+    name: "እሳያሳ"
+    slug: "esayasa"
+  "JER":
+    name: "ኤርምያሳ"
+    slug: "eremeyasa"
+  "LAM":
+    name: "ምላልሳ"
+    slug: "melalesa"
+  "EZK":
+    name: "ህዝቄላ"
+    slug: "hezeqela"
+  "DAN":
+    name: "ዳነላ"
+    slug: "danala"
+  "HOS":
+    name: "Hose"
+    slug: "hose"
+  "JOL":
+    name: "እዩኤላ"
+    slug: "eyuela"
+  "AMO":
+    name: "አሞፀ"
+    slug: "amoda"
+  "OBA":
+    name: "አብድዩ"
+    slug: "abedeyu"
+  "JON":
+    name: "ዮናሳ"
+    slug: "yonasa"
+  "MIC":
+    name: "ምክያሳ"
+    slug: "mekeyasa"
+  "NAM":
+    name: "ናሆመ"
+    slug: "nahoma"
+  "HAB":
+    name: "እንባቆመ"
+    slug: "enebaqoma"
+  "ZEP":
+    name: "ሶፎናሳ"
+    slug: "sofonasa"
+  "HAG":
+    name: "Hagge"
+    slug: "hagge"
+  "ZEC":
+    name: "ዛካርያሳ"
+    slug: "zakareyasa"
+  "MAL":
+    name: "ምልክያሳ"
+    slug: "melekeyasa"
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዮሃኒሳ"
+    slug: "yohanisa"
+  "ACT":
+    name: "ሃዋሬታ ኦሱዋ"
+    slug: "hawareta-osuwa"
+  "ROM":
+    name: "ሮሜ"
+    slug: "rome"
+  "1CO":
+    name: "1 ቆሮንቶሳ"
+    slug: "1-qoronetosa"
+  "2CO":
+    name: "2 ቆሮንቶሳ"
+    slug: "2-qoronetosa"
+  "GAL":
+    name: "ጋላቲያ"
+    slug: "galatiya"
+  "EPH":
+    name: "ኤፌሶና"
+    slug: "efesona"
+  "PHP":
+    name: "ፊልጲሲዩሳ"
+    slug: "filepisiyusa"
+  "COL":
+    name: "ቆላሲያሳ"
+    slug: "qolasiyasa"
+  "1TH":
+    name: "1 ቴሴሎንቄ"
+    slug: "1-teseloneqe"
+  "2TH":
+    name: "2 ቴሴሎንቄ"
+    slug: "2-teseloneqe"
+  "1TI":
+    name: "1 ፂሞቲዮሳ"
+    slug: "1-dimotiyosa"
+  "2TI":
+    name: "2 ፂሞቲዮሳ"
+    slug: "2-dimotiyosa"
+  "TIT":
+    name: "ቲቶ"
+    slug: "tito"
+  "PHM":
+    name: "ፊልሞና"
+    slug: "filemona"
+  "HEB":
+    name: "ኢብራዌ"
+    slug: "iberawe"
+  "JAS":
+    name: "ያይቆባ"
+    slug: "yayeqoba"
+  "1PE":
+    name: "1 ጴፂሮሳ"
+    slug: "1-pedirosa"
+  "2PE":
+    name: "2 ጴፂሮሳ"
+    slug: "2-pedirosa"
+  "1JN":
+    name: "1 ዮሃኒሳ"
+    slug: "1-yohanisa"
+  "2JN":
+    name: "2 ዮሃኒሳ"
+    slug: "2-yohanisa"
+  "3JN":
+    name: "3 ዮሃኒሳ"
+    slug: "3-yohanisa"
+  "JUD":
+    name: "ዪሁዳ"
+    slug: "yihuda"
+  "REV":
+    name: "ዮሃኒሳ ቆንጬ"
+    slug: "yohanisa-qonece"

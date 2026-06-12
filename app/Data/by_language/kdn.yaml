@@ -1,0 +1,14 @@
+language: "kdn"
+books:
+  "GEN":
+    name: "Kuyamba"
+    slug: "kuyamba"
+    name_toc: "Buku la Kuyamba"
+  "JOS":
+    name: "Joshuwa"
+    slug: "joshuwa"
+    name_toc: "Bhuku la Joshuwa"
+  "PSA":
+    name: "Nyimbo"
+    slug: "nyimbo"
+    name_toc: "Bhuku la Nyimbo"

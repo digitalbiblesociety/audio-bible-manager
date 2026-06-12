@@ -1,0 +1,266 @@
+language: "pko"
+books:
+  "GEN":
+    name: "Towunöt"
+    slug: "towunot"
+    name_toc: "Hagai"
+  "EXO":
+    name: "Wuwöt"
+    slug: "wuwot"
+    name_toc: "Sakaria"
+  "LEV":
+    name: "Lawin"
+    slug: "lawin"
+    name_toc: "Maleaki"
+  "NUM":
+    name: "Kiyitut"
+    slug: "kiyitut"
+    name_toc: "Nuntu Ngkatuwu Anu Naparata I Matiu"
+  "DEU":
+    name: "Kinono Kirurut"
+    slug: "kinono-kirurut"
+    name_toc: "Nuntu Ngkatuwu Anu Naparata I Marakusi"
+  "JOS":
+    name: "Yoswö"
+    slug: "yoswo"
+    name_toc: "Nuntu Ngkatuwu Anu Naparata I Lukasi"
+  "JDG":
+    name: "Kirwokï"
+    slug: "kirwoki"
+    name_toc: "Nuntu Ngkatuwu Anu Naparata I Yohane"
+  "RUT":
+    name: "Rus"
+    slug: "rus"
+    name_toc: "Potetala Wa'a Ncuro"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Dompu Ri Roma"
+  "2SA":
+    name: "2 Samwel"
+    slug: "2-samwel"
+    name_toc: "Sura I Mpaulu Anu Ka'isa Rata Ri Dompu Ri Korinti"
+  "1KI":
+    name: "1 Pöytoghï"
+    slug: "1-poytoghi"
+    name_toc: "Sura I Mpaulu Anu Karadua Rata Ri Dompu Ri Korinti"
+  "2KI":
+    name: "2 Pöytoghï"
+    slug: "2-poytoghi"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Dompu Ri Galatia"
+  "1CH":
+    name: "1 Otöptino Osis"
+    slug: "1-otoptino-osis"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Dompu Ri Epesu"
+  "2CH":
+    name: "2 Otöptino Osis"
+    slug: "2-otoptino-osis"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Dompu Ri Pilipi"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Dompu Ri Kolose"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+    name_toc: "Sura I Mpaulu Anu Ka'isa Rata Ri Dompu Ri Tesalonika"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Sura I Mpaulu Anu Karadua Rata Ri Dompu Ri Tesalonika"
+  "JOB":
+    name: "Ayupu"
+    slug: "ayupu"
+    name_toc: "Sura I Mpaulu Anu Ka'isa Rata Ri Timotiu"
+  "PSA":
+    name: "Tumwöy"
+    slug: "tumwoy"
+    name_toc: "Sura I Mpaulu Anu Karadua Rata Ri Timotiu"
+  "PRO":
+    name: "Ngötïnyö"
+    slug: "ngotinyo"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Titu"
+  "ECC":
+    name: "Omtoghin"
+    slug: "omtoghin"
+    name_toc: "Sura I Mpaulu Anu Rata Ri Pilemo"
+  "SNG":
+    name: "Tum Pö Tumwöy"
+    slug: "tum-po-tumwoy"
+    name_toc: "Sura Anu Rata Ri To Ibarani"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Sura I Yakobu"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Sura I Mpeturu Anu Ka'isa"
+  "LAM":
+    name: "Lok"
+    slug: "lok"
+    name_toc: "Sura I Mpeturu Anu Karadua I Mpeturu"
+  "EZK":
+    name: "Esekel"
+    slug: "esekel"
+    name_toc: "Sura I Yohane Anu Ka'isa"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Sura I Yohane Anu Karadua"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+    name_toc: "Sura I Yohane Anu Katatogo"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Sura I Yudasi"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Pepatongawa Ri Yohane"
+  "OBA":
+    name: "Opadia"
+    slug: "opadia"
+    name_toc: "Purmeru Libru di Moisés Comadu - Kumsada"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Sugundu Libru di Moisés Comadu - Saida"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Terseru Libru di Moisés Comadu - Sirmonias"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+    name_toc: "Kuartu Libru di Moisés Comadu - Numerus"
+  "HAB":
+    name: "Apakuk"
+    slug: "apakuk"
+    name_toc: "Kintu Libru di Moisés Comadu - Ripitison di Lei"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Libru di Josué"
+  "HAG":
+    name: "Akay"
+    slug: "akay"
+    name_toc: "Libru di Ŝefis"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "Libru di Ruti"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Purmeru Libru di Samuel"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Sugundu Libru di Samuel"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Purmeru Libru di Reis"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Sugundu Libru di Reis"
+  "JHN":
+    name: "Yoana"
+    slug: "yoana"
+    name_toc: "Purmeru Libru di Kronikas"
+  "ACT":
+    name: "Ighisyewut"
+    slug: "ighisyewut"
+    name_toc: "Sugundu Libru di Kronikas"
+  "ROM":
+    name: "Rumi"
+    slug: "rumi"
+    name_toc: "Libru di Esdras"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+    name_toc: "Libru di Neemias"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+    name_toc: "Libru di Ester"
+  "GAL":
+    name: "Kalatia"
+    slug: "kalatia"
+    name_toc: "Libru di Jo"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+    name_toc: "Libru di Salmus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Ditus di Salomon"
+  "COL":
+    name: "Kolosay"
+    slug: "kolosay"
+    name_toc: "Libru di Eklesiastis o di Filósofu"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+    name_toc: "Kantiga di Salomon"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+    name_toc: "Isaias"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Jeremias"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Miskiñu di Jeremias"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ezekiel"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Daniel"
+  "HEB":
+    name: "Eprania"
+    slug: "eprania"
+    name_toc: "Oseias"
+  "JAS":
+    name: "Yakopo"
+    slug: "yakopo"
+    name_toc: "Joel"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Amos"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Obadias"
+  "1JN":
+    name: "1 Yoana"
+    slug: "1-yoana"
+    name_toc: "Jonas"
+  "2JN":
+    name: "2 Yoana"
+    slug: "2-yoana"
+    name_toc: "Mikeias"
+  "3JN":
+    name: "3 Yoana"
+    slug: "3-yoana"
+    name_toc: "Naun"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Abakuk"
+  "REV":
+    name: "Ngongut"
+    slug: "ngongut"
+    name_toc: "Sofonias"

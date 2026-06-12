@@ -1,0 +1,266 @@
+language: "nnb"
+books:
+  "GEN":
+    name: "Enzũko"
+    slug: "enzuko"
+    name_toc: "Ekitabu Kyʼerĩtsũka Kya Musa, Kikahulawa Mo ‘Enzũko’"
+  "EXO":
+    name: "Erĩlũayo"
+    slug: "eriluayo"
+    name_toc: "Ekitabu Ky’akabiri Kya Musa, ‘Erĩlũayo’"
+  "LEV":
+    name: "Abalawĩ"
+    slug: "abalawi"
+    name_toc: "Ekitabu Ky’akasatu Kya Musa, Abalawĩ"
+  "NUM":
+    name: "Emiganzo"
+    slug: "emiganzo"
+    name_toc: "Ekitabu Ky’ebini Kya Musa, Emiganzo"
+  "DEU":
+    name: "Eryibuka Ebihano"
+    slug: "eryibuka-ebihano"
+    name_toc: "Ekitabu Ky’akatanu Kya Musa, Eryibuka Ebihano"
+  "JOS":
+    name: "Yosũa"
+    slug: "yosua"
+    name_toc: "Ekitabu Kya Yosũa"
+  "JDG":
+    name: "Abatswerĩ"
+    slug: "abatsweri"
+    name_toc: "Ekitabu Ky’abatswerĩ"
+  "RUT":
+    name: "Rũta"
+    slug: "ruta"
+    name_toc: "Ekitabu Kya Rũta"
+  "1SA":
+    name: "1 Samwelĩ"
+    slug: "1-samweli"
+    name_toc: "Ekitabu Ky’erĩmbere Kya Samwelĩ"
+  "2SA":
+    name: "2 Samwelĩ"
+    slug: "2-samweli"
+    name_toc: "Ekitabu Ky’akabiri Kya Samwelĩ"
+  "1KI":
+    name: "1 Abami"
+    slug: "1-abami"
+    name_toc: "Ekitabu Ky’erĩmbere Ky’abami"
+  "2KI":
+    name: "2 Abami"
+    slug: "2-abami"
+    name_toc: "Ekitabu Ky’akabiri Ky’abami"
+  "1CH":
+    name: "1 Emyatsi yʼEmigulu"
+    slug: "1-emyatsi-yemigulu"
+    name_toc: "Ekitabu Ky’erimbere Ky’emyatsi Y’emigulu"
+  "2CH":
+    name: "2 Emyatsi yʼEmigulu"
+    slug: "2-emyatsi-yemigulu"
+    name_toc: "Ekitabu Ky’akabiri Ky’emyatsi Y’emigulu"
+  "EZR":
+    name: "Ezera"
+    slug: "ezera"
+    name_toc: "Ekitabu Kya Ezera"
+  "NEH":
+    name: "Nehemĩa"
+    slug: "nehemia"
+    name_toc: "Ekitabu Kya Nehemĩa"
+  "EST":
+    name: "Esĩterĩ"
+    slug: "esiteri"
+    name_toc: "Ekitabu Kya Esĩterĩ"
+  "JOB":
+    name: "Yobũ"
+    slug: "yobu"
+    name_toc: "Ekitabu Kya Yobũ"
+  "PSA":
+    name: "Sauma"
+    slug: "sauma"
+    name_toc: "Sauma"
+  "PRO":
+    name: "Emĩsyo"
+    slug: "emisyo"
+    name_toc: "Emĩsyo"
+  "ECC":
+    name: "Omũgambũlĩ"
+    slug: "omugambuli"
+    name_toc: "Omũgambũlĩ"
+  "SNG":
+    name: "Olwimbo lwʼEsyonyimbo"
+    slug: "olwimbo-lwesyonyimbo"
+    name_toc: "Olwimbo Lw’esyonyimbo"
+  "ISA":
+    name: "Ĩsaya"
+    slug: "isaya"
+    name_toc: "Ekitabu Ky’omũmĩnyererĩ Ĩsaya"
+  "JER":
+    name: "Yeremĩa"
+    slug: "yeremia"
+    name_toc: "Ekitabu Ky’omũmĩnyererĩ Yeremĩa"
+  "LAM":
+    name: "Ekiriro"
+    slug: "ekiriro"
+    name_toc: "Ekiriro Kya Yeremĩa"
+  "EZK":
+    name: "Ezekĩelĩ"
+    slug: "ezekieli"
+    name_toc: "Ekitabu Ky’omũmĩnyererĩ Ezekĩelĩ"
+  "DAN":
+    name: "Danĩelĩ"
+    slug: "danieli"
+    name_toc: "Ekitabu Kya Danĩelĩ"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ekitabu Kya Hosea"
+  "JOL":
+    name: "Yoelĩ"
+    slug: "yoeli"
+    name_toc: "Ekitabu Kya Yoelĩ"
+  "AMO":
+    name: "Amosĩ"
+    slug: "amosi"
+    name_toc: "Ekitabu Kya Amosĩ"
+  "OBA":
+    name: "Obadĩa"
+    slug: "obadia"
+    name_toc: "Ekitabu Kya Obadĩa"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Ekitabu Kya Yona"
+  "MIC":
+    name: "Mĩka"
+    slug: "mika"
+    name_toc: "Ekitabu Kya Mĩka"
+  "NAM":
+    name: "Nahũmũ"
+    slug: "nahumu"
+    name_toc: "Ekitabu Kya Nahũmũ"
+  "HAB":
+    name: "Habakũkĩ"
+    slug: "habakuki"
+    name_toc: "Ekitabu Kya Habakũkĩ"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Ekitabu Kya Zefania"
+  "HAG":
+    name: "Hagaĩ"
+    slug: "hagai"
+    name_toc: "Ekitabu Kya Hagaĩ"
+  "ZEC":
+    name: "Zekarĩa"
+    slug: "zekaria"
+    name_toc: "Ekitabu Kya Zekarĩa"
+  "MAL":
+    name: "Malakĩ"
+    slug: "malaki"
+    name_toc: "Ekitabu Kya Malakĩ"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Engulu Yowene Ngoko Yasakawa Na Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Engulu Yowene Ngoko Yasakawa Na Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Engulu Yowene Ngoko Yasakawa Na Luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Engulu Yowene Ngoko Yasakawa Na Yoane"
+  "ACT":
+    name: "Emibiri"
+    slug: "emibiri"
+    name_toc: "Emibiri Ya Bakwenda"
+  "ROM":
+    name: "AbanyaRoma"
+    slug: "abanyaroma"
+    name_toc: "Ebarua Ya Paulo Uku Abanyaroma"
+  "1CO":
+    name: "1 AbanyaKorinto"
+    slug: "1-abanyakorinto"
+    name_toc: "Ebarua Yerimbere Ya Paulo Uku AbanyaKorinto"
+  "2CO":
+    name: "2 AbanyaKorinto"
+    slug: "2-abanyakorinto"
+    name_toc: "Ebarua Ya Kabiri Ya Paulo Uku Abanyakorinto"
+  "GAL":
+    name: "AbanyaGalatia"
+    slug: "abanyagalatia"
+    name_toc: "Ebarua Ya Paulo Uku Abanyagalatia"
+  "EPH":
+    name: "AbanyaEfeso"
+    slug: "abanyaefeso"
+    name_toc: "Ebarua Ya Paulo Uku Abanyaefeso"
+  "PHP":
+    name: "AbanyaFilipi"
+    slug: "abanyafilipi"
+    name_toc: "Ebarua Ya Paulo Uku Abanyafilipi"
+  "COL":
+    name: "AbanyaKolosai"
+    slug: "abanyakolosai"
+    name_toc: "Ebarua Ya Paulo Uku Abanyakolosai"
+  "1TH":
+    name: "1 AbanyaTesalonika"
+    slug: "1-abanyatesalonika"
+    name_toc: "Ebarua Yerimbere Ya Paulo Uku Abanyatesalonika"
+  "2TH":
+    name: "2 AbanyaTesalonika"
+    slug: "2-abanyatesalonika"
+    name_toc: "Ebarua Ya Kabiri Ya Paulo Uku Abanyatesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Ebarua Yerimbere Ya Paulo Uku Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ebarua Ya Kabiri Ya Paulo Uku Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ebarua Ya Paulo Uku Tito"
+  "PHM":
+    name: "Filemono"
+    slug: "filemono"
+    name_toc: "Ebarua Ya Paulo Uku Filemono"
+  "HEB":
+    name: "AbaEbrania"
+    slug: "abaebrania"
+    name_toc: "Ebarua Uku Abaebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Ebarua Ya Yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Ebarua Yerimbere Ya Petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Ebarua Ya Kabiri Ya Petero"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Ebarua Yerimbere Ya Yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Ebarua Ya Kabiri Ya Yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Ebarua Ya Kasatu Ya Yoane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ebarua Ya Yuda"
+  "REV":
+    name: "Eribisurirwa"
+    slug: "eribisurirwa"
+    name_toc: "Eribisurirwa Ku Yoane"

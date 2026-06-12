@@ -1,0 +1,83 @@
+language: "tyx"
+books:
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+  "MRK":
+    name: "Mareke"
+    slug: "mareke"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Dzã"
+    slug: "dza"
+  "ACT":
+    name: "Bigyighili"
+    slug: "bigyighili"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "1 Korente"
+    slug: "1-korente"
+  "2CO":
+    name: "2 Korente"
+    slug: "2-korente"
+  "GAL":
+    name: "Ngalate"
+    slug: "ngalate"
+  "EPH":
+    name: "Efedze"
+    slug: "efedze"
+  "PHP":
+    name: "Filipe"
+    slug: "filipe"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemõ"
+    slug: "filemo"
+  "HEB":
+    name: "Ba-Eebere"
+    slug: "ba-eebere"
+  "JAS":
+    name: "Dzake"
+    slug: "dzake"
+  "1PE":
+    name: "1 Piere"
+    slug: "1-piere"
+  "2PE":
+    name: "2 Piere"
+    slug: "2-piere"
+  "1JN":
+    name: "1 Dzã"
+    slug: "1-dza"
+  "2JN":
+    name: "2 Dzã"
+    slug: "2-dza"
+  "3JN":
+    name: "3 Dzã"
+    slug: "3-dza"
+  "JUD":
+    name: "Dzude"
+    slug: "dzude"
+  "REV":
+    name: "Apokalipese"
+    slug: "apokalipese"

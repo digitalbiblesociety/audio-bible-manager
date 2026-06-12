@@ -1,0 +1,266 @@
+language: "laj"
+books:
+  "GEN":
+    name: "Agege"
+    slug: "agege"
+    name_toc: "Buk a Muca me Agege ame Olwoŋo ni Agege"
+  "EXO":
+    name: "Yaa"
+    slug: "yaa"
+    name_toc: "Buk a Muca me Aryo ame Olwoŋo Yaa"
+  "LEV":
+    name: "Olevi"
+    slug: "olevi"
+    name_toc: "Buk a Muca me Adek ame Olwoŋo Olevi"
+  "NUM":
+    name: "Wel"
+    slug: "wel"
+    name_toc: "Buk a Muca me aŋwen ame Olwoŋo Wel"
+  "DEU":
+    name: "Lodo Cik"
+    slug: "lodo-cik"
+    name_toc: "Buk a Muca me Abic ame Olwoŋo Lodo Cik"
+  "JOS":
+    name: "Yocwa"
+    slug: "yocwa"
+    name_toc: "Buk a Yocwa"
+  "JDG":
+    name: "Oŋolkop"
+    slug: "oolkop"
+    name_toc: "Buk Oŋolkop"
+  "RUT":
+    name: "Luci"
+    slug: "luci"
+    name_toc: "Buk a Luci"
+  "1SA":
+    name: "1 Camwiri"
+    slug: "1-camwiri"
+    name_toc: "Buk a Camwiri me Agege"
+  "2SA":
+    name: "2 Camwiri"
+    slug: "2-camwiri"
+    name_toc: "Buk a Camwiri me Aryo"
+  "1KI":
+    name: "1 Obakki"
+    slug: "1-obakki"
+    name_toc: "Buk Obakki me Agege"
+  "2KI":
+    name: "2 Obakki"
+    slug: "2-obakki"
+    name_toc: "Buk Obakki me Aryo"
+  "1CH":
+    name: "1 Tekwaro"
+    slug: "1-tekwaro"
+    name_toc: "Buk me Tekwaro me Agege"
+  "2CH":
+    name: "2 Tekwaro"
+    slug: "2-tekwaro"
+    name_toc: "Buk me Tekwaro me Aryo"
+  "EZR":
+    name: "Ejira"
+    slug: "ejira"
+    name_toc: "Buk a Ejira"
+  "NEH":
+    name: "Nekemia"
+    slug: "nekemia"
+    name_toc: "Buk a Nekemia"
+  "EST":
+    name: "Ecita"
+    slug: "ecita"
+    name_toc: "Buk a Ecita"
+  "JOB":
+    name: "Yubu"
+    slug: "yubu"
+    name_toc: "Buk a Yubu"
+  "PSA":
+    name: "Jabuli"
+    slug: "jabuli"
+    name_toc: "Jabuli"
+  "PRO":
+    name: "Carokop"
+    slug: "carokop"
+    name_toc: "Buk Carokop"
+  "ECC":
+    name: "Arabkop"
+    slug: "arabkop"
+    name_toc: "Buk Arabkop"
+  "SNG":
+    name: "Wer a Culeman"
+    slug: "wer-a-culeman"
+    name_toc: "Wer a Culeman"
+  "ISA":
+    name: "Icaya"
+    slug: "icaya"
+    name_toc: "Buk Icaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Buk a Jeremia"
+  "LAM":
+    name: "Wer Koko"
+    slug: "wer-koko"
+    name_toc: "Wer Koko"
+  "EZK":
+    name: "Ejekeri"
+    slug: "ejekeri"
+    name_toc: "Buk Ejekeri"
+  "DAN":
+    name: "Danieri"
+    slug: "danieri"
+    name_toc: "Buk a Danieri"
+  "HOS":
+    name: "Kocea"
+    slug: "kocea"
+    name_toc: "Buk a Kocea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Buk a Joel"
+  "AMO":
+    name: "Amoc"
+    slug: "amoc"
+    name_toc: "Buk a Amoc"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Buk Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Buk a Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Buk a Mika"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+    name_toc: "Buk a Nakum"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Buk a Abakuk"
+  "ZEP":
+    name: "Jepania"
+    slug: "jepania"
+    name_toc: "Buk a Jepania"
+  "HAG":
+    name: "Aggai"
+    slug: "aggai"
+    name_toc: "Buk a Aggai"
+  "ZEC":
+    name: "Jekeria"
+    slug: "jekeria"
+    name_toc: "Buk a Jekeria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Buk a Malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Jiri ame Matayo Ocoo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+    name_toc: "Jiri ame Marako Ocoo"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Jiri ame Luka Ocoo"
+  "JHN":
+    name: "Lakana"
+    slug: "lakana"
+    name_toc: "Jiri ame Lakana Ocoo"
+  "ACT":
+    name: "Tic"
+    slug: "tic"
+    name_toc: "Tic Okwena"
+  "ROM":
+    name: "Jo Roma"
+    slug: "jo-roma"
+    name_toc: "Waraga a Paulo baŋ Jo Roma"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+    name_toc: "Waraga a Paulo me Agege baŋ Jo Korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+    name_toc: "Waraga a Paulo me Aryo baŋ Jo Korinti"
+  "GAL":
+    name: "Jo Galatia"
+    slug: "jo-galatia"
+    name_toc: "Waraga a Paulo baŋ Jo Galatia"
+  "EPH":
+    name: "Epeco"
+    slug: "epeco"
+    name_toc: "Waraga a Paulo baŋ Jo Epeco"
+  "PHP":
+    name: "Jo Pilipi"
+    slug: "jo-pilipi"
+    name_toc: "Waraga a Paulo baŋ Jo Pilipi"
+  "COL":
+    name: "Jo Kolocai"
+    slug: "jo-kolocai"
+    name_toc: "Waraga a Paulo baŋ Jo Kolocai"
+  "1TH":
+    name: "1 Jo Tecalonika"
+    slug: "1-jo-tecalonika"
+    name_toc: "Waraga a Paulo Me Agege Baŋ Jo Tecalonika"
+  "2TH":
+    name: "2 Jo Tecalonika"
+    slug: "2-jo-tecalonika"
+    name_toc: "Waraga a Paulo Me Aryo Baŋ Jo Tecalonika"
+  "1TI":
+    name: "1 Temoteo"
+    slug: "1-temoteo"
+    name_toc: "Waraga a Paulo Me Agege Baŋ Temoteo"
+  "2TI":
+    name: "2 Temoteo"
+    slug: "2-temoteo"
+    name_toc: "Waraga a Paulo Me Aryo Baŋ Temoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Waraga a Paulo baŋ Tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Waraga a Paulo baŋ Pilemon"
+  "HEB":
+    name: "Jo Eburania"
+    slug: "jo-eburania"
+    name_toc: "Waraga baŋ Jo Eburania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Waraga a Yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Waraga a Petero Me Agege"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Waraga Petero Me Aryo"
+  "1JN":
+    name: "1 Lakana"
+    slug: "1-lakana"
+    name_toc: "Waraga Alakana Me Agege"
+  "2JN":
+    name: "2 Lakana"
+    slug: "2-lakana"
+    name_toc: "Waraga a Lakana Me Aryo"
+  "3JN":
+    name: "3 Lakana"
+    slug: "3-lakana"
+    name_toc: "Waraga a Lakana Me Adek"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Waraga a Juda"
+  "REV":
+    name: "Nyut a Lakana"
+    slug: "nyut-a-lakana"
+    name_toc: "Nyut a Lakana"

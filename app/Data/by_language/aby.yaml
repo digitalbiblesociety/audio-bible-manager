@@ -1,0 +1,83 @@
+language: "aby"
+books:
+  "MAT":
+    name: "Madiu"
+    slug: "madiu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Ruki"
+    slug: "ruki"
+  "JHN":
+    name: "Dioni"
+    slug: "dioni"
+  "ACT":
+    name: "Afasoro"
+    slug: "afasoro"
+  "ROM":
+    name: "Romani"
+    slug: "romani"
+  "1CO":
+    name: "1 Korinida"
+    slug: "1-korinida"
+  "2CO":
+    name: "2 Korinida"
+    slug: "2-korinida"
+  "GAL":
+    name: "Gareisia"
+    slug: "gareisia"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "Firifai"
+    slug: "firifai"
+  "COL":
+    name: "Korose"
+    slug: "korose"
+  "1TH":
+    name: "1 Desoronaika"
+    slug: "1-desoronaika"
+  "2TH":
+    name: "2 Desoronaika"
+    slug: "2-desoronaika"
+  "1TI":
+    name: "1 Dimodi"
+    slug: "1-dimodi"
+  "2TI":
+    name: "2 Dimodi"
+    slug: "2-dimodi"
+  "TIT":
+    name: "Daidasi"
+    slug: "daidasi"
+  "PHM":
+    name: "Fairimoni"
+    slug: "fairimoni"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Deimisi"
+    slug: "deimisi"
+  "1PE":
+    name: "1 Fida"
+    slug: "1-fida"
+  "2PE":
+    name: "2 Fida"
+    slug: "2-fida"
+  "1JN":
+    name: "1 Dioni"
+    slug: "1-dioni"
+  "2JN":
+    name: "2 Dioni"
+    slug: "2-dioni"
+  "3JN":
+    name: "3 Dioni"
+    slug: "3-dioni"
+  "JUD":
+    name: "Diude"
+    slug: "diude"
+  "REV":
+    name: "Dionibai"
+    slug: "dionibai"

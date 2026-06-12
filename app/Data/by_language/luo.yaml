@@ -1,0 +1,200 @@
+language: "luo"
+books:
+  "GEN":
+    name: "Chakruok"
+    slug: "chakruok"
+  "EXO":
+    name: "Wuok"
+    slug: "wuok"
+  "LEV":
+    name: "Tim Jo-Lawi"
+    slug: "tim-jo-lawi"
+  "NUM":
+    name: "Kwan"
+    slug: "kwan"
+  "DEU":
+    name: "Rapar Mar Chik"
+    slug: "rapar-mar-chik"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Jongʼad Bura"
+    slug: "jongad-bura"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Ruodhi"
+    slug: "1-ruodhi"
+  "2KI":
+    name: "2 Ruodhi"
+    slug: "2-ruodhi"
+  "1CH":
+    name: "1 Weche Mag Ndalo"
+    slug: "1-weche-mag-ndalo"
+  "2CH":
+    name: "2 Weche Mag Ndalo"
+    slug: "2-weche-mag-ndalo"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+  "PRO":
+    name: "Ngeche"
+    slug: "ngeche"
+  "ECC":
+    name: "Eklesiastes"
+    slug: "eklesiastes"
+  "SNG":
+    name: "Wer Mamit"
+    slug: "wer-mamit"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Ywagruok"
+    slug: "ywagruok"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mathayo"
+    slug: "mathayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johana"
+    slug: "johana"
+  "ACT":
+    name: "Tich Joote"
+    slug: "tich-joote"
+  "ROM":
+    name: "Jo-Rumi"
+    slug: "jo-rumi"
+  "1CO":
+    name: "1 Jo-Korintho"
+    slug: "1-jo-korintho"
+  "2CO":
+    name: "2 Jo-Korintho"
+    slug: "2-jo-korintho"
+  "GAL":
+    name: "Jo-Galatia"
+    slug: "jo-galatia"
+  "EPH":
+    name: "Jo-Efeso"
+    slug: "jo-efeso"
+  "PHP":
+    name: "Jo-Filipi"
+    slug: "jo-filipi"
+  "COL":
+    name: "Jo-Kolosai"
+    slug: "jo-kolosai"
+  "1TH":
+    name: "1 Jo-Thesalonika"
+    slug: "1-jo-thesalonika"
+  "2TH":
+    name: "2 Jo-Thesalonika"
+    slug: "2-jo-thesalonika"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Jo-Hibrania"
+    slug: "jo-hibrania"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Johana"
+    slug: "1-johana"
+  "2JN":
+    name: "2 Johana"
+    slug: "2-johana"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Fweny"
+    slug: "fweny"

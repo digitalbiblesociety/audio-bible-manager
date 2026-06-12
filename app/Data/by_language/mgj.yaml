@@ -1,0 +1,41 @@
+language: "mgj"
+books:
+  "MAT":
+    name: "Amatiu"
+    slug: "amatiu"
+  "MRK":
+    name: "Amaki̠"
+    slug: "amaki"
+  "LUK":
+    name: "A̠luk"
+    slug: "aluk"
+  "EPH":
+    name: "E̠fi̠so̠s"
+    slug: "efisos"
+  "1TH":
+    name: "1 Ate̠salonia"
+    slug: "1-atesalonia"
+  "2TH":
+    name: "2 Ate̠salonia̠"
+    slug: "2-atesalonia"
+  "1TI":
+    name: "1 A̠timoti"
+    slug: "1-atimoti"
+  "2TI":
+    name: "2 A̠timoti"
+    slug: "2-atimoti"
+  "TIT":
+    name: "Atai̠to̠s"
+    slug: "ataitos"
+  "PHM":
+    name: "A̠filimon"
+    slug: "afilimon"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "A̠zemsi̠"
+    slug: "azemsi"
+  "JUD":
+    name: "A̠zud"
+    slug: "azud"

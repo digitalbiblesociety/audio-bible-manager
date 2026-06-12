@@ -1,0 +1,5 @@
+language: "pll"
+books:
+  "MRK":
+    name: "မာကု"
+    slug: "maku"

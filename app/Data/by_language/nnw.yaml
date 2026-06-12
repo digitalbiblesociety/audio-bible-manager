@@ -1,0 +1,83 @@
+language: "nnw"
+books:
+  "MAT":
+    name: "Matiə"
+    slug: "matie"
+  "MRK":
+    name: "Marəkə"
+    slug: "mareke"
+  "LUK":
+    name: "Likə"
+    slug: "like"
+  "JHN":
+    name: "Zwan"
+    slug: "zwan"
+  "ACT":
+    name: "Tʋtʋnan"
+    slug: "ttnan"
+  "ROM":
+    name: "Romə tɩ̀án"
+    slug: "rome-tan"
+  "1CO":
+    name: "1 Korɛntə tɩ̀án"
+    slug: "1-kornte-tan"
+  "2CO":
+    name: "2 Korɛntə tɩ̀án"
+    slug: "2-kornte-tan"
+  "GAL":
+    name: "Galasi tɩ̀án"
+    slug: "galasi-tan"
+  "EPH":
+    name: "Efɛzə tɩ̀án"
+    slug: "efze-tan"
+  "PHP":
+    name: "Filipə tɩ̀án"
+    slug: "filipe-tan"
+  "COL":
+    name: "Kolosə tɩ̀án"
+    slug: "kolose-tan"
+  "1TH":
+    name: "1 Tɛsalonikə tɩ̀án"
+    slug: "1-tsalonike-tan"
+  "2TH":
+    name: "2 Tɛsalonikə tɩ̀án"
+    slug: "2-tsalonike-tan"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ebərə-ba"
+    slug: "ebere-ba"
+  "JAS":
+    name: "Zwakə"
+    slug: "zwake"
+  "1PE":
+    name: "1 Piyɛrə"
+    slug: "1-piyre"
+  "2PE":
+    name: "2 Piyɛrə"
+    slug: "2-piyre"
+  "1JN":
+    name: "1 Zwan"
+    slug: "1-zwan"
+  "2JN":
+    name: "2 Zwan"
+    slug: "2-zwan"
+  "3JN":
+    name: "3 Zwan"
+    slug: "3-zwan"
+  "JUD":
+    name: "Zwidə"
+    slug: "zwide"
+  "REV":
+    name: "Apokalisə"
+    slug: "apokalise"

@@ -1,0 +1,200 @@
+language: "dwr"
+books:
+  "GEN":
+    name: "ዶመ"
+    slug: "doma"
+  "EXO":
+    name: "Kessaa"
+    slug: "kessaa"
+  "LEV":
+    name: "Wogaa"
+    slug: "wogaa"
+  "NUM":
+    name: "ፓይዱዋ"
+    slug: "payeduwa"
+  "DEU":
+    name: "ዛረዋ"
+    slug: "zarawa"
+  "JOS":
+    name: "ኢያሳ"
+    slug: "iyasa"
+  "JDG":
+    name: "ዳናቱዋ"
+    slug: "danatuwa"
+  "RUT":
+    name: "ኡሩቶ"
+    slug: "uruto"
+  "1SA":
+    name: "1 ሳሜላ"
+    slug: "1-samela"
+  "2SA":
+    name: "2 ሳሜላ"
+    slug: "2-samela"
+  "1KI":
+    name: "1 ካታቱዋ"
+    slug: "1-katatuwa"
+  "2KI":
+    name: "2 ካታቱዋ"
+    slug: "2-katatuwa"
+  "1CH":
+    name: "1 ኦዱዋ"
+    slug: "1-oduwa"
+  "2CH":
+    name: "2 ኦዱዋ"
+    slug: "2-oduwa"
+  "EZR":
+    name: "እዝራ"
+    slug: "ezera"
+  "NEH":
+    name: "ናህምያ"
+    slug: "nahemeya"
+  "EST":
+    name: "አስትሮ"
+    slug: "asetero"
+  "JOB":
+    name: "ኢዮባ"
+    slug: "iyoba"
+  "PSA":
+    name: "ማዝሙርያ"
+    slug: "mazemureya"
+  "PRO":
+    name: "ሌምሱዋ"
+    slug: "lemesuwa"
+  "ECC":
+    name: "ኤራንቻ"
+    slug: "eraneca"
+  "SNG":
+    name: "ሲቁዋ ሳባ"
+    slug: "siquwa-saba"
+  "ISA":
+    name: "ኢስያሳ"
+    slug: "iseyasa"
+  "JER":
+    name: "ኤርማሳ"
+    slug: "eremasa"
+  "LAM":
+    name: "ኤርማሳ ሴላ"
+    slug: "eremasa-sela"
+  "EZK":
+    name: "ህዝቄላ"
+    slug: "hezeqela"
+  "DAN":
+    name: "ዳኔላ"
+    slug: "danela"
+  "HOS":
+    name: "Hoose"
+    slug: "hoose"
+  "JOL":
+    name: "ኢዩኤላ"
+    slug: "iyuela"
+  "AMO":
+    name: "አሞጻ"
+    slug: "amosa"
+  "OBA":
+    name: "አብድዩ"
+    slug: "abedeyu"
+  "JON":
+    name: "ዮናሳ"
+    slug: "yonasa"
+  "MIC":
+    name: "ሚክያሳ"
+    slug: "mikeyasa"
+  "NAM":
+    name: "ናሆማ"
+    slug: "nahoma"
+  "HAB":
+    name: "እምባቆማ"
+    slug: "emebaqoma"
+  "ZEP":
+    name: "ሶፎናሳ"
+    slug: "sofonasa"
+  "HAG":
+    name: "Haage"
+    slug: "haage"
+  "ZEC":
+    name: "ዛካራሳ"
+    slug: "zakarasa"
+  "MAL":
+    name: "ሚልክያሳ"
+    slug: "milekeyasa"
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዮሃኒሳ"
+    slug: "yohanisa"
+  "ACT":
+    name: "ዬሱሲ ኪቴዳዋንቱ ኦሱዋ"
+    slug: "yesusi-kitedawanetu-osuwa"
+  "ROM":
+    name: "ሮሚያ"
+    slug: "romiya"
+  "1CO":
+    name: "1 ቆሮንቶሳ"
+    slug: "1-qoronetosa"
+  "2CO":
+    name: "2 ቆሮንቶሳ"
+    slug: "2-qoronetosa"
+  "GAL":
+    name: "ጋላቲያ"
+    slug: "galatiya"
+  "EPH":
+    name: "ኤፌሶና"
+    slug: "efesona"
+  "PHP":
+    name: "ፒሊጲሲዮሳ"
+    slug: "pilipisiyosa"
+  "COL":
+    name: "ቆላሲያሳ"
+    slug: "qolasiyasa"
+  "1TH":
+    name: "1 ቴሴሎንቃ"
+    slug: "1-teseloneqa"
+  "2TH":
+    name: "2 ቴሴሎንቃ"
+    slug: "2-teseloneqa"
+  "1TI":
+    name: "1 ፂሞቶሳ"
+    slug: "1-dimotosa"
+  "2TI":
+    name: "2 ፂሞቶሳ"
+    slug: "2-dimotosa"
+  "TIT":
+    name: "ቲታ"
+    slug: "tita"
+  "PHM":
+    name: "ፒሊሞና"
+    slug: "pilimona"
+  "HEB":
+    name: "ኢብራዌ"
+    slug: "iberawe"
+  "JAS":
+    name: "ያዪቆባ ኪታ"
+    slug: "yayiqoba-kita"
+  "1PE":
+    name: "1 ጴፂሮሳ ኪታ"
+    slug: "1-pedirosa-kita"
+  "2PE":
+    name: "2 ጴፂሮሳ ኪታ"
+    slug: "2-pedirosa-kita"
+  "1JN":
+    name: "1 ዮሃኒሳ ኪታ"
+    slug: "1-yohanisa-kita"
+  "2JN":
+    name: "2 ዮሃኒሳ ኪታ"
+    slug: "2-yohanisa-kita"
+  "3JN":
+    name: "3 ዮሃኒሳ ኪታ"
+    slug: "3-yohanisa-kita"
+  "JUD":
+    name: "ዪሁዳ ኪታ"
+    slug: "yihuda-kita"
+  "REV":
+    name: "ሳፃ ማፃፋ"
+    slug: "sada-madafa"

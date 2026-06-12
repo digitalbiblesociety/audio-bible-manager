@@ -1,0 +1,125 @@
+language: "gwr"
+books:
+  "GEN":
+    name: "ENtandiika"
+    slug: "entandiika"
+  "EXO":
+    name: "OKuzwa"
+    slug: "okuzwa"
+  "LEV":
+    name: "ABaleevi"
+    slug: "abaleevi"
+  "NUM":
+    name: "OKubala"
+    slug: "okubala"
+  "DEU":
+    name: "AMateeka"
+    slug: "amateeka"
+  "JOS":
+    name: "Yoswa"
+    slug: "yoswa"
+  "JDG":
+    name: "ABalamuzi"
+    slug: "abalamuzi"
+  "RUT":
+    name: "Luusi"
+    slug: "luusi"
+  "1SA":
+    name: "1 Samwiri"
+    slug: "1-samwiri"
+  "2SA":
+    name: "2 Samwiri"
+    slug: "2-samwiri"
+  "EST":
+    name: "Eseza"
+    slug: "eseza"
+  "PSA":
+    name: "EZabbuli"
+    slug: "ezabbuli"
+  "PRO":
+    name: "ENgero"
+    slug: "engero"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maako"
+    slug: "maako"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yokaana"
+    slug: "yokaana"
+  "ACT":
+    name: "Bikole"
+    slug: "bikole"
+  "ROM":
+    name: "Abʼe Looma"
+    slug: "abe-looma"
+  "1CO":
+    name: "1 Abʼe Kolinso"
+    slug: "1-abe-kolinso"
+  "2CO":
+    name: "2 Abʼe Kolinso"
+    slug: "2-abe-kolinso"
+  "GAL":
+    name: "Bʼe Galatiya"
+    slug: "be-galatiya"
+  "EPH":
+    name: "Bʼefeeso"
+    slug: "befeeso"
+  "PHP":
+    name: "Abʼe Firipi"
+    slug: "abe-firipi"
+  "COL":
+    name: "Bʼe Kolose"
+    slug: "be-kolose"
+  "1TH":
+    name: "1 Bʼe Sesalonika"
+    slug: "1-be-sesalonika"
+  "2TH":
+    name: "2 Bʼe Sesalonika"
+    slug: "2-be-sesalonika"
+  "1TI":
+    name: "1 Temuseewo"
+    slug: "1-temuseewo"
+  "2TI":
+    name: "2 Temuseewo"
+    slug: "2-temuseewo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Firimooni"
+    slug: "firimooni"
+  "HEB":
+    name: "Abʼebbulaniya"
+    slug: "abebbulaniya"
+  "JAS":
+    name: "Yaakobbo"
+    slug: "yaakobbo"
+  "1PE":
+    name: "1 Peetero"
+    slug: "1-peetero"
+  "2PE":
+    name: "2 Peetero"
+    slug: "2-peetero"
+  "1JN":
+    name: "1 Yokaana"
+    slug: "1-yokaana"
+  "2JN":
+    name: "2 Yokaana"
+    slug: "2-yokaana"
+  "3JN":
+    name: "3 Yokaana"
+    slug: "3-yokaana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Kubiikula"
+    slug: "kubiikula"

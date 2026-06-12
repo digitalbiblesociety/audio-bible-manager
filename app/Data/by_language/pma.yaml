@@ -1,0 +1,83 @@
+language: "pma"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Sion"
+    slug: "sion"
+  "ACT":
+    name: "Umen"
+    slug: "umen"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Kalesia"
+    slug: "kalesia"
+  "EPH":
+    name: "Efeses"
+    slug: "efeses"
+  "PHP":
+    name: "Pilipae"
+    slug: "pilipae"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonaeka"
+    slug: "1-tesalonaeka"
+  "2TH":
+    name: "2 Tesalonaeka"
+    slug: "2-tesalonaeka"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taetas"
+    slug: "taetas"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Tiemes"
+    slug: "tiemes"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Sion"
+    slug: "1-sion"
+  "2JN":
+    name: "2 Sion"
+    slug: "2-sion"
+  "3JN":
+    name: "3 Sion"
+    slug: "3-sion"
+  "JUD":
+    name: "Siud"
+    slug: "siud"
+  "REV":
+    name: "Revelesen"
+    slug: "revelesen"

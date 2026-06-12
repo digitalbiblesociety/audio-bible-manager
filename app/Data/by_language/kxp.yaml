@@ -1,0 +1,110 @@
+language: "kxp"
+books:
+  "MAT":
+    name: "માથ્થી"
+    slug: "maththi"
+    name_toc: "માથ્થીની સુવાર્તા"
+  "MRK":
+    name: "માર્ક"
+    slug: "marka"
+    name_toc: "માર્ક સુવાર્તા"
+  "LUK":
+    name: "લૂક"
+    slug: "luka"
+    name_toc: "લૂકની સુવાર્તા"
+  "JHN":
+    name: "યોહાન"
+    slug: "yohana"
+    name_toc: "યોહાનની સુવાર્તા"
+  "ACT":
+    name: "પ્રેરિતોનાં કૃત્યો"
+    slug: "preritonam-krtyo"
+    name_toc: "પ્રેરિતોનાં કૃત્યો"
+  "ROM":
+    name: "રોમનોને પત્ર"
+    slug: "romanone-patra"
+    name_toc: "રોમનોને પત્ર"
+  "1CO":
+    name: "1 કરિંથીઓને પત્ર"
+    slug: "1-karimthione-patra"
+    name_toc: "1 કરિંથીઓને પત્ર"
+  "2CO":
+    name: "2 કરિંથીઓને પત્ર"
+    slug: "2-karimthione-patra"
+    name_toc: "2 કરિંથીઓને પત્ર"
+  "GAL":
+    name: "ગલાતીઓને પત્ર"
+    slug: "galatione-patra"
+    name_toc: "ગલાતીઓને પત્ર"
+  "EPH":
+    name: "એફેસીઓને પત્ર"
+    slug: "ephesione-patra"
+    name_toc: "એફેસીઓને પત્ર"
+  "PHP":
+    name: "ફિલિપ્પીઓને પત્ર"
+    slug: "philippione-patra"
+    name_toc: "ફિલિપ્પીઓને પત્ર"
+  "COL":
+    name: "કલોસ્સીઓને પત્ર"
+    slug: "kalossione-patra"
+    name_toc: "કલોસ્સીઓને પત્ર"
+  "1TH":
+    name: "1 થેસ્સાલોનિકીઓને પત્ર"
+    slug: "1-thessalonikione-patra"
+    name_toc: "1 થેસ્સાલોનિકીઓને પત્ર"
+  "2TH":
+    name: "2 થેસ્સાલોનિકીઓને પત્ર"
+    slug: "2-thessalonikione-patra"
+    name_toc: "2 થેસ્સાલોનિકીઓને પત્ર"
+  "1TI":
+    name: "1 તિમોથીને પત્ર"
+    slug: "1-timothine-patra"
+    name_toc: "1 તિમોથીને પત્ર"
+  "2TI":
+    name: "2 તિમોથીને પત્ર"
+    slug: "2-timothine-patra"
+    name_toc: "2 તિમોથીને પત્ર"
+  "TIT":
+    name: "તિતસને પત્ર"
+    slug: "titasane-patra"
+    name_toc: "તિતસને પત્ર"
+  "PHM":
+    name: "ફીલેમોન ને પત્ર"
+    slug: "philemona-ne-patra"
+    name_toc: "ફીલેમોન ને પત્ર"
+  "HEB":
+    name: "હિબ્રૂઓને પત્ર"
+    slug: "hibruone-patra"
+    name_toc: "હિબ્રૂઓને પત્ર"
+  "JAS":
+    name: "યાકૂબનો પત્ર"
+    slug: "yakubano-patra"
+    name_toc: "યાકૂબનો પત્ર"
+  "1PE":
+    name: "1 પિતરનો પત્ર"
+    slug: "1-pitarano-patra"
+    name_toc: "1 પિતરનો પત્ર"
+  "2PE":
+    name: "2 પિતરનો પત્ર"
+    slug: "2-pitarano-patra"
+    name_toc: "2 પિતરનો પત્ર"
+  "1JN":
+    name: "1 યોહાન"
+    slug: "1-yohana"
+    name_toc: "1 યોહાન"
+  "2JN":
+    name: "2 યોહાન"
+    slug: "2-yohana"
+    name_toc: "2 યોહાન"
+  "3JN":
+    name: "3 યોહાન"
+    slug: "3-yohana"
+    name_toc: "3 યોહાન"
+  "JUD":
+    name: "યહૂદાનો પત્ર"
+    slug: "yahudano-patra"
+    name_toc: "યહૂદાનો પત્ર"
+  "REV":
+    name: "પ્રકટીકરણ"
+    slug: "prakatikarana"
+    name_toc: "પ્રકટીકરણ"

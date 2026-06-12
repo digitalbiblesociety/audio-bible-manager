@@ -1,0 +1,200 @@
+language: "beo"
+books:
+  "GEN":
+    name: "Mui"
+    slug: "mui"
+  "EXO":
+    name: "Gadili Asi"
+    slug: "gadili-asi"
+  "LEV":
+    name: "Gobele Salasu"
+    slug: "gobele-salasu"
+  "NUM":
+    name: "Idisu"
+    slug: "idisu"
+  "DEU":
+    name: "Mousese ea Malasu"
+    slug: "mousese-ea-malasu"
+  "JOS":
+    name: "Yosiua"
+    slug: "yosiua"
+  "JDG":
+    name: "Bisisu"
+    slug: "bisisu"
+  "RUT":
+    name: "Ludi"
+    slug: "ludi"
+  "1SA":
+    name: "1 Sa:miuele"
+    slug: "1-samiuele"
+  "2SA":
+    name: "2 Sa:miuele"
+    slug: "2-samiuele"
+  "1KI":
+    name: "1 Hina bagade"
+    slug: "1-hina-bagade"
+  "2KI":
+    name: "2 Hina bagade"
+    slug: "2-hina-bagade"
+  "1CH":
+    name: "1 Hou Olelesu"
+    slug: "1-hou-olelesu"
+  "2CH":
+    name: "2 Hou Olelesu"
+    slug: "2-hou-olelesu"
+  "EZR":
+    name: "Esela"
+    slug: "esela"
+  "NEH":
+    name: "Nihemaia"
+    slug: "nihemaia"
+  "EST":
+    name: "Eseda"
+    slug: "eseda"
+  "JOB":
+    name: "Yoube"
+    slug: "yoube"
+  "PSA":
+    name: "Gesami Hea:su"
+    slug: "gesami-heasu"
+  "PRO":
+    name: "Malasu"
+    slug: "malasu"
+  "ECC":
+    name: "Da:i Dione Dawa:i Olelesu"
+    slug: "dai-dione-dawai-olelesu"
+  "SNG":
+    name: "Soloumane ea Gesami"
+    slug: "soloumane-ea-gesami"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Yelemaia"
+    slug: "yelemaia"
+  "LAM":
+    name: "Fofagini Disu"
+    slug: "fofagini-disu"
+  "EZK":
+    name: "Isigiele"
+    slug: "isigiele"
+  "DAN":
+    name: "Da:niele"
+    slug: "daniele"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+  "JOL":
+    name: "Youele"
+    slug: "youele"
+  "AMO":
+    name: "A:imose"
+    slug: "aimose"
+  "OBA":
+    name: "Oubadaia"
+    slug: "oubadaia"
+  "JON":
+    name: "Youna"
+    slug: "youna"
+  "MIC":
+    name: "Maiga"
+    slug: "maiga"
+  "NAM":
+    name: "Na:ihame"
+    slug: "naihame"
+  "HAB":
+    name: "Ha:bagage"
+    slug: "habagage"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Ha:ga:iai"
+    slug: "hagaiai"
+  "ZEC":
+    name: "Segalaia"
+    slug: "segalaia"
+  "MAL":
+    name: "Malagai"
+    slug: "malagai"
+  "MAT":
+    name: "Ma:diu"
+    slug: "madiu"
+  "MRK":
+    name: "Maga"
+    slug: "maga"
+  "LUK":
+    name: "Luge"
+    slug: "luge"
+  "JHN":
+    name: "Yone"
+    slug: "yone"
+  "ACT":
+    name: "Asunasi Dunu Ilia Hou"
+    slug: "asunasi-dunu-ilia-hou"
+  "ROM":
+    name: "Louma"
+    slug: "louma"
+  "1CO":
+    name: "1 Golidia"
+    slug: "1-golidia"
+  "2CO":
+    name: "2 Golidia"
+    slug: "2-golidia"
+  "GAL":
+    name: "Gala:isia"
+    slug: "galaisia"
+  "EPH":
+    name: "Efesase"
+    slug: "efesase"
+  "PHP":
+    name: "Filibai"
+    slug: "filibai"
+  "COL":
+    name: "Golosia"
+    slug: "golosia"
+  "1TH":
+    name: "1 Desalounia"
+    slug: "1-desalounia"
+  "2TH":
+    name: "2 Desalounia"
+    slug: "2-desalounia"
+  "1TI":
+    name: "1 Dimodi"
+    slug: "1-dimodi"
+  "2TI":
+    name: "2 Dimodi"
+    slug: "2-dimodi"
+  "TIT":
+    name: "Daidase"
+    slug: "daidase"
+  "PHM":
+    name: "Failimone"
+    slug: "failimone"
+  "HEB":
+    name: "Hibulu"
+    slug: "hibulu"
+  "JAS":
+    name: "Ya:mese"
+    slug: "yamese"
+  "1PE":
+    name: "1 Bida"
+    slug: "1-bida"
+  "2PE":
+    name: "2 Bida"
+    slug: "2-bida"
+  "1JN":
+    name: "1 Yone"
+    slug: "1-yone"
+  "2JN":
+    name: "2Yone"
+    slug: "2yone"
+  "3JN":
+    name: "3Yone"
+    slug: "3yone"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Wamolegei Sia: Olelesu"
+    slug: "wamolegei-sia-olelesu"

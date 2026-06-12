@@ -1,0 +1,83 @@
+language: "kat"
+books:
+  "MAT":
+    name: "მათე"
+    slug: "mate"
+  "MRK":
+    name: "მარკოზი"
+    slug: "mark-ozi"
+  "LUK":
+    name: "ლუკა"
+    slug: "luk-a"
+  "JHN":
+    name: "იოანე"
+    slug: "ioane"
+  "ACT":
+    name: "საქმეები"
+    slug: "sakmeebi"
+  "ROM":
+    name: "რომაელთა"
+    slug: "romaelta"
+  "1CO":
+    name: "1 კორინთელთა"
+    slug: "1-k-orintelta"
+  "2CO":
+    name: "2 კორინთელთა"
+    slug: "2-k-orintelta"
+  "GAL":
+    name: "გალატელთა"
+    slug: "galat-elta"
+  "EPH":
+    name: "ეფესელთა"
+    slug: "epeselta"
+  "PHP":
+    name: "ფილიპელთა"
+    slug: "pilip-elta"
+  "COL":
+    name: "კოლოსელთა"
+    slug: "k-oloselta"
+  "1TH":
+    name: "1 თესალონიკელთა"
+    slug: "1-tesalonik-elta"
+  "2TH":
+    name: "2 თესალონიკელთა"
+    slug: "2-tesalonik-elta"
+  "1TI":
+    name: "1 ტიმოთე"
+    slug: "1-t-imote"
+  "2TI":
+    name: "2 ტიმოთე"
+    slug: "2-t-imote"
+  "TIT":
+    name: "ტიტე"
+    slug: "t-it-e"
+  "PHM":
+    name: "ფილიმონ"
+    slug: "pilimon"
+  "HEB":
+    name: "ებრაელთა"
+    slug: "ebraelta"
+  "JAS":
+    name: "იაკობი"
+    slug: "iak-obi"
+  "1PE":
+    name: "1 პეტრე"
+    slug: "1-p-et-re"
+  "2PE":
+    name: "2 პეტრე"
+    slug: "2-p-et-re"
+  "1JN":
+    name: "1 პეტრე"
+    slug: "1-p-et-re"
+  "2JN":
+    name: "2 იოანე"
+    slug: "2-ioane"
+  "3JN":
+    name: "3 იოანე"
+    slug: "3-ioane"
+  "JUD":
+    name: "იუდა"
+    slug: "iuda"
+  "REV":
+    name: "გამოცხადება"
+    slug: "gamotskhadeba"

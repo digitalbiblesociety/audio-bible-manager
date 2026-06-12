@@ -1,0 +1,107 @@
+language: "kub"
+books:
+  "GEN":
+    name: "Kucangtsi"
+    slug: "kucangtsi"
+  "EXO":
+    name: "Itiruye"
+    slug: "itiruye"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Wande Atom"
+    slug: "wande-atom"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Mbaibrane"
+    slug: "mbaibrane"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Bitrus"
+    slug: "1-bitrus"
+  "2PE":
+    name: "2 Bitrus"
+    slug: "2-bitrus"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yawuda"
+    slug: "yawuda"
+  "REV":
+    name: "Ititatso"
+    slug: "ititatso"

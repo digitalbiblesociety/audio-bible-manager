@@ -1,0 +1,8 @@
+language: "xsn"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "LUK":
+    name: "Luka"
+    slug: "luka"

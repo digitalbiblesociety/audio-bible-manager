@@ -1,0 +1,83 @@
+language: "otq"
+books:
+  "MAT":
+    name: "Ar Mateo"
+    slug: "ar-mateo"
+  "MRK":
+    name: "Ar Marko"
+    slug: "ar-marko"
+  "LUK":
+    name: "Ar Luka"
+    slug: "ar-luka"
+  "JHN":
+    name: "Ar Xuwa"
+    slug: "ar-xuwa"
+  "ACT":
+    name: "YA ꞌBE̱FI"
+    slug: "ya-befi"
+  "ROM":
+    name: "Ar Romanu"
+    slug: "ar-romanu"
+  "1CO":
+    name: "Ár Ndu̱i Ar Korintio"
+    slug: "ar-ndui-ar-korintio"
+  "2CO":
+    name: "Ár Ñoho Ar Korintio"
+    slug: "ar-noho-ar-korintio"
+  "GAL":
+    name: "Ar Galata"
+    slug: "ar-galata"
+  "EPH":
+    name: "Ar Efesio"
+    slug: "ar-efesio"
+  "PHP":
+    name: "Ar Filipense"
+    slug: "ar-filipense"
+  "COL":
+    name: "Ar Kolosense"
+    slug: "ar-kolosense"
+  "1TH":
+    name: "Ár Ndu̱i Ar Tesalonisense"
+    slug: "ar-ndui-ar-tesalonisense"
+  "2TH":
+    name: "Ár Ñoho Ar Tesalonisense"
+    slug: "ar-noho-ar-tesalonisense"
+  "1TI":
+    name: "Ár Ndu̱i Ar Timoteo"
+    slug: "ar-ndui-ar-timoteo"
+  "2TI":
+    name: "Ár Ñoho Ar Timoteo"
+    slug: "ar-noho-ar-timoteo"
+  "TIT":
+    name: "Ar Tito"
+    slug: "ar-tito"
+  "PHM":
+    name: "Ar Filemon"
+    slug: "ar-filemon"
+  "HEB":
+    name: "Ar Ebreo"
+    slug: "ar-ebreo"
+  "JAS":
+    name: "Ar Santiago"
+    slug: "ar-santiago"
+  "1PE":
+    name: "Ár Ndu̱i Ar Pedro"
+    slug: "ar-ndui-ar-pedro"
+  "2PE":
+    name: "Ár Ñoho Ar Pedro"
+    slug: "ar-noho-ar-pedro"
+  "1JN":
+    name: "Ár Ndu̱i Ar Xuwa"
+    slug: "ar-ndui-ar-xuwa"
+  "2JN":
+    name: "Ár Ñoho Ar Xuwa"
+    slug: "ar-noho-ar-xuwa"
+  "3JN":
+    name: "Ár Hñu Ar Xuwa"
+    slug: "ar-hnu-ar-xuwa"
+  "JUD":
+    name: "Ar Huda"
+    slug: "ar-huda"
+  "REV":
+    name: "Ya Nthandi"
+    slug: "ya-nthandi"

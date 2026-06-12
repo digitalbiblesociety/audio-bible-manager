@@ -1,0 +1,110 @@
+language: "nuj"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Amaŋuliro Amalaŋi agaŋamba hu Yesu Kurisito ngʼolu Matayo gagaŋandiiha"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Amaŋuliro Amalaŋi agaŋamba hu Yesu Kurisito ngʼolu Mariko gagaŋandiiha"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Amaŋuliro Amalaŋi agaŋamba hu Yesu Kurisito ngʼolu Luka gagaŋandiiha"
+  "JHN":
+    name: "Yowaane"
+    slug: "yowaane"
+    name_toc: "Amaŋuliro Amalaŋi agaŋamba hu Yesu Kurisito ngʼolu Yowaane gagaŋandiiha"
+  "ACT":
+    name: "Ebikolwa"
+    slug: "ebikolwa"
+    name_toc: "Ebikolwa byʼabahwenda ba Yesu"
+  "ROM":
+    name: "Abarooma"
+    slug: "abarooma"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Abarooma"
+  "1CO":
+    name: "1 Abakoriiso"
+    slug: "1-abakoriiso"
+    name_toc: "Ebbaluŋa endaayi eyi Pawulo gaŋandiihira Abakoriiso"
+  "2CO":
+    name: "2 Abakoriiso"
+    slug: "2-abakoriiso"
+    name_toc: "Ebbaluŋa eyohubiri eyi Pawulo gaŋandiihira Abakoriiso"
+  "GAL":
+    name: "Abagalatiya"
+    slug: "abagalatiya"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Abagalatiya"
+  "EPH":
+    name: "Abefeeso"
+    slug: "abefeeso"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Abefeeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Abafilipi"
+  "COL":
+    name: "Abakolosaayi"
+    slug: "abakolosaayi"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Abakolosaayi"
+  "1TH":
+    name: "1 Abasesalonika"
+    slug: "1-abasesalonika"
+    name_toc: "Ebbaluŋa endaayi eyi Pawulo gaŋandiihira Abasesalonika"
+  "2TH":
+    name: "2 Abasesalonika"
+    slug: "2-abasesalonika"
+    name_toc: "Ebbaluŋa eyohubiri eyi Pawulo gaŋandiihira Abasesalonika"
+  "1TI":
+    name: "1 Temuseewo"
+    slug: "1-temuseewo"
+    name_toc: "Ebbaluŋa endaayi eyi Pawulo gaŋandiihira Temuseewo"
+  "2TI":
+    name: "2 Temuseewo"
+    slug: "2-temuseewo"
+    name_toc: "Ebbaluŋa eyohubiri eyi Pawulo gaŋandiihira Temuseewo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Tito"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+    name_toc: "Ebbaluŋa eyi Pawulo gaŋandiihira Filimooni"
+  "HEB":
+    name: "Ababbebbulaniya"
+    slug: "ababbebbulaniya"
+    name_toc: "Ebbaluŋa eyiri Ababbebbulaniya"
+  "JAS":
+    name: "Yakobbo"
+    slug: "yakobbo"
+    name_toc: "Ebbaluŋa ya Yakobbo"
+  "1PE":
+    name: "1 Peetero"
+    slug: "1-peetero"
+    name_toc: "Ebbaluŋa endaayi eya Peetero"
+  "2PE":
+    name: "2 Peetero"
+    slug: "2-peetero"
+    name_toc: "Ebbaluŋa eyohubiri eya Peetero"
+  "1JN":
+    name: "1 Yowaane"
+    slug: "1-yowaane"
+    name_toc: "Ebbaluŋa endaayi eya Yowaane"
+  "2JN":
+    name: "2 Yowaane"
+    slug: "2-yowaane"
+    name_toc: "Ebbaluŋa eyohubiri eya Yowaane"
+  "3JN":
+    name: "3 Yowaane"
+    slug: "3-yowaane"
+    name_toc: "Ebbaluŋa eyohudatu eya Yowaane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ebbaluŋa eya Yuda"
+  "REV":
+    name: "Ohuhwehula"
+    slug: "ohuhwehula"
+    name_toc: "Ebiitu ebi Yesu gahwehulira Yowaane"

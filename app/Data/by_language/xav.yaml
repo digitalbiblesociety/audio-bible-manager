@@ -1,0 +1,125 @@
+language: "xav"
+books:
+  "GEN":
+    name: "Zenezi"
+    slug: "zenezi"
+  "EXO":
+    name: "Ezodu"
+    slug: "ezodu"
+  "JOS":
+    name: "Zozué"
+    slug: "zozue"
+  "JDG":
+    name: "Zuize"
+    slug: "zuize"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samuéu"
+    slug: "1-samueu"
+  "EZR":
+    name: "Esdra"
+    slug: "esdra"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+  "PSA":
+    name: "Salmu"
+    slug: "salmu"
+  "PRO":
+    name: "Provébiu"
+    slug: "provebiu"
+  "DAN":
+    name: "Daniéu"
+    slug: "danieu"
+  "JOL":
+    name: "Zoéu"
+    slug: "zoeu"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "JON":
+    name: "Zona"
+    slug: "zona"
+  "MAT":
+    name: "Mateusi"
+    slug: "mateusi"
+  "MRK":
+    name: "Marcusi"
+    slug: "marcusi"
+  "LUK":
+    name: "Rucasi"
+    slug: "rucasi"
+  "JHN":
+    name: "Zuwã"
+    slug: "zuwa"
+  "ACT":
+    name: "Atusi"
+    slug: "atusi"
+  "ROM":
+    name: "Romanu"
+    slug: "romanu"
+  "1CO":
+    name: "1 Corĩtu"
+    slug: "1-coritu"
+  "2CO":
+    name: "2 Torĩtu"
+    slug: "2-toritu"
+  "GAL":
+    name: "Darasiza"
+    slug: "darasiza"
+  "EPH":
+    name: "Épézu"
+    slug: "epezu"
+  "PHP":
+    name: "Piripu"
+    slug: "piripu"
+  "COL":
+    name: "Torosu"
+    slug: "torosu"
+  "1TH":
+    name: "1 Tesaronita"
+    slug: "1-tesaronita"
+  "2TH":
+    name: "2 Tesaronita"
+    slug: "2-tesaronita"
+  "1TI":
+    name: "1 Timotiu"
+    slug: "1-timotiu"
+  "2TI":
+    name: "2 Timotiu"
+    slug: "2-timotiu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Piremo"
+    slug: "piremo"
+  "HEB":
+    name: "Ebreusi"
+    slug: "ebreusi"
+  "JAS":
+    name: "Ti'adu"
+    slug: "tiadu"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+  "1JN":
+    name: "1 Zuwã"
+    slug: "1-zuwa"
+  "2JN":
+    name: "2 Zuwã"
+    slug: "2-zuwa"
+  "3JN":
+    name: "3 Zuwã"
+    slug: "3-zuwa"
+  "JUD":
+    name: "Zudasi"
+    slug: "zudasi"
+  "REV":
+    name: "Apocaripsi"
+    slug: "apocaripsi"

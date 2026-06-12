@@ -1,0 +1,83 @@
+language: "xon"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jɔnn"
+    slug: "jnn"
+  "ACT":
+    name: "Lituln"
+    slug: "lituln"
+  "ROM":
+    name: "Rom Yaab"
+    slug: "rom-yaab"
+  "1CO":
+    name: "1 Korint Yaab"
+    slug: "1-korint-yaab"
+  "2CO":
+    name: "2 Korint Yaab"
+    slug: "2-korint-yaab"
+  "GAL":
+    name: "Galasia Yaab"
+    slug: "galasia-yaab"
+  "EPH":
+    name: "Efesus Yaab"
+    slug: "efesus-yaab"
+  "PHP":
+    name: "Filipi Yaab"
+    slug: "filipi-yaab"
+  "COL":
+    name: "Kolose Yaab"
+    slug: "kolose-yaab"
+  "1TH":
+    name: "1 Tesalonika Yaab"
+    slug: "1-tesalonika-yaab"
+  "2TH":
+    name: "2 Tesalonika Yaab"
+    slug: "2-tesalonika-yaab"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemonn"
+    slug: "filemonn"
+  "HEB":
+    name: "Hiibru Yaab"
+    slug: "hiibru-yaab"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jɔnn"
+    slug: "1-jnn"
+  "2JN":
+    name: "2 Jɔnn"
+    slug: "2-jnn"
+  "3JN":
+    name: "3 Jɔnn"
+    slug: "3-jnn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Tibɔkpiirkaan"
+    slug: "tibkpiirkaan"

@@ -1,0 +1,95 @@
+language: "eko"
+books:
+  "GEN":
+    name: "Mwanzo"
+    slug: "mwanzo"
+  "EXO":
+    name: "Olaawo"
+    slug: "olaawo"
+  "PSA":
+    name: "Zaapuura"
+    slug: "zaapuura"
+  "JON":
+    name: "Yuunusa"
+    slug: "yuunusa"
+  "MAT":
+    name: "Matewuzhu"
+    slug: "matewuzhu"
+  "MRK":
+    name: "Maaruku"
+    slug: "maaruku"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yaahaya"
+    slug: "yaahaya"
+  "ACT":
+    name: "Oweziwa wa Yinsa"
+    slug: "oweziwa-wa-yinsa"
+  "ROM":
+    name: "Arooma"
+    slug: "arooma"
+  "1CO":
+    name: "1 Akorintiyu"
+    slug: "1-akorintiyu"
+  "2CO":
+    name: "2 Akorintiyu"
+    slug: "2-akorintiyu"
+  "GAL":
+    name: "Akaalata"
+    slug: "akaalata"
+  "EPH":
+    name: "Ayeefezu"
+    slug: "ayeefezu"
+  "PHP":
+    name: "Afiliipu"
+    slug: "afiliipu"
+  "COL":
+    name: "Akoloosu"
+    slug: "akoloosu"
+  "1TH":
+    name: "1 Atizaloonika"
+    slug: "1-atizaloonika"
+  "2TH":
+    name: "2 Atizaloonika"
+    slug: "2-atizaloonika"
+  "1TI":
+    name: "Timootiyu"
+    slug: "timootiyu"
+  "2TI":
+    name: "2 Timootiyu"
+    slug: "2-timootiyu"
+  "TIT":
+    name: "Tiitu"
+    slug: "tiitu"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+  "HEB":
+    name: "Meepereewu"
+    slug: "meepereewu"
+  "JAS":
+    name: "Tiyaaku"
+    slug: "tiyaaku"
+  "1PE":
+    name: "1 Pheeturu"
+    slug: "1-pheeturu"
+  "2PE":
+    name: "2 Pheeturu"
+    slug: "2-pheeturu"
+  "1JN":
+    name: "1 Yaahaya"
+    slug: "1-yaahaya"
+  "2JN":
+    name: "2 Yaahaya"
+    slug: "2-yaahaya"
+  "3JN":
+    name: "3 Yaahaya"
+    slug: "3-yaahaya"
+  "JUD":
+    name: "Yuuda"
+    slug: "yuuda"
+  "REV":
+    name: "Othoonyeziwa"
+    slug: "othoonyeziwa"

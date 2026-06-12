@@ -1,0 +1,83 @@
+language: "mrr"
+books:
+  "MAT":
+    name: "मत्याल रासतद बेसता कबुरि"
+    slug: "matyala-rasatada-besata-kaburi"
+  "MRK":
+    name: "मार्कल"
+    slug: "markala"
+  "LUK":
+    name: "लूकाल"
+    slug: "lukala"
+  "JHN":
+    name: "योहन"
+    slug: "yohana"
+  "ACT":
+    name: "बळयिराङ कबस्क"
+    slug: "balayirana-kabaska"
+  "ROM":
+    name: "रोम सहरतोरिह्‌क सीटि"
+    slug: "roma-saharatorihka-siti"
+  "1CO":
+    name: "1 कुरिंततोर"
+    slug: "1-kurimtatora"
+  "2CO":
+    name: "2 कुरिंततोर"
+    slug: "2-kurimtatora"
+  "GAL":
+    name: "गलातितोरिह्‌क सीटि"
+    slug: "galatitorihka-siti"
+  "EPH":
+    name: "इपिसुसतोरिह्‌क सीटि"
+    slug: "ipisusatorihka-siti"
+  "PHP":
+    name: "पिलिपितोरिह्‌क सीटि"
+    slug: "pilipitorihka-siti"
+  "COL":
+    name: "कुलुसितोरिह्‌क सीटि"
+    slug: "kulusitorihka-siti"
+  "1TH":
+    name: "तिसलुनितोरिह्‌क मुनेता सीटि"
+    slug: "tisalunitorihka-muneta-siti"
+  "2TH":
+    name: "तिसलुनितोरिह्‌क दुस्रा सीटि"
+    slug: "tisalunitorihka-dusra-siti"
+  "1TI":
+    name: "तिमोतिह्‌क मुनेता सीटि"
+    slug: "timotihka-muneta-siti"
+  "2TI":
+    name: "तिमोतिह्‌क दुस्रा मल्काता सीटि"
+    slug: "timotihka-dusra-malkata-siti"
+  "TIT":
+    name: "तीतुसिह्‌क सीटि"
+    slug: "titusihka-siti"
+  "PHM":
+    name: "पिलेमोनिह्‌क सीटि"
+    slug: "pilemonihka-siti"
+  "HEB":
+    name: "इब्रितोर"
+    slug: "ibritora"
+  "JAS":
+    name: "याकुब"
+    slug: "yakuba"
+  "1PE":
+    name: "पत्रुना मुनेता सीटि"
+    slug: "patruna-muneta-siti"
+  "2PE":
+    name: "पत्रुना दुस्रा सीटि"
+    slug: "patruna-dusra-siti"
+  "1JN":
+    name: "योहन रासतद मुनेता सीटि"
+    slug: "yohana-rasatada-muneta-siti"
+  "2JN":
+    name: "योहनना दुस्रा मल्काता सीटि"
+    slug: "yohanana-dusra-malkata-siti"
+  "3JN":
+    name: "योहनना मुचाकेपाता सीटि"
+    slug: "yohanana-mucakepata-siti"
+  "JUD":
+    name: "यहुदाल"
+    slug: "yahudala"
+  "REV":
+    name: "येसु तोह्‌चीतव पोल्‍लोङ"
+    slug: "yesu-tohcitava-pollona"

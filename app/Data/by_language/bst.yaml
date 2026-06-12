@@ -1,0 +1,83 @@
+language: "bst"
+books:
+  "MAT":
+    name: "ማ̈ቶ̈ሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማ̈ርቆ̈ሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃ̈ሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዋ̈ኒ̇ሳ"
+    slug: "wanisa"
+  "ACT":
+    name: "ሃዋ̈"
+    slug: "hawa"
+  "ROM":
+    name: "ሮሜ"
+    slug: "rome"
+  "1CO":
+    name: "1 ቆሮ"
+    slug: "1-qoro"
+  "2CO":
+    name: "2 ቆሮ"
+    slug: "2-qoro"
+  "GAL":
+    name: "ጋላ̈"
+    slug: "gala"
+  "EPH":
+    name: "ኤፍ"
+    slug: "ef"
+  "PHP":
+    name: "ፊል"
+    slug: "fil"
+  "COL":
+    name: "ቆላ̈"
+    slug: "qola"
+  "1TH":
+    name: "1 ታሳ"
+    slug: "1-tasa"
+  "2TH":
+    name: "2 ታሳ"
+    slug: "2-tasa"
+  "1TI":
+    name: "1 ጢማ̈"
+    slug: "1-tima"
+  "2TI":
+    name: "2 ጢማ̈"
+    slug: "2-tima"
+  "TIT":
+    name: "ቲ̈ታ̇"
+    slug: "tita"
+  "PHM":
+    name: "ፊልሞ̈ና"
+    slug: "filemona"
+  "HEB":
+    name: "ኢብ"
+    slug: "ib"
+  "JAS":
+    name: "ዓይ"
+    slug: "ay"
+  "1PE":
+    name: "1 ጴጥ"
+    slug: "1-pet"
+  "2PE":
+    name: "2 ጴጥ"
+    slug: "2-pet"
+  "1JN":
+    name: "1 ዋ̈ኒ̇"
+    slug: "1-wani"
+  "2JN":
+    name: "2 ዋ̈ኒ̇"
+    slug: "2-wani"
+  "3JN":
+    name: "3 ዋ̈ኒ̇"
+    slug: "3-wani"
+  "JUD":
+    name: "ዪሁ"
+    slug: "yihu"
+  "REV":
+    name: "ሳጻ"
+    slug: "sasa"

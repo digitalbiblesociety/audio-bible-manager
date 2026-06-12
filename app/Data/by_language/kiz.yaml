@@ -1,0 +1,83 @@
+language: "kiz"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Matendo ya Mitume"
+    slug: "matendo-ya-mitume"
+  "ROM":
+    name: "Bharumi"
+    slug: "bharumi"
+  "1CO":
+    name: "1 Wakorintho"
+    slug: "1-wakorintho"
+  "2CO":
+    name: "2Wakorintho"
+    slug: "2wakorintho"
+  "GAL":
+    name: "wagalatia"
+    slug: "wagalatia"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+  "1TH":
+    name: "1Wathesalonike"
+    slug: "1wathesalonike"
+  "2TH":
+    name: "2Bhathesalonike"
+    slug: "2bhathesalonike"
+  "1TI":
+    name: "1Timotheo"
+    slug: "1timotheo"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Waebrania"
+    slug: "waebrania"
+  "JAS":
+    name: "Waraka wa Yakobo"
+    slug: "waraka-wa-yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1Yohana 1"
+    slug: "1yohana-1"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ufunuo"
+    slug: "ufunuo"

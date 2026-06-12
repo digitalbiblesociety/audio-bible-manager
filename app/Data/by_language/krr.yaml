@@ -1,0 +1,92 @@
+language: "krr"
+books:
+  "GEN":
+    name: "ផាប់ កណើត ពដិះ គ្រែ"
+    slug: "phab-kanaeut-podeh-kre"
+  "RUT":
+    name: "ណាង រូត"
+    slug: "nang-rut"
+  "EST":
+    name: "ណាង អ៊ែសថើរ"
+    slug: "nang-esthaeur"
+  "MAT":
+    name: "ម៉ាថាយ"
+    slug: "mathay"
+  "MRK":
+    name: "ម៉ាកុះ"
+    slug: "makoh"
+  "LUK":
+    name: "លូកា"
+    slug: "luka"
+  "JHN":
+    name: "យ៉ូហាន"
+    slug: "yohan"
+  "ACT":
+    name: "ហាណាយ"
+    slug: "hanay"
+  "ROM":
+    name: "រ៉ូម"
+    slug: "rom"
+  "1CO":
+    name: "១ កូរិនថូស"
+    slug: "1-korinthos"
+  "2CO":
+    name: "២ កូរិនថូស"
+    slug: "2-korinthos"
+  "GAL":
+    name: "ឝ៉ាឡាទី"
+    slug: "salati"
+  "EPH":
+    name: "អ៊ែភីសូ"
+    slug: "ephiso"
+  "PHP":
+    name: "ភីលីប"
+    slug: "philib"
+  "COL":
+    name: "កូឡូស"
+    slug: "kolos"
+  "1TH":
+    name: "១ ធែសាឡូនិក"
+    slug: "1-thesalonik"
+  "2TH":
+    name: "២ ធែសាឡូនិក"
+    slug: "2-thesalonik"
+  "1TI":
+    name: "១ ធីម៉ូធ"
+    slug: "1-thimoth"
+  "2TI":
+    name: "២ ធីម៉ូធែ"
+    slug: "2-thimothe"
+  "TIT":
+    name: "ទីតុះ"
+    slug: "titoh"
+  "PHM":
+    name: "ភីលីម៉ូន"
+    slug: "philimon"
+  "HEB":
+    name: "ហ៊ែប្រ៊ឺ"
+    slug: "hebru"
+  "JAS":
+    name: "យ៉ាកុប"
+    slug: "yakob"
+  "1PE":
+    name: "១ ពីត្រុះ"
+    slug: "1-pitroh"
+  "2PE":
+    name: "២ ពីត្រុះ"
+    slug: "2-pitroh"
+  "1JN":
+    name: "១ យ៉ូហាន"
+    slug: "1-yohan"
+  "2JN":
+    name: "២ យ៉ូហាន"
+    slug: "2-yohan"
+  "3JN":
+    name: "៣ យ៉ូហាណ"
+    slug: "3-yohan"
+  "JUD":
+    name: "យូដះ"
+    slug: "yudh"
+  "REV":
+    name: "កាន ប៉ើក ពដៃ"
+    slug: "kan-baeuk-podai"

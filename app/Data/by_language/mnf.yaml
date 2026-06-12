@@ -1,0 +1,110 @@
+language: "mnf"
+books:
+  "MAT":
+    name: "Matìù"
+    slug: "matiu"
+    name_toc: "Ntu̧ Ntsɔ̧̀ MATÌÙ"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Ntu̧ Ntsɔ̧̀ MAK"
+  "LUK":
+    name: "Lûk"
+    slug: "luk"
+    name_toc: "Ntu̧ Ntsɔ̧̀ LÛK"
+  "JHN":
+    name: "Jɔ̌n"
+    slug: "jn"
+    name_toc: "Ntu̧ Ntsɔ̧̀ JƆÂN"
+  "ACT":
+    name: "ÀfaꞋa"
+    slug: "afaa"
+    name_toc: "ÀfaꞋa bɔntu̧ Yesò ÀFAꞋA"
+  "ROM":
+    name: "Lûm"
+    slug: "lum"
+    name_toc: "Letà Pɔ̂l abua bòt LÛM"
+  "1CO":
+    name: "1 Kɔlìn"
+    slug: "1-klin"
+    name_toc: "Letà mbì Pɔ̂l abua bòt KƆLÌN"
+  "2CO":
+    name: "2 Kɔlìn"
+    slug: "2-klin"
+    name_toc: "Letà kwèn Pɔ̂l abua bòt KƆLÌN"
+  "GAL":
+    name: "Gàlashìà"
+    slug: "galashia"
+    name_toc: "Letà Pɔ̂l abua bòt GÀLASHÌÀ"
+  "EPH":
+    name: "Efesɔ̀s"
+    slug: "efess"
+    name_toc: "Letà Pɔ̂l abua bòt EFESƆ̀S"
+  "PHP":
+    name: "Filìpȩ"
+    slug: "filipe"
+    name_toc: "Letà Pɔ̂l abua bòt FILÌPȨ"
+  "COL":
+    name: "Kɔ̀losìà"
+    slug: "klosia"
+    name_toc: "Letà Pɔ̂l abua bòt KƆ̀LOSÌÀ"
+  "1TH":
+    name: "1 Tèsàlonikà"
+    slug: "1-tesalonika"
+    name_toc: "Letà mbì Pɔ̂l abua bòt TÈSÀLONIKÀ"
+  "2TH":
+    name: "2 Tèsàlonikà"
+    slug: "2-tesalonika"
+    name_toc: "Letà kwèn Pɔ̂l abua bòt TÈSÀLONIKÀ"
+  "1TI":
+    name: "1 Tɔ̀màtià"
+    slug: "1-tmatia"
+    name_toc: "Letà Pɔ̂l mbì abua TƆ̀MÀTIÀ"
+  "2TI":
+    name: "2 Tɔ̀màtià"
+    slug: "2-tmatia"
+    name_toc: "Letà Pɔ̂l kwèn abua TƆ̀MÀTIÀ"
+  "TIT":
+    name: "Tȩtɔ̀s"
+    slug: "tets"
+    name_toc: "Letà Pɔ̂l abua TȨTƆ̀S"
+  "PHM":
+    name: "Fȩlemùn"
+    slug: "felemun"
+    name_toc: "Letà Pɔ̂l abua FȨLEMÙN"
+  "HEB":
+    name: "Ebùlù"
+    slug: "ebulu"
+    name_toc: "Letà abua bòt EBÙLÙ"
+  "JAS":
+    name: "Jimsì"
+    slug: "jimsi"
+    name_toc: "Letà JIMSÌ"
+  "1PE":
+    name: "1 Pità"
+    slug: "1-pita"
+    name_toc: "Letà mbì PITÀ"
+  "2PE":
+    name: "2 Pità"
+    slug: "2-pita"
+    name_toc: "Letà kwèn PITÀ"
+  "1JN":
+    name: "1 Jɔ̌n"
+    slug: "1-jn"
+    name_toc: "Letà mbì JƆÂN"
+  "2JN":
+    name: "2 Jɔ̌n"
+    slug: "2-jn"
+    name_toc: "Letà we babe JƆÂN"
+  "3JN":
+    name: "3 Jɔ̌n"
+    slug: "3-jn"
+    name_toc: "Letà we batat JƆÂN"
+  "JUD":
+    name: "Jûd"
+    slug: "jud"
+    name_toc: "Letà JÛD"
+  "REV":
+    name: "Ètsə"
+    slug: "etse"
+    name_toc: "Àkata Ètsə Jɔân li ndze la ÈTSƏ"

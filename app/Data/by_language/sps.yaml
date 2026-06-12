@@ -1,0 +1,89 @@
+language: "sps"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Binun Tan Amaraav"
+    slug: "binun-tan-amaraav"
+  "ROM":
+    name: "Roum"
+    slug: "roum"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efeses"
+    slug: "efeses"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "Vaamuan Tesalonaika"
+    slug: "vaamuan-tesalonaika"
+  "2TH":
+    name: "Fafuan Tesalonaika"
+    slug: "fafuan-tesalonaika"
+  "1TI":
+    name: "Vaamuan Timoti"
+    slug: "vaamuan-timoti"
+  "2TI":
+    name: "Fafuan Timoti"
+    slug: "fafuan-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hiburu"
+    slug: "hiburu"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "Vaamuan Jon"
+    slug: "vaamuan-jon"
+  "2JN":
+    name: "Fafuan Jon"
+    slug: "fafuan-jon"
+  "3JN":
+    name: "Fafofopis Jon"
+    slug: "fafofopis-jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Vegiaun Tapokaa"
+    slug: "vegiaun-tapokaa"

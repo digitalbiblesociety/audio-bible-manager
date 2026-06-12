@@ -1,0 +1,86 @@
+language: "sjm"
+books:
+  "GEN":
+    name: "Panagnaan"
+    slug: "panagnaan"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Malkus"
+    slug: "malkus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yahiya"
+    slug: "yahiya"
+  "ACT":
+    name: "Salsila siga Rasul"
+    slug: "salsila-siga-rasul"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolossa"
+    slug: "kolossa"
+  "1TH":
+    name: "1 Tesaloneka"
+    slug: "1-tesaloneka"
+  "2TH":
+    name: "2 Tesaloneka"
+    slug: "2-tesaloneka"
+  "1TI":
+    name: "1 Timuti"
+    slug: "1-timuti"
+  "2TI":
+    name: "2 Timuti"
+    slug: "2-timuti"
+  "TIT":
+    name: "Taytus"
+    slug: "taytus"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Hibrani"
+    slug: "hibrani"
+  "JAS":
+    name: "Yaꞌkub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Pitel"
+    slug: "1-pitel"
+  "2PE":
+    name: "2 Pitel"
+    slug: "2-pitel"
+  "1JN":
+    name: "1 Yahiya"
+    slug: "1-yahiya"
+  "2JN":
+    name: "2 Yahiya"
+    slug: "2-yahiya"
+  "3JN":
+    name: "3 Yahiya"
+    slug: "3-yahiya"
+  "JUD":
+    name: "Jūd"
+    slug: "jud"
+  "REV":
+    name: "Pinalahil"
+    slug: "pinalahil"

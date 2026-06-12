@@ -1,0 +1,83 @@
+language: "nhr"
+books:
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johane"
+    slug: "johane"
+  "ACT":
+    name: "Tséé Zi"
+    slug: "tsee-zi"
+  "ROM":
+    name: "Roma Ne"
+    slug: "roma-ne"
+  "1CO":
+    name: "1 Korinta Ne"
+    slug: "1-korinta-ne"
+  "2CO":
+    name: "2 Korinta Ne"
+    slug: "2-korinta-ne"
+  "GAL":
+    name: "Galatia Ne"
+    slug: "galatia-ne"
+  "EPH":
+    name: "Efeso Ne"
+    slug: "efeso-ne"
+  "PHP":
+    name: "Filipi Ne"
+    slug: "filipi-ne"
+  "COL":
+    name: "Kolosa Ne"
+    slug: "kolosa-ne"
+  "1TH":
+    name: "1 Tesalonika Ne"
+    slug: "1-tesalonika-ne"
+  "2TH":
+    name: "2 Tesalonika Ne"
+    slug: "2-tesalonika-ne"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemone"
+    slug: "filemone"
+  "HEB":
+    name: "Hebera Ne"
+    slug: "hebera-ne"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "1 Petere"
+    slug: "1-petere"
+  "2PE":
+    name: "2 Petere"
+    slug: "2-petere"
+  "1JN":
+    name: "1 Johane"
+    slug: "1-johane"
+  "2JN":
+    name: "2 Johane"
+    slug: "2-johane"
+  "3JN":
+    name: "3 Johane"
+    slug: "3-johane"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Xgòre-kg'ai"
+    slug: "xgore-kgai"

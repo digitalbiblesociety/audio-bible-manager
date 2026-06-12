@@ -1,0 +1,236 @@
+language: "hil"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+  "NUM":
+    name: "Numero"
+    slug: "numero"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+  "JDG":
+    name: "Hukom"
+    slug: "hukom"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Hari"
+    slug: "1-hari"
+  "2KI":
+    name: "2 Hari"
+    slug: "2-hari"
+  "1CH":
+    name: "1 Cronica"
+    slug: "1-cronica"
+  "2CH":
+    name: "2 Cronica"
+    slug: "2-cronica"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Salmo"
+    slug: "salmo"
+  "PRO":
+    name: "Hulubaton"
+    slug: "hulubaton"
+  "ECC":
+    name: "Manugwali"
+    slug: "manugwali"
+  "SNG":
+    name: "Kanta"
+    slug: "kanta"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+  "LAM":
+    name: "Panalambiton"
+    slug: "panalambiton"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MIC":
+    name: "Micas"
+    slug: "micas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zefanias"
+    slug: "zefanias"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+  "ZEC":
+    name: "Zacarias"
+    slug: "zacarias"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Ester (Griego)"
+    slug: "ester-griego"
+  "WIS":
+    name: "Ang Kaalam ni Solomon"
+    slug: "ang-kaalam-ni-solomon"
+  "SIR":
+    name: "Sirac"
+    slug: "sirac"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+  "LJE":
+    name: "Sulat ni Jeremias"
+    slug: "sulat-ni-jeremias"
+  "S3Y":
+    name: "Ambahanon sang Tatlo ka mga Pamatan-on"
+    slug: "ambahanon-sang-tatlo-ka-mga-pamatan-on"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+  "BEL":
+    name: "Bel kag ang Dragon"
+    slug: "bel-kag-ang-dragon"
+  "1MA":
+    name: "1 Macabeo"
+    slug: "1-macabeo"
+  "2MA":
+    name: "2 Macabeo"
+    slug: "2-macabeo"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Binuhatan"
+    slug: "binuhatan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+  "GAL":
+    name: "Galacia"
+    slug: "galacia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+  "1TH":
+    name: "1 Tesalonica"
+    slug: "1-tesalonica"
+  "2TH":
+    name: "2 Tesalonica"
+    slug: "2-tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Bugna"
+    slug: "bugna"

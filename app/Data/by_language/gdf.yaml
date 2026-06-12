@@ -1,0 +1,8 @@
+language: "gdf"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Markus"
+    slug: "markus"

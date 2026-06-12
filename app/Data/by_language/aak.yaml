@@ -1,0 +1,83 @@
+language: "aak"
+books:
+  "MAT":
+    name: "Mako"
+    slug: "mako"
+  "MRK":
+    name: "Ruko"
+    slug: "ruko"
+  "LUK":
+    name: "Jono"
+    slug: "jono"
+  "JHN":
+    name: "Wáɨ́ wurɨmeiarɨgɨ́áwa"
+    slug: "wai-wurimeiarigiawa"
+  "ACT":
+    name: "Romɨ"
+    slug: "romi"
+  "ROM":
+    name: "1 Korinɨ"
+    slug: "1-korini"
+  "1CO":
+    name: "2 Korinɨ"
+    slug: "2-korini"
+  "2CO":
+    name: "Garesia"
+    slug: "garesia"
+  "GAL":
+    name: "Epesasɨ"
+    slug: "epesasi"
+  "EPH":
+    name: "Piripai"
+    slug: "piripai"
+  "PHP":
+    name: "Korosi"
+    slug: "korosi"
+  "COL":
+    name: "1 Tesaronaika"
+    slug: "1-tesaronaika"
+  "1TH":
+    name: "2 Tesaronaika"
+    slug: "2-tesaronaika"
+  "2TH":
+    name: "1 Timotio"
+    slug: "1-timotio"
+  "1TI":
+    name: "2 Timotio"
+    slug: "2-timotio"
+  "2TI":
+    name: "Taitaso"
+    slug: "taitaso"
+  "TIT":
+    name: "Pairimono"
+    slug: "pairimono"
+  "PHM":
+    name: "Xibɨruyɨ́"
+    slug: "xibiruyi"
+  "HEB":
+    name: "Jemiso"
+    slug: "jemiso"
+  "JAS":
+    name: "1 Pitao"
+    slug: "1-pitao"
+  "1PE":
+    name: "2 Pitao"
+    slug: "2-pitao"
+  "2PE":
+    name: "1 Jono"
+    slug: "1-jono"
+  "1JN":
+    name: "2 Jono"
+    slug: "2-jono"
+  "2JN":
+    name: "3 Jono"
+    slug: "3-jono"
+  "3JN":
+    name: "Juto"
+    slug: "juto"
+  "JUD":
+    name: "Wɨ́á wómɨxɨnɨŋɨ́pɨ"
+    slug: "wia-womixininipi"
+  "REV":
+    name: "Wɨ́á wómɨxɨnɨŋɨ́pɨ"
+    slug: "wa-womxnp"

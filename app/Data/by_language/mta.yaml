@@ -1,0 +1,83 @@
+language: "mta"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Malkos"
+    slug: "malkos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Lukas"
+    slug: "lukas"
+  "ACT":
+    name: "Binaelan Sa Salu I Hésus"
+    slug: "binaelan-sa-salu-i-hesus"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolintu"
+    slug: "1-kolintu"
+  "2CO":
+    name: "2 Kolintu"
+    slug: "2-kolintu"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Épéso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipos"
+    slug: "pilipos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tésalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tésalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotiyu"
+    slug: "1-timotiyu"
+  "2TI":
+    name: "1 Timotiyu"
+    slug: "1-timotiyu"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibelu"
+    slug: "hibelu"
+  "JAS":
+    name: "Santiyago"
+    slug: "santiyago"
+  "1PE":
+    name: "1 Pidelu"
+    slug: "1-pidelu"
+  "2PE":
+    name: "2 Pidelu"
+    slug: "2-pidelu"
+  "1JN":
+    name: "1 Huwan"
+    slug: "1-huwan"
+  "2JN":
+    name: "2 Huwan"
+    slug: "2-huwan"
+  "3JN":
+    name: "3 Huwan"
+    slug: "3-huwan"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+  "REV":
+    name: "Kepehaa I Hésus Kelistu"
+    slug: "kepehaa-i-hesus-kelistu"

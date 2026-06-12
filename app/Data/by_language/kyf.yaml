@@ -1,0 +1,83 @@
+language: "kyf"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Malɩkɩ"
+    slug: "malk"
+  "LUK":
+    name: "Lukɩ"
+    slug: "luk"
+  "JHN":
+    name: "Zaan"
+    slug: "zaan"
+  "ACT":
+    name: "Lɛnʋgbʋnya"
+    slug: "lngbnya"
+  "ROM":
+    name: "Wlɔmʋ -nyɩma"
+    slug: "wlm-nyma"
+  "1CO":
+    name: "1 Kolɛntɩ -nyɩma"
+    slug: "1-kolnt-nyma"
+  "2CO":
+    name: "2 Kolɛntɩ -nyɩma"
+    slug: "2-kolnt-nyma"
+  "GAL":
+    name: "-Galasii -nyɩma"
+    slug: "galasii-nyma"
+  "EPH":
+    name: "Efɛzɩ -nyɩma"
+    slug: "efz-nyma"
+  "PHP":
+    name: "Filipʋ -nyɩma"
+    slug: "filip-nyma"
+  "COL":
+    name: "Kolɔsʋ -nyɩma"
+    slug: "kols-nyma"
+  "1TH":
+    name: "1 Tɛsalonikɩ -nyɩma"
+    slug: "1-tsalonik-nyma"
+  "2TH":
+    name: "2 Tɛsalonikɩ -nyɩma"
+    slug: "2-tsalonik-nyma"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Titɩ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eblenya"
+    slug: "eblenya"
+  "JAS":
+    name: "'Zake"
+    slug: "zake"
+  "1PE":
+    name: "1 Piɛlɩ"
+    slug: "1-pil"
+  "2PE":
+    name: "2 Piɛlɩ"
+    slug: "2-pil"
+  "1JN":
+    name: "1 Zaan"
+    slug: "1-zaan"
+  "2JN":
+    name: "2 Zaan"
+    slug: "2-zaan"
+  "3JN":
+    name: "3 Zaan"
+    slug: "3-zaan"
+  "JUD":
+    name: "Zudɩ"
+    slug: "zud"
+  "REV":
+    name: "Zaaan 'yliwʋgbʋnya"
+    slug: "zaaan-yliwgbnya"

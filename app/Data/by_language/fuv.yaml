@@ -1,0 +1,83 @@
+language: "fuv"
+books:
+  "MAT":
+    name: "Maatiyu"
+    slug: "maatiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"
+  "ACT":
+    name: "Kuuɗe Lilaaɓe"
+    slug: "kuue-lilaae"
+  "ROM":
+    name: "Roomanko'en"
+    slug: "roomanko-en"
+  "1CO":
+    name: "1 Korintiyanko'en"
+    slug: "1-korintiyanko-en"
+  "2CO":
+    name: "2 Korintiyanko'en"
+    slug: "2-korintiyanko-en"
+  "GAL":
+    name: "Galaatiyanko'en"
+    slug: "galaatiyanko-en"
+  "EPH":
+    name: "Aafisanko'en"
+    slug: "aafisanko-en"
+  "PHP":
+    name: "Filibiyanko'en"
+    slug: "filibiyanko-en"
+  "COL":
+    name: "Koloosiyanko'en"
+    slug: "koloosiyanko-en"
+  "1TH":
+    name: "1 Tasaloonikanko'en"
+    slug: "1-tasaloonikanko-en"
+  "2TH":
+    name: "2 Tasaloonikanko'en"
+    slug: "2-tasaloonikanko-en"
+  "1TI":
+    name: "1 Timooti"
+    slug: "1-timooti"
+  "2TI":
+    name: "2 Timooti"
+    slug: "2-timooti"
+  "TIT":
+    name: "Tiitus"
+    slug: "tiitus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ibraaniyanko'en"
+    slug: "ibraaniyanko-en"
+  "JAS":
+    name: "Yaakubu"
+    slug: "yaakubu"
+  "1PE":
+    name: "1 Biiturus"
+    slug: "1-biiturus"
+  "2PE":
+    name: "2 Biiturus"
+    slug: "2-biiturus"
+  "1JN":
+    name: "1 Yahaya"
+    slug: "1-yahaya"
+  "2JN":
+    name: "2 Yahaya"
+    slug: "2-yahaya"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Yahuuda"
+    slug: "yahuuda"
+  "REV":
+    name: "Wahayu Yahaya"
+    slug: "wahayu-yahaya"

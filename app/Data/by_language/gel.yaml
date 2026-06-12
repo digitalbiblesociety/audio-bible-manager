@@ -1,0 +1,47 @@
+language: "gel"
+books:
+  "GEN":
+    name: "U̱r-Taku̱n"
+    slug: "ur-takun"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JON":
+    name: "Yunana"
+    slug: "yunana"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Roma-ne̱"
+    slug: "roma-ne"
+  "GAL":
+    name: "Garatiya-ne̱"
+    slug: "garatiya-ne"
+  "EPH":
+    name: "Afisa-ne̱"
+    slug: "afisa-ne"
+  "PHP":
+    name: "Firipi-ne̱"
+    slug: "firipi-ne"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "REV":
+    name: "Hyan-u"
+    slug: "hyan-u"

@@ -1,0 +1,5 @@
+language: "pdo"
+books:
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"

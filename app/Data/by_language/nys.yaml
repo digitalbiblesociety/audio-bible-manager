@@ -1,0 +1,8 @@
+language: "nys"
+books:
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "LUK":
+    name: "Luk"
+    slug: "luk"

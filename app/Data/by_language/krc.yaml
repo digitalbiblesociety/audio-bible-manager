@@ -1,0 +1,110 @@
+language: "krc"
+books:
+  "PSA":
+    name: "Забур"
+    slug: "zabur"
+    name_toc: "Забур"
+  "MAT":
+    name: "Маттай"
+    slug: "mattaj"
+    name_toc: "Маттай Жазгъан Сыйлы Инжил"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+    name_toc: "Марк Жазгъан Сыйлы Инжил"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+    name_toc: "Лука Жазгъан Сыйлы Инжил"
+  "JHN":
+    name: "Ахия"
+    slug: "ahia"
+    name_toc: "Ахия Жазгъан Сыйлы Инжил"
+  "ACT":
+    name: "Ишлери"
+    slug: "isleri"
+    name_toc: "Абустолланы Этген Ишлери"
+  "ROM":
+    name: "Римлилеге"
+    slug: "rimlilege"
+    name_toc: "Пауулну Римлилеге Жазып Ийгени"
+  "1CO":
+    name: "I Коринфлилеге"
+    slug: "i-korinflilege"
+    name_toc: "Пауулну Коринфлилеге Биринчи Жазып Ийгени"
+  "2CO":
+    name: "II Коринфлилеге"
+    slug: "ii-korinflilege"
+    name_toc: "Пауулну Коринфлилеге Экинчи Жазып Ийгени"
+  "GAL":
+    name: "Галатиялылагъа"
+    slug: "galatialylaga"
+    name_toc: "Пауулну Галатиялылагъа Жазып Ийгени"
+  "EPH":
+    name: "Эфеслилеге"
+    slug: "efeslilege"
+    name_toc: "Пауулну Эфеслилеге Жазып Ийгени"
+  "COL":
+    name: "Колослулагъа"
+    slug: "koloslulaga"
+    name_toc: "Пауулну Колослулагъа Жазып Ийгени"
+  "1TH":
+    name: "I Фесалоникачылагъа"
+    slug: "i-fesalonikacylaga"
+    name_toc: "Пауулну Фесалоникачылагъа Биринчи Жазып Ийгени"
+  "2TH":
+    name: "II Фесалоникачылагъа"
+    slug: "ii-fesalonikacylaga"
+    name_toc: "Пауулну Фесалоникачылагъа Экинчи Жазып Ийгени"
+  "1TI":
+    name: "I Тимотейге"
+    slug: "i-timotejge"
+    name_toc: "Пауулну Тимотейге Биринчи Жазып Ийгени"
+  "2TI":
+    name: "II Тимотейге"
+    slug: "ii-timotejge"
+    name_toc: "Пауулну Тимотейге Экинчи Жазып Ийгени"
+  "TIT":
+    name: "Титге"
+    slug: "titge"
+    name_toc: "Пауулну Титге Жазып Ийгени"
+  "PHM":
+    name: "Филимоннга"
+    slug: "filimonnga"
+    name_toc: "Пауулну Филимоннга Жазып Ийгени"
+  "HEB":
+    name: "Чюйютлелеге"
+    slug: "cujutlelege"
+    name_toc: "Чюйютлелеге Жазылып Ийилген"
+  "JAS":
+    name: "Якъуп"
+    slug: "akup"
+    name_toc: "Якъупну Жамауатха Жазып Ийгени"
+  "1PE":
+    name: "I Петер"
+    slug: "i-peter"
+    name_toc: "Петерни Жамауатха Биринчи Жазып Ийгени"
+  "2PE":
+    name: "II Петер"
+    slug: "ii-peter"
+    name_toc: "Петерни Жамауатха Экинчи Жазып Ийгени"
+  "1JN":
+    name: "I Ахия"
+    slug: "i-ahia"
+    name_toc: "Ахияны Жамауатха Биринчи Жазып Ийгени"
+  "2JN":
+    name: "II Ахия"
+    slug: "ii-ahia"
+    name_toc: "Ахияны Жамауатха Экинчи Жазып Ийгени"
+  "3JN":
+    name: "III Ахия"
+    slug: "iii-ahia"
+    name_toc: "Ахияны Жамауатха Ючюнчю Жазып Ийгени"
+  "JUD":
+    name: "Яхуда"
+    slug: "ahuda"
+    name_toc: "Яхуданы Жамауатха Жазып Ийгени"
+  "REV":
+    name: "Билим Ачханы"
+    slug: "bilim-achany"
+    name_toc: "Аллахны Ахиягъа Билим Ачханы"

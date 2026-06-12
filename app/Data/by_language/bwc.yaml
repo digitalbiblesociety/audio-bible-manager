@@ -1,0 +1,11 @@
+language: "bwc"
+books:
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+  "2TH":
+    name: "2Tesalonika"
+    slug: "2tesalonika"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"

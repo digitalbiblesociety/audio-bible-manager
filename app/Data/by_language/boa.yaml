@@ -1,0 +1,83 @@
+language: "boa"
+books:
+  "MAT":
+    name: "Matéó"
+    slug: "mateo"
+  "MRK":
+    name: "Mááco"
+    slug: "maaco"
+  "LUK":
+    name: "Róóca"
+    slug: "rooca"
+  "JHN":
+    name: "Jóáa"
+    slug: "joaa"
+  "ACT":
+    name: "Héécho"
+    slug: "heecho"
+  "ROM":
+    name: "Romááno"
+    slug: "romaano"
+  "1CO":
+    name: "1 Coríítio"
+    slug: "1-coriitio"
+  "2CO":
+    name: "2 Coríítio"
+    slug: "2-coriitio"
+  "GAL":
+    name: "Gáárata"
+    slug: "gaarata"
+  "EPH":
+    name: "Epéétsio"
+    slug: "epeetsio"
+  "PHP":
+    name: "Piripéétse"
+    slug: "piripeetse"
+  "COL":
+    name: "Corotséétse"
+    slug: "corotseetse"
+  "1TH":
+    name: "1 Tetseronitséétse"
+    slug: "1-tetseronitseetse"
+  "2TH":
+    name: "2 Tetseronitséétse"
+    slug: "2-tetseronitseetse"
+  "1TI":
+    name: "1 Timotéo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timotéo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tííto"
+    slug: "tiito"
+  "PHM":
+    name: "Piremóo"
+    slug: "piremoo"
+  "HEB":
+    name: "Heeberéo"
+    slug: "heebereo"
+  "JAS":
+    name: "Tsajtiágo"
+    slug: "tsajtiago"
+  "1PE":
+    name: "1 Péédoro"
+    slug: "1-peedoro"
+  "2PE":
+    name: "2 Péédoro"
+    slug: "2-peedoro"
+  "1JN":
+    name: "1 Jóáa"
+    slug: "1-joaa"
+  "2JN":
+    name: "2 Jóáa"
+    slug: "2-joaa"
+  "3JN":
+    name: "3 Jóáa"
+    slug: "3-joaa"
+  "JUD":
+    name: "Jóódaá"
+    slug: "joodaa"
+  "REV":
+    name: "Apocaríhtsi"
+    slug: "apocarihtsi"

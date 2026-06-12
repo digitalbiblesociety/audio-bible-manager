@@ -1,0 +1,200 @@
+language: "cnk"
+books:
+  "GEN":
+    name: "Atiti Awm Angchei Nai"
+    slug: "atiti-awm-angchei-nai"
+  "EXO":
+    name: "Theu Nai"
+    slug: "theu-nai"
+  "LEV":
+    name: "Levi"
+    slug: "levi"
+  "NUM":
+    name: "Kati Nai"
+    slug: "kati-nai"
+  "DEU":
+    name: "Leu Thui Nai"
+    slug: "leu-thui-nai"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Tara Chih Nai Keungchi"
+    slug: "tara-chih-nai-keungchi"
+  "RUT":
+    name: "Ruthi"
+    slug: "ruthi"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Areng Keh"
+    slug: "1-areng-keh"
+  "2KI":
+    name: "2 Areng Keh"
+    slug: "2-areng-keh"
+  "1CH":
+    name: "1 Neng Satang"
+    slug: "1-neng-satang"
+  "2CH":
+    name: "2 Neng Satang"
+    slug: "2-neng-satang"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Joba"
+    slug: "joba"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Leu Kacheng"
+    slug: "leu-kacheng"
+  "ECC":
+    name: "Parip nai leu"
+    slug: "parip-nai-leu"
+  "SNG":
+    name: "Solomon i khulym"
+    slug: "solomon-i-khulym"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Tangam Nai Leu"
+    slug: "tangam-nai-leu"
+  "EZK":
+    name: "Ezekiela"
+    slug: "ezekiela"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joela"
+    slug: "joela"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zephaniah"
+    slug: "zephaniah"
+  "HAG":
+    name: "Hakai"
+    slug: "hakai"
+  "ZEC":
+    name: "Zekhariah"
+    slug: "zekhariah"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+  "MAT":
+    name: "Matthai"
+    slug: "matthai"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johan"
+    slug: "johan"
+  "ACT":
+    name: "Amtaw"
+    slug: "amtaw"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "I Korinth"
+    slug: "i-korinth"
+  "2CO":
+    name: "II Korinth"
+    slug: "ii-korinth"
+  "GAL":
+    name: "Kalatia"
+    slug: "kalatia"
+  "EPH":
+    name: "Ephesi"
+    slug: "ephesi"
+  "PHP":
+    name: "Philipi"
+    slug: "philipi"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "I Thesalonika"
+    slug: "i-thesalonika"
+  "2TH":
+    name: "II Thesalonika"
+    slug: "ii-thesalonika"
+  "1TI":
+    name: "I Timothei"
+    slug: "i-timothei"
+  "2TI":
+    name: "II Timothei"
+    slug: "ii-timothei"
+  "TIT":
+    name: "Tita"
+    slug: "tita"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrai"
+    slug: "hebrai"
+  "JAS":
+    name: "Jakob"
+    slug: "jakob"
+  "1PE":
+    name: "I Petera"
+    slug: "i-petera"
+  "2PE":
+    name: "II Petera"
+    slug: "ii-petera"
+  "1JN":
+    name: "I Johan"
+    slug: "i-johan"
+  "2JN":
+    name: "II Johan"
+    slug: "ii-johan"
+  "3JN":
+    name: "III Johan"
+    slug: "iii-johan"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Amteng Hai Nai"
+    slug: "amteng-hai-nai"

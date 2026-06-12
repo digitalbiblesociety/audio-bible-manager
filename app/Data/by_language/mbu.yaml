@@ -1,0 +1,110 @@
+language: "mbu"
+books:
+  "GEN":
+    name: "Tite"
+    slug: "tite"
+  "EXO":
+    name: "Puro"
+    slug: "puro"
+  "LEV":
+    name: "Ace Apǝris"
+    slug: "ace-apris"
+  "NUM":
+    name: "Ɓal"
+    slug: "al"
+  "DEU":
+    name: "Ɓǝs Nggur"
+    slug: "s-nggur"
+  "JOS":
+    name: "Jesǝ"
+    slug: "jes"
+  "JDG":
+    name: "Akas"
+    slug: "akas"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samu"
+    slug: "1-samu"
+  "2SA":
+    name: "2 Samu"
+    slug: "2-samu"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Amǝ Mishan"
+    slug: "am-mishan"
+  "ROM":
+    name: "Amǝ Roma"
+    slug: "am-roma"
+  "1CO":
+    name: "1 Amǝ Korinti"
+    slug: "1-am-korinti"
+  "2CO":
+    name: "2 Amǝ Korinti"
+    slug: "2-am-korinti"
+  "GAL":
+    name: "Amǝ Galati"
+    slug: "am-galati"
+  "EPH":
+    name: "Amǝ Afisu"
+    slug: "am-afisu"
+  "PHP":
+    name: "Amǝ Filipi"
+    slug: "am-filipi"
+  "COL":
+    name: "Amǝ Kolosi"
+    slug: "am-kolosi"
+  "1TH":
+    name: "1 Amǝ Tasalonika"
+    slug: "1-am-tasalonika"
+  "2TH":
+    name: "2 Amǝ Tasalonika"
+    slug: "2-am-tasalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Amǝ Ibǝru"
+    slug: "am-ibru"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "1 Bitǝrus"
+    slug: "1-bitrus"
+  "2PE":
+    name: "2 Bitǝrus"
+    slug: "2-bitrus"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Sǝna"
+    slug: "sna"

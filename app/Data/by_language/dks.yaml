@@ -1,0 +1,83 @@
+language: "dks"
+books:
+  "MAT":
+    name: "Matheo"
+    slug: "matheo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joon"
+    slug: "joon"
+  "ACT":
+    name: "Luɔi Atuuc"
+    slug: "lui-atuuc"
+  "ROM":
+    name: "Kɔc pan Roma"
+    slug: "kc-pan-roma"
+  "1CO":
+    name: "1 Korinth"
+    slug: "1-korinth"
+  "2CO":
+    name: "2 Korinth"
+    slug: "2-korinth"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epethuth"
+    slug: "epethuth"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolothia"
+    slug: "kolothia"
+  "1TH":
+    name: "1 Thethalonika"
+    slug: "1-thethalonika"
+  "2TH":
+    name: "2 Thethalonika"
+    slug: "2-thethalonika"
+  "1TI":
+    name: "1 Timothï"
+    slug: "1-timothi"
+  "2TI":
+    name: "2 Timothï"
+    slug: "2-timothi"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Athör cï gät kɔc Itharel cï gam"
+    slug: "athor-ci-gat-kc-itharel-ci-gam"
+  "JAS":
+    name: "Jemith"
+    slug: "jemith"
+  "1PE":
+    name: "1 Pïtɛr"
+    slug: "1-pitr"
+  "2PE":
+    name: "2 Pïtɛr"
+    slug: "2-pitr"
+  "1JN":
+    name: "1 Joon"
+    slug: "1-joon"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Nyuuth tënë Joon"
+    slug: "nyuuth-tene-joon"

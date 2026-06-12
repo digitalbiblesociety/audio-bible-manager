@@ -1,0 +1,68 @@
+language: "yaf"
+books:
+  "MAT":
+    name: "Mathayi"
+    slug: "mathayi"
+  "MRK":
+    name: "Malaku"
+    slug: "malaku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowani"
+    slug: "yowani"
+  "ACT":
+    name: "Mihangu"
+    slug: "mihangu"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "Watheti wa Khoditu"
+    slug: "watheti-wa-khoditu"
+  "GAL":
+    name: "Ngalatya"
+    slug: "ngalatya"
+  "EPH":
+    name: "Efesu"
+    slug: "efesu"
+  "PHP":
+    name: "Fidiphu"
+    slug: "fidiphu"
+  "COL":
+    name: "Kholosayi"
+    slug: "kholosayi"
+  "1TH":
+    name: "Watheti wa Tesalonika"
+    slug: "watheti-wa-tesalonika"
+  "2TH":
+    name: "Wazodi wa Tesalonika"
+    slug: "wazodi-wa-tesalonika"
+  "1TI":
+    name: "Watheti wa Thimoti"
+    slug: "watheti-wa-thimoti"
+  "2TI":
+    name: "Wazodi wa Thimoti"
+    slug: "wazodi-wa-thimoti"
+  "TIT":
+    name: "Mukanda kwena Titi"
+    slug: "mukanda-kwena-titi"
+  "PHM":
+    name: "Fidimoni"
+    slug: "fidimoni"
+  "HEB":
+    name: "Hebelu"
+    slug: "hebelu"
+  "JAS":
+    name: "Zyaki"
+    slug: "zyaki"
+  "1JN":
+    name: "Watheti wa Yowani"
+    slug: "watheti-wa-yowani"
+  "2JN":
+    name: "Wazodi wa Yowani"
+    slug: "wazodi-wa-yowani"
+  "3JN":
+    name: "Watatu wa Yowani"
+    slug: "watatu-wa-yowani"

@@ -1,0 +1,200 @@
+language: "kac"
+books:
+  "GEN":
+    name: "Ningpawt Ninghpang"
+    slug: "ningpawt-ninghpang"
+  "EXO":
+    name: "Pru Mat Wa Ai"
+    slug: "pru-mat-wa-ai"
+  "LEV":
+    name: "Jaw Jau"
+    slug: "jaw-jau"
+  "NUM":
+    name: "Bu Hkawm"
+    slug: "bu-hkawm"
+  "DEU":
+    name: "Tara Jahprang"
+    slug: "tara-jahprang"
+  "JOS":
+    name: "Yawshu"
+    slug: "yawshu"
+  "JDG":
+    name: "Tara Agyi"
+    slug: "tara-agyi"
+  "RUT":
+    name: "Ruhta"
+    slug: "ruhta"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Hkawhkam"
+    slug: "1-hkawhkam"
+  "2KI":
+    name: "2 Hkawhkam"
+    slug: "2-hkawhkam"
+  "1CH":
+    name: "1 Hkawhkam Labau"
+    slug: "1-hkawhkam-labau"
+  "2CH":
+    name: "2 Hkawhkam Labau"
+    slug: "2-hkawhkam-labau"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Eshta"
+    slug: "eshta"
+  "JOB":
+    name: "Yoba"
+    slug: "yoba"
+  "PSA":
+    name: "Shakawn Kungdawn"
+    slug: "shakawn-kungdawn"
+  "PRO":
+    name: "Ga Shagawp"
+    slug: "ga-shagawp"
+  "ECC":
+    name: "Hpaji Ningli"
+    slug: "hpaji-ningli"
+  "SNG":
+    name: "Shawlumon A Mahkawn Ga"
+    slug: "shawlumon-a-mahkawn-ga"
+  "ISA":
+    name: "Esaia"
+    slug: "esaia"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Sharung Shayawt"
+    slug: "sharung-shayawt"
+  "EZK":
+    name: "Ezekela"
+    slug: "ezekela"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoela"
+    slug: "yoela"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mihka"
+    slug: "mihka"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+  "ZEP":
+    name: "Zehpani"
+    slug: "zehpani"
+  "HAG":
+    name: "Hagi"
+    slug: "hagi"
+  "ZEC":
+    name: "Zehkaria"
+    slug: "zehkaria"
+  "MAL":
+    name: "Malahki Laika"
+    slug: "malahki-laika"
+  "MAT":
+    name: "Mahte"
+    slug: "mahte"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yawhan"
+    slug: "yawhan"
+  "ACT":
+    name: "Kasa"
+    slug: "kasa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinhtu"
+    slug: "1-korinhtu"
+  "2CO":
+    name: "2 Korinhtu"
+    slug: "2-korinhtu"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Ehpesu"
+    slug: "ehpesu"
+  "PHP":
+    name: "Hpilipi"
+    slug: "hpilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Htesaloni"
+    slug: "1-htesaloni"
+  "2TH":
+    name: "2 Htesaloni"
+    slug: "2-htesaloni"
+  "1TI":
+    name: "1 Timohti"
+    slug: "1-timohti"
+  "2TI":
+    name: "2 Timohti"
+    slug: "2-timohti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Hpilemon"
+    slug: "hpilemon"
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+  "JAS":
+    name: "Yaku"
+    slug: "yaku"
+  "1PE":
+    name: "1 Petru"
+    slug: "1-petru"
+  "2PE":
+    name: "2 Petru"
+    slug: "2-petru"
+  "1JN":
+    name: "1 Yawhan"
+    slug: "1-yawhan"
+  "2JN":
+    name: "2 Yawhan"
+    slug: "2-yawhan"
+  "3JN":
+    name: "3 Yawhan"
+    slug: "3-yawhan"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Shingran"
+    slug: "shingran"

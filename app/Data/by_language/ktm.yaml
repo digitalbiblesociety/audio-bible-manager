@@ -1,0 +1,14 @@
+language: "ktm"
+books:
+  "GEN":
+    name: "Lin"
+    slug: "lin"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"

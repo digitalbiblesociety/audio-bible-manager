@@ -1,0 +1,200 @@
+language: "tur"
+books:
+  "GEN":
+    name: "Yaratiliş"
+    slug: "yaratilis"
+  "EXO":
+    name: "Çikiş"
+    slug: "cikis"
+  "LEV":
+    name: "Levi̇li̇ler"
+    slug: "levililer"
+  "NUM":
+    name: "Sayilar"
+    slug: "sayilar"
+  "DEU":
+    name: "Yasa'nin Tekrari"
+    slug: "yasa-nin-tekrari"
+  "JOS":
+    name: "Yeşu"
+    slug: "yesu"
+  "JDG":
+    name: "Hâki̇mler"
+    slug: "hakimler"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "I. Samuel"
+    slug: "i-samuel"
+  "2SA":
+    name: "2. Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1. Krallar"
+    slug: "1-krallar"
+  "2KI":
+    name: "2. Krallar"
+    slug: "2-krallar"
+  "1CH":
+    name: "1. Tari̇hler"
+    slug: "1-tarihler"
+  "2CH":
+    name: "2. Tari̇hler"
+    slug: "2-tarihler"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemya"
+    slug: "nehemya"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "İyov"
+    slug: "iyov"
+  "PSA":
+    name: "Mezmurlar"
+    slug: "mezmurlar"
+  "PRO":
+    name: "Özdeyi̇şler"
+    slug: "ozdeyisler"
+  "ECC":
+    name: "Vai̇z"
+    slug: "vaiz"
+  "SNG":
+    name: "Solomon'un Ezgi̇si̇"
+    slug: "solomon-un-ezgisi"
+  "ISA":
+    name: "Yeşaya"
+    slug: "yesaya"
+  "JER":
+    name: "Yeremya"
+    slug: "yeremya"
+  "LAM":
+    name: "Ağitlar"
+    slug: "agitlar"
+  "EZK":
+    name: "Hezeki̇el"
+    slug: "hezekiel"
+  "DAN":
+    name: "Dani̇el"
+    slug: "daniel"
+  "HOS":
+    name: "Hoşea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Ovadya"
+    slug: "ovadya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mi̇ka"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Sefanya"
+    slug: "sefanya"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+  "ZEC":
+    name: "Zekarya"
+    slug: "zekarya"
+  "MAL":
+    name: "Malaki̇"
+    slug: "malaki"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Havarilerin Faaliyetleri"
+    slug: "havarilerin-faaliyetleri"
+  "ROM":
+    name: "Romalılar"
+    slug: "romalilar"
+  "1CO":
+    name: "1. Korintliler"
+    slug: "1-korintliler"
+  "2CO":
+    name: "2. Korintliler"
+    slug: "2-korintliler"
+  "GAL":
+    name: "Galatyalılar"
+    slug: "galatyalilar"
+  "EPH":
+    name: "Efesliler"
+    slug: "efesliler"
+  "PHP":
+    name: "Filipililer"
+    slug: "filipililer"
+  "COL":
+    name: "Koloseliler"
+    slug: "koloseliler"
+  "1TH":
+    name: "1.Selanikliler"
+    slug: "1selanikliler"
+  "2TH":
+    name: "2.Selanikliler"
+    slug: "2selanikliler"
+  "1TI":
+    name: "1. Timoteos"
+    slug: "1-timoteos"
+  "2TI":
+    name: "2.Timoteos"
+    slug: "2timoteos"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "İbraniler"
+    slug: "ibraniler"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1. Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2. Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1. Yuhanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2. Yuhanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3. Yuhanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Vahiy"
+    slug: "vahiy"

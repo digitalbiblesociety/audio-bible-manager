@@ -1,0 +1,110 @@
+language: "vut"
+books:
+  "MAT":
+    name: "Màtíyò"
+    slug: "matiyo"
+    name_toc: "Tohi Gaue A Te Kau Apositolo"
+  "MRK":
+    name: "Máàrk"
+    slug: "maark"
+    name_toc: "Tohi a Paulo ki te kau LOMA"
+  "LUK":
+    name: "Lúkàs"
+    slug: "lukas"
+    name_toc: "Uluaki tohi a Paulo ki te kau KOLINITO"
+  "JHN":
+    name: "Jâŋ"
+    slug: "ja"
+    name_toc: "Lua tohi a Paulo ki te kau KOLINITO"
+  "ACT":
+    name: "Ə́rɨ́b nùb tómé yi ə́llé"
+    slug: "erb-nub-tome-yi-elle"
+    name_toc: "Tohi a Paulo ki te kau KALATE"
+  "ROM":
+    name: "Nùb róòm"
+    slug: "nub-room"
+    name_toc: "Tohi a Paulo ki te kau EFESO"
+  "1CO":
+    name: "1 Nùb Kòréèntə̀"
+    slug: "1-nub-koreente"
+    name_toc: "Tohi a Paulo ki te kau FILIPE"
+  "2CO":
+    name: "2 Nùb Kòréèntə̀"
+    slug: "2-nub-koreente"
+    name_toc: "Tohi a Paulo ki te kau KOLOSE"
+  "GAL":
+    name: "Nùb Gàlàtíì"
+    slug: "nub-galatii"
+    name_toc: "Uluaki tohi a Paulo ki te kau TESALONIKA"
+  "EPH":
+    name: "Nùb Èféès"
+    slug: "nub-efees"
+    name_toc: "Lua tohi a Paulo ki te kau TESALONIKA"
+  "PHP":
+    name: "Nùb Fìlíìb"
+    slug: "nub-filiib"
+    name_toc: "Uluaki tohi a Paulo kia TIMOTEO"
+  "COL":
+    name: "Nùb Kòlóòs"
+    slug: "nub-koloos"
+    name_toc: "Lua tohi a Paulo kia TIMOTEO"
+  "1TH":
+    name: "1 Nùb Tèsàlòníìk"
+    slug: "1-nub-tesaloniik"
+    name_toc: "Tohi a Paulo kia TITO"
+  "2TH":
+    name: "2 Nùb Tèsàlòníìk"
+    slug: "2-nub-tesaloniik"
+    name_toc: "Tohi a Paulo kia FILEMO"
+  "1TI":
+    name: "1 Tìmòtê"
+    slug: "1-timote"
+    name_toc: "Tohi ki te kau HEPELEO"
+  "2TI":
+    name: "2 Tìmòtê"
+    slug: "2-timote"
+    name_toc: "Tohi A Sakopo"
+  "TIT":
+    name: "Tît"
+    slug: "tit"
+    name_toc: "Uluaki Tohi A Petelo"
+  "PHM":
+    name: "Fìlèmôŋ"
+    slug: "filemo"
+    name_toc: "Lua Tohi A Petelo"
+  "HEB":
+    name: "Gbàŋ Èbɨ̀rə́ə̀"
+    slug: "gba-ebree"
+    name_toc: "Uluaki Tohi A Soane"
+  "JAS":
+    name: "Jâk"
+    slug: "jak"
+    name_toc: "Lua Tohi A Soane"
+  "1PE":
+    name: "1 Píyéèr"
+    slug: "1-piyeer"
+    name_toc: "Tolu Tohi A Soane"
+  "2PE":
+    name: "2 Píyéèr"
+    slug: "2-piyeer"
+    name_toc: "Tohi A Suta"
+  "1JN":
+    name: "1 Jâŋ"
+    slug: "1-ja"
+    name_toc: "Apokalipisi"
+  "2JN":
+    name: "2 Jâŋ"
+    slug: "2-ja"
+    name_toc: "Matius Kabar Bae tentang Tuhan Yesus menurut Matius"
+  "3JN":
+    name: "3 Jâŋ"
+    slug: "3-ja"
+    name_toc: "Markus Kabar Bae tentang Tuhan Yesus menurut Markus"
+  "JUD":
+    name: "Jûdə̀"
+    slug: "jude"
+    name_toc: "Lukas Kabar Bae tentang Tuhan Yesus menurut Lukas"
+  "REV":
+    name: "Àpòkàlîb"
+    slug: "apokalib"
+    name_toc: "Yohanes Kabar Bae tentang Tuhan Yesus menurut Yohanes"

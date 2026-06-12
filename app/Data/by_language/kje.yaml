@@ -1,0 +1,83 @@
+language: "kje"
+books:
+  "MAT":
+    name: "Lukas"
+    slug: "lukas"
+  "MRK":
+    name: "Lukas"
+    slug: "lukas"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanis"
+    slug: "yohanis"
+  "ACT":
+    name: "Roma"
+    slug: "roma"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Yakobus"
+    slug: "yakobus"
+  "2TH":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1TI":
+    name: "Yakobus"
+    slug: "yakobus"
+  "2TI":
+    name: "Yakobus"
+    slug: "yakobus"
+  "TIT":
+    name: "Yakobus"
+    slug: "yakobus"
+  "PHM":
+    name: "Yakobus"
+    slug: "yakobus"
+  "HEB":
+    name: "Yakobus"
+    slug: "yakobus"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1PE":
+    name: "1Pe"
+    slug: "1pe"
+  "2PE":
+    name: "2Pe"
+    slug: "2pe"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"
+  "2JN":
+    name: "2Jn"
+    slug: "2jn"
+  "3JN":
+    name: "3Jn"
+    slug: "3jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Rev"
+    slug: "rev"

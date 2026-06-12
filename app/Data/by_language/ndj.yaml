@@ -1,0 +1,83 @@
+language: "ndj"
+books:
+  "MAT":
+    name: "Mateyi"
+    slug: "mateyi"
+  "MRK":
+    name: "Maliku"
+    slug: "maliku"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Yohani"
+    slug: "yohani"
+  "ACT":
+    name: "Figoli"
+    slug: "figoli"
+  "ROM":
+    name: "Valoma"
+    slug: "valoma"
+  "1CO":
+    name: "1 Vakolindu"
+    slug: "1-vakolindu"
+  "2CO":
+    name: "2 Vakolindu"
+    slug: "2-vakolindu"
+  "GAL":
+    name: "Vagalatiya"
+    slug: "vagalatiya"
+  "EPH":
+    name: "Vaifesu"
+    slug: "vaifesu"
+  "PHP":
+    name: "Vafilipu"
+    slug: "vafilipu"
+  "COL":
+    name: "Vakolusayi"
+    slug: "vakolusayi"
+  "1TH":
+    name: "Vatesaloniki"
+    slug: "vatesaloniki"
+  "2TH":
+    name: "Vatesaloniki"
+    slug: "vatesaloniki"
+  "1TI":
+    name: "1 Timotewu"
+    slug: "1-timotewu"
+  "2TI":
+    name: "Timotewu"
+    slug: "timotewu"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Vayibulaniya"
+    slug: "vayibulaniya"
+  "JAS":
+    name: "Yakobi"
+    slug: "yakobi"
+  "1PE":
+    name: "Petili"
+    slug: "petili"
+  "2PE":
+    name: "Petili"
+    slug: "petili"
+  "1JN":
+    name: "Yohani"
+    slug: "yohani"
+  "2JN":
+    name: "Yohani"
+    slug: "yohani"
+  "3JN":
+    name: "Yohani"
+    slug: "yohani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ugubutulu"
+    slug: "ugubutulu"

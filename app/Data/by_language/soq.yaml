@@ -1,0 +1,167 @@
+language: "soq"
+books:
+  "GEN":
+    name: "Bumpaida"
+    slug: "bumpaida"
+  "EXO":
+    name: "Ekisodas"
+    slug: "ekisodas"
+  "LEV":
+    name: "Liwai damba nolau"
+    slug: "liwai-damba-nolau"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+  "DEU":
+    name: "Diutoronomi"
+    slug: "diutoronomi"
+  "JOS":
+    name: "Iosua"
+    slug: "iosua"
+  "JDG":
+    name: "Onionia apanau"
+    slug: "onionia-apanau"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Kin"
+    slug: "1-kin"
+  "2KI":
+    name: "2 Kin"
+    slug: "2-kin"
+  "2CH":
+    name: "2 Koronikol"
+    slug: "2-koronikol"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Niamaia"
+    slug: "niamaia"
+  "JOB":
+    name: "Iob"
+    slug: "iob"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Wasau gagalowa"
+    slug: "wasau-gagalowa"
+  "ECC":
+    name: "Aten gagalowa"
+    slug: "aten-gagalowa"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Ierimaia"
+    slug: "ierimaia"
+  "LAM":
+    name: "Nuapare sasau ita raupari"
+    slug: "nuapare-sasau-ita-raupari"
+  "EZK":
+    name: "Isikel"
+    slug: "isikel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "AMO":
+    name: "Emos"
+    slug: "emos"
+  "JON":
+    name: "Iona"
+    slug: "iona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Ion"
+    slug: "ion"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Pailimon"
+    slug: "pailimon"
+  "HEB":
+    name: "Ibru"
+    slug: "ibru"
+  "JAS":
+    name: "Iems"
+    slug: "iems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Ion"
+    slug: "1-ion"
+  "2JN":
+    name: "2 Ion"
+    slug: "2-ion"
+  "3JN":
+    name: "3 Ion"
+    slug: "3-ion"
+  "JUD":
+    name: "Iud"
+    slug: "iud"
+  "REV":
+    name: "Gagalo sabamolala"
+    slug: "gagalo-sabamolala"

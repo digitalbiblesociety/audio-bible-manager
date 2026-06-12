@@ -1,0 +1,92 @@
+language: "kqf"
+books:
+  "GEN":
+    name: "Pakanemo"
+    slug: "pakanemo"
+  "EXO":
+    name: "Potiyovo kamaḡa"
+    slug: "potiyovo-kamaa"
+  "LEV":
+    name: "Livai damna edi noya"
+    slug: "livai-damna-edi-noya"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+  "DEU":
+    name: "Waiḡake wailabuna"
+    slug: "waiake-wailabuna"
+  "JOS":
+    name: "Diyosuwa"
+    slug: "diyosuwa"
+  "JDG":
+    name: "Taulaididimana"
+    slug: "taulaididimana"
+  "1SA":
+    name: "Samuwel ena buka dolidolina"
+    slug: "samuwel-ena-buka-dolidolina"
+  "2SA":
+    name: "Samuwel ena buka wailabuna"
+    slug: "samuwel-ena-buka-wailabuna"
+  "1KI":
+    name: "Ḡaliḡalibona edi buka dolidolina"
+    slug: "alialibona-edi-buka-dolidolina"
+  "2KI":
+    name: "Ḡalibona edi buka wailabuna"
+    slug: "alibona-edi-buka-wailabuna"
+  "2CH":
+    name: "2 Kolonikol"
+    slug: "2-kolonikol"
+  "EZR":
+    name: "Esla"
+    slug: "esla"
+  "NEH":
+    name: "Neyamaiya"
+    slug: "neyamaiya"
+  "JOB":
+    name: "Diyoba"
+    slug: "diyoba"
+  "PSA":
+    name: "Sale"
+    slug: "sale"
+  "PRO":
+    name: "Miyakauwa Giudi"
+    slug: "miyakauwa-giudi"
+  "ECC":
+    name: "Tauwailovelove ena giu"
+    slug: "tauwailovelove-ena-giu"
+  "ISA":
+    name: "Aisaiya"
+    slug: "aisaiya"
+  "JER":
+    name: "Delimaiya"
+    slug: "delimaiya"
+  "LAM":
+    name: "Ḡabalauiyava"
+    slug: "abalauiyava"
+  "EZK":
+    name: "Idikel"
+    slug: "idikel"
+  "DAN":
+    name: "Daniyela"
+    slug: "daniyela"
+  "HOS":
+    name: "Oseya"
+    slug: "oseya"
+  "AMO":
+    name: "Eimos"
+    slug: "eimos"
+  "JON":
+    name: "Diyona"
+    slug: "diyona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "ZEC":
+    name: "Sakalaiya"
+    slug: "sakalaiya"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "ACT":
+    name: "Giugiukamaḡedi edi Kauwa"
+    slug: "giugiukamaedi-edi-kauwa"

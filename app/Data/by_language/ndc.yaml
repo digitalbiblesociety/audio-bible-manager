@@ -1,0 +1,266 @@
+language: "ndc"
+books:
+  "GEN":
+    name: "Gen."
+    slug: "gen"
+    name_toc: "Genesisi"
+  "EXO":
+    name: "Ek."
+    slug: "ek"
+    name_toc: "Ekisedhusi"
+  "LEV":
+    name: "Revhi"
+    slug: "revhi"
+    name_toc: "Revhi"
+  "NUM":
+    name: "Zvi."
+    slug: "zvi"
+    name_toc: "Zvierengo"
+  "DEU":
+    name: "Dhuto."
+    slug: "dhuto"
+    name_toc: "Dhutoronomi"
+  "JOS":
+    name: "Josh."
+    slug: "josh"
+    name_toc: "Joshua"
+  "JDG":
+    name: "Vato."
+    slug: "vato"
+    name_toc: "Vatongi"
+  "RUT":
+    name: "Ruthe"
+    slug: "ruthe"
+    name_toc: "Ruthe"
+  "1SA":
+    name: "1 Sam."
+    slug: "1-sam"
+    name_toc: "1 Samueri"
+  "2SA":
+    name: "2 Sam."
+    slug: "2-sam"
+    name_toc: "1 Samueri"
+  "1KI":
+    name: "1 Madzi."
+    slug: "1-madzi"
+    name_toc: "1 Madzimambo"
+  "2KI":
+    name: "2 Madzi."
+    slug: "2-madzi"
+    name_toc: "2 Madzimambo"
+  "1CH":
+    name: "1 MaKro."
+    slug: "1-makro"
+    name_toc: "1 Makronikhe"
+  "2CH":
+    name: "2 MaKro."
+    slug: "2-makro"
+    name_toc: "2 Makronikhe"
+  "EZR":
+    name: "Ezura"
+    slug: "ezura"
+    name_toc: "Ezura"
+  "NEH":
+    name: "Neh."
+    slug: "neh"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita"
+  "JOB":
+    name: "Jobe"
+    slug: "jobe"
+    name_toc: "Jobe"
+  "PSA":
+    name: "Nduyo"
+    slug: "nduyo"
+    name_toc: "Nduyo"
+  "PRO":
+    name: "Mazwi"
+    slug: "mazwi"
+    name_toc: "Mazwi Akangwara"
+  "ECC":
+    name: "Muchu."
+    slug: "muchu"
+    name_toc: "Muchumairi"
+  "SNG":
+    name: "Sor."
+    slug: "sor"
+    name_toc: "Nduyo Yasoromoni"
+  "ISA":
+    name: "Isa."
+    slug: "isa"
+    name_toc: "Isaya"
+  "JER":
+    name: "Jer."
+    slug: "jer"
+    name_toc: "Jeremia"
+  "LAM":
+    name: "Chi."
+    slug: "chi"
+    name_toc: "Chiriro Chajeremia"
+  "EZK":
+    name: "Ezek."
+    slug: "ezek"
+    name_toc: "Ezekieri"
+  "DAN":
+    name: "Dha."
+    slug: "dha"
+    name_toc: "Dhanieri"
+  "HOS":
+    name: "Hos."
+    slug: "hos"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Joeri"
+    slug: "joeri"
+    name_toc: "Joeri"
+  "AMO":
+    name: "Amo."
+    slug: "amo"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Obh."
+    slug: "obh"
+    name_toc: "Obhadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mik."
+    slug: "mik"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nah."
+    slug: "nah"
+    name_toc: "Nahume"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habhakuki"
+  "ZEP":
+    name: "Zef."
+    slug: "zef"
+    name_toc: "Zefania"
+  "HAG":
+    name: "Hag."
+    slug: "hag"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zek."
+    slug: "zek"
+    name_toc: "Zekhariya"
+  "MAL":
+    name: "Mar."
+    slug: "mar"
+    name_toc: "Marakhai"
+  "MAT":
+    name: "Mat."
+    slug: "mat"
+    name_toc: "Mateu"
+  "MRK":
+    name: "Mk."
+    slug: "mk"
+    name_toc: "Marako"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+    name_toc: "Ruka"
+  "JHN":
+    name: "Joh."
+    slug: "joh"
+    name_toc: "Johani"
+  "ACT":
+    name: "Zvak."
+    slug: "zvak"
+    name_toc: "Zvakaitwa Ngevapostori"
+  "ROM":
+    name: "VaR."
+    slug: "var"
+    name_toc: "Varoma"
+  "1CO":
+    name: "1 VaK."
+    slug: "1-vak"
+    name_toc: "1 Vakhorinte"
+  "2CO":
+    name: "2 VaK."
+    slug: "2-vak"
+    name_toc: "1 Vakhorinte"
+  "GAL":
+    name: "VaG."
+    slug: "vag"
+    name_toc: "Vagaratia"
+  "EPH":
+    name: "VaEfe."
+    slug: "vaefe"
+    name_toc: "Vaefesu"
+  "PHP":
+    name: "VaF."
+    slug: "vaf"
+    name_toc: "Vafiripi"
+  "COL":
+    name: "VaKo."
+    slug: "vako"
+    name_toc: "Vakhorose"
+  "1TH":
+    name: "1 VaTes."
+    slug: "1-vates"
+    name_toc: "1 Vathesaronika"
+  "2TH":
+    name: "2 VaTes."
+    slug: "2-vates"
+    name_toc: "2 Vathesaronika"
+  "1TI":
+    name: "1 Tim."
+    slug: "1-tim"
+    name_toc: "1 Thimothi"
+  "2TI":
+    name: "2 Tim."
+    slug: "2-tim"
+    name_toc: "2 Thimothi"
+  "TIT":
+    name: "Tit."
+    slug: "tit"
+    name_toc: "Tithusi"
+  "PHM":
+    name: "Fr."
+    slug: "fr"
+    name_toc: "Firemoni"
+  "HEB":
+    name: "VaH."
+    slug: "vah"
+    name_toc: "Vahebheru"
+  "JAS":
+    name: "Jak."
+    slug: "jak"
+    name_toc: "Jakobe"
+  "1PE":
+    name: "1 Pet."
+    slug: "1-pet"
+    name_toc: "1 Petro"
+  "2PE":
+    name: "2 Pet."
+    slug: "2-pet"
+    name_toc: "2 Petro"
+  "1JN":
+    name: "1 Joh."
+    slug: "1-joh"
+    name_toc: "1 Johani"
+  "2JN":
+    name: "2 Joh."
+    slug: "2-joh"
+    name_toc: "2 Johani"
+  "3JN":
+    name: "3 Joh."
+    slug: "3-joh"
+    name_toc: "3 Johani"
+  "JUD":
+    name: "Jud."
+    slug: "jud"
+    name_toc: "Judha"
+  "REV":
+    name: "Chak."
+    slug: "chak"
+    name_toc: "Chakapangidzirwa"

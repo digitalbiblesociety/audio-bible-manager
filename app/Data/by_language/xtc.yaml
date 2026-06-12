@@ -1,0 +1,89 @@
+language: "xtc"
+books:
+  "RUT":
+    name: "Rawus"
+    slug: "rawus"
+  "JON":
+    name: "Yünan"
+    slug: "yunan"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Murkus"
+    slug: "murkus"
+  "LUK":
+    name: "Lüüka"
+    slug: "luuka"
+  "JHN":
+    name: "Yühanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Kadafïïnï"
+    slug: "kadafiini"
+  "ROM":
+    name: "Rööma"
+    slug: "rooma"
+  "1CO":
+    name: "1 Kürünsüs"
+    slug: "1-kurunsus"
+  "2CO":
+    name: "2 Kürünsüs"
+    slug: "2-kurunsus"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afosus"
+    slug: "afosus"
+  "PHP":
+    name: "Filippi"
+    slug: "filippi"
+  "COL":
+    name: "Kölösi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tasalanükï"
+    slug: "1-tasalanuki"
+  "2TH":
+    name: "2 Tasalanükï"
+    slug: "2-tasalanuki"
+  "1TI":
+    name: "1 Timosaws"
+    slug: "1-timosaws"
+  "2TI":
+    name: "2 Timosaws"
+    slug: "2-timosaws"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ebraniin"
+    slug: "ebraniin"
+  "JAS":
+    name: "Yaguub"
+    slug: "yaguub"
+  "1PE":
+    name: "1 Bütrüs"
+    slug: "1-butrus"
+  "2PE":
+    name: "2 Bütrüs"
+    slug: "2-butrus"
+  "1JN":
+    name: "1 Yühanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 Yühanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 Yühanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Yahüüsa"
+    slug: "yahuusa"
+  "REV":
+    name: "Tumma tanno Yasu"
+    slug: "tumma-tanno-yasu"

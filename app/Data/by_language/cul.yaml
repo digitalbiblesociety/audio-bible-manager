@@ -1,0 +1,83 @@
+language: "cul"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maraco"
+    slug: "maraco"
+  "LUK":
+    name: "Roca"
+    slug: "roca"
+  "JHN":
+    name: "Huano"
+    slug: "huano"
+  "ACT":
+    name: "Tahimarideni"
+    slug: "tahimarideni"
+  "ROM":
+    name: "Romanodenidsa"
+    slug: "romanodenidsa"
+  "1CO":
+    name: "1 Corintodenidsa"
+    slug: "1-corintodenidsa"
+  "2CO":
+    name: "2 Corintodenidsa"
+    slug: "2-corintodenidsa"
+  "GAL":
+    name: "Carasiadenidsa"
+    slug: "carasiadenidsa"
+  "EPH":
+    name: "Epesodenidsa"
+    slug: "epesodenidsa"
+  "PHP":
+    name: "Piripodenidsa"
+    slug: "piripodenidsa"
+  "COL":
+    name: "Corosadenidsa"
+    slug: "corosadenidsa"
+  "1TH":
+    name: "1 Tesaronicadenidsa"
+    slug: "1-tesaronicadenidsa"
+  "2TH":
+    name: "2 Tesaronicadenidsa"
+    slug: "2-tesaronicadenidsa"
+  "1TI":
+    name: "1 Timoteodsa"
+    slug: "1-timoteodsa"
+  "2TI":
+    name: "2 Timoteodsa"
+    slug: "2-timoteodsa"
+  "TIT":
+    name: "Titodsa"
+    slug: "titodsa"
+  "PHM":
+    name: "Piremaodsa"
+    slug: "piremaodsa"
+  "HEB":
+    name: "Ebreodenidsa"
+    slug: "ebreodenidsa"
+  "JAS":
+    name: "Satiacocca"
+    slug: "satiacocca"
+  "1PE":
+    name: "1 Pedrocca"
+    slug: "1-pedrocca"
+  "2PE":
+    name: "2 Pedrocca"
+    slug: "2-pedrocca"
+  "1JN":
+    name: "1 Huanocca"
+    slug: "1-huanocca"
+  "2JN":
+    name: "2 Huanocca"
+    slug: "2-huanocca"
+  "3JN":
+    name: "3 Huanocca"
+    slug: "3-huanocca"
+  "JUD":
+    name: "Jodacca"
+    slug: "jodacca"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

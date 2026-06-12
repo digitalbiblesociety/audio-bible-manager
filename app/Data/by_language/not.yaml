@@ -1,0 +1,83 @@
+language: "not"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maricos"
+    slug: "maricos"
+  "LUK":
+    name: "Irocas"
+    slug: "irocas"
+  "JHN":
+    name: "Joan"
+    slug: "joan"
+  "ACT":
+    name: "Iragátane Jesos"
+    slug: "iragatane-jesos"
+  "ROM":
+    name: "Iromasati"
+    slug: "iromasati"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+  "GAL":
+    name: "Garasiasati"
+    slug: "garasiasati"
+  "EPH":
+    name: "Ejesosati"
+    slug: "ejesosati"
+  "PHP":
+    name: "Jeriposati"
+    slug: "jeriposati"
+  "COL":
+    name: "Corosasati"
+    slug: "corosasati"
+  "1TH":
+    name: "1 Tesarónicasati"
+    slug: "1-tesaronicasati"
+  "2TH":
+    name: "2 Tesarónicasati"
+    slug: "2-tesaronicasati"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Jeremón"
+    slug: "jeremon"
+  "HEB":
+    name: "Ebereo"
+    slug: "ebereo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Peroro"
+    slug: "1-peroro"
+  "2PE":
+    name: "2 Peroro"
+    slug: "2-peroro"
+  "1JN":
+    name: "1 Joan"
+    slug: "1-joan"
+  "2JN":
+    name: "2 Joan"
+    slug: "2-joan"
+  "3JN":
+    name: "3 Joan"
+    slug: "3-joan"
+  "JUD":
+    name: "Joras"
+    slug: "joras"
+  "REV":
+    name: "Yoniaguëri Joan"
+    slug: "yoniagueri-joan"

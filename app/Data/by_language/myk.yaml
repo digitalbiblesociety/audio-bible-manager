@@ -1,0 +1,89 @@
+language: "myk"
+books:
+  "RUT":
+    name: "Wuruti"
+    slug: "wuruti"
+  "JON":
+    name: "Zhonasi"
+    slug: "zhonasi"
+  "MAT":
+    name: "Macoo"
+    slug: "macoo"
+  "MRK":
+    name: "Marika"
+    slug: "marika"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Kapyegee"
+    slug: "kapyegee"
+  "ROM":
+    name: "Oromɛ Shɛɛn"
+    slug: "orom-shn"
+  "1CO":
+    name: "1 Korɛnte Shɛɛn"
+    slug: "1-kornte-shn"
+  "2CO":
+    name: "2 Korɛnte Shɛɛn"
+    slug: "2-kornte-shn"
+  "GAL":
+    name: "Galasi Shɛɛn"
+    slug: "galasi-shn"
+  "EPH":
+    name: "Efese Shɛɛn"
+    slug: "efese-shn"
+  "PHP":
+    name: "Filipe Shɛɛn"
+    slug: "filipe-shn"
+  "COL":
+    name: "Kolose Shɛɛn"
+    slug: "kolose-shn"
+  "1TH":
+    name: "1 Tesaloniki Shɛɛn"
+    slug: "1-tesaloniki-shn"
+  "2TH":
+    name: "2 Tesakoniki Shɛɛn"
+    slug: "2-tesakoniki-shn"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Heburuu"
+    slug: "heburuu"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Pyɛɛri"
+    slug: "1-pyri"
+  "2PE":
+    name: "2 Pyɛɛri"
+    slug: "2-pyri"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Zhude"
+    slug: "zhude"
+  "REV":
+    name: "Kashɛɛ"
+    slug: "kash"

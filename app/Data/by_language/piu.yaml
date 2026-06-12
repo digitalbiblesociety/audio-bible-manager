@@ -1,0 +1,170 @@
+language: "piu"
+books:
+  "GEN":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "EXO":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "LEV":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "NUM":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "DEU":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JOS":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JDG":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "RUT":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "1SA":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "2SA":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "1KI":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "2KI":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "EZR":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "NEH":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JOB":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "PSA":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "ISA":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JER":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "LAM":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "EZK":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "DAN":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "HOS":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JOL":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "AMO":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "JON":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "MIC":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "HAB":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "ZEP":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "MAL":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "MAT":
+    name: "Maatjuwukuṉu"
+    slug: "maatjuwukuu"
+  "MRK":
+    name: "Maakakuṉu"
+    slug: "maakakuu"
+  "LUK":
+    name: "Luukaṉu"
+    slug: "luukau"
+  "JHN":
+    name: "Tjaanakuṉu"
+    slug: "tjaanakuu"
+  "ACT":
+    name: "Tjakultjurinkunytja"
+    slug: "tjakultjurinkunytja"
+  "ROM":
+    name: "Ruumalakutu"
+    slug: "ruumalakutu"
+  "1CO":
+    name: "1 Kurinytjiyalakutu"
+    slug: "1-kurinytjiyalakutu"
+  "2CO":
+    name: "2 Kurinytjiyalakutu"
+    slug: "2-kurinytjiyalakutu"
+  "GAL":
+    name: "Kilitjiyalakutu"
+    slug: "kilitjiyalakutu"
+  "EPH":
+    name: "Yipitjalakutu"
+    slug: "yipitjalakutu"
+  "PHP":
+    name: "Pilipayilakutu"
+    slug: "pilipayilakutu"
+  "COL":
+    name: "Kalatjiyalakutu"
+    slug: "kalatjiyalakutu"
+  "1TH":
+    name: "1 Tjitjaluniyalakutu"
+    slug: "1-tjitjaluniyalakutu"
+  "2TH":
+    name: "2 Tjitjaluniyalakutu"
+    slug: "2-tjitjaluniyalakutu"
+  "1TI":
+    name: "1 Timitjiyiku"
+    slug: "1-timitjiyiku"
+  "2TI":
+    name: "2 Timitjiyiku"
+    slug: "2-timitjiyiku"
+  "TIT":
+    name: "Tayitutjaku"
+    slug: "tayitutjaku"
+  "PHM":
+    name: "Paaliminaku"
+    slug: "paaliminaku"
+  "HEB":
+    name: "Yipuru wangkapayiku"
+    slug: "yipuru-wangkapayiku"
+  "JAS":
+    name: "Tjayimitjakuṉu"
+    slug: "tjayimitjakuu"
+  "1PE":
+    name: "1 Piitakuṉu"
+    slug: "1-piitakuu"
+  "2PE":
+    name: "2 Piitakuṉu"
+    slug: "2-piitakuu"
+  "1JN":
+    name: "1 Tjaanakuṉu"
+    slug: "1-tjaanakuu"
+  "2JN":
+    name: "2 Tjaanakuṉu"
+    slug: "2-tjaanakuu"
+  "3JN":
+    name: "3 Tjaanakuṉu"
+    slug: "3-tjaanakuu"
+  "JUD":
+    name: "Tjuutakuṉu"
+    slug: "tjuutakuu"
+  "REV":
+    name: "Tjukurrpa Nyangutja"
+    slug: "tjukurrpa-nyangutja"

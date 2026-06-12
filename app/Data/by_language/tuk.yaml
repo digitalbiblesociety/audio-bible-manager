@@ -1,0 +1,83 @@
+language: "tuk"
+books:
+  "MAT":
+    name: "Матта"
+    slug: "matta"
+  "MRK":
+    name: "Маркус"
+    slug: "markus"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Яхя"
+    slug: "aha"
+  "ACT":
+    name: "Ресуллар Ишлери"
+    slug: "resullar-isleri"
+  "ROM":
+    name: "Римлилер"
+    slug: "rimliler"
+  "1CO":
+    name: "1 Коринтослылар"
+    slug: "1-korintoslylar"
+  "2CO":
+    name: "2 Коринтослылар"
+    slug: "2-korintoslylar"
+  "GAL":
+    name: "Галатялылар"
+    slug: "galatalylar"
+  "EPH":
+    name: "Эфеслилер"
+    slug: "efesliler"
+  "PHP":
+    name: "Филипилилер"
+    slug: "filipililer"
+  "COL":
+    name: "Колеселилер"
+    slug: "koleseliler"
+  "1TH":
+    name: "1 Селаниклилер"
+    slug: "1-selanikliler"
+  "2TH":
+    name: "2 Селаниклилер"
+    slug: "2-selanikliler"
+  "1TI":
+    name: "1 Тимотеос"
+    slug: "1-timoteos"
+  "2TI":
+    name: "2 Тимотеос"
+    slug: "2-timoteos"
+  "TIT":
+    name: "Титус"
+    slug: "titus"
+  "PHM":
+    name: "Филимун"
+    slug: "filimun"
+  "HEB":
+    name: "Еврейлер"
+    slug: "evrejler"
+  "JAS":
+    name: "Якуп"
+    slug: "akup"
+  "1PE":
+    name: "1 Петрус"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Петрус"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Яхя"
+    slug: "1-aha"
+  "2JN":
+    name: "2 Яхя"
+    slug: "2-aha"
+  "3JN":
+    name: "3 Яхя"
+    slug: "3-aha"
+  "JUD":
+    name: "Яхуда"
+    slug: "ahuda"
+  "REV":
+    name: "Ылхам"
+    slug: "ylham"

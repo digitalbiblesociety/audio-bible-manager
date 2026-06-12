@@ -1,0 +1,47 @@
+language: "bsp"
+books:
+  "GEN":
+    name: "Tawureta Musa, Buk I: Dəkəcop"
+    slug: "tawureta-musa-buk-i-dekecop"
+  "EXO":
+    name: "Kəwur"
+    slug: "kewur"
+  "LEV":
+    name: "ALewy"
+    slug: "alewy"
+  "NUM":
+    name: "Kəlɔm"
+    slug: "kelm"
+  "DEU":
+    name: "Sariyɛ"
+    slug: "sariy"
+  "JOS":
+    name: "Yosuwe"
+    slug: "yosuwe"
+  "RUT":
+    name: "Luk"
+    slug: "luk"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "ACT":
+    name: "Yɛbəc ya Asom a Yesu"
+    slug: "ybec-ya-asom-a-yesu"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1JN":
+    name: "1 Isaŋ"
+    slug: "1-isa"
+  "2JN":
+    name: "2 Isaŋ"
+    slug: "2-isa"
+  "3JN":
+    name: "3 Isaŋ"
+    slug: "3-isa"

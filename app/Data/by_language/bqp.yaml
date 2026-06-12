@@ -1,0 +1,197 @@
+language: "bqp"
+books:
+  "GEN":
+    name: "Naanaa"
+    slug: "naanaa"
+  "EXO":
+    name: "Bonaa"
+    slug: "bonaa"
+  "LEV":
+    name: "Sɑ̃ɑrun Woodɑ"
+    slug: "srun-wood"
+  "NUM":
+    name: "Naronaa"
+    slug: "naronaa"
+  "DEU":
+    name: "Dokagbɛsisinaa"
+    slug: "dokagbsisinaa"
+  "JOS":
+    name: "Yɔsua"
+    slug: "ysua"
+  "JDG":
+    name: "Yãgɔ̃gɔ̃rinɔ"
+    slug: "yaggrin"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "1 Samuɛli"
+    slug: "1-samuli"
+  "2SA":
+    name: "2 Samuɛli"
+    slug: "2-samuli"
+  "1KI":
+    name: "1 Kinanɔ"
+    slug: "1-kinan"
+  "2KI":
+    name: "2 Kinanɔ"
+    slug: "2-kinan"
+  "1CH":
+    name: "Bɑndun Gɑri I"
+    slug: "bndun-gri-i"
+  "2CH":
+    name: "Bɑndun Gɑri II"
+    slug: "bndun-gri-ii"
+  "EZR":
+    name: "Ɛzɛra"
+    slug: "zra"
+  "NEH":
+    name: "Nɛɛmaya"
+    slug: "nmaya"
+  "EST":
+    name: "Ɛsita"
+    slug: "sita"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Zabura"
+    slug: "zabura"
+  "PRO":
+    name: "Yaasinɔ"
+    slug: "yaasin"
+  "ECC":
+    name: "Laasunde"
+    slug: "laasunde"
+  "SNG":
+    name: "Womu Duro"
+    slug: "womu-duro"
+  "JER":
+    name: "Yeremi"
+    slug: "yeremi"
+  "LAM":
+    name: "Swĩi"
+    slug: "swii"
+  "EZK":
+    name: "Esekiɛli"
+    slug: "esekili"
+  "DAN":
+    name: "Dɑniɛli"
+    slug: "dnili"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Yoɛli"
+    slug: "yoli"
+  "AMO":
+    name: "Amɔsu"
+    slug: "amsu"
+  "OBA":
+    name: "Abudiɑsi"
+    slug: "abudisi"
+  "JON":
+    name: "Yonɑsi"
+    slug: "yonsi"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+  "NAM":
+    name: "Nɑhumu"
+    slug: "nhumu"
+  "HAB":
+    name: "Hɑbɑkuku"
+    slug: "hbkuku"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Asee"
+    slug: "asee"
+  "ZEC":
+    name: "Sɑkɑri"
+    slug: "skri"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maaku"
+    slug: "maaku"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Yuhana"
+    slug: "yuhana"
+  "ACT":
+    name: "Zĩrinɔ"
+    slug: "zirin"
+  "ROM":
+    name: "Romudenɔ"
+    slug: "romuden"
+  "1CO":
+    name: "1 Kɔrintidenɔ"
+    slug: "1-krintiden"
+  "2CO":
+    name: "2 Kɔrintidenɔ"
+    slug: "2-krintiden"
+  "GAL":
+    name: "Galatianɔ"
+    slug: "galatian"
+  "EPH":
+    name: "Ɛfesudenɔ"
+    slug: "fesuden"
+  "PHP":
+    name: "Filipidenɔ"
+    slug: "filipiden"
+  "COL":
+    name: "Kɔlɔsedenɔ"
+    slug: "klseden"
+  "1TH":
+    name: "1 Tɛsalonikadenɔ"
+    slug: "1-tsalonikaden"
+  "2TH":
+    name: "2 Tɛsalonikadenɔ"
+    slug: "2-tsalonikaden"
+  "1TI":
+    name: "1 Timɔti"
+    slug: "1-timti"
+  "2TI":
+    name: "2 Timɔti"
+    slug: "2-timti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimɔ"
+    slug: "filim"
+  "HEB":
+    name: "Eberunɔ"
+    slug: "eberun"
+  "JAS":
+    name: "Yamisi"
+    slug: "yamisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yuhana"
+    slug: "1-yuhana"
+  "2JN":
+    name: "2 Yuhana"
+    slug: "2-yuhana"
+  "3JN":
+    name: "3 Yuhana"
+    slug: "3-yuhana"
+  "JUD":
+    name: "Yudu"
+    slug: "yudu"
+  "REV":
+    name: "Zia Yã"
+    slug: "zia-ya"

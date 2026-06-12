@@ -1,0 +1,266 @@
+language: "tll"
+books:
+  "GEN":
+    name: "Etatelu"
+    slug: "etatelu"
+    name_toc: "Hua'auchiguiñi nere maye huetalec da na'aqtaguec so nta'alpi"
+  "EXO":
+    name: "Etumbelu"
+    slug: "etumbelu"
+    name_toc: "Lỹa nere maye huetalec da na'aqtaguec so nta'alpi"
+  "LEV":
+    name: "Akambu wʼAsi Lewi"
+    slug: "akambu-wasi-lewi"
+    name_toc: "Da na'aqtaguec so nta'a David"
+  "NUM":
+    name: "Walelu"
+    slug: "walelu"
+    name_toc: "Da na'aqtaguec so nta'a Salomón qataq so laỹepi nta'alpi"
+  "DEU":
+    name: "Euhwelu kʼElembe"
+    slug: "euhwelu-kelembe"
+    name_toc: "Ana nere Esdras"
+  "JOS":
+    name: "Jashua"
+    slug: "jashua"
+    name_toc: "Ana nere Nehemías"
+  "JDG":
+    name: "Embadi"
+    slug: "embadi"
+    name_toc: "Da na'aqtaguec aso Ester"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+    name_toc: "Da na'aqtaguec so Job"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Na no'onecpi"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Naua la'aqtaqa so ỹaanaxanaxaic"
+  "1KI":
+    name: "1 Khumi ya Dikanga"
+    slug: "1-khumi-ya-dikanga"
+    name_toc: "Eclesiastés"
+  "2KI":
+    name: "2 Khumi ya Dikanga"
+    slug: "2-khumi-ya-dikanga"
+    name_toc: "Na 'onaxaic no'onecpi"
+  "1CH":
+    name: "1 Ekondo"
+    slug: "1-ekondo"
+    name_toc: "Naua la'aqtaxanaxaco so Isaías"
+  "2CH":
+    name: "2 Ekondo"
+    slug: "2-ekondo"
+    name_toc: "Naua la'aqtaxanaxaco so Jeremías"
+  "EZR":
+    name: "Ezera"
+    slug: "ezera"
+    name_toc: "Ana lỹa lere so Jermías maye huetalec da noinaxac"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Naua la'aqtaxanaxaco so Ezequiel"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Da na'aqtaguec so Daniel"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "Naua la'aqtaxanaxaco so Oseas"
+  "PSA":
+    name: "Esambu"
+    slug: "esambu"
+    name_toc: "Naua la'aqtaxanaxaco so Joel"
+  "PRO":
+    name: "Tukedi"
+    slug: "tukedi"
+    name_toc: "Naua la'aqtaxanaxaco so Amós"
+  "ECC":
+    name: "Undaki"
+    slug: "undaki"
+    name_toc: "Naua la'aqtaxanaxaco so Abdías"
+  "SNG":
+    name: "Limbu la Solomona"
+    slug: "limbu-la-solomona"
+    name_toc: "Da na'aqtaguec so na'aqtaxanaxanec Jonás"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Naua la'aqtaxanaxaco so Miqueas"
+  "JER":
+    name: "Jeremiya"
+    slug: "jeremiya"
+    name_toc: "Naua la'aqtaxanaxaco so Nahúm"
+  "LAM":
+    name: "Delu dia Jeremiya"
+    slug: "delu-dia-jeremiya"
+    name_toc: "Naua la'aqtaxanaxaco so Habacuc"
+  "EZK":
+    name: "Ezekiyele"
+    slug: "ezekiyele"
+    name_toc: "Naua la'aqtaxanaxaco so Sofonías"
+  "DAN":
+    name: "Danyele"
+    slug: "danyele"
+    name_toc: "Naua la'aqtaxanaxaco so Hageo"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Naua la'aqtaxanaxaco so Zacarías"
+  "JOL":
+    name: "Joele"
+    slug: "joele"
+    name_toc: "Naua la'aqtaxanaxaco so Malaquías"
+  "AMO":
+    name: "Amose"
+    slug: "amose"
+    name_toc: "Da no'on na'axaỹaxac maye ỹiyiñi so Mateo"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Da no'on na'axaỹaxac maye ỹiyiñi so Marcos"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Da no'on na'axaỹaxac maye ỹiyiñi so Lucas"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Da no'on na'axaỹaxac maye ỹiyiñi so Juan"
+  "NAM":
+    name: "Nahuma"
+    slug: "nahuma"
+    name_toc: "Da lo'onataxanaxa'c soua Jesús lamaxa'she"
+  "HAB":
+    name: "Habakuka"
+    slug: "habakuka"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so netaña ye Roma"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Ana hua'auchiguiñi lere so Pablo maye ỹamaxa so netaña ye nỹecpi ye Corinto"
+  "HAG":
+    name: "Hangai"
+    slug: "hangai"
+    name_toc: "Ana lỹa lere so Pablo maye ỹamaxa so netaña ye nỹecpi ye Corinto"
+  "ZEC":
+    name: "Zekariya"
+    slug: "zekariya"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so netaña ye 'alhua Galacia"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so netaña ye Éfeso"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so netaña ye Filipos"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so netaña ye nỹecpi ye Colosas"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ana hua'auchiguiñi lere so Pablo maye ỹamaxa so netaña ye Tesalónica"
+  "JHN":
+    name: "Joani"
+    slug: "joani"
+    name_toc: "Ana lỹa lere so Pablo maye ỹamaxa so netaña ye nỹecpi ye Tesalónica"
+  "ACT":
+    name: "Etsha wa Atumami"
+    slug: "etsha-wa-atumami"
+    name_toc: "Ana hua'auchiguiñi lere so Pablo maye ỹamaxa so Timoteo"
+  "ROM":
+    name: "Romo"
+    slug: "romo"
+    name_toc: "Ana lỹa lere so Pablo maye ỹamaxa so Timoteo"
+  "1CO":
+    name: "1 Koreto"
+    slug: "1-koreto"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so Tito"
+  "2CO":
+    name: "2 Koreto"
+    slug: "2-koreto"
+    name_toc: "Ana lere so Pablo maye ỹamaxa so Filemón"
+  "GAL":
+    name: "Ngalatiya"
+    slug: "ngalatiya"
+    name_toc: "Ana nere maye qaỹamaxa so Hebreo le'ecpi"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Ana lere so Santiago"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Ana hua'auchiguiñi lere so Pedro"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+    name_toc: "Ana lỹa lere so Pedro"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Ana lere so Juan maye ỹamaxa so 'amqaanataxanaxaicpi"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Ana lỹa lere so Juan maye ỹamaxa som 'amqaanataxanaxaicpi"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Ana lere so Juan maye ỹamaxa so Gayo"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Ana lere so Judas"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Da lauanaqchec so Juan"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Genesi"
+  "HEB":
+    name: "Heberu"
+    slug: "heberu"
+    name_toc: "Ekisodha"
+  "JAS":
+    name: "Jakoba"
+    slug: "jakoba"
+    name_toc: "Levhi"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Mitengo"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Dhewuteronome"
+  "1JN":
+    name: "1 Joani"
+    slug: "1-joani"
+    name_toc: "Josuwa"
+  "2JN":
+    name: "2 Joani"
+    slug: "2-joani"
+    name_toc: "Valamuli"
+  "3JN":
+    name: "3 Joani"
+    slug: "3-joani"
+    name_toc: "Rute"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "1 Samuweli"
+  "REV":
+    name: "Enyelo"
+    slug: "enyelo"
+    name_toc: "2 Samuweli"

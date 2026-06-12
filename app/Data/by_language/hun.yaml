@@ -1,0 +1,200 @@
+language: "hun"
+books:
+  "GEN":
+    name: "1 Mózes"
+    slug: "1-mozes"
+  "EXO":
+    name: "2 Mózes"
+    slug: "2-mozes"
+  "LEV":
+    name: "3 Mózes"
+    slug: "3-mozes"
+  "NUM":
+    name: "4 Mózes"
+    slug: "4-mozes"
+  "DEU":
+    name: "5 Mózes"
+    slug: "5-mozes"
+  "JOS":
+    name: "Józsué"
+    slug: "jozsue"
+  "JDG":
+    name: "Bírák"
+    slug: "birak"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Sámuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Sámuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Királyok"
+    slug: "1-kiralyok"
+  "2KI":
+    name: "2 Királyok"
+    slug: "2-kiralyok"
+  "1CH":
+    name: "1 Krónika"
+    slug: "1-kronika"
+  "2CH":
+    name: "2 Krónika"
+    slug: "2-kronika"
+  "EZR":
+    name: "Ezsdrás"
+    slug: "ezsdras"
+  "NEH":
+    name: "Nehémiás"
+    slug: "nehemias"
+  "EST":
+    name: "Eszter"
+    slug: "eszter"
+  "JOB":
+    name: "Jób"
+    slug: "job"
+  "PSA":
+    name: "Zsoltárok"
+    slug: "zsoltarok"
+  "PRO":
+    name: "Példabeszédek"
+    slug: "peldabeszedek"
+  "ECC":
+    name: "Prédikátor"
+    slug: "predikator"
+  "SNG":
+    name: "Énekek éneke"
+    slug: "enekek-eneke"
+  "ISA":
+    name: "Ézsaiás"
+    slug: "ezsaias"
+  "JER":
+    name: "Jeremiás"
+    slug: "jeremias"
+  "LAM":
+    name: "Jeremiás siralmai"
+    slug: "jeremias-siralmai"
+  "EZK":
+    name: "Ezékiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Dániel"
+    slug: "daniel"
+  "HOS":
+    name: "Hóseás"
+    slug: "hoseas"
+  "JOL":
+    name: "Jóel"
+    slug: "joel"
+  "AMO":
+    name: "Ámósz"
+    slug: "amosz"
+  "OBA":
+    name: "Abdiás"
+    slug: "abdias"
+  "JON":
+    name: "Jónás"
+    slug: "jonas"
+  "MIC":
+    name: "Mikeás"
+    slug: "mikeas"
+  "NAM":
+    name: "Náhum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zofóniás"
+    slug: "zofonias"
+  "HAG":
+    name: "Haggeus"
+    slug: "haggeus"
+  "ZEC":
+    name: "Zakariás"
+    slug: "zakarias"
+  "MAL":
+    name: "Malakiás"
+    slug: "malakias"
+  "MAT":
+    name: "Máté"
+    slug: "mate"
+  "MRK":
+    name: "Márk"
+    slug: "mark"
+  "LUK":
+    name: "Lukács"
+    slug: "lukacs"
+  "JHN":
+    name: "János"
+    slug: "janos"
+  "ACT":
+    name: "ApCsel"
+    slug: "apcsel"
+  "ROM":
+    name: "Rómaiakhoz"
+    slug: "romaiakhoz"
+  "1CO":
+    name: "1 Korinthusiakhoz"
+    slug: "1-korinthusiakhoz"
+  "2CO":
+    name: "2 Korinthusiakhoz"
+    slug: "2-korinthusiakhoz"
+  "GAL":
+    name: "Galatákhoz"
+    slug: "galatakhoz"
+  "EPH":
+    name: "Efezusiakhoz"
+    slug: "efezusiakhoz"
+  "PHP":
+    name: "Filippiekhez"
+    slug: "filippiekhez"
+  "COL":
+    name: "Kolosséiakhoz"
+    slug: "kolosseiakhoz"
+  "1TH":
+    name: "1 Thesszalonikaiakhoz"
+    slug: "1-thesszalonikaiakhoz"
+  "2TH":
+    name: "2 Thesszalonikaiakhoz"
+    slug: "2-thesszalonikaiakhoz"
+  "1TI":
+    name: "1 Timóteushoz"
+    slug: "1-timoteushoz"
+  "2TI":
+    name: "2 Timóteushoz"
+    slug: "2-timoteushoz"
+  "TIT":
+    name: "Tituszhoz"
+    slug: "tituszhoz"
+  "PHM":
+    name: "Filemonhoz"
+    slug: "filemonhoz"
+  "HEB":
+    name: "Zsidókhoz"
+    slug: "zsidokhoz"
+  "JAS":
+    name: "Jakab"
+    slug: "jakab"
+  "1PE":
+    name: "1 Péter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Péter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 János"
+    slug: "1-janos"
+  "2JN":
+    name: "2 János"
+    slug: "2-janos"
+  "3JN":
+    name: "3 János"
+    slug: "3-janos"
+  "JUD":
+    name: "Júdás"
+    slug: "judas"
+  "REV":
+    name: "Jelenések"
+    slug: "jelenesek"

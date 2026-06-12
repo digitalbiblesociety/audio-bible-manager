@@ -1,0 +1,110 @@
+language: "kqn"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Mambo Awama Anembele Mateo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Mambo Awama Anembele Mako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mambo Awama Anembele Luka"
+  "JHN":
+    name: "Yoano"
+    slug: "yoano"
+    name_toc: "Mambo Awama Anembele Yoano"
+  "ACT":
+    name: "Byubilo"
+    slug: "byubilo"
+    name_toc: "Byubilo bya Batumwa"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+    name_toc: "Nkalata ya kwa Paulo Mutumwa ku bena Loma"
+  "1CO":
+    name: "1 Kolinda"
+    slug: "1-kolinda"
+    name_toc: "Nkalata Itanshi ya kwa Paulo ku beena Kolinda"
+  "2CO":
+    name: "2 kolinda"
+    slug: "2-kolinda"
+    name_toc: "Nkalata ya bubiji ya kwa paulo ku bena Kolinda"
+  "GAL":
+    name: "Ngalatiya"
+    slug: "ngalatiya"
+    name_toc: "Nkalata ya kwa Paulo kubena Ngalatiya"
+  "EPH":
+    name: "Efisesa"
+    slug: "efisesa"
+    name_toc: "Nkalata ya kwa Paulo Kubena Efisesa"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+    name_toc: "Kalata ya kwa Paulo ku bena Filipai"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Nkalata ya kwa Paulo kubeena Kolose"
+  "1TH":
+    name: "Tesalonika"
+    slug: "tesalonika"
+    name_toc: "Nkalata Itanshi ya kwa Paulo ku beena Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Nkalata ya Bubiji ya kwa Paulo Mutumwa ku beena Tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Nkalata Itanshi ya kwa Paulo kwi Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Nkatala Ya bubiji yanembele Paulo kwi Timoti"
+  "TIT":
+    name: "Titusa"
+    slug: "titusa"
+    name_toc: "Nkalata ya kwa Paulo kwi Titusa"
+  "PHM":
+    name: "Filemonyi"
+    slug: "filemonyi"
+    name_toc: "Nkalata ya kwa Paulo kwi Filemonyi"
+  "HEB":
+    name: "Bahebelu"
+    slug: "bahebelu"
+    name_toc: "Nkalata ya ku Bahebelu"
+  "JAS":
+    name: "Yakoba"
+    slug: "yakoba"
+    name_toc: "Nkalata ya kwa Yakoba"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+    name_toc: "Nkalata Itanshi ya kwa Petelo"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+    name_toc: "Nkalata ya bubiji Kufuma kwi Petelo"
+  "1JN":
+    name: "1 Yoano"
+    slug: "1-yoano"
+    name_toc: "Nkalata Itanshi Ya Kwa Yoano"
+  "2JN":
+    name: "2 Yoano"
+    slug: "2-yoano"
+    name_toc: "Nkalata ya bubiji kufuma kwi Yoano"
+  "3JN":
+    name: "3 Yoano"
+    slug: "3-yoano"
+    name_toc: "Nkalata ya busatu ya nembele Yoano"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Nkalata ya Kwa Yuda"
+  "REV":
+    name: "Lumwekesho"
+    slug: "lumwekesho"
+    name_toc: "Lumwekesho Lwatambwile Yoano"

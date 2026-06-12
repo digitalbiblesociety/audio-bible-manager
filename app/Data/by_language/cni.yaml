@@ -1,0 +1,107 @@
+language: "cni"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+  "LEV":
+    name: "Levítico"
+    slug: "levitico"
+  "NUM":
+    name: "Números"
+    slug: "numeros"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+  "PRO":
+    name: "Proverbios"
+    slug: "proverbios"
+  "MAT":
+    name: "Isanquenare Mateo"
+    slug: "isanquenare-mateo"
+  "MRK":
+    name: "Isanquenare Maricoshi"
+    slug: "isanquenare-maricoshi"
+  "LUK":
+    name: "Isanquenare Irocashi"
+    slug: "isanquenare-irocashi"
+  "JHN":
+    name: "Isanquenare Joa"
+    slug: "isanquenare-joa"
+  "ACT":
+    name: "Yantayetiniri Itiancaneni Jesoshi"
+    slug: "yantayetiniri-itiancaneni-jesoshi"
+  "ROM":
+    name: "Pavoro Isanquenatiniri Oromasati"
+    slug: "pavoro-isanquenatiniri-oromasati"
+  "1CO":
+    name: "1 Pavoro Isanquenatiniri Corintosati"
+    slug: "1-pavoro-isanquenatiniri-corintosati"
+  "2CO":
+    name: "II Pavoro Isanquenatiniri Corintosati"
+    slug: "ii-pavoro-isanquenatiniri-corintosati"
+  "GAL":
+    name: "Pavoro Isanquenatiniri Carashiasati"
+    slug: "pavoro-isanquenatiniri-carashiasati"
+  "EPH":
+    name: "Pavoro Isanquenatiniri Ejesosati"
+    slug: "pavoro-isanquenatiniri-ejesosati"
+  "PHP":
+    name: "Pavoro Isanquenatiniri Jiriposhisati"
+    slug: "pavoro-isanquenatiniri-jiriposhisati"
+  "COL":
+    name: "Pavoro Isanquenatiniri Corosashisati"
+    slug: "pavoro-isanquenatiniri-corosashisati"
+  "1TH":
+    name: "I Pavoro Isanquenatiniri Tesaronicasati"
+    slug: "i-pavoro-isanquenatiniri-tesaronicasati"
+  "2TH":
+    name: "II Pavoro Isanquenatiniri Tesaronicasati"
+    slug: "ii-pavoro-isanquenatiniri-tesaronicasati"
+  "1TI":
+    name: "I Pavoro Isanquenatiniri Timoteo"
+    slug: "i-pavoro-isanquenatiniri-timoteo"
+  "2TI":
+    name: "2 Pavoro Isanquenatiniri Timoteo"
+    slug: "2-pavoro-isanquenatiniri-timoteo"
+  "TIT":
+    name: "Pavoro Isanquenatiniri Tito"
+    slug: "pavoro-isanquenatiniri-tito"
+  "PHM":
+    name: "Pavoro Isanquenatiniri Jiremona"
+    slug: "pavoro-isanquenatiniri-jiremona"
+  "HEB":
+    name: "Isanquenayeetiniri Ijorioririnte"
+    slug: "isanquenayeetiniri-ijorioririnte"
+  "JAS":
+    name: "Isanquenatiri Santiaco"
+    slug: "isanquenatiri-santiaco"
+  "1PE":
+    name: "1 Isanquenatiri Petero"
+    slug: "1-isanquenatiri-petero"
+  "2PE":
+    name: "2 Isanquenatiri Petero"
+    slug: "2-isanquenatiri-petero"
+  "1JN":
+    name: "1 Isanquenatiri Joa"
+    slug: "1-isanquenatiri-joa"
+  "2JN":
+    name: "2 Isanquenatiri Joa"
+    slug: "2-isanquenatiri-joa"
+  "3JN":
+    name: "3 Isanquenatiri Joa"
+    slug: "3-isanquenatiri-joa"
+  "JUD":
+    name: "Isanquenatiri Jorashi"
+    slug: "isanquenatiri-jorashi"
+  "REV":
+    name: "Irantayeteri Jesoquirishito"
+    slug: "irantayeteri-jesoquirishito"

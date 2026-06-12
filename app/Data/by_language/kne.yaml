@@ -1,0 +1,11 @@
+language: "kne"
+books:
+  "1CH":
+    name: "1 Cronicas"
+    slug: "1-cronicas"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"

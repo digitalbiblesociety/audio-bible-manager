@@ -1,0 +1,83 @@
+language: "cmr"
+books:
+  "MAT":
+    name: "Mathe"
+    slug: "mathe"
+  "MRK":
+    name: "Maku"
+    slug: "maku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jawhen"
+    slug: "jawhen"
+  "ACT":
+    name: "Tloe ji iwn maqtanq"
+    slug: "tloe-ji-iwn-maqtanq"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Kawrin"
+    slug: "1-kawrin"
+  "2CO":
+    name: "2 Kawrin"
+    slug: "2-kawrin"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Eiphe"
+    slug: "eiphe"
+  "PHP":
+    name: "Philipi"
+    slug: "philipi"
+  "COL":
+    name: "Kawlawshei"
+    slug: "kawlawshei"
+  "1TH":
+    name: "1 Tasaloni"
+    slug: "1-tasaloni"
+  "2TH":
+    name: "2 Tasaloni"
+    slug: "2-tasaloni"
+  "1TI":
+    name: "1 Timawshei"
+    slug: "1-timawshei"
+  "2TI":
+    name: "2 Timawshei"
+    slug: "2-timawshei"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Philimon"
+    slug: "philimon"
+  "HEB":
+    name: "Heibru"
+    slug: "heibru"
+  "JAS":
+    name: "Jaku"
+    slug: "jaku"
+  "1PE":
+    name: "1 Peitru"
+    slug: "1-peitru"
+  "2PE":
+    name: "2 Peitru"
+    slug: "2-peitru"
+  "1JN":
+    name: "1 Jawhen"
+    slug: "1-jawhen"
+  "2JN":
+    name: "2 Jawhen"
+    slug: "2-jawhen"
+  "3JN":
+    name: "3 Jawhen"
+    slug: "3-jawhen"
+  "JUD":
+    name: "Judaq"
+    slug: "judaq"
+  "REV":
+    name: "Mthon"
+    slug: "mthon"

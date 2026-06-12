@@ -1,0 +1,83 @@
+language: "auc"
+books:
+  "MAT":
+    name: "Mäateo"
+    slug: "maateo"
+  "MRK":
+    name: "Mäadoco"
+    slug: "maadoco"
+  "LUK":
+    name: "Odoca"
+    slug: "odoca"
+  "JHN":
+    name: "Wäö"
+    slug: "wao"
+  "ACT":
+    name: "Näni Cægaïnö"
+    slug: "nani-caegaino"
+  "ROM":
+    name: "Odömänoidi"
+    slug: "odomanoidi"
+  "1CO":
+    name: "1 Coodintoidi"
+    slug: "1-coodintoidi"
+  "2CO":
+    name: "2 Coodintoidi"
+    slug: "2-coodintoidi"
+  "GAL":
+    name: "Gadataidi"
+    slug: "gadataidi"
+  "EPH":
+    name: "Epetoidi"
+    slug: "epetoidi"
+  "PHP":
+    name: "Pidipenteidi"
+    slug: "pidipenteidi"
+  "COL":
+    name: "Codotenteidi"
+    slug: "codotenteidi"
+  "1TH":
+    name: "1 Tetadönitenteidi"
+    slug: "1-tetadonitenteidi"
+  "2TH":
+    name: "2 Tetadönitenteidi"
+    slug: "2-tetadonitenteidi"
+  "1TI":
+    name: "1 Tïmoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Tïmoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pidemöö"
+    slug: "pidemoo"
+  "HEB":
+    name: "Ebedeoidi"
+    slug: "ebedeoidi"
+  "JAS":
+    name: "Tantiago"
+    slug: "tantiago"
+  "1PE":
+    name: "1 Pegodo"
+    slug: "1-pegodo"
+  "2PE":
+    name: "2 Pegodo"
+    slug: "2-pegodo"
+  "1JN":
+    name: "1 Wäö"
+    slug: "1-wao"
+  "2JN":
+    name: "2 Wäö"
+    slug: "2-wao"
+  "3JN":
+    name: "3 Wäö"
+    slug: "3-wao"
+  "JUD":
+    name: "Codaa"
+    slug: "codaa"
+  "REV":
+    name: "Nänö Odömongaïnö"
+    slug: "nano-odomongaino"

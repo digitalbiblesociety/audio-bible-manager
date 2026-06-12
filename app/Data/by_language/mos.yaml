@@ -1,0 +1,306 @@
+language: "mos"
+books:
+  "GEN":
+    name: "Sɩngrẽ"
+    slug: "sngre"
+    name_toc: "Bũmb fãa sɩngrẽ sebre"
+  "EXO":
+    name: "Yikri"
+    slug: "yikri"
+    name_toc: "Yikr sebre"
+  "LEV":
+    name: "Maan‑kʋʋre"
+    slug: "maankre"
+    name_toc: "Maan-kʋʋr sebre"
+  "NUM":
+    name: "Sõdbo"
+    slug: "sodbo"
+    name_toc: "Sõdb sebre"
+  "DEU":
+    name: "Tõodo"
+    slug: "toodo"
+    name_toc: "Tõod sebre"
+  "JOS":
+    name: "Zozuwe"
+    slug: "zozuwe"
+    name_toc: "A Zozuwe sebre"
+  "JDG":
+    name: "Bʋ-kaoodba"
+    slug: "b-kaoodba"
+    name_toc: "Bʋ-kaoodba sebre"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "A Rut"
+  "1SA":
+    name: "1Samwɛl"
+    slug: "1samwl"
+    name_toc: "A Samwɛl pipi sebre"
+  "2SA":
+    name: "2Samwɛl"
+    slug: "2samwl"
+    name_toc: "A Samwɛl sebre a yiib soaba"
+  "1KI":
+    name: "1Dĩm Dãmba"
+    slug: "1dim-damba"
+    name_toc: "Dĩm Dãmba Pipi Sebre"
+  "2KI":
+    name: "2Dĩm Dãmba"
+    slug: "2dim-damba"
+    name_toc: "Dĩm Dãmba Sebr A Yiib Soaba"
+  "1CH":
+    name: "1Na-rot"
+    slug: "1na-rot"
+    name_toc: "Na-rot Pipi Sebre"
+  "2CH":
+    name: "2Na-rot"
+    slug: "2na-rot"
+    name_toc: "Na-rot Sebr A Yiib Soaba"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "A Esdras sebre"
+  "NEH":
+    name: "Neemi"
+    slug: "neemi"
+    name_toc: "A Neemi sebre"
+  "EST":
+    name: "A Ɛstɛɛre"
+    slug: "a-stre"
+    name_toc: "A Ɛstɛɛr sebre"
+  "JOB":
+    name: "Zoob"
+    slug: "zoob"
+    name_toc: "A Zoob sebre"
+  "PSA":
+    name: "Yɩɩla"
+    slug: "yla"
+    name_toc: "Yɩɩl sebre"
+  "PRO":
+    name: "Yelbũna"
+    slug: "yelbuna"
+    name_toc: "Yelbũna sebre"
+  "ECC":
+    name: "Kowelɛt"
+    slug: "kowelt"
+    name_toc: "A Kowelɛt sebre"
+  "SNG":
+    name: "A Salmo yɩɩla"
+    slug: "a-salmo-yla"
+    name_toc: "A Salmo yɩɩl sebre"
+  "ISA":
+    name: "A Ezayi"
+    slug: "a-ezayi"
+    name_toc: "A Ezayi sebre"
+  "JER":
+    name: "Zeremi"
+    slug: "zeremi"
+    name_toc: "A Zeremi sebre"
+  "LAM":
+    name: "Kʋʋr yɩɩla"
+    slug: "kr-yla"
+    name_toc: "Kʋʋr yɩɩla"
+  "EZK":
+    name: "Ezekiyɛl"
+    slug: "ezekiyl"
+    name_toc: "A Ezekiyɛl sebre"
+  "DAN":
+    name: "A Dãniyɛlle"
+    slug: "a-daniylle"
+    name_toc: "A Dãniyɛll sebre"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+    name_toc: "A Oze sebre"
+  "JOL":
+    name: "Zowɛl"
+    slug: "zowl"
+    name_toc: "A Zowɛl sebre"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "A Amos sebre"
+  "OBA":
+    name: "A abdiyas"
+    slug: "a-abdiyas"
+    name_toc: "A Abdiyas sebre"
+  "JON":
+    name: "Zonas"
+    slug: "zonas"
+    name_toc: "A Zonas sebre"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+    name_toc: "A Mise sebre"
+  "NAM":
+    name: "Nawum"
+    slug: "nawum"
+    name_toc: "A Nawum sebre"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "A Abakuk sebre"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "A Sofoni sebre"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+    name_toc: "A Aze sebre"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+    name_toc: "A Zakari sebre"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+    name_toc: "A Malasi sebre"
+  "TOB":
+    name: "Tobi"
+    slug: "tobi"
+    name_toc: "A Tobi sebre"
+  "JDT":
+    name: "Zudit"
+    slug: "zudit"
+    name_toc: "A Zudit sebre"
+  "ESG":
+    name: "Estɛr"
+    slug: "estr"
+    name_toc: "A Estɛr sebre"
+  "WIS":
+    name: "Yam vẽenem"
+    slug: "yam-veenem"
+    name_toc: "Yam vẽenem sebre"
+  "SIR":
+    name: "Sira biiga"
+    slug: "sira-biiga"
+    name_toc: "A Sira biig sebre"
+  "BAR":
+    name: "A Barʋk"
+    slug: "a-bark"
+    name_toc: "Bangd a Barʋk"
+  "LJE":
+    name: "A zeremi seb bila"
+    slug: "a-zeremi-seb-bila"
+    name_toc: "A Zeremi sebre bila"
+  "DAG":
+    name: "Daniyɛl"
+    slug: "daniyl"
+    name_toc: "A Daniyɛl sebre"
+  "1MA":
+    name: "1Makabe"
+    slug: "1makabe"
+    name_toc: "Makabe Rãmb Namsgo Pipi Sebre"
+  "2MA":
+    name: "2Makabe"
+    slug: "2makabe"
+    name_toc: "Makabe Rãmb Namsg Sebr A Yiib Soaba"
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+    name_toc: "Koe-noog A Matye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Koe-noog A Mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Koe-noog A Luk"
+  "JHN":
+    name: "Zã"
+    slug: "za"
+    name_toc: "Koe-noog A Zã"
+  "ACT":
+    name: "Tʋʋma"
+    slug: "tma"
+    name_toc: "Tẽn-tʋmdba Tʋʋma"
+  "ROM":
+    name: "Rom Dãmba"
+    slug: "rom-damba"
+    name_toc: "Sebr ning a Pol sõng sẽn tool Rom dãmba"
+  "1CO":
+    name: "1Korẽnt Rãmba"
+    slug: "1korent-ramba"
+    name_toc: "Pipi Sebr Ning A Pol Sõng Sẽn Tool Korẽnt Rãmba"
+  "2CO":
+    name: "2Korẽnt Rãmba"
+    slug: "2korent-ramba"
+    name_toc: "Sebr A Yiib Soab A Pol Sõng Sẽn Tool Korẽnt Rãmba"
+  "GAL":
+    name: "Galat Rãmba"
+    slug: "galat-ramba"
+    name_toc: "Sebr ninga a Pol sõng sẽn tool Galat rãmba"
+  "EPH":
+    name: "Efɛɛz Rãmba"
+    slug: "efz-ramba"
+    name_toc: "Sebr ninga a Pol sõng sẽn tool Efɛɛz rãmba"
+  "PHP":
+    name: "Filip rãmba"
+    slug: "filip-ramba"
+    name_toc: "Sebr a poll sẽn gʋls n tʋm Filip Rãmbã"
+  "COL":
+    name: "Kolos Rãmba"
+    slug: "kolos-ramba"
+    name_toc: "Sebr ning a Pol sõng sẽn tool Kolos rãmba"
+  "1TH":
+    name: "1Tesalonik Rãmba"
+    slug: "1tesalonik-ramba"
+    name_toc: "Pipi sebre a Pol sõng sẽn tool Tesalonik rãmba"
+  "2TH":
+    name: "2Tesalonik Rãmba"
+    slug: "2tesalonik-ramba"
+    name_toc: "Sebra yiib soaba a Pol sõng sẽn tool Tesalonik rãmba"
+  "1TI":
+    name: "1Timote"
+    slug: "1timote"
+    name_toc: "Pipi Sebr Ninga A Pol Sõng Sẽn Tool A Timote"
+  "2TI":
+    name: "2Timote"
+    slug: "2timote"
+    name_toc: "Sebra Yiib Soaba A Pol Sõng Sẽn Tool A Timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Sebr a poll sẽn gʋls n tʋm A Tit"
+  "PHM":
+    name: "Fɩlmo"
+    slug: "flmo"
+    name_toc: "Sebr a poll sẽn gʋls n tʋm A Fɩlmo"
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+    name_toc: "Sebr b sẽn gʋls n tʋm Hebre Rãmbã"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+    name_toc: "A Zak sebre"
+  "1PE":
+    name: "1Piyɛr"
+    slug: "1piyr"
+    name_toc: "A Piyɛr Pipi Sebre"
+  "2PE":
+    name: "2Piyɛr"
+    slug: "2piyr"
+    name_toc: "A Piyɛr Sebr A Yiib Soaba"
+  "1JN":
+    name: "1 Zã"
+    slug: "1-za"
+    name_toc: "A Zã Pipi Sebre"
+  "2JN":
+    name: "2 Zã"
+    slug: "2-za"
+    name_toc: "A Zã sebra yiib soaba"
+  "3JN":
+    name: "3 Zã"
+    slug: "3-za"
+    name_toc: "A Zã Sebr A Tãab Soaba"
+  "JUD":
+    name: "Zɩɩd"
+    slug: "zd"
+    name_toc: "A Zɩɩd sebre"
+  "REV":
+    name: "Vẽnegre"
+    slug: "venegre"
+    name_toc: "A zezi kirist Vẽnegre"

@@ -1,0 +1,110 @@
+language: "kaj"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+    name_toc: "Ba̱ryat Matta"
+  "MRK":
+    name: "Markut"
+    slug: "markut"
+    name_toc: "Ba̱ryat Markut"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ba̱ryat Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ba̱ryat Yohana"
+  "ACT":
+    name: "Npfong"
+    slug: "npfong"
+    name_toc: "Npfong Ba̱pfong Yesu"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Kpa Bulut naat di Rom"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+    name_toc: "Kpa ka̱tsitsrang Bulut naat di Korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+    name_toc: "Kpa a̱mba̱hwa Bulut naat di Korinti"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+    name_toc: "Kpa Bulut naat di Galati"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+    name_toc: "Kpa Bulut naat di Afisa"
+  "PHP":
+    name: "Filibi"
+    slug: "filibi"
+    name_toc: "Kpa Bulut naat di Filibi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Kpa Bulut naat di Kolosi"
+  "1TH":
+    name: "1 Tasaloni"
+    slug: "1-tasaloni"
+    name_toc: "Kpa ka̱tsitsrang Bulut naat di Tasaloni"
+  "2TH":
+    name: "2 Tasaloni"
+    slug: "2-tasaloni"
+    name_toc: "Kpa a̱mba̱hwa Bulut naat di Tasaloni"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Kpa ka̱tsitsrang Bulut naat di Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Kpa a̱mba̱hwa Bulut naat di Timoti"
+  "TIT":
+    name: "Titut"
+    slug: "titut"
+    name_toc: "Kpa Bulut naat di Titut"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Kpa Bulut naat di Filimon"
+  "HEB":
+    name: "Ibraniyawa"
+    slug: "ibraniyawa"
+    name_toc: "Kpa naat di Ibraniyawa"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+    name_toc: "Kpa Yakubu"
+  "1PE":
+    name: "1 Bitut"
+    slug: "1-bitut"
+    name_toc: "Kpa ka̱tsitsrang Bitut"
+  "2PE":
+    name: "2 Bitut"
+    slug: "2-bitut"
+    name_toc: "Kpa a̱mba̱hwa Bitut"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Kpa ka̱tsitsrang Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Kpa a̱mba̱hwa Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Kpa a̱mba̱tat Yohana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+    name_toc: "Kpa Yahuda"
+  "REV":
+    name: "Pfong Ka̱za"
+    slug: "pfong-kaza"
+    name_toc: "Pfong Ka̱za Ka̱nu Yohana"

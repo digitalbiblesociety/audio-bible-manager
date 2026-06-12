@@ -1,0 +1,230 @@
+language: "gid"
+books:
+  "GEN":
+    name: "Va'Atəŋ"
+    slug: "va-ate"
+  "EXO":
+    name: "Əgilye"
+    slug: "egilye"
+  "LEV":
+    name: "Məsdəlveŋge"
+    slug: "mesdelvege"
+  "NUM":
+    name: "Əŋɗa"
+    slug: "ea"
+  "DEU":
+    name: "Əmsak aka Mahenziŋ"
+    slug: "emsak-aka-mahenzi"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+  "JDG":
+    name: "Mətawaŋwəna"
+    slug: "metawawena"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1Samiyel"
+    slug: "1samiyel"
+  "2SA":
+    name: "2Samiyel"
+    slug: "2samiyel"
+  "1KI":
+    name: "1Milyeŋge"
+    slug: "1milyege"
+  "2KI":
+    name: "2Milyeŋge"
+    slug: "2milyege"
+  "1CH":
+    name: "1Alabaraɗe Də Mabərkiziti"
+    slug: "1alabarae-de-maberkiziti"
+  "2CH":
+    name: "2Alabaraɗe Də Mabərkiziti"
+    slug: "2alabarae-de-maberkiziti"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+  "PSA":
+    name: "Gəlyaɗe"
+    slug: "gelyae"
+  "PRO":
+    name: "Wənməkkpaŋga"
+    slug: "wenmekkpaga"
+  "ECC":
+    name: "Məsmaɗula"
+    slug: "mesmaula"
+  "SNG":
+    name: "Gəlya net Gəlyaɗe"
+    slug: "gelya-net-gelyae"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+  "LAM":
+    name: "Əɓuhma"
+    slug: "euhma"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+  "HOS":
+    name: "Hose'a"
+    slug: "hose-a"
+  "JOL":
+    name: "Yo'el"
+    slug: "yo-el"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadya"
+    slug: "obadya"
+  "JON":
+    name: "Yonas"
+    slug: "yonas"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanya"
+    slug: "sefanya"
+  "HAG":
+    name: "Haggay"
+    slug: "haggay"
+  "ZEC":
+    name: "Zakarya"
+    slug: "zakarya"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Yudit"
+    slug: "yudit"
+  "ESG":
+    name: "Ester Gərek"
+    slug: "ester-gerek"
+  "WIS":
+    name: "Maɗɗula"
+    slug: "maula"
+  "SIR":
+    name: "Sirasid"
+    slug: "sirasid"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "LJE":
+    name: "Letər na Yeremiya"
+    slug: "leter-na-yeremiya"
+  "DAG":
+    name: "Daniyel Gərek"
+    slug: "daniyel-gerek"
+  "1MA":
+    name: "1Makabeɗe"
+    slug: "1makabee"
+  "2MA":
+    name: "2Makabeɗe"
+    slug: "2makabee"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Zaŋ"
+    slug: "za"
+  "ACT":
+    name: "Wəza net Masləŋɗe"
+    slug: "weza-net-maslee"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Korintus"
+    slug: "1korintus"
+  "2CO":
+    name: "2Korintus"
+    slug: "2korintus"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1Tesaloniki"
+    slug: "1tesaloniki"
+  "2TH":
+    name: "2Tesaloniki"
+    slug: "2tesaloniki"
+  "1TI":
+    name: "1Timote"
+    slug: "1timote"
+  "2TI":
+    name: "2Timote"
+    slug: "2timote"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibriɗe"
+    slug: "ibrie"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "1Piyer"
+    slug: "1piyer"
+  "2PE":
+    name: "2Piyer"
+    slug: "2piyer"
+  "1JN":
+    name: "1 Zaŋ"
+    slug: "1-za"
+  "2JN":
+    name: "2 Zaŋ"
+    slug: "2-za"
+  "3JN":
+    name: "3 Zaŋ"
+    slug: "3-za"
+  "JUD":
+    name: "Zuda"
+    slug: "zuda"
+  "REV":
+    name: "Hənhən"
+    slug: "henhen"

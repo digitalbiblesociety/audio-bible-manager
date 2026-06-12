@@ -1,0 +1,200 @@
+language: "che"
+books:
+  "GEN":
+    name: "Доладалар"
+    slug: "doladalar"
+  "EXO":
+    name: "Арадаккхар"
+    slug: "aradakkhar"
+  "LEV":
+    name: "Ӏамалъяр"
+    slug: "amalar"
+  "NUM":
+    name: "Лелар"
+    slug: "lelar"
+  "DEU":
+    name: "Карлабаьккхинарг"
+    slug: "karlabakkhinarg"
+  "JOS":
+    name: "ЮшаӀ"
+    slug: "usa"
+  "JDG":
+    name: "Куьйгалхой"
+    slug: "kujgalhoj"
+  "RUT":
+    name: "Рути"
+    slug: "ruti"
+  "1SA":
+    name: "Шамъал"
+    slug: "samal"
+  "2SA":
+    name: "Дауд"
+    slug: "daud"
+  "1KI":
+    name: "Сулим"
+    slug: "sulim"
+  "2KI":
+    name: "ТӀаьххьарнаш"
+    slug: "tahharnas"
+  "1CH":
+    name: "1 Шерашкахь"
+    slug: "1-seraskah"
+  "2CH":
+    name: "2 Шерашкахь"
+    slug: "2-seraskah"
+  "EZR":
+    name: "Ӏезар"
+    slug: "ezar"
+  "NEH":
+    name: "Нахьми-ЯхӀу"
+    slug: "nahmi-ahu"
+  "EST":
+    name: "Эсират"
+    slug: "esirat"
+  "JOB":
+    name: "Аюб"
+    slug: "aub"
+  "PSA":
+    name: "Забур"
+    slug: "zabur"
+  "PRO":
+    name: "Кицанаш"
+    slug: "kicanas"
+  "ECC":
+    name: "Устаз"
+    slug: "ustaz"
+  "SNG":
+    name: "Илли"
+    slug: "illi"
+  "ISA":
+    name: "ЕшаӀ-ЯхӀу"
+    slug: "esa-ahu"
+  "JER":
+    name: "Ярми-ЯхӀу"
+    slug: "armi-ahu"
+  "LAM":
+    name: "Тийжамаш"
+    slug: "tijzamas"
+  "EZK":
+    name: "Яхьазкхиал"
+    slug: "ahazkhial"
+  "DAN":
+    name: "Даниал"
+    slug: "danial"
+  "HOS":
+    name: "ХӀушаӀ"
+    slug: "husa"
+  "JOL":
+    name: "Юал"
+    slug: "ual"
+  "AMO":
+    name: "Ӏамос"
+    slug: "amos"
+  "OBA":
+    name: "Ӏабди-ЯхӀу"
+    slug: "abdi-ahu"
+  "JON":
+    name: "Юнус"
+    slug: "unus"
+  "MIC":
+    name: "Мика-ЯхӀу"
+    slug: "mika-ahu"
+  "NAM":
+    name: "Нахьум"
+    slug: "nahum"
+  "HAB":
+    name: "Хьабукъа"
+    slug: "habuka"
+  "ZEP":
+    name: "Цапни-ЯхӀу"
+    slug: "capni-ahu"
+  "HAG":
+    name: "Хьагай"
+    slug: "hagaj"
+  "ZEC":
+    name: "Закри-ЯхӀу"
+    slug: "zakri-ahu"
+  "MAL":
+    name: "Малъаки"
+    slug: "malaki"
+  "MAT":
+    name: "Маттай"
+    slug: "mattaj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лака"
+    slug: "laka"
+  "JHN":
+    name: "Яхьъя"
+    slug: "aha"
+  "ACT":
+    name: "Векалийн"
+    slug: "vekalijn"
+  "ROM":
+    name: "Римхошка"
+    slug: "rimhoska"
+  "1CO":
+    name: "1 Коринтхошка"
+    slug: "1-korinthoska"
+  "2CO":
+    name: "2 Коринтхошка"
+    slug: "2-korinthoska"
+  "GAL":
+    name: "Галатахошка"
+    slug: "galatahoska"
+  "EPH":
+    name: "Эпасхошка"
+    slug: "epashoska"
+  "PHP":
+    name: "Пилапхошка"
+    slug: "pilaphoska"
+  "COL":
+    name: "Ковлусихошка"
+    slug: "kovlusihoska"
+  "1TH":
+    name: "1 Тассалникахошка"
+    slug: "1-tassalnikahoska"
+  "2TH":
+    name: "2 Тассалникахошка"
+    slug: "2-tassalnikahoska"
+  "1TI":
+    name: "1 Тимапига"
+    slug: "1-timapiga"
+  "2TI":
+    name: "2 Тимапига"
+    slug: "2-timapiga"
+  "TIT":
+    name: "Тите"
+    slug: "tite"
+  "PHM":
+    name: "Пхьалмане"
+    slug: "phalmane"
+  "HEB":
+    name: "Ӏебархошка"
+    slug: "ebarhoska"
+  "JAS":
+    name: "Якъуба"
+    slug: "akuba"
+  "1PE":
+    name: "1 Кипин"
+    slug: "1-kipin"
+  "2PE":
+    name: "2 Кипин"
+    slug: "2-kipin"
+  "1JN":
+    name: "1 Яхьъяс"
+    slug: "1-ahas"
+  "2JN":
+    name: "2 Яхьъяс"
+    slug: "2-ahas"
+  "3JN":
+    name: "3 Яхьъяс"
+    slug: "3-ahas"
+  "JUD":
+    name: "ЯхӀуда"
+    slug: "ahuda"
+  "REV":
+    name: "Довзийтинарг"
+    slug: "dovzijtinarg"

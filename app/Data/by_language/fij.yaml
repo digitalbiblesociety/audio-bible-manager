@@ -1,0 +1,233 @@
+language: "fij"
+books:
+  "GEN":
+    name: "Vakatekivu"
+    slug: "vakatekivu"
+  "EXO":
+    name: "Lako Yani"
+    slug: "lako-yani"
+  "LEV":
+    name: "Vunau ni Soro"
+    slug: "vunau-ni-soro"
+  "NUM":
+    name: "Tiko mai na Lekutu"
+    slug: "tiko-mai-na-lekutu"
+  "DEU":
+    name: "Vakarua"
+    slug: "vakarua"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Dauveilewai"
+    slug: "dauveilewai"
+  "RUT":
+    name: "Ruci"
+    slug: "ruci"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Tui"
+    slug: "1-tui"
+  "2KI":
+    name: "2 Tui"
+    slug: "2-tui"
+  "1CH":
+    name: "1 Veigauna"
+    slug: "1-veigauna"
+  "2CH":
+    name: "2 Veigauna"
+    slug: "2-veigauna"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+  "NEH":
+    name: "Niemaia"
+    slug: "niemaia"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+  "JOB":
+    name: "Jope"
+    slug: "jope"
+  "PSA":
+    name: "Same"
+    slug: "same"
+  "PRO":
+    name: "Vosavakaibalebale"
+    slug: "vosavakaibalebale"
+  "ECC":
+    name: "Dauvunau"
+    slug: "dauvunau"
+  "SNG":
+    name: "Sere i Solomoni"
+    slug: "sere-i-solomoni"
+  "ISA":
+    name: "Aisea"
+    slug: "aisea"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Lele i Jeremaia"
+    slug: "lele-i-jeremaia"
+  "EZK":
+    name: "Isikeli"
+    slug: "isikeli"
+  "DAN":
+    name: "Taniela"
+    slug: "taniela"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+  "AMO":
+    name: "Emosi"
+    slug: "emosi"
+  "OBA":
+    name: "Opetaia"
+    slug: "opetaia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Neumi"
+    slug: "neumi"
+  "HAB":
+    name: "Apakuki"
+    slug: "apakuki"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Akeai"
+    slug: "akeai"
+  "ZEC":
+    name: "Sakaraia"
+    slug: "sakaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "TOB":
+    name: "Tobita"
+    slug: "tobita"
+  "JDT":
+    name: "Udite"
+    slug: "udite"
+  "ESG":
+    name: "Gk Esiteri"
+    slug: "gk-esiteri"
+  "WIS":
+    name: "Yalomatua"
+    slug: "yalomatua"
+  "SIR":
+    name: "Siraki"
+    slug: "siraki"
+  "BAR":
+    name: "Baruki"
+    slug: "baruki"
+  "S3Y":
+    name: "1. Na Masu I Asaria Kei Na Nodratou Sere Na Tolu Na Cauravou ????"
+    slug: "1-na-masu-i-asaria-kei-na-nodratou-sere-na-tolu-na-cauravou"
+  "SUS":
+    name: "2. Na Ivola I Susana"
+    slug: "2-na-ivola-i-susana"
+  "BEL":
+    name: "3. O Bele Kei Na Drakoni Daukata"
+    slug: "3-o-bele-kei-na-drakoni-daukata"
+  "1MA":
+    name: "1 Makabe"
+    slug: "1-makabe"
+  "2MA":
+    name: "2 Makabe"
+    slug: "2-makabe"
+  "MAT":
+    name: "Maciu"
+    slug: "maciu"
+  "MRK":
+    name: "Marika"
+    slug: "marika"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+  "ACT":
+    name: "Cakacaka"
+    slug: "cakacaka"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinica"
+    slug: "1-korinica"
+  "2CO":
+    name: "2 Korinica"
+    slug: "2-korinica"
+  "GAL":
+    name: "Kalatia"
+    slug: "kalatia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Cesalonaika"
+    slug: "1-cesalonaika"
+  "2TH":
+    name: "2 Cesalonaika"
+    slug: "2-cesalonaika"
+  "1TI":
+    name: "1 Timoci"
+    slug: "1-timoci"
+  "2TI":
+    name: "2 Timoci"
+    slug: "2-timoci"
+  "TIT":
+    name: "Taito"
+    slug: "taito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Iperiu"
+    slug: "iperiu"
+  "JAS":
+    name: "Jemesa"
+    slug: "jemesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Vakatakila"
+    slug: "vakatakila"

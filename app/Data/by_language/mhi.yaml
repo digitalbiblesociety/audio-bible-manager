@@ -1,0 +1,6 @@
+language: "mhi"
+books:
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Waraga Ruti Dri"

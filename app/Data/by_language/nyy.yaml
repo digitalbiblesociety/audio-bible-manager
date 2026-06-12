@@ -1,0 +1,266 @@
+language: "nyy"
+books:
+  "GEN":
+    name: "Ubwandilo"
+    slug: "ubwandilo"
+    name_toc: "Ubwandilo"
+  "EXO":
+    name: "Ukusōka"
+    slug: "ukusoka"
+    name_toc: "Ukusōka"
+  "LEV":
+    name: "Abanyalēbị"
+    slug: "abanyalebi"
+    name_toc: "Abanyalēbị"
+  "NUM":
+    name: "Imbalilo"
+    slug: "imbalilo"
+    name_toc: "Imbalilo"
+  "DEU":
+    name: "Ukukumbuka Īngomēlesyo"
+    slug: "ukukumbuka-ingomelesyo"
+    name_toc: "Ukukumbuka Īngomēlesyo"
+  "JOS":
+    name: "Joswa"
+    slug: "joswa"
+    name_toc: "Joswa"
+  "JDG":
+    name: "Abalagilị"
+    slug: "abalagili"
+    name_toc: "Abalagilị"
+  "RUT":
+    name: "Luti"
+    slug: "luti"
+    name_toc: "Luti"
+  "1SA":
+    name: "1 Samwelị"
+    slug: "1-samweli"
+    name_toc: "1 Samwelị"
+  "2SA":
+    name: "2 Samwelị"
+    slug: "2-samweli"
+    name_toc: "2 Samwelị"
+  "1KI":
+    name: "1 Abanyafyale"
+    slug: "1-abanyafyale"
+    name_toc: "1 Abanyafyale"
+  "2KI":
+    name: "2 Abanyafyale"
+    slug: "2-abanyafyale"
+    name_toc: "2 Abanyafyale"
+  "1CH":
+    name: "1 Sya Ntubalilo"
+    slug: "1-sya-ntubalilo"
+    name_toc: "1 Sya Ntubalilo"
+  "2CH":
+    name: "2 Sya Ntubalilo"
+    slug: "2-sya-ntubalilo"
+    name_toc: "2 Sya Ntubalilo"
+  "EZR":
+    name: "Esela"
+    slug: "esela"
+    name_toc: "Esela"
+  "NEH":
+    name: "Nehemịja"
+    slug: "nehemija"
+    name_toc: "Nehemịja"
+  "EST":
+    name: "Esịta"
+    slug: "esita"
+    name_toc: "Esịta"
+  "JOB":
+    name: "Jobụ"
+    slug: "jobu"
+    name_toc: "Jobụ"
+  "PSA":
+    name: "Isabulị"
+    slug: "isabuli"
+    name_toc: "Isabulị"
+  "PRO":
+    name: "Mbupīngamụ"
+    slug: "mbupingamu"
+    name_toc: "Mbupīngamụ"
+  "ECC":
+    name: "Nndumbililị"
+    slug: "nndumbilili"
+    name_toc: "Nndumbililị"
+  "SNG":
+    name: "Lwimbo ulunụnụ"
+    slug: "lwimbo-ulununu"
+    name_toc: "Lwimbo ulunụnụ"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+    name_toc: "Jesaja"
+  "JER":
+    name: "Jelemịja"
+    slug: "jelemija"
+    name_toc: "Jelemịja"
+  "LAM":
+    name: "Ulwịlilisyo"
+    slug: "ulwililisyo"
+    name_toc: "Ulwịlilisyo"
+  "EZK":
+    name: "Esekyelị"
+    slug: "esekyeli"
+    name_toc: "Esekyelị"
+  "DAN":
+    name: "Ndanịelị"
+    slug: "ndanieli"
+    name_toc: "Ndanịelị"
+  "HOS":
+    name: "Osịja"
+    slug: "osija"
+    name_toc: "Osịja"
+  "JOL":
+    name: "Joelị"
+    slug: "joeli"
+    name_toc: "Joelị"
+  "AMO":
+    name: "Amosị"
+    slug: "amosi"
+    name_toc: "Amosị"
+  "OBA":
+    name: "Obatịja"
+    slug: "obatija"
+    name_toc: "Obatịja"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nahụmụ"
+    slug: "nahumu"
+    name_toc: "Nahụmụ"
+  "HAB":
+    name: "Habakụkị"
+    slug: "habakuki"
+    name_toc: "Habakụkị"
+  "ZEP":
+    name: "Sefanịja"
+    slug: "sefanija"
+    name_toc: "Sefanịja"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Sakalịja"
+    slug: "sakalija"
+    name_toc: "Sakalịja"
+  "MAL":
+    name: "Malakị"
+    slug: "malaki"
+    name_toc: "Malakị"
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+    name_toc: "ƗNdʉmi ɨNunu jaa Jesu Kɨlɨsiti bo muno aasimbile Matai"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Ilibangeli bo apa alisimbege Marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+    name_toc: "ƗNdʉmi ɨNunu jaa Jesu Kɨlɨsiti bo muno aasimbile Johani"
+  "ACT":
+    name: "Ɨmbombo sya Batʉmigwa"
+    slug: "mbombo-sya-batmigwa"
+    name_toc: "Ɨmbombo sya Batʉmigwa"
+  "ROM":
+    name: "BaRoma"
+    slug: "baroma"
+    name_toc: "Kalata gwa Pauli KubaRoma"
+  "1CO":
+    name: "1 BaKorinti"
+    slug: "1-bakorinti"
+    name_toc: "Kalata gwa kwanda gwa Pauli KubaKorinti"
+  "2CO":
+    name: "2 Abakolinti"
+    slug: "2-abakolinti"
+    name_toc: "Kalata gwa bʉbɨlɨ ʉgwa Paʉli kʉ Bakolinti"
+  "GAL":
+    name: "Abagalatị"
+    slug: "abagalati"
+    name_toc: "Abagalatị"
+  "EPH":
+    name: "BaEfesi"
+    slug: "baefesi"
+    name_toc: "Kalata gwa Pauli KubaEfesi"
+  "PHP":
+    name: "BaFilipi"
+    slug: "bafilipi"
+    name_toc: "Kalata gwa Pauli KubaFilipi"
+  "COL":
+    name: "BaKolosi"
+    slug: "bakolosi"
+    name_toc: "Kalata gwa Pauli KubaKolosi"
+  "1TH":
+    name: "1 Abatesaloniki"
+    slug: "1-abatesaloniki"
+    name_toc: "Kalata gwa kwanda ʉgwa Paʉli kʉ Batesaloniki"
+  "2TH":
+    name: "2 Abatesaloniki"
+    slug: "2-abatesaloniki"
+    name_toc: "Kalata gwa bʉbɨlɨ ʉgwa Paʉli kʉ Batesaloniki"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Kalata gwa kwanda ʉgwa Paʉli kwa Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Kalata gwa bʉbɨlɨ ʉgwa Paʉli kwa Timoti"
+  "TIT":
+    name: "Tịtị"
+    slug: "titi"
+    name_toc: "Tịtị"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Kalata gwa Paʉli kwa Filimoni"
+  "HEB":
+    name: "Abahibʉli"
+    slug: "abahibli"
+    name_toc: "Kalata kʉ Bahibʉli"
+  "JAS":
+    name: "Jakobụ"
+    slug: "jakobu"
+    name_toc: "Jakobụ"
+  "1PE":
+    name: "1 Petelị"
+    slug: "1-peteli"
+    name_toc: "1 Petelị"
+  "2PE":
+    name: "2 Petelị"
+    slug: "2-peteli"
+    name_toc: "2 Petelị"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+    name_toc: "Kalata gwa kwanda ʉgwa Johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+    name_toc: "Kalata gwa bʉbɨlɨ ʉgwa Johani"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+    name_toc: "Kalata gwa bʉtatʉ ʉgwa Johani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Kalata gwa Yuda"
+  "REV":
+    name: "Ʉbʉsetʉli"
+    slug: "bsetli"
+    name_toc: "Ʉbʉsetʉli ʉbwa Jesu Kɨlɨsiti kwa Johani"

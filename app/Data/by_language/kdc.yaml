@@ -1,0 +1,119 @@
+language: "kdc"
+books:
+  "GEN":
+    name: "Mwanduso"
+    slug: "mwanduso"
+  "EXO":
+    name: "Kulawa"
+    slug: "kulawa"
+  "LEV":
+    name: "Walawi"
+    slug: "walawi"
+  "NUM":
+    name: "Kupetigwa"
+    slug: "kupetigwa"
+  "DEU":
+    name: "Kumbukumbu"
+    slug: "kumbukumbu"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Wasemi"
+    slug: "wasemi"
+  "RUT":
+    name: "Lusi"
+    slug: "lusi"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+  "PSA":
+    name: "Zabuli"
+    slug: "zabuli"
+  "PRO":
+    name: "Nongezi"
+    slug: "nongezi"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Sang'hano"
+    slug: "sanghano"
+  "ROM":
+    name: "Walumi"
+    slug: "walumi"
+  "1CO":
+    name: "1 Wakolinto"
+    slug: "1-wakolinto"
+  "2CO":
+    name: "2 Wakolinto"
+    slug: "2-wakolinto"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+  "1TH":
+    name: "1 Wasesalonike"
+    slug: "1-wasesalonike"
+  "2TH":
+    name: "2 Wasesalonike"
+    slug: "2-wasesalonike"
+  "1TI":
+    name: "1 Timoseo"
+    slug: "1-timoseo"
+  "2TI":
+    name: "2 Timoseo"
+    slug: "2-timoseo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Waebulania"
+    slug: "waebulania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ugubulo"
+    slug: "ugubulo"

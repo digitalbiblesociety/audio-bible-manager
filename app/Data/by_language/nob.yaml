@@ -1,0 +1,83 @@
+language: "nob"
+books:
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Apostlenes gjerninger"
+    slug: "apostlenes-gjerninger"
+  "ROM":
+    name: "Romerne"
+    slug: "romerne"
+  "1CO":
+    name: "1. Korinter"
+    slug: "1-korinter"
+  "2CO":
+    name: "2. Korinter"
+    slug: "2-korinter"
+  "GAL":
+    name: "Galaterne"
+    slug: "galaterne"
+  "EPH":
+    name: "Efeserne"
+    slug: "efeserne"
+  "PHP":
+    name: "Filipperne"
+    slug: "filipperne"
+  "COL":
+    name: "Kolosserne"
+    slug: "kolosserne"
+  "1TH":
+    name: "1. Tessaloniker"
+    slug: "1-tessaloniker"
+  "2TH":
+    name: "2. Tessaloniker"
+    slug: "2-tessaloniker"
+  "1TI":
+    name: "1. Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2. Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreerne"
+    slug: "hebreerne"
+  "JAS":
+    name: "Jakob"
+    slug: "jakob"
+  "1PE":
+    name: "1. Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2. Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1. Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2. Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3. Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Johannesʼ åpenbaring"
+    slug: "johannes-apenbaring"

@@ -1,0 +1,38 @@
+language: "mwc"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Levitikus"
+    slug: "levitikus"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+  "DEU":
+    name: "Kairuwaina Bairuwaina"
+    slug: "kairuwaina-bairuwaina"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "ACT":
+    name: "Acts"
+    slug: "acts"

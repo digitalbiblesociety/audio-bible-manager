@@ -1,0 +1,83 @@
+language: "gng"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "San"
+    slug: "san"
+  "ACT":
+    name: "Itùon"
+    slug: "ituon"
+  "ROM":
+    name: "Erom yaab"
+    slug: "erom-yaab"
+  "1CO":
+    name: "1 Korɛnt yaab"
+    slug: "1-kornt-yaab"
+  "2CO":
+    name: "2 Korɛnt yaab"
+    slug: "2-kornt-yaab"
+  "GAL":
+    name: "Galasi yaab"
+    slug: "galasi-yaab"
+  "EPH":
+    name: "Efɛs yaab"
+    slug: "efs-yaab"
+  "PHP":
+    name: "Filip yaab"
+    slug: "filip-yaab"
+  "COL":
+    name: "Kolɔs yaab"
+    slug: "kols-yaab"
+  "1TH":
+    name: "1 Tesalonik yaab"
+    slug: "1-tesalonik-yaab"
+  "2TH":
+    name: "2 Tesalonik yaab"
+    slug: "2-tesalonik-yaab"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Ebrembɛ"
+    slug: "ebremb"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Piɛr"
+    slug: "1-pir"
+  "2PE":
+    name: "2 Piɛr"
+    slug: "2-pir"
+  "1JN":
+    name: "1 San"
+    slug: "1-san"
+  "2JN":
+    name: "2 San"
+    slug: "2-san"
+  "3JN":
+    name: "3 San"
+    slug: "3-san"
+  "JUD":
+    name: "Sud"
+    slug: "sud"
+  "REV":
+    name: "Mikpiirm"
+    slug: "mikpiirm"

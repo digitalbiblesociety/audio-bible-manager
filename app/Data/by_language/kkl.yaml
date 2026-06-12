@@ -1,0 +1,38 @@
+language: "kkl"
+books:
+  "GEN":
+    name: "Sumbaogha"
+    slug: "sumbaogha"
+  "RUT":
+    name: "Rut Yubu"
+    slug: "rut-yubu"
+  "MRK":
+    name: "Markus Yubu"
+    slug: "markus-yubu"
+  "ACT":
+    name: "Pogsiognang"
+    slug: "pogsiognang"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"

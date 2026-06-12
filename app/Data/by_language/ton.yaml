@@ -1,0 +1,200 @@
+language: "ton"
+books:
+  "GEN":
+    name: "Senesi"
+    slug: "senesi"
+  "EXO":
+    name: "ʻEkisotosi"
+    slug: "ekisotosi"
+  "LEV":
+    name: "Levitiko"
+    slug: "levitiko"
+  "NUM":
+    name: "Nomipā"
+    slug: "nomipa"
+  "DEU":
+    name: "Teutalonome"
+    slug: "teutalonome"
+  "JOS":
+    name: "Siosiua"
+    slug: "siosiua"
+  "JDG":
+    name: "Fakamaau"
+    slug: "fakamaau"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Tuʻi"
+    slug: "1-tui"
+  "2KI":
+    name: "2 Tuʻi"
+    slug: "2-tui"
+  "1CH":
+    name: "1 Meʻa Hokohoko"
+    slug: "1-mea-hokohoko"
+  "2CH":
+    name: "2 Meʻa Hokohoko"
+    slug: "2-mea-hokohoko"
+  "EZR":
+    name: "ʻEsela"
+    slug: "esela"
+  "NEH":
+    name: "Nehemaia"
+    slug: "nehemaia"
+  "EST":
+    name: "Eseta"
+    slug: "eseta"
+  "JOB":
+    name: "Siope"
+    slug: "siope"
+  "PSA":
+    name: "Saame"
+    slug: "saame"
+  "PRO":
+    name: "Lea Fakatātā"
+    slug: "lea-fakatata"
+  "ECC":
+    name: "Tangata Malanga"
+    slug: "tangata-malanga"
+  "SNG":
+    name: "Hiva ʻa Solomone"
+    slug: "hiva-a-solomone"
+  "ISA":
+    name: "ʻIsaia"
+    slug: "isaia"
+  "JER":
+    name: "Selemaia"
+    slug: "selemaia"
+  "LAM":
+    name: "Tangilāulau"
+    slug: "tangilaulau"
+  "EZK":
+    name: "ʻIsikieli"
+    slug: "isikieli"
+  "DAN":
+    name: "Taniela"
+    slug: "taniela"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Soeli"
+    slug: "soeli"
+  "AMO":
+    name: "ʻAmosi"
+    slug: "amosi"
+  "OBA":
+    name: "ʻOpataia"
+    slug: "opataia"
+  "JON":
+    name: "Siona"
+    slug: "siona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nehumi"
+    slug: "nehumi"
+  "HAB":
+    name: "Hapakuki"
+    slug: "hapakuki"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Hakeai"
+    slug: "hakeai"
+  "ZEC":
+    name: "Sakalaia"
+    slug: "sakalaia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Mātiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maʻake"
+    slug: "maake"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Sione"
+    slug: "sione"
+  "ACT":
+    name: "Kau ʻAposetolo"
+    slug: "kau-aposetolo"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinitō"
+    slug: "1-kolinito"
+  "2CO":
+    name: "2 Kolinitō"
+    slug: "2-kolinito"
+  "GAL":
+    name: "Kaletia"
+    slug: "kaletia"
+  "EPH":
+    name: "ʻEfesō"
+    slug: "efeso"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Taitusi"
+    slug: "taitusi"
+  "PHM":
+    name: "Filimone"
+    slug: "filimone"
+  "HEB":
+    name: "Hepelū"
+    slug: "hepelu"
+  "JAS":
+    name: "Semisi"
+    slug: "semisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Sione"
+    slug: "1-sione"
+  "2JN":
+    name: "2 Sione"
+    slug: "2-sione"
+  "3JN":
+    name: "3 Sione"
+    slug: "3-sione"
+  "JUD":
+    name: "Siute"
+    slug: "siute"
+  "REV":
+    name: "Fakahā"
+    slug: "fakaha"

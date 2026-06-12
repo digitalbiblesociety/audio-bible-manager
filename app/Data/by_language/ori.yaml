@@ -1,0 +1,200 @@
+language: "ori"
+books:
+  "GEN":
+    name: "ଆଦିପୁସ୍ତକ"
+    slug: "adipustaka"
+  "EXO":
+    name: "ଯାତ୍ରାପୁସ୍ତକ"
+    slug: "yatrapustaka"
+  "LEV":
+    name: "ଲେବୀୟ ପୁସ୍ତକ"
+    slug: "lebiya-pustaka"
+  "NUM":
+    name: "ଗଣନା ପୁସ୍ତକ"
+    slug: "ganana-pustaka"
+  "DEU":
+    name: "ଦ୍ୱିତୀୟ ବିବରଣ"
+    slug: "dwitiya-bibarana"
+  "JOS":
+    name: "ଯିହୋଶୂୟଙ୍କର ପୁସ୍ତକ"
+    slug: "yihosuyankara-pustaka"
+  "JDG":
+    name: "ବିଗ୍ଭରକର୍ତ୍ତାମାନଙ୍କ ବିବରଣ"
+    slug: "bigbharakarttamananka-bibarana"
+  "RUT":
+    name: "ଋତର ବିବରଣ ପୁସ୍ତକ"
+    slug: "rtara-bibarana-pustaka"
+  "1SA":
+    name: "ଶାମୁୟେଲଙ୍କ ପ୍ରଥମ ପୁସ୍ତକ"
+    slug: "samuyelanka-prathama-pustaka"
+  "2SA":
+    name: "ଶାମୁୟେଲଙ୍କ ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+    slug: "samuyelanka-dwitiya-pustaka"
+  "1KI":
+    name: "ରାଜାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ"
+    slug: "rajabalira-prathama-pustaka"
+  "2KI":
+    name: "ରାଜାବଳୀର ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+    slug: "rajabalira-dwitiya-pustaka"
+  "1CH":
+    name: "ବଂଶାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ"
+    slug: "bamsabalira-prathama-pustaka"
+  "2CH":
+    name: "ବଂଶାବଳୀର ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+    slug: "bamsabalira-dwitiya-pustaka"
+  "EZR":
+    name: "ଏଜ୍ରା"
+    slug: "ejra"
+  "NEH":
+    name: "ନିହିମିୟାଙ୍କର ପୁସ୍ତକ"
+    slug: "nihimiyankara-pustaka"
+  "EST":
+    name: "ଏଷ୍ଟର ବିବରଣ"
+    slug: "estara-bibarana"
+  "JOB":
+    name: "ଆୟୁବ ପୁସ୍ତକ"
+    slug: "ayuba-pustaka"
+  "PSA":
+    name: "ଗୀତସଂହିତା"
+    slug: "gitasamhita"
+  "PRO":
+    name: "ହିତୋପଦେଶ"
+    slug: "hitopadesa"
+  "ECC":
+    name: "ଉପଦେଶକ"
+    slug: "upadesaka"
+  "SNG":
+    name: "ପରମଗୀତ"
+    slug: "paramagita"
+  "ISA":
+    name: "ଯିଶାଇୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କର ପୁସ୍ତକ"
+    slug: "yisaiya-bhabisyadbaktankara-pustaka"
+  "JER":
+    name: "ଯିରିମିୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "yirimiya-bhabisyadbaktanka-pustaka"
+  "LAM":
+    name: "ଯିରିମିୟଙ୍କ ବିଳାପ"
+    slug: "yirimiyanka-bilapa"
+  "EZK":
+    name: "ଯିହିଜିକଲ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "yihijikala-bhabisyadbaktanka-pustaka"
+  "DAN":
+    name: "ଦାନିୟେଲଙ୍କ ପୁସ୍ତକ"
+    slug: "daniyelanka-pustaka"
+  "HOS":
+    name: "ହୋଶେୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "hoseya-bhabisyadbaktanka-pustaka"
+  "JOL":
+    name: "ଯୋୟେଲ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "yoyela-bhabisyadbaktanka-pustaka"
+  "AMO":
+    name: "ଆମୋଷ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "amesa-bhabisyadbaktanka-pustaka"
+  "OBA":
+    name: "ଓବଦିଅ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "obadia-bhabisyadbaktanka-pustaka"
+  "JON":
+    name: "ଯୂନସ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "yunasa-bhabisyadbaktanka-pustaka"
+  "MIC":
+    name: "ମୀଖା ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "mikha-bhabisyadbaktanka-pustaka"
+  "NAM":
+    name: "ନାହୂମ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "nahuma-bhabisyadbaktanka-pustaka"
+  "HAB":
+    name: "ହବ‌କ୍‌କୂକ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "habakkuka-bhabisyadbaktanka-pustaka"
+  "ZEP":
+    name: "ସିଫନିୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "siphaniya-bhabisyadbaktanka-pustaka"
+  "HAG":
+    name: "ହାଗୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "hagaya-bhabisyadbaktanka-pustaka"
+  "ZEC":
+    name: "ଯିଖରିୟ ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "yikhariya-bhabisyadbaktanka-pustaka"
+  "MAL":
+    name: "ମଲାଖି ଭବିଷ୍ୟ‌ଦ୍‌ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+    slug: "malakhi-bhabisyadbaktanka-pustaka"
+  "MAT":
+    name: "ମାଥିଉ ଲିଖିତ ସୁସମାଗ୍ଭର"
+    slug: "mathiu-likhita-susamagbhara"
+  "MRK":
+    name: "ମାର୍କ ଲିଖିତ ସୁସମାଗ୍ଭର"
+    slug: "marka-likhita-susamagbhara"
+  "LUK":
+    name: "ଲୂକ ଲିଖିତ ସୁସମାଗ୍ଭର"
+    slug: "luka-likhita-susamagbhara"
+  "JHN":
+    name: "ଯୋହନ ଲିଖିତ ସୁସମାଗ୍ଭର"
+    slug: "yohana-likhita-susamagbhara"
+  "ACT":
+    name: "ପ୍ରେରିତମାନଙ୍କ କାର୍ଯ୍ୟର ବିବରଣ"
+    slug: "preritamananka-karyyara-bibarana"
+  "ROM":
+    name: "ରୋମୀୟଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "romiyanka-prati-patra"
+  "1CO":
+    name: "କରିନ୍ଥୀୟଙ୍କ ପ୍ରତି ପ୍ରଥମ ପତ୍ର"
+    slug: "karinthiyanka-prati-prathama-patra"
+  "2CO":
+    name: "କରିନ୍ଥୀୟଙ୍କ ପ୍ରତି ଦ୍ୱିତୀୟ ପତ୍ର"
+    slug: "karinthiyanka-prati-dwitiya-patra"
+  "GAL":
+    name: "ଗାଲାତୀୟଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "galatiyanka-prati-patra"
+  "EPH":
+    name: "ଏଫିସୀୟଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "ephisiyanka-prati-patra"
+  "PHP":
+    name: "ଫିଲି‌ପ୍‌ପୀୟଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "philippiyanka-prati-patra"
+  "COL":
+    name: "କଲସୀୟଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "kalasiyanka-prati-patra"
+  "1TH":
+    name: "ଥେସଲନୀକୀୟଙ୍କ ପ୍ରତି ପ୍ରଥମ ପତ୍ର"
+    slug: "thesalanikiyanka-prati-prathama-patra"
+  "2TH":
+    name: "ଥେସଲନୀକୀୟଙ୍କ ପ୍ରତି ଦ୍ୱିତୀୟ ପତ୍ର"
+    slug: "thesalanikiyanka-prati-dwitiya-patra"
+  "1TI":
+    name: "ତୀମଥିଙ୍କ ପ୍ରତି ପ୍ରଥମ ପତ୍ର"
+    slug: "timathinka-prati-prathama-patra"
+  "2TI":
+    name: "ତୀମଥିଙ୍କ ପ୍ରତି ଦ୍ୱିତୀୟ ପତ୍ର"
+    slug: "timathinka-prati-dwitiya-patra"
+  "TIT":
+    name: "ତୀତସଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "titasanka-prati-patra"
+  "PHM":
+    name: "ଫିଲୀମୋନଙ୍କ ପ୍ରତି ପତ୍ର"
+    slug: "philimonanka-prati-patra"
+  "HEB":
+    name: "ଏବ୍ରୀ"
+    slug: "ebri"
+  "JAS":
+    name: "ଯାକୁବଙ୍କ ପତ୍ର"
+    slug: "yakubanka-patra"
+  "1PE":
+    name: "ପିତରଙ୍କ ପ୍ରଥମ ପତ୍ର"
+    slug: "pitaranka-prathama-patra"
+  "2PE":
+    name: "ପିତରଙ୍କ ଦ୍ୱିତୀୟ ପତ୍ର"
+    slug: "pitaranka-dwitiya-patra"
+  "1JN":
+    name: "ଯୋହନଙ୍କ ପ୍ରଥମ ପତ୍ର"
+    slug: "yohananka-prathama-patra"
+  "2JN":
+    name: "ଯୋହନଙ୍କ ଦ୍ୱିତୀୟ ପତ୍ର"
+    slug: "yohananka-dwitiya-patra"
+  "3JN":
+    name: "ଯୋହନଙ୍କ ତୃତୀୟ ପତ୍ର"
+    slug: "yohananka-trtiya-patra"
+  "JUD":
+    name: "ଯିହୂଦାଙ୍କ ପତ୍ର"
+    slug: "yihudanka-patra"
+  "REV":
+    name: "ଯୋହନଙ୍କ ପ୍ରତି ପ୍ରକାଶିତ ବାକ୍ୟ"
+    slug: "yohananka-prati-prakasita-bakya"

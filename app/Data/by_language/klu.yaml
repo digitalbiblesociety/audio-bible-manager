@@ -1,0 +1,266 @@
+language: "klu"
+books:
+  "GEN":
+    name: "Wlò Tû‑lâ"
+    slug: "wlo-tula"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Wlò Tû‑lâ Fuɛ̍"
+  "EXO":
+    name: "Klɔ̀ Blubluɛ"
+    slug: "kl-blublu"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Klɔ̀ Blubluɛ Fuɛ̍"
+  "LEV":
+    name: "Momà Poyɔ˖"
+    slug: "moma-poy"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Islɛ̀o‑a̍ Momà Poyɔ˖ Fuɛ̍"
+  "NUM":
+    name: "Islɛ̀o‑a̍ Slɛ̀slɛɛ"
+    slug: "isloa-slsl"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Islɛ̀o‑a̍ Slɛ̀slɛɛ Fuɛ̍"
+  "DEU":
+    name: "Gbetè Tɔnê Win"
+    slug: "gbete-tne-win"
+    name_toc: "Gbetè Tɔnê Win Ne̍ Î Cle̍h‑êa"
+  "JOS":
+    name: "Jɔ̀soa̍"
+    slug: "jsoa"
+    name_toc: "Cle̍hdɛ̂ ne̍ Jɔ̀soa̍ Cle̍a"
+  "JDG":
+    name: "Bodiɔ˖ Pôh"
+    slug: "bodi-poh"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Bodiɔ˖ Pôh Fuɛ̍"
+  "RUT":
+    name: "Wlu̍fû"
+    slug: "wlufu"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Wlu̍fû Fuɛ̍"
+  "1SA":
+    name: "1~Sami̍ɔ̍"
+    slug: "1-sami"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Ɛ̂ Tûa Sami̍ɔ̍ Nyle̍"
+  "2SA":
+    name: "2~Sami̍ɔ̍"
+    slug: "2-sami"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Ɛ̂ Tûa Sami̍ɔ̍ Nyle̍"
+  "1KI":
+    name: "1~Klɔbâ˖ Pôh"
+    slug: "1-klba-poh"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ko̍ Islɛ̀o‑A̍ Klɔbâ˖ Pôh Fuɛ̍"
+  "2KI":
+    name: "2~Klɔbâ˖ Pôh"
+    slug: "2-klba-poh"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ko̍ Islɛ̀o‑A̍ Klɔbâ˖ Pôh Fuɛ̍"
+  "1CH":
+    name: "1~Islɛ̀o Blo̍h‑a̍ Fanpôh Tèh"
+    slug: "1-islo-bloha-fanpoh-teh"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ko̍ Islɛ̀o Blo̍h‑A̍ Fanpôh Tèh Fuɛ̍"
+  "2CH":
+    name: "2~Islɛ̀o Blo̍h‑a̍ Fanpôh Tèh"
+    slug: "2-islo-bloha-fanpoh-teh"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ko̍ Islɛ̀o Blo̍h‑A̍ Fanpôh Tèh Fuɛ̍"
+  "EZR":
+    name: "Ɛslà"
+    slug: "sla"
+    name_toc: "Cle̍hdɛ̂ ne̍ Ɛslà Cle̍a Ko̍ Blubluɛ‑a̍ Wɛ̀ E̍ti Sasàɛ̀ Fuɛ̍"
+  "NEH":
+    name: "Nehɛ̀meyâ"
+    slug: "nehmeya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Nehɛ̀meyâ Fuɛ̍"
+  "EST":
+    name: "Ɛsla̍"
+    slug: "sla"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Ɛsla̍ Fuɛ̍"
+  "JOB":
+    name: "Jòpo"
+    slug: "jopo"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Jòpo Fuɛ̍"
+  "PSA":
+    name: "Nyesoa Sànê Wlɛ̍˖"
+    slug: "nyesoa-sane-wl"
+    name_toc: "Nyesoa Sànê Wlɛ̍˖ Ne̍ Î Cle̍h‑êa"
+  "PRO":
+    name: "Tɔ̂ Kɔnyɔ‑a̍ Na̍ Win Pôh"
+    slug: "t-knya-na-win-poh"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Tɔ̂ Kɔnyɔ‑a̍ Na̍ Win Pôh Fuɛ̍"
+  "ECC":
+    name: "Bɔ̂ Wluyɔ"
+    slug: "b-wluy"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Bɔ̂ Wluyɔ Fuɛ̍"
+  "SNG":
+    name: "Wlɛ̍˖ Pôh‑a̍ Wlɛ̍"
+    slug: "wl-poha-wl"
+    name_toc: "Wlɛ̍˖ Pôh‑a̍ Wlɛ̍ Ne̍ Ɛ̂ Cle̍h‑êa"
+  "ISA":
+    name: "Asàya"
+    slug: "asaya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Asàya Cle̍a"
+  "JER":
+    name: "Jɛlèma̍yâ"
+    slug: "jlemaya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Jɛlèma̍yâ Cle̍a"
+  "LAM":
+    name: "Wɔtèh Fîn Win"
+    slug: "wteh-fin-win"
+    name_toc: "Wɔtèh Fîn Win"
+  "EZK":
+    name: "Isìki̍ɛ̀"
+    slug: "isiki"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Isìki̍ɛ̀ Cle̍a"
+  "DAN":
+    name: "Dàni̍ɔ̍"
+    slug: "dani"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Dàni̍ɔ̍ Cle̍a"
+  "HOS":
+    name: "Hose̍à"
+    slug: "hosea"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Hose̍à Cle̍a"
+  "JOL":
+    name: "Jo̍wɛ̀"
+    slug: "jow"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Jo̍wɛ̀ Cle̍a"
+  "AMO":
+    name: "Emɔsèh"
+    slug: "emseh"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Emɔsèh Cle̍a"
+  "OBA":
+    name: "Obàdi̍yâ"
+    slug: "obadiya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Obàdi̍yâ Cle̍a"
+  "JON":
+    name: "Jòna̍"
+    slug: "jona"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa Ko̍ Jòna̍ Fuɛ̍"
+  "MIC":
+    name: "Mi̍kà"
+    slug: "mika"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Mi̍kà Cle̍a"
+  "NAM":
+    name: "Na̍hùm"
+    slug: "nahum"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Na̍hùm Cle̍a"
+  "HAB":
+    name: "Hàbaku̍kî"
+    slug: "habakuki"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Hàbaku̍kî Cle̍a"
+  "ZEP":
+    name: "Sèfani̍yâ"
+    slug: "sefaniya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Sèfani̍yâ Cle̍a"
+  "HAG":
+    name: "Ha̍kì"
+    slug: "haki"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ha̍kì Cle̍a"
+  "ZEC":
+    name: "Sàkàwla̍yà"
+    slug: "sakawlaya"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Sàkàwla̍yà Cle̍a"
+  "MAL":
+    name: "Malea̍kì"
+    slug: "maleaki"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Malea̍kì Cle̍a"
+  "MAT":
+    name: "Mati̍u̍"
+    slug: "matiu"
+    name_toc: "Sìɛ̍ Wlugbàwìn Ne̍ Mati̍u̍ Cle̍a Ko̍ Jòso Fuɛ̍"
+  "MRK":
+    name: "Make̍h"
+    slug: "makeh"
+    name_toc: "Sìɛ̍ Wlugbàwìn Ne̍ Make̍h Cle̍a Ko̍ Jòso Fuɛ̍"
+  "LUK":
+    name: "Duku̍"
+    slug: "duku"
+    name_toc: "Sìɛ̍ Wlugbàwìn Ne̍ Duku̍ Cle̍a Ko̍ Jòso Fuɛ̍"
+  "JHN":
+    name: "Jɔ̀ni"
+    slug: "jni"
+    name_toc: "Sìɛ̍ Wlugbàwìn Ne̍ Jɔ̀ni Cle̍a Ko̍ Jòso Fuɛ̍"
+  "ACT":
+    name: "Tàdloyɔ˖‑a̍ Nunu Dɛ˖"
+    slug: "tadloya-nunu-d"
+    name_toc: "Jòso‑a̍ Tàdloyɔ˖‑a̍ Nunu Dɛ˖"
+  "ROM":
+    name: "Wlo̍mâ Nyɔ˖"
+    slug: "wloma-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Wlo̍mâ Nyɔ˖ Bò"
+  "1CO":
+    name: "1~Kɔwli̍ntèh Nyɔ˖"
+    slug: "1-kwlinteh-ny"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Kɔwli̍ntèh Nyɔ˖ Bò"
+  "2CO":
+    name: "2~Kɔwli̍ntèh Nyɔ˖"
+    slug: "2-kwlinteh-ny"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Kɔwli̍ntèh Nyɔ˖ Bò"
+  "GAL":
+    name: "Kàla̍tià Nyɔ˖"
+    slug: "kalatia-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Kàla̍tià Nyɔ˖ Bò"
+  "EPH":
+    name: "Ɛfɛ̍sɔ̀ Nyɔ˖"
+    slug: "fs-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Ɛfɛ̍sɔ̀ Nyɔ˖ Bò"
+  "PHP":
+    name: "Fili̍pì Nyɔ˖"
+    slug: "filipi-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Fili̍pì Nyɔ˖ Bò"
+  "COL":
+    name: "Kɔlɔ̍sèh Nyɔ˖"
+    slug: "klseh-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Kɔlɔ̍sèh Nyɔ˖ Bò"
+  "1TH":
+    name: "1~Tɛsàlɔ̍ni̍kà Nyɔ˖"
+    slug: "1-tsalnika-ny"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Tɛsàlɔ̍ni̍kà Nyɔ˖ Bò"
+  "2TH":
+    name: "2~Tɛsàlɔ̍ni̍kà Nyɔ˖"
+    slug: "2-tsalnika-ny"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Tɛsàlɔ̍ni̍kà Nyɔ˖ Bò"
+  "1TI":
+    name: "1~Timoti̍"
+    slug: "1-timoti"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Timoti̍ Bò"
+  "2TI":
+    name: "2~Timoti̍"
+    slug: "2-timoti"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Timoti̍ Bò"
+  "TIT":
+    name: "Taetɔ̍sèh"
+    slug: "taetseh"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a Taetɔ̍sèh Bò"
+  "PHM":
+    name: "File̍mòn"
+    slug: "filemon"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Pɔ̍ɔ Cle̍a File̍mòn Bò"
+  "HEB":
+    name: "I̍blû Nyɔ˖"
+    slug: "iblu-ny"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Ɛ̂ Cle̍h‑êa I̍blû Nyɔ˖ Bò"
+  "JAS":
+    name: "Jěmsèh"
+    slug: "jemseh"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Jěmsèh Cle̍a"
+  "1PE":
+    name: "1~Pitɛ̍"
+    slug: "1-pit"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Pitɛ̍ Cle̍a"
+  "2PE":
+    name: "2~Pitɛ̍"
+    slug: "2-pit"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Pitɛ̍ Cle̍a"
+  "1JN":
+    name: "1~Jɔ̀ni"
+    slug: "1-jni"
+    name_toc: "Ji̍sa̍lêh Cle̍hdɛ̂ Ne̍ Jɔ̀ni Cle̍a"
+  "2JN":
+    name: "2~Jɔ̀ni"
+    slug: "2-jni"
+    name_toc: "Gbetè Cle̍hdɛ̂ Ne̍ Jɔ̀ni Cle̍a"
+  "3JN":
+    name: "3~Jɔ̀ni"
+    slug: "3-jni"
+    name_toc: "Tan Cle̍hdɛ̂ Ne̍ Jɔ̀ni Cle̍a"
+  "JUD":
+    name: "Jǔdi"
+    slug: "judi"
+    name_toc: "Cle̍hdɛ̂ Ne̍ Jǔdi Cle̍a"
+  "REV":
+    name: "Kwla̍ Sâ Tèh"
+    slug: "kwla-sa-teh"
+    name_toc: "Tèh Ne̍ Nyesoa Sâlêa Jɔ̀ni Kwla̍"

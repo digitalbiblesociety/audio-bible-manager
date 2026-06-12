@@ -1,0 +1,5 @@
+language: "kjg"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"

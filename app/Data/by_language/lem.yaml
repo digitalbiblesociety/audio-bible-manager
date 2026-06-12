@@ -1,0 +1,83 @@
+language: "lem"
+books:
+  "MAT":
+    name: "Matío"
+    slug: "matio"
+  "MRK":
+    name: "Malɛ́kus"
+    slug: "malkus"
+  "LUK":
+    name: "Lúkas"
+    slug: "lukas"
+  "JHN":
+    name: "Sáaŋ"
+    slug: "saan"
+  "ACT":
+    name: "Buólí"
+    slug: "buoli"
+  "ROM":
+    name: "Lóom"
+    slug: "loom"
+  "1CO":
+    name: "1 Kɔlɛ́ɛntɛ"
+    slug: "1-klnt"
+  "2CO":
+    name: "2 Kɔlɛ́ɛntɛ"
+    slug: "2-klnt"
+  "GAL":
+    name: "Kalasi"
+    slug: "kalasi"
+  "EPH":
+    name: "Ɛfɛ́ɛsɛ"
+    slug: "fs"
+  "PHP":
+    name: "Filibí"
+    slug: "filibi"
+  "COL":
+    name: "Kolóso"
+    slug: "koloso"
+  "1TH":
+    name: "1 Tɛsaloníke"
+    slug: "1-tsalonike"
+  "2TH":
+    name: "2 Tɛsaloníke"
+    slug: "2-tsalonike"
+  "1TI":
+    name: "1 Timoté"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timoté"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemɔ́ŋ"
+    slug: "filemn"
+  "HEB":
+    name: "Ebélé"
+    slug: "ebele"
+  "JAS":
+    name: "Sáak"
+    slug: "saak"
+  "1PE":
+    name: "1 Bíel"
+    slug: "1-biel"
+  "2PE":
+    name: "2 Bíel"
+    slug: "2-biel"
+  "1JN":
+    name: "1 Sáaŋ"
+    slug: "1-saan"
+  "2JN":
+    name: "2 Sáaŋ"
+    slug: "2-saan"
+  "3JN":
+    name: "3 Sáaŋ"
+    slug: "3-saan"
+  "JUD":
+    name: "Súute"
+    slug: "suute"
+  "REV":
+    name: "Nyɛnambɔnɛna nyɛ́ bɛsana"
+    slug: "nynambnna-ny-bsana"

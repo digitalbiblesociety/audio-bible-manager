@@ -1,0 +1,83 @@
+language: "gux"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jan Laabaalihamo"
+    slug: "jan-laabaalihamo"
+  "ACT":
+    name: "Jesu tondiba tuona"
+    slug: "jesu-tondiba-tuona"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinta"
+    slug: "1-kolinta"
+  "2CO":
+    name: "2 Kolinta"
+    slug: "2-kolinta"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "philip"
+    slug: "philip"
+  "COL":
+    name: "Kolosa Yaaba"
+    slug: "kolosa-yaaba"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tita"
+    slug: "tita"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+  "HEB":
+    name: "Ebilunba"
+    slug: "ebilunba"
+  "JAS":
+    name: "Jaka"
+    slug: "jaka"
+  "1PE":
+    name: "Pieli Tikpiali"
+    slug: "pieli-tikpiali"
+  "2PE":
+    name: "Pieli Tilieli"
+    slug: "pieli-tilieli"
+  "1JN":
+    name: "Jan Tikpiali"
+    slug: "jan-tikpiali"
+  "2JN":
+    name: "Jan n diani"
+    slug: "jan-n-diani"
+  "3JN":
+    name: "Jan Titaali"
+    slug: "jan-titaali"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Mi Doagidima"
+    slug: "mi-doagidima"

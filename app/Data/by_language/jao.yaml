@@ -1,0 +1,20 @@
+language: "jao"
+books:
+  "GEN":
+    name: "Jujiba"
+    slug: "jujiba"
+  "RUT":
+    name: "Rutha"
+    slug: "rutha"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"

@@ -1,0 +1,83 @@
+language: "bmo"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Maaku"
+    slug: "maaku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jouŋ"
+    slug: "joun"
+  "ACT":
+    name: "Ŋwaʼaŋlɨ Fàʼa"
+    slug: "waal-faa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Koriŋ"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Koriŋ"
+    slug: "2-korin"
+  "GAL":
+    name: "Galashia"
+    slug: "galashia"
+  "EPH":
+    name: "Ɛfɛshɔ"
+    slug: "fsh"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Koloshe"
+    slug: "koloshe"
+  "1TH":
+    name: "1 Teshalonika"
+    slug: "1-teshalonika"
+  "2TH":
+    name: "2 Teshalonika"
+    slug: "2-teshalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitu"
+    slug: "taitu"
+  "PHM":
+    name: "Filemu"
+    slug: "filemu"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jɛiŋ"
+    slug: "jin"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jouŋ"
+    slug: "1-joun"
+  "2JN":
+    name: "2 Jouŋ"
+    slug: "2-joun"
+  "3JN":
+    name: "3 Jouŋ"
+    slug: "3-joun"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Nnu Nōoŋ"
+    slug: "nnu-noon"

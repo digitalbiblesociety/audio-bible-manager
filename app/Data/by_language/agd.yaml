@@ -1,0 +1,83 @@
+language: "agd"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Ruku"
+    slug: "ruku"
+  "JHN":
+    name: "Yoni"
+    slug: "yoni"
+  "ACT":
+    name: "Aposeri"
+    slug: "aposeri"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "1 Korini"
+    slug: "1-korini"
+  "2CO":
+    name: "2 Korini"
+    slug: "2-korini"
+  "GAL":
+    name: "Karesia"
+    slug: "karesia"
+  "EPH":
+    name: "Efesasi"
+    slug: "efesasi"
+  "PHP":
+    name: "Firipaí"
+    slug: "firipai"
+  "COL":
+    name: "Korosi"
+    slug: "korosi"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Firimoni"
+    slug: "firimoni"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Yemisi"
+    slug: "yemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yoni"
+    slug: "1-yoni"
+  "2JN":
+    name: "2 Yoni"
+    slug: "2-yoni"
+  "3JN":
+    name: "3 Yoni"
+    slug: "3-yoni"
+  "JUD":
+    name: "Yuti"
+    slug: "yuti"
+  "REV":
+    name: "Revaresen"
+    slug: "revaresen"

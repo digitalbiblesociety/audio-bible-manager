@@ -1,0 +1,83 @@
+language: "fai"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mák"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yon"
+    slug: "yon"
+  "ACT":
+    name: "Sinik Abem"
+    slug: "sinik-abem"
+  "ROM":
+    name: "Udom"
+    slug: "udom"
+  "1CO":
+    name: "1 Kodin"
+    slug: "1-kodin"
+  "2CO":
+    name: "2 Kodin"
+    slug: "2-kodin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesis"
+    slug: "efesis"
+  "PHP":
+    name: "Filibai"
+    slug: "filibai"
+  "COL":
+    name: "Kalose"
+    slug: "kalose"
+  "1TH":
+    name: "1 Tesalonaikka"
+    slug: "1-tesalonaikka"
+  "2TH":
+    name: "2 Tesalonaikka"
+    slug: "2-tesalonaikka"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Failiman"
+    slug: "failiman"
+  "HEB":
+    name: "Ibidu"
+    slug: "ibidu"
+  "JAS":
+    name: "Yemis"
+    slug: "yemis"
+  "1PE":
+    name: "1 Bita"
+    slug: "1-bita"
+  "2PE":
+    name: "2 Bita"
+    slug: "2-bita"
+  "1JN":
+    name: "1 Yon"
+    slug: "1-yon"
+  "2JN":
+    name: "2 Yon"
+    slug: "2-yon"
+  "3JN":
+    name: "3 Yon"
+    slug: "3-yon"
+  "JUD":
+    name: "Yut"
+    slug: "yut"
+  "REV":
+    name: "Daw misun"
+    slug: "daw-misun"

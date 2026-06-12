@@ -1,0 +1,92 @@
+language: "udu"
+books:
+  "GEN":
+    name: "Ṯakwiin"
+    slug: "akwiin"
+  "EXO":
+    name: "Mmo/ii Ka Pije/ Mo"
+    slug: "mmoii-ka-pije-mo"
+  "PSA":
+    name: "Gway Gi Idawuu’d"
+    slug: "gway-gi-idawuud"
+  "MAT":
+    name: "Maṯṯa"
+    slug: "maa"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yohaan"
+    slug: "yohaan"
+  "ACT":
+    name: "Mii Gun Miinu Mo"
+    slug: "mii-gun-miinu-mo"
+  "ROM":
+    name: "Ruumiya"
+    slug: "ruumiya"
+  "1CO":
+    name: "Kurinṯẖuus ’De/"
+    slug: "kurinhuus-de"
+  "2CO":
+    name: "Kurinṯẖuus Su/"
+    slug: "kurinhuus-su"
+  "GAL":
+    name: "Galathiyya"
+    slug: "galathiyya"
+  "EPH":
+    name: "Ep̱asus"
+    slug: "epasus"
+  "PHP":
+    name: "P̱ilibbi"
+    slug: "pilibbi"
+  "COL":
+    name: "Kuluusi"
+    slug: "kuluusi"
+  "1TH":
+    name: "Tasaluniiki ’De"
+    slug: "tasaluniiki-de"
+  "2TH":
+    name: "Tasaluniiki Su/"
+    slug: "tasaluniiki-su"
+  "1TI":
+    name: "Ṯimuṯẖawuus ’De/"
+    slug: "imuhawuus-de"
+  "2TI":
+    name: "Ṯimuṯẖawuus Su/"
+    slug: "imuhawuus-su"
+  "TIT":
+    name: "Tiithus"
+    slug: "tiithus"
+  "PHM":
+    name: "P̱ilimuun"
+    slug: "pilimuun"
+  "HEB":
+    name: "Ibraniyiin"
+    slug: "ibraniyiin"
+  "JAS":
+    name: "Yakuub"
+    slug: "yakuub"
+  "1PE":
+    name: "Buṯerus ’De/"
+    slug: "buerus-de"
+  "2PE":
+    name: "Buṯerus Su/"
+    slug: "buerus-su"
+  "1JN":
+    name: "Yohaan ’De/"
+    slug: "yohaan-de"
+  "2JN":
+    name: "Yohaan Su/"
+    slug: "yohaan-su"
+  "3JN":
+    name: "Yohaan Kwara"
+    slug: "yohaan-kwara"
+  "JUD":
+    name: "Yahuusa"
+    slug: "yahuusa"
+  "REV":
+    name: "Gwo Jin ’Ceenu Mo"
+    slug: "gwo-jin-ceenu-mo"

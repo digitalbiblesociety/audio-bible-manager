@@ -1,0 +1,92 @@
+language: "rmy"
+books:
+  "GEN":
+    name: "Кэздэто"
+    slug: "kezdeto"
+  "RUT":
+    name: "Руфь"
+    slug: "ruf"
+  "JON":
+    name: "Иона"
+    slug: "iona"
+  "MAT":
+    name: "Matej"
+    slug: "matej"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jovan"
+    slug: "jovan"
+  "ACT":
+    name: "Dela"
+    slug: "dela"
+  "ROM":
+    name: "Rimljanenđe"
+    slug: "rimljanene"
+  "1CO":
+    name: "1. Korinćanenđe"
+    slug: "1-korincanene"
+  "2CO":
+    name: "2. Korinćanenđe"
+    slug: "2-korincanene"
+  "GAL":
+    name: "Galaćanenđe"
+    slug: "galacanene"
+  "EPH":
+    name: "Efežanenđe"
+    slug: "efezanene"
+  "PHP":
+    name: "Filipljanenđe"
+    slug: "filipljanene"
+  "COL":
+    name: "Kološanenđe"
+    slug: "kolosanene"
+  "1TH":
+    name: "1. Solunjanenđe"
+    slug: "1-solunjanene"
+  "2TH":
+    name: "2. Solunjanenđe"
+    slug: "2-solunjanene"
+  "1TI":
+    name: "1. Timoteješće"
+    slug: "1-timotejesce"
+  "2TI":
+    name: "2. Timoteješće"
+    slug: "2-timotejesce"
+  "TIT":
+    name: "Titošće"
+    slug: "titosce"
+  "PHM":
+    name: "Filemonešće"
+    slug: "filemonesce"
+  "HEB":
+    name: "Jevrejenđe"
+    slug: "jevrejene"
+  "JAS":
+    name: "Jakovesko"
+    slug: "jakovesko"
+  "1PE":
+    name: "1. Petresko"
+    slug: "1-petresko"
+  "2PE":
+    name: "2. Petresko"
+    slug: "2-petresko"
+  "1JN":
+    name: "1. Jovanesko"
+    slug: "1-jovanesko"
+  "2JN":
+    name: "2. Jovanesko"
+    slug: "2-jovanesko"
+  "3JN":
+    name: "3. Jovanesko"
+    slug: "3-jovanesko"
+  "JUD":
+    name: "Judasko"
+    slug: "judasko"
+  "REV":
+    name: "Otkrivenje"
+    slug: "otkrivenje"

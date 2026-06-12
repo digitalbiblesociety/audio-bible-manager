@@ -1,0 +1,266 @@
+language: "kri"
+books:
+  "GEN":
+    name: "Jɛnɛsis"
+    slug: "jnsis"
+    name_toc: "Jɛnɛsis"
+  "EXO":
+    name: "Ɛksodɔs"
+    slug: "ksods"
+    name_toc: "Ɛksodɔs"
+  "LEV":
+    name: "Lɛvitikɔs"
+    slug: "lvitiks"
+    name_toc: "Lɛvitikɔs"
+  "NUM":
+    name: "Di Nɔmba Dɛm"
+    slug: "di-nmba-dm"
+    name_toc: "Di Nɔmba Dɛm"
+  "DEU":
+    name: "Ditarɔnɔmi"
+    slug: "ditarnmi"
+    name_toc: "Ditarɔnɔmi"
+  "JOS":
+    name: "Jɔshwa"
+    slug: "jshwa"
+    name_toc: "Jɔshwa"
+  "JDG":
+    name: "Di Jɔj Dɛm"
+    slug: "di-jj-dm"
+    name_toc: "Di Jɔj Dɛm"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Ruth"
+  "1SA":
+    name: "1 Samiɛl"
+    slug: "1-samil"
+    name_toc: "Fɔs Samiɛl"
+  "2SA":
+    name: "2 Samiɛl"
+    slug: "2-samil"
+    name_toc: "Sɛkɛn Samiɛl"
+  "1KI":
+    name: "1 Kiŋ"
+    slug: "1-ki"
+    name_toc: "Fɔs kiŋ"
+  "2KI":
+    name: "2 Kiŋ"
+    slug: "2-ki"
+    name_toc: "Sɛkɛn Kiŋ"
+  "1CH":
+    name: "1 Kronikuls"
+    slug: "1-kronikuls"
+    name_toc: "Fɔs Kronikul"
+  "2CH":
+    name: "2 Kronikuls"
+    slug: "2-kronikuls"
+    name_toc: "Sɛkɛn Kronikul"
+  "EZR":
+    name: "Ɛzra"
+    slug: "zra"
+    name_toc: "Ɛzra"
+  "NEH":
+    name: "Nɛimaya"
+    slug: "nimaya"
+    name_toc: "Nɛimaya"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+    name_toc: "Ɛsta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Di Sam Dɛm"
+    slug: "di-sam-dm"
+    name_toc: "Di Sam Dɛm"
+  "PRO":
+    name: "Prɔvabs"
+    slug: "prvabs"
+    name_toc: "Prɔvabs"
+  "ECC":
+    name: "Ɛkliziastis"
+    slug: "kliziastis"
+    name_toc: "Ɛkliziastis"
+  "SNG":
+    name: "Sɔlɔmɔn In Siŋ Dɛm"
+    slug: "slmn-in-si-dm"
+    name_toc: "Sɔlɔmɔn In Siŋ Dɛm"
+  "ISA":
+    name: "Ayzaya"
+    slug: "ayzaya"
+    name_toc: "Ayzaya"
+  "JER":
+    name: "Jɛrimaya"
+    slug: "jrimaya"
+    name_toc: "Jɛrimaya"
+  "LAM":
+    name: "Lamɛnteshɔn"
+    slug: "lamnteshn"
+    name_toc: "Lamɛnteshɔn"
+  "EZK":
+    name: "Izikɛl"
+    slug: "izikl"
+    name_toc: "Izikɛl"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+    name_toc: "Daniɛl"
+  "HOS":
+    name: "Ozie"
+    slug: "ozie"
+    name_toc: "Ozie"
+  "JOL":
+    name: "Joɛl"
+    slug: "jol"
+    name_toc: "Joɛl"
+  "AMO":
+    name: "Emɔs"
+    slug: "ems"
+    name_toc: "Emɔs"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+    name_toc: "Obadaya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mayka"
+    slug: "mayka"
+    name_toc: "Mayka"
+  "NAM":
+    name: "Neum"
+    slug: "neum"
+    name_toc: "Neum"
+  "HAB":
+    name: "Abakɔk"
+    slug: "abakk"
+    name_toc: "Abakɔk"
+  "ZEP":
+    name: "Zɛfinaya"
+    slug: "zfinaya"
+    name_toc: "Zɛfinaya"
+  "HAG":
+    name: "Egay"
+    slug: "egay"
+    name_toc: "Egay"
+  "ZEC":
+    name: "Zɛkaraya"
+    slug: "zkaraya"
+    name_toc: "Zɛkaraya"
+  "MAL":
+    name: "Malakay"
+    slug: "malakay"
+    name_toc: "Malakay"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+    name_toc: "Matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Mak"
+  "LUK":
+    name: "Lyuk"
+    slug: "lyuk"
+    name_toc: "Lyuk"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+    name_toc: "Jɔn"
+  "ACT":
+    name: "Apɔsul Dɛn Wok"
+    slug: "apsul-dn-wok"
+    name_toc: "Di Apɔsul Dɛn Wok"
+  "ROM":
+    name: "Lɛta Fɔ Rom"
+    slug: "lta-f-rom"
+    name_toc: "Lɛta Fɔ Rom"
+  "1CO":
+    name: "1 Kɔrint"
+    slug: "1-krint"
+    name_toc: "Fɔs Lɛta Fɔ Kɔrint"
+  "2CO":
+    name: "2 Kɔrint"
+    slug: "2-krint"
+    name_toc: "Sɛkɛn Lɛta Fɔ Kɔrint"
+  "GAL":
+    name: "Lɛta Fɔ Galeshya"
+    slug: "lta-f-galeshya"
+    name_toc: "Lɛta Fɔ Galeshya"
+  "EPH":
+    name: "Lɛta Fɔ Ɛfisɔs"
+    slug: "lta-f-fiss"
+    name_toc: "Lɛta Fɔ Ɛfisɔs"
+  "PHP":
+    name: "Lɛta Fɔ Filipay"
+    slug: "lta-f-filipay"
+    name_toc: "Lɛta Fɔ Filipay"
+  "COL":
+    name: "Lɛta Fɔ Kɔlɔse"
+    slug: "lta-f-klse"
+    name_toc: "Lɛta Fɔ Kɔlɔse"
+  "1TH":
+    name: "Fɔs Lɛta Fɔ Tɛsalonayka"
+    slug: "fs-lta-f-tsalonayka"
+    name_toc: "Fɔs Lɛta Fɔ Tɛsalonayka"
+  "2TH":
+    name: "Sɛkɛn Lɛta Fɔ Tɛsalonayka"
+    slug: "skn-lta-f-tsalonayka"
+    name_toc: "Sɛkɛn Lɛta Fɔ Tɛsalonayka"
+  "1TI":
+    name: "Fɔs Lɛta To Timoti"
+    slug: "fs-lta-to-timoti"
+    name_toc: "Fɔs Lɛta To Timoti"
+  "2TI":
+    name: "Sɛkɛn Lɛta To Timoti"
+    slug: "skn-lta-to-timoti"
+    name_toc: "Sɛkɛn Lɛta To Timoti"
+  "TIT":
+    name: "Taytɔs"
+    slug: "tayts"
+    name_toc: "Taytɔs"
+  "PHM":
+    name: "Faylimɔn"
+    slug: "faylimn"
+    name_toc: "Faylimɔn"
+  "HEB":
+    name: "Di Ibru Pipul Dɛn"
+    slug: "di-ibru-pipul-dn"
+    name_toc: "Di Ibru Pipul Dɛn"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "Jems"
+  "1PE":
+    name: "Pita In Fɔs Lɛta"
+    slug: "pita-in-fs-lta"
+    name_toc: "Pita In Fɔs Lɛta"
+  "2PE":
+    name: "Pita In Sɛkɛn Lɛta"
+    slug: "pita-in-skn-lta"
+    name_toc: "Pita In Sɛkɛn Lɛta"
+  "1JN":
+    name: "Jɔn In Fɔs Lɛta"
+    slug: "jn-in-fs-lta"
+    name_toc: "Jɔn In Fɔs Lɛta"
+  "2JN":
+    name: "Jɔn In Sɛkɛn Lɛta"
+    slug: "jn-in-skn-lta"
+    name_toc: "Jɔn In Sɛkɛn Lɛta"
+  "3JN":
+    name: "Jɔn In Tɔd Lɛta"
+    slug: "jn-in-td-lta"
+    name_toc: "Jɔn In Tɔd Lɛta"
+  "JUD":
+    name: "Jud In Lɛta"
+    slug: "jud-in-lta"
+    name_toc: "Jud In Lɛta"
+  "REV":
+    name: "Rɛvɛleshɔn"
+    slug: "rvleshn"
+    name_toc: "Rɛvɛleshɔn"

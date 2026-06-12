@@ -1,0 +1,83 @@
+language: "mcq"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Ruku"
+    slug: "ruku"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+  "ACT":
+    name: "Akisi"
+    slug: "akisi"
+  "ROM":
+    name: "Romani"
+    slug: "romani"
+  "1CO":
+    name: "1 Koritia"
+    slug: "1-koritia"
+  "2CO":
+    name: "2 Koritia"
+    slug: "2-koritia"
+  "GAL":
+    name: "Karesia"
+    slug: "karesia"
+  "EPH":
+    name: "Epasasi"
+    slug: "epasasi"
+  "PHP":
+    name: "Piripai"
+    slug: "piripai"
+  "COL":
+    name: "Korasia"
+    slug: "korasia"
+  "1TH":
+    name: "1 Tesaronia"
+    slug: "1-tesaronia"
+  "2TH":
+    name: "2 Tesaronia"
+    slug: "2-tesaronia"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Pairimani"
+    slug: "pairimani"
+  "HEB":
+    name: "Hipuru"
+    slug: "hipuru"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Revaresiani"
+    slug: "revaresiani"

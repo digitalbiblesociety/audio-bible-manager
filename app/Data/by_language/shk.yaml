@@ -1,0 +1,314 @@
+language: "shk"
+books:
+  "GEN":
+    name: "Cɑ̈gø"
+    slug: "cg"
+    name_toc: "ၵျၢမ်း​ဢၼ်​ႁေႃး​တြႃး"
+  "EXO":
+    name: "Kedhø"
+    slug: "kedh"
+    name_toc: "လိၵ်ႈမၢတ်ႈလွင်ႈယေႃးသူႉ"
+  "LEV":
+    name: "Kwɑrr"
+    slug: "kwrr"
+    name_toc: "လိၵ်ႈမၢတ်ႈလွင်ႈၵူၼ်းလူင်ဢၼ်ၸီႇယၢင်ႇတြႃး"
+  "NUM":
+    name: "Kwɑn"
+    slug: "kwn"
+    name_toc: "ဝုတ်ႉထူႉရူႉထႃႉ"
+  "DEU":
+    name: "Jølø"
+    slug: "jl"
+    name_toc: "ထမ်ႇမႃႉရႃႇၸဝၢင်ႇၽိုၼ်ပထမႃႉ"
+  "JOS":
+    name: "Jöc"
+    slug: "joc"
+    name_toc: "ထမ်ႇမႃႉရႃႇၸဝၢင်ႇၽိုၼ်တူႉတီႉယႃႉ"
+  "JDG":
+    name: "Jɑgg"
+    slug: "jgg"
+    name_toc: "ထမ်ႇမႃႉရႃႇၸဝၢင်ႇၽိုၼ်တႃႉတီႉယႃႉ"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "ထမ်ႇမႃႉရႃႇၸဝၢင်ႇၽိုၼ်ၸတုၵ်ႉထႃႉ"
+  "1SA":
+    name: "1 Sɑm"
+    slug: "1-sm"
+    name_toc: "ရႃႇၸဝၢင်ႇၶျုၵ်ႈၽိုၼ်ပထမႃႉ"
+  "2SA":
+    name: "2 Sɑm"
+    slug: "2-sm"
+    name_toc: "ရႃႇၸဝၢင်ႇၶျုၵ်ႈၽိုၼ်တူႉတီႉယႃႉ"
+  "1KI":
+    name: "1 Rɑ̈nhì"
+    slug: "1-rnhi"
+    name_toc: "လိၵ်ႈမၢတ်ႈလွင်ႈဢေးၸရႃႉ"
+  "2KI":
+    name: "2 Rɑ̈nhì"
+    slug: "2-rnhi"
+    name_toc: "လိၵ်ႈမၢတ်ႈလွင်ႈၼေႇႁမီႉ"
+  "1CH":
+    name: "1 Kwøb"
+    slug: "1-kwb"
+    name_toc: "ဝုတ်ႉထူႉဢေးသတႃႇ"
+  "2CH":
+    name: "2 Kwøb"
+    slug: "2-kwb"
+    name_toc: "ဝုတ်ႉထူႉယေႃးၽႃႉ"
+  "EZR":
+    name: "Edhrɑ̀"
+    slug: "edhr"
+    name_toc: "ၵျၢမ်း​သႃႇလၢမ်ႇ"
+  "NEH":
+    name: "Nëm"
+    slug: "nem"
+    name_toc: "ၵျၢမ်းလိၵ်ႈသုၵ်ႉတၢမ်ႇ"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "ၵျၢမ်းလိၵ်ႈတေႇသၼႃႇ"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "လိၵ်ႈႁဵတ်းၵႂၢမ်းသေႃးလမုၼ်ႇ"
+  "PSA":
+    name: "Wör"
+    slug: "wor"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉဢီႉသႃႇယႃႉ"
+  "PRO":
+    name: "Gɑ́j"
+    slug: "gj"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉယေႇရမီႉ"
+  "ECC":
+    name: "Tïddø"
+    slug: "tidd"
+    name_toc: "လိၵ်ႈတၢင်းဢၼ်ယေႇရမီႉပွင်ႉၶၢင်းပွင်ႉဝႃႈ"
+  "SNG":
+    name: "Wörr-ɑ Døngø"
+    slug: "worr-dng"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉယေႇၸၵျေႇလႃႉ"
+  "ISA":
+    name: "Icɑ"
+    slug: "ic"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉတၢၼ်ႇယေႇလႃႉ"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉႁူဝ်းသေႇ"
+  "LAM":
+    name: "Ywøg"
+    slug: "ywg"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉယူဝ်းဢေႇလႃႉ"
+  "EZK":
+    name: "Idhki"
+    slug: "idhki"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉဢႃႇမူတ်ႉ"
+  "DAN":
+    name: "Dɑn"
+    slug: "dn"
+    name_toc: "ပျႃႇတိၵ်ႈရူႇပႃရူင်ႇဢေႃးပတီႉ"
+  "HOS":
+    name: "Odhe"
+    slug: "odhe"
+    name_toc: "ဝုတ်ႉထူႉယူဝ်းၼႃႉ"
+  "JOL":
+    name: "Yöiil"
+    slug: "yoiil"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉမီႉၶႃႇ"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉၼႃႇႁုမ်ႇ"
+  "OBA":
+    name: "Obɑ"
+    slug: "ob"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉႁပၵ်ႉၵုၵ်ႉ"
+  "JON":
+    name: "Yön"
+    slug: "yon"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉၸေႇၽၼီႉ"
+  "MIC":
+    name: "Miikɑ̀"
+    slug: "miik"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉႁၵ်ႉၵႄး"
+  "NAM":
+    name: "Nɑum"
+    slug: "num"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉၸႃႇၶရီႉ"
+  "HAB":
+    name: "Abɑ"
+    slug: "ab"
+    name_toc: "ၵျၢမ်းဢၼႃႇၵၢတ်ႈတီႉမႃႇလၶီႉ"
+  "ZEP":
+    name: "Dhep"
+    slug: "dhep"
+    name_toc: "ၶရိၸ်ႈဝၢင်ႇၸဝ်ႈမၢတ်ႈထႄႇ"
+  "HAG":
+    name: "Agɑ"
+    slug: "ag"
+    name_toc: "ၶရိၸ်ႈဝၢင်ႇၸဝ်ႈမႃႇ​ၵူႉ"
+  "ZEC":
+    name: "Dhek"
+    slug: "dhek"
+    name_toc: "ၶရိၸ်ႈဝၢင်ႇၸဝ်ႈလူႉၵႃႇ"
+  "MAL":
+    name: "Mɑl"
+    slug: "ml"
+    name_toc: "ၶရိၸ်ႈဝၢင်ႇၸဝ်ႈယူဝ်းႁၢၼ်ႇ"
+  "TOB":
+    name: "Töb"
+    slug: "tob"
+    name_toc: "ဝုတ်ႉထူႉတမၢၼ်ႇၸဝ်ႈ"
+  "JDT":
+    name: "Jdt"
+    slug: "jdt"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉရူဝ်းမႃႉ"
+  "ESG":
+    name: "Est Gk Wïj"
+    slug: "est-gk-wij"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၵေႃးရိၼ်ႇထူႉၽိုၼ်ပထမႃႉ"
+  "WIS":
+    name: "Pelø"
+    slug: "pel"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉဢေးၽႅတ်ႈ"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၽီႉလိပ်ႉပီႉ"
+  "BAR":
+    name: "Bɑr"
+    slug: "br"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၵေႃးလေႃးသေး"
+  "LJE":
+    name: "Cïïjø"
+    slug: "ciij"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉထိတ်ႉသႃႇလေႃးၼိၵ်ႈၽိုၼ်ပထမႃႉ"
+  "S3Y":
+    name: "Ka/wá"
+    slug: "ka-wa"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉထိတ်ႉသႃႇလေႃးၼိၵ်ႈၽိုၼ်တူႉတီႉယႃႉ"
+  "SUS":
+    name: "Sus"
+    slug: "sus"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉတီႉမေႃးသေႇၽိုၼ်ပထမႃႉ"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉတီႉမေႃးသေႇၽိုၼ်တူႉတီႉယႃႉ"
+  "1MA":
+    name: "1 Mɑk"
+    slug: "1-mk"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၵေႃးရိၼ်ႇထူႉၽိုၼ်တူႉတီႉယႃႉ"
+  "2MA":
+    name: "2 Mɑk"
+    slug: "2-mk"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၵလႃႇတီႉ"
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉတီႉတူႉ"
+  "MRK":
+    name: "Mk"
+    slug: "mk"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉၽီႉလေႇမုၼ်ႇ"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉႁေႇပြႄး"
+  "JHN":
+    name: "Jn"
+    slug: "jn"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉယႃႇၵုပ်ႈ"
+  "ACT":
+    name: "Gwøg"
+    slug: "gwg"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉပေႇတရူႉၽိုၼ်ပထမႃႉ"
+  "ROM":
+    name: "Röm"
+    slug: "rom"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉပေႇတရူႉၽိုၼ်တူႉတီႉယႃႉ"
+  "1CO":
+    name: "1 Kör"
+    slug: "1-kor"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉယူဝ်းႁၢၼ်ႇၽိုၼ်ပထမႃႉ"
+  "2CO":
+    name: "2 Kör"
+    slug: "2-kor"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉယူဝ်းႁၢၼ်ႇၽိုၼ်တူႉတီႉယႃႉ"
+  "GAL":
+    name: "Gɑl"
+    slug: "gl"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉယူဝ်းႁၢၼ်ႇၽိုၼ်တႃႉတီႉယႃႉ"
+  "EPH":
+    name: "Epɑ"
+    slug: "ep"
+    name_toc: "လိၵ်ႈဢေႃးဝႃႇတႃႉယူႉတႃႉ"
+  "PHP":
+    name: "Pïl"
+    slug: "pil"
+    name_toc: "ပျႃႇတိၵ်ႈၵျၢမ်း"
+  "COL":
+    name: "Köl"
+    slug: "kol"
+    name_toc: "Kitaab al-Takwiin"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+    name_toc: "Kitaab al-Khuruuj"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+    name_toc: "Kitaab al-Laawiyiin"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "Kitaab al-Adad"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "Kitaab al-Tasniya"
+  "TIT":
+    name: "Tït"
+    slug: "tit"
+    name_toc: "Kitaab Yachuuʼ"
+  "PHM":
+    name: "Pilm"
+    slug: "pilm"
+    name_toc: "Kitaab al-Gudiya"
+  "HEB":
+    name: "Ibru"
+    slug: "ibru"
+    name_toc: "Kitaab Raʼuus"
+  "JAS":
+    name: "Yɑg"
+    slug: "yg"
+    name_toc: "Kitaab 1 Samuwiil"
+  "1PE":
+    name: "1 Pït"
+    slug: "1-pit"
+    name_toc: "Kitaab 2 Samuwiil"
+  "2PE":
+    name: "2 Pït"
+    slug: "2-pit"
+    name_toc: "Kitaab 1 Muluuk"
+  "1JN":
+    name: "1 Jn"
+    slug: "1-jn"
+    name_toc: "Kitaab 2 Muluuk"
+  "2JN":
+    name: "2 Jn"
+    slug: "2-jn"
+    name_toc: "Kitaab 1 Akhbaar"
+  "3JN":
+    name: "3 Jn"
+    slug: "3-jn"
+    name_toc: "Kitaab 2 Akhbaar"
+  "JUD":
+    name: "Yeudɑ̀"
+    slug: "yeud"
+    name_toc: "Kitaab Azra"
+  "REV":
+    name: "Nyudhø"
+    slug: "nyudh"
+    name_toc: "Kitaab Nahamya"

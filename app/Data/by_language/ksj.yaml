@@ -1,0 +1,26 @@
+language: "ksj"
+books:
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "ACT":
+    name: "Apostolo"
+    slug: "apostolo"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Tesalonika Ibiꞌa"
+    slug: "tesalonika-ibia"
+  "2TH":
+    name: "Tesalonika Vesu"
+    slug: "tesalonika-vesu"

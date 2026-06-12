@@ -1,0 +1,170 @@
+language: "iou"
+books:
+  "GEN":
+    name: "Ahäkahäk"
+    slug: "ahakahak"
+  "EXO":
+    name: "Yämagurani"
+    slug: "yamagurani"
+  "LEV":
+    name: "Bämop Äma Epän"
+    slug: "bamop-ama-epan"
+  "NUM":
+    name: "Namba"
+    slug: "namba"
+  "DEU":
+    name: "Baga Man"
+    slug: "baga-man"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 King"
+    slug: "1-king"
+  "2KI":
+    name: "2 King"
+    slug: "2-king"
+  "1CH":
+    name: "1 Stori"
+    slug: "1-stori"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Sindaun"
+    slug: "sindaun"
+  "ECC":
+    name: "Saveman"
+    slug: "saveman"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Krai"
+    slug: "krai"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposoro"
+    slug: "aposoro"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Piremon"
+    slug: "piremon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Kwawak Iwoŋärewani"
+    slug: "kwawak-iwonarewani"

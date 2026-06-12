@@ -1,0 +1,83 @@
+language: "ibl"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Inpaspasing"
+    slug: "inpaspasing"
+  "ROM":
+    name: "I‐roma"
+    slug: "iroma"
+  "1CO":
+    name: "1 I‐korinto"
+    slug: "1-ikorinto"
+  "2CO":
+    name: "2 I‐korinto"
+    slug: "2-ikorinto"
+  "GAL":
+    name: "I‐galasia"
+    slug: "igalasia"
+  "EPH":
+    name: "I‐ipiso"
+    slug: "iipiso"
+  "PHP":
+    name: "I‐pilipos"
+    slug: "ipilipos"
+  "COL":
+    name: "I‐kolosas"
+    slug: "ikolosas"
+  "1TH":
+    name: "1 I‐tisalonika"
+    slug: "1-itisalonika"
+  "2TH":
+    name: "2 I‐tisalonika"
+    slug: "2-itisalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hodiyos"
+    slug: "hodiyos"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 San Pedro"
+    slug: "1-san-pedro"
+  "2PE":
+    name: "2 San Pedro"
+    slug: "2-san-pedro"
+  "1JN":
+    name: "1 San Juan"
+    slug: "1-san-juan"
+  "2JN":
+    name: "2 San Juan"
+    slug: "2-san-juan"
+  "3JN":
+    name: "3 San Juan"
+    slug: "3-san-juan"
+  "JUD":
+    name: "San Judas"
+    slug: "san-judas"
+  "REV":
+    name: "Inpa‐amta Nen Jesucristo"
+    slug: "inpaamta-nen-jesucristo"

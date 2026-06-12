@@ -1,0 +1,110 @@
+language: "nim"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Mpola nanziiza kĩna naandĩkue nuMATAYO"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+    name_toc: "Mpola nanziiza kĩna naandĩkue nuMALIKO"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mpola nanziiza kĩna nandĩkue nuLUKA"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Mpola nanziiza kĩna nandĩkue nuYOHANA"
+  "ACT":
+    name: "Utendi"
+    slug: "utendi"
+    name_toc: "Utendi wa Atumua"
+  "ROM":
+    name: "Alumĩ"
+    slug: "alumi"
+    name_toc: "Mbalua ya kĩPaulo kuALUMĨ"
+  "1CO":
+    name: "1 Akolinto"
+    slug: "1-akolinto"
+    name_toc: "Mbalua ya muandio nya kĩPaulo kuAKOLINTO"
+  "2CO":
+    name: "2 Akolinto"
+    slug: "2-akolinto"
+    name_toc: "Mbalua ya kabĩlĩ nya kĩPaulo kuAKOLINTO"
+  "GAL":
+    name: "Agalatia"
+    slug: "agalatia"
+    name_toc: "Mbalua ya kĩPaulo kuAGALATIA"
+  "EPH":
+    name: "Aepeso"
+    slug: "aepeso"
+    name_toc: "Mbalua ya kĩPaulo kuAEPESO"
+  "PHP":
+    name: "Apilipi"
+    slug: "apilipi"
+    name_toc: "Mbalua ya kĩPaulo kuAPILIPI"
+  "COL":
+    name: "Akolosai"
+    slug: "akolosai"
+    name_toc: "Mbalua ya kĩPaulo kuAKOLOSAI"
+  "1TH":
+    name: "1 Atesaloniki"
+    slug: "1-atesaloniki"
+    name_toc: "Mbalua ya muandio nya kĩPaulo kuATESALONIKI"
+  "2TH":
+    name: "2 Atesaloniki"
+    slug: "2-atesaloniki"
+    name_toc: "Mbalua ya kabĩlĩ nya kĩPaulo kuATESALONIKI"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Mbalua ya muandio nya kĩPaulo kwa kĩTIMOTEO"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Mbalua ya kabĩlĩ nya kĩPaulo kwa kĩTIMOTEO"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Mbalua ya kĩPaulo kwa kĩTITO"
+  "PHM":
+    name: "Pilimoni"
+    slug: "pilimoni"
+    name_toc: "Mbalua ya kĩPaulo kwakĩ PILIMONI"
+  "HEB":
+    name: "Aebulania"
+    slug: "aebulania"
+    name_toc: "Mbalua kuAEBULANIA"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Mbalua yakĩ YAKOBO"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+    name_toc: "Mbalua ya muandio nyakĩ PETELO"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+    name_toc: "Mbalua ya kabĩlĩ nyakĩ PETELO"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Mbalua ya muandio nya kĩYOHANA"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Mbalua ya kabĩlĩ nyakĩ YOHANA"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Mbalua ya katatu nyakĩ YOHANA"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Mbalua yakĩ YUDA"
+  "REV":
+    name: "Ukũnukulua"
+    slug: "ukunukulua"
+    name_toc: "Ukũnukulua wakĩYohana UKŨNUKULUA"

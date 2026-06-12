@@ -1,0 +1,266 @@
+language: "kmb"
+books:
+  "GEN":
+    name: "Dimatekenu"
+    slug: "dimatekenu"
+    name_toc: "Dimatekenu"
+  "EXO":
+    name: "Makatukilu"
+    slug: "makatukilu"
+    name_toc: "Makatukilu"
+  "LEV":
+    name: "Ijila"
+    slug: "ijila"
+    name_toc: "Ijila"
+  "NUM":
+    name: "Dialuilu"
+    slug: "dialuilu"
+    name_toc: "Dialuilu"
+  "DEU":
+    name: "Matendelelu"
+    slug: "matendelelu"
+    name_toc: "Matendelelu"
+  "JOS":
+    name: "Josuué"
+    slug: "josuue"
+    name_toc: "Divulu dia Josuué"
+  "JDG":
+    name: "Afundixi"
+    slug: "afundixi"
+    name_toc: "Divulu dia Afundixi"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+    name_toc: "Divulu dia Lute"
+  "1SA":
+    name: "I Samuuele"
+    slug: "i-samuuele"
+    name_toc: "Divulu dia Dianga dia Samuuele"
+  "2SA":
+    name: "II Samuuele"
+    slug: "ii-samuuele"
+    name_toc: "Divulu dia Kaiadi dia Samuuele"
+  "1KI":
+    name: "I Jisobha"
+    slug: "i-jisobha"
+    name_toc: "Divulu dia Dianga dia Jisobha"
+  "2KI":
+    name: "II Jisobha"
+    slug: "ii-jisobha"
+    name_toc: "Divulu dia Kaiadi dia Jisobha"
+  "1CH":
+    name: "I Malunda"
+    slug: "i-malunda"
+    name_toc: "Divulu dia Dianga dia Malunda"
+  "2CH":
+    name: "II Malunda"
+    slug: "ii-malunda"
+    name_toc: "Divulu dia Kaiadi dia Malunda"
+  "EZR":
+    name: "Ejidala"
+    slug: "ejidala"
+    name_toc: "Divulu dia Ejidala"
+  "NEH":
+    name: "Nehemiia"
+    slug: "nehemiia"
+    name_toc: "Divulu dia Nehemiia"
+  "EST":
+    name: "Estere"
+    slug: "estere"
+    name_toc: "Divulu dia Estere"
+  "JOB":
+    name: "Jobe"
+    slug: "jobe"
+    name_toc: "Divulu dia Jobe"
+  "PSA":
+    name: "Jisálamu"
+    slug: "jisalamu"
+    name_toc: "Divulu dia Jisálamu"
+  "PRO":
+    name: "Jisabhu"
+    slug: "jisabhu"
+    name_toc: "Divulu dia Jisabhu"
+  "ECC":
+    name: "Ndongixi"
+    slug: "ndongixi"
+    name_toc: "Ndongixi"
+  "SNG":
+    name: "Mukumbi ua Mikumbi"
+    slug: "mukumbi-ua-mikumbi"
+    name_toc: "Mukumbi ua Mikumbi"
+  "ISA":
+    name: "Izaía"
+    slug: "izaia"
+    name_toc: "Divulu dia Izaía"
+  "JER":
+    name: "Jelemiia"
+    slug: "jelemiia"
+    name_toc: "Divulu dia Jelemiia"
+  "LAM":
+    name: "Kuditenda"
+    slug: "kuditenda"
+    name_toc: "Kuditenda"
+  "EZK":
+    name: "Izekiiele"
+    slug: "izekiiele"
+    name_toc: "Divulu dia Izekiiele"
+  "DAN":
+    name: "Daniiele"
+    slug: "daniiele"
+    name_toc: "Divulu dia Daniiele"
+  "HOS":
+    name: "Hozeia"
+    slug: "hozeia"
+    name_toc: "Divulu dia Hozeia"
+  "JOL":
+    name: "Jouele"
+    slug: "jouele"
+    name_toc: "Divulu dia Jouele"
+  "AMO":
+    name: "Amoji"
+    slug: "amoji"
+    name_toc: "Divulu dia Amoji"
+  "OBA":
+    name: "Obadiia"
+    slug: "obadiia"
+    name_toc: "Divulu dia Obadiia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Divulu dia Jona"
+  "MIC":
+    name: "Mikeia"
+    slug: "mikeia"
+    name_toc: "Divulu dia Mikeia"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Divulu dia Nahumu"
+  "HAB":
+    name: "Habakuke"
+    slug: "habakuke"
+    name_toc: "Divulu dia Habakuke"
+  "ZEP":
+    name: "Sofoniia"
+    slug: "sofoniia"
+    name_toc: "Divulu dia Sofoniia"
+  "HAG":
+    name: "Ajeu"
+    slug: "ajeu"
+    name_toc: "Divulu dia Ajeu"
+  "ZEC":
+    name: "Zakadiia"
+    slug: "zakadiia"
+    name_toc: "Divulu dia Zakadiia"
+  "MAL":
+    name: "Malakiia"
+    slug: "malakiia"
+    name_toc: "Divulu dia Malakiia"
+  "MAT":
+    name: "Matesu"
+    slug: "matesu"
+    name_toc: "Njimbu Iambote Iosoneke Kua Matesu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+    name_toc: "Njimbu Iambote Iosoneke Kua Marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Njimbu Iambote Iosoneke Kua Luka"
+  "JHN":
+    name: "Nzuá"
+    slug: "nzua"
+    name_toc: "Njimbu Iambote Iosoneke Kua Nzuá"
+  "ACT":
+    name: "Jipoxolo"
+    slug: "jipoxolo"
+    name_toc: "Ikalakalu Ia Jipoxolo"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua akua Loma"
+  "1CO":
+    name: "I Kolindo"
+    slug: "i-kolindo"
+    name_toc: "Mukanda ua Dianga ua poxolo Phaulu ua tumikisa kua akua Kolindo"
+  "2CO":
+    name: "II Kolindo"
+    slug: "ii-kolindo"
+    name_toc: "Mukanda ua Kaiadi ua poxolo Phaulu ua tumikisa kua akua Kolindo"
+  "GAL":
+    name: "Ngalásia"
+    slug: "ngalasia"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua akua Ngalásia"
+  "EPH":
+    name: "Efezo"
+    slug: "efezo"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua akua Efezo"
+  "PHP":
+    name: "Filipe"
+    slug: "filipe"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua akua Filipe"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua akua Kolose"
+  "1TH":
+    name: "I Tesalonika"
+    slug: "i-tesalonika"
+    name_toc: "Mukanda ua Dianga ua poxolo Phaulu ua tumikisa kua akua Tesalonika"
+  "2TH":
+    name: "II Tesalonika"
+    slug: "ii-tesalonika"
+    name_toc: "Mukanda ua Kaiadi ua poxolo Phaulu ua tumikisa kua akua Tesalonika"
+  "1TI":
+    name: "I Timote"
+    slug: "i-timote"
+    name_toc: "Mukanda ua Dianga ua poxolo Phaulu ua tumikisa kua Timote"
+  "2TI":
+    name: "II Timote"
+    slug: "ii-timote"
+    name_toc: "Mukanda ua Kaiadi ua poxolo Phaulu ua tumikisa kua Timote"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua Tito"
+  "PHM":
+    name: "Filemone"
+    slug: "filemone"
+    name_toc: "Mukanda ua poxolo Phaulu ua tumikisa kua Filimone"
+  "HEB":
+    name: "Jihebeleu"
+    slug: "jihebeleu"
+    name_toc: "Mukanda ua Jihebeleu"
+  "JAS":
+    name: "Tiiaku"
+    slug: "tiiaku"
+    name_toc: "Mukanda ua Tiiaku"
+  "1PE":
+    name: "I Phetele"
+    slug: "i-phetele"
+    name_toc: "Mukanda ua Dianga ua Phetele"
+  "2PE":
+    name: "II Phetele"
+    slug: "ii-phetele"
+    name_toc: "Mukanda ua Kaiadi ua Phetele"
+  "1JN":
+    name: "I Nzuá"
+    slug: "i-nzua"
+    name_toc: "Mukanda ua Dianga ua Nzuá"
+  "2JN":
+    name: "II Nzuá"
+    slug: "ii-nzua"
+    name_toc: "Mukanda ua Kaiadi ua Nzuá"
+  "3JN":
+    name: "III Nzuá"
+    slug: "iii-nzua"
+    name_toc: "Mukanda ua Katatu ua Nzuá"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Mukanda Ua Juda"
+  "REV":
+    name: "Dijingunuinu"
+    slug: "dijingunuinu"
+    name_toc: "Dijingunuinu Dia Nzuá"

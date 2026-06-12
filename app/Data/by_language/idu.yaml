@@ -1,0 +1,200 @@
+language: "idu"
+books:
+  "GEN":
+    name: "Ohútu"
+    slug: "ohutu"
+  "EXO":
+    name: "Oōyɛbɛ̄cɛ"
+    slug: "ooybc"
+  "LEV":
+    name: "Ulīfayi"
+    slug: "ulifayi"
+  "NUM":
+    name: "Áluka"
+    slug: "aluka"
+  "DEU":
+    name: "Oblatūkíne"
+    slug: "oblatukine"
+  "JOS":
+    name: "Ujóssuwa"
+    slug: "ujossuwa"
+  "JDG":
+    name: "Ācohɛ́pɔ̄"
+    slug: "acohp"
+  "RUT":
+    name: "Urútu"
+    slug: "urutu"
+  "1SA":
+    name: "1 Usámuwɛ̄lu"
+    slug: "1-usamuwlu"
+  "2SA":
+    name: "2 Usámuwɛ̄lu"
+    slug: "2-usamuwlu"
+  "1KI":
+    name: "1 Aɔ́cɛ́"
+    slug: "1-ac"
+  "2KI":
+    name: "2 Aɔ́cɛ́"
+    slug: "2-ac"
+  "1CH":
+    name: "1 Úklɔ́ Kú Aɔ́cɛ́"
+    slug: "1-ukl-ku-ac"
+  "2CH":
+    name: "2 Úklɔ́ Kú Aɔ́cɛ́"
+    slug: "2-ukl-ku-ac"
+  "EZR":
+    name: "Ɛ́sra"
+    slug: "sra"
+  "NEH":
+    name: "Unehemíya"
+    slug: "unehemiya"
+  "EST":
+    name: "Ɛ́sta"
+    slug: "sta"
+  "JOB":
+    name: "Ujóbu"
+    slug: "ujobu"
+  "PSA":
+    name: "Aíjē Kú Ɛ̄gbā"
+    slug: "aije-ku-gba"
+  "PRO":
+    name: "Aíita"
+    slug: "aiita"
+  "ECC":
+    name: "Ɔ̄cokóītá"
+    slug: "cokoita"
+  "SNG":
+    name: "Ijē Kú Usólōmɔn"
+    slug: "ije-ku-usolomn"
+  "ISA":
+    name: "Ayisáya"
+    slug: "ayisaya"
+  "JER":
+    name: "Ujɛrɛmíya"
+    slug: "ujrmiya"
+  "LAM":
+    name: "Ikwūayidɔ"
+    slug: "ikwuayid"
+  "EZK":
+    name: "Isíkɛ̄lu"
+    slug: "isiklu"
+  "DAN":
+    name: "Udánīyɛ̄lu"
+    slug: "udaniylu"
+  "HOS":
+    name: "Uhosíi"
+    slug: "uhosii"
+  "JOL":
+    name: "Ujówɛ̄lu"
+    slug: "ujowlu"
+  "AMO":
+    name: "Émɔ̄si"
+    slug: "emsi"
+  "OBA":
+    name: "Obadíya"
+    slug: "obadiya"
+  "JON":
+    name: "Ujóna"
+    slug: "ujona"
+  "MIC":
+    name: "Umáyíka"
+    slug: "umayika"
+  "NAM":
+    name: "Unáhum"
+    slug: "unahum"
+  "HAB":
+    name: "Uhábakūku"
+    slug: "uhabakuku"
+  "ZEP":
+    name: "Usɛfaníya"
+    slug: "usfaniya"
+  "HAG":
+    name: "Uhágāyi"
+    slug: "uhagayi"
+  "ZEC":
+    name: "Usakaríya"
+    slug: "usakariya"
+  "MAL":
+    name: "Umálakāyi"
+    slug: "umalakayi"
+  "MAT":
+    name: "Umátiyu"
+    slug: "umatiyu"
+  "MRK":
+    name: "Umáki"
+    slug: "umaki"
+  "LUK":
+    name: "Ulúku"
+    slug: "uluku"
+  "JHN":
+    name: "Ujɔ́ni"
+    slug: "ujni"
+  "ACT":
+    name: "Úklɔ́ Kú Ācotɛ̄hɔ̄"
+    slug: "ukl-ku-acoth"
+  "ROM":
+    name: "Ācɛ Uróm"
+    slug: "ac-urom"
+  "1CO":
+    name: "1 Ācɛ Ukɔ́rīnti"
+    slug: "1-ac-ukrinti"
+  "2CO":
+    name: "2 Ācɛ Ukɔ́rīnti"
+    slug: "2-ac-ukrinti"
+  "GAL":
+    name: "Ācɛ Ugalésīya"
+    slug: "ac-ugalesiya"
+  "EPH":
+    name: "Ācɛ Ɛ́fēsɔsi"
+    slug: "ac-fessi"
+  "PHP":
+    name: "Ācɛ Ufílipāyi"
+    slug: "ac-ufilipayi"
+  "COL":
+    name: "Ācɛ Ukólōsi"
+    slug: "ac-ukolosi"
+  "1TH":
+    name: "1 Ācɛ Utesaloníka"
+    slug: "1-ac-utesalonika"
+  "2TH":
+    name: "2 Ācɛ Utesaloníka"
+    slug: "2-ac-utesalonika"
+  "1TI":
+    name: "1 Utímōti"
+    slug: "1-utimoti"
+  "2TI":
+    name: "2 Utímōti"
+    slug: "2-utimoti"
+  "TIT":
+    name: "Utáyítɔ̄si"
+    slug: "utayitsi"
+  "PHM":
+    name: "Ufílīmɔn"
+    slug: "ufilimn"
+  "HEB":
+    name: "Ācɛ Uhíbru"
+    slug: "ac-uhibru"
+  "JAS":
+    name: "Ujɛ́mīsi"
+    slug: "ujmisi"
+  "1PE":
+    name: "1 Upíta"
+    slug: "1-upita"
+  "2PE":
+    name: "2 Upíta"
+    slug: "2-upita"
+  "1JN":
+    name: "1 Ujɔ́ɔni"
+    slug: "1-ujni"
+  "2JN":
+    name: "2 Ujɔ́ɔni"
+    slug: "2-ujni"
+  "3JN":
+    name: "3 Ujɔ́ɔni"
+    slug: "3-ujni"
+  "JUD":
+    name: "Ujúudu"
+    slug: "ujuudu"
+  "REV":
+    name: "Ɔdā Nēé Mafú Lɛ Ujɔ́ɔni"
+    slug: "da-nee-mafu-l-ujni"

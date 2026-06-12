@@ -1,0 +1,83 @@
+language: "bng"
+books:
+  "MAT":
+    name: "Matyiu"
+    slug: "matyiu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jân"
+    slug: "jan"
+  "ACT":
+    name: "Behadi"
+    slug: "behadi"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "I. Kâriniti"
+    slug: "i-kariniti"
+  "2CO":
+    name: "II. Kâriniti"
+    slug: "ii-kariniti"
+  "GAL":
+    name: "Geletiya"
+    slug: "geletiya"
+  "EPH":
+    name: "Efisu"
+    slug: "efisu"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kalâsi"
+    slug: "kalasi"
+  "1TH":
+    name: "I. Těsilonaika"
+    slug: "i-tesilonaika"
+  "2TH":
+    name: "II. Těsilonaika"
+    slug: "ii-tesilonaika"
+  "1TI":
+    name: "I. Timote"
+    slug: "i-timote"
+  "2TI":
+    name: "II. Timote"
+    slug: "ii-timote"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimâni"
+    slug: "filimani"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "I. Pitě"
+    slug: "i-pite"
+  "2PE":
+    name: "II. Pitě"
+    slug: "ii-pite"
+  "1JN":
+    name: "I. Jâni"
+    slug: "i-jani"
+  "2JN":
+    name: "II. Jâni"
+    slug: "ii-jani"
+  "3JN":
+    name: "III. Jâni"
+    slug: "iii-jani"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Ilevudwě"
+    slug: "ilevudwe"

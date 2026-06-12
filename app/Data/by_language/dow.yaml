@@ -1,0 +1,83 @@
+language: "dow"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Tɔmsyaadɛ Woosɛ"
+    slug: "tmsyaad-woos"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Kɔrɛŋgtu"
+    slug: "1-krgtu"
+  "2CO":
+    name: "2 Kɔrɛŋgtu"
+    slug: "2-krgtu"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efesu"
+    slug: "efesu"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+  "1TH":
+    name: "1 Tesaloniki"
+    slug: "1-tesaloniki"
+  "2TH":
+    name: "2 Tesaloniki"
+    slug: "2-tesaloniki"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filmɔŋ"
+    slug: "film"
+  "HEB":
+    name: "Ibraniŋko"
+    slug: "ibraniko"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Piyɛr"
+    slug: "1-piyr"
+  "2PE":
+    name: "2 Piyɛr"
+    slug: "2-piyr"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Hinwɔ Hi Mits Yohana"
+    slug: "hinw-hi-mits-yohana"

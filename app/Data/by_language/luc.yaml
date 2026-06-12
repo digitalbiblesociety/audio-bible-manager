@@ -1,0 +1,134 @@
+language: "luc"
+books:
+  "GEN":
+    name: "Íꞌdóŋá"
+    slug: "idona"
+  "EXO":
+    name: "Ãfũŋá"
+    slug: "afuna"
+  "DEU":
+    name: "Ãzị́táŋá Amviŋá"
+    slug: "azitana-amvina"
+  "JOS":
+    name: "Yósũwã"
+    slug: "yosuwa"
+  "RUT":
+    name: "Rụ́tụ̃"
+    slug: "rutu"
+  "1SA":
+    name: "1 Sámụ̃wẹ̃lị̃"
+    slug: "1-samuweli"
+  "2SA":
+    name: "2 Sámụ̃wẹ̃lị̃"
+    slug: "2-samuweli"
+  "1KI":
+    name: "1 Ũpĩ"
+    slug: "1-upi"
+  "2KI":
+    name: "2 Ũpĩ"
+    slug: "2-upi"
+  "EZR":
+    name: "Ézĩrã"
+    slug: "ezira"
+  "NEH":
+    name: "Nẽhẽmíyã"
+    slug: "nehemiya"
+  "EST":
+    name: "Ẹ́sị́tẹ́rị̃"
+    slug: "esiteri"
+  "PSA":
+    name: "Zãbụ́rị̃"
+    slug: "zaburi"
+  "PRO":
+    name: "Ị́jọ́ Uꞌbéŋá"
+    slug: "ijo-ubena"
+  "JON":
+    name: "Yónã"
+    slug: "yona"
+  "NAM":
+    name: "Nãhụ́mị̃"
+    slug: "nahumi"
+  "MAL":
+    name: "Mãlákĩ"
+    slug: "malaki"
+  "MAT":
+    name: "Mãtáyõ"
+    slug: "matayo"
+  "MRK":
+    name: "Mãrákõ"
+    slug: "marako"
+  "LUK":
+    name: "Lụ́kã"
+    slug: "luka"
+  "JHN":
+    name: "Yõhánã"
+    slug: "yohana"
+  "ACT":
+    name: "ꞌEtáŋá"
+    slug: "etana"
+  "ROM":
+    name: "Rụ́mị̃"
+    slug: "rumi"
+  "1CO":
+    name: "1 Kọ̃rị̃nị́tọ̃"
+    slug: "1-korinito"
+  "2CO":
+    name: "2 Kọ̃rị̃nị́tọ̃"
+    slug: "2-korinito"
+  "GAL":
+    name: "Gãlãtị́yã"
+    slug: "galatiya"
+  "EPH":
+    name: "Ẽfésõ"
+    slug: "efeso"
+  "PHP":
+    name: "Fị̃lị́pị̃"
+    slug: "filipi"
+  "COL":
+    name: "Kõlõsáyĩ"
+    slug: "kolosayi"
+  "1TH":
+    name: "1 Tẹ̃sãlọ̃nị́kị̃"
+    slug: "1-tesaloniki"
+  "2TH":
+    name: "2 Tẹ̃sãlọ̃nị́kị̃"
+    slug: "2-tesaloniki"
+  "1TI":
+    name: "1 Tị̃mị̃tị́yọ̃"
+    slug: "1-timitiyo"
+  "2TI":
+    name: "2 Tị̃mị̃tị́yọ̃"
+    slug: "2-timitiyo"
+  "TIT":
+    name: "Tị́tọ̃"
+    slug: "tito"
+  "PHM":
+    name: "Fị̃lị̃mọ́nã"
+    slug: "filimona"
+  "HEB":
+    name: "Ĩbũrãníyã"
+    slug: "iburaniya"
+  "JAS":
+    name: "Yãkóꞌbõ"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Pétẽrõ"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pétẽrõ"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yõhánã"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yõhánã"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yõhánã"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yụ́dã"
+    slug: "yuda"
+  "REV":
+    name: "Ícétáŋá"
+    slug: "icetana"

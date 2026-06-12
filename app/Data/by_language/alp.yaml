@@ -1,0 +1,83 @@
+language: "alp"
+books:
+  "MAT":
+    name: "Matiuse"
+    slug: "matiuse"
+  "MRK":
+    name: "Markuse"
+    slug: "markuse"
+  "LUK":
+    name: "Lukase"
+    slug: "lukase"
+  "JHN":
+    name: "Yohanese"
+    slug: "yohanese"
+  "ACT":
+    name: "Maka Ulakaru"
+    slug: "maka-ulakaru"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintuse"
+    slug: "1-korintuse"
+  "2CO":
+    name: "2 Korintuse"
+    slug: "2-korintuse"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epsuse"
+    slug: "epsuse"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotiuse"
+    slug: "1-timotiuse"
+  "2TI":
+    name: "2 Timotiuse"
+    slug: "2-timotiuse"
+  "TIT":
+    name: "Tituse"
+    slug: "tituse"
+  "PHM":
+    name: "Pilemone"
+    slug: "pilemone"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobuse"
+    slug: "yakobuse"
+  "1PE":
+    name: "1 Petruse"
+    slug: "1-petruse"
+  "2PE":
+    name: "2 Petruse"
+    slug: "2-petruse"
+  "1JN":
+    name: "1 Yohanese"
+    slug: "1-yohanese"
+  "2JN":
+    name: "2 Yohanese"
+    slug: "2-yohanese"
+  "3JN":
+    name: "3 Yohanese"
+    slug: "3-yohanese"
+  "JUD":
+    name: "Yudase"
+    slug: "yudase"
+  "REV":
+    name: "Tatike pine Uonore"
+    slug: "tatike-pine-uonore"

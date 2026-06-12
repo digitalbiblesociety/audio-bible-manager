@@ -1,0 +1,35 @@
+language: "gyz"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "LUK":
+    name: "Lukka"
+    slug: "lukka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Pa̱lti wul"
+    slug: "palti-wul"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Ma̱n Korinti"
+    slug: "1-man-korinti"
+  "2CO":
+    name: "2 Ma̱n Korinti"
+    slug: "2-man-korinti"
+  "GAL":
+    name: "Ma̱n Galati"
+    slug: "man-galati"
+  "EPH":
+    name: "Apisa"
+    slug: "apisa"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"

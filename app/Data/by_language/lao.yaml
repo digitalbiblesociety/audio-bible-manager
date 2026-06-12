@@ -1,0 +1,266 @@
+language: "lao"
+books:
+  "GEN":
+    name: "ປະຖົມມະການ"
+    slug: "pathommakan"
+    name_toc: "ພຣະທຳ​ປະຖົມມະການ"
+  "EXO":
+    name: "ອົບພະຍົບ"
+    slug: "opphanyop"
+    name_toc: "ພຣະທຳ​ອົບພະຍົບ"
+  "LEV":
+    name: "ເລ​ວີ"
+    slug: "levi"
+    name_toc: "ເລ​ວີ"
+  "NUM":
+    name: "ຈົດບັນຊີ"
+    slug: "chotbansi"
+    name_toc: "ພຣະທຳ​ຈົດບັນຊີ"
+  "DEU":
+    name: "ພຣະບັນຍັດສອງ"
+    slug: "phrabannyatsong"
+    name_toc: "ພຣະທຳ​ພຣະບັນຍັດສອງ"
+  "JOS":
+    name: "ໂຢຊວຍ"
+    slug: "yosuany"
+    name_toc: "ພຣະທຳ​ໂຢຊວຍ"
+  "JDG":
+    name: "ຕົ້ມ ຈຽນ"
+    slug: "tom-chian"
+    name_toc: "ຕົ້ມ ຈຽນ"
+  "RUT":
+    name: "ລູ​ເທ"
+    slug: "luthe"
+    name_toc: "ລູ​ເທ"
+  "1SA":
+    name: "1 ຊາມູເອນ"
+    slug: "1-samuen"
+    name_toc: "ພຣະທຳ​ຊາມູເອນ​ທີໜຶ່ງ"
+  "2SA":
+    name: "2 ຊາມູເອນ"
+    slug: "2-samuen"
+    name_toc: "ພຣະທຳ​ຊາມູເອນ​ທີ​ສອງ"
+  "1KI":
+    name: "1 ກະສັດ"
+    slug: "1-kasat"
+    name_toc: "ພຣະທຳ​ກະສັດ​ທີໜຶ່ງ"
+  "2KI":
+    name: "2 ກະສັດ"
+    slug: "2-kasat"
+    name_toc: "ພຣະທຳ​ກະສັດ​ທີສອງ"
+  "1CH":
+    name: "1 ຂ່າວຄາວ"
+    slug: "1-khaokhao"
+    name_toc: "ພຣະທຳ​ຂ່າວຄາວ​ທີໜຶ່ງ"
+  "2CH":
+    name: "2 ຂ່າວຄາວ"
+    slug: "2-khaokhao"
+    name_toc: "ພຣະທຳ​ຂ່າວຄາວ​ທີສອງ"
+  "EZR":
+    name: "ເອຊະຣາ"
+    slug: "esara"
+    name_toc: "ພຣະທຳ​ເອຊະຣາ"
+  "NEH":
+    name: "ເນເຫມີຢາ"
+    slug: "nemya"
+    name_toc: "ພຣະທຳ​ເນເຫມີຢາ"
+  "EST":
+    name: "ເອສະເທີ"
+    slug: "esath"
+    name_toc: "ພຣະທຳ​ເອສະເທີ"
+  "JOB":
+    name: "ໂຢບ"
+    slug: "yop"
+    name_toc: "ພຣະທຳ​ໂຢບ"
+  "PSA":
+    name: "ສີງ ດສູງ"
+    slug: "sing-dsung"
+    name_toc: "ສີງ ດສູງ"
+  "PRO":
+    name: "ສຸພາສິດ"
+    slug: "suphasit"
+    name_toc: "ພຣະທຳ​ສຸພາສິດ"
+  "ECC":
+    name: "ປັນຍາຈານ"
+    slug: "pannyachan"
+    name_toc: "ພຣະທຳ​ປັນຍາຈານ"
+  "SNG":
+    name: "ຍອດເພງ"
+    slug: "nyodpheng"
+    name_toc: "ພຣະທຳ​ຍອດເພງ"
+  "ISA":
+    name: "ເອຊາຢາ"
+    slug: "esaya"
+    name_toc: "ພຣະທຳ​ເອຊາຢາ"
+  "JER":
+    name: "ເຢເຣມີຢາ"
+    slug: "yeremiya"
+    name_toc: "ພຣະທຳ​ເຢເຣມີຢາ"
+  "LAM":
+    name: "ເພງ^ຄໍ່າຄວນ"
+    slug: "pheng-khoakhuan"
+    name_toc: "ພຣະທຳ​ເພງ​ຄໍ່າຄວນ"
+  "EZK":
+    name: "ເອເຊກຽນ"
+    slug: "esekian"
+    name_toc: "ພຣະທຳ​ເອເຊກຽນ"
+  "DAN":
+    name: "ດານີເອນ"
+    slug: "danien"
+    name_toc: "ພຣະທຳ​ດານີເອນ"
+  "HOS":
+    name: "ໂຮເສອາ"
+    slug: "hosea"
+    name_toc: "ພຣະທຳ​ໂຮເສອາ"
+  "JOL":
+    name: "ໂຢເອນ"
+    slug: "yoen"
+    name_toc: "ພຣະທຳ​ໂຢເອນ"
+  "AMO":
+    name: "ອາໂມດ"
+    slug: "amot"
+    name_toc: "ພຣະທຳ​ອາໂມດ"
+  "OBA":
+    name: "ໂອບາດີຢາ"
+    slug: "obadiya"
+    name_toc: "ພຣະທຳ​ໂອບາດີຢາ"
+  "JON":
+    name: "ໂຢນາ"
+    slug: "yona"
+    name_toc: "ພຣະທຳ​ໂຢນາ"
+  "MIC":
+    name: "ມີກາ"
+    slug: "mika"
+    name_toc: "ພຣະທຳ​ມີກາ"
+  "NAM":
+    name: "ນາຮູມ"
+    slug: "nahum"
+    name_toc: "ພຣະທຳ​ນາຮູມ"
+  "HAB":
+    name: "ຮາບາກຸກ"
+    slug: "habakuk"
+    name_toc: "ພຣະທຳ​ຮາບາກຸກ"
+  "ZEP":
+    name: "ເຊຟານີຢາ"
+    slug: "sefaniya"
+    name_toc: "ພຣະທຳ​ເຊຟານີຢາ"
+  "HAG":
+    name: "ຮັກກາຍ"
+    slug: "hakkay"
+    name_toc: "ພຣະທຳ​ຮັກກາຍ"
+  "ZEC":
+    name: "ເຊກາຣີຢາ"
+    slug: "sekariya"
+    name_toc: "ພຣະທຳ​ເຊກາຣີຢາ"
+  "MAL":
+    name: "ມາລາກີ"
+    slug: "malaki"
+    name_toc: "ພຣະທຳ​ມາລາກີ"
+  "MAT":
+    name: "ມັດທາຍ"
+    slug: "matthay"
+    name_toc: "ຂ່າວປະເສີດ​ເລື່ອງ​ພຣະເຢຊູເຈົ້າ​ຕາມ​ມັດທາຍ"
+  "MRK":
+    name: "ມາ​ໂຄ"
+    slug: "makho"
+    name_toc: "ມາ​ໂຄ"
+  "LUK":
+    name: "ລູກາ"
+    slug: "luka"
+    name_toc: "ຂ່າວປະເສີດ​ເລື່ອງ​ພຣະເຢຊູເຈົ້າ​ຕາມ​ລູກາ"
+  "JHN":
+    name: "ໂຢຮັນ"
+    slug: "yohan"
+    name_toc: "ຂ່າວປະເສີດ​ເລື່ອງ​ພຣະເຢຊູເຈົ້າ​ຕາມ​ໂຢຮັນ"
+  "ACT":
+    name: "ກິດຈະການ"
+    slug: "kitchakan"
+    name_toc: "ກິດຈະການ​ຕ່າງໆ​ຂອງ​ພວກ​ອັກຄະສາວົກ"
+  "ROM":
+    name: "ໂຣມ"
+    slug: "rom"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ນະຄອນ​ໂຣມ"
+  "1CO":
+    name: "1 ໂກຣິນໂທ"
+    slug: "1-korintho"
+    name_toc: "ຈົດໝາຍ^ສະບັບ​ທີ​ໜຶ່ງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ໂກຣິນໂທ"
+  "2CO":
+    name: "2 ໂກຣິນໂທ"
+    slug: "2-korintho"
+    name_toc: "ຈົດໝາຍ^ສະບັບ^ທີ​ສອງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ໂກຣິນໂທ"
+  "GAL":
+    name: "ຄາລາເຕຍ"
+    slug: "khalatey"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ຄາລາເຕຍ"
+  "EPH":
+    name: "ເອເຟໂຊ"
+    slug: "efeso"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ເອເຟໂຊ"
+  "PHP":
+    name: "ຟີລິບປອຍ"
+    slug: "filippony"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ຟີລິບປອຍ"
+  "COL":
+    name: "ໂກໂລຊາຍ"
+    slug: "kolosay"
+    name_toc: "ຈົດໝາຍ^ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຄຣິສຕະຈັກ​ໂກໂລຊາຍ"
+  "1TH":
+    name: "1 ເທສະໂລນິກ"
+    slug: "1-thesalonik"
+    name_toc: "ຈົດໝາຍ^ສະບັບ^ທີ^ໜຶ່ງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ເທສະໂລນິກ"
+  "2TH":
+    name: "2 ເທສະໂລນິກ"
+    slug: "2-thesalonik"
+    name_toc: "ຈົດໝາຍ^ສະບັບ^ທີ^ສອງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຊາວ​ເທສະໂລນິກ"
+  "1TI":
+    name: "1 ຕີໂມທຽວ"
+    slug: "1-timothiao"
+    name_toc: "ຈົດໝາຍ^ສະບັບ​ທີ​ໜຶ່ງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຕີໂມທຽວ"
+  "2TI":
+    name: "2 ຕີໂມທຽວ"
+    slug: "2-timothiao"
+    name_toc: "ຈົດໝາຍ^ສະບັບ​ທີ​ສອງ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຕີໂມທຽວ"
+  "TIT":
+    name: "ຕີໂຕ"
+    slug: "tito"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຕີໂຕ"
+  "PHM":
+    name: "ຟີເລໂມນ"
+    slug: "filemon"
+    name_toc: "ຈົດໝາຍ​ຂອງ​ໂປໂລ​ທີ່​ມີ​ໄປ​ເຖິງ​ຟີເລໂມນ"
+  "HEB":
+    name: "ຮິບ​ລູ"
+    slug: "hiplu"
+    name_toc: "ຮິບ​ລູ"
+  "JAS":
+    name: "ຢາໂກໂບ"
+    slug: "yakobo"
+    name_toc: "ຈົດໝາຍ​ຈາກ​ຢາໂກໂບ"
+  "1PE":
+    name: "1 ເປໂຕ"
+    slug: "1-peto"
+    name_toc: "ຈົດໝາຍ​ສະບັບ​ທີ​ໜຶ່ງ​ຂອງ​ເປໂຕ"
+  "2PE":
+    name: "2 ເປໂຕ"
+    slug: "2-peto"
+    name_toc: "ຈົດໝາຍ​ສະບັບ​ທີ​ສອງ​ຂອງ​ເປໂຕ"
+  "1JN":
+    name: "1 ໂຢຮັນ"
+    slug: "1-yohan"
+    name_toc: "ຈົດໝາຍ​ສະບັບ​ທີ​ໜຶ່ງ​ຂອງ​ໂຢຮັນ"
+  "2JN":
+    name: "2 ໂຢຮັນ"
+    slug: "2-yohan"
+    name_toc: "ຈົດໝາຍ​ສະບັບ​ທີ​ສອງ​ຂອງ​ໂຢຮັນ"
+  "3JN":
+    name: "3 ໂຢຮັນ"
+    slug: "3-yohan"
+    name_toc: "ຈົດໝາຍ​ສະບັບ​ທີ​ສາມ​ຂອງ​ໂຢຮັນ"
+  "JUD":
+    name: "ຢູດາ"
+    slug: "yuda"
+    name_toc: "ຈົດໝາຍ​ຈາກ ​ຢູດາ"
+  "REV":
+    name: "ພຣະນິມິດ"
+    slug: "phranimit"
+    name_toc: "ນິມິດ​ຂອງ​ພຣະເຈົ້າ​ຊຶ່ງ​ຊົງ​ສຳແດງ​ແກ່​ໂຢຮັນ"

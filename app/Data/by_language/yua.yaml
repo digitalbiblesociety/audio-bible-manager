@@ -1,0 +1,308 @@
+language: "yua"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+    name_toc: "Fūk‐Ch‘uēn Lūt‐Laî Keì"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+    name_toc: "Yeukₒ‐Shue‐À"
+  "LEV":
+    name: "Levítico"
+    slug: "levitico"
+    name_toc: "Sẑ‐Sz Keì"
+  "NUM":
+    name: "Números"
+    slug: "numeros"
+    name_toc: "Lô-tak shî"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Saatₒ‐Mŏ‐ĭ, Ts‘īn"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "Saatₒ‐Mŏ‐ĭ, Haû"
+  "JDG":
+    name: "Jueces"
+    slug: "jueces"
+    name_toc: "Līt‐Wōng Keí‐Leūk, Ts‘īn"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Līt‐Wōng Keí‐Leūk, Haû"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Līk‐Toî Chì‐Leūk, Ts‘īn"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Līk‐Toî Chì‐Leūk, Haû"
+  "1KI":
+    name: "1 Reyes"
+    slug: "1-reyes"
+    name_toc: "Ĭ‐Sẑ‐La"
+  "2KI":
+    name: "2 Reyes"
+    slug: "2-reyes"
+    name_toc: "Neĭ‐Hei‐Maĭ"
+  "1CH":
+    name: "1 Crónicas"
+    slug: "1-cronicas"
+    name_toc: "Ĭ‐Sẑ‐T‘ipₒ"
+  "2CH":
+    name: "2 Crónicas"
+    slug: "2-cronicas"
+    name_toc: "Yeukₒ‐Paakₒ"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Shi‐P‘in"
+  "NEH":
+    name: "Nehemías"
+    slug: "nehemias"
+    name_toc: "Cham‐Īn"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ch‘uēn‐Tô"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Ngă‐Koh"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+    name_toc: "Ĭ‐Tsoi‐À"
+  "PRO":
+    name: "Proverbios"
+    slug: "proverbios"
+    name_toc: "Yē‐Leî‐Maĭ"
+  "ECC":
+    name: "Eclesiastés"
+    slug: "eclesiastes"
+    name_toc: "Yē‐Leî‐Maĭ Oi‐Koh"
+  "SNG":
+    name: "Cantares"
+    slug: "cantares"
+    name_toc: "Ĭ‐Sai‐Kitₒ"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+    name_toc: "Taân‐Ĭ‐Leĭ"
+  "JER":
+    name: "Jeremías"
+    slug: "jeremias"
+    name_toc: "Hōh‐Sai"
+  "LAM":
+    name: "Lamentaciones"
+    slug: "lamentaciones"
+    name_toc: "Yeukₒ‐Ĭ"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+    name_toc: "À‐Moh‐Sẑ"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Oh‐Pa‐Taí"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Yeukₒ‐Nā"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Maĭ‐Ka"
+  "AMO":
+    name: "Amós"
+    slug: "amos"
+    name_toc: "Nā‐Yung"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "Hap‐Pa‐Kuk"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+    name_toc: "Sai‐Faan‐Ngă"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Hap‐Kei"
+  "NAM":
+    name: "Nahúm"
+    slug: "nahum"
+    name_toc: "Saatₒ‐Ka‐Leî‐À"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Mă‐La‐Kei"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "Mă‐t‘aaì"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Mă‐Hóh"
+  "ZEC":
+    name: "Zacarías"
+    slug: "zacarias"
+    name_toc: "Lô‐Ka"
+  "MAL":
+    name: "Malaquías"
+    slug: "malaquias"
+    name_toc: "Yeukₒ‐Hôn"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Sz̀‐T‘ō Hâng‐Chuên"
+  "ESG":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Lōh‐Mă"
+  "WIS":
+    name: "Sabiduría"
+    slug: "sabiduria"
+    name_toc: "Koh‐Lām‐Toh, Ts‘īn"
+  "SIR":
+    name: "Eclesiástico"
+    slug: "eclesiastico"
+    name_toc: "Koh‐Lām‐Toh, Haû"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+    name_toc: "Ka‐La‐T‘aaì"
+  "LJE":
+    name: "Baruc"
+    slug: "baruc"
+    name_toc: "Ĭ‐Fat‐Shóh"
+  "S3Y":
+    name: "Daniel (Dc)"
+    slug: "daniel-dc"
+    name_toc: "Feī‐Laāp‐Peí"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Koh‐Lōh‐Sai"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+    name_toc: "T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka, Ts‘īn"
+  "1MA":
+    name: "1 Macabeos"
+    slug: "1-macabeos"
+    name_toc: "T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka, Haû"
+  "2MA":
+    name: "2 Macabeos"
+    slug: "2-macabeos"
+    name_toc: "T‘aī‐Moh‐T‘aaì, Ts‘īn"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "T‘aī‐Moh‐T‘aaì, Haû"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "T‘aī‐Toh"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Feī‐Leî‐Moōn"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Hei‐Paakₒ‐Loī"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+    name_toc: "Ngă‐Kokₒ"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+    name_toc: "Peí‐Tak, Ts‘īn"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+    name_toc: "Peí‐Tak, Haû"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+    name_toc: "Yeukₒ‐Hôn, Yat Shue"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+    name_toc: "Yeukₒ‐hôn, Î‐Shue"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+    name_toc: "Yeukₒ‐Hôn, Saam Shue"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+    name_toc: "Yaū‐Taaî"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+    name_toc: "Māk‐Shî‐Lūk"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+    name_toc: "Amangʼana Amazomu ga Yeesu Krisito kyeego gakaamirwe na Mataayo"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+    name_toc: "Amangʼana Amazomu ga Yeesu Krisito kyeego gakaamirwe na Mariko"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Amangʼana Amazomu ga Yeesu Krisito kyeego gakaamirwe na Ruuka"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Amangʼana Amazomu ga Yeesu Krisito kyeego gakaamirwe na Yohana"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Amahokya ga Abheega bha Yeesu"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+    name_toc: "Enyaarubha ya Pauro ku Bharooma"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+    name_toc: "Enyaarubha yo okutaanga ya Pauro ku Bhakoriinto"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "Enyaarubha ya kabhiri ya Pauro ku Bhakoriinto"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "Enyaarubha ya Pauro ku Bhafiripi"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "Enyaarubha ya Pauro ku Bhakorosai"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "Enyaarubha yo okutaanga ya Pauro ku Bhatesaronike"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Enyaarubha ya kabhiri ya Pauro ku Bhatesaronike"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"
+    name_toc: "Enyaarubha yo okutaanga ya Pauro ku Timoteo"

@@ -1,0 +1,95 @@
+language: "gvs"
+books:
+  "GEN":
+    name: "Aba Vatowo"
+    slug: "aba-vatowo"
+  "EXO":
+    name: "Tateta"
+    slug: "tateta"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "JON":
+    name: "Iyona"
+    slug: "iyona"
+  "MAT":
+    name: "Madiu"
+    slug: "madiu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Iyoni"
+    slug: "iyoni"
+  "ACT":
+    name: "Guinuwa"
+    slug: "guinuwa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinta"
+    slug: "1-korinta"
+  "2CO":
+    name: "2 Korinta"
+    slug: "2-korinta"
+  "GAL":
+    name: "Galetiya"
+    slug: "galetiya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonáika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonáika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taito"
+    slug: "taito"
+  "PHM":
+    name: "Pilemoni"
+    slug: "pilemoni"
+  "HEB":
+    name: "Iberiu"
+    slug: "iberiu"
+  "JAS":
+    name: "Yemesa"
+    slug: "yemesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Iyoni"
+    slug: "1-iyoni"
+  "2JN":
+    name: "2 Iyoni"
+    slug: "2-iyoni"
+  "3JN":
+    name: "3 Iyoni"
+    slug: "3-iyoni"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Nuwogau"
+    slug: "nuwogau"

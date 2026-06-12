@@ -1,0 +1,83 @@
+language: "gah"
+books:
+  "MAT":
+    name: "Mataió"
+    slug: "mataio"
+  "MRK":
+    name: "Makí"
+    slug: "maki"
+  "LUK":
+    name: "Luká"
+    slug: "luka"
+  "JHN":
+    name: "Zoní"
+    slug: "zoni"
+  "ACT":
+    name: "Aposolo"
+    slug: "aposolo"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Koliti"
+    slug: "1-koliti"
+  "2CO":
+    name: "2 Koliti"
+    slug: "2-koliti"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotí"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timotí"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taetasí"
+    slug: "taetasi"
+  "PHM":
+    name: "Pilemó"
+    slug: "pilemo"
+  "HEB":
+    name: "Hipulu"
+    slug: "hipulu"
+  "JAS":
+    name: "Zemusí"
+    slug: "zemusi"
+  "1PE":
+    name: "1 Pitá"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pitá"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Zoní"
+    slug: "1-zoni"
+  "2JN":
+    name: "2 Zoní"
+    slug: "2-zoni"
+  "3JN":
+    name: "3 Zoní"
+    slug: "3-zoni"
+  "JUD":
+    name: "Zutá"
+    slug: "zuta"
+  "REV":
+    name: "Alikamú"
+    slug: "alikamu"

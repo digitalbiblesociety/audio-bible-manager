@@ -1,0 +1,110 @@
+language: "kfy"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्ती का सुसमाचार"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "मरकुसो को सुसमाचार"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "लूका को सुसमाचार"
+  "JHN":
+    name: "यहूना"
+    slug: "yahuna"
+    name_toc: "यहूना को सुसमाचार"
+  "ACT":
+    name: "प्रेरितून का काम"
+    slug: "prerituna-ka-kama"
+    name_toc: "प्रेरितून का काम"
+  "ROM":
+    name: "रोमियून"
+    slug: "romiyuna"
+    name_toc: "रोमियून का नाम प्रेरित पौलुस की चिट्ठी"
+  "1CO":
+    name: "1 कुरिन्थियून"
+    slug: "1-kurinthiyuna"
+    name_toc: "1 कुरिन्थियून का नाम प्रेरित पौलुस की चिट्ठी"
+  "2CO":
+    name: "2 कुरिन्थियून"
+    slug: "2-kurinthiyuna"
+    name_toc: "2 कुरिन्थियून का नाम प्रेरित पौलुस की दुसरी चिट्ठी"
+  "GAL":
+    name: "गलातियों"
+    slug: "galatiyom"
+    name_toc: "गलातियून का नाम प्रेरित पौलुस की चिट्ठी"
+  "EPH":
+    name: "इफिसियून"
+    slug: "iphisiyuna"
+    name_toc: "इफिसियून का नाम प्रेरित पौलुस की चिट्ठी"
+  "PHP":
+    name: "फिलिप्पिन"
+    slug: "philippina"
+    name_toc: "फिलिप्पिन का नाम प्रेरित पौलुस की चिट्ठी"
+  "COL":
+    name: "कुलुस्सियून"
+    slug: "kulussiyuna"
+    name_toc: "कुलुस्सियून का नाम प्रेरित पौलुस की चिट्ठी"
+  "1TH":
+    name: "1 थिस्सलुनीकियों"
+    slug: "1-thissalunikiyom"
+    name_toc: "1 थिस्सलुनीकियों का नाम प्रेरित पौलुसे की पैलि चिट्ठी"
+  "2TH":
+    name: "2 थिस्सलुनीकियों"
+    slug: "2-thissalunikiyom"
+    name_toc: "2 थिस्सलुनीकियों का नाम प्रेरित पौलुसे की दुसरी चिट्ठी"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "1 तीमुथियुस का नाम प्रेरित पौलुसे की पैलि चिट्ठी"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "2 तीमुथियुस का नाम प्रेरित पौलुसे की दुसरी चिट्ठी"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "तीतुस का नाम प्रेरित पौलुसे की चिट्ठी"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "फिलेमोन का नाम प्रेरित पौलुसे की पैली चिट्ठी"
+  "HEB":
+    name: "इब्रानियों"
+    slug: "ibraniyom"
+    name_toc: "इब्रानियों का नाम चिट्ठी"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "याकूब की चिट्ठी"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "1 पतरस की पैलि चिट्ठी"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "2 पतरस की दुसरी चिट्ठी"
+  "1JN":
+    name: "1 यहूना"
+    slug: "1-yahuna"
+    name_toc: "1 यहूना की पैलि चिट्ठी"
+  "2JN":
+    name: "2 यहूना"
+    slug: "2-yahuna"
+    name_toc: "2 यहूना की दुसरी चिट्ठी"
+  "3JN":
+    name: "3 यहूना"
+    slug: "3-yahuna"
+    name_toc: "3 यहूना की तीसरी चिट्ठी"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदा की चिट्ठी"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"
+    name_toc: "यहूना को प्रकाशितवाक्य"

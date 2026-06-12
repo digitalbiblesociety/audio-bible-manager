@@ -1,0 +1,18 @@
+language: "kca"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Оԓәӈ эԓты нэпек"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+    name_toc: "Турәм айкеԓ туты ху Иона нэпек"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "."
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "Апостоләт Верәм Верәт"

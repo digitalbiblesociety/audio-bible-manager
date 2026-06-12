@@ -1,0 +1,200 @@
+language: "byv"
+books:
+  "GEN":
+    name: "Neto'te"
+    slug: "neto-te"
+  "EXO":
+    name: "Netume"
+    slug: "netume"
+  "LEV":
+    name: "Lévitiko"
+    slug: "levitiko"
+  "NUM":
+    name: "Nesiaṅe"
+    slug: "nesiane"
+  "DEU":
+    name: "Nebwôgte"
+    slug: "nebwogte"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Ghasa'kame"
+    slug: "ghasa-kame"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuél"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuél"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Fenfen"
+    slug: "1-fenfen"
+  "2KI":
+    name: "2 Fenfen"
+    slug: "2-fenfen"
+  "1CH":
+    name: "1 Kronika"
+    slug: "1-kronika"
+  "2CH":
+    name: "2 Kronika"
+    slug: "2-kronika"
+  "EZR":
+    name: "Esdra"
+    slug: "esdra"
+  "NEH":
+    name: "Néhémi"
+    slug: "nehemi"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+  "PSA":
+    name: "Yobkwi"
+    slug: "yobkwi"
+  "PRO":
+    name: "Tànkùt"
+    slug: "tankut"
+  "ECC":
+    name: "Nzenu"
+    slug: "nzenu"
+  "SNG":
+    name: "Nkwi Nkwi"
+    slug: "nkwi-nkwi"
+  "ISA":
+    name: "Esaya"
+    slug: "esaya"
+  "JER":
+    name: "Yérémia"
+    slug: "yeremia"
+  "LAM":
+    name: "Nsindàvù"
+    slug: "nsindavu"
+  "EZK":
+    name: "Ezékia"
+    slug: "ezekia"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Osé"
+    slug: "ose"
+  "JOL":
+    name: "Yoél"
+    slug: "yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdia"
+    slug: "abdia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Agé"
+    slug: "age"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAL":
+    name: "Malashi"
+    slug: "malashi"
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohané"
+    slug: "yohane"
+  "ACT":
+    name: "Mfa' Ghantum"
+    slug: "mfa-ghantum"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintô"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korintô"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efésô"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosé"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tésalônikà"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tésalônikà"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timôtio"
+    slug: "1-timotio"
+  "2TI":
+    name: "2 Timôtio"
+    slug: "2-timotio"
+  "TIT":
+    name: "Titô"
+    slug: "tito"
+  "PHM":
+    name: "Filémon"
+    slug: "filemon"
+  "HEB":
+    name: "Héber"
+    slug: "heber"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Pétro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Pétro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohané"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohané"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohané"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Apokalipse"
+    slug: "apokalipse"

@@ -1,0 +1,5 @@
+language: "arp"
+books:
+  "LUK":
+    name: "Luke"
+    slug: "luke"

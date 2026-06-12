@@ -1,0 +1,83 @@
+language: "ghs"
+books:
+  "MAT":
+    name: "Matteo"
+    slug: "matteo"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Dzohane"
+    slug: "dzohane"
+  "ACT":
+    name: "Aposoro"
+    slug: "aposoro"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Koritti"
+    slug: "1-koritti"
+  "2CO":
+    name: "2 Koritti"
+    slug: "2-koritti"
+  "GAL":
+    name: "Garata"
+    slug: "garata"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Piripi"
+    slug: "piripi"
+  "COL":
+    name: "Korose"
+    slug: "korose"
+  "1TH":
+    name: "1 Ttesaronike"
+    slug: "1-ttesaronike"
+  "2TH":
+    name: "2 Ttesaronike"
+    slug: "2-ttesaronike"
+  "1TI":
+    name: "1 Timotteo"
+    slug: "1-timotteo"
+  "2TI":
+    name: "2 Timotteo"
+    slug: "2-timotteo"
+  "TIT":
+    name: "Ttitto"
+    slug: "ttitto"
+  "PHM":
+    name: "Piremo"
+    slug: "piremo"
+  "HEB":
+    name: "Heboro"
+    slug: "heboro"
+  "JAS":
+    name: "Dzakopo"
+    slug: "dzakopo"
+  "1PE":
+    name: "1 Peetoro"
+    slug: "1-peetoro"
+  "2PE":
+    name: "2 Peetoro"
+    slug: "2-peetoro"
+  "1JN":
+    name: "1 Dzohane"
+    slug: "1-dzohane"
+  "2JN":
+    name: "2 Dzohane"
+    slug: "2-dzohane"
+  "3JN":
+    name: "3 Dzohane"
+    slug: "3-dzohane"
+  "JUD":
+    name: "Dzute"
+    slug: "dzute"
+  "REV":
+    name: "Paanaiteta"
+    slug: "paanaiteta"

@@ -1,0 +1,236 @@
+language: "ebu"
+books:
+  "GEN":
+    name: "Kîam"
+    slug: "kiam"
+  "EXO":
+    name: "Ntha"
+    slug: "ntha"
+  "LEV":
+    name: "Ala"
+    slug: "ala"
+  "NUM":
+    name: "Nda"
+    slug: "nda"
+  "DEU":
+    name: "Gûco"
+    slug: "guco"
+  "JOS":
+    name: "Josh"
+    slug: "josh"
+  "JDG":
+    name: "Atir"
+    slug: "atir"
+  "RUT":
+    name: "Ruthu"
+    slug: "ruthu"
+  "1SA":
+    name: "1Sam"
+    slug: "1sam"
+  "2SA":
+    name: "2Sam"
+    slug: "2sam"
+  "1KI":
+    name: "1Atha"
+    slug: "1atha"
+  "2KI":
+    name: "2Atha"
+    slug: "2atha"
+  "1CH":
+    name: "1Maû"
+    slug: "1mau"
+  "2CH":
+    name: "2Maû"
+    slug: "2mau"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "JOB":
+    name: "Ayu"
+    slug: "ayu"
+  "PSA":
+    name: "Tha"
+    slug: "tha"
+  "PRO":
+    name: "Nthi"
+    slug: "nthi"
+  "ECC":
+    name: "Mûv"
+    slug: "muv"
+  "SNG":
+    name: "Rwî"
+    slug: "rwi"
+  "ISA":
+    name: "Isa"
+    slug: "isa"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+  "LAM":
+    name: "Maca"
+    slug: "maca"
+  "EZK":
+    name: "Ezek"
+    slug: "ezek"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+  "HOS":
+    name: "Hos"
+    slug: "hos"
+  "JOL":
+    name: "Joe"
+    slug: "joe"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+  "OBA":
+    name: "Oba"
+    slug: "oba"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+  "ZEP":
+    name: "Zef"
+    slug: "zef"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+  "ZEC":
+    name: "Zak"
+    slug: "zak"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+  "JDT":
+    name: "Jud"
+    slug: "jud"
+  "ESG":
+    name: "Esita Ngi"
+    slug: "esita-ngi"
+  "WIS":
+    name: "Ûûgî"
+    slug: "uugi"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+  "LJE":
+    name: "Maarûa"
+    slug: "maarua"
+  "S3Y":
+    name: "Îvoya"
+    slug: "ivoya"
+  "SUS":
+    name: "Sus"
+    slug: "sus"
+  "BEL":
+    name: "Beli"
+    slug: "beli"
+  "1MA":
+    name: "1Mak"
+    slug: "1mak"
+  "2MA":
+    name: "2Mak"
+    slug: "2mak"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mar"
+    slug: "mar"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joh"
+    slug: "joh"
+  "ACT":
+    name: "Ciîko"
+    slug: "ciiko"
+  "ROM":
+    name: "Aro"
+    slug: "aro"
+  "1CO":
+    name: "1Akor"
+    slug: "1akor"
+  "2CO":
+    name: "2Akor"
+    slug: "2akor"
+  "GAL":
+    name: "Agal"
+    slug: "agal"
+  "EPH":
+    name: "Aef"
+    slug: "aef"
+  "PHP":
+    name: "Afil"
+    slug: "afil"
+  "COL":
+    name: "Akol"
+    slug: "akol"
+  "1TH":
+    name: "1Ath"
+    slug: "1ath"
+  "2TH":
+    name: "2Ath"
+    slug: "2ath"
+  "1TI":
+    name: "1Tim"
+    slug: "1tim"
+  "2TI":
+    name: "2Tim"
+    slug: "2tim"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "File"
+    slug: "file"
+  "HEB":
+    name: "Ahib"
+    slug: "ahib"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1Pet"
+    slug: "1pet"
+  "2PE":
+    name: "2Pet"
+    slug: "2pet"
+  "1JN":
+    name: "1Joh"
+    slug: "1joh"
+  "2JN":
+    name: "2Joh"
+    slug: "2joh"
+  "3JN":
+    name: "3Joh"
+    slug: "3joh"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Kûguû"
+    slug: "kuguu"

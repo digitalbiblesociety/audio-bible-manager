@@ -1,0 +1,83 @@
+language: "kjh"
+books:
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"
+  "ACT":
+    name: "Илҷілернің"
+    slug: "ililernin"
+  "ROM":
+    name: "Римдегілерге"
+    slug: "rimdegilerge"
+  "1CO":
+    name: "1 Коринфтегілерге"
+    slug: "1-korinftegilerge"
+  "2CO":
+    name: "2 Коринфтегілерге"
+    slug: "2-korinftegilerge"
+  "GAL":
+    name: "Галат чиріндегілерге"
+    slug: "galat-cirindegilerge"
+  "EPH":
+    name: "Ефестегілерге"
+    slug: "efestegilerge"
+  "PHP":
+    name: "Филипптегілерге"
+    slug: "filipptegilerge"
+  "COL":
+    name: "Колоссадағыларға"
+    slug: "kolossadagylarga"
+  "1TH":
+    name: "1 Фессалониктегілерге"
+    slug: "1-fessaloniktegilerge"
+  "2TH":
+    name: "2 Фессалониктегілерге"
+    slug: "2-fessaloniktegilerge"
+  "1TI":
+    name: "1 Тимофейге"
+    slug: "1-timofejge"
+  "2TI":
+    name: "2 Тимофейге"
+    slug: "2-timofejge"
+  "TIT":
+    name: "Титке"
+    slug: "titke"
+  "PHM":
+    name: "Филимонға"
+    slug: "filimonga"
+  "HEB":
+    name: "Еврейлерге"
+    slug: "evrejlerge"
+  "JAS":
+    name: "Иаковтың"
+    slug: "iakovtyn"
+  "1PE":
+    name: "1 Петрның"
+    slug: "1-petrnyn"
+  "2PE":
+    name: "2 Петрның"
+    slug: "2-petrnyn"
+  "1JN":
+    name: "1 Иоанның"
+    slug: "1-ioannyn"
+  "2JN":
+    name: "2 Иоанның"
+    slug: "2-ioannyn"
+  "3JN":
+    name: "3 Иоанның"
+    slug: "3-ioannyn"
+  "JUD":
+    name: "Иуданың"
+    slug: "iudanyn"
+  "REV":
+    name: "Азых чоох"
+    slug: "azyh-cooh"

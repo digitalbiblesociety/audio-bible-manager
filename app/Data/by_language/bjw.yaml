@@ -1,0 +1,83 @@
+language: "bjw"
+books:
+  "MAT":
+    name: "Matiö"
+    slug: "matio"
+  "MRK":
+    name: "Marëkë"
+    slug: "mareke"
+  "LUK":
+    name: "Lukë"
+    slug: "luke"
+  "JHN":
+    name: "Jaan"
+    slug: "jaan"
+  "ACT":
+    name: "Akëtë"
+    slug: "akete"
+  "ROM":
+    name: "Rɔmënyüü"
+    slug: "rmenyuu"
+  "1CO":
+    name: "1 Korɛɛntënyüü"
+    slug: "1-korntenyuu"
+  "2CO":
+    name: "2 Korɛɛntënyüü"
+    slug: "2-korntenyuu"
+  "GAL":
+    name: "Galaatënyüü"
+    slug: "galaatenyuu"
+  "EPH":
+    name: "Ɛfɛsënyüü"
+    slug: "fsenyuu"
+  "PHP":
+    name: "Filipënyüü"
+    slug: "filipenyuu"
+  "COL":
+    name: "Kolɔɔsënyüü"
+    slug: "kolsenyuu"
+  "1TH":
+    name: "1 Tɛsalonikënyüü"
+    slug: "1-tsalonikenyuu"
+  "2TH":
+    name: "2 Tɛsalonikënyüü"
+    slug: "2-tsalonikenyuu"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Titë"
+    slug: "tite"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebröönyüü"
+    slug: "ebroonyuu"
+  "JAS":
+    name: "Jaakë"
+    slug: "jaake"
+  "1PE":
+    name: "1 Piɛɛrë"
+    slug: "1-pire"
+  "2PE":
+    name: "2 Piɛɛrë"
+    slug: "2-pire"
+  "1JN":
+    name: "1 Jaan"
+    slug: "1-jaan"
+  "2JN":
+    name: "2 Jaan"
+    slug: "2-jaan"
+  "3JN":
+    name: "3 Jaan"
+    slug: "3-jaan"
+  "JUD":
+    name: "Judë"
+    slug: "jude"
+  "REV":
+    name: "’Nyügälɩjawii"
+    slug: "nyugaljawii"

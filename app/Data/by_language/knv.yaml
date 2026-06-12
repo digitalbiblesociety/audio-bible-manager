@@ -1,0 +1,83 @@
+language: "knv"
+books:
+  "MAT":
+    name: "Ma꞉tiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Yone"
+    slug: "yone"
+  "ACT":
+    name: "Oel"
+    slug: "oel"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolini"
+    slug: "1-kolini"
+  "2CO":
+    name: "2 Kolini"
+    slug: "2-kolini"
+  "GAL":
+    name: "Galesiya"
+    slug: "galesiya"
+  "EPH":
+    name: "Epesese"
+    slug: "epesese"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Pailimoni"
+    slug: "pailimoni"
+  "HEB":
+    name: "Yunapi"
+    slug: "yunapi"
+  "JAS":
+    name: "Ya꞉i"
+    slug: "yai"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yone"
+    slug: "1-yone"
+  "2JN":
+    name: "2 Yone"
+    slug: "2-yone"
+  "3JN":
+    name: "3 Yone"
+    slug: "3-yone"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Haw"
+    slug: "haw"

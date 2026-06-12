@@ -1,0 +1,83 @@
+language: "iri"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Marrku"
+    slug: "marrku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Re-cwuo Nnenté"
+    slug: "re-cwuo-nnente"
+  "ROM":
+    name: "Nné Rroma"
+    slug: "nne-rroma"
+  "1CO":
+    name: "1 Nné Korrinti"
+    slug: "1-nne-korrinti"
+  "2CO":
+    name: "2 Nné Korrinti"
+    slug: "2-nne-korrinti"
+  "GAL":
+    name: "Nné Galati"
+    slug: "nne-galati"
+  "EPH":
+    name: "Nné Afisa"
+    slug: "nne-afisa"
+  "PHP":
+    name: "Nné Filibi"
+    slug: "nne-filibi"
+  "COL":
+    name: "Nné Kolosi"
+    slug: "nne-kolosi"
+  "1TH":
+    name: "1 Nné Tasalonika"
+    slug: "1-nne-tasalonika"
+  "2TH":
+    name: "2 Nné Tasalonika"
+    slug: "2-nne-tasalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimo"
+    slug: "filimo"
+  "HEB":
+    name: "Nné Ibrrani"
+    slug: "nne-ibrrani"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Revi Yohana"
+    slug: "revi-yohana"

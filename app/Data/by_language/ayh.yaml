@@ -1,0 +1,11 @@
+language: "ayh"
+books:
+  "GEN":
+    name: "التكوين"
+    slug: "altkwyn"
+  "RUT":
+    name: "قصة راعوثة"
+    slug: "qsh-raawthh"
+  "JON":
+    name: "قصة يونس"
+    slug: "qsh-ywns"

@@ -1,0 +1,83 @@
+language: "mcf"
+books:
+  "MAT":
+    name: "Mateyon Dada uaid"
+    slug: "mateyon-dada-uaid"
+  "MRK":
+    name: "Madcosën Dada uaid"
+    slug: "madcosen-dada-uaid"
+  "LUK":
+    name: "Ducasën Dada uaid"
+    slug: "ducasen-dada-uaid"
+  "JHN":
+    name: "Uanën Dada uaid"
+    slug: "uanen-dada-uaid"
+  "ACT":
+    name: "Esus Chuibenequidon Naid"
+    slug: "esus-chuibenequidon-naid"
+  "ROM":
+    name: "Doma yacnocquidon Iste"
+    slug: "doma-yacnocquidon-iste"
+  "1CO":
+    name: "Codinto yacnocquidon Iste 1"
+    slug: "codinto-yacnocquidon-iste-1"
+  "2CO":
+    name: "Codinto yacnocquidon Iste 2"
+    slug: "codinto-yacnocquidon-iste-2"
+  "GAL":
+    name: "Cadasia yacnocquidon Iste"
+    slug: "cadasia-yacnocquidon-iste"
+  "EPH":
+    name: "Epeso yacnocquidon Iste"
+    slug: "epeso-yacnocquidon-iste"
+  "PHP":
+    name: "Pidipos yacnocquidon Iste"
+    slug: "pidipos-yacnocquidon-iste"
+  "COL":
+    name: "Codosas yacnocquidon Iste"
+    slug: "codosas-yacnocquidon-iste"
+  "1TH":
+    name: "Tesadonica yacnocquidon Iste 1"
+    slug: "tesadonica-yacnocquidon-iste-1"
+  "2TH":
+    name: "Tesadonica yacnocquidon Iste 2"
+    slug: "tesadonica-yacnocquidon-iste-2"
+  "1TI":
+    name: "Timoteyon Iste 1"
+    slug: "timoteyon-iste-1"
+  "2TI":
+    name: "Timoteyon Iste 2"
+    slug: "timoteyon-iste-2"
+  "TIT":
+    name: "Titon Iste"
+    slug: "titon-iste"
+  "PHM":
+    name: "Pidemonën Iste"
+    slug: "pidemonen-iste"
+  "HEB":
+    name: "Ebedeyon Isadaidbon Iste"
+    slug: "ebedeyon-isadaidbon-iste"
+  "JAS":
+    name: "Santiacon Dada uaid"
+    slug: "santiacon-dada-uaid"
+  "1PE":
+    name: "Petedon Dada uaid 1"
+    slug: "petedon-dada-uaid-1"
+  "2PE":
+    name: "Petedon Dada uaid 2"
+    slug: "petedon-dada-uaid-2"
+  "1JN":
+    name: "Uanën Dada uaidëmpi 1"
+    slug: "uanen-dada-uaidempi-1"
+  "2JN":
+    name: "Uanën Dada uaidëmpi 2"
+    slug: "uanen-dada-uaidempi-2"
+  "3JN":
+    name: "Uanën Dada uaidëmpi 3"
+    slug: "uanen-dada-uaidempi-3"
+  "JUD":
+    name: "Udasën Dada uaid"
+    slug: "udasen-dada-uaid"
+  "REV":
+    name: "Esusën Uan Ismiaid"
+    slug: "esusen-uan-ismiaid"

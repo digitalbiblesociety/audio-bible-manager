@@ -1,0 +1,266 @@
+language: "rag"
+books:
+  "GEN":
+    name: "Litanga"
+    slug: "litanga"
+    name_toc: "Su'et Paulus Ngen Filemon"
+  "EXO":
+    name: "Kutura"
+    slug: "kutura"
+    name_toc: "Tríto Mojzaskiri Lylvarí (Lievito)"
+  "LEV":
+    name: "Levi"
+    slug: "levi"
+    name_toc: "Štárto Mojzaskiri Lylvarí (Čysly)"
+  "NUM":
+    name: "Livaliza"
+    slug: "livaliza"
+    name_toc: "Pándžto Mojzaskiri Lylvarí (Javír Zakóno)"
+  "DEU":
+    name: "Lizuliza"
+    slug: "lizuliza"
+    name_toc: "Isusóskire Navinoskiri Lylvarí"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Su'et Yohanes De Pertamo"
+  "JDG":
+    name: "Vakalagi"
+    slug: "vakalagi"
+    name_toc: "Su'et Yohanes De Keduai"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Su'et Yohanes De Ketelau"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Su'et Yudas"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Wahyu Ngen Yohanes"
+  "1KI":
+    name: "1 Avami"
+    slug: "1-avami"
+    name_toc: "Sayu njija nëandëkiwe na Matayo"
+  "2KI":
+    name: "2 Avami"
+    slug: "2-avami"
+    name_toc: "Sayu njija mwino ëandëkiwe na Mariko"
+  "1CH":
+    name: "1 Zing'inga"
+    slug: "1-zing-inga"
+    name_toc: "Javír Xronologija (2 Paralipomienono)"
+  "2CH":
+    name: "2 Zing'inga"
+    slug: "2-zing-inga"
+    name_toc: "Jezdraskiri Lylvarí"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+    name_toc: "Ntendo ya Atumami"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Keeti amwa Faulo gwa Arumi"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+    name_toc: "Keeti a mwandyo amwa Faulo gwa Akorinto"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+    name_toc: "Keeti a gavëë amwa Faulo gwa Akorinto"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+    name_toc: "Keeti amwa Faulo gwa Agalatia"
+  "PRO":
+    name: "Zing'ano"
+    slug: "zing-ano"
+    name_toc: "Ekliesiastoskiri Lylvarí"
+  "ECC":
+    name: "Kohelezu"
+    slug: "kohelezu"
+    name_toc: "Giliengiri (Solomonóskiri) Gilý"
+  "SNG":
+    name: "Lwimbu lwa Solomoni"
+    slug: "lwimbu-lwa-solomoni"
+    name_toc: "Keeti amwa Faulo gwa akolosai Akolosai"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Keeti a mwandyo amwa Faulo kunë Atesalonike"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Keeti agavëë amwa Faulo kunë Atesalonike"
+  "LAM":
+    name: "Lisyoma lya Jeremia"
+    slug: "lisyoma-lya-jeremia"
+    name_toc: "Keeti a mwandyo amwa Faulo kunë Timoteo"
+  "EZK":
+    name: "Zacheli"
+    slug: "zacheli"
+    name_toc: "Danijeljoskiri Lylvarí"
+  "DAN":
+    name: "Danyeli"
+    slug: "danyeli"
+    name_toc: "Keeti amwa Faulo kune Tito"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Keeti amwa Faulo kune Filemoni"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+    name_toc: "Keeti gwa Vaeburania"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Keeti amwa Yakobo"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Keeti a mwandyo amwa Fetero"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Keeti a gavëë amwa Fetero"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Keeti amwandyo amwa Yohana"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Keeti a gavëe amwa Yohana"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Keeti a gatatu amwa Yohana"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Keete amwa Yuda"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Zaharijaskiri Lylvarí"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+    name_toc: "Sayu njija nëandëkiwe na Matayo"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Sayu njija mwino ëandëkiwe na Mariko"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Sayu njija mwino në andëkiwe na Luka"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Sayu njija mwino ëandëkiwe na Yohana"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ntendo ya Atumami"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Keeti amwa Faulo gwa Arumi"
+  "ACT":
+    name: "Vikolwa"
+    slug: "vikolwa"
+    name_toc: "Keeti a mwandyo amwa Faulo gwa Akorinto"
+  "ROM":
+    name: "Varumi"
+    slug: "varumi"
+    name_toc: "Keeti a gavëë amwa Faulo gwa Akorinto"
+  "1CO":
+    name: "1 Vakorinzo"
+    slug: "1-vakorinzo"
+    name_toc: "Javír Pavlískiro Lyl Korinfianenge"
+  "2CO":
+    name: "2 Vakorinzo"
+    slug: "2-vakorinzo"
+    name_toc: "Pavlískiro Lyl Galatenge"
+  "GAL":
+    name: "Vagalatia"
+    slug: "vagalatia"
+    name_toc: "Keeti amwa Faulo kunë Afilifi"
+  "EPH":
+    name: "Vafeso"
+    slug: "vafeso"
+    name_toc: "Keeti amwa Faulo gwa akolosai Akolosai"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+    name_toc: "Keeti a mwandyo amwa Faulo kunë Atesalonike"
+  "COL":
+    name: "Vakolosai"
+    slug: "vakolosai"
+    name_toc: "Keeti agavëë amwa Faulo kunë Atesalonike"
+  "1TH":
+    name: "1 Vatesalonike"
+    slug: "1-vatesalonike"
+    name_toc: "Keeti a mwandyo amwa Faulo kunë Timoteo"
+  "2TH":
+    name: "2 Vatesalonike"
+    slug: "2-vatesalonike"
+    name_toc: "Keeti a gavëë amwa Faulo kunë Timoteo"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Keeti amwa Faulo kune Tito"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Keeti amwa Faulo kune Filemoni"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Keeti gwa Vaeburania"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Keeti amwa Yakobo"
+  "HEB":
+    name: "Vahebraina"
+    slug: "vahebraina"
+    name_toc: "Keeti a mwandyo amwa Fetero"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Keeti a gavëë amwa Fetero"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Keeti amwandyo amwa Yohana"
+  "2PE":
+    name: "2  Petro"
+    slug: "2-petro"
+    name_toc: "Keeti a gavëe amwa Yohana"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Keeti a gatatu amwa Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Keete amwa Yuda"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Ukunukuo nëwafewe Yohana Ukunukuo"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "3 Ianoskiro Lyl"
+  "REV":
+    name: "Likunula"
+    slug: "likunula"
+    name_toc: "Pérvo Mojzaskiri Lylvarí (Džiibén)"

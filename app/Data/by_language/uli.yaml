@@ -1,0 +1,83 @@
+language: "uli"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+  "1CO":
+    name: "1 Corinthians"
+    slug: "1-corinthians"
+  "2CO":
+    name: "Corinth"
+    slug: "corinth"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+  "1TH":
+    name: "1 Thessalonians"
+    slug: "1-thessalonians"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "John"
+    slug: "john"
+  "2JN":
+    name: "John"
+    slug: "john"
+  "3JN":
+    name: "John"
+    slug: "john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"

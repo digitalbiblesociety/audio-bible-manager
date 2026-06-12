@@ -1,0 +1,83 @@
+language: "nih"
+books:
+  "MAT":
+    name: "uMataayi"
+    slug: "umataayi"
+  "MRK":
+    name: "uMaaliko"
+    slug: "umaaliko"
+  "LUK":
+    name: "uLuuka"
+    slug: "uluuka"
+  "JHN":
+    name: "uYoohani"
+    slug: "uyoohani"
+  "ACT":
+    name: "iMbombo izya Vhatumwa"
+    slug: "imbombo-izya-vhatumwa"
+  "ROM":
+    name: "aVhaluumi"
+    slug: "avhaluumi"
+  "1CO":
+    name: "1 aVhakolinto"
+    slug: "1-avhakolinto"
+  "2CO":
+    name: "2 aVhakolinto"
+    slug: "2-avhakolinto"
+  "GAL":
+    name: "aVhagalaatiya"
+    slug: "avhagalaatiya"
+  "EPH":
+    name: "aVhahefeeso"
+    slug: "avhahefeeso"
+  "PHP":
+    name: "aVhafiilipi"
+    slug: "avhafiilipi"
+  "COL":
+    name: "aVhakolosaayi"
+    slug: "avhakolosaayi"
+  "1TH":
+    name: "1 aVhatesaloniiki"
+    slug: "1-avhatesaloniiki"
+  "2TH":
+    name: "2 aVhatesaloniiki"
+    slug: "2-avhatesaloniiki"
+  "1TI":
+    name: "1 uTiimoti"
+    slug: "1-utiimoti"
+  "2TI":
+    name: "2 uTiimoti"
+    slug: "2-utiimoti"
+  "TIT":
+    name: "uTiiti"
+    slug: "utiiti"
+  "PHM":
+    name: "uFilimooni"
+    slug: "ufilimooni"
+  "HEB":
+    name: "aVhahebuuli"
+    slug: "avhahebuuli"
+  "JAS":
+    name: "uYaakobu"
+    slug: "uyaakobu"
+  "1PE":
+    name: "1 uPeeteli"
+    slug: "1-upeeteli"
+  "2PE":
+    name: "2 uPeeteli"
+    slug: "2-upeeteli"
+  "1JN":
+    name: "1 uYoohani"
+    slug: "1-uyoohani"
+  "2JN":
+    name: "2 uYoohani"
+    slug: "2-uyoohani"
+  "3JN":
+    name: "3 uYoohani"
+    slug: "3-uyoohani"
+  "JUD":
+    name: "uYuuda"
+    slug: "uyuuda"
+  "REV":
+    name: "iShitushizya"
+    slug: "ishitushizya"

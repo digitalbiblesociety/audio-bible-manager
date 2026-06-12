@@ -1,0 +1,266 @@
+language: "sxn"
+books:
+  "GEN":
+    name: "Karariadi"
+    slug: "karariadi"
+    name_toc: "Barawajeanda Bawlo Ng'oorsa Dito"
+  "EXO":
+    name: "Sasěbang"
+    slug: "sasebang"
+    name_toc: "Surati I Paulus Si Filemon"
+  "LEV":
+    name: "Imamat"
+    slug: "imamat"
+    name_toc: "Barawajeanda Weesa Fuga Ebraniya"
+  "NUM":
+    name: "Pẹ̌tatiạ"
+    slug: "petatia"
+    name_toc: "Surati Yakobus"
+  "DEU":
+    name: "Saukang"
+    slug: "saukang"
+    name_toc: "Barawajeanda Madeeda Bea Betaro"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Surati I Petrus Karuange"
+  "JDG":
+    name: "Mamamonesi"
+    slug: "mamamonesi"
+    name_toc: "Barawajeanda Madeeda Bea Yohana"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Barawajeandeaba Iyeenya Bea Yohana"
+  "1SA":
+    name: "Samuel Humotong"
+    slug: "samuel-humotong"
+    name_toc: "Surati Yohanes Ko Katilunge"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Barawajeanda Ng'waar Yuda"
+  "1KI":
+    name: "Manga Ratu Humotong"
+    slug: "manga-ratu-humotong"
+    name_toc: "Kal᷊al᷊ahe Sarang Koa I Yohanes"
+  "2KI":
+    name: "Manga Ratu Karuane"
+    slug: "manga-ratu-karuane"
+    name_toc: "Giijasta miy ng'warda Mattayo"
+  "1CH":
+    name: "Kararatuang Humotong"
+    slug: "kararatuang-humotong"
+    name_toc: "Giijasta miy ng'warda Marko"
+  "2CH":
+    name: "2 Tawarikh"
+    slug: "2-tawarikh"
+    name_toc: "Luk"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Giijasta miy ng'warda Yohaana"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Gadiyeeda Giijasoodiga"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Barawajeenda Baulo weesa fuga Ruumi"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Barawajeenda madeeda bee Baulo giijasoochcheenda fuga Goriinto"
+  "PSA":
+    name: "Mazmur"
+    slug: "mazmur"
+    name_toc: "2 AŋKɔrenth"
+  "PRO":
+    name: "Sasasa"
+    slug: "sasasa"
+    name_toc: "AŋKȧletia"
+  "ECC":
+    name: "Munanasi"
+    slug: "munanasi"
+    name_toc: "AŋƐfisɔs"
+  "SNG":
+    name: "Samperi Dadalo"
+    slug: "samperi-dadalo"
+    name_toc: "AŋFilipai"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Barawajeenda Baulo weesa fuga Golosaayi"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Barawajeenda madeeda bee Baulo ng'oorsa fuga Desaloniikke"
+  "LAM":
+    name: "Sasangi"
+    slug: "sasangi"
+    name_toc: "2 AŋThɛsȧlonika"
+  "EZK":
+    name: "Yehezkiel"
+    slug: "yehezkiel"
+    name_toc: "Barawajeenda madeeda bee Baulo ng'oorsa fuga Dimotteo"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Barawajeenda iyyeenya bee Baulo ng'oorsa fuga Dimotteo"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Barawajeenda Baulo ng'oorsa Ditto"
+  "JOL":
+    name: "Yoël"
+    slug: "yoel"
+    name_toc: "Barawajeenda Baulo ng'oorsa fuga Filimoon"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Barawajeenda weesa fuga Ebraniya"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "Barawajeenda leebu heeda Yakkobo"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+    name_toc: "Barawajeenda madeeda bee Betro"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Barawajeenda iyyeenya bee Betro"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Barawajeenda madeeda bee Yohaana"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Barawajeenda iyyeenya bee Yohaana"
+  "ZEP":
+    name: "Zepanya"
+    slug: "zepanya"
+    name_toc: "Barawajeendeeba samwagu bee Yohaana"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Baroojeenda ng'waar Yuuda"
+  "ZEC":
+    name: "Zakharia"
+    slug: "zakharia"
+    name_toc: "Giidaheechta Daah Yohaana"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+    name_toc: "Gitaabooda Giing'eeta"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Gitaabooda Riteayda"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Gitaabooda Ng'asheega Lawi"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Gitaabooda Iitooda"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Gitaabooda Giipkeata Diigheanda"
+  "ACT":
+    name: "Rarolohang"
+    slug: "rarolohang"
+    name_toc: "Gitaabooda Yoshuwa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Gitaabooda Fuga Laja Girgweaguutka"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Gitaabooda Ruti"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Gitaabooda Madeeda Bea Samweli"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Gitaabooda Iyeenya Bea Samweli"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Gitaabooda Madeeda Bea Sugoodiga"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Gitaaboodeaba Iyeenya Bea Sugoodiga"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Gitaabooda Madeeda Bea Damanyoojiga"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Gitaaboodeaba Iyeenya Bea Damanyoojiga"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Gitaabooda Esra"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Gitaabooda Nehemiya"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Gitaabooda Esta"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Gitaabooda Ayubu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Gitaabooda Nyiigheega"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Gitaabooda Ghwasiildeanga"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Gitaabooda Reekusiinda"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Gitaabooda Sarmeeda Sulemani"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Gitaabooda Isaya"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Gitaabooda Yeremiya"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Heareega Yeremiya"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Gitaabooda Esekieli"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Gitaabooda Danieli"
+  "REV":
+    name: "Pělal᷊ahẹ"
+    slug: "pelalahe"
+    name_toc: "Gitaabooda Hoseya"

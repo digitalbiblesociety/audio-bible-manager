@@ -1,0 +1,266 @@
+language: "mwq"
+books:
+  "GEN":
+    name: "Atünnak"
+    slug: "atunnak"
+    name_toc: "Atünnak"
+  "EXO":
+    name: "Phyawn Nak"
+    slug: "phyawn-nak"
+    name_toc: "Phyawn Nak"
+  "LEV":
+    name: "Taigüthum"
+    slug: "taiguthum"
+    name_toc: "Taigüthum"
+  "NUM":
+    name: "Khei Nak"
+    slug: "khei-nak"
+    name_toc: "Khei Nak"
+  "DEU":
+    name: "Thulään Nak"
+    slug: "thulaan-nak"
+    name_toc: "Thulään Nak"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Joshua"
+  "JDG":
+    name: "Suki Gui"
+    slug: "suki-gui"
+    name_toc: "Suki Gui"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Ghangpughang Gui"
+    slug: "1-ghangpughang-gui"
+    name_toc: "1 Ghangpughang Gui"
+  "2KI":
+    name: "2 Ghangpughang Gui"
+    slug: "2-ghangpughang-gui"
+    name_toc: "2 Ghangpughang Gui"
+  "1CH":
+    name: "1 Shontäp Nak"
+    slug: "1-shontap-nak"
+    name_toc: "1 Shontäp Nak"
+  "2CH":
+    name: "2 Shontäp Nak"
+    slug: "2-shontap-nak"
+    name_toc: "2 Shontäp Nak"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+    name_toc: "Nehemiah"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+    name_toc: "Sam"
+  "PRO":
+    name: "Ng'thu K'thuuk~"
+    slug: "ng-thu-k-thuuk"
+    name_toc: "Ng'thu K'thuuk"
+  "ECC":
+    name: "Thushäutu"
+    slug: "thushautu"
+    name_toc: "Thushäutu"
+  "SNG":
+    name: "Solomon Ng’ä~"
+    slug: "solomon-nga"
+    name_toc: "Solomon Ng’ä"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+    name_toc: "Isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+    name_toc: "Jeremiah"
+  "LAM":
+    name: "Ng’äi Kyah"
+    slug: "ngai-kyah"
+    name_toc: "Ng’äi Kyah"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+    name_toc: "Obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+    name_toc: "Jonah"
+  "MIC":
+    name: "Mikhah"
+    slug: "mikhah"
+    name_toc: "Mikhah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+    name_toc: "Habakkuk"
+  "ZEP":
+    name: "Zephaniah"
+    slug: "zephaniah"
+    name_toc: "Zephaniah"
+  "HAG":
+    name: "Hakkai"
+    slug: "hakkai"
+    name_toc: "Hakkai"
+  "ZEC":
+    name: "Zekhariah"
+    slug: "zekhariah"
+    name_toc: "Zekhariah"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+    name_toc: "Malakhi"
+  "MAT":
+    name: "Matthe"
+    slug: "matthe"
+    name_toc: "MATTHE AH GUK NG’THU NI The Gospel According to Matthew"
+  "MRK":
+    name: "Makuh"
+    slug: "makuh"
+    name_toc: "MAKUH AH GUK NG’THU NI The Gospel According to Mark"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "LUKA AH GUK NG’THU NI The Gospel According to Luke"
+  "JHN":
+    name: "Johan"
+    slug: "johan"
+    name_toc: "JOHAN AH GUK NG’THU NI The Gospel According to John"
+  "ACT":
+    name: "Lamktu"
+    slug: "lamktu"
+    name_toc: "LAMKTU GUI AH BI BI NAK The Acts of The Apostels"
+  "ROM":
+    name: "Roman"
+    slug: "roman"
+    name_toc: "ROMAN CHANG GUI AM PAUL AH CAGUK Paul’s Letter to The Romans"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+    name_toc: "KORIN CHANG GUI AM PAUL AH CAGUK ATUMATNAK Paul’s First Letter to The Corinthians"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+    name_toc: "KORIN CHANG GUI AM PAUL AH CAGUK AKHNIHNAK Paul’s Second Letter to The Corinthians"
+  "GAL":
+    name: "Kalatian"
+    slug: "kalatian"
+    name_toc: "KALATIAN CHANG GUI AM PAUL AH CAGUK Paul’s Letter to The Galatians"
+  "EPH":
+    name: "Ephesian"
+    slug: "ephesian"
+    name_toc: "EPHESIAN CHANG GUI AM PAUL AH CAGUK Paul’s Letter to The Ephesians"
+  "PHP":
+    name: "Philippian"
+    slug: "philippian"
+    name_toc: "PHILIPPIAN CHANG GUI AM PAUL AH CAGUK Paul’s Letter to The Philippians"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "KOLOSE CHANG GUI-AM PAUL AH CA-GUK Paul’s Letter to The Colossians"
+  "1TH":
+    name: "1 Thessalonian"
+    slug: "1-thessalonian"
+    name_toc: "THESSALONIAN CHANG GUI-AM PAUL AH CAGUK ATUMATNAK Paul’s First Letter to The Thessalonians"
+  "2TH":
+    name: "2 Thessalonian"
+    slug: "2-thessalonian"
+    name_toc: "THESSALONIAN CHANG GUI-AM PAUL AH CAGUK AKHNIHNAK Paul’s Second Letter to The Thessalonians"
+  "1TI":
+    name: "1 Timothi"
+    slug: "1-timothi"
+    name_toc: "TIMOTHI AM PAUL AH CAGUK ATUMATNAK Paul’s First Letter to Timothy"
+  "2TI":
+    name: "2 Timothi"
+    slug: "2-timothi"
+    name_toc: "TIMOTHI AM PAUL AH CAGUK AKHNIHNAK Paul’s Second Letter to Timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "TITUS AM PAUL AH CAGUK Paul’s Letter to Titus"
+  "PHM":
+    name: "Philimon"
+    slug: "philimon"
+    name_toc: "PHILIMON AM PAUL AH CAGUK Paul’s Letter to Philemon"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+    name_toc: "HEBRU CHANG GUI AM CAGUK The Letter to The Hebrews"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "JAMES AH CAGUK The Letter from James"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "PETER AH CAGUK ATUMATNAK The First Letter from Peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "PETER AH CAGUK AKHNIH NAK The Second Letter from Peter"
+  "1JN":
+    name: "1 Johan"
+    slug: "1-johan"
+    name_toc: "JOHAN AH CAGUK ATUMAT NAK The First Letter of John"
+  "2JN":
+    name: "2 Johan"
+    slug: "2-johan"
+    name_toc: "JOHAN AH CAGUK AKHNIH NAK The Second Letter of John"
+  "3JN":
+    name: "3 Johan"
+    slug: "3-johan"
+    name_toc: "JOHAN AH CAGUK AKTHUM NAK The Third Letter of John"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "JUDE AH CAGUK The Letter from Jude"
+  "REV":
+    name: "Thu Phlaan"
+    slug: "thu-phlaan"
+    name_toc: "THU PHLAAN JOHAN AH HMUH The Revelation to John"

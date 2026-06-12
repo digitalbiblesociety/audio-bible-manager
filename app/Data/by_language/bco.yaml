@@ -1,0 +1,35 @@
+language: "bco"
+books:
+  "ACT":
+    name: "Iliga꞉felo꞉"
+    slug: "iligafelo"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2Timoti"
+    slug: "2timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "JAS":
+    name: "Yemes"
+    slug: "yemes"
+  "1JN":
+    name: "1 Yon"
+    slug: "1-yon"
+  "2JN":
+    name: "2 Yon"
+    slug: "2-yon"
+  "3JN":
+    name: "3 Yon"
+    slug: "3-yon"

@@ -1,0 +1,83 @@
+language: "bak"
+books:
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Яхъя"
+    slug: "aha"
+  "ACT":
+    name: "Ғәмәлдәр"
+    slug: "gmldr"
+  "ROM":
+    name: "Римдарға"
+    slug: "rimdarga"
+  "1CO":
+    name: "1 Коринфтарға"
+    slug: "1-korinftarga"
+  "2CO":
+    name: "2 Коринфтарға"
+    slug: "2-korinftarga"
+  "GAL":
+    name: "Галаттарға"
+    slug: "galattarga"
+  "EPH":
+    name: "Ефестарға"
+    slug: "efestarga"
+  "PHP":
+    name: "Филиптарға"
+    slug: "filiptarga"
+  "COL":
+    name: "Колосстарға"
+    slug: "kolosstarga"
+  "1TH":
+    name: "1 Фессалоникаларға"
+    slug: "1-fessalonikalarga"
+  "2TH":
+    name: "2 Фессалоникаларға"
+    slug: "2-fessalonikalarga"
+  "1TI":
+    name: "1 Тимофейға"
+    slug: "1-timofejga"
+  "2TI":
+    name: "2 Тимофейға"
+    slug: "2-timofejga"
+  "TIT":
+    name: "Титҡа"
+    slug: "tita"
+  "PHM":
+    name: "Филимонға"
+    slug: "filimonga"
+  "HEB":
+    name: "Еврейҙарға"
+    slug: "evrejarga"
+  "JAS":
+    name: "Яҡуб"
+    slug: "aub"
+  "1PE":
+    name: "1 Петр"
+    slug: "1-petr"
+  "2PE":
+    name: "2 Петр"
+    slug: "2-petr"
+  "1JN":
+    name: "1 Яхъя"
+    slug: "1-aha"
+  "2JN":
+    name: "2 Яхъя"
+    slug: "2-aha"
+  "3JN":
+    name: "3 Яхъя"
+    slug: "3-aha"
+  "JUD":
+    name: "Йәһүҙә"
+    slug: "jhu"
+  "REV":
+    name: "Асылыш"
+    slug: "asylys"

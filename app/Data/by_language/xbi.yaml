@@ -1,0 +1,14 @@
+language: "xbi"
+books:
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"

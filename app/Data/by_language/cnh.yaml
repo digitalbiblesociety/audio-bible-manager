@@ -1,0 +1,200 @@
+language: "cnh"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Levitikas"
+    slug: "levitikas"
+  "NUM":
+    name: "Nambar"
+    slug: "nambar"
+  "DEU":
+    name: "Deuteronomi"
+    slug: "deuteronomi"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Biaceihtu"
+    slug: "biaceihtu"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Siangpahrang"
+    slug: "1-siangpahrang"
+  "2KI":
+    name: "2 Siangpahrang"
+    slug: "2-siangpahrang"
+  "1CH":
+    name: "1 Chanrelnak"
+    slug: "1-chanrelnak"
+  "2CH":
+    name: "2 Chanrelnak"
+    slug: "2-chanrelnak"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Sâm"
+    slug: "sam"
+  "PRO":
+    name: "Phungthlukbia"
+    slug: "phungthlukbia"
+  "ECC":
+    name: "Phungchimtu"
+    slug: "phungchimtu"
+  "SNG":
+    name: "Solomon Hla"
+    slug: "solomon-hla"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "LAM":
+    name: "Ṭahnak Hla"
+    slug: "tahnak-hla"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Mikah"
+    slug: "mikah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zefaniah"
+    slug: "zefaniah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Zekhariah"
+    slug: "zekhariah"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+  "MAT":
+    name: "Matthai"
+    slug: "matthai"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Act"
+    slug: "act"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Co"
+    slug: "1co"
+  "2CO":
+    name: "2Co"
+    slug: "2co"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1Thesalon"
+    slug: "1thesalon"
+  "2TH":
+    name: "2 Thesalon"
+    slug: "2-thesalon"
+  "1TI":
+    name: "1Timote"
+    slug: "1timote"
+  "2TI":
+    name: "2Timote"
+    slug: "2timote"
+  "TIT":
+    name: "Titas"
+    slug: "titas"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Jeim"
+    slug: "jeim"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1Johan"
+    slug: "1johan"
+  "2JN":
+    name: "2 Johan"
+    slug: "2-johan"
+  "3JN":
+    name: "3 Johan"
+    slug: "3-johan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Biathlam"
+    slug: "biathlam"

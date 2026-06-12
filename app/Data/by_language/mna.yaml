@@ -1,0 +1,101 @@
+language: "mna"
+books:
+  "GEN":
+    name: "Koroŋ Ta Boozomen Un"
+    slug: "koron-ta-boozomen-un"
+  "EXO":
+    name: "Anutu Ikamke Zin Israel"
+    slug: "anutu-ikamke-zin-israel"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "PSA":
+    name: "Mboe"
+    slug: "mboe"
+  "PRO":
+    name: "Sua Tutŋana"
+    slug: "sua-tutnana"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yoan"
+    slug: "yoan"
+  "ACT":
+    name: "Uraata Kizin Ŋgoŋana"
+    slug: "uraata-kizin-ngonana"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Yems"
+    slug: "yems"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yoan"
+    slug: "1-yoan"
+  "2JN":
+    name: "2 Yoan"
+    slug: "2-yoan"
+  "3JN":
+    name: "3 Yoan"
+    slug: "3-yoan"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Sua Turkeŋana"
+    slug: "sua-turkenana"

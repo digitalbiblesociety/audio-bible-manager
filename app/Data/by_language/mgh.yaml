@@ -1,0 +1,89 @@
+language: "mgh"
+books:
+  "GEN":
+    name: "Mphattuwelo"
+    slug: "mphattuwelo"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Namatayo"
+    slug: "namatayo"
+  "MRK":
+    name: "Namako"
+    slug: "namako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Nayohana"
+    slug: "nayohana"
+  "ACT":
+    name: "Mitheko"
+    slug: "mitheko"
+  "ROM":
+    name: "Arumi"
+    slug: "arumi"
+  "1CO":
+    name: "1 Akorintho"
+    slug: "1-akorintho"
+  "2CO":
+    name: "2 Akorintho"
+    slug: "2-akorintho"
+  "GAL":
+    name: "Agalatiya"
+    slug: "agalatiya"
+  "EPH":
+    name: "Attu o Uefeso"
+    slug: "attu-o-uefeso"
+  "PHP":
+    name: "Attu o Ufilipi"
+    slug: "attu-o-ufilipi"
+  "COL":
+    name: "Attu o Ukolosai"
+    slug: "attu-o-ukolosai"
+  "1TH":
+    name: "1 Attu o Uthesalonike"
+    slug: "1-attu-o-uthesalonike"
+  "2TH":
+    name: "2 Attu o Uthesalonike"
+    slug: "2-attu-o-uthesalonike"
+  "1TI":
+    name: "1 Natimotheo"
+    slug: "1-natimotheo"
+  "2TI":
+    name: "2 Natimotheo"
+    slug: "2-natimotheo"
+  "TIT":
+    name: "Natito"
+    slug: "natito"
+  "PHM":
+    name: "Nafilimoni"
+    slug: "nafilimoni"
+  "HEB":
+    name: "Aebraniya"
+    slug: "aebraniya"
+  "JAS":
+    name: "Nayakhobo"
+    slug: "nayakhobo"
+  "1PE":
+    name: "1 Napeturo"
+    slug: "1-napeturo"
+  "2PE":
+    name: "2 Napeturo"
+    slug: "2-napeturo"
+  "1JN":
+    name: "1 Nayohana"
+    slug: "1-nayohana"
+  "2JN":
+    name: "2 Nayohana"
+    slug: "2-nayohana"
+  "3JN":
+    name: "3 Nayohana"
+    slug: "3-nayohana"
+  "JUD":
+    name: "Nayuda"
+    slug: "nayuda"
+  "REV":
+    name: "Upatakulhelhiya"
+    slug: "upatakulhelhiya"

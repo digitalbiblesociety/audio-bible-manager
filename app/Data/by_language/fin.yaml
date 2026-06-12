@@ -1,0 +1,245 @@
+language: "fin"
+books:
+  "GEN":
+    name: "1. Mooseksen kirja"
+    slug: "1-mooseksen-kirja"
+  "EXO":
+    name: "2. Mooseksen kirja"
+    slug: "2-mooseksen-kirja"
+  "LEV":
+    name: "3. Mooseksen kirja"
+    slug: "3-mooseksen-kirja"
+  "NUM":
+    name: "4. Mooseksen kirja"
+    slug: "4-mooseksen-kirja"
+  "DEU":
+    name: "5. Mooseksen kirja"
+    slug: "5-mooseksen-kirja"
+  "JOS":
+    name: "Joosua"
+    slug: "joosua"
+  "JDG":
+    name: "Tuomarien Kirja"
+    slug: "tuomarien-kirja"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1. Samuelin kirja"
+    slug: "1-samuelin-kirja"
+  "2SA":
+    name: "2. Samuelin kirja"
+    slug: "2-samuelin-kirja"
+  "1KI":
+    name: "1. Kuningasten kirja"
+    slug: "1-kuningasten-kirja"
+  "2KI":
+    name: "2. Kuningasten kirja"
+    slug: "2-kuningasten-kirja"
+  "1CH":
+    name: "1. Aikakirja"
+    slug: "1-aikakirja"
+  "2CH":
+    name: "2. Aikakirja"
+    slug: "2-aikakirja"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalmit"
+    slug: "psalmit"
+  "PRO":
+    name: "Sananlaskut"
+    slug: "sananlaskut"
+  "ECC":
+    name: "Saarnaaja"
+    slug: "saarnaaja"
+  "SNG":
+    name: "Korkea veisu"
+    slug: "korkea-veisu"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Valitusvirret"
+    slug: "valitusvirret"
+  "EZK":
+    name: "Hesekiel"
+    slug: "hesekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hoosea"
+    slug: "hoosea"
+  "JOL":
+    name: "Jooel"
+    slug: "jooel"
+  "AMO":
+    name: "Aamos"
+    slug: "aamos"
+  "OBA":
+    name: "Obadja"
+    slug: "obadja"
+  "JON":
+    name: "Joona"
+    slug: "joona"
+  "MIC":
+    name: "Miika"
+    slug: "miika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanja"
+    slug: "sefanja"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sakarja"
+    slug: "sakarja"
+  "MAL":
+    name: "Malakia"
+    slug: "malakia"
+  "TOB":
+    name: "Tobitin kirja"
+    slug: "tobitin-kirja"
+  "JDT":
+    name: "Juditin kirja"
+    slug: "juditin-kirja"
+  "ESG":
+    name: "Kreikkalainen Esterin kirja"
+    slug: "kreikkalainen-esterin-kirja"
+  "WIS":
+    name: "Viisauden kirja"
+    slug: "viisauden-kirja"
+  "SIR":
+    name: "Sirakin kirja"
+    slug: "sirakin-kirja"
+  "BAR":
+    name: "Barukin kirja"
+    slug: "barukin-kirja"
+  "LJE":
+    name: "Jeremian kirje"
+    slug: "jeremian-kirje"
+  "DAG":
+    name: "Danielin kirjan lisäykset"
+    slug: "danielin-kirjan-lisaykset"
+  "1MA":
+    name: "Ensimmäinen makkabilaiskirja"
+    slug: "ensimmainen-makkabilaiskirja"
+  "2MA":
+    name: "Toinen makkabilaiskirja"
+    slug: "toinen-makkabilaiskirja"
+  "3MA":
+    name: "Kolmas makkabilaiskirja"
+    slug: "kolmas-makkabilaiskirja"
+  "4MA":
+    name: "Neljäs makkabilaiskirja"
+    slug: "neljas-makkabilaiskirja"
+  "1ES":
+    name: "Kreikkalainen Esran kirja"
+    slug: "kreikkalainen-esran-kirja"
+  "MAN":
+    name: "Manassen rukous"
+    slug: "manassen-rukous"
+  "PS2":
+    name: "Psalmi 151"
+    slug: "psalmi-151"
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luukas"
+    slug: "luukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Apostolien teot"
+    slug: "apostolien-teot"
+  "ROM":
+    name: "Roomalaiskirje"
+    slug: "roomalaiskirje"
+  "1CO":
+    name: "1. Korinttilaiskirje"
+    slug: "1-korinttilaiskirje"
+  "2CO":
+    name: "2. Korinttilaiskirje"
+    slug: "2-korinttilaiskirje"
+  "GAL":
+    name: "Galatalaiskirje"
+    slug: "galatalaiskirje"
+  "EPH":
+    name: "Efesolaiskirje"
+    slug: "efesolaiskirje"
+  "PHP":
+    name: "Filippiläiskirje"
+    slug: "filippilaiskirje"
+  "COL":
+    name: "Kolossalaiskirje"
+    slug: "kolossalaiskirje"
+  "1TH":
+    name: "1. Tessalonikalaiskirje"
+    slug: "1-tessalonikalaiskirje"
+  "2TH":
+    name: "2. Tessalonikalaiskirje"
+    slug: "2-tessalonikalaiskirje"
+  "1TI":
+    name: "1. Timoteuskirje"
+    slug: "1-timoteuskirje"
+  "2TI":
+    name: "2. Timoteuskirje"
+    slug: "2-timoteuskirje"
+  "TIT":
+    name: "Tituskirje"
+    slug: "tituskirje"
+  "PHM":
+    name: "Filemonkirje"
+    slug: "filemonkirje"
+  "HEB":
+    name: "Heprealaiskirje"
+    slug: "heprealaiskirje"
+  "JAS":
+    name: "Jaakobin kirje"
+    slug: "jaakobin-kirje"
+  "1PE":
+    name: "1. Pietarin kirje"
+    slug: "1-pietarin-kirje"
+  "2PE":
+    name: "2. Pietarin kirje"
+    slug: "2-pietarin-kirje"
+  "1JN":
+    name: "1. Johanneksen kirje"
+    slug: "1-johanneksen-kirje"
+  "2JN":
+    name: "2. Johanneksen kirje"
+    slug: "2-johanneksen-kirje"
+  "3JN":
+    name: "3. Johanneksen kirje"
+    slug: "3-johanneksen-kirje"
+  "JUD":
+    name: "Juudaksen kirje"
+    slug: "juudaksen-kirje"
+  "REV":
+    name: "Ilmestyskirja"
+    slug: "ilmestyskirja"

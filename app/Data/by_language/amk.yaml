@@ -1,0 +1,83 @@
+language: "amk"
+books:
+  "MAT":
+    name: "Matiusi"
+    slug: "matiusi"
+  "MRK":
+    name: "Markusi"
+    slug: "markusi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Yohanesi"
+    slug: "yohanesi"
+  "ACT":
+    name: "Rasuli"
+    slug: "rasuli"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintusi"
+    slug: "1-korintusi"
+  "2CO":
+    name: "2 Korintusi"
+    slug: "2-korintusi"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efesusi"
+    slug: "efesusi"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotiusi"
+    slug: "1-timotiusi"
+  "2TI":
+    name: "2 Timotiusi"
+    slug: "2-timotiusi"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Iberani"
+    slug: "iberani"
+  "JAS":
+    name: "Yakobusi"
+    slug: "yakobusi"
+  "1PE":
+    name: "1 Petrusi"
+    slug: "1-petrusi"
+  "2PE":
+    name: "2 Petrusi"
+    slug: "2-petrusi"
+  "1JN":
+    name: "1 Yohanesi"
+    slug: "1-yohanesi"
+  "2JN":
+    name: "2 Yohanesi"
+    slug: "2-yohanesi"
+  "3JN":
+    name: "3 Yohanesi"
+    slug: "3-yohanesi"
+  "JUD":
+    name: "Yudasi"
+    slug: "yudasi"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"

@@ -1,0 +1,110 @@
+language: "mfq"
+books:
+  "MAT":
+    name: "Mɑɑtieo"
+    slug: "mtieo"
+    name_toc: "Lɑbɑmɑnn nbɑ k Mɑɑtieo diɑn"
+  "MRK":
+    name: "Mɑɑlk"
+    slug: "mlk"
+    name_toc: "Lɑbɑmɑnn nbɑ k Mɑɑlk diɑn"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Lɑbɑmɑnn nbɑ k Luk diɑn"
+  "JHN":
+    name: "Sɑn"
+    slug: "sn"
+    name_toc: "Lɑbɑmɑnn nbɑ k Sɑn diɑn"
+  "ACT":
+    name: "Tuonɑ"
+    slug: "tuon"
+    name_toc: "Tuonɑ"
+  "ROM":
+    name: "Luonmtieb"
+    slug: "luonmtieb"
+    name_toc: "Luonmtieb kɑdɑɑɔk"
+  "1CO":
+    name: "1 Kuolent-tieb"
+    slug: "1-kuolent-tieb"
+    name_toc: "Kuolent-tieb kɑdɑsinsinn"
+  "2CO":
+    name: "2 Kuolent-tieb"
+    slug: "2-kuolent-tieb"
+    name_toc: "Kuolent-tieb kɑdɑɑɔk nbɑ pukn ŋɑnle"
+  "GAL":
+    name: "Gɑɑlɑɑt-tieb"
+    slug: "glt-tieb"
+    name_toc: "Gɑɑlɑɑtitieb kɑdɑɑɔk"
+  "EPH":
+    name: "Efestieb"
+    slug: "efestieb"
+    name_toc: "Efestieb kɑdɑɑɔk"
+  "PHP":
+    name: "Fiiliiptieb"
+    slug: "fiiliiptieb"
+    name_toc: "Fiiliiptieb kɑdɑɑɔk"
+  "COL":
+    name: "Kuoluostieb"
+    slug: "kuoluostieb"
+    name_toc: "Kuoluostieb kɑdɑɑɔk"
+  "1TH":
+    name: "1 Tesɑɑluoniiktieb"
+    slug: "1-tesluoniiktieb"
+    name_toc: "Tesɑɑluoniiktieb kɑdɑsinsinn"
+  "2TH":
+    name: "2 Tesɑɑluoniiktieb"
+    slug: "2-tesluoniiktieb"
+    name_toc: "Tesɑɑluoniiktieb kɑdɑɑɔk nbɑ pukn ŋɑnle"
+  "1TI":
+    name: "1 Tiimuote"
+    slug: "1-tiimuote"
+    name_toc: "Tiimuote kɑdɑsinsinn"
+  "2TI":
+    name: "2 Tiimuote"
+    slug: "2-tiimuote"
+    name_toc: "Tiimuote kɑdɑɑɔk nbɑ pukn ŋɑnle"
+  "TIT":
+    name: "Tiit"
+    slug: "tiit"
+    name_toc: "Tiit kɑdɑɑɔk"
+  "PHM":
+    name: "Fiilemɔn"
+    slug: "fiilemn"
+    name_toc: "Fiilemɔn kɑdɑɑɔk"
+  "HEB":
+    name: "Hebluonbɑ"
+    slug: "hebluonb"
+    name_toc: "Hebluonbɑ kɑdɑɑɔk"
+  "JAS":
+    name: "Sɑɑk"
+    slug: "sk"
+    name_toc: "Sɑɑk kɑdɑɑɔk"
+  "1PE":
+    name: "1 Piɑl"
+    slug: "1-pil"
+    name_toc: "Piɑl kɑdɑsinsinn"
+  "2PE":
+    name: "2 Piɑl"
+    slug: "2-pil"
+    name_toc: "Piɑl kɑdɑɑɔk nbɑ pukn ŋɑnle"
+  "1JN":
+    name: "1 Sɑn"
+    slug: "1-sn"
+    name_toc: "Sɑn kɑdɑsinsinn"
+  "2JN":
+    name: "2 Sɑn"
+    slug: "2-sn"
+    name_toc: "Sɑn kɑdɑɑɔk nbɑ pukn ŋɑnle"
+  "3JN":
+    name: "3 Sɑn"
+    slug: "3-sn"
+    name_toc: "Sɑn kɑdɑɑɔk nbɑ pukn ŋɑntɑ"
+  "JUD":
+    name: "Suud"
+    slug: "suud"
+    name_toc: "Suud kɑdɑɑɔk"
+  "REV":
+    name: "Fiitu"
+    slug: "fiitu"
+    name_toc: "Fiitu kɑdɑɑɔk"

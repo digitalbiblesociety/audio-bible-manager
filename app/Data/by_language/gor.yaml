@@ -1,0 +1,200 @@
+language: "gor"
+books:
+  "GEN":
+    name: "Iloowali"
+    slug: "iloowali"
+  "EXO":
+    name: "Pilotimua̒ta"
+    slug: "pilotimuata"
+  "LEV":
+    name: "Imaamati"
+    slug: "imaamati"
+  "NUM":
+    name: "Yia̒apo"
+    slug: "yiaapo"
+  "DEU":
+    name: "Tinguli"
+    slug: "tinguli"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Mongo Hakimu"
+    slug: "mongo-hakimu"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Bohulo Semuel"
+    slug: "bohulo-semuel"
+  "2SA":
+    name: "Oluo Lo Samuel"
+    slug: "oluo-lo-samuel"
+  "1KI":
+    name: "Bohulo Mongo Olongia"
+    slug: "bohulo-mongo-olongia"
+  "2KI":
+    name: "Oluo Mongo Olongia"
+    slug: "oluo-mongo-olongia"
+  "1CH":
+    name: "Bohulo Tawari"
+    slug: "bohulo-tawari"
+  "2CH":
+    name: "Oluo Tawari"
+    slug: "oluo-tawari"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Jaburu"
+    slug: "jaburu"
+  "PRO":
+    name: "Pohumaya"
+    slug: "pohumaya"
+  "ECC":
+    name: "Tamoo-hutubawa"
+    slug: "tamoo-hutubawa"
+  "SNG":
+    name: "Lahu Molamahu"
+    slug: "lahu-molamahu"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Hiyongo Mopoilaalo Suusa"
+    slug: "hiyongo-mopoilaalo-suusa"
+  "EZK":
+    name: "Yeheskiel"
+    slug: "yeheskiel"
+  "DAN":
+    name: "Daniali"
+    slug: "daniali"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+  "JON":
+    name: "Yunu"
+    slug: "yunu"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+  "ZEP":
+    name: "Jepanya"
+    slug: "jepanya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Jakaria"
+    slug: "jakaria"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+  "MAT":
+    name: "Matiusi"
+    slug: "matiusi"
+  "MRK":
+    name: "Markusi"
+    slug: "markusi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Yahya"
+    slug: "yahya"
+  "ACT":
+    name: "Wungguli Lomongo Rasulu"
+    slug: "wungguli-lomongo-rasulu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yahya"
+    slug: "1-yahya"
+  "2JN":
+    name: "2 Yahya"
+    slug: "2-yahya"
+  "3JN":
+    name: "3 Yahya"
+    slug: "3-yahya"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Wahi"
+    slug: "wahi"

@@ -1,0 +1,62 @@
+language: "ked"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Ebikorwa"
+    slug: "ebikorwa"
+  "1CO":
+    name: "1 Ha Banakorinti"
+    slug: "1-ha-banakorinti"
+  "2CO":
+    name: "2 Ha Banakorinti"
+    slug: "2-ha-banakorinti"
+  "GAL":
+    name: "Ha Banagalata"
+    slug: "ha-banagalata"
+  "EPH":
+    name: "Ha Banefwezi"
+    slug: "ha-banefwezi"
+  "COL":
+    name: "Ha Banakolose"
+    slug: "ha-banakolose"
+  "1TH":
+    name: "1 Ha BanaTesalonika"
+    slug: "1-ha-banatesalonika"
+  "2TH":
+    name: "2 Ha BanaTesalonika"
+    slug: "2-ha-banatesalonika"
+  "1TI":
+    name: "1 Hali Timote"
+    slug: "1-hali-timote"
+  "2TI":
+    name: "2 Hali Timote"
+    slug: "2-hali-timote"
+  "HEB":
+    name: "Ha Bahebrei"
+    slug: "ha-bahebrei"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yude"
+    slug: "yude"

@@ -1,0 +1,200 @@
+language: "dtp"
+books:
+  "GEN":
+    name: "Kinawansayan"
+    slug: "kinawansayan"
+  "EXO":
+    name: "Kinosoliwanan"
+    slug: "kinosoliwanan"
+  "LEV":
+    name: "Oturan"
+    slug: "oturan"
+  "NUM":
+    name: "Pongintaban"
+    slug: "pongintaban"
+  "DEU":
+    name: "Ponugutan"
+    slug: "ponugutan"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Gompomutus"
+    slug: "gompomutus"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Somuil"
+    slug: "1-somuil"
+  "2SA":
+    name: "2 Somuil"
+    slug: "2-somuil"
+  "1KI":
+    name: "1 Raja'"
+    slug: "1-raja"
+  "2KI":
+    name: "2 Raja'"
+    slug: "2-raja"
+  "1CH":
+    name: "1 Susui"
+    slug: "1-susui"
+  "2CH":
+    name: "2 Susui"
+    slug: "2-susui"
+  "EZR":
+    name: "Isra"
+    slug: "isra"
+  "NEH":
+    name: "Nohomia"
+    slug: "nohomia"
+  "EST":
+    name: "Isto"
+    slug: "isto"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+  "PSA":
+    name: "Sinding"
+    slug: "sinding"
+  "PRO":
+    name: "Boros Dot Aralom"
+    slug: "boros-dot-aralom"
+  "ECC":
+    name: "Gomponuduk"
+    slug: "gomponuduk"
+  "SNG":
+    name: "Sinding Dit Abantug"
+    slug: "sinding-dit-abantug"
+  "ISA":
+    name: "Yosaya"
+    slug: "yosaya"
+  "JER":
+    name: "Yoromia"
+    slug: "yoromia"
+  "LAM":
+    name: "Koihadan"
+    slug: "koihadan"
+  "EZK":
+    name: "Yohoskiol"
+    slug: "yohoskiol"
+  "DAN":
+    name: "Daniol"
+    slug: "daniol"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+  "JOL":
+    name: "Yoil"
+    slug: "yoil"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sipania"
+    slug: "sipania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAL":
+    name: "Maliaki"
+    slug: "maliaki"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanis"
+    slug: "yohanis"
+  "ACT":
+    name: "Winonsoi Di Rasu"
+    slug: "winonsoi-di-rasu"
+  "ROM":
+    name: "Rum"
+    slug: "rum"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Iposus"
+    slug: "iposus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tosolunika"
+    slug: "1-tosolunika"
+  "2TH":
+    name: "2 Tosolunika"
+    slug: "2-tosolunika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Pitrus"
+    slug: "1-pitrus"
+  "2PE":
+    name: "2 Pitrus"
+    slug: "2-pitrus"
+  "1JN":
+    name: "1 Yohanis"
+    slug: "1-yohanis"
+  "2JN":
+    name: "2 Yohanis"
+    slug: "2-yohanis"
+  "3JN":
+    name: "3 Yohanis"
+    slug: "3-yohanis"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Pinointalang"
+    slug: "pinointalang"

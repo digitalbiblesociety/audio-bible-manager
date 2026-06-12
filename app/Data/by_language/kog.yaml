@@ -1,0 +1,83 @@
+language: "kog"
+books:
+  "MAT":
+    name: "Mateyu"
+    slug: "mateyu"
+  "MRK":
+    name: "Malku"
+    slug: "malku"
+  "LUK":
+    name: "Alduka"
+    slug: "alduka"
+  "JHN":
+    name: "Juañ"
+    slug: "juan"
+  "ACT":
+    name: "Ajanashatone"
+    slug: "ajanashatone"
+  "ROM":
+    name: "Aldumaxa"
+    slug: "aldumaxa"
+  "1CO":
+    name: "1 Kuldintuxa"
+    slug: "1-kuldintuxa"
+  "2CO":
+    name: "2 Kuldintuxa"
+    slug: "2-kuldintuxa"
+  "GAL":
+    name: "Galdasiaxa"
+    slug: "galdasiaxa"
+  "EPH":
+    name: "Epesuxa"
+    slug: "epesuxa"
+  "PHP":
+    name: "Pildipuxa"
+    slug: "pildipuxa"
+  "COL":
+    name: "Kuldusaxa"
+    slug: "kuldusaxa"
+  "1TH":
+    name: "1 Tesaldónikaxa"
+    slug: "1-tesaldonikaxa"
+  "2TH":
+    name: "2 Tesaldónikaxa"
+    slug: "2-tesaldonikaxa"
+  "1TI":
+    name: "1 Timuteyu"
+    slug: "1-timuteyu"
+  "2TI":
+    name: "2 Timuteyu"
+    slug: "2-timuteyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pildimóñ"
+    slug: "pildimon"
+  "HEB":
+    name: "Ebeldeyu"
+    slug: "ebeldeyu"
+  "JAS":
+    name: "Santiaku"
+    slug: "santiaku"
+  "1PE":
+    name: "1 Péguldu"
+    slug: "1-peguldu"
+  "2PE":
+    name: "2 Péguldu"
+    slug: "2-peguldu"
+  "1JN":
+    name: "1 Juañ"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juañ"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juañ"
+    slug: "3-juan"
+  "JUD":
+    name: "Judá"
+    slug: "juda"
+  "REV":
+    name: "Auxa zexaldixa"
+    slug: "auxa-zexaldixa"

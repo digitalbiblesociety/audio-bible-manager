@@ -1,0 +1,83 @@
+language: "ife"
+books:
+  "MAT":
+    name: "Màtéwò"
+    slug: "matewo"
+  "MRK":
+    name: "Mákò"
+    slug: "mako"
+  "LUK":
+    name: "Lúkà"
+    slug: "luka"
+  "JHN":
+    name: "Yòhánà"
+    slug: "yohana"
+  "ACT":
+    name: "Itsɛ́"
+    slug: "its"
+  "ROM":
+    name: "Rómà ŋa"
+    slug: "roma-na"
+  "1CO":
+    name: "1 Kòríntì ŋa"
+    slug: "1-korinti-na"
+  "2CO":
+    name: "2 Kòríntì ŋa"
+    slug: "2-korinti-na"
+  "GAL":
+    name: "Gàlátì ŋa"
+    slug: "galati-na"
+  "EPH":
+    name: "Èfɛ́sì ŋa"
+    slug: "efsi-na"
+  "PHP":
+    name: "Fìlíkpò ŋa"
+    slug: "filikpo-na"
+  "COL":
+    name: "Kòlósì ŋa"
+    slug: "kolosi-na"
+  "1TH":
+    name: "1 Tɛ̀sàlòníkì ŋa"
+    slug: "1-tsaloniki-na"
+  "2TH":
+    name: "2 Tɛ̀sàlòníkì ŋa"
+    slug: "2-tsaloniki-na"
+  "1TI":
+    name: "1 Tìmɔ̀té"
+    slug: "1-timte"
+  "2TI":
+    name: "2 Tìmɔ̀té"
+    slug: "2-timte"
+  "TIT":
+    name: "Títò"
+    slug: "tito"
+  "PHM":
+    name: "Fìlèmɔ́nì"
+    slug: "filemni"
+  "HEB":
+    name: "Hèbérù ŋa"
+    slug: "heberu-na"
+  "JAS":
+    name: "Yàkúbù"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Òkúta"
+    slug: "1-okuta"
+  "2PE":
+    name: "2 Òkúta"
+    slug: "2-okuta"
+  "1JN":
+    name: "1 Yòhánà"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yòhánà"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yòhánà"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yúɖà"
+    slug: "yua"
+  "REV":
+    name: "Ànyàŋà"
+    slug: "anyana"

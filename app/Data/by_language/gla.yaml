@@ -1,0 +1,20 @@
+language: "gla"
+books:
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MAT":
+    name: "Noo Mian"
+    slug: "noo-mian"
+  "MRK":
+    name: "Noo Mark"
+    slug: "noo-mark"
+  "LUK":
+    name: "Noo Luke"
+    slug: "noo-luke"
+  "JHN":
+    name: "Noo Ean"
+    slug: "noo-ean"

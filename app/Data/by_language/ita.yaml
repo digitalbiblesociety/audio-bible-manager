@@ -1,0 +1,200 @@
+language: "ita"
+books:
+  "GEN":
+    name: "Genesi"
+    slug: "genesi"
+  "EXO":
+    name: "Esodo"
+    slug: "esodo"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Giosué"
+    slug: "giosue"
+  "JDG":
+    name: "Giudici"
+    slug: "giudici"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+  "1KI":
+    name: "1 Re"
+    slug: "1-re"
+  "2KI":
+    name: "2 Re"
+    slug: "2-re"
+  "1CH":
+    name: "1 Cronache"
+    slug: "1-cronache"
+  "2CH":
+    name: "2 Cronache"
+    slug: "2-cronache"
+  "EZR":
+    name: "Esdra"
+    slug: "esdra"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Giobbe"
+    slug: "giobbe"
+  "PSA":
+    name: "Salmi"
+    slug: "salmi"
+  "PRO":
+    name: "Proverbi"
+    slug: "proverbi"
+  "ECC":
+    name: "Ecclesiaste"
+    slug: "ecclesiaste"
+  "SNG":
+    name: "Cantico dei Cantici"
+    slug: "cantico-dei-cantici"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Geremia"
+    slug: "geremia"
+  "LAM":
+    name: "Lamentazioni"
+    slug: "lamentazioni"
+  "EZK":
+    name: "Ezechiele"
+    slug: "ezechiele"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "JOL":
+    name: "Gioele"
+    slug: "gioele"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdia"
+    slug: "abdia"
+  "JON":
+    name: "Giona"
+    slug: "giona"
+  "MIC":
+    name: "Michea"
+    slug: "michea"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Abacuc"
+    slug: "abacuc"
+  "ZEP":
+    name: "Sofonia"
+    slug: "sofonia"
+  "HAG":
+    name: "Aggeo"
+    slug: "aggeo"
+  "ZEC":
+    name: "Zaccaria"
+    slug: "zaccaria"
+  "MAL":
+    name: "Malachia"
+    slug: "malachia"
+  "MAT":
+    name: "Matteo"
+    slug: "matteo"
+  "MRK":
+    name: "Marco"
+    slug: "marco"
+  "LUK":
+    name: "Luca"
+    slug: "luca"
+  "JHN":
+    name: "Giovanni"
+    slug: "giovanni"
+  "ACT":
+    name: "Atti"
+    slug: "atti"
+  "ROM":
+    name: "Romani"
+    slug: "romani"
+  "1CO":
+    name: "1 Corinzi"
+    slug: "1-corinzi"
+  "2CO":
+    name: "2 Corinzi"
+    slug: "2-corinzi"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efesini"
+    slug: "efesini"
+  "PHP":
+    name: "Filippesi"
+    slug: "filippesi"
+  "COL":
+    name: "Colossesi"
+    slug: "colossesi"
+  "1TH":
+    name: "1 Tessalonicesi"
+    slug: "1-tessalonicesi"
+  "2TH":
+    name: "2 Tessalonicesi"
+    slug: "2-tessalonicesi"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemone"
+    slug: "filemone"
+  "HEB":
+    name: "Ebrei"
+    slug: "ebrei"
+  "JAS":
+    name: "Giacomo"
+    slug: "giacomo"
+  "1PE":
+    name: "1 Pietro"
+    slug: "1-pietro"
+  "2PE":
+    name: "2 Pietro"
+    slug: "2-pietro"
+  "1JN":
+    name: "1 Giovanni"
+    slug: "1-giovanni"
+  "2JN":
+    name: "2 Giovanni"
+    slug: "2-giovanni"
+  "3JN":
+    name: "3 Giovanni"
+    slug: "3-giovanni"
+  "JUD":
+    name: "Giuda"
+    slug: "giuda"
+  "REV":
+    name: "Apocalisse"
+    slug: "apocalisse"

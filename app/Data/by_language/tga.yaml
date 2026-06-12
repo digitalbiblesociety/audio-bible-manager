@@ -1,0 +1,110 @@
+language: "tga"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "ትንቢት ኢዩኤል"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "ትንቢት ኣሞፅ"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "ትንቢት ኣብድዩ"
+  "JHN":
+    name: "Johana"
+    slug: "johana"
+    name_toc: "ትንቢት ዮናስ"
+  "ACT":
+    name: "Madeo"
+    slug: "madeo"
+    name_toc: "ትንቢት ሚክያስ"
+  "ROM":
+    name: "Waroma"
+    slug: "waroma"
+    name_toc: "ትንቢት ናሆም"
+  "1CO":
+    name: "1 Wakorintho"
+    slug: "1-wakorintho"
+    name_toc: "ትንቢት እንባቆም"
+  "2CO":
+    name: "2 Wakorintho"
+    slug: "2-wakorintho"
+    name_toc: "ትንቢት ሶፎንያስ"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+    name_toc: "ትንቢት ሓጌ"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "ትንቢት ዘካርያስ"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "ትንቢት ሚልክያስ"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+    name_toc: "ወንጌል ማቴዎስ"
+  "1TH":
+    name: "1 Wathesaloke"
+    slug: "1-wathesaloke"
+    name_toc: "ወንጌል ማርቆስ"
+  "2TH":
+    name: "2 Wathesaloke"
+    slug: "2-wathesaloke"
+    name_toc: "ወንጌል ሉቃስ"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+    name_toc: "ወንጌል ዮሃንስ"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+    name_toc: "ግብሪ ሃዋርያት"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ሰብ ሮሜ"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "1ይ መልእኽቲ ጳውሎስ ናብ ሰብ ቆሮንቶስ"
+  "HEB":
+    name: "Wahebrania"
+    slug: "wahebrania"
+    name_toc: "2ይ መልእኽቲ ጳውሎስ ናብ ሰብ ቆሮንቶስ"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ሰብ ገላትያ"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ሰብ ኤፌሶን"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ሰብ ፊልጵስዩስ"
+  "1JN":
+    name: "1 Johana"
+    slug: "1-johana"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ሰብ ቈላስይስ"
+  "2JN":
+    name: "2 Johana"
+    slug: "2-johana"
+    name_toc: "1ይ መልእኽቲ ጳውሎስ ናብ ሰብ ተሰሎንቄ"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+    name_toc: "2ይ መልእኽቲ ጳውሎስ ናብ ሰብ ተሰሎንቄ"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "1ይ መልእኽቲ ጳውሎስ ናብ ጢሞቴዎስ"
+  "REV":
+    name: "Ufunuo"
+    slug: "ufunuo"
+    name_toc: "2ይ መልእኽቲ ጳውሎስ ናብ ጢሞቴዎስ"

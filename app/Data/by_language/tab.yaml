@@ -1,0 +1,83 @@
+language: "tab"
+books:
+  "MAT":
+    name: "Матта"
+    slug: "matta"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Югьан"
+    slug: "ugan"
+  "ACT":
+    name: "Ляхнар"
+    slug: "lahnar"
+  "ROM":
+    name: "Рим"
+    slug: "rim"
+  "1CO":
+    name: "Коринф-1"
+    slug: "korinf-1"
+  "2CO":
+    name: "Коринф-2"
+    slug: "korinf-2"
+  "GAL":
+    name: "Галат"
+    slug: "galat"
+  "EPH":
+    name: "Эфес"
+    slug: "efes"
+  "PHP":
+    name: "Филипп"
+    slug: "filipp"
+  "COL":
+    name: "Колосс"
+    slug: "koloss"
+  "1TH":
+    name: "Фессалоник-1"
+    slug: "fessalonik-1"
+  "2TH":
+    name: "Фессалоник-2"
+    slug: "fessalonik-2"
+  "1TI":
+    name: "Тимофейиз-1"
+    slug: "timofejiz-1"
+  "2TI":
+    name: "Тимофейиз-2"
+    slug: "timofejiz-2"
+  "TIT":
+    name: "Титдиз"
+    slug: "titdiz"
+  "PHM":
+    name: "Филимондиз"
+    slug: "filimondiz"
+  "HEB":
+    name: "Жугьдариз"
+    slug: "zugdariz"
+  "JAS":
+    name: "Якьубдин"
+    slug: "akubdin"
+  "1PE":
+    name: "Петрин-1"
+    slug: "petrin-1"
+  "2PE":
+    name: "Петрин-2"
+    slug: "petrin-2"
+  "1JN":
+    name: "Югьандин-1"
+    slug: "ugandin-1"
+  "2JN":
+    name: "Югьандин-2"
+    slug: "ugandin-2"
+  "3JN":
+    name: "Югьандин-3"
+    slug: "ugandin-3"
+  "JUD":
+    name: "Ягьудайин"
+    slug: "agudajin"
+  "REV":
+    name: "Ачмиш"
+    slug: "acmis"

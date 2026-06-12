@@ -1,0 +1,122 @@
+language: "eka"
+books:
+  "GEN":
+    name: "Mbomannahb"
+    slug: "mbomannahb"
+  "DEU":
+    name: "Elkahn"
+    slug: "elkahn"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Abalamalam"
+    slug: "abalamalam"
+  "RUT":
+    name: "Rod"
+    slug: "rod"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+  "2SA":
+    name: "2 Samwel"
+    slug: "2-samwel"
+  "1KI":
+    name: "1 Atul"
+    slug: "1-atul"
+  "1CH":
+    name: "1 Aka Abuumu"
+    slug: "1-aka-abuumu"
+  "EZR":
+    name: "Ejira"
+    slug: "ejira"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+  "EST":
+    name: "Est"
+    slug: "est"
+  "ECC":
+    name: "Eltibi"
+    slug: "eltibi"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Eltum"
+    slug: "eltum"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galesa"
+    slug: "galesa"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Failimon"
+    slug: "failimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Ellennge"
+    slug: "ellennge"

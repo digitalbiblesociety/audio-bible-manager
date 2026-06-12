@@ -1,0 +1,95 @@
+language: "nog"
+books:
+  "GEN":
+    name: "Яратылув"
+    slug: "aratyluv"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "EST":
+    name: "Эстер"
+    slug: "ester"
+  "JON":
+    name: "Юнус"
+    slug: "unus"
+  "MAT":
+    name: "Матай"
+    slug: "mataj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Яхья"
+    slug: "aha"
+  "ACT":
+    name: "Элшилердинъ Ислери"
+    slug: "elsilerdin-isleri"
+  "ROM":
+    name: "Урымшылар"
+    slug: "urymsylar"
+  "1CO":
+    name: "1 Коринтшилер"
+    slug: "1-korintsiler"
+  "2CO":
+    name: "2 Коринтшилер"
+    slug: "2-korintsiler"
+  "GAL":
+    name: "Галатияшылар"
+    slug: "galatiasylar"
+  "EPH":
+    name: "Эфесшилер"
+    slug: "efessiler"
+  "PHP":
+    name: "Пилипшилер"
+    slug: "pilipsiler"
+  "COL":
+    name: "Колосшылар"
+    slug: "kolossylar"
+  "1TH":
+    name: "1 Салоникшилер"
+    slug: "1-saloniksiler"
+  "2TH":
+    name: "2 Салоникшилер"
+    slug: "2-saloniksiler"
+  "1TI":
+    name: "1 Тимотей"
+    slug: "1-timotej"
+  "2TI":
+    name: "2 Тимотей"
+    slug: "2-timotej"
+  "TIT":
+    name: "Тит"
+    slug: "tit"
+  "PHM":
+    name: "Пилимон"
+    slug: "pilimon"
+  "HEB":
+    name: "Ювытлар"
+    slug: "uvytlar"
+  "JAS":
+    name: "Якуп"
+    slug: "akup"
+  "1PE":
+    name: "1 Петер"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Петер"
+    slug: "2-peter"
+  "1JN":
+    name: "1 Яхъя"
+    slug: "1-aha"
+  "2JN":
+    name: "2 Яхъя"
+    slug: "2-aha"
+  "3JN":
+    name: "3 Яхъя"
+    slug: "3-aha"
+  "JUD":
+    name: "Юда"
+    slug: "uda"
+  "REV":
+    name: "Ашылув"
+    slug: "asyluv"

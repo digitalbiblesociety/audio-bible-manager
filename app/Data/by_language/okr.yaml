@@ -1,0 +1,266 @@
+language: "okr"
+books:
+  "GEN":
+    name: "Chukusakị"
+    slug: "chukusaki"
+    name_toc: "Chukusakị"
+  "EXO":
+    name: "Pakaso"
+    slug: "pakaso"
+    name_toc: "Pakaso"
+  "LEV":
+    name: "Agbamịẹ Apụ"
+    slug: "agbamie-apu"
+    name_toc: "Agbamịẹ Apụ"
+  "NUM":
+    name: "Kịẹnḅịpị Ma"
+    slug: "kienbipi-ma"
+    name_toc: "Kịẹnḅịpị Ma"
+  "DEU":
+    name: "Maịnkarama Oloko"
+    slug: "mainkarama-oloko"
+    name_toc: "Maịnkarama Oloko"
+  "JOS":
+    name: "Jọshụa"
+    slug: "joshua"
+    name_toc: "Jọshụa"
+  "JDG":
+    name: "Bẹrẹkọn Apụ"
+    slug: "berekon-apu"
+    name_toc: "Bẹrẹkọn Apụ"
+  "RUT":
+    name: "Ruf"
+    slug: "ruf"
+    name_toc: "Ruf Ḍiri Mị"
+  "1SA":
+    name: "1 Samụẹl"
+    slug: "1-samuel"
+    name_toc: "Tatarị Samụẹl"
+  "2SA":
+    name: "2 Samụẹl"
+    slug: "2-samuel"
+    name_toc: "Maịn Karama Samụẹl"
+  "1KI":
+    name: "1 Amanyanapụ"
+    slug: "1-amanyanapu"
+    name_toc: "Tatarị Amanyanapụ Ḍiri Mị"
+  "2KI":
+    name: "2 Amanyanapụ"
+    slug: "2-amanyanapu"
+    name_toc: "Maịn Karama Amanyanapụ"
+  "1CH":
+    name: "1 Amanyanapụ Sịkị Mịẹaye Ma"
+    slug: "1-amanyanapu-siki-mieaye-ma"
+    name_toc: "Tatarị Amanyanapụ Sịkị Mịẹaye Ma"
+  "2CH":
+    name: "2 Amanyanapụ Sịkị Mịẹaye Ma"
+    slug: "2-amanyanapu-siki-mieaye-ma"
+    name_toc: "Maịn Karama Amanyanapụ Sịkị Mịẹaye Ma"
+  "EZR":
+    name: "Ẹzra"
+    slug: "ezra"
+    name_toc: "Ẹzra"
+  "NEH":
+    name: "Nẹhimaya"
+    slug: "nehimaya"
+    name_toc: "Nẹhimaya"
+  "EST":
+    name: "Ẹsta"
+    slug: "esta"
+    name_toc: "Ẹsta Ḍiri Mị"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job Ḍiri Mị"
+  "PSA":
+    name: "Fịafịa Nime"
+    slug: "fiafia-nime"
+    name_toc: "Fịafịa Nime"
+  "PRO":
+    name: "Kaḅo Ma"
+    slug: "kabo-ma"
+    name_toc: "Kaḅo Ma"
+  "ECC":
+    name: "Ẹklisiastis"
+    slug: "eklisiastis"
+    name_toc: "Ẹklisiastis"
+  "SNG":
+    name: "Sọlọmọn Nime Ma"
+    slug: "solomon-nime-ma"
+    name_toc: "Sọlọmọn Nime Ma"
+  "ISA":
+    name: "Aịzaya"
+    slug: "aizaya"
+    name_toc: "Aịzaya"
+  "JER":
+    name: "Jerimaya"
+    slug: "jerimaya"
+    name_toc: "Jerimaya"
+  "LAM":
+    name: "Kururu Ma"
+    slug: "kururu-ma"
+    name_toc: "Kururu Ma"
+  "EZK":
+    name: "Izikịẹl"
+    slug: "izikiel"
+    name_toc: "Izikịẹl"
+  "DAN":
+    name: "Danịẹl"
+    slug: "daniel"
+    name_toc: "Danịẹl"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+    name_toc: "Hosia"
+  "JOL":
+    name: "Joẹl"
+    slug: "joel"
+    name_toc: "Joẹl"
+  "AMO":
+    name: "Emọs"
+    slug: "emos"
+    name_toc: "Emọs"
+  "OBA":
+    name: "Obedaịa"
+    slug: "obedaia"
+    name_toc: "Obedaịa"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Maịka"
+    slug: "maika"
+    name_toc: "Maịka"
+  "NAM":
+    name: "Nehọm"
+    slug: "nehom"
+    name_toc: "Nehọm Ḍiri Mị"
+  "HAB":
+    name: "Habakọk"
+    slug: "habakok"
+    name_toc: "Habakọk"
+  "ZEP":
+    name: "Zẹfanaịa"
+    slug: "zefanaia"
+    name_toc: "Zẹfanaịa Ḍiri Mị"
+  "HAG":
+    name: "Hagaị"
+    slug: "hagai"
+    name_toc: "Hagaị Ḍiri Mị"
+  "ZEC":
+    name: "Zẹkaraịa"
+    slug: "zekaraia"
+    name_toc: "Zẹkaraịa Ḍiri Mị"
+  "MAL":
+    name: "Malakaị"
+    slug: "malakai"
+    name_toc: "Malakaị Ḍiri Mị"
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+    name_toc: "Matio Ḅe Iḅiḅẹrẹ Mị"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Mak Iḅi Ḅẹrẹ Mị"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Luk Iḅi Ḅẹrẹ Mị"
+  "JHN":
+    name: "Jọn"
+    slug: "jon"
+    name_toc: "Jọn Iḅi Ḅẹrẹ Mị"
+  "ACT":
+    name: "Okunwẹngịapụ"
+    slug: "okunwengiapu"
+    name_toc: "Okunwẹngịapụ Mịẹye Ma"
+  "ROM":
+    name: "Romapụ"
+    slug: "romapu"
+    name_toc: "Pọl Ḅe Se Romapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "1CO":
+    name: "1 Kọrịntapụ"
+    slug: "1-korintapu"
+    name_toc: "Pọl Ḅe Se Tatarị Kọrịntapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "2CO":
+    name: "2 Kọrịntapụ"
+    slug: "2-korintapu"
+    name_toc: "Pọl Ḅe Se Maịn Karama Kọrịntapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+    name_toc: "Pọl Ḅe Se Galesiapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "EPH":
+    name: "Ẹfịsọsịapụ"
+    slug: "efisosiapu"
+    name_toc: "Pọl Ḅe Se Ẹfịsọsịapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "PHP":
+    name: "Filipaị"
+    slug: "filipai"
+    name_toc: "Pọl Ḅe Se Filipaị Apụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Pọl Ḅe Se Kolosiapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "1TH":
+    name: "1 Tẹsalonịka"
+    slug: "1-tesalonika"
+    name_toc: "Pọl Ḅe Se Tẹsalonaịkapụ Ma Sẹịnma Tatarị Fịrịfịrịmaḍiri Mị"
+  "2TH":
+    name: "2 Tẹsalonịka"
+    slug: "2-tesalonika"
+    name_toc: "Pọl Ḅe Se Tẹsalonaịkapụ Ma Sẹịnma Maịnkarama Fịrịfịrịmaḍiri Mị"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Pọl Ḅe Tatarị Se Timoti Ḅe Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Pọl Ḅe Se Maịn Karama Timoti Ḅe Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "TIT":
+    name: "Taịtọs"
+    slug: "taitos"
+    name_toc: "Pọl Ḅe Se Taịtọs Ḅe Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "PHM":
+    name: "Faịlimọn"
+    slug: "failimon"
+    name_toc: "Pọl Ḅe Se Faịlimọn Ḅe Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "Pọl Ḅe Se Hibruapụ Ma Sẹịnma Fịrịfịrịmaḍiri Mị"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "Jems Ḅe Ḅaraḅo Fịrịfịrịmaḍiri Mị"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Pita Ḅe Ḅaraḅo Tatarị Fịrịfịrịmaḍiri Mị"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pita Ḅe Ḅaraḅo Maịn Karama Fịrịfịrịmaḍiri Mị"
+  "1JN":
+    name: "1 Jọn"
+    slug: "1-jon"
+    name_toc: "Jọn Ḅe Oria Tatarị Fịrịfịrịmaḍiri Mị"
+  "2JN":
+    name: "2 Jọn"
+    slug: "2-jon"
+    name_toc: "Jọn Ḅe Oria Maịn Karama Fịrịfịrịmaḍiri Mị"
+  "3JN":
+    name: "3 Jọn"
+    slug: "3-jon"
+    name_toc: "Jọn Ḅe Gẹịn Tẹrẹ Karama Fịrịfịrịmaḍiri Mị"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Jud Ḅe Ḅaraḅo Fịrịfịrịmaḍiri Mị"
+  "REV":
+    name: "Ḍieḅelema Yema"
+    slug: "diebelema-yema"
+    name_toc: "Ḍieḅelema Jọn Ḅe Pịrịye Mị"

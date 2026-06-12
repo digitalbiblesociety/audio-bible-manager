@@ -1,0 +1,5 @@
+language: "dhg"
+books:
+  "MRK":
+    name: "Mäk"
+    slug: "mak"

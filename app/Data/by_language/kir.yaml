@@ -1,0 +1,101 @@
+language: "kir"
+books:
+  "JOS":
+    name: "Жашыя"
+    slug: "zasya"
+  "JDG":
+    name: "Бийлер"
+    slug: "bijler"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1Sa"
+    slug: "1sa"
+  "EST":
+    name: "Эстер"
+    slug: "ester"
+  "JON":
+    name: "Жунус"
+    slug: "zunus"
+  "MAT":
+    name: "Матай"
+    slug: "mataj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Жакан"
+    slug: "zakan"
+  "ACT":
+    name: "Элчилердин иштери"
+    slug: "elcilerdin-isteri"
+  "ROM":
+    name: "Римдиктерге"
+    slug: "rimdikterge"
+  "1CO":
+    name: "1-Корунттуктар"
+    slug: "1-korunttuktar"
+  "2CO":
+    name: "2-Корунттуктар"
+    slug: "2-korunttuktar"
+  "GAL":
+    name: "Галатиялыктарга"
+    slug: "galatialyktarga"
+  "EPH":
+    name: "Эфестиктерге"
+    slug: "efestikterge"
+  "PHP":
+    name: "Филипиялыктарга"
+    slug: "filipialyktarga"
+  "COL":
+    name: "Колостуктарга"
+    slug: "kolostuktarga"
+  "1TH":
+    name: "1-Тессалоникалыктар"
+    slug: "1-tessalonikalyktar"
+  "2TH":
+    name: "2-Тесалоникалыктарга"
+    slug: "2-tesalonikalyktarga"
+  "1TI":
+    name: "1-Тиметей"
+    slug: "1-timetej"
+  "2TI":
+    name: "2-Тиметей"
+    slug: "2-timetej"
+  "TIT":
+    name: "Титке"
+    slug: "titke"
+  "PHM":
+    name: "Филимонго"
+    slug: "filimongo"
+  "HEB":
+    name: "Эврейлерге"
+    slug: "evrejlerge"
+  "JAS":
+    name: "Жакып"
+    slug: "zakyp"
+  "1PE":
+    name: "1-Петир"
+    slug: "1-petir"
+  "2PE":
+    name: "2-Петир"
+    slug: "2-petir"
+  "1JN":
+    name: "1-Жакан"
+    slug: "1-zakan"
+  "2JN":
+    name: "2-Жакан"
+    slug: "2-zakan"
+  "3JN":
+    name: "3-Жакан"
+    slug: "3-zakan"
+  "JUD":
+    name: "Жүйүт"
+    slug: "zujut"
+  "REV":
+    name: "Аян"
+    slug: "aan"

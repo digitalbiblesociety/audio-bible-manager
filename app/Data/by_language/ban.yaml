@@ -1,0 +1,200 @@
+language: "ban"
+books:
+  "GEN":
+    name: "Purwakaning Dadi"
+    slug: "purwakaning-dadi"
+  "EXO":
+    name: "Pararudan"
+    slug: "pararudan"
+  "LEV":
+    name: "Upacara"
+    slug: "upacara"
+  "NUM":
+    name: "Cacah Jiwa"
+    slug: "cacah-jiwa"
+  "DEU":
+    name: "Pangeling-eling"
+    slug: "pangeling-eling"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Parahakim"
+    slug: "parahakim"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Pararatu"
+    slug: "1-pararatu"
+  "2KI":
+    name: "2 Pararatu"
+    slug: "2-pararatu"
+  "1CH":
+    name: "1 Babad"
+    slug: "1-babad"
+  "2CH":
+    name: "2 Babad"
+    slug: "2-babad"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+  "PSA":
+    name: "Kidung"
+    slug: "kidung"
+  "PRO":
+    name: "Pitutur"
+    slug: "pitutur"
+  "ECC":
+    name: "Guru Pangajian"
+    slug: "guru-pangajian"
+  "SNG":
+    name: "Kidung Geguritan"
+    slug: "kidung-geguritan"
+  "ISA":
+    name: "Nabi Yesaya"
+    slug: "nabi-yesaya"
+  "JER":
+    name: "Nabi Yeremia"
+    slug: "nabi-yeremia"
+  "LAM":
+    name: "Sesambatan"
+    slug: "sesambatan"
+  "EZK":
+    name: "Nabi Yeheskiel"
+    slug: "nabi-yeheskiel"
+  "DAN":
+    name: "Nabi Daniel"
+    slug: "nabi-daniel"
+  "HOS":
+    name: "Nabi Hosea"
+    slug: "nabi-hosea"
+  "JOL":
+    name: "Nabi Yoel"
+    slug: "nabi-yoel"
+  "AMO":
+    name: "Nabi Amos"
+    slug: "nabi-amos"
+  "OBA":
+    name: "Nabi Obaja"
+    slug: "nabi-obaja"
+  "JON":
+    name: "Nabi Yunus"
+    slug: "nabi-yunus"
+  "MIC":
+    name: "Nabi Mika"
+    slug: "nabi-mika"
+  "NAM":
+    name: "Nabi Nahum"
+    slug: "nabi-nahum"
+  "HAB":
+    name: "Nabi Habakuk"
+    slug: "nabi-habakuk"
+  "ZEP":
+    name: "Nabi Sepanya"
+    slug: "nabi-sepanya"
+  "HAG":
+    name: "Nabi Hagai"
+    slug: "nabi-hagai"
+  "ZEC":
+    name: "Nabi Sakaria"
+    slug: "nabi-sakaria"
+  "MAL":
+    name: "Nabi Maleaki"
+    slug: "nabi-maleaki"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+  "ACT":
+    name: "Pamargin Parautusan"
+    slug: "pamargin-parautusan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"

@@ -1,0 +1,200 @@
+language: "srr"
+books:
+  "GEN":
+    name: "Mberaand"
+    slug: "mberaand"
+  "EXO":
+    name: "A sutax ale"
+    slug: "a-sutax-ale"
+  "LEV":
+    name: "A paɗax ale"
+    slug: "a-paax-ale"
+  "NUM":
+    name: "A lim ale"
+    slug: "a-lim-ale"
+  "DEU":
+    name: "A cangatin ale"
+    slug: "a-cangatin-ale"
+  "JOS":
+    name: "Yosuwe"
+    slug: "yosuwe"
+  "JDG":
+    name: "Haahate we"
+    slug: "haahate-we"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1 Sami’el"
+    slug: "1-samiel"
+  "2SA":
+    name: "2 Sami’el"
+    slug: "2-samiel"
+  "1KI":
+    name: "1 Maad we"
+    slug: "1-maad-we"
+  "2KI":
+    name: "2 Maad we"
+    slug: "2-maad-we"
+  "1CH":
+    name: "1 Caloori ke"
+    slug: "1-caloori-ke"
+  "2CH":
+    name: "2 Caloori ke"
+    slug: "2-caloori-ke"
+  "EZR":
+    name: "Esdaraas"
+    slug: "esdaraas"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+  "EST":
+    name: "Esteer"
+    slug: "esteer"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+  "PSA":
+    name: "A kim a tedu ke"
+    slug: "a-kim-a-tedu-ke"
+  "PRO":
+    name: "Xa peƭit axe"
+    slug: "xa-peit-axe"
+  "ECC":
+    name: "O baawaare xe"
+    slug: "o-baawaare-xe"
+  "SNG":
+    name: "A kim ale na kim ake"
+    slug: "a-kim-ale-na-kim-ake"
+  "ISA":
+    name: "Esayi"
+    slug: "esayi"
+  "JER":
+    name: "Yeremi"
+    slug: "yeremi"
+  "LAM":
+    name: "A ƭomatax ake"
+    slug: "a-omatax-ake"
+  "EZK":
+    name: "Heseki’el"
+    slug: "hesekiel"
+  "DAN":
+    name: "Dañel"
+    slug: "danel"
+  "HOS":
+    name: "Hoose"
+    slug: "hoose"
+  "JOL":
+    name: "Yowel"
+    slug: "yowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abjaas"
+    slug: "abjaas"
+  "JON":
+    name: "Yoona"
+    slug: "yoona"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Age"
+    slug: "age"
+  "ZEC":
+    name: "Sakari"
+    slug: "sakari"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mace"
+    slug: "mace"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Lik"
+    slug: "lik"
+  "JHN":
+    name: "Saŋ"
+    slug: "sa"
+  "ACT":
+    name: "A pi ake"
+    slug: "a-pi-ake"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efees"
+    slug: "efees"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tiit"
+    slug: "tiit"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Piyeer"
+    slug: "1-piyeer"
+  "2PE":
+    name: "2 Piyeer"
+    slug: "2-piyeer"
+  "1JN":
+    name: "1 Saŋ"
+    slug: "1-sa"
+  "2JN":
+    name: "2 Saŋ"
+    slug: "2-sa"
+  "3JN":
+    name: "3 Saŋ"
+    slug: "3-sa"
+  "JUD":
+    name: "Yudaa"
+    slug: "yudaa"
+  "REV":
+    name: "Mbeeñil"
+    slug: "mbeenil"

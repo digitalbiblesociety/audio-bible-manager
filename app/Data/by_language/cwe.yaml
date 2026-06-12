@@ -1,0 +1,98 @@
+language: "cwe"
+books:
+  "GEN":
+    name: "Mwanduso"
+    slug: "mwanduso"
+  "EXO":
+    name: "Kulawa"
+    slug: "kulawa"
+  "LEV":
+    name: "Walawi"
+    slug: "walawi"
+  "NUM":
+    name: "Peta"
+    slug: "peta"
+  "DEU":
+    name: "Kumbukumbu"
+    slug: "kumbukumbu"
+  "MAT":
+    name: "Masayo"
+    slug: "masayo"
+  "MRK":
+    name: "Maliki"
+    slug: "maliki"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Sang'hano"
+    slug: "sanghano"
+  "ROM":
+    name: "Waloma"
+    slug: "waloma"
+  "1CO":
+    name: "1 Wakolimso"
+    slug: "1-wakolimso"
+  "2CO":
+    name: "2 Wakolimso"
+    slug: "2-wakolimso"
+  "GAL":
+    name: "Wagalatiya"
+    slug: "wagalatiya"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+  "1TH":
+    name: "1 Wasesalonike"
+    slug: "1-wasesalonike"
+  "2TH":
+    name: "2 Wasesalonike"
+    slug: "2-wasesalonike"
+  "1TI":
+    name: "1 Timoseyo"
+    slug: "1-timoseyo"
+  "2TI":
+    name: "2 Timoseyo"
+    slug: "2-timoseyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Waebulaniya"
+    slug: "waebulaniya"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petili"
+    slug: "1-petili"
+  "2PE":
+    name: "2 Petili"
+    slug: "2-petili"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Lugubulo"
+    slug: "lugubulo"

@@ -1,0 +1,101 @@
+language: "lbj"
+books:
+  "GEN":
+    name: "གོ༌ཟུག༌"
+    slug: "go-zug"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "JOS":
+    name: "ཡོ༌ཤུའ༌།"
+    slug: "yo-shu"
+  "JDG":
+    name: "སྐྱོབ༌ཁན༌ནི༌ གོ༌ཁྲིད༌གུན༌"
+    slug: "skyob-khan-ni-go-khrid-gun"
+  "RUT":
+    name: "རུཐ༌"
+    slug: "ruth"
+  "DAN":
+    name: "དཱ༌ནི༌ཨེལ༌"
+    slug: "da-ni-el"
+  "MAT":
+    name: "མད༌ཐཱ༌"
+    slug: "mad-tha"
+  "MRK":
+    name: "མར༌ཀུས༌"
+    slug: "mar-kus"
+  "LUK":
+    name: "ལུ༌ཀ༌"
+    slug: "lu-ka"
+  "JHN":
+    name: "ཡོ༌ཧཱ༌ནན༌"
+    slug: "yo-ha-nan"
+  "ACT":
+    name: "ཆག༌ལས༌གུན༌"
+    slug: "chag-las-gun"
+  "ROM":
+    name: "རོམ༌པ༌"
+    slug: "rom-pa"
+  "1CO":
+    name: "ཀོ༌རིན༌ཐི༌པ༌ ༡"
+    slug: "ko-rin-thi-pa-1"
+  "2CO":
+    name: "ཀོ༌རིན༌ཐི༌པ༌ ༢"
+    slug: "ko-rin-thi-pa-2"
+  "GAL":
+    name: "གཱ༌ལ༌ཏི༌ཡཱ༌པ༌"
+    slug: "ga-la-ti-ya-pa"
+  "EPH":
+    name: "ཨེ༌ཕེ༌སས༌པ༌"
+    slug: "e-phe-sas-pa"
+  "PHP":
+    name: "ཕི༌ལི༌པི༌པ༌"
+    slug: "phi-li-pi-pa"
+  "COL":
+    name: "ཀོ༌ལོ༌སི༌པ༌"
+    slug: "ko-lo-si-pa"
+  "1TH":
+    name: "ཐེ༌ས༌ལོ༌ནི༌ཀ༌པ༌ ༡"
+    slug: "the-sa-lo-ni-ka-pa-1"
+  "2TH":
+    name: "ཐེ༌ས༌ལོ༌ནི༌ཀ༌པ༌ ༢"
+    slug: "the-sa-lo-ni-ka-pa-2"
+  "1TI":
+    name: "ཏི༌མོ༌ཐི༌ ༡"
+    slug: "ti-mo-thi-1"
+  "2TI":
+    name: "ཏི༌མོ༌ཐི༌ ༢"
+    slug: "ti-mo-thi-2"
+  "TIT":
+    name: "ཏི༌ཏུས༌"
+    slug: "ti-tus"
+  "PHM":
+    name: "ཕི༌ལི༌མོན༌"
+    slug: "phi-li-mon"
+  "HEB":
+    name: "ཨིབ༌རི༌པ༌"
+    slug: "ib-ri-pa"
+  "JAS":
+    name: "ཡ༌ཀོབ༌"
+    slug: "ya-kob"
+  "1PE":
+    name: "པི༌ཏྲར༌ ༡"
+    slug: "pi-trar-1"
+  "2PE":
+    name: "པི༌ཏྲར༌ ༢"
+    slug: "pi-trar-2"
+  "1JN":
+    name: "ཡོ༌ཧཱ༌ནན༌ ༡"
+    slug: "yo-ha-nan-1"
+  "2JN":
+    name: "ཡོ༌ཧཱ༌ནན༌ ༢"
+    slug: "yo-ha-nan-2"
+  "3JN":
+    name: "ཡོ༌ཧཱ༌ནན༌ ༣"
+    slug: "yo-ha-nan-3"
+  "JUD":
+    name: "ཡུ༌དཱ༌"
+    slug: "yu-da"
+  "REV":
+    name: "ཡོང༌ཅེས༌ཅན༌ནི༌ ཏུས༌"
+    slug: "yong-ces-can-ni-tus"

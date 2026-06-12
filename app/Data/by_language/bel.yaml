@@ -1,0 +1,200 @@
+language: "bel"
+books:
+  "GEN":
+    name: "Быццё"
+    slug: "bycce"
+  "EXO":
+    name: "Выхад"
+    slug: "vyhad"
+  "LEV":
+    name: "Лявіт"
+    slug: "lavit"
+  "NUM":
+    name: "Лікі"
+    slug: "liki"
+  "DEU":
+    name: "Другі Закон"
+    slug: "drugi-zakon"
+  "JOS":
+    name: "Ісуса"
+    slug: "isusa"
+  "JDG":
+    name: "Судзьдзяў"
+    slug: "sudzdzau"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1 Царстваў"
+    slug: "1-carstvau"
+  "2SA":
+    name: "2 Царстваў"
+    slug: "2-carstvau"
+  "1KI":
+    name: "3 Царстваў"
+    slug: "3-carstvau"
+  "2KI":
+    name: "4 Царстваў"
+    slug: "4-carstvau"
+  "1CH":
+    name: "1 Летапісаў"
+    slug: "1-letapisau"
+  "2CH":
+    name: "2 Летапісаў"
+    slug: "2-letapisau"
+  "EZR":
+    name: "Эздры"
+    slug: "ezdry"
+  "NEH":
+    name: "Нээміі"
+    slug: "neemii"
+  "EST":
+    name: "Эстэр"
+    slug: "ester"
+  "JOB":
+    name: "Ёва"
+    slug: "eva"
+  "PSA":
+    name: "Псалтыр"
+    slug: "psaltyr"
+  "PRO":
+    name: "Выслоўі"
+    slug: "vysloui"
+  "ECC":
+    name: "Эклезіяста"
+    slug: "ekleziasta"
+  "SNG":
+    name: "Песьня"
+    slug: "pesna"
+  "ISA":
+    name: "Ісаі"
+    slug: "isai"
+  "JER":
+    name: "Ераміі"
+    slug: "eramii"
+  "LAM":
+    name: "Плач"
+    slug: "plac"
+  "EZK":
+    name: "Езэкііля"
+    slug: "ezekiila"
+  "DAN":
+    name: "Данііла"
+    slug: "daniila"
+  "HOS":
+    name: "Асіі"
+    slug: "asii"
+  "JOL":
+    name: "Ёіля"
+    slug: "eila"
+  "AMO":
+    name: "Амоса"
+    slug: "amosa"
+  "OBA":
+    name: "Аўдзея"
+    slug: "audzea"
+  "JON":
+    name: "Ёны"
+    slug: "eny"
+  "MIC":
+    name: "Міхея"
+    slug: "mihea"
+  "NAM":
+    name: "Навума"
+    slug: "navuma"
+  "HAB":
+    name: "Абакума"
+    slug: "abakuma"
+  "ZEP":
+    name: "Сафона"
+    slug: "safona"
+  "HAG":
+    name: "Агея"
+    slug: "agea"
+  "ZEC":
+    name: "Захарыі"
+    slug: "zaharyi"
+  "MAL":
+    name: "Малахіі"
+    slug: "malahii"
+  "MAT":
+    name: "Мацьвея"
+    slug: "macvea"
+  "MRK":
+    name: "Марка"
+    slug: "marka"
+  "LUK":
+    name: "Лукаша"
+    slug: "lukasa"
+  "JHN":
+    name: "Яна"
+    slug: "ana"
+  "ACT":
+    name: "Дзеі"
+    slug: "dzei"
+  "ROM":
+    name: "Рымлянаў"
+    slug: "rymlanau"
+  "1CO":
+    name: "1 Карынфянаў"
+    slug: "1-karynfanau"
+  "2CO":
+    name: "2 Карынфянаў"
+    slug: "2-karynfanau"
+  "GAL":
+    name: "Галятаў"
+    slug: "galatau"
+  "EPH":
+    name: "Эфэсянаў"
+    slug: "efesanau"
+  "PHP":
+    name: "Піліпянаў"
+    slug: "pilipanau"
+  "COL":
+    name: "Каласянаў"
+    slug: "kalasanau"
+  "1TH":
+    name: "1 Фесалонікійцаў"
+    slug: "1-fesalonikijcau"
+  "2TH":
+    name: "2 Фесалонікійцаў"
+    slug: "2-fesalonikijcau"
+  "1TI":
+    name: "1 Цімафея"
+    slug: "1-cimafea"
+  "2TI":
+    name: "2 Цімафея"
+    slug: "2-cimafea"
+  "TIT":
+    name: "Ціта"
+    slug: "cita"
+  "PHM":
+    name: "Філімона"
+    slug: "filimona"
+  "HEB":
+    name: "Габрэяў"
+    slug: "gabreau"
+  "JAS":
+    name: "Якава"
+    slug: "akava"
+  "1PE":
+    name: "1 Пятра"
+    slug: "1-patra"
+  "2PE":
+    name: "2 Пятра"
+    slug: "2-patra"
+  "1JN":
+    name: "1 Яна"
+    slug: "1-ana"
+  "2JN":
+    name: "2 Яна"
+    slug: "2-ana"
+  "3JN":
+    name: "3 Яна"
+    slug: "3-ana"
+  "JUD":
+    name: "Юды"
+    slug: "udy"
+  "REV":
+    name: "Адкрыццё"
+    slug: "adkrycce"

@@ -1,0 +1,59 @@
+language: "pmy"
+books:
+  "GEN":
+    name: "Kejadian"
+    slug: "kejadian"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+  "ACT":
+    name: "Kisah Para Rasul"
+    slug: "kisah-para-rasul"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"

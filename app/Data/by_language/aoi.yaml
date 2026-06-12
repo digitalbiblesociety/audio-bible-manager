@@ -1,0 +1,23 @@
+language: "aoi"
+books:
+  "GEN":
+    name: "Jenijija"
+    slug: "jenijija"
+  "JON":
+    name: "Jawuna"
+    slug: "jawuna"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Janjana"
+    slug: "janjana"
+  "EPH":
+    name: "WarningEbijija"
+    slug: "warningebijija"
+  "1TI":
+    name: "1 Dimidi"
+    slug: "1-dimidi"
+  "JAS":
+    name: "Jaminja"
+    slug: "jaminja"

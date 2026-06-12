@@ -1,0 +1,266 @@
+language: "lun"
+books:
+  "GEN":
+    name: "Genese"
+    slug: "genese"
+    name_toc: "Buka Ya Mushe, Ya Pili, Ye Bizwa Genese"
+  "EXO":
+    name: "Exoda"
+    slug: "exoda"
+    name_toc: "Buka Ya Mushe, Ya Bubeli, Ye Bizwa Exoda"
+  "LEV":
+    name: "ALevi"
+    slug: "alevi"
+    name_toc: "Mukanda Wamosi Wamuchisatu Ijina Dawu Yijila Yawalevi"
+  "NUM":
+    name: "Numere"
+    slug: "numere"
+    name_toc: "Buka Ya Mushe, Ya Bune, Ye Bizwaa Numere"
+  "DEU":
+    name: "Kuhituluka"
+    slug: "kuhituluka"
+    name_toc: "Mukanda Wamosi Wamuchitanu Ijina Dawu Kuhituluka"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Buka Ya Joshua"
+  "JDG":
+    name: "Baatuli"
+    slug: "baatuli"
+    name_toc: "Buka Ya Baatuli"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Buka Ya Ruti"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Buka Ya Samuele Ya Pili"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Buka Ya Samuele Ya Bubeli Puso Ya Davida"
+  "1KI":
+    name: "1 Malena"
+    slug: "1-malena"
+    name_toc: "Buka Ya Malena Ya Pili Puso Ya Salumoni."
+  "2KI":
+    name: "2 Malena"
+    slug: "2-malena"
+    name_toc: "Buka Ya Malena Ya Bubeli"
+  "1CH":
+    name: "1 Makolonika"
+    slug: "1-makolonika"
+    name_toc: "Buka Ya Makolonika Ya Pili"
+  "2CH":
+    name: "2 Makolonika"
+    slug: "2-makolonika"
+    name_toc: "Buka Ya Makolonika Ya Bubeli."
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Buka Ya Ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Buka Ya Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "Buka Ya Jobo"
+  "PSA":
+    name: "Lisamu"
+    slug: "lisamu"
+    name_toc: "Lisamu"
+  "PRO":
+    name: "Yishimu"
+    slug: "yishimu"
+    name_toc: "Yishimu"
+  "ECC":
+    name: "Muekelesia"
+    slug: "muekelesia"
+    name_toc: "Mukelesia"
+  "SNG":
+    name: "Kamina"
+    slug: "kamina"
+    name_toc: "Kamina Kasolomoni"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Buka Ya Mupolofita Isaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Buka Ya Mupolofita Jeremia"
+  "LAM":
+    name: "Malilo"
+    slug: "malilo"
+    name_toc: "Malilo A Jeremia"
+  "EZK":
+    name: "Ezekeli"
+    slug: "ezekeli"
+    name_toc: "Ezekeli"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Buka Ya Mupolofita Daniele"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Buka Ya Mupolofita Hosea"
+  "JOL":
+    name: "Joele"
+    slug: "joele"
+    name_toc: "Buka Ya Mupolofita Joele"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Buka Ya Mupolofita Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Buka Ya Mupolofita Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Buka Ya Mupolofita Mika"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+    name_toc: "Buka Ya Mupolofita Nahumi"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Buka Ya Mupolofita Habakuki"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Buka Ya Mupolofita Zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Buka Ya Mupolofita Hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Buka Ya Mupolofita Zakaria"
+  "MAL":
+    name: "MAlaki"
+    slug: "malaki"
+    name_toc: "Buka Ya Mupolofita Malaki"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Evangeli Ya Mateu"
+  "MRK":
+    name: "Maku"
+    slug: "maku"
+    name_toc: "Nsaŋu Yayiwahi Mwayisonekeleliyi Maku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Evangeli Ya Luka"
+  "JHN":
+    name: "Joani"
+    slug: "joani"
+    name_toc: "Evangeli Ya Joani"
+  "ACT":
+    name: "Likezo"
+    slug: "likezo"
+    name_toc: "Likezo Za Baapositola"
+  "ROM":
+    name: "ARoma"
+    slug: "aroma"
+    name_toc: "Aroma"
+  "1CO":
+    name: "1 AKorinda"
+    slug: "1-akorinda"
+    name_toc: "Akorinda Wamuchimu"
+  "2CO":
+    name: "2 AKorinda"
+    slug: "2-akorinda"
+    name_toc: "Akorinda Wamuchiyedi"
+  "GAL":
+    name: "AŊalija"
+    slug: "aalija"
+    name_toc: "Aŋalija"
+  "EPH":
+    name: "Maefese"
+    slug: "maefese"
+    name_toc: "Liñolo La Maefese Le Li Nozwi Ki Paulusi"
+  "PHP":
+    name: "Mafilipi"
+    slug: "mafilipi"
+    name_toc: "Liñolo La Mafilipi Le Li Nozwi Ki Paulusi"
+  "COL":
+    name: "AKolose"
+    slug: "akolose"
+    name_toc: "Akolosi"
+  "1TH":
+    name: "1 ATesalonika"
+    slug: "1-atesalonika"
+    name_toc: "Atesalonika Wamuchimu"
+  "2TH":
+    name: "2 ATesalonika"
+    slug: "2-atesalonika"
+    name_toc: "Atesalonika Wamuchiyedi"
+  "1TI":
+    name: "1 Timotea"
+    slug: "1-timotea"
+    name_toc: "Liñolo La Timotea La Pili,Le Li Nozwi Ki Paulusi"
+  "2TI":
+    name: "2 Timotea"
+    slug: "2-timotea"
+    name_toc: "Liñolo La Timotea La Bubeli ,Le Li Nozwi Ki Paulusi"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Liñolo La Tite Le Li Nozwi Ki Paulusi"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Liñolo La Filemoni Le Li Nozwi Ki Paulusi"
+  "HEB":
+    name: "AHeberu"
+    slug: "aheberu"
+    name_toc: "Aheberu"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Liñolo Le Li Nozwi Ki Jakobo"
+  "1PE":
+    name: "1 Petulu"
+    slug: "1-petulu"
+    name_toc: "Mukanda wakusambila wasonekeliyi PETULU"
+  "2PE":
+    name: "2 Petulu"
+    slug: "2-petulu"
+    name_toc: "Mukanda wamuchiyedi wasonekeliyi PETULU"
+  "1JN":
+    name: "1 Joani"
+    slug: "1-joani"
+    name_toc: "Liñolo Le Li Nozwi Joani La Pili"
+  "2JN":
+    name: "2 Joani"
+    slug: "2-joani"
+    name_toc: "Liñolo Le Li Nozwi Ki Joani La Bubeli"
+  "3JN":
+    name: "3 Joani"
+    slug: "3-joani"
+    name_toc: "Liñolo Le Li Nozwi Ki Joani La Bulalu"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Liñolo Le Li Nozwi Ki Juda"
+  "REV":
+    name: "Sinulo"
+    slug: "sinulo"
+    name_toc: "Sinulo Ya Joani"

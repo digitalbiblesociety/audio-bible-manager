@@ -1,0 +1,83 @@
+language: "sgz"
+books:
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ioanes"
+    slug: "ioanes"
+  "ACT":
+    name: "Apostolo"
+    slug: "apostolo"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galatiá"
+    slug: "galatia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipoi"
+    slug: "pilipoi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesolonika"
+    slug: "1-tesolonika"
+  "2TH":
+    name: "2 Tesolonika"
+    slug: "2-tesolonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Ebaraio"
+    slug: "ebaraio"
+  "JAS":
+    name: "Iakobo"
+    slug: "iakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Ioanes"
+    slug: "1-ioanes"
+  "2JN":
+    name: "2 Ioanes"
+    slug: "2-ioanes"
+  "3JN":
+    name: "3 Ioanes"
+    slug: "3-ioanes"
+  "JUD":
+    name: "Iut"
+    slug: "iut"
+  "REV":
+    name: "Apapos"
+    slug: "apapos"

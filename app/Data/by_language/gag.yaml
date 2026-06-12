@@ -1,0 +1,83 @@
+language: "gag"
+books:
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоан"
+    slug: "ioan"
+  "ACT":
+    name: "Йаптыклар"
+    slug: "japtyklar"
+  "ROM":
+    name: "Ромалылара"
+    slug: "romalylara"
+  "1CO":
+    name: "1 КоринфлилерӒ"
+    slug: "1-korinfliler"
+  "2CO":
+    name: "2 КоринфлилерӒ"
+    slug: "2-korinfliler"
+  "GAL":
+    name: "Галатийалылара"
+    slug: "galatijalylara"
+  "EPH":
+    name: "ЕфеслилерӒ"
+    slug: "efesliler"
+  "PHP":
+    name: "ФилиплилерӒ"
+    slug: "filipliler"
+  "COL":
+    name: "Колослулара"
+    slug: "koloslulara"
+  "1TH":
+    name: "1 СалониклилерӒ"
+    slug: "1-salonikliler"
+  "2TH":
+    name: "2 СалониклилерӒ"
+    slug: "2-salonikliler"
+  "1TI":
+    name: "1 ТимофейӒ"
+    slug: "1-timofej"
+  "2TI":
+    name: "2 ТимофейӒ"
+    slug: "2-timofej"
+  "TIT":
+    name: "Тита"
+    slug: "tita"
+  "PHM":
+    name: "Филимона"
+    slug: "filimona"
+  "HEB":
+    name: "Чыфытлара"
+    slug: "cyfytlara"
+  "JAS":
+    name: "Иаковун"
+    slug: "iakovun"
+  "1PE":
+    name: "1 Петринин"
+    slug: "1-petrinin"
+  "2PE":
+    name: "2 Петринин"
+    slug: "2-petrinin"
+  "1JN":
+    name: "1 Иоанын"
+    slug: "1-ioanyn"
+  "2JN":
+    name: "2 Иоанын"
+    slug: "2-ioanyn"
+  "3JN":
+    name: "3 Иоанын"
+    slug: "3-ioanyn"
+  "JUD":
+    name: "Иуданын"
+    slug: "iudanyn"
+  "REV":
+    name: "Апокалипсис"
+    slug: "apokalipsis"

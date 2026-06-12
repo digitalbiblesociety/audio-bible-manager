@@ -1,0 +1,95 @@
+language: "mkn"
+books:
+  "GEN":
+    name: "Carita Mula-Mula"
+    slug: "carita-mula-mula"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Mateos"
+    slug: "mateos"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanis"
+    slug: "yohanis"
+  "ACT":
+    name: "Utusan dong pung Carita"
+    slug: "utusan-dong-pung-carita"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobis"
+    slug: "yakobis"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yohanis"
+    slug: "1-yohanis"
+  "2JN":
+    name: "2 Yohanis"
+    slug: "2-yohanis"
+  "3JN":
+    name: "3 Yohanis"
+    slug: "3-yohanis"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Dunya Model Baru"
+    slug: "dunya-model-baru"

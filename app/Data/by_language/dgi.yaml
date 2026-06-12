@@ -1,0 +1,218 @@
+language: "dgi"
+books:
+  "GEN":
+    name: "Yele-za-pɛr-tib"
+    slug: "yele-za-pr-tib"
+  "EXO":
+    name: "Eziptɩ tẽw yib"
+    slug: "ezipt-tew-yib"
+  "LEV":
+    name: "Levitɩ mɩnɛ"
+    slug: "levit-mn"
+  "NUM":
+    name: "Sɔr-nɛ́ɛ"
+    slug: "sr-n"
+  "DEU":
+    name: "Wulu-ayi-sob"
+    slug: "wulu-ayi-sob"
+  "JOS":
+    name: "Zozue"
+    slug: "zozue"
+  "JDG":
+    name: "Ƴɛ̀r-dɩrbɛ"
+    slug: "r-drb"
+  "RUT":
+    name: "Urutɩ"
+    slug: "urut"
+  "1SA":
+    name: "1 Samɩɛl"
+    slug: "1-saml"
+  "2SA":
+    name: "2 Samɩɛl"
+    slug: "2-saml"
+  "1KI":
+    name: "1 Na-mɩnɛ"
+    slug: "1-na-mn"
+  "2KI":
+    name: "2 Na-mɩnɛ"
+    slug: "2-na-mn"
+  "1CH":
+    name: "1 Bibie za yel-manɩ"
+    slug: "1-bibie-za-yel-man"
+  "2CH":
+    name: "2 Bibie za yel-manɩ"
+    slug: "2-bibie-za-yel-man"
+  "EZR":
+    name: "Ɛsɩdɩrasɩ"
+    slug: "sdras"
+  "NEH":
+    name: "Neemi"
+    slug: "neemi"
+  "JOB":
+    name: "Zɔb"
+    slug: "zb"
+  "PSA":
+    name: "Sɛb-sõw yielu"
+    slug: "sb-sow-yielu"
+  "PRO":
+    name: "Zʋkpaɩ"
+    slug: "zkpa"
+  "ECC":
+    name: "Ekilezɩasɩ"
+    slug: "ekilezas"
+  "SNG":
+    name: "A Yielu za pʋɔ yiel-vla vla"
+    slug: "a-yielu-za-p-yiel-vla-vla"
+  "ISA":
+    name: "Ɩzayi"
+    slug: "zayi"
+  "JER":
+    name: "Zeremi"
+    slug: "zeremi"
+  "LAM":
+    name: "A Lãw-mʋɔlɛ"
+    slug: "a-law-ml"
+  "EZK":
+    name: "Ezekɩɛl"
+    slug: "ezekl"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+  "JOL":
+    name: "Zowɛl"
+    slug: "zowl"
+  "AMO":
+    name: "Amɔsɩ"
+    slug: "ams"
+  "OBA":
+    name: "Abɩdɩasɩ"
+    slug: "abdas"
+  "JON":
+    name: "Zonasɩ"
+    slug: "zonas"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakukɩ"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malasɩ"
+    slug: "malas"
+  "TOB":
+    name: "Tobi"
+    slug: "tobi"
+  "JDT":
+    name: "Ziditɩ"
+    slug: "zidit"
+  "ESG":
+    name: "Ɛsɩtɛɛr-gɩrɛkɩ"
+    slug: "str-grk"
+  "WIS":
+    name: "Yã-bãwfʋ"
+    slug: "ya-bawf"
+  "SIR":
+    name: "Bɛn Sɩɩra"
+    slug: "bn-sra"
+  "BAR":
+    name: "Barukɩ"
+    slug: "baruk"
+  "1MA":
+    name: "1 Makabe mɩnɛ"
+    slug: "1-makabe-mn"
+  "2MA":
+    name: "2 Makabe mɩnɛ"
+    slug: "2-makabe-mn"
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Markɩ"
+    slug: "mark"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Zã"
+    slug: "za"
+  "ACT":
+    name: "Nɩ-toni"
+    slug: "n-toni"
+  "ROM":
+    name: "Ʋrɔm"
+    slug: "rm"
+  "1CO":
+    name: "1 Korɛ̃tɩ"
+    slug: "1-kort"
+  "2CO":
+    name: "2 Korɛ̃tɩ"
+    slug: "2-kort"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efɛɛzɩ"
+    slug: "efz"
+  "PHP":
+    name: "Filib"
+    slug: "filib"
+  "COL":
+    name: "Kɔlɔsɩ"
+    slug: "kls"
+  "1TH":
+    name: "1 Tesalonikɩ"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonikɩ"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Títɩ̀"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ̃"
+    slug: "filem"
+  "HEB":
+    name: "Ebre"
+    slug: "ebre"
+  "JAS":
+    name: "Zakɩ"
+    slug: "zak"
+  "1PE":
+    name: "1 Pɩɛr"
+    slug: "1-pr"
+  "2PE":
+    name: "2 Pɩɛr"
+    slug: "2-pr"
+  "1JN":
+    name: "1 Zã"
+    slug: "1-za"
+  "2JN":
+    name: "2 Zã"
+    slug: "2-za"
+  "3JN":
+    name: "3 Zã"
+    slug: "3-za"
+  "JUD":
+    name: "Zid"
+    slug: "zid"
+  "REV":
+    name: "Yel-wula"
+    slug: "yel-wula"

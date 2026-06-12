@@ -1,0 +1,170 @@
+language: "wol"
+books:
+  "GEN":
+    name: "Njàlbéen ga"
+    slug: "njalbeen-ga"
+  "EXO":
+    name: "Mucc ga"
+    slug: "mucc-ga"
+  "LEV":
+    name: "Sarxalkat yi"
+    slug: "sarxalkat-yi"
+  "NUM":
+    name: "Màndiŋ ma"
+    slug: "mandin-ma"
+  "DEU":
+    name: "Baamtug Yoon wi"
+    slug: "baamtug-yoon-wi"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1.Samiyel"
+    slug: "1samiyel"
+  "2SA":
+    name: "2.Samiyel"
+    slug: "2samiyel"
+  "1KI":
+    name: "1.Buur ya"
+    slug: "1buur-ya"
+  "2KI":
+    name: "2.Buur ya"
+    slug: "2buur-ya"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Neyemi"
+    slug: "neyemi"
+  "EST":
+    name: "Esteer"
+    slug: "esteer"
+  "JOB":
+    name: "Ayóoba"
+    slug: "ayooba"
+  "PSA":
+    name: "Sabóor"
+    slug: "saboor"
+  "PRO":
+    name: "Kàddu yu Xelu"
+    slug: "kaddu-yu-xelu"
+  "ECC":
+    name: "Kàdduy Waare"
+    slug: "kadduy-waare"
+  "SNG":
+    name: "Ngën-gi-woy"
+    slug: "ngen-gi-woy"
+  "ISA":
+    name: "Esayi"
+    slug: "esayi"
+  "JER":
+    name: "Yeremi"
+    slug: "yeremi"
+  "LAM":
+    name: "Jooytu"
+    slug: "jooytu"
+  "EZK":
+    name: "Esekiyel"
+    slug: "esekiyel"
+  "DAN":
+    name: "Dañeel"
+    slug: "daneel"
+  "HOS":
+    name: "Ose"
+    slug: "ose"
+  "JOL":
+    name: "Yowel"
+    slug: "yowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nawum"
+    slug: "nawum"
+  "HAB":
+    name: "Abakug"
+    slug: "abakug"
+  "ZEP":
+    name: "Cefaña"
+    slug: "cefana"
+  "HAG":
+    name: "Ase"
+    slug: "ase"
+  "ZEC":
+    name: "Sàkkaryaa"
+    slug: "sakkaryaa"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+  "LUK":
+    name: "Luug"
+    slug: "luug"
+  "ACT":
+    name: "Jëf ya"
+    slug: "jef-ya"
+  "ROM":
+    name: "Room"
+    slug: "room"
+  "1CO":
+    name: "1.Korent"
+    slug: "1korent"
+  "2CO":
+    name: "2.Korent"
+    slug: "2korent"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efes"
+    slug: "efes"
+  "PHP":
+    name: "Filib"
+    slug: "filib"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1.Tesalonig"
+    slug: "1tesalonig"
+  "2TH":
+    name: "2.Tesalonig"
+    slug: "2tesalonig"
+  "1TI":
+    name: "1.Timote"
+    slug: "1timote"
+  "2TI":
+    name: "2.Timote"
+    slug: "2timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Yawut ya"
+    slug: "yawut-ya"
+  "JAS":
+    name: "Yanqóoba"
+    slug: "yanqooba"
+  "1PE":
+    name: "1.Piyeer"
+    slug: "1piyeer"
+  "2PE":
+    name: "2.Piyeer"
+    slug: "2piyeer"
+  "JUD":
+    name: "Yudd"
+    slug: "yudd"
+  "REV":
+    name: "Peeñu ma"
+    slug: "peenu-ma"

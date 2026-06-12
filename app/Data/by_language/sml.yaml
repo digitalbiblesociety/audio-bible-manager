@@ -1,0 +1,107 @@
+language: "sml"
+books:
+  "GEN":
+    name: "Panagnaꞌan"
+    slug: "panagnaan"
+  "EXO":
+    name: "Paglappas"
+    slug: "paglappas"
+  "JDG":
+    name: "Maghuhukum"
+    slug: "maghuhukum"
+  "RUT":
+    name: "Rūt"
+    slug: "rut"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "PSA":
+    name: "Kalangan"
+    slug: "kalangan"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yahiya"
+    slug: "yahiya"
+  "ACT":
+    name: "Kahinangan"
+    slug: "kahinangan"
+  "ROM":
+    name: "Rōm"
+    slug: "rom"
+  "1CO":
+    name: "1 Kurintu"
+    slug: "1-kurintu"
+  "2CO":
+    name: "2 Kurintu"
+    slug: "2-kurintu"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epesos"
+    slug: "epesos"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolossa"
+    slug: "kolossa"
+  "1TH":
+    name: "1 Tessaloneka"
+    slug: "1-tessaloneka"
+  "2TH":
+    name: "2 Tessaloneka"
+    slug: "2-tessaloneka"
+  "1TI":
+    name: "1 Timuti"
+    slug: "1-timuti"
+  "2TI":
+    name: "2 Timuti"
+    slug: "2-timuti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+  "HEB":
+    name: "Hibrani"
+    slug: "hibrani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Petros"
+    slug: "1-petros"
+  "2PE":
+    name: "2 Petros"
+    slug: "2-petros"
+  "1JN":
+    name: "1 Yahiya"
+    slug: "1-yahiya"
+  "2JN":
+    name: "2 Yahiya"
+    slug: "2-yahiya"
+  "3JN":
+    name: "3 Yahiya"
+    slug: "3-yahiya"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Pamabukisan"
+    slug: "pamabukisan"

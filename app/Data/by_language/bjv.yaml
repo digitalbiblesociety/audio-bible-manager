@@ -1,0 +1,92 @@
+language: "bjv"
+books:
+  "RUT":
+    name: "Rutɨ"
+    slug: "rut"
+  "LAM":
+    name: "No̰ Kuwə Ndoo"
+    slug: "no-kuwe-ndoo"
+  "JON":
+    name: "Jonasɨ"
+    slug: "jonas"
+  "MAT":
+    name: "Matɨye"
+    slug: "matiye"
+  "MRK":
+    name: "Markɨ"
+    slug: "marki"
+  "LUK":
+    name: "Lukɨ"
+    slug: "luki"
+  "JHN":
+    name: "Ja̰"
+    slug: "ja"
+  "ACT":
+    name: "Kɨlə lə NJé kaw kɨlə je"
+    slug: "kile-le-nje-kaw-kile-je"
+  "ROM":
+    name: "Rom je"
+    slug: "rom-je"
+  "1CO":
+    name: "1 Korḛtɨ je"
+    slug: "1-koreti-je"
+  "2CO":
+    name: "2 Korḛtɨ je"
+    slug: "2-koreti-je"
+  "GAL":
+    name: "Galatɨ je"
+    slug: "galati-je"
+  "EPH":
+    name: "Epəjɨ je"
+    slug: "epeji-je"
+  "PHP":
+    name: "Pɨlɨpɨ je"
+    slug: "pilipi-je"
+  "COL":
+    name: "Kolosɨ je"
+    slug: "kolosi-je"
+  "1TH":
+    name: "1 Təsalonɨkɨ je"
+    slug: "1-tesaloniki-je"
+  "2TH":
+    name: "2 Təsalonɨkɨ je"
+    slug: "2-tesaloniki-je"
+  "1TI":
+    name: "1 Tɨmote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Tɨmote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tɨtɨ"
+    slug: "titi"
+  "PHM":
+    name: "Pɨləmo̰"
+    slug: "pilemo"
+  "HEB":
+    name: "Ebɨrə je"
+    slug: "ebire-je"
+  "JAS":
+    name: "Jakɨ"
+    slug: "jaki"
+  "1PE":
+    name: "1 Pɨyər"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Pɨyər"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Ja̰"
+    slug: "1-ja"
+  "2JN":
+    name: "2 Ja̰"
+    slug: "2-ja"
+  "3JN":
+    name: "3 Ja̰"
+    slug: "3-ja"
+  "JUD":
+    name: "Judɨ"
+    slug: "judi"
+  "REV":
+    name: "Nḛ kɨ tḛḛ kɨ dɔe"
+    slug: "ne-ki-tee-ki-de"

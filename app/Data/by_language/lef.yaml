@@ -1,0 +1,266 @@
+language: "lef"
+books:
+  "GEN":
+    name: "Ala Kalɔ Buse"
+    slug: "ala-kal-buse"
+    name_toc: "Ala Kalɔ Buse Ɔku"
+  "EXO":
+    name: "Israelƒuɔ Bɔlɛ"
+    slug: "israelu-bl"
+    name_toc: "Ɔku Ɔni Mɔɔtina Israelƒuɔ Egyipte Kalɔ Lɛlɔ Bɔlɛ"
+  "LEV":
+    name: "Lewiƒuɔ Ɔda Bubo"
+    slug: "lewiu-da-bubo"
+    name_toc: "Lewiƒuɔ Ɔda Bubo Ɔku"
+  "NUM":
+    name: "Bumomo Bɔka"
+    slug: "bumomo-bka"
+    name_toc: "Bumomo Bɔka Ɔku"
+  "DEU":
+    name: "Lɛkpa Ulu"
+    slug: "lkpa-ulu"
+    name_toc: "Israelƒuɔ Lɛkpa Ulu Ɔku"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Ɔku Ɔni Na Yosua Únweni"
+  "JDG":
+    name: "Litemi Batɛne"
+    slug: "litemi-batne"
+    name_toc: "Litemi Batɛne Bani Nátɔnku Israelƒuɔ Ɔku"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut Keliela Ɔku"
+  "1SA":
+    name: "Samuel 1"
+    slug: "samuel-1"
+    name_toc: "Samuel Ɔku Udeedi"
+  "2SA":
+    name: "Samuel 2"
+    slug: "samuel-2"
+    name_toc: "Samuel Ɔku Unyɔdi"
+  "1KI":
+    name: "Baga 1"
+    slug: "baga-1"
+    name_toc: "Baga Ɔku Udeedi"
+  "2KI":
+    name: "Baga 2"
+    slug: "baga-2"
+    name_toc: "Baga Ɔku Unyɔdi"
+  "1CH":
+    name: "Ala Alɛdi 1"
+    slug: "ala-aldi-1"
+    name_toc: "Ala Alɛdi Bunweni Ɔku Udeedi"
+  "2CH":
+    name: "Ala Alɛdi 2"
+    slug: "ala-aldi-2"
+    name_toc: "Ala Alɛdi Bunweni Ɔku Unyɔdi"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Ɔku Ɔni na Ɔkpane Esra Únweni"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Ɔku Ɔni na Nehemia Únweni"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester Ɔku"
+  "JOB":
+    name: "Hiob"
+    slug: "hiob"
+    name_toc: "Hiob Ɔku"
+  "PSA":
+    name: "Kɔgya"
+    slug: "kgya"
+    name_toc: "Dawid Kɔgya Ɔku"
+  "PRO":
+    name: "Agba"
+    slug: "agba"
+    name_toc: "Salomo Agba Ɔku"
+  "ECC":
+    name: "Etemila"
+    slug: "etemila"
+    name_toc: "Etemila Ani Na Ala Ɔtinane Ɔ́su Ɔku"
+  "SNG":
+    name: "Lɛnu Ƒui Ɔnu"
+    slug: "lnu-ui-nu"
+    name_toc: "Lɛnu Ƒui Ɔnu"
+  "ISA":
+    name: "Yesaia"
+    slug: "yesaia"
+    name_toc: "Yesaia Ɔku"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Yeremia Ɔku"
+  "LAM":
+    name: "Kɔnyana Buwulo"
+    slug: "knyana-buwulo"
+    name_toc: "Kɔnyana Buwulo Ɔku"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+    name_toc: "Esekiel Ɔku"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Ɔku Ɔni Na Daniel Únweni"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea Ɔku"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Yoel Ɔku"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos Ɔku"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Obadia Ɔku"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona Ɔku"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika Ɔku"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum Ɔku"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk Ɔku"
+  "ZEP":
+    name: "Seƒania"
+    slug: "seania"
+    name_toc: "Seƒania Ɔku"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai Ɔku"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "Sakaria Ɔku"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+    name_toc: "Malakai Ɔku"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Litemi Buni Lɛni Na Mateo Únweni"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Litemi Buni Lɛni Na Marko Únweni"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Litemi Buni Lɛni Na Luka Únweni"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Litemi Buni Lɛni Na Yohane Únweni"
+  "ACT":
+    name: "Batalane Kabla"
+    slug: "batalane-kabla"
+    name_toc: "Batalane Kabla Ɔku"
+  "ROM":
+    name: "Romaƒuɔ"
+    slug: "romau"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Romaƒuɔ"
+  "1CO":
+    name: "Korintoƒuɔ 1"
+    slug: "korintou-1"
+    name_toc: "Ɔku Udeedi Ɔni Na Paulo Únweni Úte Korintoƒuɔ"
+  "2CO":
+    name: "Korintoƒuɔ 2"
+    slug: "korintou-2"
+    name_toc: "Ɔku Unyɔdi Ɔni Na Paulo Únweni Úte Korintoƒuɔ"
+  "GAL":
+    name: "Galatiƒuɔ"
+    slug: "galatiu"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Galatiƒuɔ"
+  "EPH":
+    name: "Eƒesoƒuɔ"
+    slug: "eesou"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Eƒesoƒuɔ"
+  "PHP":
+    name: "Ƒilipiƒuɔ"
+    slug: "ilipiu"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Ƒilipiƒuɔ"
+  "COL":
+    name: "Koloseƒuɔ"
+    slug: "koloseu"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Koloseƒuɔ"
+  "1TH":
+    name: "Tesalonikaƒuɔ 1"
+    slug: "tesalonikau-1"
+    name_toc: "Ɔku Udeedi Ɔni Na Paulo Únweni Úte Tesalonikaƒuɔ"
+  "2TH":
+    name: "Tesalonikaƒuɔ 2"
+    slug: "tesalonikau-2"
+    name_toc: "Ɔku Unyɔdi Ɔni Na Paulo Únweni Úte Tesalonikaƒuɔ"
+  "1TI":
+    name: "Timoteo 1"
+    slug: "timoteo-1"
+    name_toc: "Ɔku Udeedi Ɔni Na Paulo Únweni Úte Timoteo"
+  "2TI":
+    name: "Timoteo 2"
+    slug: "timoteo-2"
+    name_toc: "Ɔku Unyɔdi Ɔni Na Paulo Únweni Úte Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Tito"
+  "PHM":
+    name: "Ƒilemon"
+    slug: "ilemon"
+    name_toc: "Ɔku Ɔni Na Paulo Únweni Úte Ƒilemon"
+  "HEB":
+    name: "Hebriƒuɔ"
+    slug: "hebriu"
+    name_toc: "Hebriƒuɔ Ɔku"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Ɔku Ɔni Na Yakobo Únweni"
+  "1PE":
+    name: "Petro 1"
+    slug: "petro-1"
+    name_toc: "Ɔku Udeedi Ɔni Na Petro Únweni"
+  "2PE":
+    name: "Petro 2"
+    slug: "petro-2"
+    name_toc: "Ɔku Unyɔdi Ɔni Na Petro Únweni"
+  "1JN":
+    name: "Yohane 1"
+    slug: "yohane-1"
+    name_toc: "Ɔku Udeedi Ɔni Na Yohane Únweni"
+  "2JN":
+    name: "Yohane 2"
+    slug: "yohane-2"
+    name_toc: "Ɔku Unyɔdi Ɔni Na Yohane Únweni"
+  "3JN":
+    name: "Yohane 3"
+    slug: "yohane-3"
+    name_toc: "Ɔku Ɔtɛdi Ɔni Na Yohane Únweni"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Ɔku Ɔni Na Yuda Únweni"
+  "REV":
+    name: "Budie Taatina"
+    slug: "budie-taatina"
+    name_toc: "Yohane Budie Taatina Ɔku"

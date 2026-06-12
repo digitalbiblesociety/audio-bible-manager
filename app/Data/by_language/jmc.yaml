@@ -1,0 +1,200 @@
+language: "jmc"
+books:
+  "GEN":
+    name: "Mapookyony"
+    slug: "mapookyony"
+  "EXO":
+    name: "Yuuka"
+    slug: "yuuka"
+  "LEV":
+    name: "Valevi"
+    slug: "valevi"
+  "NUM":
+    name: "Meekyena"
+    slug: "meekyena"
+  "DEU":
+    name: "Nkumbuye Wa Uvavaso"
+    slug: "nkumbuye-wa-uvavaso"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Valeti"
+    slug: "valeti"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+  "1KI":
+    name: "1 Vamangyi"
+    slug: "1-vamangyi"
+  "2KI":
+    name: "2 Vamangyi"
+    slug: "2-vamangyi"
+  "1CH":
+    name: "1 Mbony Ta Fyeeri"
+    slug: "1-mbony-ta-fyeeri"
+  "2CH":
+    name: "2 Mbony Ta Fyeeri"
+    slug: "2-mbony-ta-fyeeri"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+  "PSA":
+    name: "Saburi"
+    slug: "saburi"
+  "PRO":
+    name: "Fyaaso"
+    slug: "fyaaso"
+  "ECC":
+    name: "Mwiilosha"
+    slug: "mwiilosha"
+  "SNG":
+    name: "Kyiimbo Kya Fiimbo"
+    slug: "kyiimbo-kya-fiimbo"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Fiiyo"
+    slug: "fiiyo"
+  "EZK":
+    name: "Esekieli"
+    slug: "esekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Mashora"
+    slug: "mashora"
+  "ROM":
+    name: "Varome"
+    slug: "varome"
+  "1CO":
+    name: "1 Vakorinto"
+    slug: "1-vakorinto"
+  "2CO":
+    name: "2 Vakorinto"
+    slug: "2-vakorinto"
+  "GAL":
+    name: "Vagalatia"
+    slug: "vagalatia"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+  "COL":
+    name: "Vakolosai"
+    slug: "vakolosai"
+  "1TH":
+    name: "1 Vatesalonike"
+    slug: "1-vatesalonike"
+  "2TH":
+    name: "2 Vatesalonike"
+    slug: "2-vatesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Vaebrania"
+    slug: "vaebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Usukuyony"
+    slug: "usukuyony"

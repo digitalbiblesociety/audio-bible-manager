@@ -1,0 +1,266 @@
+language: "lol"
+books:
+  "GEN":
+    name: "Toango"
+    slug: "toango"
+    name_toc: "Toango"
+  "EXO":
+    name: "Olelo"
+    slug: "olelo"
+    name_toc: "Olelo"
+  "LEV":
+    name: "Bisekyelo bia Ba-Lewi"
+    slug: "bisekyelo-bia-ba-lewi"
+    name_toc: "Bisekyelo bia Ba-Lewi"
+  "NUM":
+    name: "Beanji"
+    slug: "beanji"
+    name_toc: "Beanji"
+  "DEU":
+    name: "Bisekyelo biʼafeka"
+    slug: "bisekyelo-biafeka"
+    name_toc: "Bisekyelo Biʼafeka"
+  "JOS":
+    name: "Yoswa"
+    slug: "yoswa"
+    name_toc: "Bonkanda wa Yoswa"
+  "JDG":
+    name: "Bateni bʼakambo"
+    slug: "bateni-bakambo"
+    name_toc: "Bonkanda wa Bateni bʼakambo"
+  "RUT":
+    name: "Luta"
+    slug: "luta"
+    name_toc: "Bonkanda wa Luta"
+  "1SA":
+    name: "1 Samwele"
+    slug: "1-samwele"
+    name_toc: "Bonkanda wa Samwele wa joso"
+  "2SA":
+    name: "2 Samwele"
+    slug: "2-samwele"
+    name_toc: "Bonkanda wa Samwele wʼefe"
+  "1KI":
+    name: "1 Bakulaka"
+    slug: "1-bakulaka"
+    name_toc: "Bonkanda wa Bakulaka ba Rois wa joso"
+  "2KI":
+    name: "2 Bakulaka"
+    slug: "2-bakulaka"
+    name_toc: "Bonkanda wa Bakulakaba Rois wʼefe"
+  "1CH":
+    name: "1 Besako"
+    slug: "1-besako"
+    name_toc: "Bonkanda wa Besako wa joso"
+  "2CH":
+    name: "2 Besako"
+    slug: "2-besako"
+    name_toc: "Bonkanda wa Besako wʼefe"
+  "EZR":
+    name: "Ezala"
+    slug: "ezala"
+    name_toc: "Bonkanda wa Ezala"
+  "NEH":
+    name: "Nemaya"
+    slug: "nemaya"
+    name_toc: "Bonkanda wa Nemaya"
+  "EST":
+    name: "Esetele"
+    slug: "esetele"
+    name_toc: "Bonkanda wa Esetele"
+  "JOB":
+    name: "Eyobo"
+    slug: "eyobo"
+    name_toc: "Bonkanda wa Eyobo"
+  "PSA":
+    name: "Njemba ya Losimo"
+    slug: "njemba-ya-losimo"
+    name_toc: "Njemba ya Losimo jʼimemya"
+  "PRO":
+    name: "Nsau"
+    slug: "nsau"
+    name_toc: "Bonkanda wa Nsau"
+  "ECC":
+    name: "Wongoji"
+    slug: "wongoji"
+    name_toc: "Bonkanda wa Wongoji"
+  "SNG":
+    name: "Njemba ea Njemba"
+    slug: "njemba-ea-njemba"
+    name_toc: "Njemba ea Njemba"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Bonkanda wa Yesaya"
+  "JER":
+    name: "Yelemaya"
+    slug: "yelemaya"
+    name_toc: "Bonkanda wa Yelemaya"
+  "LAM":
+    name: "Balelo"
+    slug: "balelo"
+    name_toc: "Balelo"
+  "EZK":
+    name: "Yezekele"
+    slug: "yezekele"
+    name_toc: "Bonkanda wa Yezekele"
+  "DAN":
+    name: "Danyele"
+    slug: "danyele"
+    name_toc: "Bonkanda wa Danyele"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+    name_toc: "Bonkanda wa Osea"
+  "JOL":
+    name: "Yoele"
+    slug: "yoele"
+    name_toc: "Bonkanda wa Yoele"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+    name_toc: "Bonkanda wa Amosa"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Bonkanda wa Obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Bonkanda wa Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Bonkanda wa Mika"
+  "NAM":
+    name: "Nauma"
+    slug: "nauma"
+    name_toc: "Bonkanda wa Nauma"
+  "HAB":
+    name: "Abakuka"
+    slug: "abakuka"
+    name_toc: "Bonkanda wa Abakuka"
+  "ZEP":
+    name: "Sefanya"
+    slug: "sefanya"
+    name_toc: "Bonkanda wa Sefanya"
+  "HAG":
+    name: "Angai"
+    slug: "angai"
+    name_toc: "Bonkanda wa Angai"
+  "ZEC":
+    name: "Zekalaya"
+    slug: "zekalaya"
+    name_toc: "Bonkanda wa Zekalaya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Bonkanda wa Malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Nsango E’olotsi Eki Matayo Okotaka"
+  "MRK":
+    name: "Malako"
+    slug: "malako"
+    name_toc: "Nsango E’olotsi Eki Malako Okotaka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Nsango E’olotsi Eki Luka Okotaka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Nsango E’olotsi Eki Yoane Okotaka"
+  "ACT":
+    name: "Belemo Beki Bikima"
+    slug: "belemo-beki-bikima"
+    name_toc: "Belemo Beki Bikima"
+  "ROM":
+    name: "Ba-Loma"
+    slug: "ba-loma"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Okotelaka Ba-Loma"
+  "1CO":
+    name: "1 Ba-Kolinto"
+    slug: "1-ba-kolinto"
+    name_toc: "Bonkanda Wa Mpato Wa Joso Boki Paulo Ekima Okotelaka Ba-Kolinto"
+  "2CO":
+    name: "2 Ba-Kolinto"
+    slug: "2-ba-kolinto"
+    name_toc: "Bonkanda Wa Mpato W’efe Boki Paulo Ekima Okotelaka Ba-Kolinto"
+  "GAL":
+    name: "Ba-Ngalatia"
+    slug: "ba-ngalatia"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Okotelaka Ba-Ngalatia"
+  "EPH":
+    name: "Ba-Efeso"
+    slug: "ba-efeso"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Ekima Okotelaka Ba-Efeso"
+  "PHP":
+    name: "Ba-Filipoi"
+    slug: "ba-filipoi"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Ekima Okotelaka Ba-Filipoi"
+  "COL":
+    name: "Ba-Kolosai"
+    slug: "ba-kolosai"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo, Ekima, Okotelaka Ba-Kolosai"
+  "1TH":
+    name: "1 Ba-Tesalonike"
+    slug: "1-ba-tesalonike"
+    name_toc: "Bonkanda Wa Mpato Wa Joso Boki Paulo Ekima Okotelaka Ba-Tesalonike"
+  "2TH":
+    name: "2 Ba-Tesalonike"
+    slug: "2-ba-tesalonike"
+    name_toc: "Bonkanda Wa Mpato W’efe Boki Paulo Ekima Okotelaka Ba-Tesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Bonkanda Wa Mpato Wa Joso Boki Paulo Ekima Okotelaka Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Bonkanda Wa Mpato W’efe Boki Paulo Ekima Okotelaka Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Okotelaka Tito"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Bonkanda Wa Mpato Boki Paulo Okotelaka Filemona"
+  "HEB":
+    name: "Ba-Ebele"
+    slug: "ba-ebele"
+    name_toc: "Bonkanda Wa Mpato Bokotamaki Ele Ba-Ebele"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Bonkanda Wa Mpato Boki Yakobo Okotaka"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+    name_toc: "Bonkanda Wa Mpato Wa Joso Boki Petelo Okotaca"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+    name_toc: "Bonkanda Wa Mpato W’efe Boki Petelo Okotaka"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Bonkanda Wa Mpato Wa Joso Boki Yoane Okotaka"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Bonkanda Wa Mpato W’efe Boki Yoane Okotaka"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Bonkanda Ma Mpato W’esato Boki Yoane Okotaka"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Bonkanda Wa Mpato Boki Yuda Okotaka"
+  "REV":
+    name: "Eneyelo"
+    slug: "eneyelo"
+    name_toc: "Eneyelo Eki Yoane Oenaka"

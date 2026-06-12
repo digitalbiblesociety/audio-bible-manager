@@ -1,0 +1,23 @@
+language: "six"
+books:
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "GAL":
+    name: "Kal"
+    slug: "kal"
+  "1TH":
+    name: "1 Ts"
+    slug: "1-ts"
+  "2TH":
+    name: "2 Ts"
+    slug: "2-ts"
+  "1JN":
+    name: "1 Yo"
+    slug: "1-yo"
+  "2JN":
+    name: "2 Yo"
+    slug: "2-yo"
+  "3JN":
+    name: "3 Yo"
+    slug: "3-yo"

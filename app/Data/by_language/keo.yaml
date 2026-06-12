@@ -1,0 +1,110 @@
+language: "keo"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Kuu Na’bu Na Wuru Matayo Ina Matayo 1"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+    name_toc: "Kuu Na’bu Na Wuru Marako Ina Marako 1"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Kuu Na’bu Na Wuru Luka Ina Luka 1"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Kuu Na’bu Na Wuru Yoane Ina Yoane 1"
+  "ACT":
+    name: "Konesi"
+    slug: "konesi"
+    name_toc: "Konesi Ti Lososonyo Konesi 1"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Waraga Na Wuroki Paulo Ŋutu Ti Roma Kilo Ina Roma 1"
+  "1CO":
+    name: "1 Korinito"
+    slug: "1-korinito"
+    name_toc: "Waraga Naga A Kayo Na Wuroki Paulo Ŋutu Ti Korinito Kilo Ina 1 Korinito 1"
+  "2CO":
+    name: "2 Korinito"
+    slug: "2-korinito"
+    name_toc: "Waraga Naga A Togi Mure Na Wuroki Paulo Ŋutu Ti Korinito Kilo Ina 2 Korinito 1"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Waraga Na Wuroki Paulo Ŋutu Ti Galatia Kilo Ina Galatia 1"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "WARAGA NA WUROKI PAULO ŊUtu TI EFESO KILO INA EFESO 1"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "WARAGA NA WUROKI PAULO ŊUtu TI FILIPI INA FILIPI 1"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+    name_toc: "WARAGA NA WUROKI PAULO ŊUtu TI KOLOSAI KILO INA KOLOSAI 1"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+    name_toc: "Waraga Naga A Kayo Na Wuroki Paulo Ŋutu Ti Tesalonike Kilo Ina 1 Tesalonike 1"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+    name_toc: "Waraga Naga A Togi Mure Na Wuroki Paulo Ŋutu Ti Tesalonike Kilo Ina 2 Tesalonike 1"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Waraga Naga A Kayo Na Wuroki Paulo Timoteo Ina 1 Timoteo 1"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Waraga Naga A Togi Mure Na Wuroki Paulo Timoteo Ina 2 Timoteo 1"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Waraga Na Wuroki Paulo Tito Ina Tito 1"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Waraga Na Wuroki Paulo Filemona Ina"
+  "HEB":
+    name: "Ebere"
+    slug: "ebere"
+    name_toc: "Waraga Na Wuro Ku Ŋutu Ti Ebere Kilo Yu Ina Ebere 1"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Waraga Na Wuru Yakobo Ina Yakobo 1"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Waraga Naga A Kayo Na Wuru Petero Ina 1 Petero 1"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Waraga Naga A Togi Mure Na Wuru Petero Ina 2 Petero 1"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Waraga Naga A Kayo Na Wuru Yoane Ina 1 Yoane 1"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Waraga Naga A Togi Mure Na Wuru Yoane Ina"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Waraga Naga A Togi Musala Na Wuru Yoane Ina"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Waraga Na Wuru Yuda Ina"
+  "REV":
+    name: "Kulia Na Kpeki"
+    slug: "kulia-na-kpeki"
+    name_toc: "Kulia Na Kpeki Yoane Kine Kulia Na Kpeki 1"

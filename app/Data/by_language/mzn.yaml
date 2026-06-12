@@ -1,0 +1,8 @@
+language: "mzn"
+books:
+  "RUT":
+    name: "روت"
+    slug: "rwt"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"

@@ -1,0 +1,101 @@
+language: "bps"
+books:
+  "GEN":
+    name: "Dyénésis"
+    slug: "dyenesis"
+  "EXO":
+    name: "Éksodus"
+    slug: "eksodus"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "PSA":
+    name: "Salmo"
+    slug: "salmo"
+  "PRO":
+    name: "Dad Fngewe"
+    slug: "dad-fngewe"
+  "JON":
+    name: "Dyona"
+    slug: "dyona"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Dyan"
+    slug: "dyan"
+  "ACT":
+    name: "Dad Nimò"
+    slug: "dad-nimo"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintu"
+    slug: "1-korintu"
+  "2CO":
+    name: "2 Korintu"
+    slug: "2-korintu"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Ifisus"
+    slug: "ifisus"
+  "PHP":
+    name: "Filifos"
+    slug: "filifos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tésalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tésalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Dyém"
+    slug: "dyem"
+  "1PE":
+    name: "1 Fiter"
+    slug: "1-fiter"
+  "2PE":
+    name: "2 Fiter"
+    slug: "2-fiter"
+  "1JN":
+    name: "1 Dyan"
+    slug: "1-dyan"
+  "2JN":
+    name: "2 Dyan"
+    slug: "2-dyan"
+  "3JN":
+    name: "3 Dyan"
+    slug: "3-dyan"
+  "JUD":
+    name: "Dyud"
+    slug: "dyud"
+  "REV":
+    name: "Tafite"
+    slug: "tafite"

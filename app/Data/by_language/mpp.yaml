@@ -1,0 +1,5 @@
+language: "mpp"
+books:
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"

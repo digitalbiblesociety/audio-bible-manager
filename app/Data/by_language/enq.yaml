@@ -1,0 +1,11 @@
+language: "enq"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"

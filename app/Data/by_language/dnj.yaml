@@ -1,0 +1,83 @@
+language: "dnj"
+books:
+  "MAT":
+    name: "Matiö"
+    slug: "matio"
+  "MRK":
+    name: "Maakö"
+    slug: "maako"
+  "LUK":
+    name: "Lukö"
+    slug: "luko"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Këyuö ‑nu"
+    slug: "keyuo-nu"
+  "ROM":
+    name: "Wlɔmë"
+    slug: "wlme"
+  "1CO":
+    name: "1 Kolɛntö"
+    slug: "1-kolnto"
+  "2CO":
+    name: "2 Kolɛntö"
+    slug: "2-kolnto"
+  "GAL":
+    name: "Galatö"
+    slug: "galato"
+  "EPH":
+    name: "Efɛzö"
+    slug: "efzo"
+  "PHP":
+    name: "Filipö"
+    slug: "filipo"
+  "COL":
+    name: "Kolɔsö"
+    slug: "kolso"
+  "1TH":
+    name: "1 Tesalɔnikö"
+    slug: "1-tesalniko"
+  "2TH":
+    name: "2 Tesalɔnikö"
+    slug: "2-tesalniko"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titö"
+    slug: "tito"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eblö"
+    slug: "eblo"
+  "JAS":
+    name: "Zakö"
+    slug: "zako"
+  "1PE":
+    name: "1 Piɛɛ"
+    slug: "1-pi"
+  "2PE":
+    name: "2 Piɛɛ"
+    slug: "2-pi"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zudë"
+    slug: "zude"
+  "REV":
+    name: "'Dhɛbhowunta 'sëëdhɛ"
+    slug: "dhbhowunta-seedh"

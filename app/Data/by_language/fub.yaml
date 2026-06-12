@@ -1,0 +1,236 @@
+language: "fub"
+books:
+  "GEN":
+    name: "Laataanooji"
+    slug: "laataanooji"
+  "EXO":
+    name: "Gurtaaki"
+    slug: "gurtaaki"
+  "LEV":
+    name: "Farillaaji Lewi'en"
+    slug: "farillaaji-lewi-en"
+  "NUM":
+    name: "Limle"
+    slug: "limle"
+  "DEU":
+    name: "Tooktaaki Tawreeta"
+    slug: "tooktaaki-tawreeta"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+  "JDG":
+    name: "Alkaali'en"
+    slug: "alkaali-en"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1 Samuyila"
+    slug: "1-samuyila"
+  "2SA":
+    name: "2 Samuyila"
+    slug: "2-samuyila"
+  "1KI":
+    name: "1 Laamiiɓe"
+    slug: "1-laamiie"
+  "2KI":
+    name: "2 Laamiiɓe"
+    slug: "2-laamiie"
+  "1CH":
+    name: "1 حَبَرُوجِ ࢩَلَاطٜ"
+    slug: "1-hbrwj-ylat"
+  "2CH":
+    name: "2 حَبَرُوجِ ࢩَلَاطٜ"
+    slug: "2-hbrwj-ylat"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Asta"
+    slug: "asta"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Jabuura"
+    slug: "jabuura"
+  "PRO":
+    name: "Balndi"
+    slug: "balndi"
+  "ECC":
+    name: "Gaazoowo"
+    slug: "gaazoowo"
+  "SNG":
+    name: "Yimre Suleymaanu"
+    slug: "yimre-suleymaanu"
+  "ISA":
+    name: "Esaaya"
+    slug: "esaaya"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+  "LAM":
+    name: "Gimi Boyki"
+    slug: "gimi-boyki"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+  "HOS":
+    name: "Hose'a"
+    slug: "hose-a"
+  "JOL":
+    name: "Yo'el"
+    slug: "yo-el"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+  "JON":
+    name: "Yonas"
+    slug: "yonas"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefaniya"
+    slug: "sefaniya"
+  "HAG":
+    name: "Haggay"
+    slug: "haggay"
+  "ZEC":
+    name: "Zekariya"
+    slug: "zekariya"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Yudit"
+    slug: "yudit"
+  "ESG":
+    name: "Asta yunaniŋkeere"
+    slug: "asta-yunanikeere"
+  "WIS":
+    name: "Hikma"
+    slug: "hikma"
+  "SIR":
+    name: "Sirasid"
+    slug: "sirasid"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "LJE":
+    name: "Bataakewol Yeremiya"
+    slug: "bataakewol-yeremiya"
+  "S3Y":
+    name: "Daniyel yunaniŋkeere"
+    slug: "daniyel-yunanikeere"
+  "SUS":
+    name: "Suzan"
+    slug: "suzan"
+  "BEL":
+    name: "Beel e Kuuŋga"
+    slug: "beel-e-kuuga"
+  "1MA":
+    name: "1 Makabe"
+    slug: "1-makabe"
+  "2MA":
+    name: "2 Makabe"
+    slug: "2-makabe"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Kuuɗe Nelaaɓe"
+    slug: "kuue-nelaae"
+  "ROM":
+    name: "Roma'en"
+    slug: "roma-en"
+  "1CO":
+    name: "1 Korintu'en"
+    slug: "1-korintu-en"
+  "2CO":
+    name: "2 Korintu'en"
+    slug: "2-korintu-en"
+  "GAL":
+    name: "Galaatiya'en"
+    slug: "galaatiya-en"
+  "EPH":
+    name: "Efesu'en"
+    slug: "efesu-en"
+  "PHP":
+    name: "Filippi'en"
+    slug: "filippi-en"
+  "COL":
+    name: "Kolossi'en"
+    slug: "kolossi-en"
+  "1TH":
+    name: "1 Tessaloniiki'en"
+    slug: "1-tessaloniiki-en"
+  "2TH":
+    name: "2 Tessaloniiki'en"
+    slug: "2-tessaloniiki-en"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibraniŋke'en"
+    slug: "ibranike-en"
+  "JAS":
+    name: "Yaakuba"
+    slug: "yaakuba"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yuhanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 Yuhanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 Yuhanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Yahuuda"
+    slug: "yahuuda"
+  "REV":
+    name: "Wahayu Yuhanna"
+    slug: "wahayu-yuhanna"

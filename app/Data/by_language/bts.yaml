@@ -1,0 +1,236 @@
+language: "bts"
+books:
+  "GEN":
+    name: "1 Musa"
+    slug: "1-musa"
+  "EXO":
+    name: "2 Musa"
+    slug: "2-musa"
+  "LEV":
+    name: "3 Musa"
+    slug: "3-musa"
+  "NUM":
+    name: "4 Musa"
+    slug: "4-musa"
+  "DEU":
+    name: "5 Musa"
+    slug: "5-musa"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Panguhum"
+    slug: "panguhum"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Raja-raja"
+    slug: "1-raja-raja"
+  "2KI":
+    name: "2 Raja-raja"
+    slug: "2-raja-raja"
+  "1CH":
+    name: "1 Kronika"
+    slug: "1-kronika"
+  "2CH":
+    name: "2 Kronika"
+    slug: "2-kronika"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalmen"
+    slug: "psalmen"
+  "PRO":
+    name: "Podah"
+    slug: "podah"
+  "ECC":
+    name: "Parambilan"
+    slug: "parambilan"
+  "SNG":
+    name: "Doding Ni Doding"
+    slug: "doding-ni-doding"
+  "ISA":
+    name: "Jesaya"
+    slug: "jesaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Tangis-tangis"
+    slug: "tangis-tangis"
+  "EZK":
+    name: "Hesekiel"
+    slug: "hesekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sepanya"
+    slug: "sepanya"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+  "MAL":
+    name: "Maleaki"
+    slug: "maleaki"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Tamb. Ester"
+    slug: "tamb-ester"
+  "WIS":
+    name: "Hap. Salomo"
+    slug: "hap-salomo"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "LJE":
+    name: "Surat Jeremia"
+    slug: "surat-jeremia"
+  "S3Y":
+    name: "Tamb. Daniel"
+    slug: "tamb-daniel"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+  "1MA":
+    name: "1 Makabe"
+    slug: "1-makabe"
+  "2MA":
+    name: "2 Makabe"
+    slug: "2-makabe"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Lahoan Ni Apostel"
+    slug: "lahoan-ni-apostel"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilippi"
+    slug: "pilippi"
+  "COL":
+    name: "Kolosse"
+    slug: "kolosse"
+  "1TH":
+    name: "1 Tessalonika"
+    slug: "1-tessalonika"
+  "2TH":
+    name: "2 Tessalonika"
+    slug: "2-tessalonika"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Heber"
+    slug: "heber"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2 Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3 Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Pangungkabon"
+    slug: "pangungkabon"

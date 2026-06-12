@@ -1,0 +1,110 @@
+language: "rej"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Пэ́рво Мойзаскири Лылвари́ (Джиибэ́н)"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Яви́р Мойзаскири Лылвари́ (Выгиибэн)"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Три́то Мойзаскири Лылвари́ (Левито)"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Шта́рто Мойзаскири Лылвари́ (Чыслы)"
+  "ACT":
+    name: "Kisah Rasul-rasul"
+    slug: "kisah-rasul-rasul"
+    name_toc: "Па́нджто Мойзаскири Лылвари́ (Яви́р Зако́но)"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Исусо́скирэ Навиноскири Лылвари́"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Сэндарьенгири Лылвари́"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Рутакири (Руфьякири) Лылвари́"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Пэ́рво Кралипнаскири Лылвари́"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Яви́р Кралипнаскири Лылвари́"
+  "PHP":
+    name: "Filifi"
+    slug: "filifi"
+    name_toc: "Три́то Кралипнаскири Лылвари́"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Шта́рто Кралипнаскири Лылвари́"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Пэ́рво Хронология (1 Паралипоменоно)"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Яви́р Хронология (2 Паралипоменоно)"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Ездраскири Лылвари́"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Ниемияскири Лылвари́"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Эстэракири (Эсфирьякири) Лылвари́"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Иовскири Лылвари́"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Псалмы"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Притчы"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Эклесиастоскири Лылвари́"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Гиленгири (Соломоно́скири) Гилы́"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Исаёскири Лылвари́"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Еремеёскири Лылвари́"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Роибэн Еремеёскиро"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Езэкилёскири Лылвари́"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"
+    name_toc: "Даниелёскири Лылвари́"

@@ -1,0 +1,83 @@
+language: "yaq"
+books:
+  "MAT":
+    name: "Mateeo"
+    slug: "mateeo"
+  "MRK":
+    name: "Maekos"
+    slug: "maekos"
+  "LUK":
+    name: "Luukas"
+    slug: "luukas"
+  "JHN":
+    name: "Joan"
+    slug: "joan"
+  "ACT":
+    name: "Krijtota Yeu Pu'arim Ya'ari"
+    slug: "krijtota-yeu-puarim-yaari"
+  "ROM":
+    name: "Romaanom"
+    slug: "romaanom"
+  "1CO":
+    name: "1 Korintiom"
+    slug: "1-korintiom"
+  "2CO":
+    name: "2 Korintiom"
+    slug: "2-korintiom"
+  "GAL":
+    name: "Kaalatam"
+    slug: "kaalatam"
+  "EPH":
+    name: "Epeesiom"
+    slug: "epeesiom"
+  "PHP":
+    name: "Pilipensem"
+    slug: "pilipensem"
+  "COL":
+    name: "Kolosensem"
+    slug: "kolosensem"
+  "1TH":
+    name: "1 Tesalonisensem"
+    slug: "1-tesalonisensem"
+  "2TH":
+    name: "2 Tesalonisensem"
+    slug: "2-tesalonisensem"
+  "1TI":
+    name: "1 Timoteeo"
+    slug: "1-timoteeo"
+  "2TI":
+    name: "2 Timoteeo"
+    slug: "2-timoteeo"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ebreeom"
+    slug: "ebreeom"
+  "JAS":
+    name: "Santiaako"
+    slug: "santiaako"
+  "1PE":
+    name: "1 Peeo"
+    slug: "1-peeo"
+  "2PE":
+    name: "2 Peeo"
+    slug: "2-peeo"
+  "1JN":
+    name: "1 Joan"
+    slug: "1-joan"
+  "2JN":
+    name: "2 Joan"
+    slug: "2-joan"
+  "3JN":
+    name: "3 Joan"
+    slug: "3-joan"
+  "JUD":
+    name: "Juuras"
+    slug: "juuras"
+  "REV":
+    name: "Apokalipsis"
+    slug: "apokalipsis"

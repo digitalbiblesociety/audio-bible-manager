@@ -1,0 +1,110 @@
+language: "rim"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Осияскири Лылвари́"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Иоилёскири Лылвари́"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Амососкири Лылвари́"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Авдиёскири Лылвари́"
+  "ACT":
+    name: "Nte"
+    slug: "nte"
+    name_toc: "Ионаскири (Ёнаскири) Лылвари́"
+  "ROM":
+    name: "Arumi"
+    slug: "arumi"
+    name_toc: "Михеёскири Лылвари́"
+  "1CO":
+    name: "1 Akorinto"
+    slug: "1-akorinto"
+    name_toc: "Наумоскири Лылвари́"
+  "2CO":
+    name: "2 Akorinto"
+    slug: "2-akorinto"
+    name_toc: "Авакумоскири Лылвари́"
+  "GAL":
+    name: "Agalatia"
+    slug: "agalatia"
+    name_toc: "Софонияскири Лылвари́"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+    name_toc: "Агеёскири Лылвари́"
+  "PHP":
+    name: "Vafilifi"
+    slug: "vafilifi"
+    name_toc: "Захарияскири Лылвари́"
+  "COL":
+    name: "Akolosai"
+    slug: "akolosai"
+    name_toc: "Малахияскири Лылвари́"
+  "1TH":
+    name: "1 Atesalonike"
+    slug: "1-atesalonike"
+    name_toc: "Ева́нгелия Матфеёстыр"
+  "2TH":
+    name: "2 Atesalonike"
+    slug: "2-atesalonike"
+    name_toc: "Ева́нгелия Маркостыр"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Ева́нгелия Лукастыр"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ева́нгелия Иано́стыр"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Апостолэнгири Буты́"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Павли́скиро Лыл Римлянэнгэ"
+  "HEB":
+    name: "Vaeburania"
+    slug: "vaeburania"
+    name_toc: "Пэ́рво Павли́скиро Лыл Коринфянэнгэ"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Яви́р Павли́скиро Лыл Коринфянэнгэ"
+  "1PE":
+    name: "1 Fetero"
+    slug: "1-fetero"
+    name_toc: "Павли́скиро Лыл Галатэнгэ"
+  "2PE":
+    name: "2 Fetero"
+    slug: "2-fetero"
+    name_toc: "Павли́скиро Лыл Эфесянэнгэ"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Павли́скиро Лыл Филипийцэнгэ"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Павли́скиро Лыл Колосянэнгэ"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Пэ́рво Павли́скиро Лыл Фесалоникийцэнгэ"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Яви́р Павли́скиро Лыл Фесалоникийцэнгэ"
+  "REV":
+    name: "Ukunukuo"
+    slug: "ukunukuo"
+    name_toc: "Пэ́рво Павли́скиро Лыл Химаскэ (Тимофеёскэ)"

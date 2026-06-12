@@ -1,0 +1,83 @@
+language: "xsm"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Marɩkɩ"
+    slug: "mark"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Tɩtʋŋa Tɔnɔ"
+    slug: "ttna-tn"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korɛntɩ"
+    slug: "1-kornt"
+  "2CO":
+    name: "2 Korɛntɩ"
+    slug: "2-kornt"
+  "GAL":
+    name: "Galatɩ"
+    slug: "galat"
+  "EPH":
+    name: "Efɛɛzɩ"
+    slug: "efz"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolɔsɩ"
+    slug: "kols"
+  "1TH":
+    name: "1 Tesaloniki"
+    slug: "1-tesaloniki"
+  "2TH":
+    name: "2 Tesaloniki"
+    slug: "2-tesaloniki"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Filimɔn"
+    slug: "filimn"
+  "HEB":
+    name: "Ebru"
+    slug: "ebru"
+  "JAS":
+    name: "Zakɩ"
+    slug: "zak"
+  "1PE":
+    name: "1 Pɩyɛɛrɩ"
+    slug: "1-pyr"
+  "2PE":
+    name: "2 Pɩyɛɛrɩ"
+    slug: "2-pyr"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zudi"
+    slug: "zudi"
+  "REV":
+    name: "Brɩm Tɔnɔ"
+    slug: "brm-tn"

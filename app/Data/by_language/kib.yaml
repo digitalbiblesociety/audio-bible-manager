@@ -1,0 +1,98 @@
+language: "kib"
+books:
+  "LUK":
+    name: "lk."
+    slug: "lk"
+    name_toc: "ŋiɽaŋal ŋizaw ŋuludizi luuga"
+  "JHN":
+    name: "yuhanna"
+    slug: "yuhanna"
+    name_toc: "ŋiɽaŋal ŋizaw ŋuluḏizi yuhanna"
+  "ROM":
+    name: "ruumiya"
+    slug: "ruumiya"
+    name_toc: "juwab kwuluca buuluz lizi ledi kaniiza kinani ruumiya"
+  "1CO":
+    name: "kurinṯuuz al awal"
+    slug: "kurintuuz-al-awal"
+    name_toc: "juwab al awal kwuluca buuluz lizi leḏi kaniiza kinani kurinṯuuz"
+  "2CO":
+    name: "kurinṯuuz aṯ ṯaani"
+    slug: "kurintuuz-at-taani"
+    name_toc: "juwab aṯ ṯaani kwuluca buuluz lizi leḏi kaniiza kinani kurinṯuuz"
+  "GAL":
+    name: "galaaṯya"
+    slug: "galaatya"
+    name_toc: "juwab kwuluca buuluz lizi leḏi yaniiza yinani galaaṯya"
+  "EPH":
+    name: "afazuz"
+    slug: "afazuz"
+    name_toc: "juwab kwuluca buuluz lizi leḏi kaniiza kinani afazuz"
+  "PHP":
+    name: "fiilibbi"
+    slug: "fiilibbi"
+    name_toc: "juwab kwuluca buuluz lizi leḏi kaniiza kinani fiilibbi"
+  "COL":
+    name: "kuluuzi"
+    slug: "kuluuzi"
+    name_toc: "juwab kwuluca buuluz lizi ledi kaniiza kinani kuluuzi"
+  "1TH":
+    name: "ṯazaluniiki al awal"
+    slug: "tazaluniiki-al-awal"
+    name_toc: "juwab al awal kwuluca buuluz lizi ledi kaniiza kinani ṯazaluniiki"
+  "2TH":
+    name: "ṯazaluniiki aṯ ṯaani"
+    slug: "tazaluniiki-at-taani"
+    name_toc: "juwab aṯ ṯaani kwuluca buuluz lizi leḏi kaniiza kinani ṯazaluniiki"
+  "1TI":
+    name: "timuṯaawuzŋw al awal"
+    slug: "timutaawuzw-al-awal"
+    name_toc: "juwab al awal kwuluca buuluz timuṯaawuzŋw"
+  "2TI":
+    name: "timuṯaawuzŋw aṯ ṯaani"
+    slug: "timutaawuzw-at-taani"
+    name_toc: "juwab aṯ ṯaani kwuluca buuluz timuṯaawuzŋw"
+  "TIT":
+    name: "tiiṯaz"
+    slug: "tiitaz"
+    name_toc: "juwab kwuluca buuluz tiiṯazŋw"
+  "PHM":
+    name: "falimun"
+    slug: "falimun"
+    name_toc: "juwab kwuluca buuluz falimunŋw"
+  "HEB":
+    name: "libraani"
+    slug: "libraani"
+    name_toc: "juwab kweḏi lizi leni libraani lir lizi leni yahuuḏ"
+  "JAS":
+    name: "yaguub"
+    slug: "yaguub"
+    name_toc: "juwab kwuluḏi yaguub"
+  "1PE":
+    name: "buṯruz al awal"
+    slug: "butruz-al-awal"
+    name_toc: "juwab al awal kwuluḏi buṯruz"
+  "2PE":
+    name: "buṯruz aṯ ṯaani"
+    slug: "butruz-at-taani"
+    name_toc: "juwab aṯ ṯaani kwuluḏi buṯruz"
+  "1JN":
+    name: "yuhanna al awal"
+    slug: "yuhanna-al-awal"
+    name_toc: "juwab al awal kwuluḏi yuhanna"
+  "2JN":
+    name: "yuhanna aṯ ṯaani"
+    slug: "yuhanna-at-taani"
+    name_toc: "juwab aṯ ṯaani kwuluḏi yuhanna"
+  "3JN":
+    name: "yuhanna aṯ ṯaalit"
+    slug: "yuhanna-at-taalit"
+    name_toc: "juwab aṯ ṯaalit kwuluḏi yuhanna"
+  "JUD":
+    name: "yahuuza"
+    slug: "yahuuza"
+    name_toc: "juwab kwuluḏi yahuuza"
+  "REV":
+    name: "ruuya"
+    slug: "ruuya"
+    name_toc: "ruuya"

@@ -1,0 +1,200 @@
+language: "ctd"
+books:
+  "GEN":
+    name: "Piancilna"
+    slug: "piancilna"
+  "EXO":
+    name: "Paikhiatna"
+    slug: "paikhiatna"
+  "LEV":
+    name: "Siampi Laibu"
+    slug: "siampi-laibu"
+  "NUM":
+    name: "Gamlak Vakna"
+    slug: "gamlak-vakna"
+  "DEU":
+    name: "Thu Hilhkikna"
+    slug: "thu-hilhkikna"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Thukhente"
+    slug: "thukhente"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "Samuel Masa"
+    slug: "samuel-masa"
+  "2SA":
+    name: "Samuel Nihna"
+    slug: "samuel-nihna"
+  "1KI":
+    name: "Kumpite Masa"
+    slug: "kumpite-masa"
+  "2KI":
+    name: "Kumpite Nihna"
+    slug: "kumpite-nihna"
+  "1CH":
+    name: "Khang-tangthu Masa"
+    slug: "khang-tangthu-masa"
+  "2CH":
+    name: "Khang-tangthu Nihna"
+    slug: "khang-tangthu-nihna"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Late"
+    slug: "late"
+  "PRO":
+    name: "Paunak"
+    slug: "paunak"
+  "ECC":
+    name: "Thuhilhna"
+    slug: "thuhilhna"
+  "SNG":
+    name: "Solomon La"
+    slug: "solomon-la"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "LAM":
+    name: "Kah La"
+    slug: "kah-la"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Mikah"
+    slug: "mikah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zefaniah"
+    slug: "zefaniah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Zekhariah"
+    slug: "zekhariah"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+  "MAT":
+    name: "Mattiu"
+    slug: "mattiu"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johan"
+    slug: "johan"
+  "ACT":
+    name: "Sawltak"
+    slug: "sawltak"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Korin Masa"
+    slug: "korin-masa"
+  "2CO":
+    name: "Korin Nihna"
+    slug: "korin-nihna"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "Filippi"
+    slug: "filippi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Thesalon Masa"
+    slug: "thesalon-masa"
+  "2TH":
+    name: "Thesalon Nihna"
+    slug: "thesalon-nihna"
+  "1TI":
+    name: "Timoti Masa"
+    slug: "timoti-masa"
+  "2TI":
+    name: "Timoti Nihna"
+    slug: "timoti-nihna"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Jeim"
+    slug: "jeim"
+  "1PE":
+    name: "Piter Masa"
+    slug: "piter-masa"
+  "2PE":
+    name: "Piter Nihna"
+    slug: "piter-nihna"
+  "1JN":
+    name: "Johan Masa"
+    slug: "johan-masa"
+  "2JN":
+    name: "Johan Nihna"
+    slug: "johan-nihna"
+  "3JN":
+    name: "Johan Thumna"
+    slug: "johan-thumna"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Mangmuhna"
+    slug: "mangmuhna"

@@ -1,0 +1,200 @@
+language: "hre"
+books:
+  "GEN":
+    name: "Bìac Baxèm"
+    slug: "biac-baxem"
+  "EXO":
+    name: "Loh Enh Aicàp"
+    slug: "loh-enh-aicap"
+  "LEV":
+    name: "Lêwi"
+    slug: "lewi"
+  "NUM":
+    name: "Sôq Jàn"
+    slug: "soq-jan"
+  "DEU":
+    name: "Ranenh Achìh Hlài Yàng Baiq"
+    slug: "ranenh-achih-hlai-yang-baiq"
+  "JOS":
+    name: "Jôsuê"
+    slug: "josue"
+  "JDG":
+    name: "'Bài Cwan Hadrah"
+    slug: "bai-cwan-hadrah"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Sa-mu-ên"
+    slug: "1-sa-mu-en"
+  "2SA":
+    name: "2 Sa-mu-ên"
+    slug: "2-sa-mu-en"
+  "1KI":
+    name: "1 'Bài Bùa"
+    slug: "1-bai-bua"
+  "2KI":
+    name: "2 'Bài Bùa"
+    slug: "2-bai-bua"
+  "1CH":
+    name: "1 'Nhòng Bùa"
+    slug: "1-nhong-bua"
+  "2CH":
+    name: "2 'Nhòng Bùa"
+    slug: "2-nhong-bua"
+  "EZR":
+    name: "Êxra"
+    slug: "exra"
+  "NEH":
+    name: "Nê-hê-mi"
+    slug: "ne-he-mi"
+  "EST":
+    name: "Êxtê"
+    slug: "exte"
+  "JOB":
+    name: "Sech Jop"
+    slug: "sech-jop"
+  "PSA":
+    name: "'Bŏi Calêu Plình"
+    slug: "boi-caleu-plinh"
+  "PRO":
+    name: "Bàu Rabiaq"
+    slug: "bau-rabiaq"
+  "ECC":
+    name: "Bàu Anoi Hnài"
+    slug: "bau-anoi-hnai"
+  "SNG":
+    name: "'Bŏi Calêu"
+    slug: "boi-caleu"
+  "ISA":
+    name: "Êsai"
+    slug: "esai"
+  "JER":
+    name: "Jê-rê-mi"
+    slug: "je-re-mi"
+  "LAM":
+    name: "Bàu Ha-on"
+    slug: "bau-ha-on"
+  "EZK":
+    name: "Ê-xê-chi-ên"
+    slug: "e-xe-chi-en"
+  "DAN":
+    name: "Đa-ni-ên"
+    slug: "da-ni-en"
+  "HOS":
+    name: "Ôsê"
+    slug: "ose"
+  "JOL":
+    name: "Jôên"
+    slug: "joen"
+  "AMO":
+    name: "Amôt"
+    slug: "amot"
+  "OBA":
+    name: "Apđia"
+    slug: "apdia"
+  "JON":
+    name: "Jôna"
+    slug: "jona"
+  "MIC":
+    name: "Mica"
+    slug: "mica"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Ha-ba-cuc"
+    slug: "ha-ba-cuc"
+  "ZEP":
+    name: "Sô-phô-ni"
+    slug: "so-pho-ni"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Xa-cha-ri"
+    slug: "xa-cha-ri"
+  "MAL":
+    name: "Ma-la-chi"
+    slug: "ma-la-chi"
+  "MAT":
+    name: "Mathêu"
+    slug: "matheu"
+  "MRK":
+    name: "Mŏc"
+    slug: "moc"
+  "LUK":
+    name: "Luca"
+    slug: "luca"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Bìac Yiang Hadròih"
+    slug: "biac-yiang-hadroih"
+  "ROM":
+    name: "Rôma"
+    slug: "roma"
+  "1CO":
+    name: "1 Cô-rinh-tô"
+    slug: "1-co-rinh-to"
+  "2CO":
+    name: "2 Cô-rinh-tô"
+    slug: "2-co-rinh-to"
+  "GAL":
+    name: "Ga-la-ti"
+    slug: "ga-la-ti"
+  "EPH":
+    name: "Ê-phê-sô"
+    slug: "e-phe-so"
+  "PHP":
+    name: "Philip"
+    slug: "philip"
+  "COL":
+    name: "Cô-lô-se"
+    slug: "co-lo-se"
+  "1TH":
+    name: "1 Tê-sa-lô-ni-ca"
+    slug: "1-te-sa-lo-ni-ca"
+  "2TH":
+    name: "2 Tê-sa-lô-ni-ca"
+    slug: "2-te-sa-lo-ni-ca"
+  "1TI":
+    name: "1 Ti-mô-thê"
+    slug: "1-ti-mo-the"
+  "2TI":
+    name: "2 Ti-mô-thê"
+    slug: "2-ti-mo-the"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Phi-lê-môn"
+    slug: "phi-le-mon"
+  "HEB":
+    name: "Hêbru"
+    slug: "hebru"
+  "JAS":
+    name: "Jacò"
+    slug: "jaco"
+  "1PE":
+    name: "1 Pêtrô"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Pêtrô"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Juđe"
+    slug: "jude"
+  "REV":
+    name: "Bìac Mahno"
+    slug: "biac-mahno"

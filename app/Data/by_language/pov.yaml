@@ -1,0 +1,266 @@
+language: "pov"
+books:
+  "GEN":
+    name: "Kumsada"
+    slug: "kumsada"
+    name_toc: "ทีต๊ะ"
+  "EXO":
+    name: "Saida"
+    slug: "saida"
+    name_toc: "ฟีเลโมง"
+  "LEV":
+    name: "Sirmonias"
+    slug: "sirmonias"
+    name_toc: "ฮีบรู"
+  "NUM":
+    name: "Numerus"
+    slug: "numerus"
+    name_toc: "ยาเก้า"
+  "DEU":
+    name: "Ripitison di Lei"
+    slug: "ripitison-di-lei"
+    name_toc: "1เปโต"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "2​เปโต"
+  "JDG":
+    name: "Ŝefis"
+    slug: "sefis"
+    name_toc: "1โยฮาง"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "2​โยฮาง"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "3​โยฮาง"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "ยูด้ะ"
+  "1KI":
+    name: "1 Reis"
+    slug: "1-reis"
+    name_toc: "ท​เน​โพล​ทาง"
+  "2KI":
+    name: "2 Reis"
+    slug: "2-reis"
+    name_toc: "Génesis"
+  "1CH":
+    name: "1 Kronikas"
+    slug: "1-kronikas"
+    name_toc: "Éxodo"
+  "2CH":
+    name: "2 Kronikas"
+    slug: "2-kronikas"
+    name_toc: "Levítico"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Números"
+  "NEH":
+    name: "Neemias"
+    slug: "neemias"
+    name_toc: "Deuteronomio"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Josue"
+  "JOB":
+    name: "Jo"
+    slug: "jo"
+    name_toc: "Jueces"
+  "PSA":
+    name: "Salmus"
+    slug: "salmus"
+    name_toc: "Rut"
+  "PRO":
+    name: "Ditus"
+    slug: "ditus"
+    name_toc: "1 Samuel"
+  "ECC":
+    name: "Eklesiastis"
+    slug: "eklesiastis"
+    name_toc: "2 Samuel"
+  "SNG":
+    name: "Kantiga di Salomon"
+    slug: "kantiga-di-salomon"
+    name_toc: "1 Reyes"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+    name_toc: "2 Reyes"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "1 Crónicas"
+  "LAM":
+    name: "Miskiñu di Jeremias"
+    slug: "miskinu-di-jeremias"
+    name_toc: "2 Crónicas"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Esdras"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Nehemías"
+  "HOS":
+    name: "Oseias"
+    slug: "oseias"
+    name_toc: "Ester"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Job"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Salmos"
+  "OBA":
+    name: "Obadias"
+    slug: "obadias"
+    name_toc: "Proverbios"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Eclesiastés"
+  "MIC":
+    name: "Mikeias"
+    slug: "mikeias"
+    name_toc: "Cantares"
+  "NAM":
+    name: "Naun"
+    slug: "naun"
+    name_toc: "Isaías"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Jeremias"
+  "ZEP":
+    name: "Sofonias"
+    slug: "sofonias"
+    name_toc: "Lamentaciones"
+  "HAG":
+    name: "Aẑeu"
+    slug: "azeu"
+    name_toc: "Ezequiel"
+  "ZEC":
+    name: "Zakarias"
+    slug: "zakarias"
+    name_toc: "Daniel"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+    name_toc: "Oseas"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+    name_toc: "Joel"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Amós"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Abdías"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+    name_toc: "Jonás"
+  "ACT":
+    name: "Atus"
+    slug: "atus"
+    name_toc: "Miqueas"
+  "ROM":
+    name: "Romanus"
+    slug: "romanus"
+    name_toc: "Nahúm"
+  "1CO":
+    name: "1 Koríntius"
+    slug: "1-korintius"
+    name_toc: "Habacuc"
+  "2CO":
+    name: "2 Koríntius"
+    slug: "2-korintius"
+    name_toc: "Sofonías"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+    name_toc: "Hageo"
+  "EPH":
+    name: "Efésius"
+    slug: "efesius"
+    name_toc: "Zacarías"
+  "PHP":
+    name: "Filipensis"
+    slug: "filipensis"
+    name_toc: "Malaquías"
+  "COL":
+    name: "Kolosensis"
+    slug: "kolosensis"
+    name_toc: "Mateo"
+  "1TH":
+    name: "1 Tesalonisensis"
+    slug: "1-tesalonisensis"
+    name_toc: "Marcos"
+  "2TH":
+    name: "2 Tesalonisensis"
+    slug: "2-tesalonisensis"
+    name_toc: "Lucas"
+  "1TI":
+    name: "1 Timótiu"
+    slug: "1-timotiu"
+    name_toc: "Juan"
+  "2TI":
+    name: "2 Timótiu"
+    slug: "2-timotiu"
+    name_toc: "Hechos"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Romanos"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "1 Corintios"
+  "HEB":
+    name: "Ebreus"
+    slug: "ebreus"
+    name_toc: "2 Corintios"
+  "JAS":
+    name: "Tiagu"
+    slug: "tiagu"
+    name_toc: "Gálatas"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+    name_toc: "Efesios"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+    name_toc: "Filipenses"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+    name_toc: "Colosenses"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+    name_toc: "1 Tesalonicenses"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+    name_toc: "2 Tesalonicenses"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "1 Timoteo"
+  "REV":
+    name: "Apokalipsi"
+    slug: "apokalipsi"
+    name_toc: "2 Timoteo"

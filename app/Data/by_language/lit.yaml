@@ -1,0 +1,302 @@
+language: "lit"
+books:
+  "GEN":
+    name: "Pradžios"
+    slug: "pradzios"
+    name_toc: "Pradžios knyga"
+  "EXO":
+    name: "Išėjimo"
+    slug: "isejimo"
+    name_toc: "Išėjimo knyga"
+  "LEV":
+    name: "Kunigų"
+    slug: "kunigu"
+    name_toc: "Kunigų knyga"
+  "NUM":
+    name: "Skaičių"
+    slug: "skaiciu"
+    name_toc: "Skaičių knyga"
+  "DEU":
+    name: "Pakartoto Įstatymo"
+    slug: "pakartoto-istatymo"
+    name_toc: "Pakartoto Įstatymo knyga"
+  "JOS":
+    name: "Jozuės"
+    slug: "jozues"
+    name_toc: "Jozuės knyga"
+  "JDG":
+    name: "Teisėjų"
+    slug: "teiseju"
+    name_toc: "Teisėjų knyga"
+  "RUT":
+    name: "Rūtos"
+    slug: "rutos"
+    name_toc: "Rūtos knyga"
+  "1SA":
+    name: "1 Samuelio"
+    slug: "1-samuelio"
+    name_toc: "Samuelio pirma knyga"
+  "2SA":
+    name: "2 Samuelio"
+    slug: "2-samuelio"
+    name_toc: "Samuelio antra knyga"
+  "1KI":
+    name: "1 Karalių"
+    slug: "1-karaliu"
+    name_toc: "Karalių pirma knyga"
+  "2KI":
+    name: "2 Karalių"
+    slug: "2-karaliu"
+    name_toc: "Karalių antra knyga"
+  "1CH":
+    name: "1 Metraščių"
+    slug: "1-metrasciu"
+    name_toc: "Metraščių pirma knyga"
+  "2CH":
+    name: "2 Metraščių"
+    slug: "2-metrasciu"
+    name_toc: "Metraščių antra knyga"
+  "EZR":
+    name: "Ezros"
+    slug: "ezros"
+    name_toc: "Ezros knyga"
+  "NEH":
+    name: "Nehemijo"
+    slug: "nehemijo"
+    name_toc: "Nehemijo knyga"
+  "EST":
+    name: "Esteros"
+    slug: "esteros"
+    name_toc: "Esteros knyga"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "Jobo knyga"
+  "PSA":
+    name: "Psalmynas"
+    slug: "psalmynas"
+    name_toc: "Psalmynas"
+  "PRO":
+    name: "Patarlės"
+    slug: "patarles"
+    name_toc: "Patarlių knyga"
+  "ECC":
+    name: "Mokytojo"
+    slug: "mokytojo"
+    name_toc: "Mokytojo knyga"
+  "SNG":
+    name: "Giesmių giesmė"
+    slug: "giesmiu-giesme"
+    name_toc: "Giesmių giesmė"
+  "ISA":
+    name: "Izaijo"
+    slug: "izaijo"
+    name_toc: "Izaijo knyga"
+  "JER":
+    name: "Jeremijo"
+    slug: "jeremijo"
+    name_toc: "Jeremijo knyga"
+  "LAM":
+    name: "Raudų"
+    slug: "raudu"
+    name_toc: "Raudų knyga"
+  "EZK":
+    name: "Ezechielio"
+    slug: "ezechielio"
+    name_toc: "Ezechielio knyga"
+  "DAN":
+    name: "Danieliaus"
+    slug: "danieliaus"
+    name_toc: "Danieliaus knyga"
+  "HOS":
+    name: "Ozėjo"
+    slug: "ozejo"
+    name_toc: "Ozėjo knyga"
+  "JOL":
+    name: "Joelio"
+    slug: "joelio"
+    name_toc: "Joelio knyga"
+  "AMO":
+    name: "Amoso"
+    slug: "amoso"
+    name_toc: "Amoso knyga"
+  "OBA":
+    name: "Abdijo"
+    slug: "abdijo"
+    name_toc: "Abdijo knyga"
+  "JON":
+    name: "Jonos"
+    slug: "jonos"
+    name_toc: "Jonos knyga"
+  "MIC":
+    name: "Michėjo"
+    slug: "michejo"
+    name_toc: "Michėjo knyga"
+  "NAM":
+    name: "Nahumo"
+    slug: "nahumo"
+    name_toc: "Nahumo knyga"
+  "HAB":
+    name: "Habakuko"
+    slug: "habakuko"
+    name_toc: "Habakuko knyga"
+  "ZEP":
+    name: "Sofonijo"
+    slug: "sofonijo"
+    name_toc: "Sofonijo knyga"
+  "HAG":
+    name: "Agėjo"
+    slug: "agejo"
+    name_toc: "Agėjo knyga"
+  "ZEC":
+    name: "Zacharijo"
+    slug: "zacharijo"
+    name_toc: "Zacharijo knyga"
+  "MAL":
+    name: "Malachijo"
+    slug: "malachijo"
+    name_toc: "Malachijo knyga"
+  "TOB":
+    name: "Tobito"
+    slug: "tobito"
+    name_toc: "Tobito knyga"
+  "JDT":
+    name: "Juditos"
+    slug: "juditos"
+    name_toc: "Juditos knyga"
+  "ESG":
+    name: "Esteros (graikiškoji)"
+    slug: "esteros-graikiskoji"
+    name_toc: "Esteros knyga (graikiškoji)"
+  "WIS":
+    name: "Išminties"
+    slug: "isminties"
+    name_toc: "Išminties knyga"
+  "SIR":
+    name: "Siracido"
+    slug: "siracido"
+    name_toc: "Siracido knyga"
+  "BAR":
+    name: "Barucho"
+    slug: "barucho"
+    name_toc: "Barucho knyga"
+  "DAG":
+    name: "Danieliaus (graikiškieji)"
+    slug: "danieliaus-graikiskieji"
+    name_toc: "Danieliaus knyga (graikiškieji skyriai)"
+  "1MA":
+    name: "1 Makabiejų"
+    slug: "1-makabieju"
+    name_toc: "Makabiejų pirma knyga"
+  "2MA":
+    name: "2 Makabiejų"
+    slug: "2-makabieju"
+    name_toc: "Makabiejų antra knyga"
+  "MAT":
+    name: "Mato"
+    slug: "mato"
+    name_toc: "Evangelija pagal Matą"
+  "MRK":
+    name: "Morkaus"
+    slug: "morkaus"
+    name_toc: "Evangelija pagal Morkų"
+  "LUK":
+    name: "Luko"
+    slug: "luko"
+    name_toc: "Evangelija pagal Luką"
+  "JHN":
+    name: "Jono"
+    slug: "jono"
+    name_toc: "Evangelija pagal Joną"
+  "ACT":
+    name: "Apaštalų darbai"
+    slug: "apastalu-darbai"
+    name_toc: "Apaštalų darbai"
+  "ROM":
+    name: "Romiečiams"
+    slug: "romieciams"
+    name_toc: "Laiškas romiečiams"
+  "1CO":
+    name: "1 Korintiečiams"
+    slug: "1-korintieciams"
+    name_toc: "Pirmas laiškas korintiečiams"
+  "2CO":
+    name: "2 Korintiečiams"
+    slug: "2-korintieciams"
+    name_toc: "Antras laiškas korintiečiams"
+  "GAL":
+    name: "Galatams"
+    slug: "galatams"
+    name_toc: "Laiškas galatams"
+  "EPH":
+    name: "Efeziečiams"
+    slug: "efezieciams"
+    name_toc: "Laiškas efeziečiams"
+  "PHP":
+    name: "Filipiečiams"
+    slug: "filipieciams"
+    name_toc: "Laiškas filipiečiams"
+  "COL":
+    name: "Kolosiečiams"
+    slug: "kolosieciams"
+    name_toc: "Laiškas kolosiečiams"
+  "1TH":
+    name: "1 Tesalonikiečiams"
+    slug: "1-tesalonikieciams"
+    name_toc: "Pirmas laiškas tesalonikiečiams"
+  "2TH":
+    name: "2 Tesalonikiečiams"
+    slug: "2-tesalonikieciams"
+    name_toc: "Antras laiškas tesalonikiečiams"
+  "1TI":
+    name: "1 Timotiejui"
+    slug: "1-timotiejui"
+    name_toc: "Pirmas laiškas Timotiejui"
+  "2TI":
+    name: "2 Timotiejui"
+    slug: "2-timotiejui"
+    name_toc: "Antras laiškas Timotiejui"
+  "TIT":
+    name: "Titui"
+    slug: "titui"
+    name_toc: "Laiškas Titui"
+  "PHM":
+    name: "Filemonui"
+    slug: "filemonui"
+    name_toc: "Laiškas Filemonui"
+  "HEB":
+    name: "Hebrajams"
+    slug: "hebrajams"
+    name_toc: "Laiškas hebrajams"
+  "JAS":
+    name: "Jokūbo"
+    slug: "jokubo"
+    name_toc: "Jokūbo laiškas"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Petro pirmas laiškas"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Petro antras laiškas"
+  "1JN":
+    name: "1 Jono"
+    slug: "1-jono"
+    name_toc: "Jono pirmas laiškas"
+  "2JN":
+    name: "2 Jono"
+    slug: "2-jono"
+    name_toc: "Jono antras laiškas"
+  "3JN":
+    name: "3 Jono"
+    slug: "3-jono"
+    name_toc: "Jono trečias laiškas"
+  "JUD":
+    name: "Judo"
+    slug: "judo"
+    name_toc: "Judo laiškas"
+  "REV":
+    name: "Apreiškimas"
+    slug: "apreiskimas"
+    name_toc: "Apreiškimas Jonui"

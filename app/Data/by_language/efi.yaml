@@ -1,0 +1,200 @@
+language: "efi"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Leviticus"
+    slug: "leviticus"
+  "NUM":
+    name: "Numbers"
+    slug: "numbers"
+  "DEU":
+    name: "Deuteronomy"
+    slug: "deuteronomy"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Ndidem"
+    slug: "1-ndidem"
+  "2KI":
+    name: "2 Ndidem"
+    slug: "2-ndidem"
+  "1CH":
+    name: "1 Chronicles"
+    slug: "1-chronicles"
+  "2CH":
+    name: "2 Chronicles"
+    slug: "2-chronicles"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Ŋwed Job"
+    slug: "wed-job"
+  "PSA":
+    name: "Ŋwed Mme Psalm"
+    slug: "wed-mme-psalm"
+  "PRO":
+    name: "Mme Ŋke"
+    slug: "mme-ke"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+  "SNG":
+    name: "Ikwɔ Solomon"
+    slug: "ikw-solomon"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "LAM":
+    name: "Ŋwed Eseme"
+    slug: "wed-eseme"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Micah"
+    slug: "micah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zephaniah"
+    slug: "zephaniah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Zechariah"
+    slug: "zechariah"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Utom Mme Apostle"
+    slug: "utom-mme-apostle"
+  "ROM":
+    name: "Ŋwed Mbon Rome"
+    slug: "wed-mbon-rome"
+  "1CO":
+    name: "1 Ŋwed Corinth"
+    slug: "1-wed-corinth"
+  "2CO":
+    name: "2 Ŋwed Corinth"
+    slug: "2-wed-corinth"
+  "GAL":
+    name: "Ŋwed Mbon Galatia"
+    slug: "wed-mbon-galatia"
+  "EPH":
+    name: "Ŋwed Mbon Ephesus"
+    slug: "wed-mbon-ephesus"
+  "PHP":
+    name: "Ŋwed Mbon Philippi"
+    slug: "wed-mbon-philippi"
+  "COL":
+    name: "Ŋwed Mbon Colossae"
+    slug: "wed-mbon-colossae"
+  "1TH":
+    name: "1 Ŋwed Thessalonica"
+    slug: "1-wed-thessalonica"
+  "2TH":
+    name: "2 Ŋwed Thessalonica"
+    slug: "2-wed-thessalonica"
+  "1TI":
+    name: "1Ŋwed Timothy"
+    slug: "1wed-timothy"
+  "2TI":
+    name: "2 Ŋwed Timothy"
+    slug: "2-wed-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Mme Hebrew"
+    slug: "mme-hebrew"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Eriyarare"
+    slug: "eriyarare"

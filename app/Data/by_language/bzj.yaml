@@ -1,0 +1,83 @@
+language: "bzj"
+books:
+  "MAT":
+    name: "Machyu"
+    slug: "machyu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Look"
+    slug: "look"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Di Aks"
+    slug: "di-aks"
+  "ROM":
+    name: "Roamanz"
+    slug: "roamanz"
+  "1CO":
+    name: "1 Korintyanz"
+    slug: "1-korintyanz"
+  "2CO":
+    name: "2 Korintyanz"
+    slug: "2-korintyanz"
+  "GAL":
+    name: "Galayshanz"
+    slug: "galayshanz"
+  "EPH":
+    name: "Ifeezhanz"
+    slug: "ifeezhanz"
+  "PHP":
+    name: "Filipiyanz"
+    slug: "filipiyanz"
+  "COL":
+    name: "Koloashanz"
+    slug: "koloashanz"
+  "1TH":
+    name: "1 Tesaloanyanz"
+    slug: "1-tesaloanyanz"
+  "2TH":
+    name: "2 Tesaloanyanz"
+    slug: "2-tesaloanyanz"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitos"
+    slug: "taitos"
+  "PHM":
+    name: "Faileeman"
+    slug: "faileeman"
+  "HEB":
+    name: "Heebrooz"
+    slug: "heebrooz"
+  "JAS":
+    name: "Jaymz"
+    slug: "jaymz"
+  "1PE":
+    name: "1 Peeta"
+    slug: "1-peeta"
+  "2PE":
+    name: "2 Peeta"
+    slug: "2-peeta"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jood"
+    slug: "jood"
+  "REV":
+    name: "Revilayshan"
+    slug: "revilayshan"

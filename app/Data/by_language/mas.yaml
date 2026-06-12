@@ -1,0 +1,302 @@
+language: "mas"
+books:
+  "GEN":
+    name: "Enk"
+    slug: "enk"
+    name_toc: "Enkiterunoto"
+  "EXO":
+    name: "Ena"
+    slug: "ena"
+    name_toc: "Enaidurra"
+  "LEV":
+    name: "Ilaw"
+    slug: "ilaw"
+    name_toc: "Ilawi"
+  "NUM":
+    name: "Enki"
+    slug: "enki"
+    name_toc: "Enkikena"
+  "DEU":
+    name: "Enkig"
+    slug: "enkig"
+    name_toc: "Enkigilata oo Nkitanapat"
+  "JOS":
+    name: "Yosh"
+    slug: "yosh"
+    name_toc: "Yoshua"
+  "JDG":
+    name: "Ilari"
+    slug: "ilari"
+    name_toc: "Ilarishak"
+  "RUT":
+    name: "Ru"
+    slug: "ru"
+    name_toc: "Rusi"
+  "1SA":
+    name: "1 Sam"
+    slug: "1-sam"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Sam"
+    slug: "2-sam"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Ilai"
+    slug: "1-ilai"
+    name_toc: "1 Ilaiguanak"
+  "2KI":
+    name: "2 Ilai"
+    slug: "2-ilai"
+    name_toc: "2 Ilaiguanak"
+  "1CH":
+    name: "1 Int"
+    slug: "1-int"
+    name_toc: "1 Intepen"
+  "2CH":
+    name: "2 Int"
+    slug: "2-int"
+    name_toc: "2 Intepen"
+  "EZR":
+    name: "Esr"
+    slug: "esr"
+    name_toc: "Esra"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "Esta"
+  "JOB":
+    name: "Yoa"
+    slug: "yoa"
+    name_toc: "Yoab"
+  "PSA":
+    name: "Olke"
+    slug: "olke"
+    name_toc: "Olkerempe le Nkai"
+  "PRO":
+    name: "Ndung"
+    slug: "ndung"
+    name_toc: "Ndung'eta e Rashe"
+  "ECC":
+    name: "Olaik"
+    slug: "olaik"
+    name_toc: "Olaikooni"
+  "SNG":
+    name: "Osink"
+    slug: "osink"
+    name_toc: "Osinkolio le Solomon"
+  "ISA":
+    name: "Isa"
+    slug: "isa"
+    name_toc: "Isaya"
+  "JER":
+    name: "Yer"
+    slug: "yer"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Nkish"
+    slug: "nkish"
+    name_toc: "Nkishirat"
+  "EZK":
+    name: "Esek"
+    slug: "esek"
+    name_toc: "Esekiel"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hos"
+    slug: "hos"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Yoe"
+    slug: "yoe"
+    name_toc: "Yoel"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obad"
+    slug: "obad"
+    name_toc: "Obadia"
+  "JON":
+    name: "Yon"
+    slug: "yon"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mik"
+    slug: "mik"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habakuki"
+  "ZEP":
+    name: "Sefa"
+    slug: "sefa"
+    name_toc: "Sefania"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Saka"
+    slug: "saka"
+    name_toc: "Sakaria"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malaki"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Embuku e Tobit"
+  "JDT":
+    name: "Yudit"
+    slug: "yudit"
+    name_toc: "Embuku e Yudit"
+  "ESG":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Embuku e Esta"
+  "WIS":
+    name: "Eng'eno nagut e Solomon"
+    slug: "eng-eno-nagut-e-solomon"
+    name_toc: "Eng'eno Nagut e Solomon"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+    name_toc: "Sirak (Naji Sii Eklesiastiko)"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Embuku e Baruk"
+  "DAG":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Embuku e Daniel"
+  "1MA":
+    name: "1 Ilmakabayo"
+    slug: "1-ilmakabayo"
+    name_toc: "Embuku e Dukuya oo Ilmakabayo"
+  "2MA":
+    name: "2 Ilmakabayo"
+    slug: "2-ilmakabayo"
+    name_toc: "Embuku e Are oo Ilmakabayo"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Matayo"
+  "MRK":
+    name: "Mk"
+    slug: "mk"
+    name_toc: "Marko"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yhn"
+    slug: "yhn"
+    name_toc: "Yohana"
+  "ACT":
+    name: "Iat"
+    slug: "iat"
+    name_toc: "Iasat"
+  "ROM":
+    name: "Irm"
+    slug: "irm"
+    name_toc: "Iroma"
+  "1CO":
+    name: "1 Ilkor"
+    slug: "1-ilkor"
+    name_toc: "1 Ilkorintio"
+  "2CO":
+    name: "2 Ilkor"
+    slug: "2-ilkor"
+    name_toc: "2 Ilkorintio"
+  "GAL":
+    name: "Ilg"
+    slug: "ilg"
+    name_toc: "Ilgalatia"
+  "EPH":
+    name: "Efe"
+    slug: "efe"
+    name_toc: "Ile Efeso"
+  "PHP":
+    name: "Ilf"
+    slug: "ilf"
+    name_toc: "Ilfilipi"
+  "COL":
+    name: "Ilkol"
+    slug: "ilkol"
+    name_toc: "Ilkolosai"
+  "1TH":
+    name: "1 Ils"
+    slug: "1-ils"
+    name_toc: "1 Ilsesalonike"
+  "2TH":
+    name: "2 Ils"
+    slug: "2-ils"
+    name_toc: "2 Ilsesalonike"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "1 Timoteo"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "2 Timoteo"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Tito"
+  "PHM":
+    name: "Fil"
+    slug: "fil"
+    name_toc: "Filimon"
+  "HEB":
+    name: "Ilh"
+    slug: "ilh"
+    name_toc: "Ilhebrania"
+  "JAS":
+    name: "Yko"
+    slug: "yko"
+    name_toc: "Yakobo"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+    name_toc: "1 Petero"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+    name_toc: "2 Petero"
+  "1JN":
+    name: "1 Yhn"
+    slug: "1-yhn"
+    name_toc: "1 Yohana"
+  "2JN":
+    name: "2 Yhn"
+    slug: "2-yhn"
+    name_toc: "2 Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Empalai e Uni e Yohana"
+  "JUD":
+    name: "Yd"
+    slug: "yd"
+    name_toc: "Yuda"
+  "REV":
+    name: "Emb"
+    slug: "emb"
+    name_toc: "Embolunoto"

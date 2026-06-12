@@ -1,0 +1,137 @@
+language: "ded"
+books:
+  "GEN":
+    name: "Fingec fingec"
+    slug: "fingec-fingec"
+  "EXO":
+    name: "Makekeng"
+    slug: "makekeng"
+  "NUM":
+    name: "Bangec Kisiu"
+    slug: "bangec-kisiu"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "PSA":
+    name: "Mitiyegec"
+    slug: "mitiyegec"
+  "DAN":
+    name: "Danicel"
+    slug: "danicel"
+  "JOL":
+    name: "Yoele"
+    slug: "yoele"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Owadya"
+    slug: "owadya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "ZEP":
+    name: "Tsefanya"
+    slug: "tsefanya"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Dzekarya"
+    slug: "dzekarya"
+  "MAL":
+    name: "Malecaki"
+    slug: "malecaki"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Aposoro"
+    slug: "aposoro"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Garata"
+    slug: "garata"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Firipi"
+    slug: "firipi"
+  "COL":
+    name: "Korosai"
+    slug: "korosai"
+  "1TH":
+    name: "1 Tesaronike"
+    slug: "1-tesaronike"
+  "2TH":
+    name: "2 Tesaronike"
+    slug: "2-tesaronike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Firemong"
+    slug: "firemong"
+  "HEB":
+    name: "Hebiraio"
+    slug: "hebiraio"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petoro"
+    slug: "1-petoro"
+  "2PE":
+    name: "2 Petoro"
+    slug: "2-petoro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Yohaneac Kpefing"
+    slug: "yohaneac-kpefing"

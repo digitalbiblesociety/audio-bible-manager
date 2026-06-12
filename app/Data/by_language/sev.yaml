@@ -1,0 +1,101 @@
+language: "sev"
+books:
+  "GEN":
+    name: "Duniya Sélimɛ"
+    slug: "duniya-selim"
+  "EXO":
+    name: "Yirile"
+    slug: "yirile"
+  "LEV":
+    name: "Leviiyé Kacuɔnrirɔ"
+    slug: "leviiye-kacunrir"
+  "NUM":
+    name: "Tɔ́rilɔ"
+    slug: "tril"
+  "DEU":
+    name: "Fànʔa Kajuʔulo"
+    slug: "fana-kajuulo"
+  "PSA":
+    name: "Ŋúnuyɔ"
+    slug: "nunuy"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mariki"
+    slug: "mariki"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Kakpiʔiligele"
+    slug: "kakpiiligele"
+  "ROM":
+    name: "Wurɔmiyé"
+    slug: "wurmiye"
+  "1CO":
+    name: "Korɛntiyé péliwe"
+    slug: "korntiye-peliwe"
+  "2CO":
+    name: "Korɛntiyé siinwuu"
+    slug: "korntiye-siinwuu"
+  "GAL":
+    name: "Galasiyé"
+    slug: "galasiye"
+  "EPH":
+    name: "Efɛziyé"
+    slug: "efziye"
+  "PHP":
+    name: "Filipiyé"
+    slug: "filipiye"
+  "COL":
+    name: "Kolɔsiyé"
+    slug: "kolsiye"
+  "1TH":
+    name: "Tesalonikiyé péliwe"
+    slug: "tesalonikiye-peliwe"
+  "2TH":
+    name: "Tesalonikiyé siinwuu"
+    slug: "tesalonikiye-siinwuu"
+  "1TI":
+    name: "Timote péliwe"
+    slug: "timote-peliwe"
+  "2TI":
+    name: "Timote siinwuu"
+    slug: "timote-siinwuu"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+  "PHM":
+    name: "Filɛmɔ"
+    slug: "film"
+  "HEB":
+    name: "Eburulo"
+    slug: "eburulo"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+  "1PE":
+    name: "Piɛri péliwe"
+    slug: "piri-peliwe"
+  "2PE":
+    name: "Piɛri siinwuu"
+    slug: "piri-siinwuu"
+  "1JN":
+    name: "Zan péliwe"
+    slug: "zan-peliwe"
+  "2JN":
+    name: "Zan siinwuu"
+    slug: "zan-siinwuu"
+  "3JN":
+    name: "Zan taanriwuu"
+    slug: "zan-taanriwuu"
+  "JUD":
+    name: "Zudi"
+    slug: "zudi"
+  "REV":
+    name: "Tìɛlɛ"
+    slug: "til"

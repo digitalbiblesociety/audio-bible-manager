@@ -1,0 +1,83 @@
+language: "ter"
+books:
+  "MAT":
+    name: "Máteu"
+    slug: "mateu"
+  "MRK":
+    name: "Márku"
+    slug: "marku"
+  "LUK":
+    name: "Lúka"
+    slug: "luka"
+  "JHN":
+    name: "Xuâum"
+    slug: "xuaum"
+  "ACT":
+    name: "Átu"
+    slug: "atu"
+  "ROM":
+    name: "Rómanu"
+    slug: "romanu"
+  "1CO":
+    name: "1 Koríntiu"
+    slug: "1-korintiu"
+  "2CO":
+    name: "2 Koríntiu"
+    slug: "2-korintiu"
+  "GAL":
+    name: "Ngâlata"
+    slug: "ngalata"
+  "EPH":
+    name: "Éfeziu"
+    slug: "efeziu"
+  "PHP":
+    name: "Filípensi"
+    slug: "filipensi"
+  "COL":
+    name: "Kolósensi"
+    slug: "kolosensi"
+  "1TH":
+    name: "1 Tesalonísensi"
+    slug: "1-tesalonisensi"
+  "2TH":
+    name: "2 Tesalonísensi"
+    slug: "2-tesalonisensi"
+  "1TI":
+    name: "1 Timóti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timóti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Títu"
+    slug: "titu"
+  "PHM":
+    name: "Filémom"
+    slug: "filemom"
+  "HEB":
+    name: "Êbereu"
+    slug: "ebereu"
+  "JAS":
+    name: "Teâku"
+    slug: "teaku"
+  "1PE":
+    name: "1 Pêturu"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 Pêturu"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 Xuâum"
+    slug: "1-xuaum"
+  "2JN":
+    name: "2 Xuâum"
+    slug: "2-xuaum"
+  "3JN":
+    name: "3 Xuâum"
+    slug: "3-xuaum"
+  "JUD":
+    name: "Njûda"
+    slug: "njuda"
+  "REV":
+    name: "Apokalípisi"
+    slug: "apokalipisi"

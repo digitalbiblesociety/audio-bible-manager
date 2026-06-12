@@ -1,0 +1,266 @@
+language: "pmf"
+books:
+  "GEN":
+    name: "Palaburu"
+    slug: "palaburu"
+    name_toc: "Titus"
+  "EXO":
+    name: "Paosu"
+    slug: "paosu"
+    name_toc: "Pilemun"
+  "LEV":
+    name: "Tadumpanyomba"
+    slug: "tadumpanyomba"
+    name_toc: "Ibrani"
+  "NUM":
+    name: "Paimba"
+    slug: "paimba"
+    name_toc: "Yakubus"
+  "DEU":
+    name: "Ulang"
+    slug: "ulang"
+    name_toc: "Bon Noba di Jesus Kristu ku Markus"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Bon Noba di Jesus Kristu ku Lukas"
+  "JDG":
+    name: "Tadulako"
+    slug: "tadulako"
+    name_toc: "Yuhanis"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Yuhanis"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Atus di Apostolus"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Karta ku Paulu Skirbi pa Romanus"
+  "1KI":
+    name: "1 Raja-raja"
+    slug: "1-raja-raja"
+    name_toc: "Pengina'an"
+  "2KI":
+    name: "2 Raja-raja"
+    slug: "2-raja-raja"
+    name_toc: "ทอคางไท้ะ"
+  "1CH":
+    name: "1 Tawari"
+    slug: "1-tawari"
+    name_toc: "ทไจทางไฆวะ"
+  "2CH":
+    name: "2 Tawari"
+    slug: "2-tawari"
+    name_toc: "เลวี​อ​ไฌ่"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "เกล้​ท​ซ้ะวี่ง"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "โล้​ล้างที๊ง​ทอางแม้เลา"
+  "EST":
+    name: "Seteri"
+    slug: "seteri"
+    name_toc: "โยชูวา"
+  "JOB":
+    name: "Ayubi"
+    slug: "ayubi"
+    name_toc: "โพล้งต้ะเซ๊งเท่อ"
+  "PSA":
+    name: "Masmur"
+    slug: "masmur"
+    name_toc: "Karta ku Paulu Skirbi pa Gálatas"
+  "PRO":
+    name: "Patada"
+    slug: "patada"
+    name_toc: "1ซามูเอง"
+  "ECC":
+    name: "Topotuntu"
+    slug: "topotuntu"
+    name_toc: "2​ซามูเอง"
+  "SNG":
+    name: "Ngayu I Ncalomo"
+    slug: "ngayu-i-ncalomo"
+    name_toc: "1​กจุ้แฆว้"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Karta ku Paulu Skirbi pa Efésius"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Karta ku Paulu Skirbi pa Filipensis"
+  "LAM":
+    name: "Ratapan"
+    slug: "ratapan"
+    name_toc: "Karta ku Paulu Skirbi pa Kolosensis"
+  "EZK":
+    name: "Yehesikieli"
+    slug: "yehesikieli"
+    name_toc: "เอซรา"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "เนฮะมี"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Purmeru Karta ku Paulu Skirbi pa Tesalonisensis"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "โยบา"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "ทอางปฆ้า"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "ทอางด้อง"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "ทโกงซีมองแบ"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "ซาโลโมอแท๊"
+  "NAM":
+    name: "Nahu"
+    slug: "nahu"
+    name_toc: "อีซยา"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+    name_toc: "เยเรมี"
+  "ZEP":
+    name: "Sepanya"
+    slug: "sepanya"
+    name_toc: "ท​ฌางล้างย้าล้าง"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "เอเซเคียง"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "ดานีเอง"
+  "MAL":
+    name: "Maleaki"
+    slug: "maleaki"
+    name_toc: "โฮเชยา"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "โยเอง"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Karta ku Paulu Skirbi pa Filemon"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Karta pa Ebreus"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "โยนา"
+  "ACT":
+    name: "Potetala Wa'a Ncuro"
+    slug: "potetala-wa-a-ncuro"
+    name_toc: "มีคา"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Sugundu Karta ku Pedru Skirbi"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+    name_toc: "ฮาบากุ้"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+    name_toc: "เซฟางยา"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Terseru Karta ku Jon Skirbi"
+  "EPH":
+    name: "Epesu"
+    slug: "epesu"
+    name_toc: "เซคารียา"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Apokalipsi di Jon"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Matius"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Markus"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Lukas"
+  "1TI":
+    name: "1 Timotiu"
+    slug: "1-timotiu"
+    name_toc: "โยฮาง"
+  "2TI":
+    name: "2 Timotiu"
+    slug: "2-timotiu"
+    name_toc: "ท​แม้"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "โรมา"
+  "PHM":
+    name: "Pilemo"
+    slug: "pilemo"
+    name_toc: "1​โคเรง"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Kurintus"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+    name_toc: "กาลาเต"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Ipisus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Pilipi"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "โคโลซี"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "1​เทซาโลนีเก"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "2​เทซาโลนีเก"
+  "JUD":
+    name: "Yudasi"
+    slug: "yudasi"
+    name_toc: "1​ทีโมเท"
+  "REV":
+    name: "Pangkita"
+    slug: "pangkita"
+    name_toc: "Timutius"

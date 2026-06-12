@@ -1,0 +1,194 @@
+language: "bim"
+books:
+  "GEN":
+    name: "Pinpiik"
+    slug: "pinpiik"
+  "EXO":
+    name: "Nyinu"
+    slug: "nyinu"
+  "LEV":
+    name: "Liifai teeb"
+    slug: "liifai-teeb"
+  "NUM":
+    name: "Nikant"
+    slug: "nikant"
+  "DEU":
+    name: "Sennu"
+    slug: "sennu"
+  "JOS":
+    name: "Joosua"
+    slug: "joosua"
+  "JDG":
+    name: "Barbuura"
+    slug: "barbuura"
+  "RUT":
+    name: "Ruf"
+    slug: "ruf"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Kpanbara"
+    slug: "1-kpanbara"
+  "2KI":
+    name: "2 Kpanbara"
+    slug: "2-kpanbara"
+  "1CH":
+    name: "1 Barkperii"
+    slug: "1-barkperii"
+  "2CH":
+    name: "2 Barkperii"
+    slug: "2-barkperii"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+  "EST":
+    name: "Estaa"
+    slug: "estaa"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Yaŋ"
+    slug: "yan"
+  "PRO":
+    name: "Barjokit"
+    slug: "barjokit"
+  "ECC":
+    name: "Banntɔɔ"
+    slug: "bannt"
+  "SNG":
+    name: "Yankpaŋii"
+    slug: "yankpanii"
+  "ISA":
+    name: "Aisaya"
+    slug: "aisaya"
+  "JER":
+    name: "Jeremaya"
+    slug: "jeremaya"
+  "LAM":
+    name: "Fabinii"
+    slug: "fabinii"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jɔɔnn"
+    slug: "jnn"
+  "ACT":
+    name: "Toona"
+    slug: "toona"
+  "ROM":
+    name: "Rom Teeb"
+    slug: "rom-teeb"
+  "1CO":
+    name: "1 Korint teeb"
+    slug: "1-korint-teeb"
+  "2CO":
+    name: "2 Korint teeb"
+    slug: "2-korint-teeb"
+  "GAL":
+    name: "Galasia teeb"
+    slug: "galasia-teeb"
+  "EPH":
+    name: "Efesus teeb"
+    slug: "efesus-teeb"
+  "PHP":
+    name: "Filipi teeb"
+    slug: "filipi-teeb"
+  "COL":
+    name: "Kolosa teeb"
+    slug: "kolosa-teeb"
+  "1TH":
+    name: "1 Tesalonika teeb"
+    slug: "1-tesalonika-teeb"
+  "2TH":
+    name: "2 Tesalonika teeb"
+    slug: "2-tesalonika-teeb"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemonn"
+    slug: "filemonn"
+  "HEB":
+    name: "Hiibru teeb"
+    slug: "hiibru-teeb"
+  "JAS":
+    name: "Jeems"
+    slug: "jeems"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jɔɔnn"
+    slug: "1-jnn"
+  "2JN":
+    name: "2 Jɔɔnn"
+    slug: "2-jnn"
+  "3JN":
+    name: "3 Jɔɔnn"
+    slug: "3-jnn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Fiitu"
+    slug: "fiitu"

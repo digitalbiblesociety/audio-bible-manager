@@ -1,0 +1,83 @@
+language: "daf"
+books:
+  "MAT":
+    name: "Matiö"
+    slug: "matio"
+  "MRK":
+    name: "Makö"
+    slug: "mako"
+  "LUK":
+    name: "Dhukö"
+    slug: "dhuko"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Këwɔn ‑nu"
+    slug: "kewn-nu"
+  "ROM":
+    name: "Wlɔmö"
+    slug: "wlmo"
+  "1CO":
+    name: "1 Kodhɛngtö"
+    slug: "1-kodhngto"
+  "2CO":
+    name: "2 Kodhɛngtö"
+    slug: "2-kodhngto"
+  "GAL":
+    name: "Gadhatö"
+    slug: "gadhato"
+  "EPH":
+    name: "Efɛzö"
+    slug: "efzo"
+  "PHP":
+    name: "Fidhipö"
+    slug: "fidhipo"
+  "COL":
+    name: "Kodhɔsö"
+    slug: "kodhso"
+  "1TH":
+    name: "1 Tesadhonikö"
+    slug: "1-tesadhoniko"
+  "2TH":
+    name: "2 Tesadhonikö"
+    slug: "2-tesadhoniko"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titö"
+    slug: "tito"
+  "PHM":
+    name: "Fidhemɔ"
+    slug: "fidhem"
+  "HEB":
+    name: "Eblö"
+    slug: "eblo"
+  "JAS":
+    name: "Zakö"
+    slug: "zako"
+  "1PE":
+    name: "1 Piɛdhö"
+    slug: "1-pidho"
+  "2PE":
+    name: "2 Piɛdhö"
+    slug: "2-pidho"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zudë"
+    slug: "zude"
+  "REV":
+    name: "‑Dhɛkpaɔ"
+    slug: "dhkpa"

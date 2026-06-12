@@ -1,0 +1,50 @@
+language: "glk"
+books:
+  "GEN":
+    name: "پیدایش"
+    slug: "pydaysh"
+  "EXO":
+    name: "خروج"
+    slug: "khrwj"
+  "RUT":
+    name: "روت"
+    slug: "rwt"
+  "EZR":
+    name: "عِزرا"
+    slug: "azra"
+  "EST":
+    name: "استر"
+    slug: "astr"
+  "JOB":
+    name: "ایوب"
+    slug: "aywb"
+  "PSA":
+    name: "مزامیر"
+    slug: "mzamyr"
+  "DAN":
+    name: "دانیال"
+    slug: "danyal"
+  "JON":
+    name: "یونس"
+    slug: "ywns"
+  "MAT":
+    name: "متّی"
+    slug: "mty"
+  "MRK":
+    name: "مَرقُس"
+    slug: "mrqs"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+  "JHN":
+    name: "یوحنا"
+    slug: "ywhna"
+  "ACT":
+    name: "اعمالٚ رسولأن"
+    slug: "aamal-rswlan"
+  "PHP":
+    name: "فیلیپیان"
+    slug: "fylypyan"
+  "1PE":
+    name: "۱پطرس"
+    slug: "ptrs"

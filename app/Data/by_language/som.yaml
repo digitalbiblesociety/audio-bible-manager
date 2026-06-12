@@ -1,0 +1,200 @@
+language: "som"
+books:
+  "GEN":
+    name: "Bilowgii"
+    slug: "bilowgii"
+  "EXO":
+    name: "Baxniintii"
+    slug: "baxniintii"
+  "LEV":
+    name: "Laawiyiintii"
+    slug: "laawiyiintii"
+  "NUM":
+    name: "Tirintii"
+    slug: "tirintii"
+  "DEU":
+    name: "Sharciga Kunoqoshadiisa"
+    slug: "sharciga-kunoqoshadiisa"
+  "JOS":
+    name: "Yashuuca"
+    slug: "yashuuca"
+  "JDG":
+    name: "Xaakinnada"
+    slug: "xaakinnada"
+  "RUT":
+    name: "Ruud"
+    slug: "ruud"
+  "1SA":
+    name: "Samuu'eel Kowaad"
+    slug: "samuueel-kowaad"
+  "2SA":
+    name: "Samuu'eel Labaad"
+    slug: "samuueel-labaad"
+  "1KI":
+    name: "Boqorradii Kowaad"
+    slug: "boqorradii-kowaad"
+  "2KI":
+    name: "Boqorradii Labaad"
+    slug: "boqorradii-labaad"
+  "1CH":
+    name: "Taariikhdii Kowaad"
+    slug: "taariikhdii-kowaad"
+  "2CH":
+    name: "Taariikhdii Labaad"
+    slug: "taariikhdii-labaad"
+  "EZR":
+    name: "Cesraa"
+    slug: "cesraa"
+  "NEH":
+    name: "Nexemyaah"
+    slug: "nexemyaah"
+  "EST":
+    name: "Esteer"
+    slug: "esteer"
+  "JOB":
+    name: "Ayuub"
+    slug: "ayuub"
+  "PSA":
+    name: "Sabuurradii"
+    slug: "sabuurradii"
+  "PRO":
+    name: "Maahmaahyadii"
+    slug: "maahmaahyadii"
+  "ECC":
+    name: "Wacdiyahii"
+    slug: "wacdiyahii"
+  "SNG":
+    name: "Gabaygii Sulaymaan"
+    slug: "gabaygii-sulaymaan"
+  "ISA":
+    name: "Ishacyaah"
+    slug: "ishacyaah"
+  "JER":
+    name: "Yeremyaah"
+    slug: "yeremyaah"
+  "LAM":
+    name: "Baroorashadii Yeremyaah"
+    slug: "baroorashadii-yeremyaah"
+  "EZK":
+    name: "Yexesqeel"
+    slug: "yexesqeel"
+  "DAN":
+    name: "Daanyeel"
+    slug: "daanyeel"
+  "HOS":
+    name: "Hoosheeca"
+    slug: "hoosheeca"
+  "JOL":
+    name: "Yoo'eel"
+    slug: "yooeel"
+  "AMO":
+    name: "Caamoos"
+    slug: "caamoos"
+  "OBA":
+    name: "Cobadyaah"
+    slug: "cobadyaah"
+  "JON":
+    name: "Yoonis"
+    slug: "yoonis"
+  "MIC":
+    name: "Miikaah"
+    slug: "miikaah"
+  "NAM":
+    name: "Naxuum"
+    slug: "naxuum"
+  "HAB":
+    name: "Xabaquuq"
+    slug: "xabaquuq"
+  "ZEP":
+    name: "Sefanyaah"
+    slug: "sefanyaah"
+  "HAG":
+    name: "Xaggay"
+    slug: "xaggay"
+  "ZEC":
+    name: "Sekaryaah"
+    slug: "sekaryaah"
+  "MAL":
+    name: "Malaakii"
+    slug: "malaakii"
+  "MAT":
+    name: "Matayos"
+    slug: "matayos"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Luukos"
+    slug: "luukos"
+  "JHN":
+    name: "Yooxanaa"
+    slug: "yooxanaa"
+  "ACT":
+    name: "Falimaha Rasuullada"
+    slug: "falimaha-rasuullada"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+  "1CO":
+    name: "1 Korintos"
+    slug: "1-korintos"
+  "2CO":
+    name: "2 Korintos"
+    slug: "2-korintos"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efesos"
+    slug: "efesos"
+  "PHP":
+    name: "Filiboy"
+    slug: "filiboy"
+  "COL":
+    name: "Kolosay"
+    slug: "kolosay"
+  "1TH":
+    name: "1 Tesaloniika"
+    slug: "1-tesaloniika"
+  "2TH":
+    name: "2 Tesaloniika"
+    slug: "2-tesaloniika"
+  "1TI":
+    name: "1 Timoteyos"
+    slug: "1-timoteyos"
+  "2TI":
+    name: "2 Timoteyos"
+    slug: "2-timoteyos"
+  "TIT":
+    name: "Tiitos"
+    slug: "tiitos"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Cibraaniyada"
+    slug: "cibraaniyada"
+  "JAS":
+    name: "Yacquub"
+    slug: "yacquub"
+  "1PE":
+    name: "1 Butros"
+    slug: "1-butros"
+  "2PE":
+    name: "2 Butros"
+    slug: "2-butros"
+  "1JN":
+    name: "1 Yooxanaa"
+    slug: "1-yooxanaa"
+  "2JN":
+    name: "2 Yooxanaa"
+    slug: "2-yooxanaa"
+  "3JN":
+    name: "3 Yooxanaa"
+    slug: "3-yooxanaa"
+  "JUD":
+    name: "Yuudas"
+    slug: "yuudas"
+  "REV":
+    name: "Muujintii"
+    slug: "muujintii"

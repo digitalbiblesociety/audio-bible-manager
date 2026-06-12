@@ -1,0 +1,266 @@
+language: "lsi"
+books:
+  "GEN":
+    name: "Apoem Ayang:"
+    slug: "apoem-ayang"
+    name_toc: "Apoem Ayang:"
+  "EXO":
+    name: "Thu' Lo Mougsoug"
+    slug: "thu-lo-mougsoug"
+    name_toc: "Thu' Lo"
+  "LEV":
+    name: "Xoin Ngei"
+    slug: "xoin-ngei"
+    name_toc: "Xoin Ngei"
+  "NUM":
+    name: "Gyung: Soo"
+    slug: "gyung-soo"
+    name_toc: "Gyung: Soo"
+  "DEU":
+    name: "Tarha Tid Poin"
+    slug: "tarha-tid-poin"
+    name_toc: "Tarha Tid Poin"
+  "JOS":
+    name: "Yoshu"
+    slug: "yoshu"
+    name_toc: "Yoshu"
+  "JDG":
+    name: "Tarha Agyi"
+    slug: "tarha-agyi"
+    name_toc: "Tarha Agyi"
+  "RUT":
+    name: "Rutha"
+    slug: "rutha"
+    name_toc: "Rutha"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+    name_toc: "Samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+    name_toc: "Samuela"
+  "1KI":
+    name: "1 Khokham"
+    slug: "1-khokham"
+    name_toc: "Khokham"
+  "2KI":
+    name: "2 Khokham"
+    slug: "2-khokham"
+    name_toc: "Khokham"
+  "1CH":
+    name: "1 Khokham Mhoomyid:"
+    slug: "1-khokham-mhoomyid"
+    name_toc: "Khokham Mhoomyid:"
+  "2CH":
+    name: "2 Khokham Mhoomyid:"
+    slug: "2-khokham-mhoomyid"
+    name_toc: "Khokham Mhoomyid:"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Estha"
+    slug: "estha"
+    name_toc: "Estha"
+  "JOB":
+    name: "Yoba"
+    slug: "yoba"
+    name_toc: "Yoba"
+  "PSA":
+    name: "Coung Nghei"
+    slug: "coung-nghei"
+    name_toc: "Coung Nghei"
+  "PRO":
+    name: "Dang: Zhoem"
+    slug: "dang-zhoem"
+    name_toc: "Dang: Zhoem"
+  "ECC":
+    name: "Phajhi Dang:"
+    slug: "phajhi-dang"
+    name_toc: "Phajhi Dang:"
+  "SNG":
+    name: "Sholumon Jikhoin"
+    slug: "sholumon-jikhoin"
+    name_toc: "Sholumon Jikhoin"
+  "ISA":
+    name: "Esaia"
+    slug: "esaia"
+    name_toc: "Esaia"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Ngoug Ji:"
+    slug: "ngoug-ji"
+    name_toc: "Ngoug Ji:"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Ezekiel"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+    name_toc: "Daniela"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Yoela"
+    slug: "yoela"
+    name_toc: "Yoela"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Amo"
+  "OBA":
+    name: "Obedia"
+    slug: "obedia"
+    name_toc: "Obedia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+    name_toc: "Habaku"
+  "ZEP":
+    name: "Zephani"
+    slug: "zephani"
+    name_toc: "Zephani"
+  "HAG":
+    name: "Hagi"
+    slug: "hagi"
+    name_toc: "Hagi"
+  "ZEC":
+    name: "Zekharia"
+    slug: "zekharia"
+    name_toc: "Zekharia"
+  "MAL":
+    name: "Malakhi"
+    slug: "malakhi"
+    name_toc: "Malakhi"
+  "MAT":
+    name: "Mathe"
+    slug: "mathe"
+    name_toc: "Mathe Ngeibu: Lu Dang:"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+    name_toc: "Marku Ngyibu: Ludang:"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka Lhed Da Ngeibu: Lu Dang:"
+  "JHN":
+    name: "Yohan"
+    slug: "yohan"
+    name_toc: "Yohan Ngeibu: Lu Dang:"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "Lagyo: Moug Soug"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Roma Phung: Byu Yi Jhang' Foin: Kaid Lhid Pug'"
+  "1CO":
+    name: "1Korinthians"
+    slug: "1korinthians"
+    name_toc: "Korinthu Phung: Byu Yi Jhang Lagyo: Polu Foin: Kaid' Xang: Shi Lheung: Lhid' Pug"
+  "2CO":
+    name: "2~Korinthu"
+    slug: "2-korinthu"
+    name_toc: "Korinthu Phung: Byu Yi Jhang' Lagyo: Polu Foin: Kaid Eig Lheung: Lhid Pug"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+    name_toc: "Galati Bang: Jhang' Foin: Kaid Polu Lhid Pug'"
+  "EPH":
+    name: "Ephesu"
+    slug: "ephesu"
+    name_toc: "Ephesu Phung Byu Yi Jhang Lagyoo: Polu Foin: Kaid' Lhid Pug'"
+  "PHP":
+    name: "Philipi"
+    slug: "philipi"
+    name_toc: "Philipi Bang: Jhang' Polu Foin: Kaid' Lhid Pug'"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Kolose Bang: Jhang' Polu Foin: Kaid' Lhid Pug"
+  "1TH":
+    name: "1Thesaloni"
+    slug: "1thesaloni"
+    name_toc: "1THESALONI BANG: JHANG' POLU FOIN: KAID' XANG: SHED LHID PUG' (Thessalonians)"
+  "2TH":
+    name: "2 Thesaloni"
+    slug: "2-thesaloni"
+    name_toc: "Thesaloni Bang: Jhang' Polu Eig Lheing: Foin: Kaid' Lhid Pug'"
+  "1TI":
+    name: "1 Timothi"
+    slug: "1-timothi"
+    name_toc: "Timothi Jhang, Foin: Kaid' Lhid Pug' Xang: Shi Loem:"
+  "2TI":
+    name: "2 Timothi"
+    slug: "2-timothi"
+    name_toc: "Timothi Jhang, Eig Lheing: Foin: Kaid' Lhid Pug"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Titu"
+  "PHM":
+    name: "Philimon"
+    slug: "philimon"
+    name_toc: "Philimon Jhang Foin: Kaid' Lhid Pug."
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+    name_toc: "Hebre Byu Yi Jhang Foin: Kaid' Lhid Pug'"
+  "JAS":
+    name: "Yaku"
+    slug: "yaku"
+    name_toc: "Yaku Moug Soug"
+  "1PE":
+    name: "1Peteru"
+    slug: "1peteru"
+    name_toc: "Peteru Xang: Shed Lheung: Lhid Pug'"
+  "2PE":
+    name: "2Petru"
+    slug: "2petru"
+    name_toc: "2Petru"
+  "1JN":
+    name: "1Yohan"
+    slug: "1yohan"
+    name_toc: "1Yohan Moug Soug"
+  "2JN":
+    name: "2 Yohan"
+    slug: "2-yohan"
+    name_toc: "2 Yohan"
+  "3JN":
+    name: "3 Yohan"
+    slug: "3-yohan"
+    name_toc: "3 Yohan"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda Foin: Kaid' Da Lhid Pug"
+  "REV":
+    name: "Pang Shug"
+    slug: "pang-shug"
+    name_toc: "Yohan Da Pang' Shoug' Mousoug"

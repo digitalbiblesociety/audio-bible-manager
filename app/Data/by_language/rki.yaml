@@ -1,0 +1,83 @@
+language: "rki"
+books:
+  "MAT":
+    name: "မဿဲ"
+    slug: "ma-the"
+  "MRK":
+    name: "မာကု"
+    slug: "maku"
+  "LUK":
+    name: "လုကာ"
+    slug: "lu-ka"
+  "JHN":
+    name: "ယောဟန်"
+    slug: "jo-han"
+  "ACT":
+    name: "တမန်တော်"
+    slug: "ta-manto"
+  "ROM":
+    name: "ရောမ"
+    slug: "jo-ma"
+  "1CO":
+    name: "၁ ကောရိန္သု"
+    slug: "1-ko-jeinthu"
+  "2CO":
+    name: "၂ ကောရိန္သု"
+    slug: "2-ko-jeinthu"
+  "GAL":
+    name: "ဂလာတိ"
+    slug: "ga-lati"
+  "EPH":
+    name: "ဧဖက်"
+    slug: "eihpe"
+  "PHP":
+    name: "ဖိလိပ္ပိ"
+    slug: "hpi-lei-pi"
+  "COL":
+    name: "ကောလောသဲ"
+    slug: "ko-lo-the"
+  "1TH":
+    name: "၁ သက်သာလောနိတ်"
+    slug: "1-the-thalo-nei"
+  "2TH":
+    name: "၂ သက်သာလောနိတ်"
+    slug: "2-the-thalo-nei"
+  "1TI":
+    name: "၁ တိမောသေ"
+    slug: "1-ti-mo-thei"
+  "2TI":
+    name: "၂ တိမောသေ"
+    slug: "2-ti-mo-thei"
+  "TIT":
+    name: "တိတု"
+    slug: "ti-tu"
+  "PHM":
+    name: "ဖိလေမုန်"
+    slug: "hpi-leimoun"
+  "HEB":
+    name: "ဟေဗြဲ"
+    slug: "heibje"
+  "JAS":
+    name: "ယာကုပ်"
+    slug: "jakou"
+  "1PE":
+    name: "၁ ပေတရု"
+    slug: "1-peita-ju"
+  "2PE":
+    name: "၂ ပေတရု"
+    slug: "2-peita-ju"
+  "1JN":
+    name: "၁ ယောဟန်"
+    slug: "1-jo-han"
+  "2JN":
+    name: "၂ ယောဟန်"
+    slug: "2-jo-han"
+  "3JN":
+    name: "၃ ယောဟန်"
+    slug: "3-jo-han"
+  "JUD":
+    name: "ယုဒ"
+    slug: "ju-da"
+  "REV":
+    name: "ဗျာဒိတ်တော်"
+    slug: "bjadei-to"

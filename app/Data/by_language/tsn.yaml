@@ -1,0 +1,83 @@
+language: "tsn"
+books:
+  "MAT":
+    name: "Mathaio"
+    slug: "mathaio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Johane"
+    slug: "johane"
+  "ACT":
+    name: "Ditiro"
+    slug: "ditiro"
+  "ROM":
+    name: "Baroma"
+    slug: "baroma"
+  "1CO":
+    name: "Bakorintha I"
+    slug: "bakorintha-i"
+  "2CO":
+    name: "Bakorintha II"
+    slug: "bakorintha-ii"
+  "GAL":
+    name: "Bagalatia"
+    slug: "bagalatia"
+  "EPH":
+    name: "Baefesia"
+    slug: "baefesia"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+  "COL":
+    name: "Bakolosa"
+    slug: "bakolosa"
+  "1TH":
+    name: "Bathesalonia I"
+    slug: "bathesalonia-i"
+  "2TH":
+    name: "Bathesalonia II"
+    slug: "bathesalonia-ii"
+  "1TI":
+    name: "Timotheo I"
+    slug: "timotheo-i"
+  "2TI":
+    name: "Timotheo II"
+    slug: "timotheo-ii"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimone"
+    slug: "filimone"
+  "HEB":
+    name: "Bahebera"
+    slug: "bahebera"
+  "JAS":
+    name: "Jakobe"
+    slug: "jakobe"
+  "1PE":
+    name: "Petere I"
+    slug: "petere-i"
+  "2PE":
+    name: "Petere II"
+    slug: "petere-ii"
+  "1JN":
+    name: "Johane I"
+    slug: "johane-i"
+  "2JN":
+    name: "Johane II"
+    slug: "johane-ii"
+  "3JN":
+    name: "Johane III"
+    slug: "johane-iii"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Tshenolo"
+    slug: "tshenolo"

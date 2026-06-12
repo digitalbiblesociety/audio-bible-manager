@@ -1,0 +1,200 @@
+language: "rug"
+books:
+  "GEN":
+    name: "Zenesesi"
+    slug: "zenesesi"
+  "EXO":
+    name: "Ekisidasi"
+    slug: "ekisidasi"
+  "LEV":
+    name: "Livitikasi"
+    slug: "livitikasi"
+  "NUM":
+    name: "Ninaedi rina Tinoni"
+    slug: "ninaedi-rina-tinoni"
+  "DEU":
+    name: "Diutironomi"
+    slug: "diutironomi"
+  "JOS":
+    name: "Zosua"
+    slug: "zosua"
+  "JDG":
+    name: "Zazi"
+    slug: "zazi"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Baṉara"
+    slug: "1-baara"
+  "2KI":
+    name: "2 Baṉara"
+    slug: "2-baara"
+  "1CH":
+    name: "1 Koronikolo"
+    slug: "1-koronikolo"
+  "2CH":
+    name: "2 Koronikolo"
+    slug: "2-koronikolo"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+  "NEH":
+    name: "Nehemaea"
+    slug: "nehemaea"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "JOB":
+    name: "Zobi"
+    slug: "zobi"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Zinama Tinumatumae"
+    slug: "zinama-tinumatumae"
+  "ECC":
+    name: "Ekeleziasiti"
+    slug: "ekeleziasiti"
+  "SNG":
+    name: "Kinera Koari na Kinerakera"
+    slug: "kinera-koari-na-kinerakera"
+  "ISA":
+    name: "Aisea"
+    slug: "aisea"
+  "JER":
+    name: "Zeremaea"
+    slug: "zeremaea"
+  "LAM":
+    name: "Kinabo te Zeremaea"
+    slug: "kinabo-te-zeremaea"
+  "EZK":
+    name: "Izikeli"
+    slug: "izikeli"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "HOS":
+    name: "Hozea"
+    slug: "hozea"
+  "JOL":
+    name: "Zoili"
+    slug: "zoili"
+  "AMO":
+    name: "Emosi"
+    slug: "emosi"
+  "OBA":
+    name: "Obadaea"
+    slug: "obadaea"
+  "JON":
+    name: "Zona"
+    slug: "zona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nehumu"
+    slug: "nehumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+  "ZEP":
+    name: "Zepanaea"
+    slug: "zepanaea"
+  "HAG":
+    name: "Haqai"
+    slug: "haqai"
+  "ZEC":
+    name: "Zakaraea"
+    slug: "zakaraea"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Zone"
+    slug: "zone"
+  "ACT":
+    name: "Tinavete"
+    slug: "tinavete"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Koriniti"
+    slug: "1-koriniti"
+  "2CO":
+    name: "2 Koriniti"
+    slug: "2-koriniti"
+  "GAL":
+    name: "Qalesia"
+    slug: "qalesia"
+  "EPH":
+    name: "Episasi"
+    slug: "episasi"
+  "PHP":
+    name: "Pilipae"
+    slug: "pilipae"
+  "COL":
+    name: "Kolosae"
+    slug: "kolosae"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Taetusi"
+    slug: "taetusi"
+  "PHM":
+    name: "Pilimone"
+    slug: "pilimone"
+  "HEB":
+    name: "Hiburu"
+    slug: "hiburu"
+  "JAS":
+    name: "Zemisi"
+    slug: "zemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Zone"
+    slug: "1-zone"
+  "2JN":
+    name: "2 Zone"
+    slug: "2-zone"
+  "3JN":
+    name: "3 Zone"
+    slug: "3-zone"
+  "JUD":
+    name: "Ziudi"
+    slug: "ziudi"
+  "REV":
+    name: "Revalesoni"
+    slug: "revalesoni"

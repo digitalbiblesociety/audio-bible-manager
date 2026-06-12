@@ -1,0 +1,83 @@
+language: "iyx"
+books:
+  "MAT":
+    name: "Mataayi"
+    slug: "mataayi"
+  "MRK":
+    name: "Malako"
+    slug: "malako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowani"
+    slug: "yowani"
+  "ACT":
+    name: "Biyiluu"
+    slug: "biyiluu"
+  "ROM":
+    name: "Looma"
+    slug: "looma"
+  "1CO":
+    name: "1 Kolito"
+    slug: "1-kolito"
+  "2CO":
+    name: "2 Kolito"
+    slug: "2-kolito"
+  "GAL":
+    name: "Ngalatia"
+    slug: "ngalatia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosaayi"
+    slug: "kolosaayi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Ebeleo"
+    slug: "ebeleo"
+  "JAS":
+    name: "Yaki"
+    slug: "yaki"
+  "1PE":
+    name: "1 Peetero"
+    slug: "1-peetero"
+  "2PE":
+    name: "2 Peetero"
+    slug: "2-peetero"
+  "1JN":
+    name: "1 Yowani"
+    slug: "1-yowani"
+  "2JN":
+    name: "2 Yowani"
+    slug: "2-yowani"
+  "3JN":
+    name: "3 Yowani"
+    slug: "3-yowani"
+  "JUD":
+    name: "Yuude"
+    slug: "yuude"
+  "REV":
+    name: "Nziaabisi a Yowani"
+    slug: "nziaabisi-a-yowani"

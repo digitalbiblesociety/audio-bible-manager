@@ -1,0 +1,83 @@
+language: "mkl"
+books:
+  "MAT":
+    name: "Mɑtie"
+    slug: "mtie"
+  "MRK":
+    name: "Mɑɑku"
+    slug: "mku"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Zɑ̃ɑ"
+    slug: "z"
+  "ACT":
+    name: "Woo Bɛ Ŋɑ"
+    slug: "woo-b-n"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "Kɔrɛnti I"
+    slug: "krnti-i"
+  "2CO":
+    name: "Kɔrɛnti II"
+    slug: "krnti-ii"
+  "GAL":
+    name: "Gɑlɑti"
+    slug: "glti"
+  "EPH":
+    name: "Efɛɛzu"
+    slug: "efzu"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosee"
+    slug: "kolosee"
+  "1TH":
+    name: "Tɛsɑlonikɑ 1"
+    slug: "tslonik-1"
+  "2TH":
+    name: "Tɛsɑlonikɑ 2"
+    slug: "tslonik-2"
+  "1TI":
+    name: "Timɔtee I"
+    slug: "timtee-i"
+  "2TI":
+    name: "Timɔtee II"
+    slug: "timtee-ii"
+  "TIT":
+    name: "Titee"
+    slug: "titee"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebɛɛ"
+    slug: "eb"
+  "JAS":
+    name: "Zɑɑki"
+    slug: "zki"
+  "1PE":
+    name: "Piɛɛ 1"
+    slug: "pi-1"
+  "2PE":
+    name: "Piɛɛ 2"
+    slug: "pi-2"
+  "1JN":
+    name: "Zɑ̃ɑ 1"
+    slug: "z-1"
+  "2JN":
+    name: "Zɑ̃ɑ 2"
+    slug: "z-2"
+  "3JN":
+    name: "Zɑ̃ɑ 3"
+    slug: "z-3"
+  "JUD":
+    name: "Zudu"
+    slug: "zudu"
+  "REV":
+    name: "Kuyɛi Zɑ̃ɑ"
+    slug: "kuyi-z"

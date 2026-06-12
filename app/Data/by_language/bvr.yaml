@@ -1,0 +1,83 @@
+language: "bvr"
+books:
+  "MAT":
+    name: "Metiyu"
+    slug: "metiyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Jama Aburr-ji"
+    slug: "jama-aburr-ji"
+  "ROM":
+    name: "Rowm Aburr-guyinda"
+    slug: "rowm-aburr-guyinda"
+  "1CO":
+    name: "1 Gorint Aburr-guyinda"
+    slug: "1-gorint-aburr-guyinda"
+  "2CO":
+    name: "2 Gorint Aburr-guyinda"
+    slug: "2-gorint-aburr-guyinda"
+  "GAL":
+    name: "Galéychiya Aburr-guyinda"
+    slug: "galeychiya-aburr-guyinda"
+  "EPH":
+    name: "Apachach Aburr-guyinda"
+    slug: "apachach-aburr-guyinda"
+  "PHP":
+    name: "Bilipay Aburr-guyinda"
+    slug: "bilipay-aburr-guyinda"
+  "COL":
+    name: "Gulóchay Aburr-guyinda"
+    slug: "gulochay-aburr-guyinda"
+  "1TH":
+    name: "1 Jechalónika Aburr-guyinda"
+    slug: "1-jechalonika-aburr-guyinda"
+  "2TH":
+    name: "2 Jechalónika Aburr-guyinda"
+    slug: "2-jechalonika-aburr-guyinda"
+  "1TI":
+    name: "1 Dimati"
+    slug: "1-dimati"
+  "2TI":
+    name: "2 Dimati"
+    slug: "2-dimati"
+  "TIT":
+    name: "Daytach"
+    slug: "daytach"
+  "PHM":
+    name: "Baylíman"
+    slug: "bayliman"
+  "HEB":
+    name: "Yibru Yerrcha"
+    slug: "yibru-yerrcha"
+  "JAS":
+    name: "Jeymch"
+    slug: "jeymch"
+  "1PE":
+    name: "1 Birta"
+    slug: "1-birta"
+  "2PE":
+    name: "2 Birta"
+    slug: "2-birta"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jut A-wukurrjinga"
+    slug: "jut-a-wukurrjinga"
+  "REV":
+    name: "Borrich"
+    slug: "borrich"

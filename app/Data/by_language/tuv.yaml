@@ -1,0 +1,266 @@
+language: "tuv"
+books:
+  "GEN":
+    name: "Akisiakinet"
+    slug: "akisiakinet"
+    name_toc: "Ester Susulan-na"
+  "EXO":
+    name: "Apudunet"
+    slug: "apudunet"
+    name_toc: "Ayub Susulan-na"
+  "LEV":
+    name: "Ngilawi"
+    slug: "ngilawi"
+    name_toc: "Mazmur Susulan-na"
+  "NUM":
+    name: "Ekimar"
+    slug: "ekimar"
+    name_toc: "Amsal Susulan-na"
+  "DEU":
+    name: "Akitamunet a Etal"
+    slug: "akitamunet-a-etal"
+    name_toc: "Pengkhotbah Susulan-na"
+  "JOS":
+    name: "Yochua"
+    slug: "yochua"
+    name_toc: "Kidung Agung Susulan-na"
+  "JDG":
+    name: "Ngikatubok Ngakiro"
+    slug: "ngikatubok-ngakiro"
+    name_toc: "Yesaya Susulan-na"
+  "RUT":
+    name: "Rus"
+    slug: "rus"
+    name_toc: "Yeremia Susulan-na"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Ratapan Susulan-na"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Yeskial Susulan-na"
+  "1KI":
+    name: "1 Ngikapolok"
+    slug: "1-ngikapolok"
+    name_toc: "Danial Susulan-na"
+  "2KI":
+    name: "2 Ngikapolok"
+    slug: "2-ngikapolok"
+    name_toc: "Hosea Susulan-na"
+  "1CH":
+    name: "1 Ngakiro a Ngirwa"
+    slug: "1-ngakiro-a-ngirwa"
+    name_toc: "Yoel Susulan-na"
+  "2CH":
+    name: "2 Ngakiro a Ngirwa"
+    slug: "2-ngakiro-a-ngirwa"
+    name_toc: "Amos Susulan-na"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "Obaja Susulan-na"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+    name_toc: "Yunus Susulan-na"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Mikha Susulan-na"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Nahum Susulan-na"
+  "PSA":
+    name: "Ngieosio"
+    slug: "ngieosio"
+    name_toc: "Habakuk Susulan-na"
+  "PRO":
+    name: "Ngakamatak"
+    slug: "ngakamatak"
+    name_toc: "Zefanya Susulan-na"
+  "ECC":
+    name: "Eketataman"
+    slug: "eketataman"
+    name_toc: "Hagai Susulan-na"
+  "SNG":
+    name: "Eeos Lokebusean Noi"
+    slug: "eeos-lokebusean-noi"
+    name_toc: "Zakharia Susulan-na"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Maleakhi Susulan-na"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Hala Malole Fo Nanduku Nalosak Neme Mateos"
+  "LAM":
+    name: "Akigoro"
+    slug: "akigoro"
+    name_toc: "Hala Malole Fo Nanduku Nalosak Neme Markus"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+    name_toc: "Hala Malole Fo Nanduku Nalosak Neme Lukas"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Hala Malole Fo Nanduku Nalosak Neme Yohanis"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+    name_toc: "Lamatua Ka Hataholi Nadedenun Nala Tutui Na"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Paulus Susula Neu Salanik Manai Roma"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Paulus Susula Fo Kaesa Na Neu Salanik Manai Korintus"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Paulus Susula Fo Kadua Na Neu Salanik Manai Korintus"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Paulus Susula Neu Salanik Manai Galatia"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Paulus Susula Neu Salanik Manai Efesus"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+    name_toc: "Paulus Susulan Neu Salanik Manai Filipi"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Paulus Susula Neu Salanik Manai Kolose"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Paulus Susula Fo Kaesa Na Neu Salanik Manai Tesalonika"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+    name_toc: "Paulus Susula Fo Kadua Na Neu Salanik Manai Tesalonika"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Paulus Susula Fo Kaesa Na Neu Salanik Manai Timotius"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Paulus Susula Fo Kadua Na Neu Salanik Manai Timotius"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Paulus Susula Neu Titus"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Paulus Susula Neu Filmon"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Susulak Neu Hataholi Ibrani"
+  "JHN":
+    name: "Yoana"
+    slug: "yoana"
+    name_toc: "Yakobis Susula Na"
+  "ACT":
+    name: "Ngitichisio"
+    slug: "ngitichisio"
+    name_toc: "Petrus Susula Kaesa Na"
+  "ROM":
+    name: "Ngiroma"
+    slug: "ngiroma"
+    name_toc: "Petrus Susula Kadua Na"
+  "1CO":
+    name: "1 Ngikorintoi"
+    slug: "1-ngikorintoi"
+    name_toc: "Yohanis Susula Kaesa Na"
+  "2CO":
+    name: "2 Ngikorintoi"
+    slug: "2-ngikorintoi"
+    name_toc: "Yohanis Susula Kadua Na"
+  "GAL":
+    name: "Ngigalatiae"
+    slug: "ngigalatiae"
+    name_toc: "Yohanis Susula Katelu Na"
+  "EPH":
+    name: "Ngiepesoi"
+    slug: "ngiepesoi"
+    name_toc: "Yudas Susula Na"
+  "PHP":
+    name: "Ngipilipi"
+    slug: "ngipilipi"
+    name_toc: "Ninitak Neu Yohanis"
+  "COL":
+    name: "Ngikolosai"
+    slug: "ngikolosai"
+    name_toc: "Pinongurugan"
+  "1TH":
+    name: "1 Ngitesalonike"
+    slug: "1-ngitesalonike"
+    name_toc: "Lagu"
+  "2TH":
+    name: "Ngitesalonike"
+    slug: "ngitesalonike"
+    name_toc: "Pontudukan"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Abar Owarong Nituturan ni Matius"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Abar Owarong Nituturan ni Markus"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Abar Owarong Nituturan ni Lukas"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Abar Owarong Nituturan ni Yuanis"
+  "HEB":
+    name: "Ngieburaniae"
+    slug: "ngieburaniae"
+    name_toc: "Gogoma'on nu Pinongoorapan ni Yisus"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Surat ni Paulus so Puimpugan so Ruum"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Surat Koido ni Paulus so Puimpugan so Kurintus"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Surat Koduo ni Paulus so Puimpugan so Kurintus"
+  "1JN":
+    name: "1 Yoana"
+    slug: "1-yoana"
+    name_toc: "Surat ni Paulus so Puimpugan so Galatia"
+  "2JN":
+    name: "2 Yoana"
+    slug: "2-yoana"
+    name_toc: "Surat ni Paulus so Puimpugan so Ipisus"
+  "3JN":
+    name: "3 Yoana"
+    slug: "3-yoana"
+    name_toc: "Surat ni Paulus so Puimpugan so Pilipi"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Surat ni Paulus so Puimpugan so Kulusi"
+  "REV":
+    name: "Akitoodikinet"
+    slug: "akitoodikinet"
+    name_toc: "Surat Koido ni Paulus so Puimpugan so Tisalunika"

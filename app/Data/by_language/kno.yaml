@@ -1,0 +1,110 @@
+language: "kno"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Sakana Bai Chɛndɛ, Matiu‑a Min Nyɛn, A Si Chisɔsi Ma"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+    name_toc: "Sakana Bai Chɛndɛ, Maki‑a Min Nyɛn, A Si Chisɔsi Ma"
+  "LUK":
+    name: "Duku"
+    slug: "duku"
+    name_toc: "Sakana Bai Chɛndɛ, Duku‑a Min Nyɛn, A Si Chisɔsi Ma"
+  "JHN":
+    name: "Chɔn"
+    slug: "chn"
+    name_toc: "Sakana Bai Chɛndɛ, Chɔn‑na Min Nyɛn, A Si Chisɔsi Ma"
+  "ACT":
+    name: "Chisɔsi 'A Sɔ Mɔɛ Nu"
+    slug: "chissi-a-s-m-nu"
+    name_toc: "Chisɔsi 'a Sɔ Mɔɛ N Chɛ Chɛ Wai Nu"
+  "ROM":
+    name: "Gboo Domi Ko A"
+    slug: "gboo-domi-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Min Nyɛn Chisianɛ N Tena Domi Duu Ɔ"
+  "1CO":
+    name: "Gboo Saa Kɔyindi Ko A"
+    slug: "gboo-saa-kyindi-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Saa Min Nyɛn Chisianɛ N Tena Kɔyindi Duu Ɔ"
+  "2CO":
+    name: "Gboo Fean Bɔɛ Kɔyindi Ko A"
+    slug: "gboo-fean-b-kyindi-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Fean Bɔɛ Min Nyɛn Chisianɛ N Tena Kɔyindi Duu Ɔ"
+  "GAL":
+    name: "Gboo Kadesia Ko A"
+    slug: "gboo-kadesia-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Min Nyɛn Chisianɛ N Tena Kadesia Chɛnyɛ Ɔ"
+  "EPH":
+    name: "Gboo Ɛfisɔsi Ko A"
+    slug: "gboo-fissi-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Min Nyɛn Chisianɛ N Tena Ɛfisɔsi Duu Ɔ"
+  "PHP":
+    name: "Gboo Fiipai Ko A"
+    slug: "gboo-fiipai-ko-a"
+    name_toc: "Gboo Fiipai Ko APɔɔ‑a Gboo Min Nyɛn Chisianɛ N Tena Fiipai Duu Ɔ"
+  "COL":
+    name: "Gboo Kɔdɔsai Ko A"
+    slug: "gboo-kdsai-ko-a"
+    name_toc: "Gboo Kɔdɔsai Ko APɔɔ‑a Gboo Min Nyɛn Chisianɛ N Tena Kɔdɔsai Duu Ɔ"
+  "1TH":
+    name: "Gboo Saa Tɛsadonika Ko A"
+    slug: "gboo-saa-tsadonika-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Saa Min Nyɛn Chisianɛ N Tena Tɛsadonika Duu Ɔ"
+  "2TH":
+    name: "Gboo Fean Bɔɛ Tɛsadonika Ko A"
+    slug: "gboo-fean-b-tsadonika-ko-a"
+    name_toc: "Pɔɔ‑a Gboo Fean Bɔɛ Min Nyɛn Chisianɛ N Tena Tɛsadonika Duu Ɔ"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Pɔɔ‑a Gboo Saa Min Nyɛn Timoti Tena"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Pɔɔ‑a Gboo Fean Bɔɛ Min Nyɛn Timoti Tena"
+  "TIT":
+    name: "Taitɔsi"
+    slug: "taitsi"
+    name_toc: "Pɔɔ‑a Gboo Min Nyɛn Taitɔsi Tena"
+  "PHM":
+    name: "Fidemɔn"
+    slug: "fidemn"
+    name_toc: "Pɔɔ‑a Gboo Min Nyɛn Fidemɔn Tena"
+  "HEB":
+    name: "Gboo Ibu Mɔɛ N Ko A"
+    slug: "gboo-ibu-m-n-ko-a"
+    name_toc: "Gboo Min Nyɛn‑da Ibu Mɔɛ N Tena"
+  "JAS":
+    name: "Chimisi"
+    slug: "chimisi"
+    name_toc: "Chimisi‑a Gboo Min Nyɛn Chisianɛ N Tena"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Pita‑a Gboo Saa Min Nyɛn Chisianɛ N Tena"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pita‑a Gboo Fean Bɔɛ Min Nyɛn Chisianɛ N Tena"
+  "1JN":
+    name: "1 Chɔn"
+    slug: "1-chn"
+    name_toc: "Chɔn‑na Gboo Saa Min Nyɛn Chisianɛ N Tena"
+  "2JN":
+    name: "2 Chɔn"
+    slug: "2-chn"
+    name_toc: "Chɔn‑na Gboo Fean Bɔɛ Min Nyɛn Chisianɛ N Tena"
+  "3JN":
+    name: "3 Chɔn"
+    slug: "3-chn"
+    name_toc: "Chɔn‑na Gboo Sawan Bɔɛ Min Nyɛn Chisianɛ N Tena"
+  "JUD":
+    name: "Chuda"
+    slug: "chuda"
+    name_toc: "Chuda‑a Gboo Min Nyɛn Chisianɛ N Tena"
+  "REV":
+    name: "Ko Ɔ Nundenɛ"
+    slug: "ko-nunden"
+    name_toc: "Yataa‑a Ko Ɔ Nundenɛ Miin Dɔ Yian Chɔn Na"

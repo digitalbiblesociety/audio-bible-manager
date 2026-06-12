@@ -1,0 +1,200 @@
+language: "bzw"
+books:
+  "GEN":
+    name: "Umozhigo"
+    slug: "umozhigo"
+  "EXO":
+    name: "Ụbanụ"
+    slug: "ubanu"
+  "LEV":
+    name: "Livai"
+    slug: "livai"
+  "NUM":
+    name: "Tɛrɛcɛ"
+    slug: "trc"
+  "DEU":
+    name: "Undwa Tukwabilana"
+    slug: "undwa-tukwabilana"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Ajɛmɛ-ụshɛrɛya"
+    slug: "ajm-ushrya"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "1 Samuɛl Uhiiŋ"
+    slug: "1-samul-uhii"
+  "2SA":
+    name: "2 Samuɛl Uyebi"
+    slug: "2-samul-uyebi"
+  "1KI":
+    name: "1 Shɛgwuma Shi Hiiŋ"
+    slug: "1-shgwuma-shi-hii"
+  "2KI":
+    name: "2 Shɛgwuma Shi Yebi"
+    slug: "2-shgwuma-shi-yebi"
+  "1CH":
+    name: "Shɛrụkwụkwụ Shi Hiiŋ"
+    slug: "shrukwukwu-shi-hii"
+  "2CH":
+    name: "2 Shɛrụkwụkwụ Shi Yebi"
+    slug: "2-shrukwukwu-shi-yebi"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Shɛzunga Tuzungangana Agwangwama"
+    slug: "shzunga-tuzungangana-agwangwama"
+  "PRO":
+    name: "Utakadawe Eshi"
+    slug: "utakadawe-eshi"
+  "ECC":
+    name: "Bi'enenji"
+    slug: "bi-enenji"
+  "SNG":
+    name: "Azunga Shɛzunga"
+    slug: "azunga-shzunga"
+  "ISA":
+    name: "Ayizaya"
+    slug: "ayizaya"
+  "JER":
+    name: "Jɛrɛmia"
+    slug: "jrmia"
+  "LAM":
+    name: "U'wo-ụzhɛla"
+    slug: "u-wo-uzhla"
+  "EZK":
+    name: "Izikɛl"
+    slug: "izikl"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+  "JOL":
+    name: "Joɛl"
+    slug: "jol"
+  "AMO":
+    name: "Emos"
+    slug: "emos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zɛfania"
+    slug: "zfania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zɛkaria"
+    slug: "zkaria"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Ugondu Wa Atumwa"
+    slug: "ugondu-wa-atumwa"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Korint Hiiŋ"
+    slug: "korint-hii"
+  "2CO":
+    name: "Korint Yebi"
+    slug: "korint-yebi"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Ɛfɛsɛs"
+    slug: "fss"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+  "1TH":
+    name: "1 Tɛsɛlonika Hiiŋ"
+    slug: "1-tslonika-hii"
+  "2TH":
+    name: "2 Tɛsɛlonika Yebi"
+    slug: "2-tslonika-yebi"
+  "1TI":
+    name: "1 Timoti Hiiŋ"
+    slug: "1-timoti-hii"
+  "2TI":
+    name: "2 Timoti Yebi"
+    slug: "2-timoti-yebi"
+  "TIT":
+    name: "Taitos"
+    slug: "taitos"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ehibru"
+    slug: "ehibru"
+  "JAS":
+    name: "Jemis"
+    slug: "jemis"
+  "1PE":
+    name: "1 Pita Hiiŋ"
+    slug: "1-pita-hii"
+  "2PE":
+    name: "2 Pita Yebi"
+    slug: "2-pita-yebi"
+  "1JN":
+    name: "1 Jon Hiiŋ"
+    slug: "1-jon-hii"
+  "2JN":
+    name: "2 Jon Yebi"
+    slug: "2-jon-yebi"
+  "3JN":
+    name: "Jon Tatụ"
+    slug: "jon-tatu"
+  "JUD":
+    name: "Judu"
+    slug: "judu"
+  "REV":
+    name: "N-ndumwa Tɛkapɛshɛnga"
+    slug: "n-ndumwa-tkapshnga"

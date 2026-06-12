@@ -1,0 +1,200 @@
+language: "tha"
+books:
+  "GEN":
+    name: "ปฐมกาล"
+    slug: "pthmkal"
+  "EXO":
+    name: "อพยพ"
+    slug: "phyph"
+  "LEV":
+    name: "เลวีนิติ"
+    slug: "lewiniti"
+  "NUM":
+    name: "กันดารวิถี"
+    slug: "kandarwithi"
+  "DEU":
+    name: "เฉลยธรรมบัญญัติ"
+    slug: "chelythrrmbayyati"
+  "JOS":
+    name: "โยชูวา"
+    slug: "yochuwa"
+  "JDG":
+    name: "ผู้วินิจฉัย"
+    slug: "phuwinichchay"
+  "RUT":
+    name: "นางรูธ"
+    slug: "nangruth"
+  "1SA":
+    name: "1 ซามูเอล"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 ซามูเอล"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 พงศ์กษัตริย์"
+    slug: "1-phngksatri"
+  "2KI":
+    name: "2 พงศ์กษัตริย์"
+    slug: "2-phngksatri"
+  "1CH":
+    name: "1 พงศาวดาร"
+    slug: "1-phngsawdar"
+  "2CH":
+    name: "2 พงศาวดาร"
+    slug: "2-phngsawdar"
+  "EZR":
+    name: "เอสรา"
+    slug: "esra"
+  "NEH":
+    name: "เนหะมียาห์"
+    slug: "nehamiya"
+  "EST":
+    name: "เอสเธอร์"
+    slug: "esthe"
+  "JOB":
+    name: "โยบ"
+    slug: "yob"
+  "PSA":
+    name: "สดุดี"
+    slug: "sdudi"
+  "PRO":
+    name: "สุภาษิต"
+    slug: "suphasit"
+  "ECC":
+    name: "ปัญญาจารย์"
+    slug: "payyachar"
+  "SNG":
+    name: "บทเพลง​ไพเราะ"
+    slug: "bthphelngphairo"
+  "ISA":
+    name: "อิสยาห์"
+    slug: "isya"
+  "JER":
+    name: "เยเรมียาห์"
+    slug: "yeremiya"
+  "LAM":
+    name: "บทเพลง​ร้องทุกข์"
+    slug: "bthphelngrngthuk"
+  "EZK":
+    name: "เอเสเคียล"
+    slug: "esekheiyl"
+  "DAN":
+    name: "ดาเนียล"
+    slug: "daneiyl"
+  "HOS":
+    name: "โฮเชยา"
+    slug: "hocheya"
+  "JOL":
+    name: "โยเอล"
+    slug: "yoel"
+  "AMO":
+    name: "อาโมส"
+    slug: "amos"
+  "OBA":
+    name: "โอบาดียาห์"
+    slug: "obadiya"
+  "JON":
+    name: "โยนาห์"
+    slug: "yona"
+  "MIC":
+    name: "มีคาห์"
+    slug: "mikha"
+  "NAM":
+    name: "นาฮูม"
+    slug: "nahum"
+  "HAB":
+    name: "ฮาบากุก"
+    slug: "habakuk"
+  "ZEP":
+    name: "เศฟันยาห์"
+    slug: "sefanya"
+  "HAG":
+    name: "ฮักกัย"
+    slug: "hakkay"
+  "ZEC":
+    name: "เศคาริยาห์"
+    slug: "sekhariya"
+  "MAL":
+    name: "มาลาคี"
+    slug: "malakhi"
+  "MAT":
+    name: "มัทธิว"
+    slug: "maththiw"
+  "MRK":
+    name: "มาระโก"
+    slug: "marako"
+  "LUK":
+    name: "ลูกา"
+    slug: "luka"
+  "JHN":
+    name: "ยอห์น"
+    slug: "yn"
+  "ACT":
+    name: "กิจการ"
+    slug: "kichkar"
+  "ROM":
+    name: "โรม"
+    slug: "rom"
+  "1CO":
+    name: "1 โครินธ์"
+    slug: "1-khorin"
+  "2CO":
+    name: "2 โครินธ์"
+    slug: "2-khorin"
+  "GAL":
+    name: "กาลาเทีย"
+    slug: "kalatheiy"
+  "EPH":
+    name: "เอเฟซัส"
+    slug: "efesas"
+  "PHP":
+    name: "ฟีลิปปี"
+    slug: "filippi"
+  "COL":
+    name: "โคโลสี"
+    slug: "kholosi"
+  "1TH":
+    name: "1 เธสะโลนิกา"
+    slug: "1-thesalonika"
+  "2TH":
+    name: "2 เธสะโลนิกา"
+    slug: "2-thesalonika"
+  "1TI":
+    name: "1 ทิโมธี"
+    slug: "1-thimothi"
+  "2TI":
+    name: "2 ทิโมธี"
+    slug: "2-thimothi"
+  "TIT":
+    name: "ทิตัส"
+    slug: "thitas"
+  "PHM":
+    name: "ฟีเลโมน"
+    slug: "filemon"
+  "HEB":
+    name: "ฮีบรู"
+    slug: "hibru"
+  "JAS":
+    name: "ยากอบ"
+    slug: "yakb"
+  "1PE":
+    name: "1 เปโตร"
+    slug: "1-petor"
+  "2PE":
+    name: "2 เปโตร"
+    slug: "2-petor"
+  "1JN":
+    name: "1 ยอห์น"
+    slug: "1-yn"
+  "2JN":
+    name: "2 ยอห์น"
+    slug: "2-yn"
+  "3JN":
+    name: "3 ยอห์น"
+    slug: "3-yn"
+  "JUD":
+    name: "ยูดา"
+    slug: "yuda"
+  "REV":
+    name: "วิวรณ์"
+    slug: "wiwr"

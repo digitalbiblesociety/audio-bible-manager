@@ -1,0 +1,83 @@
+language: "fuf"
+books:
+  "MAT":
+    name: "Linjiila Matta"
+    slug: "linjiila-matta"
+  "MRK":
+    name: "Linjiila Markuusa"
+    slug: "linjiila-markuusa"
+  "LUK":
+    name: "Linjiila Luuka"
+    slug: "linjiila-luuka"
+  "JHN":
+    name: "Linjiila Yuuhanna"
+    slug: "linjiila-yuuhanna"
+  "ACT":
+    name: "Kuuɗe Sahaabaaɓe Ɓen"
+    slug: "kuue-sahaabaabe-ben"
+  "ROM":
+    name: "Roomu"
+    slug: "roomu"
+  "1CO":
+    name: "Korenti 1"
+    slug: "korenti-1"
+  "2CO":
+    name: "Korenti 2"
+    slug: "korenti-2"
+  "GAL":
+    name: "Galaasi"
+    slug: "galaasi"
+  "EPH":
+    name: "Efeesi"
+    slug: "efeesi"
+  "PHP":
+    name: "Filipii"
+    slug: "filipii"
+  "COL":
+    name: "Koloosi"
+    slug: "koloosi"
+  "1TH":
+    name: "Tesalonii 1"
+    slug: "tesalonii-1"
+  "2TH":
+    name: "Tesalonii 2"
+    slug: "tesalonii-2"
+  "1TI":
+    name: "Timotee 1"
+    slug: "timotee-1"
+  "2TI":
+    name: "Timotee 2"
+    slug: "timotee-2"
+  "TIT":
+    name: "Tiituusa"
+    slug: "tiituusa"
+  "PHM":
+    name: "Filimuunu"
+    slug: "filimuunu"
+  "HEB":
+    name: "Yahuudiyankeeɓe"
+    slug: "yahuudiyankeebe"
+  "JAS":
+    name: "Yaaquuba"
+    slug: "yaaquuba"
+  "1PE":
+    name: "Petruusu 1"
+    slug: "petruusu-1"
+  "2PE":
+    name: "Petruusu 2"
+    slug: "petruusu-2"
+  "1JN":
+    name: "Yuuhanna 1"
+    slug: "yuuhanna-1"
+  "2JN":
+    name: "Yuuhanna 2"
+    slug: "yuuhanna-2"
+  "3JN":
+    name: "Yuuhanna 3"
+    slug: "yuuhanna-3"
+  "JUD":
+    name: "Yuudu"
+    slug: "yuudu"
+  "REV":
+    name: "Feɲɲinannde"
+    slug: "feinannde"

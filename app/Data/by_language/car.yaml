@@ -1,0 +1,83 @@
+language: "car"
+books:
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johanes"
+    slug: "johanes"
+  "ACT":
+    name: "Apojoma'san"
+    slug: "apojomasan"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "1 Korinte"
+    slug: "1-korinte"
+  "2CO":
+    name: "2 Korinte"
+    slug: "2-korinte"
+  "GAL":
+    name: "Galatie"
+    slug: "galatie"
+  "EPH":
+    name: "Efese"
+    slug: "efese"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Simosu"
+    slug: "simosu"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johanes"
+    slug: "1-johanes"
+  "2JN":
+    name: "2 Johanes"
+    slug: "2-johanes"
+  "3JN":
+    name: "3 Johanes"
+    slug: "3-johanes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Jesus nenepo'po"
+    slug: "jesus-nenepopo"

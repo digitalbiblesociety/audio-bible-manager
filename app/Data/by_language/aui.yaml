@@ -1,0 +1,92 @@
+language: "aui"
+books:
+  "GEN":
+    name: "Genisis"
+    slug: "genisis"
+  "EXO":
+    name: "Exodas"
+    slug: "exodas"
+  "LEV":
+    name: "Livitikas"
+    slug: "livitikas"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+  "DEU":
+    name: "Diutoronomi"
+    slug: "diutoronomi"
+  "JOS":
+    name: "Josuwa"
+    slug: "josuwa"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+  "2SA":
+    name: "2 Samwel"
+    slug: "2-samwel"
+  "1KI":
+    name: "Kiikiiwawo bukana dagudaguna"
+    slug: "kiikiiwawo-bukana-dagudaguna"
+  "2KI":
+    name: "Kiikiiwawo bukana wiibatana"
+    slug: "kiikiiwawo-bukana-wiibatana"
+  "2CH":
+    name: "2 Kronikols"
+    slug: "2-kronikols"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Niyamaiya"
+    slug: "niyamaiya"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psam"
+    slug: "psam"
+  "PRO":
+    name: "Wonawiiyoyowana (Proverbs)"
+    slug: "wonawiiyoyowana-proverbs"
+  "ECC":
+    name: "Ekalesiyestis"
+    slug: "ekalesiyestis"
+  "ISA":
+    name: "Aisaiya"
+    slug: "aisaiya"
+  "JER":
+    name: "Jerimaiya"
+    slug: "jerimaiya"
+  "LAM":
+    name: "Nuwapoya Ayidi"
+    slug: "nuwapoya-ayidi"
+  "EZK":
+    name: "Igikel"
+    slug: "igikel"
+  "DAN":
+    name: "Deniyel"
+    slug: "deniyel"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "AMO":
+    name: "Emos"
+    slug: "emos"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "ZEC":
+    name: "Jakaraiya"
+    slug: "jakaraiya"
+  "MRK":
+    name: "Mrk"
+    slug: "mrk"
+  "ACT":
+    name: "Apasol (Acts)"
+    slug: "apasol-acts"

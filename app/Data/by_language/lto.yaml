@@ -1,0 +1,298 @@
+language: "lto"
+books:
+  "GEN":
+    name: "Liraanga"
+    slug: "liraanga"
+    name_toc: "Liraanga"
+  "EXO":
+    name: "Khurula"
+    slug: "khurula"
+    name_toc: "Khurula"
+  "LEV":
+    name: "Levi"
+    slug: "levi"
+    name_toc: "Valevi"
+  "NUM":
+    name: "Livalitswa"
+    slug: "livalitswa"
+    name_toc: "Livalitswa"
+  "DEU":
+    name: "Litsushitswa"
+    slug: "litsushitswa"
+    name_toc: "Litsushitswa"
+  "JOS":
+    name: "Yoshwa"
+    slug: "yoshwa"
+    name_toc: "Shitabu Shia Yoshwa"
+  "JDG":
+    name: "Vakhalachi"
+    slug: "vakhalachi"
+    name_toc: "Vakhalachi"
+  "RUT":
+    name: "Rutsi"
+    slug: "rutsi"
+    name_toc: "Rutsi"
+  "1SA":
+    name: "Samweli"
+    slug: "samweli"
+    name_toc: "Samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Samweli"
+  "1KI":
+    name: "1 Vami"
+    slug: "1-vami"
+    name_toc: "Vami"
+  "2KI":
+    name: "2 Vami"
+    slug: "2-vami"
+    name_toc: "Vami"
+  "1CH":
+    name: "1 Tsinyinga"
+    slug: "1-tsinyinga"
+    name_toc: "Tsinyinga"
+  "2CH":
+    name: "2 Tsinyinga"
+    slug: "2-tsinyinga"
+    name_toc: "Tsinyinga"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+    name_toc: "Ayubu"
+  "PSA":
+    name: "Tsaburi"
+    slug: "tsaburi"
+    name_toc: "Tsaburi"
+  "PRO":
+    name: "Tsinganu"
+    slug: "tsinganu"
+    name_toc: "Tsinganu"
+  "ECC":
+    name: "Mwilwatsi"
+    slug: "mwilwatsi"
+    name_toc: "Mwilwatsi"
+  "SNG":
+    name: "Lwimbo Lulahi Lwene"
+    slug: "lwimbo-lulahi-lwene"
+    name_toc: "Lwimbo Lulahi Lwene"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Lwikhulu"
+    slug: "lwikhulu"
+    name_toc: "Lwikhulu"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Danieli"
+  "HOS":
+    name: "Hoseha"
+    slug: "hoseha"
+    name_toc: "Hoseha"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Nahumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Habakuku"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Zakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+    name_toc: "Tobiti"
+  "JDT":
+    name: "Yuditsi"
+    slug: "yuditsi"
+    name_toc: "Yuditsi"
+  "ESG":
+    name: "Esita (Muluguriki)"
+    slug: "esita-muluguriki"
+    name_toc: "Esita"
+  "WIS":
+    name: "Vusitsa Vwa Solomoni"
+    slug: "vusitsa-vwa-solomoni"
+    name_toc: "Vusitsa Vwa Solomoni"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+    name_toc: "Sira"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+    name_toc: "Baruku"
+  "1MA":
+    name: "1 Makabayo"
+    slug: "1-makabayo"
+    name_toc: "Makabayo"
+  "2MA":
+    name: "Makabayo"
+    slug: "makabayo"
+    name_toc: "Makabayo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Yohana"
+  "ACT":
+    name: "Vikholwa"
+    slug: "vikholwa"
+    name_toc: "Vikholwa"
+  "ROM":
+    name: "Varoma"
+    slug: "varoma"
+    name_toc: "Varoma"
+  "1CO":
+    name: "1 Vakorinzo"
+    slug: "1-vakorinzo"
+    name_toc: "Vakorinzo"
+  "2CO":
+    name: "Vakorinzo"
+    slug: "vakorinzo"
+    name_toc: "Vakorinzo"
+  "GAL":
+    name: "Vagalatia"
+    slug: "vagalatia"
+    name_toc: "Vagalatia"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+    name_toc: "Vaefeso"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+    name_toc: "Vafilipi"
+  "COL":
+    name: "Vakolosai"
+    slug: "vakolosai"
+    name_toc: "Vakolosai"
+  "1TH":
+    name: "1 Vatesalonike"
+    slug: "1-vatesalonike"
+    name_toc: "Vatesalonike"
+  "2TH":
+    name: "2 Vatesalonike"
+    slug: "2-vatesalonike"
+    name_toc: "Vatesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Tito"
+  "PHM":
+    name: "Filimona"
+    slug: "filimona"
+    name_toc: "Filimona"
+  "HEB":
+    name: "Vahebrania"
+    slug: "vahebrania"
+    name_toc: "Vahebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Petro"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda"
+  "REV":
+    name: "Likhunulilwa"
+    slug: "likhunulilwa"
+    name_toc: "Likhunulilwa Khu Yohana"

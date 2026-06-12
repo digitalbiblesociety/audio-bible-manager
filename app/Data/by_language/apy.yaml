@@ -1,0 +1,197 @@
+language: "apy"
+books:
+  "GEN":
+    name: "Jenexi"
+    slug: "jenexi"
+  "EXO":
+    name: "Exutu"
+    slug: "exutu"
+  "LEV":
+    name: "Rewitiku"
+    slug: "rewitiku"
+  "NUM":
+    name: "Numeru"
+    slug: "numeru"
+  "DEU":
+    name: "Teuteronomiu"
+    slug: "teuteronomiu"
+  "JOS":
+    name: "Jozue"
+    slug: "jozue"
+  "JDG":
+    name: "Juize"
+    slug: "juize"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samueu"
+    slug: "1-samueu"
+  "2SA":
+    name: "2 Samueu"
+    slug: "2-samueu"
+  "1KI":
+    name: "1 Tuisa"
+    slug: "1-tuisa"
+  "2KI":
+    name: "2 Tuisa"
+    slug: "2-tuisa"
+  "1CH":
+    name: "1 Koronika"
+    slug: "1-koronika"
+  "2CH":
+    name: "2 Koronika"
+    slug: "2-koronika"
+  "EZR":
+    name: "Extara"
+    slug: "extara"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+  "EST":
+    name: "Exite"
+    slug: "exite"
+  "PSA":
+    name: "Saumu"
+    slug: "saumu"
+  "PRO":
+    name: "Porowepio"
+    slug: "porowepio"
+  "ECC":
+    name: "Ekereziaxti"
+    slug: "ekereziaxti"
+  "SNG":
+    name: "Kãtiku"
+    slug: "katiku"
+  "ISA":
+    name: "Izaja"
+    slug: "izaja"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Ramẽtasão"
+    slug: "rametasao"
+  "EZK":
+    name: "Ezekieu"
+    slug: "ezekieu"
+  "DAN":
+    name: "Tanieu"
+    slug: "tanieu"
+  "HOS":
+    name: "Ozeja"
+    slug: "ozeja"
+  "JOL":
+    name: "Joeu"
+    slug: "joeu"
+  "AMO":
+    name: "Amoxi"
+    slug: "amoxi"
+  "OBA":
+    name: "Opatia"
+    slug: "opatia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mikeja"
+    slug: "mikeja"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+  "HAB":
+    name: "Apakuke"
+    slug: "apakuke"
+  "ZEP":
+    name: "Sowonia"
+    slug: "sowonia"
+  "HAG":
+    name: "Ajeu"
+    slug: "ajeu"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+  "MAL":
+    name: "Marakia"
+    slug: "marakia"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Maku"
+    slug: "maku"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "João"
+    slug: "joao"
+  "ACT":
+    name: "Atos"
+    slug: "atos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Korĩtiu"
+    slug: "1-koritiu"
+  "2CO":
+    name: "2 Korĩtiu"
+    slug: "2-koritiu"
+  "GAL":
+    name: "Karaxia"
+    slug: "karaxia"
+  "EPH":
+    name: "Epezu"
+    slug: "epezu"
+  "PHP":
+    name: "Piripo"
+    slug: "piripo"
+  "COL":
+    name: "Koroxi"
+    slug: "koroxi"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Timoteu"
+    slug: "1-timoteu"
+  "2TI":
+    name: "2 Timoteu"
+    slug: "2-timoteu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Epereu"
+    slug: "epereu"
+  "JAS":
+    name: "Tiaku"
+    slug: "tiaku"
+  "1PE":
+    name: "1 Peturu"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 Peturu"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 João"
+    slug: "1-joao"
+  "2JN":
+    name: "2 João"
+    slug: "2-joao"
+  "3JN":
+    name: "3 João"
+    slug: "3-joao"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Apokaripxi"
+    slug: "apokaripxi"

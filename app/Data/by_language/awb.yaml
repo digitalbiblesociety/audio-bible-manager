@@ -1,0 +1,83 @@
+language: "awb"
+books:
+  "MAT":
+    name: "Mátíyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Máhka"
+    slug: "mahka"
+  "LUK":
+    name: "Árúka"
+    slug: "aruka"
+  "JHN":
+    name: "Sóni"
+    slug: "soni"
+  "ACT":
+    name: "Eqmaro Ke"
+    slug: "eqmaro-ke"
+  "ROM":
+    name: "Aroma"
+    slug: "aroma"
+  "1CO":
+    name: "1 Kórína"
+    slug: "1-korina"
+  "2CO":
+    name: "2 Kórína"
+    slug: "2-korina"
+  "GAL":
+    name: "Kárétía"
+    slug: "karetia"
+  "EPH":
+    name: "Épésa"
+    slug: "epesa"
+  "PHP":
+    name: "Pírípái"
+    slug: "piripai"
+  "COL":
+    name: "Kórósía"
+    slug: "korosia"
+  "1TH":
+    name: "1 Tésárónáíka"
+    slug: "1-tesaronaika"
+  "2TH":
+    name: "2 Tésárónáíka"
+    slug: "2-tesaronaika"
+  "1TI":
+    name: "1 Tímóti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Tímóti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Táítása"
+    slug: "taitasa"
+  "PHM":
+    name: "Pírémóna"
+    slug: "piremona"
+  "HEB":
+    name: "Íbaru Ke"
+    slug: "ibaru-ke"
+  "JAS":
+    name: "Sémísi"
+    slug: "semisi"
+  "1PE":
+    name: "1 Píta"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Píta"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Sóni"
+    slug: "1-soni"
+  "2JN":
+    name: "2 Sóni"
+    slug: "2-soni"
+  "3JN":
+    name: "3 Sóni"
+    slug: "3-soni"
+  "JUD":
+    name: "Súta"
+    slug: "suta"
+  "REV":
+    name: "Sokigi"
+    slug: "sokigi"

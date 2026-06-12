@@ -1,0 +1,302 @@
+language: "kln"
+books:
+  "GEN":
+    name: "Taunet"
+    slug: "taunet"
+    name_toc: "GENESIS - Kitabuutap TAUNET"
+  "EXO":
+    name: "Komong'u"
+    slug: "komong-u"
+    name_toc: "EXODUS - Kitabuutap KOMONG'U"
+  "LEV":
+    name: "Ateptap Lawik"
+    slug: "ateptap-lawik"
+    name_toc: "Kitabuutap ATEBETAP LAWIIK"
+  "NUM":
+    name: "Kaitosyek"
+    slug: "kaitosyek"
+    name_toc: "NUMBERS - Kitabuutap KAITOSYEK"
+  "DEU":
+    name: "Ng'atutik"
+    slug: "ng-atutik"
+    name_toc: "Bukuitab Mut Ne Bo Musa, Ne Kiguure Ne Kibwate Ng’atutik"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+    name_toc: "Josua"
+  "JDG":
+    name: "Kiruogik"
+    slug: "kiruogik"
+    name_toc: "Kiruogik"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Kitabuutap RUTH"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Kitabuutap Tai ne po SAMUEL"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Kitabuutap Aeng' ne po SAMUEL"
+  "1KI":
+    name: "1 Laitorinik"
+    slug: "1-laitorinik"
+    name_toc: "Kitabuutap Tai ne po LAITORINIK"
+  "2KI":
+    name: "2 Laitorinik"
+    slug: "2-laitorinik"
+    name_toc: "Kitabuutap Aeng' ne po LAITORINIK"
+  "1CH":
+    name: "Ateptab Betusiek 1"
+    slug: "ateptab-betusiek-1"
+    name_toc: "Bukuitab Tai Ne Bo Ateptab Betusiek"
+  "2CH":
+    name: "Ateptab Betusiek 2"
+    slug: "ateptab-betusiek-2"
+    name_toc: "Bukuitab Aeng’ Ne Bo Ateptab Betusiek"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Bukuitab Esra"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+    name_toc: "Bukuitab Neemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Kitabuutap ESTA"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Kitabuutap JOB"
+  "PSA":
+    name: "Tienwogikal"
+    slug: "tienwogikal"
+    name_toc: "Tienwogikab Kalosunet Bukuitab Tai"
+  "PRO":
+    name: "Kalewanaik"
+    slug: "kalewanaik"
+    name_toc: "Kitabuutap KALEWENAIK"
+  "ECC":
+    name: "Amdoindet"
+    slug: "amdoindet"
+    name_toc: "Kitabuutap AMDOINDET"
+  "SNG":
+    name: "Tyendo Ne Siirei Tugul"
+    slug: "tyendo-ne-siirei-tugul"
+    name_toc: "Kitabuutap TYENDO NE SIIREI TUGUL"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+    name_toc: "Bukuitab Maotiot Isaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Bukuitab Maotiot Jeremia"
+  "LAM":
+    name: "Rirekab Jeremia"
+    slug: "rirekab-jeremia"
+    name_toc: "Rirekab Jeremia"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Kitabuutap EZEKIEL"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Kitabuutap DANIEL"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Kitabuutap HOSEA"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Kitabuutap JOEL"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Kitabuutap AMOS"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Bukuitab Obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Bukuitab Jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Bukuitab Mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Kitabuutap NAHUM"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Bukuitab Habakuk"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Butuitab Sepania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Bukuitab Hagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Bukuitab Sekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Kitabuutap MALAKI"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Kitabuutap Tobit"
+  "JDT":
+    name: "Judith"
+    slug: "judith"
+    name_toc: "Kitabuutap Judith"
+  "ESG":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Kitabuutap Estag"
+  "WIS":
+    name: "Utaatyetap Solomon"
+    slug: "utaatyetap-solomon"
+    name_toc: "Kitabuutap Utaatyetap Solomon"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+    name_toc: "Kitabuutap Sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Kitabuutap Baruk"
+  "DAG":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "1MA":
+    name: "1 Makabaik"
+    slug: "1-makabaik"
+    name_toc: "Kitabuutap Tai ne po Makabaik"
+  "2MA":
+    name: "2 Makabaik"
+    slug: "2-makabaik"
+    name_toc: "Kitabuutap Aeng' ne po Makabaik"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Logoiywek che Myach ko uu ye ki sir MATAYO"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Logoywek che Myach ko uu ye ki sir Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Logoywek che Myach ko uu ye ki sir Luka"
+  "JHN":
+    name: "Johana"
+    slug: "johana"
+    name_toc: "Logoywek che Myach ko uu ye ki sir Johana"
+  "ACT":
+    name: "Poisyonigap Che Kiyoktoi"
+    slug: "poisyonigap-che-kiyoktoi"
+    name_toc: "Kitabuut ne po POISYONIGAP CHE KIYOKTOI"
+  "ROM":
+    name: "Romanik"
+    slug: "romanik"
+    name_toc: "Parweetap ROMANIK"
+  "1CO":
+    name: "1 Korintoek"
+    slug: "1-korintoek"
+    name_toc: "Parweetap Tai ne po KORINTOEK"
+  "2CO":
+    name: "2 Korintoek"
+    slug: "2-korintoek"
+    name_toc: "Parweetap Aeng' ne po KORINTOEK"
+  "GAL":
+    name: "Galatyek"
+    slug: "galatyek"
+    name_toc: "Parweetap GALATYEK"
+  "EPH":
+    name: "Epesoek"
+    slug: "epesoek"
+    name_toc: "Baruetab Paulo Ne Kiyoktoi Ne Kisirji Epesoek"
+  "PHP":
+    name: "Pilipik"
+    slug: "pilipik"
+    name_toc: "Baruetab Paulo Ne Kiyoktoi Ne Kisirji Pilipik"
+  "COL":
+    name: "Kolosaik"
+    slug: "kolosaik"
+    name_toc: "Parweetap KOLOSAIK"
+  "1TH":
+    name: "Tesalonikek 1"
+    slug: "tesalonikek-1"
+    name_toc: "Baruetab Tai Ne Bo Paulo Ne Kiyoktoi Ne Kisirji Tesalonikek"
+  "2TH":
+    name: "Tesalonikek 2"
+    slug: "tesalonikek-2"
+    name_toc: "Baruetab Aeng’ Ne Bo Paulo Ne Kiyoktoi Ne Kisirji Tesalonikek"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Parweetap Tai ne po TIMOTEO"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Parweetap Aeng' ne po TIMOTEO"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Parweetap TITO"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Baruetab Paulo Ne Kiyoktoi Ne Kisirji Pilemon"
+  "HEB":
+    name: "Hebranik"
+    slug: "hebranik"
+    name_toc: "Parweetap HEBRANIK"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Parweetap JAKOBO"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Parweetap Tai ne po PETERO"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Parweetap Aeng' ne po PETERO"
+  "1JN":
+    name: "1 Johana"
+    slug: "1-johana"
+    name_toc: "Parweetap Tai ne po JOHANA"
+  "2JN":
+    name: "2 Johana"
+    slug: "2-johana"
+    name_toc: "Parweetap Aeng' ne po JOHANA"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+    name_toc: "Parweetap Somok ne po JOHANA"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Parweetap JUDA"
+  "REV":
+    name: "Ng'ang'utyet"
+    slug: "ng-ang-utyet"
+    name_toc: "Kitabuutap NG'ANG'UTYET"

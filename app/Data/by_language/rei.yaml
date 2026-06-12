@@ -1,0 +1,59 @@
+language: "rei"
+books:
+  "MAT":
+    name: "మత్తయి"
+    slug: "mattayi"
+  "1CO":
+    name: "1 కొరింది"
+    slug: "1-korimdi"
+  "2CO":
+    name: "2 కొరింది"
+    slug: "2-korimdi"
+  "GAL":
+    name: "గలతీ"
+    slug: "galati"
+  "EPH":
+    name: "ఎపేసీ"
+    slug: "epesi"
+  "PHP":
+    name: "పిలిప్పీ"
+    slug: "pilippi"
+  "COL":
+    name: "కొలస్సీ"
+    slug: "kolassi"
+  "1TH":
+    name: "1 తెస్సలొని"
+    slug: "1-tessaloni"
+  "2TH":
+    name: "2 తెస్సలొని"
+    slug: "2-tessaloni"
+  "1TI":
+    name: "1 తిమోతి"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 తిమోతి"
+    slug: "2-timoti"
+  "TIT":
+    name: "తీతు"
+    slug: "titu"
+  "PHM":
+    name: "ఫిలేమోను"
+    slug: "philemonu"
+  "HEB":
+    name: "హెబ్రీ"
+    slug: "hebri"
+  "1JN":
+    name: "1 యోహాను"
+    slug: "1-yohanu"
+  "2JN":
+    name: "2 యోహాను"
+    slug: "2-yohanu"
+  "3JN":
+    name: "3 యోహాను"
+    slug: "3-yohanu"
+  "JUD":
+    name: "యూదా"
+    slug: "yuda"
+  "REV":
+    name: "ప్రకటన"
+    slug: "prakatana"

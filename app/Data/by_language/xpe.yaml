@@ -1,0 +1,266 @@
+language: "xpe"
+books:
+  "GEN":
+    name: "Zɛnɛse"
+    slug: "znse"
+    name_toc: "Chikalata cha Paolo kwa Tito"
+  "EXO":
+    name: "Ɛsedɔ"
+    slug: "sed"
+    name_toc: "Chikalata cha Paolo kwa Filimoni"
+  "LEV":
+    name: "Levetekɔ"
+    slug: "levetek"
+    name_toc: "Chikalata kwa Ŵaeblania"
+  "NUM":
+    name: "Nɔŋba"
+    slug: "nba"
+    name_toc: "Chikalata chachilembekwe ni Yakobo"
+  "DEU":
+    name: "Dutɛrɔnome"
+    slug: "dutrnome"
+    name_toc: "Chikalata cha ndanda cha  Petulo"
+  "JOS":
+    name: "Zasua"
+    slug: "zasua"
+    name_toc: "Chikalata chaŵili cha  Petulo"
+  "JDG":
+    name: "M̀ɛni-sâa Ƃó-ƃelai"
+    slug: "mni-saa-o-elai"
+    name_toc: "Chikalata chandanda cha  Yohana"
+  "RUT":
+    name: "Lûfi"
+    slug: "lufi"
+    name_toc: "Chikalata chaŵili cha Yohana"
+  "1SA":
+    name: "Samia Maa-ŋuŋ"
+    slug: "samia-maa-u"
+    name_toc: "Chikalata chatatu cha  Yohana"
+  "2SA":
+    name: "Samia Veerɛi"
+    slug: "samia-veeri"
+    name_toc: "Chikalata chachilembekwe ni Yuda"
+  "1KI":
+    name: "Kâloŋ Maa-ŋuŋ"
+    slug: "kalo-maa-u"
+    name_toc: "Chiunukuko"
+  "2KI":
+    name: "Kâloŋ Veerɛi"
+    slug: "kalo-veeri"
+    name_toc: "Kejadian"
+  "1CH":
+    name: "Kɔlɔnikɔ Maa-ŋuŋ"
+    slug: "klnik-maa-u"
+    name_toc: "Keluaran"
+  "2CH":
+    name: "Kɔlɔnikɔ Veerɛi"
+    slug: "klnik-veeri"
+    name_toc: "Imamat"
+  "EZR":
+    name: "Ɛzura"
+    slug: "zura"
+    name_toc: "Bilangan"
+  "NEH":
+    name: "Niɛmaya"
+    slug: "nimaya"
+    name_toc: "Ulangan"
+  "EST":
+    name: "Ɛtɛ"
+    slug: "t"
+    name_toc: "Yosua"
+  "JOB":
+    name: "Zôo"
+    slug: "zoo"
+    name_toc: "Hakim-hakim"
+  "PSA":
+    name: "Wule-woo-ŋa"
+    slug: "wule-woo-a"
+    name_toc: "Rut"
+  "PRO":
+    name: "Táre-woo-ŋa"
+    slug: "tare-woo-a"
+    name_toc: "1 Samuel"
+  "ECC":
+    name: "Ikilisiati"
+    slug: "ikilisiati"
+    name_toc: "2 Samuel"
+  "SNG":
+    name: "Wule-ŋa Kélee Mɛi Wûle"
+    slug: "wule-a-kelee-mi-wule"
+    name_toc: "1 Raja-raja"
+  "ISA":
+    name: "Azaya"
+    slug: "azaya"
+    name_toc: "2 Raja-raja"
+  "JER":
+    name: "Zɛlemaya"
+    slug: "zlemaya"
+    name_toc: "1 Tawarikh"
+  "LAM":
+    name: "Zerusâlɛŋ Karáa Maa Wɔ̂lɔ-wooi"
+    slug: "zerusal-karaa-maa-wl-wooi"
+    name_toc: "2 Tawarikh"
+  "EZK":
+    name: "Izikiɛ"
+    slug: "iziki"
+    name_toc: "Ezra"
+  "DAN":
+    name: "Danîa"
+    slug: "dania"
+    name_toc: "Nehemia"
+  "HOS":
+    name: "Osia"
+    slug: "osia"
+    name_toc: "Ester"
+  "JOL":
+    name: "Zooɛ"
+    slug: "zoo"
+    name_toc: "Ayub"
+  "AMO":
+    name: "Emɔ"
+    slug: "em"
+    name_toc: "Mazmur"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+    name_toc: "Amsal"
+  "JON":
+    name: "Zôna"
+    slug: "zona"
+    name_toc: "Pengkhotbah"
+  "MIC":
+    name: "Maka"
+    slug: "maka"
+    name_toc: "Kidung Agung"
+  "NAM":
+    name: "Neeuŋ"
+    slug: "neeu"
+    name_toc: "Yesaya"
+  "HAB":
+    name: "Abaku"
+    slug: "abaku"
+    name_toc: "Yeremia"
+  "ZEP":
+    name: "Zɛfɛnâya"
+    slug: "zfnaya"
+    name_toc: "Ratapan"
+  "HAG":
+    name: "Egaa"
+    slug: "egaa"
+    name_toc: "Yehezkiel"
+  "ZEC":
+    name: "Zɛkɛrâya"
+    slug: "zkraya"
+    name_toc: "Daniel"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+    name_toc: "Hosea"
+  "MAT":
+    name: "Maafîu"
+    slug: "maafiu"
+    name_toc: "Yoel"
+  "MRK":
+    name: "Mâki"
+    slug: "maki"
+    name_toc: "Amos"
+  "LUK":
+    name: "Lûu"
+    slug: "luu"
+    name_toc: "Obaja"
+  "JHN":
+    name: "Zɔ̂ŋ"
+    slug: "z"
+    name_toc: "Yunus"
+  "ACT":
+    name: "Zia-ƃelai Kɛ́-mɛni-ŋai"
+    slug: "zia-elai-k-mni-ai"
+    name_toc: "Mikha"
+  "ROM":
+    name: "Lomaŋ"
+    slug: "loma"
+    name_toc: "Nahum"
+  "1CO":
+    name: "Kɔleŋtiɛŋ Maa-ŋuŋ"
+    slug: "kleti-maa-u"
+    name_toc: "Habakuk"
+  "2CO":
+    name: "Kɔleŋtiɛŋ Veerɛi"
+    slug: "kleti-veeri"
+    name_toc: "Zefanya"
+  "GAL":
+    name: "Galesiɛŋ"
+    slug: "galesi"
+    name_toc: "Hagai"
+  "EPH":
+    name: "Ifisiɛŋ"
+    slug: "ifisi"
+    name_toc: "Zakharia"
+  "PHP":
+    name: "Felepiɛŋ"
+    slug: "felepi"
+    name_toc: "Maleakhi"
+  "COL":
+    name: "Kolasiɛŋ"
+    slug: "kolasi"
+    name_toc: "Matius Wene"
+  "1TH":
+    name: "Tɛsɛlôniɛŋ Maa-ŋuŋ"
+    slug: "tsloni-maa-u"
+    name_toc: "Markus wene"
+  "2TH":
+    name: "Tɛsɛlôniɛŋ Veerɛi"
+    slug: "tsloni-veeri"
+    name_toc: "Lukas Wene"
+  "1TI":
+    name: "Temete Maa-ŋuŋ"
+    slug: "temete-maa-u"
+    name_toc: "Yohanes Wene"
+  "2TI":
+    name: "Temete Veerɛi"
+    slug: "temete-veeri"
+    name_toc: "Yesus otsiyen wene hiyag isaruk latfag ane Lukasen haharoho imbibahon (Kisah Rasul-Rasul)"
+  "TIT":
+    name: "Taitɔ"
+    slug: "tait"
+    name_toc: "Paulusen Roma inap fahet suwesingga haharoho imbibahon"
+  "PHM":
+    name: "Falemɔŋ"
+    slug: "falem"
+    name_toc: "Paulusen Korintus inap fahet suwesingga tamon haharoho imbibahon"
+  "HEB":
+    name: "Ibulu"
+    slug: "ibulu"
+    name_toc: "Paulusen Korintus inap fahet suwesingga pirenehon haharoho imbibahon"
+  "JAS":
+    name: "Zĩi"
+    slug: "zii"
+    name_toc: "Paulusen Galatia inap fahet suwesingga haharoho imbibahon"
+  "1PE":
+    name: "Pitɛ Maa-ŋuŋ"
+    slug: "pit-maa-u"
+    name_toc: "Paulusen Efesus inap fahet suwesingga haharoho imbibahon"
+  "2PE":
+    name: "Pitɛ Veerɛi"
+    slug: "pit-veeri"
+    name_toc: "Paulusen Filipi inap fahet suwesingga imbibahon"
+  "1JN":
+    name: "Zɔ̂ŋ Maa-ŋuŋ"
+    slug: "z-maa-u"
+    name_toc: "Paulusen Kolose inap fahet suwesingga haharoho imbibahon"
+  "2JN":
+    name: "Zɔ̂ŋ Veerɛi"
+    slug: "z-veeri"
+    name_toc: "Paulusen Tesalonika inap fahet suwesingga atamon haharoho imbibahon"
+  "3JN":
+    name: "Zɔ̂ŋ Zaaƃai"
+    slug: "z-zaaai"
+    name_toc: "Paulusen Tesalonika inap fahet suwesingga pirenehon haharoho imbibahon"
+  "JUD":
+    name: "Zûu"
+    slug: "zuu"
+    name_toc: "Paulusen hun Timotius fahet suwesingga atamon haharoho imbibahon"
+  "REV":
+    name: "M̀ɛni-lɛɛi"
+    slug: "mni-li"
+    name_toc: "Paulusen hun Timotius fahet suwesingga pirenehon haharoho imbibahon"

@@ -1,0 +1,266 @@
+language: "khk"
+books:
+  "GEN":
+    name: "Эхлэл"
+    slug: "ehlel"
+    name_toc: "Эхлэл"
+  "EXO":
+    name: "Гэтлэл"
+    slug: "getlel"
+    name_toc: "Гэтлэл"
+  "LEV":
+    name: "Леви"
+    slug: "levi"
+    name_toc: "Леви"
+  "NUM":
+    name: "Тооллого"
+    slug: "toollogo"
+    name_toc: "Тооллого"
+  "DEU":
+    name: "Дэд хууль"
+    slug: "ded-huul"
+    name_toc: "Дэд хууль"
+  "JOS":
+    name: "Иошуа"
+    slug: "iosua"
+    name_toc: "Иошуа"
+  "JDG":
+    name: "Шүүгчид"
+    slug: "suugcid"
+    name_toc: "Шүүгчид"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+    name_toc: "Рут"
+  "1SA":
+    name: "1Самуел"
+    slug: "1samuel"
+    name_toc: "1 Самуел"
+  "2SA":
+    name: "2Самуел"
+    slug: "2samuel"
+    name_toc: "2 Самуел"
+  "1KI":
+    name: "1Хаад"
+    slug: "1haad"
+    name_toc: "Хаадын дээд"
+  "2KI":
+    name: "2Хаад"
+    slug: "2haad"
+    name_toc: "Хаадын дэд"
+  "1CH":
+    name: "1Шастир"
+    slug: "1sastir"
+    name_toc: "Шастирын дээд"
+  "2CH":
+    name: "2Шастир"
+    slug: "2sastir"
+    name_toc: "Шастирын дэд"
+  "EZR":
+    name: "Езра"
+    slug: "ezra"
+    name_toc: "Езра"
+  "NEH":
+    name: "Нехемиа"
+    slug: "nehemia"
+    name_toc: "Нехемиа"
+  "EST":
+    name: "Естер"
+    slug: "ester"
+    name_toc: "Естер"
+  "JOB":
+    name: "Иов"
+    slug: "iov"
+    name_toc: "Иов"
+  "PSA":
+    name: "Дуулал"
+    slug: "duulal"
+    name_toc: "Дуулал"
+  "PRO":
+    name: "Сургаалт үгс"
+    slug: "surgaalt-ugs"
+    name_toc: "Сургаалт үгс"
+  "ECC":
+    name: "Номлогчийн үгс"
+    slug: "nomlogcijn-ugs"
+    name_toc: "Номлогчийн үгс"
+  "SNG":
+    name: "Соломоны дуун"
+    slug: "solomony-duun"
+    name_toc: "Соломоны дуун"
+  "ISA":
+    name: "Исаиа"
+    slug: "isaia"
+    name_toc: "Исаиа"
+  "JER":
+    name: "Иеремиа"
+    slug: "ieremia"
+    name_toc: "Иеремиа"
+  "LAM":
+    name: "Гашуудал"
+    slug: "gasuudal"
+    name_toc: "Гашуудал"
+  "EZK":
+    name: "Езекиел"
+    slug: "ezekiel"
+    name_toc: "Езекиел"
+  "DAN":
+    name: "Даниел"
+    slug: "daniel"
+    name_toc: "Даниел"
+  "HOS":
+    name: "Хосеа"
+    slug: "hosea"
+    name_toc: "Хосеа"
+  "JOL":
+    name: "Иоел"
+    slug: "ioel"
+    name_toc: "Иоел"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+    name_toc: "Амос"
+  "OBA":
+    name: "Обадиа"
+    slug: "obadia"
+    name_toc: "Обадиа"
+  "JON":
+    name: "Иона"
+    slug: "iona"
+    name_toc: "Иона"
+  "MIC":
+    name: "Мика"
+    slug: "mika"
+    name_toc: "Мика"
+  "NAM":
+    name: "Нахум"
+    slug: "nahum"
+    name_toc: "Нахум"
+  "HAB":
+    name: "Хабаккук"
+    slug: "habakkuk"
+    name_toc: "Хабаккук"
+  "ZEP":
+    name: "Зефаниа"
+    slug: "zefania"
+    name_toc: "Зефаниа"
+  "HAG":
+    name: "Хаггаи"
+    slug: "haggai"
+    name_toc: "Хаггаи"
+  "ZEC":
+    name: "Зехариа"
+    slug: "zeharia"
+    name_toc: "Зехариа"
+  "MAL":
+    name: "Малахи"
+    slug: "malahi"
+    name_toc: "Малахи"
+  "MAT":
+    name: "Матай"
+    slug: "mataj"
+    name_toc: "Матай"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+    name_toc: "Марк"
+  "LUK":
+    name: "Лук"
+    slug: "luk"
+    name_toc: "Лук"
+  "JHN":
+    name: "Иохан"
+    slug: "iohan"
+    name_toc: "Иохан"
+  "ACT":
+    name: "Үйлс"
+    slug: "ujls"
+    name_toc: "Үйлс"
+  "ROM":
+    name: "Ром"
+    slug: "rom"
+    name_toc: "Ром"
+  "1CO":
+    name: "1Коринт"
+    slug: "1korint"
+    name_toc: "1 Коринт"
+  "2CO":
+    name: "2Коринт"
+    slug: "2korint"
+    name_toc: "2 Коринт"
+  "GAL":
+    name: "Галат"
+    slug: "galat"
+    name_toc: "Галат"
+  "EPH":
+    name: "Ефес"
+    slug: "efes"
+    name_toc: "Ефес"
+  "PHP":
+    name: "Филиппой"
+    slug: "filippoj"
+    name_toc: "Филиппой"
+  "COL":
+    name: "Колоссай"
+    slug: "kolossaj"
+    name_toc: "Колоссай"
+  "1TH":
+    name: "1Тесалоник"
+    slug: "1tesalonik"
+    name_toc: "1 Тесалоник"
+  "2TH":
+    name: "2Тесалоник"
+    slug: "2tesalonik"
+    name_toc: "2 Тесалоник"
+  "1TI":
+    name: "1Тимот"
+    slug: "1timot"
+    name_toc: "1 Тимот"
+  "2TI":
+    name: "2Тимот"
+    slug: "2timot"
+    name_toc: "2 Тимот"
+  "TIT":
+    name: "Тит"
+    slug: "tit"
+    name_toc: "Тит"
+  "PHM":
+    name: "Филемон"
+    slug: "filemon"
+    name_toc: "Филемон"
+  "HEB":
+    name: "Еврей"
+    slug: "evrej"
+    name_toc: "Еврейчүүдэд"
+  "JAS":
+    name: "Иаков"
+    slug: "iakov"
+    name_toc: "Иаков"
+  "1PE":
+    name: "1Петр"
+    slug: "1petr"
+    name_toc: "1 Петр"
+  "2PE":
+    name: "2Петр"
+    slug: "2petr"
+    name_toc: "2 Петр"
+  "1JN":
+    name: "1Иохан"
+    slug: "1iohan"
+    name_toc: "1 Иохан"
+  "2JN":
+    name: "2Иохан"
+    slug: "2iohan"
+    name_toc: "2 Иохан"
+  "3JN":
+    name: "3Иохан"
+    slug: "3iohan"
+    name_toc: "3 Иохан"
+  "JUD":
+    name: "Иуда"
+    slug: "iuda"
+    name_toc: "Иуда"
+  "REV":
+    name: "Илчлэл"
+    slug: "ilclel"
+    name_toc: "Илчлэл"

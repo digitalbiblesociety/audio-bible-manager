@@ -1,0 +1,200 @@
+language: "mya"
+books:
+  "GEN":
+    name: "ကမ္ဘာဦးကျမ်း"
+    slug: "kanbau-kjan"
+  "EXO":
+    name: "ထွက်မြောက်ရာကျမ်း။"
+    slug: "htwe-mjau-jakjan"
+  "LEV":
+    name: "ဝတ်ပြုရာကျမ်း"
+    slug: "wa-pju-jakjan"
+  "NUM":
+    name: "တောလည်ရာကျမ်း"
+    slug: "to-lijakjan"
+  "DEU":
+    name: "တရားဟောရာကျမ်း"
+    slug: "ta-ja-ho-jakjan"
+  "JOS":
+    name: "ယောရှုမှတ်စာ။"
+    slug: "jo-shu-hma-sa"
+  "JDG":
+    name: "တရားသူကြီးမှတ်စာ"
+    slug: "ta-ja-thukji-hma-sa"
+  "RUT":
+    name: "ရုသဝတ္တု။"
+    slug: "ju-tha-wa-tu"
+  "1SA":
+    name: "ဓမ္မရာဇဝင် ပဋ္ဌမစောင်"
+    slug: "danma-jaza-win-pthta-ma-saun"
+  "2SA":
+    name: "ဓမ္မရာဇဝင်ဒုတိယစောင်။"
+    slug: "danma-jaza-windu-ti-ja-saun"
+  "1KI":
+    name: "ဓမ္မရာဇဝင်တတိယစောင်။"
+    slug: "danma-jaza-winta-ti-ja-saun"
+  "2KI":
+    name: "ဓမ္မရာဇဝင်စတုတ္ထစောင်။"
+    slug: "danma-jaza-winsa-touhta-saun"
+  "1CH":
+    name: "ရာဇဝင်ချုပ်ပဌမစောင်။"
+    slug: "jaza-winchoupa-hta-ma-saun"
+  "2CH":
+    name: "ရာဇဝင်ချုပ်ဒုတိယစောင်။"
+    slug: "jaza-winchoudu-ti-ja-saun"
+  "EZR":
+    name: "ဧဇရမှတ်စာ။"
+    slug: "eiza-ja-hma-sa"
+  "NEH":
+    name: "နေဟမိမှတ်စာ။"
+    slug: "neiha-mi-hma-sa"
+  "EST":
+    name: "ဧသတာဝတ္ထု။"
+    slug: "eitha-tawa-htu"
+  "JOB":
+    name: "ယောဘဝတ္တု။"
+    slug: "jo-ba-wa-tu"
+  "PSA":
+    name: "ဆာလံကျမ်း"
+    slug: "hsalankjan"
+  "PRO":
+    name: "သုတ္တံကျမ်း။"
+    slug: "thoutankjan"
+  "ECC":
+    name: "ဒေသနာကျမ်း။"
+    slug: "deitha-nakjan"
+  "SNG":
+    name: "ရှောလမုန်သီချင်း။"
+    slug: "sho-la-mounthichin"
+  "ISA":
+    name: "ဟေရှာယအနာဂတ္တိကျမ်း။"
+    slug: "heishaja-a-naga-ti-kjan"
+  "JER":
+    name: "ယေရမိအနာဂတ္တိကျမ်း။"
+    slug: "jeija-mi-a-naga-ti-kjan"
+  "LAM":
+    name: "ယေရမိမြည်တမ်းစကား။"
+    slug: "jeija-mi-mjitan-sa-ka"
+  "EZK":
+    name: "ယေဇကျေလအနာဂတ္တိကျမ်း။"
+    slug: "jeiza-kjeila-a-naga-ti-kjan"
+  "DAN":
+    name: "ဒံယေလအနာဂတ္တိကျမ်း။"
+    slug: "danjeila-a-naga-ti-kjan"
+  "HOS":
+    name: "ဟောရှေအနာဂတ္တိကျမ်း"
+    slug: "ho-sheia-naga-ti-kjan"
+  "JOL":
+    name: "ယောလအနာဂတ္တိကျမ်း။"
+    slug: "jo-la-a-naga-ti-kjan"
+  "AMO":
+    name: "အာမုတ်အနာဂတ္တိကျမ်း။"
+    slug: "amoua-naga-ti-kjan"
+  "OBA":
+    name: "ဩဗဒိဗျာဒိတ်ရူပါရုံ"
+    slug: "o-ba-di-bjadei-jupajoun"
+  "JON":
+    name: "ယောနဝတ္ထု၊"
+    slug: "jo-na-wa-htu"
+  "MIC":
+    name: "မိက္ခာအနာဂတ္တိကျမ်း။"
+    slug: "mikkhaa-naga-ti-kjan"
+  "NAM":
+    name: "နာဟုံအနာဂတ္တိကျမ်း"
+    slug: "nahouna-naga-ti-kjan"
+  "HAB":
+    name: "ဟဗက္ကုတ်အနာဂတ္တိကျမ်း"
+    slug: "ha-be-koua-naga-ti-kjan"
+  "ZEP":
+    name: "ဇေဖနိအနာဂတ္တိကျမ်း"
+    slug: "zeihpa-ni-a-naga-ti-kjan"
+  "HAG":
+    name: "ဟဂ္ဂဲအနာဂတ္တိကျမ်း"
+    slug: "hgge-a-naga-ti-kjan"
+  "ZEC":
+    name: "ဇာခရိအနာဂတ္တိကျမ်း"
+    slug: "zakha-ji-a-naga-ti-kjan"
+  "MAL":
+    name: "မာလခိအနာဂတ္တိကျမ်း"
+    slug: "mala-khi-a-naga-ti-kjan"
+  "MAT":
+    name: "ရှင်မဿဲခရစ်ဝင်။"
+    slug: "shinma-the-kha-ji-win"
+  "MRK":
+    name: "ရှင်မာကုခရစ်ဝင်။"
+    slug: "shinmaku-kha-ji-win"
+  "LUK":
+    name: "ရှင်လုကာခရစ်ဝင်။"
+    slug: "shinlu-kakha-ji-win"
+  "JHN":
+    name: "ရှင်ယောဟန်ခရစ်ဝင်။"
+    slug: "shinjo-hankha-ji-win"
+  "ACT":
+    name: "တမန်တော်ဝထ္ထု။"
+    slug: "ta-manto-whthtu"
+  "ROM":
+    name: "ရောမဩဝါဒစာ။"
+    slug: "jo-ma-o-wada-sa"
+  "1CO":
+    name: "ကောရိန္သုဩဝါဒစာပဌမစောင်။"
+    slug: "ko-jeinthu-o-wada-sapa-hta-ma-saun"
+  "2CO":
+    name: "ကောရိန္သုဩဝါသစာဒုတိယစောင်။"
+    slug: "ko-jeinthu-o-watha-sadu-ti-ja-saun"
+  "GAL":
+    name: "ဂလာတိဩဝါဒစာ။"
+    slug: "ga-lati-o-wada-sa"
+  "EPH":
+    name: "ဧဖက်ဩဝါဒစာ။"
+    slug: "eihpe-o-wada-sa"
+  "PHP":
+    name: "ဖိလိပ္ပိဩဝါဒစာ။"
+    slug: "hpi-lei-pi-o-wada-sa"
+  "COL":
+    name: "ကောလောသဲဩဝါဒစာ"
+    slug: "ko-lo-the-o-wada-sa"
+  "1TH":
+    name: "သက်သာလောနိတ်ဩဝါဒစာပဋ္ဌမစောင်"
+    slug: "the-thalo-nei-o-wada-sapthta-ma-saun"
+  "2TH":
+    name: "သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်"
+    slug: "the-thalo-nei-o-wada-sadu-ti-ja-saun"
+  "1TI":
+    name: "တိမောသေဩဝါဒစာပဋ္ဌမစောင်"
+    slug: "ti-mo-theio-wada-sapthta-ma-saun"
+  "2TI":
+    name: "တိမောသေဩဝါဒစာဒုတိယစောင်"
+    slug: "ti-mo-theio-wada-sadu-ti-ja-saun"
+  "TIT":
+    name: "တိတုဩဝါဒစာ"
+    slug: "ti-tu-o-wada-sa"
+  "PHM":
+    name: "ဖိလေမုန်ဩဝါဒစာ။"
+    slug: "hpi-leimouno-wada-sa"
+  "HEB":
+    name: "ဟေဗြဲဩဝါဒစာ။"
+    slug: "heibje-o-wada-sa"
+  "JAS":
+    name: "ရှင်ယာကုပ်ဩဝါဒစာ။"
+    slug: "shinjakouo-wada-sa"
+  "1PE":
+    name: "ရှင်ပေတရုဩဝါဒစာပဌမစောင်။"
+    slug: "shinpeita-ju-o-wada-sapa-hta-ma-saun"
+  "2PE":
+    name: "ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်။"
+    slug: "shinpeita-ju-o-wada-sadu-ti-ja-saun"
+  "1JN":
+    name: "ရှင်ယောဟန်ဩဝါဒစာပဌမစောင်။"
+    slug: "shinjo-hano-wada-sapa-hta-ma-saun"
+  "2JN":
+    name: "ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်။"
+    slug: "shinjo-hano-wada-sadu-ti-ja-saun"
+  "3JN":
+    name: "ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်။"
+    slug: "shinjo-hano-wada-sata-ti-ja-saun"
+  "JUD":
+    name: "ရှင်ယုဒဩဝါဒစာ။"
+    slug: "shinju-da-o-wada-sa"
+  "REV":
+    name: "ဗျာဒိတ်ကျမ်း။"
+    slug: "bjadei-kjan"

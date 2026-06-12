@@ -1,0 +1,86 @@
+language: "yom"
+books:
+  "PSA":
+    name: "Minkunga"
+    slug: "minkunga"
+  "MAT":
+    name: "Matayi"
+    slug: "matayi"
+  "MRK":
+    name: "Malako"
+    slug: "malako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yowani"
+    slug: "yowani"
+  "ACT":
+    name: "Mavanga"
+    slug: "mavanga"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinto"
+    slug: "1-kolinto"
+  "2CO":
+    name: "2 Kolinto"
+    slug: "2-kolinto"
+  "GAL":
+    name: "Ngalatiya"
+    slug: "ngalatiya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosayi"
+    slug: "kolosayi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+  "HEB":
+    name: "Ebelewo"
+    slug: "ebelewo"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+  "1PE":
+    name: "1 Piela"
+    slug: "1-piela"
+  "2PE":
+    name: "2 Piela"
+    slug: "2-piela"
+  "1JN":
+    name: "1 Yowani"
+    slug: "1-yowani"
+  "2JN":
+    name: "2 Yowani"
+    slug: "2-yowani"
+  "3JN":
+    name: "3 Yowani"
+    slug: "3-yowani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Tsongolo"
+    slug: "tsongolo"

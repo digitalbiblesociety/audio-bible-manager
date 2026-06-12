@@ -1,0 +1,83 @@
+language: "cjo"
+books:
+  "MAT":
+    name: "Mateeyo"
+    slug: "mateeyo"
+  "MRK":
+    name: "Marikoshi"
+    slug: "marikoshi"
+  "LUK":
+    name: "Rookashi"
+    slug: "rookashi"
+  "JHN":
+    name: "Jowa"
+    slug: "jowa"
+  "ACT":
+    name: "Rantayitakirini"
+    slug: "rantayitakirini"
+  "ROM":
+    name: "Oroomajatzi"
+    slug: "oroomajatzi"
+  "1CO":
+    name: "1 Korintojatzi"
+    slug: "1-korintojatzi"
+  "2CO":
+    name: "2 Korintojatzi"
+    slug: "2-korintojatzi"
+  "GAL":
+    name: "Karaashiyajatzi"
+    slug: "karaashiyajatzi"
+  "EPH":
+    name: "Ejeesojatzi"
+    slug: "ejeesojatzi"
+  "PHP":
+    name: "Jiriposhijatzi"
+    slug: "jiriposhijatzi"
+  "COL":
+    name: "Korojaashijatzi"
+    slug: "korojaashijatzi"
+  "1TH":
+    name: "1 Tejawoonikajatzi"
+    slug: "1-tejawoonikajatzi"
+  "2TH":
+    name: "2 Tejawoonikajatzi"
+    slug: "2-tejawoonikajatzi"
+  "1TI":
+    name: "1 Temoteeyo"
+    slug: "1-temoteeyo"
+  "2TI":
+    name: "2 Temoteeyo"
+    slug: "2-temoteeyo"
+  "TIT":
+    name: "Teeto"
+    slug: "teeto"
+  "PHM":
+    name: "Jirimooni"
+    slug: "jirimooni"
+  "HEB":
+    name: "Ijoriiyotzinkarite"
+    slug: "ijoriiyotzinkarite"
+  "JAS":
+    name: "Jantyaako"
+    slug: "jantyaako"
+  "1PE":
+    name: "1 Peetero"
+    slug: "1-peetero"
+  "2PE":
+    name: "2 Peetero"
+    slug: "2-peetero"
+  "1JN":
+    name: "1 Jowa"
+    slug: "1-jowa"
+  "2JN":
+    name: "2 Jowa"
+    slug: "2-jowa"
+  "3JN":
+    name: "3 Jowa"
+    slug: "3-jowa"
+  "JUD":
+    name: "Joorashi"
+    slug: "joorashi"
+  "REV":
+    name: "Roñaagayitakirini"
+    slug: "ronaagayitakirini"

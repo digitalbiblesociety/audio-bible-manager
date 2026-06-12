@@ -1,0 +1,266 @@
+language: "mua"
+books:
+  "GEN":
+    name: "Təŋmorfanne"
+    slug: "temorfanne"
+    name_toc: "Təŋmorfanne"
+  "EXO":
+    name: "Pə̃ə Za Israel"
+    slug: "pee-za-israel"
+    name_toc: "Pə̃ə Za Israel"
+  "LEV":
+    name: "Lewitien"
+    slug: "lewitien"
+    name_toc: "Lewitien"
+  "NUM":
+    name: "Kee Zana"
+    slug: "kee-zana"
+    name_toc: "Kee Zana"
+  "DEU":
+    name: "Cuu Ɓə Laini"
+    slug: "cuu-e-laini"
+    name_toc: "Cuu Ɓə Laini"
+  "JOS":
+    name: "Joswa"
+    slug: "joswa"
+    name_toc: "Joswa"
+  "JDG":
+    name: "Za Lakaali"
+    slug: "za-lakaali"
+    name_toc: "Za Lakaali"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Samuel Patə Vaŋno Ahe"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Samuel Patə Gwa Ahe"
+  "1KI":
+    name: "1 Za Goŋe"
+    slug: "1-za-goe"
+    name_toc: "Za Goŋ Patə Vaŋno Ahe"
+  "2KI":
+    name: "2 Za Goŋe"
+    slug: "2-za-goe"
+    name_toc: "Za Goŋ Patə Gwa Ahe"
+  "1CH":
+    name: "1 Kee Ɓə"
+    slug: "1-kee-e"
+    name_toc: "Kee Ɓə Patə Vaŋno Ahe"
+  "2CH":
+    name: "2 Kee Ɓə"
+    slug: "2-kee-e"
+    name_toc: "2 Kee Ɓə"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+    name_toc: "Nehemias"
+  "EST":
+    name: "Estar"
+    slug: "estar"
+    name_toc: "Estar"
+  "JOB":
+    name: "Joɓ"
+    slug: "jo"
+    name_toc: "Joɓ"
+  "PSA":
+    name: "Lǝŋni"
+    slug: "lni"
+    name_toc: "Ləŋni"
+  "PRO":
+    name: "Ɓə Təɓoroo"
+    slug: "e-teoroo"
+    name_toc: "Ɓə Təɓoroo"
+  "ECC":
+    name: "Pacuuɓə"
+    slug: "pacuue"
+    name_toc: "Pacuuɓə"
+  "SNG":
+    name: "Ləŋ Salomo"
+    slug: "le-salomo"
+    name_toc: "Ləŋ Salomo"
+  "ISA":
+    name: "Esaia"
+    slug: "esaia"
+    name_toc: "Esaia"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "Jeremias"
+  "LAM":
+    name: "Yee Jeremias"
+    slug: "yee-jeremias"
+    name_toc: "Yee Jeremias"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obadias"
+    slug: "obadias"
+    name_toc: "Obadias"
+  "JON":
+    name: "Yunas"
+    slug: "yunas"
+    name_toc: "Yunas"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Zefanias"
+    slug: "zefanias"
+    name_toc: "Zefanias"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zakarias"
+    slug: "zakarias"
+    name_toc: "Zakarias"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+    name_toc: "Malakias"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+    name_toc: "Ɓǝ'nyah mai MATEUS mo ŋwǝǝre"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Ɓǝ'nyah mai MARKUS mo ŋwǝǝre"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Ɓǝ'nyah mai LUKAS mo ŋwǝǝre"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ɓǝ'nyah mai YOHANA mo ŋwǝǝre"
+  "ACT":
+    name: "Yeɓ Zapee"
+    slug: "ye-zapee"
+    name_toc: "Yeɓ Zapee"
+  "ROM":
+    name: "Romanen"
+    slug: "romanen"
+    name_toc: "Leetǝr Paulus wo ROMANEN"
+  "1CO":
+    name: "Korintien"
+    slug: "korintien"
+    name_toc: "Leetǝr Paulus patǝ vaŋno ah wo KORINTIEN"
+  "2CO":
+    name: "2 Korintien"
+    slug: "2-korintien"
+    name_toc: "Leetǝr Paulus patǝ gwa ah wo KORINTIEN"
+  "GAL":
+    name: "Galatien"
+    slug: "galatien"
+    name_toc: "Leetǝr Paulus wo GALATIEN"
+  "EPH":
+    name: "Efesien"
+    slug: "efesien"
+    name_toc: "Leetǝr Paulus wo EFESIEN"
+  "PHP":
+    name: "Filipien"
+    slug: "filipien"
+    name_toc: "Leetǝr Paulus wo FILIPIEN"
+  "COL":
+    name: "Kolosien"
+    slug: "kolosien"
+    name_toc: "Leetǝr Paulus wo KOLOSIEN"
+  "1TH":
+    name: "1 Tessalonikien"
+    slug: "1-tessalonikien"
+    name_toc: "Leetǝr Paulus patǝ vaŋno ah wo TESSALONIKIEN"
+  "2TH":
+    name: "2 Tessalonikien"
+    slug: "2-tessalonikien"
+    name_toc: "Leetǝr Paulus patǝ gwa ah wo TESSALONIKIEN"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+    name_toc: "Leetǝr Paulus patǝ vaŋno ah wo TIMOTEUS"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+    name_toc: "Leetǝr Paulus patǝ gwa ah wo TIMOTEUS"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Leetǝr Paulus wo TITUS"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Leetǝr Paulus wo FILEMON"
+  "HEB":
+    name: "Yahuduen"
+    slug: "yahuduen"
+    name_toc: "Leetǝr wo YAHUDUEN"
+  "JAS":
+    name: "Yakuɓ"
+    slug: "yaku"
+    name_toc: "Leetǝr YAKUƁ"
+  "1PE":
+    name: "1 Petar"
+    slug: "1-petar"
+    name_toc: "PETAR patǝ vaŋno ahe"
+  "2PE":
+    name: "2 Petar"
+    slug: "2-petar"
+    name_toc: "PETAR patǝ gwa ahe"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Leetǝr YOHANA patǝ vaŋno ahe"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Leetǝr YOHANA patǝ gwa ahe"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Leetǝr YOHANA patǝ sai ahe"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Leetǝr YUDAS"
+  "REV":
+    name: "Caŋryaŋ"
+    slug: "carya"
+    name_toc: "CAŊRYAŊ Yohana"

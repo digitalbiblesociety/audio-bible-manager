@@ -1,0 +1,110 @@
+language: "kcg"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+    name_toc: "A̱sham Nkhang Yesu nang Matyu Lyuut a̱ni"
+  "MRK":
+    name: "Ma̱rkut"
+    slug: "markut"
+    name_toc: "A̱sham Nkhang Yesu nang Ma̱rkut Lyuut a̱ni"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "A̱sham Nkhang Yesu nang Luka Lyuut a̱ni"
+  "JHN":
+    name: "Yoona"
+    slug: "yoona"
+    name_toc: "A̱sham Nkhang Yesu nang Yoona Lyuut a̱ni"
+  "ACT":
+    name: "Nta̱m A̱yaata̱m"
+    slug: "ntam-ayaatam"
+    name_toc: "Nta̱m A̱yaata̱m Yesu"
+  "ROM":
+    name: "A̱romawa"
+    slug: "aromawa"
+    name_toc: "Wusika nang Bulut Lyuut Á̱niet Khwi Rom ndyo a̱ni"
+  "1CO":
+    name: "1 A̱korontiyawa"
+    slug: "1-akorontiyawa"
+    name_toc: "Wusika Jhyung nang Bulut Lyuut Á̱niet Khwi Korinti ndyo a̱ni"
+  "2CO":
+    name: "2 A̱korontiyawa"
+    slug: "2-akorontiyawa"
+    name_toc: "Wusika Sweang nang Bulut Lyuut Á̱niet Khwi Korinti ndyo a̱ni"
+  "GAL":
+    name: "A̱ga̱la̱tiyawa"
+    slug: "agalatiyawa"
+    name_toc: "Wusika nang Bulut Lyuut Á̱niet Khwi Ga̱la̱tiya ndyo a̱ni"
+  "EPH":
+    name: "A̱fisawa"
+    slug: "afisawa"
+    name_toc: "Wusika nang Bulut Lyuut Á̱niet Khwi A̱fisut ndyo a̱ni"
+  "PHP":
+    name: "A̱filibiyawa"
+    slug: "afilibiyawa"
+    name_toc: "Wusika nang Bulut Lyuut Á̱niet Khwi Filibi ndyo a̱ni"
+  "COL":
+    name: "A̱kolosiyawa"
+    slug: "akolosiyawa"
+    name_toc: "Wusika nang Bulut Lyuut Á̱niet Khwi Kolosi ndyo a̱ni"
+  "1TH":
+    name: "1 A̱ta̱solonikawa"
+    slug: "1-atasolonikawa"
+    name_toc: "Wusika Jhyung nang Bulut Lyuut Á̱niet Khwi Ta̱solonika ndyo a̱ni"
+  "2TH":
+    name: "2 A̱ta̱solonikawa"
+    slug: "2-atasolonikawa"
+    name_toc: "Wusika Sweang nang Bulut Lyuut Á̱niet Khwi Ta̱solonika ndyo a̱ni"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Wusika Jhyung nang Bulut Lyuut Timoti ndyo a̱ni"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Wusika Sweang nang Bulut Lyuut Timoti ndyo a̱ni"
+  "TIT":
+    name: "Titut"
+    slug: "titut"
+    name_toc: "Wusika nang Bulut Lyuut Titut ndyo a̱ni"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Wusika nang Bulut Lyuut Filimon ndyo a̱ni"
+  "HEB":
+    name: "Ibriniyawa"
+    slug: "ibriniyawa"
+    name_toc: "Wusika nang á̱ Lyuut Á̱niet Khwi ba̱ yet Ibriniyawa a̱ni"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+    name_toc: "Wusika nang Yakubu Lyuut a̱ni"
+  "1PE":
+    name: "1 Bitut"
+    slug: "1-bitut"
+    name_toc: "Wusika Jhyung nang Bitut Lyuut a̱ni"
+  "2PE":
+    name: "2 Bitut"
+    slug: "2-bitut"
+    name_toc: "Wusika Sweang nang Bitut Lyuut a̱ni"
+  "1JN":
+    name: "1 Yoona"
+    slug: "1-yoona"
+    name_toc: "Wusika Jhyung nang Yoona Lyuut a̱ni"
+  "2JN":
+    name: "2 Yoona"
+    slug: "2-yoona"
+    name_toc: "Wusika Sweang nang Yoona Lyuut a̱ni"
+  "3JN":
+    name: "3 Yoona"
+    slug: "3-yoona"
+    name_toc: "Wusika Tsat nang Yoona Lyuut a̱ni"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+    name_toc: "Wusika nang Yahuda Lyuut a̱ni"
+  "REV":
+    name: "Tyai Á̱zanson"
+    slug: "tyai-azanson"
+    name_toc: "Tyai Á̱zanson A̱ma̱bwoi tazwa Kristi da̱ a̱vwuo Yoona"

@@ -1,0 +1,143 @@
+language: "ram"
+books:
+  "GEN":
+    name: "Kam To Ihtẽm Xà"
+    slug: "kam-to-ihtem-xa"
+  "EXO":
+    name: "Me Cator Xà"
+    slug: "me-cator-xa"
+  "NUM":
+    name: "Me Cahyt Xà"
+    slug: "me-cahyt-xa"
+  "DEU":
+    name: "Cute Me To Ihhimpej Xà"
+    slug: "cute-me-to-ihhimpej-xa"
+  "JOS":
+    name: "Jojuw"
+    slug: "jojuw"
+  "JDG":
+    name: "Me To Ihhimpej Catêjê"
+    slug: "me-to-ihhimpej-cateje"
+  "RUT":
+    name: "Rutikwỳj"
+    slug: "rutikwyj"
+  "1SA":
+    name: "1 Xamer"
+    slug: "1-xamer"
+  "2SA":
+    name: "2 Xamer"
+    slug: "2-xamer"
+  "1KI":
+    name: "1 Pahhi Catêjê"
+    slug: "1-pahhi-cateje"
+  "2KI":
+    name: "2 Pahhi Catêjê"
+    slug: "2-pahhi-cateje"
+  "2CH":
+    name: "2 Me Hũjarẽn Xà"
+    slug: "2-me-hujaren-xa"
+  "EZR":
+    name: "Extra"
+    slug: "extra"
+  "PSA":
+    name: "Mencrer Xà"
+    slug: "mencrer-xa"
+  "PRO":
+    name: "Me Hapackre Xà"
+    slug: "me-hapackre-xa"
+  "ISA":
+    name: "Ixaj"
+    slug: "ixaj"
+  "JER":
+    name: "Jeremij"
+    slug: "jeremij"
+  "DAN":
+    name: "Taner"
+    slug: "taner"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "HAB":
+    name: "Hapakuc"
+    slug: "hapakuc"
+  "MAT":
+    name: "Matew"
+    slug: "matew"
+  "MRK":
+    name: "Macô"
+    slug: "maco"
+  "LUK":
+    name: "Ruc"
+    slug: "ruc"
+  "JHN":
+    name: "Jowãw"
+    slug: "jowaw"
+  "ACT":
+    name: "Me Hàpên Xà"
+    slug: "me-hapen-xa"
+  "ROM":
+    name: "Roman"
+    slug: "roman"
+  "1CO":
+    name: "1 Corinti"
+    slug: "1-corinti"
+  "2CO":
+    name: "2 Corinti"
+    slug: "2-corinti"
+  "GAL":
+    name: "Carati"
+    slug: "carati"
+  "EPH":
+    name: "Epet"
+    slug: "epet"
+  "PHP":
+    name: "Pirip"
+    slug: "pirip"
+  "COL":
+    name: "Coroxo"
+    slug: "coroxo"
+  "1TH":
+    name: "1 Texarõn"
+    slug: "1-texaron"
+  "2TH":
+    name: "2 Texarõn"
+    slug: "2-texaron"
+  "1TI":
+    name: "1 Timot"
+    slug: "1-timot"
+  "2TI":
+    name: "2 Timot"
+    slug: "2-timot"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Ixaher"
+    slug: "ixaher"
+  "JAS":
+    name: "Tijac"
+    slug: "tijac"
+  "1PE":
+    name: "1 Petrô"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petrô"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Jowãw"
+    slug: "1-jowaw"
+  "2JN":
+    name: "2 Jowãw"
+    slug: "2-jowaw"
+  "3JN":
+    name: "3 Jowãw"
+    slug: "3-jowaw"
+  "JUD":
+    name: "Juta"
+    slug: "juta"
+  "REV":
+    name: "Ipipẽ Xà"
+    slug: "ipipe-xa"

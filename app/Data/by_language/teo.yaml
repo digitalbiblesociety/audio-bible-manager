@@ -1,0 +1,266 @@
+language: "teo"
+books:
+  "GEN":
+    name: "Ageun"
+    slug: "ageun"
+    name_toc: "Tite sɛbɛ"
+  "EXO":
+    name: "Anyoun"
+    slug: "anyoun"
+    name_toc: "Filemo sɛbɛ"
+  "LEV":
+    name: "Ilebin"
+    slug: "ilebin"
+    name_toc: "Ebruyee sɛbɛ"
+  "NUM":
+    name: "Aimario"
+    slug: "aimario"
+    name_toc: "Jake sɛbɛ"
+  "DEU":
+    name: "Ikisila"
+    slug: "ikisila"
+    name_toc: "Pyɛri sɛbɛ kplɛɛ"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Pyɛri sɛbɛ syɛnwoo"
+  "JDG":
+    name: "Ikatubok"
+    slug: "ikatubok"
+    name_toc: "Jan sɛbɛ kplɛɛ"
+  "RUT":
+    name: "Rusi"
+    slug: "rusi"
+    name_toc: "Jan sɛbɛ syɛnwoo"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Jan sɛbɛ tanriwoo"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Jude sɛbɛ"
+  "1KI":
+    name: "1 Ikabakan"
+    slug: "1-ikabakan"
+    name_toc: "Tyɛʔɛmɛ sɛbɛ"
+  "2KI":
+    name: "2 Ikabakan"
+    slug: "2-ikabakan"
+    name_toc: "Ntheto îmbega ya Yiesû Kîrîstû îra yaandîkirwe i MATHAYO"
+  "1CH":
+    name: "1 Aisiitonokin"
+    slug: "1-aisiitonokin"
+    name_toc: "Ntheto îmbega ya Yiesû Kîrîstû îra yaandîkirwe i MAARIKO"
+  "2CH":
+    name: "2 Aisiltonokin"
+    slug: "2-aisiltonokin"
+    name_toc: "Ntheto îmbega ya Yiesû Kîrîstû îra yaandîkirwe i RUKA"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+    name_toc: "Ntheto îmbega ya Yiesû Kîrîstû îra yaandîkirwe i NJOANA"
+  "NEH":
+    name: "Nekemia"
+    slug: "nekemia"
+    name_toc: "Ngûgî Cia Atûmwa"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Baarûa ya Paûrû kîrî AROOMA"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Baarûa ya mbere ya Paûrû kîrî AKORINTHO"
+  "PSA":
+    name: "Isabulin"
+    slug: "isabulin"
+    name_toc: "Timote sɛbɛ kplɛɛ"
+  "PRO":
+    name: "Awaragasia"
+    slug: "awaragasia"
+    name_toc: "Timote sɛbɛ syɛnwoo"
+  "ECC":
+    name: "Ekalimonokinan"
+    slug: "ekalimonokinan"
+    name_toc: "Baarûa ya Paûrû kîrî AEBEESO"
+  "SNG":
+    name: "Ekosio"
+    slug: "ekosio"
+    name_toc: "Baarûa ya Paûrû kîrî APIRIPI"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+    name_toc: "Baarûa ya Paûrû kîrî AKOROSAI"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Baarûa ya mbere ya Paûrû kîrî ATHESARONIKE"
+  "LAM":
+    name: "Akuudian"
+    slug: "akuudian"
+    name_toc: "Baarûa ya ciîrî ya Paûrû kîrî ATHESARONIKE"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+    name_toc: "Baarûa ya mbere ya Paûrû kîrî TIMOTHEO"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Baarûa ya ciîrî ya Paûrû kîrî TIMOTHEO"
+  "HOS":
+    name: "Kosea"
+    slug: "kosea"
+    name_toc: "Baarûa ya Paûrû kîrî TITO"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Baarûa ya Paûrû kîrî PIREMONI"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Baarûa kîrî AIBIRANIA"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Baarûa ya NJAKUBU"
+  "JON":
+    name: "Yon"
+    slug: "yon"
+    name_toc: "Baarûa ya mbere kuuma kîrî PETÛRÛ"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Baarûa ya ciîrî kuuma kîrî PETÛRÛ"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+    name_toc: "Baarûa ya mbere ya NJOANA"
+  "HAB":
+    name: "Kabakuk"
+    slug: "kabakuk"
+    name_toc: "Baarûa ya ciîrî ya NJOANA"
+  "ZEP":
+    name: "Sepania"
+    slug: "sepania"
+    name_toc: "Baarûa ya ithatû ya NJOANA"
+  "HAG":
+    name: "Kagai"
+    slug: "kagai"
+    name_toc: "Baarûa kuuma kîrî NJUNDA"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Îbuku rîa KÛGWÛRÎRWA"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "ኦሪት ዘፍጥረት"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Danyɛli sɛbɛ"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Ose sɛbɛ"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Jowɛli sɛbɛ"
+  "JHN":
+    name: "Yoana"
+    slug: "yoana"
+    name_toc: "Amosi sɛbɛ"
+  "ACT":
+    name: "Asom"
+    slug: "asom"
+    name_toc: "Abidyasi sɛbɛ"
+  "ROM":
+    name: "Iromayon"
+    slug: "iromayon"
+    name_toc: "Jonasi sɛbɛ"
+  "1CO":
+    name: "1 Ikorinton"
+    slug: "1-ikorinton"
+    name_toc: "Misye sɛbɛ"
+  "2CO":
+    name: "2 Ikorinton"
+    slug: "2-ikorinton"
+    name_toc: "Nahumu sɛbɛ"
+  "GAL":
+    name: "Igalatian"
+    slug: "igalatian"
+    name_toc: "Abakuki sɛbɛ"
+  "EPH":
+    name: "Ipeson"
+    slug: "ipeson"
+    name_toc: "Sofoni sɛbɛ"
+  "PHP":
+    name: "Ipilipin"
+    slug: "ipilipin"
+    name_toc: "Agije sɛbɛ"
+  "COL":
+    name: "Ikolosain"
+    slug: "ikolosain"
+    name_toc: "1ይ መፅሓፍ ዜና መዋእል"
+  "1TH":
+    name: "1 Itesalonikan"
+    slug: "1-itesalonikan"
+    name_toc: "Malasyi sɛbɛ"
+  "2TH":
+    name: "2 Itesalonikan"
+    slug: "2-itesalonikan"
+    name_toc: "Matye sɛbɛ"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Marike sɛbɛ"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Luke sɛbɛ"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Jan sɛbɛ"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Pitunbee pe Kahranʔa sɛbɛ"
+  "HEB":
+    name: "Iburayon"
+    slug: "iburayon"
+    name_toc: "Hrɔmu sɛbɛ"
+  "JAS":
+    name: "Yakob"
+    slug: "yakob"
+    name_toc: "መፅሓፍ መክብብ"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Korɛnte sɛbɛ syɛnwoo"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Galase sɛbɛ"
+  "1JN":
+    name: "1 Yoana"
+    slug: "1-yoana"
+    name_toc: "Efɛse sɛbɛ"
+  "2JN":
+    name: "2 Yoana"
+    slug: "2-yoana"
+    name_toc: "Filipe kàʔà sɛbɛ"
+  "3JN":
+    name: "3 Yoana"
+    slug: "3-yoana"
+    name_toc: "Kɔlɔse sɛbɛ"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Tesalonike sɛbɛ kplɛɛ"
+  "REV":
+    name: "Apukokinio"
+    slug: "apukokinio"
+    name_toc: "Tesalonike sɛbɛ syɛnwoo"

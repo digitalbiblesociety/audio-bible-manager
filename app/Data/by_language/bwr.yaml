@@ -1,0 +1,200 @@
+language: "bwr"
+books:
+  "GEN":
+    name: "Baɗitari"
+    slug: "baitari"
+  "EXO":
+    name: "Səɓəlari"
+    slug: "seelari"
+  "LEV":
+    name: "Pristayeri"
+    slug: "pristayeri"
+  "NUM":
+    name: "Jikayeri"
+    slug: "jikayeri"
+  "DEU":
+    name: "Zwarəngkər Shariya"
+    slug: "zwarengker-shariya"
+  "JOS":
+    name: "Joshuwa"
+    slug: "joshuwa"
+  "JDG":
+    name: "Alkaliyayeri"
+    slug: "alkaliyayeri"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samiwal"
+    slug: "1-samiwal"
+  "2SA":
+    name: "2 Samiwal"
+    slug: "2-samiwal"
+  "1KI":
+    name: "1 Kuthlyayeri"
+    slug: "1-kuthlyayeri"
+  "2KI":
+    name: "2 Kuthlyayeri"
+    slug: "2-kuthlyayeri"
+  "1CH":
+    name: "1 Labar Na Waci"
+    slug: "1-labar-na-waci"
+  "2CH":
+    name: "2 Lab"
+    slug: "2-lab"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Zabura"
+    slug: "zabura"
+  "PRO":
+    name: "Karapwayeri"
+    slug: "karapwayeri"
+  "ECC":
+    name: "M. Ngkəra"
+    slug: "m-ngkera"
+  "SNG":
+    name: "H. Ha Hayeri"
+    slug: "h-ha-hayeri"
+  "ISA":
+    name: "Ishaya"
+    slug: "ishaya"
+  "JER":
+    name: "Irmiya"
+    slug: "irmiya"
+  "LAM":
+    name: "Jikatuwayeri"
+    slug: "jikatuwayeri"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "JOL":
+    name: "Yowel"
+    slug: "yowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zafaniya"
+    slug: "zafaniya"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Zakariya"
+    slug: "zakariya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mathliyu"
+    slug: "mathliyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahwana"
+    slug: "yahwana"
+  "ACT":
+    name: "Kəth Apos"
+    slug: "keth-apos"
+  "ROM":
+    name: "Mjir Rom"
+    slug: "mjir-rom"
+  "1CO":
+    name: "1 Korinthli"
+    slug: "1-korinthli"
+  "2CO":
+    name: "2 Korinthli"
+    slug: "2-korinthli"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Fəlippi"
+    slug: "felippi"
+  "COL":
+    name: "Kolossi"
+    slug: "kolossi"
+  "1TH":
+    name: "1Thlassalonika"
+    slug: "1thlassalonika"
+  "2TH":
+    name: "2 Thlassalonika"
+    slug: "2-thlassalonika"
+  "1TI":
+    name: "1 Timothli"
+    slug: "1-timothli"
+  "2TI":
+    name: "2 Timothli"
+    slug: "2-timothli"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Fəlimon"
+    slug: "felimon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Bitrəs"
+    slug: "1-bitres"
+  "2PE":
+    name: "2 Bitrəs"
+    slug: "2-bitres"
+  "1JN":
+    name: "1 Yahwana"
+    slug: "1-yahwana"
+  "2JN":
+    name: "2 Yahwana"
+    slug: "2-yahwana"
+  "3JN":
+    name: "3 Yahwana"
+    slug: "3-yahwana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Aka Yahwana"
+    slug: "aka-yahwana"

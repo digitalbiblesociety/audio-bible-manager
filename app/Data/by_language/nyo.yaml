@@ -1,0 +1,326 @@
+language: "nyo"
+books:
+  "GEN":
+    name: "Kub"
+    slug: "kub"
+    name_toc: "Okubanza"
+  "EXO":
+    name: "Kurug"
+    slug: "kurug"
+    name_toc: "Okuruga"
+  "LEV":
+    name: "Lev"
+    slug: "lev"
+    name_toc: "Abaleevi"
+  "NUM":
+    name: "Kubar"
+    slug: "kubar"
+    name_toc: "Okubara"
+  "DEU":
+    name: "Bir"
+    slug: "bir"
+    name_toc: "Eky'ebiragiro"
+  "JOS":
+    name: "Yos"
+    slug: "yos"
+    name_toc: "Yoswa"
+  "JDG":
+    name: "Bac"
+    slug: "bac"
+    name_toc: "Eky'abacwi B'emisango"
+  "RUT":
+    name: "Rus"
+    slug: "rus"
+    name_toc: "Ruusi"
+  "1SA":
+    name: "1 Sam"
+    slug: "1-sam"
+    name_toc: "1 Samwiri"
+  "2SA":
+    name: "2 Sam"
+    slug: "2-sam"
+    name_toc: "2 Samwiri"
+  "1KI":
+    name: "1 Bakam"
+    slug: "1-bakam"
+    name_toc: "1 Abakama"
+  "2KI":
+    name: "2 Bakam"
+    slug: "2-bakam"
+    name_toc: "2 Abakama"
+  "1CH":
+    name: "1 Byok"
+    slug: "1-byok"
+    name_toc: "1 Eby'okuhonderana"
+  "2CH":
+    name: "2 Byok"
+    slug: "2-byok"
+    name_toc: "2 Eby'okuhonderana"
+  "EZR":
+    name: "Ezir"
+    slug: "ezir"
+    name_toc: "Ezira"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Nehemiya"
+  "EST":
+    name: "Es"
+    slug: "es"
+    name_toc: "Esiteeri"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Yobbu"
+  "PSA":
+    name: "Zab"
+    slug: "zab"
+    name_toc: "Zabbuli"
+  "PRO":
+    name: "Nfu"
+    slug: "nfu"
+    name_toc: "Enfumo"
+  "ECC":
+    name: "Mug"
+    slug: "mug"
+    name_toc: "Omugambizi"
+  "SNG":
+    name: "Kiz"
+    slug: "kiz"
+    name_toc: "Ekizina kya Solomooni"
+  "ISA":
+    name: "Is"
+    slug: "is"
+    name_toc: "Isaaya"
+  "JER":
+    name: "Yer"
+    slug: "yer"
+    name_toc: "Yeremiya"
+  "LAM":
+    name: "Emp"
+    slug: "emp"
+    name_toc: "Empamo"
+  "EZK":
+    name: "Ezek"
+    slug: "ezek"
+    name_toc: "Ezekyeri"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Daneeri"
+  "HOS":
+    name: "Hos"
+    slug: "hos"
+    name_toc: "Hoseya"
+  "JOL":
+    name: "Yow"
+    slug: "yow"
+    name_toc: "Yoweri"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Obad"
+    slug: "obad"
+    name_toc: "Obadiya"
+  "JON":
+    name: "Yon"
+    slug: "yon"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mik"
+    slug: "mik"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahumu"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habbakuuki"
+  "ZEP":
+    name: "Zef"
+    slug: "zef"
+    name_toc: "Zefaniya"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Haggai"
+  "ZEC":
+    name: "Zek"
+    slug: "zek"
+    name_toc: "Zekaliya"
+  "MAL":
+    name: "Mara"
+    slug: "mara"
+    name_toc: "Maraki"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+    name_toc: "Tobbi"
+  "JDT":
+    name: "Yudi"
+    slug: "yudi"
+    name_toc: "Yudisi"
+  "ESG":
+    name: "Esit"
+    slug: "esit"
+    name_toc: "Esiteeri"
+  "WIS":
+    name: "Ama"
+    slug: "ama"
+    name_toc: "Amagezi ga Solomoni"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+    name_toc: "Siraki"
+  "BAR":
+    name: "Baru"
+    slug: "baru"
+    name_toc: "Baruki"
+  "LJE":
+    name: "Yere"
+    slug: "yere"
+    name_toc: "Ebbaruha eya Yeremiya"
+  "S3Y":
+    name: "Azaaliya"
+    slug: "azaaliya"
+    name_toc: "Esaara Y'Azaaliya n'ekizina ky'abasigazi Abasatu"
+  "SUS":
+    name: "Suz"
+    slug: "suz"
+    name_toc: "Suzaana"
+  "BEL":
+    name: "Beer"
+    slug: "beer"
+    name_toc: "Beeri N'ekijoka"
+  "1MA":
+    name: "1 Mak"
+    slug: "1-mak"
+    name_toc: "1 Makabbeeho"
+  "2MA":
+    name: "2 Mak"
+    slug: "2-mak"
+    name_toc: "2 Makabbeeho"
+  "1ES":
+    name: "1Esid"
+    slug: "1esid"
+    name_toc: "1 Esidura"
+  "2ES":
+    name: "2Esid"
+    slug: "2esid"
+    name_toc: "2 Esidura"
+  "MAN":
+    name: "Man"
+    slug: "man"
+    name_toc: "Manaasse"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Matayo"
+  "MRK":
+    name: "Mar"
+    slug: "mar"
+    name_toc: "Mariko"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yoh"
+    slug: "yoh"
+    name_toc: "Yohaana"
+  "ACT":
+    name: "Ebik"
+    slug: "ebik"
+    name_toc: "Ebikorwa By'abakwenda"
+  "ROM":
+    name: "Bar"
+    slug: "bar"
+    name_toc: "Abarooma"
+  "1CO":
+    name: "1 Abakor"
+    slug: "1-abakor"
+    name_toc: "1 Abakorinto"
+  "2CO":
+    name: "2 Abakor"
+    slug: "2-abakor"
+    name_toc: "2 Abakorinto"
+  "GAL":
+    name: "Bag"
+    slug: "bag"
+    name_toc: "Abagalatiya"
+  "EPH":
+    name: "Bef"
+    slug: "bef"
+    name_toc: "Abeefeso"
+  "PHP":
+    name: "Baf"
+    slug: "baf"
+    name_toc: "Abafilipi"
+  "COL":
+    name: "Bak"
+    slug: "bak"
+    name_toc: "Abakolosai"
+  "1TH":
+    name: "1Bat"
+    slug: "1bat"
+    name_toc: "1 Abateesalonika"
+  "2TH":
+    name: "2Bat"
+    slug: "2bat"
+    name_toc: "2 Abateesalanika"
+  "1TI":
+    name: "1Tim"
+    slug: "1tim"
+    name_toc: "1 Timoteho"
+  "2TI":
+    name: "2Tim"
+    slug: "2tim"
+    name_toc: "2 Timoteho"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Tito"
+  "PHM":
+    name: "Fil"
+    slug: "fil"
+    name_toc: "Fileemoni"
+  "HEB":
+    name: "Baheb"
+    slug: "baheb"
+    name_toc: "Abahebburaayo"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+    name_toc: "Yakobbo"
+  "1PE":
+    name: "1Pet"
+    slug: "1pet"
+    name_toc: "1 Petero"
+  "2PE":
+    name: "2Pet"
+    slug: "2pet"
+    name_toc: "2 Petero"
+  "1JN":
+    name: "1Yoh"
+    slug: "1yoh"
+    name_toc: "1 Yohaana"
+  "2JN":
+    name: "2Yoh"
+    slug: "2yoh"
+    name_toc: "2 Yohaana"
+  "3JN":
+    name: "3Yoh"
+    slug: "3yoh"
+    name_toc: "3 Yohaana"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+    name_toc: "Yuda"
+  "REV":
+    name: "Kus"
+    slug: "kus"
+    name_toc: "Okusuukururwa Kwa Yohaana"

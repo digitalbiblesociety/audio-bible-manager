@@ -1,0 +1,83 @@
+language: "cme"
+books:
+  "MAT":
+    name: "Matie sɛbɛ"
+    slug: "matie-sb"
+  "MRK":
+    name: "Marke sɛbɛ"
+    slug: "marke-sb"
+  "LUK":
+    name: "Like sɛbɛ"
+    slug: "like-sb"
+  "JHN":
+    name: "Nsãa sɛbɛ"
+    slug: "nsaa-sb"
+  "ACT":
+    name: "Yesu pɔpuɔrbiemba maacemma"
+    slug: "yesu-ppurbiemba-maacemma"
+  "ROM":
+    name: "Ɔrɔmutaamba sɛbɛ"
+    slug: "rmutaamba-sb"
+  "1CO":
+    name: "Korɛ̃ntitaamba sɛbɛdĩɛlãŋo"
+    slug: "korntitaamba-sbdilano"
+  "2CO":
+    name: "Korɛ̃ntitaamba sɛbɛhãalĩŋo"
+    slug: "korntitaamba-sbhaalino"
+  "GAL":
+    name: "Galasitaamba sɛbɛ"
+    slug: "galasitaamba-sb"
+  "EPH":
+    name: "Efɛsitaamba sɛbɛ"
+    slug: "efsitaamba-sb"
+  "PHP":
+    name: "Filiputaamba sɛbɛ"
+    slug: "filiputaamba-sb"
+  "COL":
+    name: "Kolɔsitaamba sɛbɛ"
+    slug: "kolsitaamba-sb"
+  "1TH":
+    name: "Tesaloniketaamba sɛbɛdĩɛlãŋo"
+    slug: "tesaloniketaamba-sbdilano"
+  "2TH":
+    name: "Tesaloniketaamba sɛbɛhãalĩŋo"
+    slug: "tesaloniketaamba-sbhaalino"
+  "1TI":
+    name: "Timote sɛbɛdĩɛlãŋo"
+    slug: "timote-sbdilano"
+  "2TI":
+    name: "Timote sɛbɛhãalĩŋo"
+    slug: "timote-sbhaalino"
+  "TIT":
+    name: "Tite sɛbɛ"
+    slug: "tite-sb"
+  "PHM":
+    name: "Filemɔ sɛbɛ"
+    slug: "filem-sb"
+  "HEB":
+    name: "Ebire ba sɛbɛ"
+    slug: "ebire-ba-sb"
+  "JAS":
+    name: "Sake sɛbɛ"
+    slug: "sake-sb"
+  "1PE":
+    name: "Piɛr sɛbɛdĩɛlãŋo"
+    slug: "pir-sbdilano"
+  "2PE":
+    name: "Piɛr sɛbɛhãalĩŋo"
+    slug: "pir-sbhaalino"
+  "1JN":
+    name: "Nsãa sɛbɛdĩɛlãŋo"
+    slug: "nsaa-sbdilano"
+  "2JN":
+    name: "Nsãa sɛbɛhãalĩŋo"
+    slug: "nsaa-sbhaalino"
+  "3JN":
+    name: "Nsãa sɛbɛsiɛliŋo"
+    slug: "nsaa-sbsilino"
+  "JUD":
+    name: "Yuda sɛbɛ"
+    slug: "yuda-sb"
+  "REV":
+    name: "Ãmpigãama"
+    slug: "ampigaama"

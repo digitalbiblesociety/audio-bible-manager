@@ -1,0 +1,5 @@
+language: "khj"
+books:
+  "LUK":
+    name: "Iluk"
+    slug: "iluk"

@@ -1,0 +1,314 @@
+language: "war"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Kisah Para Rasul Cirita tentang rasul-rasul tu Tuhan Yesus pe utusan-utusan"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+    name_toc: "Roma Paulus pe surat for jemaat di Roma"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+    name_toc: "1 Korintus Paulus pe surat yang pertama for jemaat di Korintus"
+  "NUM":
+    name: "Numero"
+    slug: "numero"
+    name_toc: "2 Korintus Paulus pe surat yang kadua for jemaat di Korintus"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Galatia Paulus pe surat for jemaat-jemaat di daera Galatia"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+    name_toc: "EFESUS Paulus pe surat for jemaat di Efesus"
+  "JDG":
+    name: "Mga Maghurukom"
+    slug: "mga-maghurukom"
+    name_toc: "Filipi Paulus pe surat for jemaat di Filipi"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Kolose Paulus pe surat for jemaat di Kolose"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "1 Tesalonika Paulus pe surat yang pertama for jemaat di Tesalonika"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "2 Tesalonika Paulus pe surat yang kadua for jemaat di Tesalonika"
+  "1KI":
+    name: "1 Hadi"
+    slug: "1-hadi"
+    name_toc: "1 Timotius Paulus pe surat yang pertama for Timotius"
+  "2KI":
+    name: "2 Hadi"
+    slug: "2-hadi"
+    name_toc: "2 Timotius Paulus pe surat yang kadua for Timotius"
+  "1CH":
+    name: "1 Cronicas"
+    slug: "1-cronicas"
+    name_toc: "Titus Paulus pe surat for Titus"
+  "2CH":
+    name: "2 Cronicas"
+    slug: "2-cronicas"
+    name_toc: "Filemon Paulus pe surat for Filemon"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Ibrani Surat for orang Ibrani yang so percaya"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+    name_toc: "Yakobus Yakobus pe surat for orang percaya"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "1 Petrus Petrus pe surat yang pertama for orang percaya"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "2 Petrus Petrus pe surat yang kadua for orang percaya"
+  "PSA":
+    name: "Mga Salmo"
+    slug: "mga-salmo"
+    name_toc: "1 Yohanes Yohanes pe surat yang pertama for orang percaya"
+  "PRO":
+    name: "Mga Darahonon"
+    slug: "mga-darahonon"
+    name_toc: "2 Yohanes Yohanes pe surat yang kadua for orang percaya"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+    name_toc: "3 Yohanes Yohanes pe surat yang katiga for orang percaya"
+  "SNG":
+    name: "Kanta han mga Kanta"
+    slug: "kanta-han-mga-kanta"
+    name_toc: "Yudas Yudas pe surat for orang percaya"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+    name_toc: "Wahyu Wahyu yang Yesus Kristus se tunjung pa Yohanes"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "Ekitabo Kya Musa Ekisooka Ekyetebwa Amainhama"
+  "LAM":
+    name: "Pagnguyngoy"
+    slug: "pagnguyngoy"
+    name_toc: "Ekitabo Kya Musa Ekyokubiri Ekyetebwa Okuvaayo"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+    name_toc: "Ekitabo Kya Musa Ekyokusatu Ekyetebwa Abalevi"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Ekitabo Kya Musa Ekyokuna Ekyetebwa Okubala"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Ekitabo Kya Musa Ekyokutaanu Ekyetebwa Amateeka Agokubiri"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Ekitabo Kya Yoshua"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Ekitabo Kya Abalamuzi"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+    name_toc: "Ekitabo Kya Ruthi"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Ekitabo Kya Samueli Ekisooka"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Ekitabo Kya Samueli Ekyokubiri"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Ekitabo Kya Bakyabazinga Ekisooka"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Ekitabo Kya Bakyabazinga Ekyokubiri"
+  "ZEP":
+    name: "Sofonias"
+    slug: "sofonias"
+    name_toc: "Ekitabo Ky'ebyomubyanda Bya Bakyabazinga Ekisooka"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Ekitabo Ky'ebyomubyanda Bya Bakyabazinga Ekyokubiri"
+  "ZEC":
+    name: "Zacarias"
+    slug: "zacarias"
+    name_toc: "Ekitabo Kya Ezera"
+  "MAL":
+    name: "Malaquias"
+    slug: "malaquias"
+    name_toc: "Ekitabo Kya Nehemia"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Ekitabo Kya Tobiti"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+    name_toc: "Ekitabo Kya Yuditha"
+  "ESG":
+    name: "Ester (Griego)"
+    slug: "ester-griego"
+    name_toc: "Ekitabo Kya Esitheri (Mu Lugureki)"
+  "WIS":
+    name: "Kinaadman ni Solomon"
+    slug: "kinaadman-ni-solomon"
+    name_toc: "Ekitabo Kya Yobu"
+  "SIR":
+    name: "Sirac"
+    slug: "sirac"
+    name_toc: "Ekitabo Kya Zabbuli"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+    name_toc: "Ekitabo Ky'ensambo"
+  "LJE":
+    name: "Surat ni Jeremias"
+    slug: "surat-ni-jeremias"
+    name_toc: "Ekitabo Ky'omulangirizi"
+  "S3Y":
+    name: "Awit han Tulo nga Kalalaken-an"
+    slug: "awit-han-tulo-nga-kalalaken-an"
+    name_toc: "Olwembo Olusinga Mu Nhembo"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Amagezi Ga Solomoni"
+  "BEL":
+    name: "Bel ug an Dragon"
+    slug: "bel-ug-an-dragon"
+    name_toc: "Ekitabo Kya Siraki (Ekeleziasitikusi)"
+  "1MA":
+    name: "1 Macabeo"
+    slug: "1-macabeo"
+    name_toc: "Ekitabo Kya Abamakkabeo Ekisooka"
+  "2MA":
+    name: "2 Macabeo"
+    slug: "2-macabeo"
+    name_toc: "Ekitabo Kya Abamakkabeo Ekyokubiri"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Ekitabo Kya Isaia"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "Ekitabo Kya Yeremia"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Okulira Olw'ekibuga Yerusalemu"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Ekitabo Kya Baruku"
+  "ACT":
+    name: "Mga Buhat"
+    slug: "mga-buhat"
+    name_toc: "Embaluwa Ya Yeremia"
+  "ROM":
+    name: "Mga Taga-Roma"
+    slug: "mga-taga-roma"
+    name_toc: "Ekitabo Kya Ezekieli"
+  "1CO":
+    name: "1 Mga Taga-Corinto"
+    slug: "1-mga-taga-corinto"
+    name_toc: "Ekitabo Kya Danieli"
+  "2CO":
+    name: "2 Mga Taga-Corinto"
+    slug: "2-mga-taga-corinto"
+    name_toc: "Susanna"
+  "GAL":
+    name: "Mga Taga-Galacia"
+    slug: "mga-taga-galacia"
+    name_toc: "Okusaba Kwa Azaria N'olwembo Olw'abaisuka Abasatu"
+  "EPH":
+    name: "Mga Taga-Efeso"
+    slug: "mga-taga-efeso"
+    name_toc: "Beli N'ogusota"
+  "PHP":
+    name: "Mga Taga-Filipos"
+    slug: "mga-taga-filipos"
+    name_toc: "Ekitabo Kya Hosea"
+  "COL":
+    name: "Mga Taga-Colosas"
+    slug: "mga-taga-colosas"
+    name_toc: "Ekitabo Kya Yoeli"
+  "1TH":
+    name: "1 Mga Taga-Tesalonica"
+    slug: "1-mga-taga-tesalonica"
+    name_toc: "Ekitabo Kya Amosi"
+  "2TH":
+    name: "2 Mga Taga-Tesalonica"
+    slug: "2-mga-taga-tesalonica"
+    name_toc: "Ekitabo Kya Obadia"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Ekitabo Kya Yona"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ekitabo Kya Mika"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ekitabo Kya Nahumu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Ekitabo Kya Habakkuku"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+    name_toc: "Ekitabo Kya Zefania"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "Ekitabo Kya Haggai"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Ekitabo Kya Zekaria"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Ekitabo Kya Malaki"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "Amawulire Amalungi Nga Bwe Gaaghandiikibwa Matayo"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "Amawulire Amalungi Nga Bwe Gaaghandiikibwa Mariko"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "Amawulire Amalungi Nga Bwe Gaaghandiikibwa Luka"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Amawulire Amalungi Nga Bwe Gaaghandiikibwa Yoanne"
+  "REV":
+    name: "Ginpadayag"
+    slug: "ginpadayag"
+    name_toc: "Ebikolwa By'abatume"

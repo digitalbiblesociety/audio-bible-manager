@@ -1,0 +1,32 @@
+language: "wbq"
+books:
+  "MRK":
+    name: "मार्क"
+    slug: "marka"
+  "LUK":
+    name: "लूक"
+    slug: "luka"
+  "ACT":
+    name: "प्रेषित"
+    slug: "presita"
+  "1CO":
+    name: "1 करिंथ"
+    slug: "1-karimtha"
+  "GAL":
+    name: "गलती"
+    slug: "galati"
+  "1TH":
+    name: "1 थेस्स"
+    slug: "1-thessa"
+  "2TH":
+    name: "2 थेस्स"
+    slug: "2-thessa"
+  "1TI":
+    name: "1 तीमथी"
+    slug: "1-timathi"
+  "2TI":
+    name: "2 तीमथी"
+    slug: "2-timathi"
+  "TIT":
+    name: "तीत"
+    slug: "tita"

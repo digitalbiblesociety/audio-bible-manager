@@ -1,0 +1,314 @@
+language: "kvj"
+books:
+  "GEN":
+    name: "Gha ta Wəshi"
+    slug: "gha-ta-weshi"
+    name_toc: "Palepa ta Gha ta Wəshi"
+  "EXO":
+    name: "Shave"
+    slug: "shave"
+    name_toc: "Palepa ta Shave"
+  "LEV":
+    name: "Ka Lɛvi"
+    slug: "ka-lvi"
+    name_toc: "Palepa ta ka Lɛvi"
+  "NUM":
+    name: "Ɓela"
+    slug: "ela"
+    name_toc: "Palepa ta Ɓela"
+  "DEU":
+    name: "Zhɛne Ghwelə yitea Wəshi Mahalegə"
+    slug: "zhne-ghwele-yitea-weshi-mahalege"
+    name_toc: "Palepa ta Zhɛne Ghwelə yitea Wəshi Mahalegə"
+  "JOS":
+    name: "Zhozəwɛ"
+    slug: "zhozew"
+    name_toc: "Palepa ta Zhozəwɛ"
+  "JDG":
+    name: "Ka Meha ghwə"
+    slug: "ka-meha-ghwe"
+    name_toc: "Palepa ta Ka Meha Ghwə"
+  "RUT":
+    name: "Rət"
+    slug: "ret"
+    name_toc: "Palepa ta Rət"
+  "1SA":
+    name: "1 Saməyɛl"
+    slug: "1-sameyl"
+    name_toc: "Kwa ghate ta palepa ta Saməyɛl"
+  "2SA":
+    name: "2 Saməyɛl"
+    slug: "2-sameyl"
+    name_toc: "Kwa bake ta palepa ta Saməyɛl"
+  "1KI":
+    name: "1 Ka Meghea Kɛfi"
+    slug: "1-ka-meghea-kfi"
+    name_toc: "Kwa ghate ta Ka Meghea Kɛfi"
+  "2KI":
+    name: "2 Ka Meghea Kɛfi"
+    slug: "2-ka-meghea-kfi"
+    name_toc: "Kwa bake ta palepa ta Ka Meghea Kɛfi"
+  "1CH":
+    name: "1 Wəshi nyi Mene Ka Meghe"
+    slug: "1-weshi-nyi-mene-ka-meghe"
+    name_toc: "Kwa ghate ta palepa ta Wəshi nyi Mene Ka Meghe"
+  "2CH":
+    name: "2 Wəshi nyi Mene Ka Meghe"
+    slug: "2-weshi-nyi-mene-ka-meghe"
+    name_toc: "Kwa bake ta palepa ta Wəshi nyi Mene Ka Meghe"
+  "EZR":
+    name: "Ɛsdras"
+    slug: "sdras"
+    name_toc: "Palepa ta Ɛsdras"
+  "NEH":
+    name: "Nɛhɛmi"
+    slug: "nhmi"
+    name_toc: "Palepa ta Nɛhɛmi"
+  "EST":
+    name: "Ɛstɛr"
+    slug: "str"
+    name_toc: "Palepa ta Ɛstɛr"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Palepa ta JOB"
+  "PSA":
+    name: "Cimə"
+    slug: "cime"
+    name_toc: "Palepa ta Cimə"
+  "PRO":
+    name: "Yɛ Ghena Ŋela"
+    slug: "y-ghena-ela"
+    name_toc: "Palepa ta yɛ Ghena Ŋela"
+  "ECC":
+    name: "Nde zlape ghena"
+    slug: "nde-zlape-ghena"
+    name_toc: "Palepa ta Nde zlape ghena"
+  "SNG":
+    name: "Cimə nya zeɗe ma"
+    slug: "cime-nya-zee-ma"
+    name_toc: "Cimə nya zeɗe ma"
+  "ISA":
+    name: "Ɛzayi"
+    slug: "zayi"
+    name_toc: "Palepa ta Ɛzayi"
+  "JER":
+    name: "Zhɛrɛmi"
+    slug: "zhrmi"
+    name_toc: "Palepa ta Zhɛrɛmi"
+  "LAM":
+    name: "Yɛ Ŋgaɗe ghə"
+    slug: "y-gae-ghe"
+    name_toc: "Palepa ta yɛ Ŋgaɗe ghə"
+  "EZK":
+    name: "Ɛzɛkiyɛl"
+    slug: "zkiyl"
+    name_toc: "Palepa ta Ɛzɛkiyɛl"
+  "DAN":
+    name: "Daniyɛl"
+    slug: "daniyl"
+    name_toc: "Palepa ta Daniyɛl"
+  "HOS":
+    name: "Ozɛ"
+    slug: "oz"
+    name_toc: "Palepa ta Ozɛ"
+  "JOL":
+    name: "Zhowɛl"
+    slug: "zhowl"
+    name_toc: "Palepa ta Zhowɛl"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Palepa ta Amos"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+    name_toc: "Palepa ta Abdiyas"
+  "JON":
+    name: "Zhonas"
+    slug: "zhonas"
+    name_toc: "Palepa ta Zhonas"
+  "MIC":
+    name: "Mishɛ"
+    slug: "mish"
+    name_toc: "Palepa ta Mishɛ"
+  "NAM":
+    name: "Nahəwm"
+    slug: "nahewm"
+    name_toc: "Palepa ta Nahəwm"
+  "HAB":
+    name: "Habakək"
+    slug: "habakek"
+    name_toc: "Palepa ta Habakək"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "Palepa ta Sofoni"
+  "HAG":
+    name: "Azhɛ"
+    slug: "azh"
+    name_toc: "Palepa ta Azhɛ"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+    name_toc: "Palepa ta Zakari"
+  "MAL":
+    name: "Malashi"
+    slug: "malashi"
+    name_toc: "Palepa ta Malashi"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Palepa ta Tobi"
+  "JDT":
+    name: "Zhədit"
+    slug: "zhedit"
+    name_toc: "Palepa ta Zhədit"
+  "ESG":
+    name: "Ɛstɛr Grɛk"
+    slug: "str-grk"
+    name_toc: "Palepa ta Ɛstɛr Grɛk"
+  "WIS":
+    name: "Ntsehwele"
+    slug: "ntsehwele"
+    name_toc: "Palepa ta Ntsehwele"
+  "SIR":
+    name: "Bɛn Sirak"
+    slug: "bn-sirak"
+    name_toc: "Palepa ta Bɛn Sirak"
+  "BAR":
+    name: "Barək"
+    slug: "barek"
+    name_toc: "Palepa ta Barək"
+  "LJE":
+    name: "Palepa ta Zhɛrɛmi"
+    slug: "palepa-ta-zhrmi"
+    name_toc: "Palepa ta Zhɛrɛmi"
+  "S3Y":
+    name: "Daniyɛl Grɛk"
+    slug: "daniyl-grk"
+    name_toc: "Palepa ta Daniyɛl Grɛk"
+  "SUS":
+    name: "Səzane"
+    slug: "sezane"
+    name_toc: "Palepa ta Səzane"
+  "BEL":
+    name: "Bɛl ba'a Shishi nya wəba"
+    slug: "bl-ba-a-shishi-nya-weba"
+    name_toc: "Palepa ta Bɛl ba'a Shishi nya wəshi"
+  "1MA":
+    name: "1 Makabɛ"
+    slug: "1-makab"
+    name_toc: "Kwa ghate ta palepa ta Makabɛ"
+  "2MA":
+    name: "2 Makabɛ"
+    slug: "2-makab"
+    name_toc: "Kwa bake ta palepa ta Makabɛ"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+    name_toc: "Ghena kwatenca nya ganyɛ ta Matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Ghena kwatenca nya ganyɛ ta Mark"
+  "LUK":
+    name: "Ləwke"
+    slug: "lewke"
+    name_toc: "Ghena kwatenca nya ganyɛ ta Ləwke"
+  "JHN":
+    name: "Zhaŋe"
+    slug: "zhae"
+    name_toc: "Ghena kwatenca nya ganyɛ ta Zhaŋe"
+  "ACT":
+    name: "Slene"
+    slug: "slene"
+    name_toc: "Palepa ta Slene"
+  "ROM":
+    name: "Ka Rome"
+    slug: "ka-rome"
+    name_toc: "Palepa ta Pol ke ka Rome"
+  "1CO":
+    name: "1 Ka Korɛnte"
+    slug: "1-ka-kornte"
+    name_toc: "Kwa ghate ta ka Korɛnte"
+  "2CO":
+    name: "2 Ka Korɛnte"
+    slug: "2-ka-kornte"
+    name_toc: "Kwa Bake ta ka Korɛnte"
+  "GAL":
+    name: "Ka Galate"
+    slug: "ka-galate"
+    name_toc: "Palepa ta Pol ke ka Galate"
+  "EPH":
+    name: "Ka Ɛfɛze"
+    slug: "ka-fze"
+    name_toc: "Palepa ta Pol ke ka Ɛfɛze"
+  "PHP":
+    name: "Ka Filipe"
+    slug: "ka-filipe"
+    name_toc: "Palepa ta Pol ke ka Filipe"
+  "COL":
+    name: "Ka Kolose"
+    slug: "ka-kolose"
+    name_toc: "Palepa ta Pol ke ka Kolose"
+  "1TH":
+    name: "1 Ka Tɛsalonike"
+    slug: "1-ka-tsalonike"
+    name_toc: "Palepa ta Pol ke ka Tɛsalonike"
+  "2TH":
+    name: "2 Tɛsalonike"
+    slug: "2-tsalonike"
+    name_toc: "Kwa Bake ta palepa ta Pol ke ka Tɛsalonike"
+  "1TI":
+    name: "1 Timotɛ"
+    slug: "1-timot"
+    name_toc: "Kwa ghate ta palepa ta Pol ke Timotɛ"
+  "2TI":
+    name: "2 Timotɛ"
+    slug: "2-timot"
+    name_toc: "Kwa bake ta palepa ta Pol ke Timotɛ"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Palepa ta Pol ke Tite"
+  "PHM":
+    name: "Filɛmon"
+    slug: "filmon"
+    name_toc: "Palepa ta Pol ke Filɛmon"
+  "HEB":
+    name: "Ka Ɛbrə"
+    slug: "ka-bre"
+    name_toc: "Palepa ke ka Ɛbrə"
+  "JAS":
+    name: "Zhake"
+    slug: "zhake"
+    name_toc: "Palepa ta nya rafete Zhake"
+  "1PE":
+    name: "1 Piyɛre"
+    slug: "1-piyre"
+    name_toc: "Kwa ghate ta palepa ta Piyɛre"
+  "2PE":
+    name: "2 Piyɛre"
+    slug: "2-piyre"
+    name_toc: "Kwa bake ta palepa ta Piyɛre"
+  "1JN":
+    name: "1 Zhaŋe"
+    slug: "1-zhae"
+    name_toc: "Kwa ghate ta palepa ta Zhaŋe"
+  "2JN":
+    name: "2 Zhaŋe"
+    slug: "2-zhae"
+    name_toc: "Kwa bake ta palepa ta Zhaŋe"
+  "3JN":
+    name: "3 Zhaŋe"
+    slug: "3-zhae"
+    name_toc: "Kwa maheke ta palepa ta Zhaŋe"
+  "JUD":
+    name: "Zhəwde"
+    slug: "zhewde"
+    name_toc: "Palepa ta Zhəwde"
+  "REV":
+    name: "Ghena Kelɛŋə"
+    slug: "ghena-kele"
+    name_toc: "Palepa ta Ghena Kelɛŋə"

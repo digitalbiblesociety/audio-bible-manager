@@ -1,0 +1,266 @@
+language: "tgw"
+books:
+  "GEN":
+    name: "Hlimi"
+    slug: "hlimi"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ቲቶ"
+  "EXO":
+    name: "Nyinimi"
+    slug: "nyinimi"
+    name_toc: "መልእኽቲ ጳውሎስ ናብ ፊልሞና"
+  "LEV":
+    name: "Sraʔa Farafɛɛ"
+    slug: "sraa-faraf"
+    name_toc: "መልእኽቲ ናብ ዕብራውያን"
+  "NUM":
+    name: "Tonrimo"
+    slug: "tonrimo"
+    name_toc: "መልእኽቲ ያእቆብ"
+  "DEU":
+    name: "Ladomo Furu"
+    slug: "ladomo-furu"
+    name_toc: "1ይ መልእኽቲ ጴጥሮስ"
+  "JOS":
+    name: "Josuwe"
+    slug: "josuwe"
+    name_toc: "2ይ መልእኽቲ ጴጥሮስ"
+  "JDG":
+    name: "Syɔfɛɛ"
+    slug: "syf"
+    name_toc: "1ይ መልእኽቲ ዮሃንስ"
+  "RUT":
+    name: "Hruti"
+    slug: "hruti"
+    name_toc: "2ይ መልእኽቲ ዮሃንስ"
+  "1SA":
+    name: "1 Samyɛli"
+    slug: "1-samyli"
+    name_toc: "3ይ መልእኽቲ ዮሃንስ"
+  "2SA":
+    name: "2 Samyɛli"
+    slug: "2-samyli"
+    name_toc: "መልእኽቲ ይሁዳ"
+  "1KI":
+    name: "1 Masaa"
+    slug: "1-masaa"
+    name_toc: "ራእይ ዮሃንስ"
+  "2KI":
+    name: "2 Masaa"
+    slug: "2-masaa"
+    name_toc: "Ruamabera U Hiihii U Mose, Mba Yer er Genese"
+  "1CH":
+    name: "1 Masaʔa Kaʔá"
+    slug: "1-masaa-kaa"
+    name_toc: "Ruamabera U Mose U Sha Uhar, Mba Yer er Ekesodu"
+  "2CH":
+    name: "2 Masaʔa Kaʔá"
+    slug: "2-masaa-kaa"
+    name_toc: "Ruamabera U Mose U Sha Utar, Mba Yer er Levitiku"
+  "EZR":
+    name: "Ɛsidrasi"
+    slug: "sidrasi"
+    name_toc: "Ruamabera U Mose U Sha Unyiin, Mba Yer er Numeri"
+  "NEH":
+    name: "Neʔemi"
+    slug: "neemi"
+    name_toc: "Ruamabera U Mose U Sha Utaan, Mba Yer er Duteronomi"
+  "EST":
+    name: "Ɛsitɛri"
+    slug: "sitri"
+    name_toc: "Ruamabera U Yosua"
+  "JOB":
+    name: "Jɔbi"
+    slug: "jbi"
+    name_toc: "Ruamabera U Mbaajiriv"
+  "PSA":
+    name: "Ŋuru"
+    slug: "uru"
+    name_toc: "Ruamabera U Rutu"
+  "PRO":
+    name: "Yomɛʔɛ"
+    slug: "yom"
+    name_toc: "Ruamabera U Hiihii U Samuel"
+  "ECC":
+    name: "Ticlimi"
+    slug: "ticlimi"
+    name_toc: "Ruamabera U Sha Uhar U Samuel"
+  "SNG":
+    name: "Ŋuru Ti Ŋuʔu"
+    slug: "uru-ti-uu"
+    name_toc: "Ruamabera U Hiihii U Utor"
+  "ISA":
+    name: "Esayi"
+    slug: "esayi"
+    name_toc: "Ruamabera U Sha Uhar U Utor"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+    name_toc: "Ruamabera U Hiihii U Kroniku"
+  "LAM":
+    name: "Nyugara Ŋuʔu"
+    slug: "nyugara-uu"
+    name_toc: "Ruamabera U Sha Uhar U Kroniku"
+  "EZK":
+    name: "Esekyɛli"
+    slug: "esekyli"
+    name_toc: "Ruamabera U Esera"
+  "DAN":
+    name: "Danyɛli"
+    slug: "danyli"
+    name_toc: "Ruamabera U Nehemia"
+  "HOS":
+    name: "Ose"
+    slug: "ose"
+    name_toc: "Ruamabera U Eseter"
+  "JOL":
+    name: "Jowɛli"
+    slug: "jowli"
+    name_toc: "Ruamabera U Yobu"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Ruamabera U Upasalmi"
+  "OBA":
+    name: "Abidyasi"
+    slug: "abidyasi"
+    name_toc: "Ruamabera U Anzaakaa"
+  "JON":
+    name: "Jonasi"
+    slug: "jonasi"
+    name_toc: "Ruamabera U Orpasenkwagh"
+  "MIC":
+    name: "Misye"
+    slug: "misye"
+    name_toc: "Icam I Hemban Atsam Cii I Solomon"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Ruamabera U Profeti Yesaia"
+  "HAB":
+    name: "Abakuki"
+    slug: "abakuki"
+    name_toc: "Ruamabera U Profeti Yeremia"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "Ukwelegh Mba Zungwen Mba Yeremia"
+  "HAG":
+    name: "Agije"
+    slug: "agije"
+    name_toc: "Ruamabera U Profeti Esekiel"
+  "ZEC":
+    name: "Sakari"
+    slug: "sakari"
+    name_toc: "Ruamabera U Profeti Daniel"
+  "MAL":
+    name: "Malasyi"
+    slug: "malasyi"
+    name_toc: "Ruamabera U Profeti Hosea"
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+    name_toc: "Ruamabera U Profeti Yoel"
+  "MRK":
+    name: "Marike"
+    slug: "marike"
+    name_toc: "Ruamabera U Profeti Amoshi"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "Ruamabera U Profeti Obadia"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+    name_toc: "Ruamabera U Profeti Yona"
+  "ACT":
+    name: "Pitunbee"
+    slug: "pitunbee"
+    name_toc: "Ruamabera U Profeti Mika"
+  "ROM":
+    name: "Hrɔmu"
+    slug: "hrmu"
+    name_toc: "Ruamabera U Profeti Nahum"
+  "1CO":
+    name: "1 Korɛnte"
+    slug: "1-kornte"
+    name_toc: "Ruamabera U Profeti Habaku"
+  "2CO":
+    name: "2 Korɛnte"
+    slug: "2-kornte"
+    name_toc: "Ruamabera U Profeti Sefania"
+  "GAL":
+    name: "Galase"
+    slug: "galase"
+    name_toc: "Ruamabera U Profeti Hagai"
+  "EPH":
+    name: "Efɛse"
+    slug: "efse"
+    name_toc: "Ruamabera U Profeti Sekaria"
+  "PHP":
+    name: "Filipe Kàʔà"
+    slug: "filipe-kaa"
+    name_toc: "Ruamabera U Profeti Malaki"
+  "COL":
+    name: "Kɔlɔse"
+    slug: "klse"
+    name_toc: "Ivangeli I Sha Uwegh Ku Mateu"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+    name_toc: "Ivangeli I Sha Uwegh Ku Marku"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+    name_toc: "Ivangeli I Sha Uwegh Ku Luka"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Ivangeli I Sha Uwegh Ku Yohane"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Aerenakaa A Mbaapostoli"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Mbaromanu"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+    name_toc: "Washika U Hiihii U Paulu Apostoli Tindi Hen Mbakorinte"
+  "HEB":
+    name: "Ebruyee"
+    slug: "ebruyee"
+    name_toc: "Washika U Sha Uhar U Paulu Apostoli Tindi Hen Mbakorinte"
+  "JAS":
+    name: "Jake"
+    slug: "jake"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Mbagalatia"
+  "1PE":
+    name: "1 Pyɛri"
+    slug: "1-pyri"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Mbaefese"
+  "2PE":
+    name: "2 Pyɛri"
+    slug: "2-pyri"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Mbafilipi"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Mbakolose"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+    name_toc: "Washika U Hiihii U Paulu Apostoli Tindi Hen Mbatesalonika"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+    name_toc: "Washika U Sha Uhar U Paulu Apostoli Tindi Hen Timoteu"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Washika U Hiihii U Paulu Apostoli Tindi Hen Timoteu"
+  "REV":
+    name: "Tyɛʔɛmɛ"
+    slug: "tym"
+    name_toc: "Washika U Sha Uhar U Paulu Apostoli Tindi Hen Timoteu"

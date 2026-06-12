@@ -1,0 +1,266 @@
+language: "sef"
+books:
+  "GEN":
+    name: "Sélimɛ"
+    slug: "selim"
+    name_toc: "तीतुस कर नांव में पौलुस कर लिखल चिट्ठी"
+  "EXO":
+    name: "Yirile"
+    slug: "yirile"
+    name_toc: "फिलेमोन नांव कर एगोट भाई बर परेरीत पौलुस कर लिखल चिट्ठी"
+  "LEV":
+    name: "Levii ye sáriga-wòlori"
+    slug: "levii-ye-sariga-wolori"
+    name_toc: "इबरानी मन कर चिट्ठी"
+  "NUM":
+    name: "Córolo"
+    slug: "corolo"
+    name_toc: "याकूब कर लिखल चिट्ठी"
+  "DEU":
+    name: "Làlwaw Kaanziin"
+    slug: "lalwaw-kaanziin"
+    name_toc: "परेरीत पतरस कर लिखल पहिलो चिट्ठी"
+  "JOS":
+    name: "Zyozuwe"
+    slug: "zyozuwe"
+    name_toc: "परेरीत पतरस कर लिखल दूसरा चिट्ठी"
+  "JDG":
+    name: "Jàbɔbèle"
+    slug: "jabbele"
+    name_toc: "यूहन्ना कर लिखल पहिला चिट्ठी"
+  "RUT":
+    name: "Wuruti"
+    slug: "wuruti"
+    name_toc: "यूहन्ना कर लिखल दूसरा चिट्ठी"
+  "1SA":
+    name: "1 Samyɛli"
+    slug: "1-samyli"
+    name_toc: "यूहन्ना कर लिखल तीसरा चिट्ठी"
+  "2SA":
+    name: "2 Samyɛli"
+    slug: "2-samyli"
+    name_toc: "यहूदा कर लिखल चिट्ठी"
+  "1KI":
+    name: "1 Fànʔafɔbèle"
+    slug: "1-fanafbele"
+    name_toc: "परकासितवाक्य"
+  "2KI":
+    name: "2 Fànʔafɔbèle"
+    slug: "2-fanafbele"
+    name_toc: "የውጦት መጣፍ"
+  "1CH":
+    name: "1 Cányi kèlē"
+    slug: "1-canyi-kele"
+    name_toc: "የዘፃት መጣፍ"
+  "2CH":
+    name: "2 Cányi kèlē"
+    slug: "2-canyi-kele"
+    name_toc: "የሌዊ ሰብ"
+  "EZR":
+    name: "Ɛsidirasi"
+    slug: "sidirasi"
+    name_toc: "የዝር መጣፍ"
+  "NEH":
+    name: "Nehemii"
+    slug: "nehemii"
+    name_toc: "የዄተነ የቶደ መጣፍ"
+  "EST":
+    name: "Ɛsitɛri"
+    slug: "sitri"
+    name_toc: "የኢያሱ መጣፍ"
+  "JOB":
+    name: "Zyɔbi"
+    slug: "zybi"
+    name_toc: "የመሳፍንት መጣፍ"
+  "PSA":
+    name: "Ŋúnuyi"
+    slug: "unuyi"
+    name_toc: "የሩት መጣፍ"
+  "PRO":
+    name: "Kàseegèle"
+    slug: "kaseegele"
+    name_toc: "1ነ ሳሙኤል መጣፍ"
+  "ECC":
+    name: "Syɛɛnjóow"
+    slug: "synjoow"
+    name_toc: "2ነ ሳል መጣፍ"
+  "SNG":
+    name: "Ŋúnudaangi"
+    slug: "unudaangi"
+    name_toc: "1ነ የንስ መጣፍ"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+    name_toc: "2ነ የንስ መጣፍ"
+  "JER":
+    name: "Zyeremii"
+    slug: "zyeremii"
+    name_toc: "1ነ የዜና መጣፍ"
+  "LAM":
+    name: "Kayaagi Nyɛnigɛ"
+    slug: "kayaagi-nynig"
+    name_toc: "2ነ የዜና መጣፍ"
+  "EZK":
+    name: "Ezekyɛli"
+    slug: "ezekyli"
+    name_toc: "የእዝራ መጣፍ"
+  "DAN":
+    name: "Danyɛli"
+    slug: "danyli"
+    name_toc: "የነኽምያ መጣፍ"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+    name_toc: "የአስቴር መጣፍ"
+  "JOL":
+    name: "Zyowɛli"
+    slug: "zyowli"
+    name_toc: "የኢዮብ መጣፍ"
+  "AMO":
+    name: "Amɔsi"
+    slug: "amsi"
+    name_toc: "የዳዊት ዝምራ"
+  "OBA":
+    name: "Abidyasi"
+    slug: "abidyasi"
+    name_toc: "ዮማካ መጣፍ"
+  "JON":
+    name: "Zyonasi"
+    slug: "zyonasi"
+    name_toc: "የሰባኪ መጣፍ"
+  "MIC":
+    name: "Misye"
+    slug: "misye"
+    name_toc: "ተዝምራ እንም ይርቅ የዝምራ"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+    name_toc: "የኢሳያስ መጣፍ"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "የኤርምያስ መጣፍ"
+  "ZEP":
+    name: "Sofonii"
+    slug: "sofonii"
+    name_toc: "የኤርምያስ ብ"
+  "HAG":
+    name: "Agizye"
+    slug: "agizye"
+    name_toc: "የኽዝቄል መጣፍ"
+  "ZEC":
+    name: "Zakarii"
+    slug: "zakarii"
+    name_toc: "የዳኔል መጣፍ"
+  "MAL":
+    name: "Malasyii"
+    slug: "malasyii"
+    name_toc: "የኾሴ መጣፍ"
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+    name_toc: "የኢዮዌል መጣፍ"
+  "MRK":
+    name: "Mariki"
+    slug: "mariki"
+    name_toc: "የአሞፅ መጣፍ"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+    name_toc: "የአብድዩ መጣፍ"
+  "JHN":
+    name: "Zyan"
+    slug: "zyan"
+    name_toc: "የዮናስ መጣፍ"
+  "ACT":
+    name: "Kapyegèle"
+    slug: "kapyegele"
+    name_toc: "የሚክያስ መጣፍ"
+  "ROM":
+    name: "Wɔrɔmi ye"
+    slug: "wrmi-ye"
+    name_toc: "የናኾም መጣፍ"
+  "1CO":
+    name: "1 Korɛnti ye"
+    slug: "1-kornti-ye"
+    name_toc: "የእንባቆ መጣፍ"
+  "2CO":
+    name: "2 Korɛnti ye"
+    slug: "2-kornti-ye"
+    name_toc: "የሶፎንያስ መጣፍ"
+  "GAL":
+    name: "Galasi ye"
+    slug: "galasi-ye"
+    name_toc: "የኻጌ መጣፍ"
+  "EPH":
+    name: "Efɛzi ye"
+    slug: "efzi-ye"
+    name_toc: "የዘካርያስ መጣፍ"
+  "PHP":
+    name: "Filipikaʔa ye"
+    slug: "filipikaa-ye"
+    name_toc: "የሚልክያስ መጣፍ"
+  "COL":
+    name: "Kɔlɔsi ye"
+    slug: "klsi-ye"
+    name_toc: "ማትዮስ ወኼ ወሬ"
+  "1TH":
+    name: "1 Tesaloniki ye"
+    slug: "1-tesaloniki-ye"
+    name_toc: "ማርቆስ ወኼ ወሬ"
+  "2TH":
+    name: "2 Tesaloniki ye"
+    slug: "2-tesaloniki-ye"
+    name_toc: "ሉቃስ ወኼ ወሬ"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+    name_toc: "ዮኻንስ ወኼ ወሬ"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+    name_toc: "የጔታ ናቸረነ ሜና"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+    name_toc: "የሮሜ"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+    name_toc: "1ነ ቆሮንቶስ"
+  "HEB":
+    name: "Heburubèle"
+    slug: "heburubele"
+    name_toc: "2ነ ቆሮንቶስ"
+  "JAS":
+    name: "Zyaki"
+    slug: "zyaki"
+    name_toc: "ገላትያ"
+  "1PE":
+    name: "1 Pyɛri"
+    slug: "1-pyri"
+    name_toc: "ኤፌሶን"
+  "2PE":
+    name: "2 Pyɛri"
+    slug: "2-pyri"
+    name_toc: "ፊልጵስዩስ"
+  "1JN":
+    name: "1 Zyan"
+    slug: "1-zyan"
+    name_toc: "ቆላስይስ"
+  "2JN":
+    name: "2 Zyan"
+    slug: "2-zyan"
+    name_toc: "1ነ ተሰሎንቄ"
+  "3JN":
+    name: "3 Zyan"
+    slug: "3-zyan"
+    name_toc: "2ነ ተሰሎንቄ"
+  "JUD":
+    name: "Zyudi"
+    slug: "zyudi"
+    name_toc: "1ነ ጢሞቴዎስ"
+  "REV":
+    name: "Tɛ̀ɛnnɛ"
+    slug: "tnn"
+    name_toc: "2ነ ጢሞቴዎስ"

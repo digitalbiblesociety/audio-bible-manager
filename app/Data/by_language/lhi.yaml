@@ -1,0 +1,83 @@
+language: "lhi"
+books:
+  "MAT":
+    name: "Mar thehr liq"
+    slug: "mar-thehr-liq"
+  "MRK":
+    name: "Mar koq liq"
+    slug: "mar-koq-liq"
+  "LUK":
+    name: "Lud kar liq"
+    slug: "lud-kar-liq"
+  "JHN":
+    name: "Yod hanr liq"
+    slug: "yod-hanr-liq"
+  "ACT":
+    name: "Cuh yad liq"
+    slug: "cuh-yad-liq"
+  "ROM":
+    name: "Rod maq liq"
+    slug: "rod-maq-liq"
+  "1CO":
+    name: "1 Kawd ren thuq liq"
+    slug: "1-kawd-ren-thuq-liq"
+  "2CO":
+    name: "2 Kawd ren thuq liq"
+    slug: "2-kawd-ren-thuq-liq"
+  "GAL":
+    name: "Gar lar tiq liq"
+    slug: "gar-lar-tiq-liq"
+  "EPH":
+    name: "Ed fed suq liq"
+    slug: "ed-fed-suq-liq"
+  "PHP":
+    name: "Phid lid piq liq"
+    slug: "phid-lid-piq-liq"
+  "COL":
+    name: "Kaw law sehd liq"
+    slug: "kaw-law-sehd-liq"
+  "1TH":
+    name: "1 Thed sa lawd niq liq"
+    slug: "1-thed-sa-lawd-niq-liq"
+  "2TH":
+    name: "2 Thed sa lawd niq liq"
+    slug: "2-thed-sa-lawd-niq-liq"
+  "1TI":
+    name: "1 Tiq mod ser liq"
+    slug: "1-tiq-mod-ser-liq"
+  "2TI":
+    name: "2 Tiq mod ser liq"
+    slug: "2-tiq-mod-ser-liq"
+  "TIT":
+    name: "Tid tuq liq"
+    slug: "tid-tuq-liq"
+  "PHM":
+    name: "Phid lid monr liq"
+    slug: "phid-lid-monr-liq"
+  "HEB":
+    name: "Her brehd liq"
+    slug: "her-brehd-liq"
+  "JAS":
+    name: "Yar koq liq"
+    slug: "yar-koq-liq"
+  "1PE":
+    name: "1 Per troq liq"
+    slug: "1-per-troq-liq"
+  "2PE":
+    name: "2 Per troq liq"
+    slug: "2-per-troq-liq"
+  "1JN":
+    name: "1 Yod hanr liq"
+    slug: "1-yod-hanr-liq"
+  "2JN":
+    name: "2 Yod hanr liq"
+    slug: "2-yod-hanr-liq"
+  "3JN":
+    name: "3 Yod hanr liq"
+    slug: "3-yod-hanr-liq"
+  "JUD":
+    name: "Yud daq liq"
+    slug: "yud-daq-liq"
+  "REV":
+    name: "Pheq mar liq"
+    slug: "pheq-mar-liq"

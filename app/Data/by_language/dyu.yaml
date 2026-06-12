@@ -1,0 +1,200 @@
+language: "dyu"
+books:
+  "GEN":
+    name: "Damina"
+    slug: "damina"
+  "EXO":
+    name: "Bɔri"
+    slug: "bri"
+  "LEV":
+    name: "Sarakalasebagaw"
+    slug: "sarakalasebagaw"
+  "NUM":
+    name: "Jateri"
+    slug: "jateri"
+  "DEU":
+    name: "Sariya"
+    slug: "sariya"
+  "JOS":
+    name: "Yosuwe"
+    slug: "yosuwe"
+  "JDG":
+    name: "Kititigɛbagaw"
+    slug: "kititigbagaw"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "Samawilu fɔlɔ"
+    slug: "samawilu-fl"
+  "2SA":
+    name: "Samawilu flanan"
+    slug: "samawilu-flanan"
+  "1KI":
+    name: "Masacɛw fɔlɔ"
+    slug: "masacw-fl"
+  "2KI":
+    name: "Masacɛw flanan"
+    slug: "masacw-flanan"
+  "1CH":
+    name: "Kibaroyaw fɔlɔ"
+    slug: "kibaroyaw-fl"
+  "2CH":
+    name: "Kibaroyaw flanan"
+    slug: "kibaroyaw-flanan"
+  "EZR":
+    name: "Ɛsidarasi"
+    slug: "sidarasi"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+  "EST":
+    name: "Ɛsitɛri"
+    slug: "sitri"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Zaburuw"
+    slug: "zaburuw"
+  "PRO":
+    name: "Zanaw"
+    slug: "zanaw"
+  "ECC":
+    name: "Waajurikɛbaga"
+    slug: "waajurikbaga"
+  "SNG":
+    name: "Dɔnkiriw"
+    slug: "dnkiriw"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+  "JER":
+    name: "Yeremi"
+    slug: "yeremi"
+  "LAM":
+    name: "Kasikan"
+    slug: "kasikan"
+  "EZK":
+    name: "Ezekiyɛli"
+    slug: "ezekiyli"
+  "DAN":
+    name: "Daniyɛli"
+    slug: "daniyli"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+  "JOL":
+    name: "Yowɛli"
+    slug: "yowli"
+  "AMO":
+    name: "Amɔsi"
+    slug: "amsi"
+  "OBA":
+    name: "Abidiyasi"
+    slug: "abidiyasi"
+  "JON":
+    name: "Yunusu"
+    slug: "yunusu"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nahɔmu"
+    slug: "nahmu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Hagize"
+    slug: "hagize"
+  "ZEC":
+    name: "Jakariya"
+    slug: "jakariya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Marika"
+    slug: "marika"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhana"
+    slug: "yuhana"
+  "ACT":
+    name: "Ciradenw ta Kɛwalew"
+    slug: "ciradenw-ta-kwalew"
+  "ROM":
+    name: "Rɔmukaw"
+    slug: "rmukaw"
+  "1CO":
+    name: "Korɛntikaw fɔlɔ"
+    slug: "korntikaw-fl"
+  "2CO":
+    name: "Korɛntikaw flanan"
+    slug: "korntikaw-flanan"
+  "GAL":
+    name: "Galasikaw"
+    slug: "galasikaw"
+  "EPH":
+    name: "Ɛfɛsikaw"
+    slug: "fsikaw"
+  "PHP":
+    name: "Filipikaw"
+    slug: "filipikaw"
+  "COL":
+    name: "Kɔlɔsikaw"
+    slug: "klsikaw"
+  "1TH":
+    name: "Tesalonikikaw fɔlɔ"
+    slug: "tesalonikikaw-fl"
+  "2TH":
+    name: "Tesalonikikaw flanan"
+    slug: "tesalonikikaw-flanan"
+  "1TI":
+    name: "Timote fɔlɔ"
+    slug: "timote-fl"
+  "2TI":
+    name: "Timote flanan"
+    slug: "timote-flanan"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Heburuw"
+    slug: "heburuw"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "Piyɛri fɔlɔ"
+    slug: "piyri-fl"
+  "2PE":
+    name: "Piyɛri flanan"
+    slug: "piyri-flanan"
+  "1JN":
+    name: "Yuhana fɔlɔ"
+    slug: "yuhana-fl"
+  "2JN":
+    name: "Yuhana flanan"
+    slug: "yuhana-flanan"
+  "3JN":
+    name: "Yuhana sabanan"
+    slug: "yuhana-sabanan"
+  "JUD":
+    name: "Zude"
+    slug: "zude"
+  "REV":
+    name: "Yirari"
+    slug: "yirari"

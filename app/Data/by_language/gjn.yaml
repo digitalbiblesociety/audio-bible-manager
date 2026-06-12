@@ -1,0 +1,200 @@
+language: "gjn"
+books:
+  "GEN":
+    name: "Jɛnesis"
+    slug: "jnesis"
+  "EXO":
+    name: "Ɛksodɔs"
+    slug: "ksods"
+  "LEV":
+    name: "Levitikɔs"
+    slug: "levitiks"
+  "NUM":
+    name: "Nɔmbɛs"
+    slug: "nmbs"
+  "DEU":
+    name: "Ditɛronɔmi"
+    slug: "ditronmi"
+  "JOS":
+    name: "Joshuwa"
+    slug: "joshuwa"
+  "JDG":
+    name: "Demujipoana"
+    slug: "demujipoana"
+  "RUT":
+    name: "Ruf"
+    slug: "ruf"
+  "1SA":
+    name: "1 Samuɛl"
+    slug: "1-samul"
+  "2SA":
+    name: "2 Samuɛl"
+    slug: "2-samul"
+  "1KI":
+    name: "1 Bewura"
+    slug: "1-bewura"
+  "2KI":
+    name: "2 Bewura"
+    slug: "2-bewura"
+  "1CH":
+    name: "1 Kronikɛls"
+    slug: "1-kronikls"
+  "2CH":
+    name: "2 Kronikɛls"
+    slug: "2-kronikls"
+  "EZR":
+    name: "Ɛzra"
+    slug: "zra"
+  "NEH":
+    name: "Nehemaya"
+    slug: "nehemaya"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Nshɛ"
+    slug: "nsh"
+  "PRO":
+    name: "Aŋasa"
+    slug: "anasa"
+  "ECC":
+    name: "Kaŋinichiŋgliŋ"
+    slug: "kaninichinglin"
+  "SNG":
+    name: "Sɔlɔmɔn Be Nshɛ"
+    slug: "slmn-be-nsh"
+  "ISA":
+    name: "Aizaaya"
+    slug: "aizaaya"
+  "JER":
+    name: "Jɛremaya"
+    slug: "jremaya"
+  "LAM":
+    name: "Nfabel"
+    slug: "nfabel"
+  "EZK":
+    name: "Ezikɛl"
+    slug: "ezikl"
+  "DAN":
+    name: "Danɛl"
+    slug: "danl"
+  "HOS":
+    name: "Hoziya"
+    slug: "hoziya"
+  "JOL":
+    name: "Jowɛl"
+    slug: "jowl"
+  "AMO":
+    name: "Eemɔs"
+    slug: "eems"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+  "HAG":
+    name: "Heegai"
+    slug: "heegai"
+  "ZEC":
+    name: "Zakareya"
+    slug: "zakareya"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+  "ACT":
+    name: "Ashuŋ Shunso"
+    slug: "ashun-shunso"
+  "ROM":
+    name: "Romebi"
+    slug: "romebi"
+  "1CO":
+    name: "1 Kɔrintebi"
+    slug: "1-krintebi"
+  "2CO":
+    name: "2 Kɔrintebi"
+    slug: "2-krintebi"
+  "GAL":
+    name: "Galeeshaebi"
+    slug: "galeeshaebi"
+  "EPH":
+    name: "Ɛfesesebi"
+    slug: "fesesebi"
+  "PHP":
+    name: "Filipaiebi"
+    slug: "filipaiebi"
+  "COL":
+    name: "Kɔlɔsiebi"
+    slug: "klsiebi"
+  "1TH":
+    name: "1 Tɛsalɔnikaebi"
+    slug: "1-tsalnikaebi"
+  "2TH":
+    name: "2 Tɛsalɔnikaebi"
+    slug: "2-tsalnikaebi"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taites"
+    slug: "taites"
+  "PHM":
+    name: "Failimɔn"
+    slug: "failimn"
+  "HEB":
+    name: "Hibruwebi"
+    slug: "hibruwebi"
+  "JAS":
+    name: "Jeems"
+    slug: "jeems"
+  "1PE":
+    name: "Pita"
+    slug: "pita"
+  "2PE":
+    name: "Pita"
+    slug: "pita"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Kelaraŋŋini"
+    slug: "kelarannini"

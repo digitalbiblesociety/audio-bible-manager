@@ -1,0 +1,118 @@
+language: "nyu"
+books:
+  "GEN":
+    name: "Jenesisi"
+    slug: "jenesisi"
+    name_toc: "Livu la Jenesisi"
+  "EXO":
+    name: "Ekisodo"
+    slug: "ekisodo"
+    name_toc: "Livu la Ekisodo"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Mafala Yabwino ya Jezu yakunembedwa na Mateu"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+    name_toc: "Mafala Yabwino ya Jezu yakunembedwa na Maliko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mafala Yabwino ya Jezu yakunembedwa na Luka"
+  "JHN":
+    name: "Juwau"
+    slug: "juwau"
+    name_toc: "Mafala Yabwino ya Jezu yakunembedwa na Juwau"
+  "ACT":
+    name: "Mabasa ya Atumiki"
+    slug: "mabasa-ya-atumiki"
+    name_toc: "Mabasa ya Atumiki"
+  "ROM":
+    name: "aRoma"
+    slug: "aroma"
+    name_toc: "Tsamba la Paulo kuna aRoma"
+  "1CO":
+    name: "1 aKolinto"
+    slug: "1-akolinto"
+    name_toc: "Tsamba lakuyamba la Paulo kuna aKolinto"
+  "2CO":
+    name: "2 aKolinto"
+    slug: "2-akolinto"
+    name_toc: "Tsamba laciwiri la Paulo kuna aKolinto"
+  "GAL":
+    name: "aGalatiya"
+    slug: "agalatiya"
+    name_toc: "Tsamba la Paulo kuna aGalatiya"
+  "EPH":
+    name: "aEfezo"
+    slug: "aefezo"
+    name_toc: "Tsamba la Paulo kuna aEfezo"
+  "PHP":
+    name: "aFiripi"
+    slug: "afiripi"
+    name_toc: "Tsamba la Paulo kuna aFiripi"
+  "COL":
+    name: "aKolose"
+    slug: "akolose"
+    name_toc: "Tsamba la Paulo kuna aKolose"
+  "1TH":
+    name: "1 aTesalonika"
+    slug: "1-atesalonika"
+    name_toc: "Tsamba lakuyamba la Paulo kuna aTesalonika"
+  "2TH":
+    name: "2 aTesalonika"
+    slug: "2-atesalonika"
+    name_toc: "Tsamba laciwiri la Paulo kuna aTesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Tsamba lakuyamba la Paulo kuna Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Tsamba laciwiri kuna Timoti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Tsamba la Paulo kuna Titu"
+  "PHM":
+    name: "Firemoni"
+    slug: "firemoni"
+    name_toc: "Tsamba la Paulo kuna Firemoni"
+  "HEB":
+    name: "aHeberi"
+    slug: "aheberi"
+    name_toc: "Tsamba lomwe lidanembedwa kuna aHeberi"
+  "JAS":
+    name: "Tiyago"
+    slug: "tiyago"
+    name_toc: "Tsamba lomwe lidanembedwa na Tiyago"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+    name_toc: "Tsamba lakuyamba lomwe lidanembedwa na Pedru"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+    name_toc: "Tsamba laciwiri lomwe lidanembedwa na Pedru"
+  "1JN":
+    name: "1 Juwau"
+    slug: "1-juwau"
+    name_toc: "Tsamba lakuyamba lomwe lidanmbedwa na Juwau"
+  "2JN":
+    name: "2 Juwau"
+    slug: "2-juwau"
+    name_toc: "Tsamba laciwiri lomwe lidanembedwa na Juwau"
+  "3JN":
+    name: "3 Juwau"
+    slug: "3-juwau"
+    name_toc: "Tsamba lacitatu lomwe lidanembedwa na Juwau"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Tsamba lomwe lidanembedwa na Juda"
+  "REV":
+    name: "Cidziwiso"
+    slug: "cidziwiso"
+    name_toc: "Cidziwiso cakunembedwa na Juwau"

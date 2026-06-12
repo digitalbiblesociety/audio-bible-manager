@@ -1,0 +1,14 @@
+language: "thd"
+books:
+  "PSA":
+    name: "1 Chon"
+    slug: "1-chon"
+  "JHN":
+    name: "1 Chon"
+    slug: "1-chon"
+  "EPH":
+    name: "1 Chon"
+    slug: "1-chon"
+  "1JN":
+    name: "1 Chon"
+    slug: "1-chon"

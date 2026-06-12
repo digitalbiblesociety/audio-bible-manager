@@ -1,0 +1,77 @@
+language: "alw"
+books:
+  "MAT":
+    name: "ማቶስ እንጂለ"
+    slug: "matos-enegila"
+  "MRK":
+    name: "ማርቆስ እንጂለ"
+    slug: "mareqos-enegila"
+  "LUK":
+    name: "ሉቃስ እንጂለ"
+    slug: "luqas-enegila"
+  "JHN":
+    name: "ያህይ እንጂለ"
+    slug: "yahey-enegila"
+  "ACT":
+    name: "ሶቀማኖ ሆጉተ"
+    slug: "soqamano-hoguta"
+  "1CO":
+    name: "ዎኔ ቆሮንቶስ"
+    slug: "wone-qoronetos"
+  "2CO":
+    name: "ለንክ ቆሮንቶስ"
+    slug: "lanek-qoronetos"
+  "GAL":
+    name: "ገላትያ"
+    slug: "galateya"
+  "EPH":
+    name: "ኤፌሶን"
+    slug: "efeson"
+  "PHP":
+    name: "ፍልጵስዩስ"
+    slug: "felepeseyus"
+  "COL":
+    name: "ቆላስያስ"
+    slug: "qolaseyas"
+  "1TH":
+    name: "ዎኔ ተሰሎንቄ"
+    slug: "wone-tasaloneqe"
+  "2TH":
+    name: "ለንክ ተሰሎንቄ"
+    slug: "lanek-tasaloneqe"
+  "1TI":
+    name: "ዎኔ ጢሞትዎሴ"
+    slug: "wone-timotewose"
+  "2TI":
+    name: "ለንክ ጢሞትዎስ"
+    slug: "lanek-timotewos"
+  "PHM":
+    name: "ፍልሞኒሃ"
+    slug: "felemoniha"
+  "HEB":
+    name: "እብራውያን"
+    slug: "eberaweyan"
+  "JAS":
+    name: "ያቁብ ከተቦ ሶህኑተ"
+    slug: "yaqub-katabo-sohenuta"
+  "1PE":
+    name: "ዎኔ ጴጥሮሴ"
+    slug: "wone-peterose"
+  "2PE":
+    name: "ለንክ ጴጥሮስ"
+    slug: "lanek-peteros"
+  "1JN":
+    name: "ዎኔ ሶህኑተ"
+    slug: "wone-sohenuta"
+  "2JN":
+    name: "ለንክ ሶህኑተ"
+    slug: "lanek-sohenuta"
+  "3JN":
+    name: "ሰቅ ሶህኑተ"
+    slug: "saq-sohenuta"
+  "JUD":
+    name: "ይሁድ ከተቦ ሶህኑተ"
+    slug: "yehud-katabo-sohenuta"
+  "REV":
+    name: "ያህይ ለዕዮ መናመተ"
+    slug: "yahey-laeyo-manamata"

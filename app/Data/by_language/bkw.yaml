@@ -1,0 +1,83 @@
+language: "bkw"
+books:
+  "MAT":
+    name: "Matye"
+    slug: "matye"
+  "MRK":
+    name: "Malak"
+    slug: "malak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zaŋ"
+    slug: "za"
+  "ACT":
+    name: "Mɛsa"
+    slug: "msa"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "Koolɛt yii Mɛkɛn"
+    slug: "koolt-yii-mkn"
+  "2CO":
+    name: "Koolɛt yii Bɔɔba"
+    slug: "koolt-yii-bba"
+  "GAL":
+    name: "Ghalat"
+    slug: "ghalat"
+  "EPH":
+    name: "Efɛɛz"
+    slug: "efz"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kolɔs"
+    slug: "kols"
+  "1TH":
+    name: "Tɛsalonik yii Mɛkɛn"
+    slug: "tsalonik-yii-mkn"
+  "2TH":
+    name: "Tɛsalonik yii Bɔɔba"
+    slug: "tsalonik-yii-bba"
+  "1TI":
+    name: "Timote yii Mɛken"
+    slug: "timote-yii-mken"
+  "2TI":
+    name: "Timote yii Bɔɔba"
+    slug: "timote-yii-bba"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filem"
+  "HEB":
+    name: "Ebele"
+    slug: "ebele"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "Pyɛɛd yii Mɛkɛn"
+    slug: "pyd-yii-mkn"
+  "2PE":
+    name: "Pyɛɛd yii Bhɔɔba"
+    slug: "pyd-yii-bhba"
+  "1JN":
+    name: "Zaŋ yii Mɛkɛn"
+    slug: "za-yii-mkn"
+  "2JN":
+    name: "Zaŋ yii Bhɔɔba"
+    slug: "za-yii-bhba"
+  "3JN":
+    name: "Zaŋ yii Elɛl"
+    slug: "za-yii-ell"
+  "JUD":
+    name: "Zuud"
+    slug: "zuud"
+  "REV":
+    name: "Etɛp ɛ Sisim Zaŋ na bee"
+    slug: "etp-sisim-za-na-bee"

@@ -1,0 +1,200 @@
+language: "pdc"
+books:
+  "GEN":
+    name: "1. Mosi"
+    slug: "1-mosi"
+  "EXO":
+    name: "2. Mosi"
+    slug: "2-mosi"
+  "LEV":
+    name: "3. Mosi"
+    slug: "3-mosi"
+  "NUM":
+    name: "4. Mosi"
+    slug: "4-mosi"
+  "DEU":
+    name: "5. Mosi"
+    slug: "5-mosi"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Richtah"
+    slug: "richtah"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1. Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2. Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1. Kaynicha"
+    slug: "1-kaynicha"
+  "2KI":
+    name: "2. Kaynicha"
+    slug: "2-kaynicha"
+  "1CH":
+    name: "1. Chronik"
+    slug: "1-chronik"
+  "2CH":
+    name: "2. Chronik"
+    slug: "2-chronik"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Hiob"
+    slug: "hiob"
+  "PSA":
+    name: "Psalm"
+    slug: "psalm"
+  "PRO":
+    name: "Shpricha"
+    slug: "shpricha"
+  "ECC":
+    name: "Breddichah"
+    slug: "breddichah"
+  "SNG":
+    name: "Hohches Leet"
+    slug: "hohches-leet"
+  "ISA":
+    name: "Jesoiya"
+    slug: "jesoiya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Glawk-Leedah"
+    slug: "glawk-leedah"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Micha"
+    slug: "micha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zephania"
+    slug: "zephania"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sacharia"
+    slug: "sacharia"
+  "MAL":
+    name: "Maleachi"
+    slug: "maleachi"
+  "MAT":
+    name: "Matthäus"
+    slug: "matthaus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Di Apostelgeschichte"
+    slug: "di-apostelgeschichte"
+  "ROM":
+    name: "Römer"
+    slug: "romer"
+  "1CO":
+    name: "1. Korinther"
+    slug: "1-korinther"
+  "2CO":
+    name: "2. Korinther"
+    slug: "2-korinther"
+  "GAL":
+    name: "Galater"
+    slug: "galater"
+  "EPH":
+    name: "Epheser"
+    slug: "epheser"
+  "PHP":
+    name: "Philipper"
+    slug: "philipper"
+  "COL":
+    name: "Kolosser"
+    slug: "kolosser"
+  "1TH":
+    name: "1. Thessalonicher"
+    slug: "1-thessalonicher"
+  "2TH":
+    name: "2. Thessalonicher"
+    slug: "2-thessalonicher"
+  "1TI":
+    name: "1. Timotheus"
+    slug: "1-timotheus"
+  "2TI":
+    name: "2. Timotheus"
+    slug: "2-timotheus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebräer"
+    slug: "hebraer"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1. Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2. Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1. Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2. Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3. Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Di Offenbarung"
+    slug: "di-offenbarung"

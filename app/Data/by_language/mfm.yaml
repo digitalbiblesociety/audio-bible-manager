@@ -1,0 +1,74 @@
+language: "mfm"
+books:
+  "MAT":
+    name: "Matiwu"
+    slug: "matiwu"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahwana"
+    slug: "yahwana"
+  "1CO":
+    name: "1 Kwaranthli"
+    slug: "1-kwaranthli"
+  "2CO":
+    name: "2 Kwaranthli"
+    slug: "2-kwaranthli"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Fǝlipi"
+    slug: "flipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "Tasalonika Nǝ Tanggǝrma"
+    slug: "tasalonika-n-tanggrma"
+  "2TH":
+    name: "Tasalonika Nǝ Mǝthlǝu"
+    slug: "tasalonika-n-mthlu"
+  "1TI":
+    name: "Timathlawusu Nǝ Tanggǝrma"
+    slug: "timathlawusu-n-tanggrma"
+  "2TI":
+    name: "Timathlawusu Nǝ Mǝthlǝu"
+    slug: "timathlawusu-n-mthlu"
+  "TIT":
+    name: "Tayitusu"
+    slug: "tayitusu"
+  "PHM":
+    name: "Fǝlimonu"
+    slug: "flimonu"
+  "HEB":
+    name: "Ibraniya"
+    slug: "ibraniya"
+  "JAS":
+    name: "Jamisu"
+    slug: "jamisu"
+  "1PE":
+    name: "Biturusu Nǝ Tanggǝrma"
+    slug: "biturusu-n-tanggrma"
+  "2PE":
+    name: "Biturusu Nǝ Mǝthlǝu"
+    slug: "biturusu-n-mthlu"
+  "1JN":
+    name: "Yahwana Nǝ Tanggǝrma"
+    slug: "yahwana-n-tanggrma"
+  "2JN":
+    name: "Yahwana Nǝ Mǝthlǝkura nyi"
+    slug: "yahwana-n-mthlkura-nyi"
+  "3JN":
+    name: "Yahwana Nǝ Makǝrkura nyi"
+    slug: "yahwana-n-makrkura-nyi"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+  "REV":
+    name: "Mǝtakǝr Nǝ Yahwana"
+    slug: "mtakr-n-yahwana"

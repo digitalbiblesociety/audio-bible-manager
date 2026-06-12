@@ -1,0 +1,200 @@
+language: "bci"
+books:
+  "GEN":
+    name: "Bo Bolɛ"
+    slug: "bo-bol"
+  "EXO":
+    name: "Ezipt Lɔ Tulɛ'n"
+    slug: "ezipt-l-tul-n"
+  "LEV":
+    name: "Saun Yolɛ"
+    slug: "saun-yol"
+  "NUM":
+    name: "Kalɛ"
+    slug: "kal"
+  "DEU":
+    name: "Mmla'n"
+    slug: "mmla-n"
+  "JOS":
+    name: "Zozie"
+    slug: "zozie"
+  "JDG":
+    name: "Jɔlɛ Difuɛ Mun"
+    slug: "jl-difu-mun"
+  "RUT":
+    name: "Rit"
+    slug: "rit"
+  "1SA":
+    name: "1 Samiɛl"
+    slug: "1-samil"
+  "2SA":
+    name: "2 Samiɛl"
+    slug: "2-samil"
+  "1KI":
+    name: "1 Famiɛn Mun"
+    slug: "1-famin-mun"
+  "2KI":
+    name: "2 Famiɛn Mun"
+    slug: "2-famin-mun"
+  "1CH":
+    name: "1 Be Nyoliɛ"
+    slug: "1-be-nyoli"
+  "2CH":
+    name: "2 Be Nyoliɛ"
+    slug: "2-be-nyoli"
+  "EZR":
+    name: "Ɛsdras"
+    slug: "sdras"
+  "NEH":
+    name: "Neemi"
+    slug: "neemi"
+  "EST":
+    name: "Ɛstɛr"
+    slug: "str"
+  "JOB":
+    name: "Zɔb"
+    slug: "zb"
+  "PSA":
+    name: "Jue Mun"
+    slug: "jue-mun"
+  "PRO":
+    name: "Nyanndra Mun"
+    slug: "nyanndra-mun"
+  "ECC":
+    name: "Akunndanfuɛ'n"
+    slug: "akunndanfu-n"
+  "SNG":
+    name: "Ngɔjue Fɛfɛ Kpa'n"
+    slug: "ngjue-ff-kpa-n"
+  "ISA":
+    name: "Ezai"
+    slug: "ezai"
+  "JER":
+    name: "Zeremi"
+    slug: "zeremi"
+  "LAM":
+    name: "Ngwlɛ Yilɛ"
+    slug: "ngwl-yil"
+  "EZK":
+    name: "Ezekiɛl"
+    slug: "ezekil"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+  "JOL":
+    name: "Zoɛl"
+    slug: "zol"
+  "AMO":
+    name: "Amɔs"
+    slug: "ams"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Zonas"
+    slug: "zonas"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Naɔm"
+    slug: "nam"
+  "HAB":
+    name: "Abakik"
+    slug: "abakik"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Sa nga bé yôli'n"
+    slug: "sa-nga-be-yoli-n"
+  "ROM":
+    name: "Rɔmfuɛ Mun"
+    slug: "rmfu-mun"
+  "1CO":
+    name: "1 Korɛntfuɛ Mun"
+    slug: "1-korntfu-mun"
+  "2CO":
+    name: "2 Korɛntfuɛ Mun"
+    slug: "2-korntfu-mun"
+  "GAL":
+    name: "Galasifuɛ Mun"
+    slug: "galasifu-mun"
+  "EPH":
+    name: "Efɛzfuɛ Mun"
+    slug: "efzfu-mun"
+  "PHP":
+    name: "Filipfuɛ Mun"
+    slug: "filipfu-mun"
+  "COL":
+    name: "Kolɔsfuɛ Mun"
+    slug: "kolsfu-mun"
+  "1TH":
+    name: "1 Tɛsalonikfuɛ Mun"
+    slug: "1-tsalonikfu-mun"
+  "2TH":
+    name: "2 Tɛsalonikfuɛ Mun"
+    slug: "2-tsalonikfu-mun"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Hébreu"
+    slug: "hebreu"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "1 Piɛr"
+    slug: "1-pir"
+  "2PE":
+    name: "2 Piɛr"
+    slug: "2-pir"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zid"
+    slug: "zid"
+  "REV":
+    name: "Sa nglô yile"
+    slug: "sa-nglo-yile"

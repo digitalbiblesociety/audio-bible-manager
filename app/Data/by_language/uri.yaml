@@ -1,0 +1,20 @@
+language: "uri"
+books:
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "ACT":
+    name: "Aposel"
+    slug: "aposel"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "JAS":
+    name: "Jems"
+    slug: "jems"

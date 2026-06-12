@@ -1,0 +1,200 @@
+language: "als"
+books:
+  "GEN":
+    name: "Gjenezë"
+    slug: "gjeneze"
+  "EXO":
+    name: "Eksod"
+    slug: "eksod"
+  "LEV":
+    name: "Levitiku"
+    slug: "levitiku"
+  "NUM":
+    name: "Numrat"
+    slug: "numrat"
+  "DEU":
+    name: "Përtërirë"
+    slug: "perterire"
+  "JOS":
+    name: "Jozueu"
+    slug: "jozueu"
+  "JDG":
+    name: "Gjyqtarët"
+    slug: "gjyqtaret"
+  "RUT":
+    name: "Dhimbsuri"
+    slug: "dhimbsuri"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+  "1KI":
+    name: "1 Mbretër"
+    slug: "1-mbreter"
+  "2KI":
+    name: "2 Mbretër"
+    slug: "2-mbreter"
+  "1CH":
+    name: "1 Kronikave"
+    slug: "1-kronikave"
+  "2CH":
+    name: "2 Kronikave"
+    slug: "2-kronikave"
+  "EZR":
+    name: "Ezdra"
+    slug: "ezdra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Punë"
+    slug: "pune"
+  "PSA":
+    name: "Psalmet"
+    slug: "psalmet"
+  "PRO":
+    name: "Fjalët e Urta"
+    slug: "fjalet-e-urta"
+  "ECC":
+    name: "Predikuesi"
+    slug: "predikuesi"
+  "SNG":
+    name: "Kënga e Solomonit"
+    slug: "kenga-e-solomonit"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Vajtimet"
+    slug: "vajtimet"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+  "DAN":
+    name: "Danielin"
+    slug: "danielin"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadiahu"
+    slug: "obadiahu"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Mikea"
+    slug: "mikea"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+  "ZEP":
+    name: "Sofonian"
+    slug: "sofonian"
+  "HAG":
+    name: "Hageu"
+    slug: "hageu"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+  "MAL":
+    name: "Malakia"
+    slug: "malakia"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Shenjë"
+    slug: "shenje"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Nevojtore"
+    slug: "nevojtore"
+  "ACT":
+    name: "Aktet"
+    slug: "aktet"
+  "ROM":
+    name: "Romakëve"
+    slug: "romakeve"
+  "1CO":
+    name: "1 Korintianëve"
+    slug: "1-korintianeve"
+  "2CO":
+    name: "2 Korintianëve"
+    slug: "2-korintianeve"
+  "GAL":
+    name: "Galatasve"
+    slug: "galatasve"
+  "EPH":
+    name: "Efesianëve"
+    slug: "efesianeve"
+  "PHP":
+    name: "Filipianëve"
+    slug: "filipianeve"
+  "COL":
+    name: "Kolosianëve"
+    slug: "kolosianeve"
+  "1TH":
+    name: "1 Thesalonikasve"
+    slug: "1-thesalonikasve"
+  "2TH":
+    name: "2 Thesalonikasve"
+    slug: "2-thesalonikasve"
+  "1TI":
+    name: "1 Timoteut"
+    slug: "1-timoteut"
+  "2TI":
+    name: "2 Timoteut"
+    slug: "2-timoteut"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Hebrenjve"
+    slug: "hebrenjve"
+  "JAS":
+    name: "Xhejms"
+    slug: "xhejms"
+  "1PE":
+    name: "1 Pjetri"
+    slug: "1-pjetri"
+  "2PE":
+    name: "2 Pjetri"
+    slug: "2-pjetri"
+  "1JN":
+    name: "1 Gjon"
+    slug: "1-gjon"
+  "2JN":
+    name: "2 Gjon"
+    slug: "2-gjon"
+  "3JN":
+    name: "3 Gjon"
+    slug: "3-gjon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Zbulesa"
+    slug: "zbulesa"

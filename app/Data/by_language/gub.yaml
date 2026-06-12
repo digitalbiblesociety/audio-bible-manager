@@ -1,0 +1,200 @@
+language: "gub"
+books:
+  "GEN":
+    name: "Izypy Mehe Arer"
+    slug: "izypy-mehe-arer"
+  "EXO":
+    name: "Wahem Awer"
+    slug: "wahem-awer"
+  "LEV":
+    name: "Erewi"
+    slug: "erewi"
+  "NUM":
+    name: "Wapapar Awer"
+    slug: "wapapar-awer"
+  "DEU":
+    name: "Imume'u Wi Haw"
+    slug: "imumeu-wi-haw"
+  "JOS":
+    name: "Zuzue"
+    slug: "zuzue"
+  "JDG":
+    name: "Waneruze'egar Wà"
+    slug: "waneruzeegar-wa"
+  "RUT":
+    name: "Huxi"
+    slug: "huxi"
+  "1SA":
+    name: "1 Xamuew"
+    slug: "1-xamuew"
+  "2SA":
+    name: "2 Xamuew"
+    slug: "2-xamuew"
+  "1KI":
+    name: "1 Tuwihawete Wà"
+    slug: "1-tuwihawete-wa"
+  "2KI":
+    name: "2 Tuwihawete Wà"
+    slug: "2-tuwihawete-wa"
+  "1CH":
+    name: "1 Wamume'u Awer"
+    slug: "1-wamumeu-awer"
+  "2CH":
+    name: "2 Wamume'u Awer"
+    slug: "2-wamumeu-awer"
+  "EZR":
+    name: "Ezàrà"
+    slug: "ezara"
+  "NEH":
+    name: "Neemi"
+    slug: "neemi"
+  "EST":
+    name: "Eter"
+    slug: "eter"
+  "JOB":
+    name: "Izo"
+    slug: "izo"
+  "PSA":
+    name: "Zegar Haw"
+    slug: "zegar-haw"
+  "PRO":
+    name: "Ze'eg Xirogatu"
+    slug: "zeeg-xirogatu"
+  "ECC":
+    name: "Ma'e Kwaw Katu Har"
+    slug: "mae-kwaw-katu-har"
+  "SNG":
+    name: "Zegar Haw Ipuràg Wera'u Ma'e"
+    slug: "zegar-haw-ipurag-werau-mae"
+  "ISA":
+    name: "Izai"
+    slug: "izai"
+  "JER":
+    name: "Zeremi"
+    slug: "zeremi"
+  "LAM":
+    name: "Zemumikahy Haw"
+    slug: "zemumikahy-haw"
+  "EZK":
+    name: "Ezekiew"
+    slug: "ezekiew"
+  "DAN":
+    name: "Taniew"
+    slug: "taniew"
+  "HOS":
+    name: "Ozez"
+    slug: "ozez"
+  "JOL":
+    name: "Zoew"
+    slug: "zoew"
+  "AMO":
+    name: "Amoz"
+    slug: "amoz"
+  "OBA":
+    name: "Opaxi"
+    slug: "opaxi"
+  "JON":
+    name: "Zon"
+    slug: "zon"
+  "MIC":
+    name: "Mikez"
+    slug: "mikez"
+  "NAM":
+    name: "Nau"
+    slug: "nau"
+  "HAB":
+    name: "Amakuk"
+    slug: "amakuk"
+  "ZEP":
+    name: "Xoponi"
+    slug: "xoponi"
+  "HAG":
+    name: "Azew"
+    slug: "azew"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Maraki"
+    slug: "maraki"
+  "MAT":
+    name: "Matew"
+    slug: "matew"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Iruk"
+    slug: "iruk"
+  "JHN":
+    name: "Zuàw"
+    slug: "zuaw"
+  "ACT":
+    name: "Wanemiapo Kwer"
+    slug: "wanemiapo-kwer"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Karat"
+    slug: "karat"
+  "EPH":
+    name: "Ew"
+    slug: "ew"
+  "PHP":
+    name: "Piri"
+    slug: "piri"
+  "COL":
+    name: "Koro"
+    slug: "koro"
+  "1TH":
+    name: "1 Texaron"
+    slug: "1-texaron"
+  "2TH":
+    name: "2 Texaron"
+    slug: "2-texaron"
+  "1TI":
+    name: "1 Ximot"
+    slug: "1-ximot"
+  "2TI":
+    name: "2 Ximot"
+    slug: "2-ximot"
+  "TIT":
+    name: "Xit"
+    slug: "xit"
+  "PHM":
+    name: "Pirem"
+    slug: "pirem"
+  "HEB":
+    name: "Emerew Wà"
+    slug: "emerew-wa"
+  "JAS":
+    name: "Xiak"
+    slug: "xiak"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+  "1JN":
+    name: "1 Zuàw"
+    slug: "1-zuaw"
+  "2JN":
+    name: "2 Zuàw"
+    slug: "2-zuaw"
+  "3JN":
+    name: "3 Zuàw"
+    slug: "3-zuaw"
+  "JUD":
+    name: "Zut"
+    slug: "zut"
+  "REV":
+    name: "Apokarip"
+    slug: "apokarip"

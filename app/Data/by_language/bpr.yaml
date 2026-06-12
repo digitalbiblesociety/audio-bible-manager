@@ -1,0 +1,83 @@
+language: "bpr"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Dyan"
+    slug: "dyan"
+  "ACT":
+    name: "Dad Nimò"
+    slug: "dad-nimo"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "I Korintu"
+    slug: "i-korintu"
+  "2CO":
+    name: "II Korintu"
+    slug: "ii-korintu"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Ifisu"
+    slug: "ifisu"
+  "PHP":
+    name: "Filipus"
+    slug: "filipus"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "I Tésalonika"
+    slug: "i-tesalonika"
+  "2TH":
+    name: "II Tésalonika"
+    slug: "ii-tesalonika"
+  "1TI":
+    name: "I Timoti"
+    slug: "i-timoti"
+  "2TI":
+    name: "II Timoti"
+    slug: "ii-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimun"
+    slug: "filimun"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Dyém"
+    slug: "dyem"
+  "1PE":
+    name: "I Piter"
+    slug: "i-piter"
+  "2PE":
+    name: "II Piter"
+    slug: "ii-piter"
+  "1JN":
+    name: "I Dyan"
+    slug: "i-dyan"
+  "2JN":
+    name: "II Dyan"
+    slug: "ii-dyan"
+  "3JN":
+    name: "III Dyan"
+    slug: "iii-dyan"
+  "JUD":
+    name: "Dyud"
+    slug: "dyud"
+  "REV":
+    name: "Ta Fite"
+    slug: "ta-fite"

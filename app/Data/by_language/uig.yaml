@@ -1,0 +1,200 @@
+language: "uig"
+books:
+  "GEN":
+    name: "يارىتىلىش"
+    slug: "yarytylysh"
+  "EXO":
+    name: "مىسىردىن‭ ‬چىقىش‭ ‬"
+    slug: "mysyrdyn-chyqysh"
+  "LEV":
+    name: "لاۋىيلار"
+    slug: "lawiylar"
+  "NUM":
+    name: "چۆل‭-‬باياۋاندىكى‭ ‬سەپەر"
+    slug: "chol-bayawandyky-seper"
+  "DEU":
+    name: "قانۇن‭ ‬شەرھى"
+    slug: "qanun-sherhy"
+  "JOS":
+    name: "يەشۇئا"
+    slug: "yeshuia"
+  "JDG":
+    name: "باتۇر ھاكىملار"
+    slug: "batur-hakymlar"
+  "RUT":
+    name: "رۇت"
+    slug: "rut"
+  "1SA":
+    name: "سامۇئىل «1»"
+    slug: "samuiyl-1"
+  "2SA":
+    name: "سامۇئىل «2»"
+    slug: "samuiyl-2"
+  "1KI":
+    name: "پادىشاھلار «1»"
+    slug: "padyshahlar-1"
+  "2KI":
+    name: "پادىشاھلار «2»"
+    slug: "padyshahlar-2"
+  "1CH":
+    name: "تارىخ-تەزكىرە «1»"
+    slug: "tarykh-tezkyre-1"
+  "2CH":
+    name: "تارىخ-تەزكىرە «2»"
+    slug: "tarykh-tezkyre-2"
+  "EZR":
+    name: "ئەزرا"
+    slug: "iezra"
+  "NEH":
+    name: "نەھەمىيا"
+    slug: "nehemiya"
+  "EST":
+    name: "ئەستەر"
+    slug: "iester"
+  "JOB":
+    name: "ئايۇپ"
+    slug: "iayup"
+  "PSA":
+    name: "زەبۇر"
+    slug: "zebur"
+  "PRO":
+    name: "پەند-نەسىھەتلەر"
+    slug: "pend-nesyhetler"
+  "ECC":
+    name: "ھېكمەت توپلىغۇچى"
+    slug: "hekmet-twplyghuchy"
+  "SNG":
+    name: "كۈيلەرنىڭ كۈيى"
+    slug: "kuylernyng-kuiy"
+  "ISA":
+    name: "يەشايا"
+    slug: "yeshaya"
+  "JER":
+    name: "يەرەمىيا"
+    slug: "yeremiya"
+  "LAM":
+    name: "يەرەمىيانيڭ يىغا-زارلىرى"
+    slug: "yeremiyanyng-iygha-zarlyry"
+  "EZK":
+    name: "ئەزاكىيال"
+    slug: "iezakiyal"
+  "DAN":
+    name: "دانىيال"
+    slug: "daniyal"
+  "HOS":
+    name: "ھوشىيا"
+    slug: "hwshiya"
+  "JOL":
+    name: "يوئېل"
+    slug: "ywiel"
+  "AMO":
+    name: "ئاموس"
+    slug: "iamws"
+  "OBA":
+    name: "ئوبادىيا"
+    slug: "iwbadiya"
+  "JON":
+    name: "يۇنۇس"
+    slug: "yunus"
+  "MIC":
+    name: "مىكاھ"
+    slug: "mykah"
+  "NAM":
+    name: "ناھۇم"
+    slug: "nahum"
+  "HAB":
+    name: "ھاباككۇك"
+    slug: "habakkuk"
+  "ZEP":
+    name: "زەفانىيا"
+    slug: "zefaniya"
+  "HAG":
+    name: "ھاگاي"
+    slug: "hagay"
+  "ZEC":
+    name: "زەكەرىيا"
+    slug: "zekeriya"
+  "MAL":
+    name: "مالاكى"
+    slug: "malachy"
+  "MAT":
+    name: "ماتتا"
+    slug: "matta"
+  "MRK":
+    name: "ماركۇس"
+    slug: "markus"
+  "LUK":
+    name: "لۇقا"
+    slug: "luqa"
+  "JHN":
+    name: "يۇھاننا"
+    slug: "yuhanna"
+  "ACT":
+    name: "روسۇللارنىڭ پائالىيەتلىرى"
+    slug: "rwsullarnyng-paialiyetlyry"
+  "ROM":
+    name: "رىملىقلارغا"
+    slug: "rymlyqlargha"
+  "1CO":
+    name: "كورىنتۇسلۇقلارغا «1»"
+    slug: "kwryntusluqlargha-1"
+  "2CO":
+    name: "كورىنتۇسلۇقلارغا «2»"
+    slug: "kwryntusluqlargha-2"
+  "GAL":
+    name: "گالاتىيالىقلارغا"
+    slug: "galatiyalyqlargha"
+  "EPH":
+    name: "ئ‍ەفەسۇسلۇقلارغا"
+    slug: "iefesusluqlargha"
+  "PHP":
+    name: "فىلىپپىلىقلارغا"
+    slug: "fylyppylyqlargha"
+  "COL":
+    name: "كولوسسىلىكلەرگە"
+    slug: "kwlwssylyklerge"
+  "1TH":
+    name: "تېسالونىكالىقلارغا «1»"
+    slug: "tesalwnykalyqlargha-1"
+  "2TH":
+    name: "تېسالونىكالىقلارغا «2»"
+    slug: "tesalwnykalyqlargha-2"
+  "1TI":
+    name: "تىموتىيغا «1»"
+    slug: "tymwtiygha-1"
+  "2TI":
+    name: "تىموتىيغا «2»"
+    slug: "tymwtiygha-2"
+  "TIT":
+    name: "تىتۇسقا"
+    slug: "tytusqa"
+  "PHM":
+    name: "فىلېمونغا"
+    slug: "fylemwngha"
+  "HEB":
+    name: "ئىبرانىيلارغا"
+    slug: "iybraniylargha"
+  "JAS":
+    name: "ياقۇپ"
+    slug: "yaqup"
+  "1PE":
+    name: "پېترۇس «1»"
+    slug: "petrus-1"
+  "2PE":
+    name: "پېترۇس «2»"
+    slug: "petrus-2"
+  "1JN":
+    name: "يۇھاننا «1»"
+    slug: "yuhanna-1"
+  "2JN":
+    name: "يۇھاننا «2»"
+    slug: "yuhanna-2"
+  "3JN":
+    name: "يۇھاننا «3»"
+    slug: "yuhanna-3"
+  "JUD":
+    name: "يەھۇدا"
+    slug: "yehuda"
+  "REV":
+    name: "ۋەھىي"
+    slug: "wehiy"

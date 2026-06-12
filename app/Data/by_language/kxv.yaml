@@ -1,0 +1,80 @@
+language: "kxv"
+books:
+  "MAT":
+    name: "ମାତି"
+    slug: "mati"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "ACT":
+    name: "କାମା"
+    slug: "kama"
+  "ROM":
+    name: "ରମି"
+    slug: "rami"
+  "1CO":
+    name: "୧କର"
+    slug: "1kara"
+  "2CO":
+    name: "୨କର"
+    slug: "2kara"
+  "GAL":
+    name: "ଗାଲା"
+    slug: "gala"
+  "EPH":
+    name: "ଏପିସି"
+    slug: "episi"
+  "PHP":
+    name: "ପିଲିପି"
+    slug: "pilipi"
+  "COL":
+    name: "କଲସି"
+    slug: "kalasi"
+  "1TH":
+    name: "୧ତେସ"
+    slug: "1tesa"
+  "2TH":
+    name: "୨ତେସ"
+    slug: "2tesa"
+  "1TI":
+    name: "୧ତିମ"
+    slug: "1tima"
+  "2TI":
+    name: "୨ତିମ"
+    slug: "2tima"
+  "TIT":
+    name: "ତିତସ"
+    slug: "titasa"
+  "PHM":
+    name: "ପିଲିମ"
+    slug: "pilima"
+  "HEB":
+    name: "ଏବ୍ରି"
+    slug: "ebri"
+  "JAS":
+    name: "ଜାକୁବ"
+    slug: "jakuba"
+  "1PE":
+    name: "୧ପିତ"
+    slug: "1pita"
+  "2PE":
+    name: "୨ପିତ"
+    slug: "2pita"
+  "1JN":
+    name: "୧ଜହ"
+    slug: "1jaha"
+  "2JN":
+    name: "୨ଜହ"
+    slug: "2jaha"
+  "3JN":
+    name: "୩ଜହ"
+    slug: "3jaha"
+  "JUD":
+    name: "ଜୀହୁଦା"
+    slug: "jihuda"
+  "REV":
+    name: "ୱେ଼ ବ଼ଲୁ"
+    slug: "we-balu"

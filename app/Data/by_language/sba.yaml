@@ -1,0 +1,266 @@
+language: "sba"
+books:
+  "GEN":
+    name: "Gḭ-Néje"
+    slug: "gi-neje"
+    name_toc: "Tobiti sɛ́wɔ"
+  "EXO":
+    name: "Teḛ-Raga"
+    slug: "tee-raga"
+    name_toc: "Zuditi sɛ́wɔ"
+  "LEV":
+    name: "Ləbije"
+    slug: "lebije"
+    name_toc: "Ɛsitɛɛrɛ Grɛki Sɛ́wɔ"
+  "NUM":
+    name: "Bula lə Israɛlje"
+    slug: "bula-le-isralje"
+    name_toc: "Makaabee sɛ́wɔ"
+  "DEU":
+    name: "Tel tura Godndu"
+    slug: "tel-tura-godndu"
+    name_toc: "Makaabee sɛ́wɔ"
+  "JOS":
+    name: "Jujé"
+    slug: "juje"
+    name_toc: "Zɔbu sɛ́wɔ"
+  "JDG":
+    name: "Njéga̰g-Rəwtaje"
+    slug: "njegag-rewtaje"
+    name_toc: "Loen sɛ́wɔ"
+  "RUT":
+    name: "Rudu"
+    slug: "rudu"
+    name_toc: "Suusun sɛ́wɔ"
+  "1SA":
+    name: "1 Samel"
+    slug: "1-samel"
+    name_toc: "Boo-laakalaali a sɛ́wɔ"
+  "2SA":
+    name: "2 Samel"
+    slug: "2-samel"
+    name_toc: "Loe kɔɔ̃n kɔɔ̃n sɛ́wɔ"
+  "1KI":
+    name: "1 Mbaije"
+    slug: "1-mbaije"
+    name_toc: "Yiriwoorobaa ǹ sɛ́wɔ"
+  "2KI":
+    name: "2 Mbaije"
+    slug: "2-mbaije"
+    name_toc: "Yiriwoorobaa Sɛ́wɔ-kiɛ̃li"
+  "1CH":
+    name: "1 Sôrta Gḭka-Israɛlje"
+    slug: "1-sorta-gika-isralje"
+    name_toc: "Izayii sɛ́wɔ"
+  "2CH":
+    name: "2 Sôrta Gḭka Israɛlje"
+    slug: "2-sorta-gika-isralje"
+    name_toc: "Zeremii sɛ́wɔ"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Busii pɛ ǹ sɛ́wɔ"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Baruku sɛ́wɔ"
+  "EST":
+    name: "Este"
+    slug: "este"
+    name_toc: "Ezekieli sɛ́wɔ"
+  "JOB":
+    name: "Jɔb"
+    slug: "jb"
+    name_toc: "Ozee sɛ́wɔ"
+  "PSA":
+    name: "Pakɔsje"
+    slug: "paksje"
+    name_toc: "Zowɛli sɛ́wɔ"
+  "PRO":
+    name: "Gosota-Kəmkàrje"
+    slug: "gosota-kemkarje"
+    name_toc: "Amɔɔsi sɛ́wɔ"
+  "ECC":
+    name: "Njekillamber"
+    slug: "njekillamber"
+    name_toc: "Abdiasi sɛ́wɔ"
+  "SNG":
+    name: "Pa gə́ ur dɔ paje"
+    slug: "pa-ge-ur-d-paje"
+    name_toc: "Zonaasi sɛ́wɔ"
+  "ISA":
+    name: "Esai"
+    slug: "esai"
+    name_toc: "Misee sɛ́wɔ"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+    name_toc: "Nahumu sɛ́wɔ"
+  "LAM":
+    name: "Nɔ̰-ndôo gə́ wɔji dɔ Jerusalem"
+    slug: "n-ndoo-ge-wji-d-jerusalem"
+    name_toc: "Abakuku sɛ́wɔ"
+  "EZK":
+    name: "Ejekel"
+    slug: "ejekel"
+    name_toc: "Sofonii sɛ́wɔ"
+  "DAN":
+    name: "Loo gə́ killa rea kəm Daniel’g"
+    slug: "loo-ge-killa-rea-kem-danielg"
+    name_toc: "Azee sɛ́wɔ"
+  "HOS":
+    name: "Ojee"
+    slug: "ojee"
+    name_toc: "Zakarii sɛ́wɔ"
+  "JOL":
+    name: "Joɛl"
+    slug: "jol"
+    name_toc: "Malakii sɛ́wɔ"
+  "AMO":
+    name: "Amɔs"
+    slug: "ams"
+    name_toc: "Matiə a sɛ́wɔ"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+    name_toc: "Marki a sɛ́wɔ"
+  "JON":
+    name: "Junas"
+    slug: "junas"
+    name_toc: "Luku a sɛ́wɔ"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+    name_toc: "Zaãa sɛ́wɔ"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nya ǹ dín sɛ́wɔ"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Rɔmu minin sɛ́wɔ"
+  "ZEP":
+    name: "Soponi"
+    slug: "soponi"
+    name_toc: "Korɛnti minin sɛ́wɔ bibinaa"
+  "HAG":
+    name: "Ajee"
+    slug: "ajee"
+    name_toc: "Korɛnti minin sɛ́wɔ paabaa ǹ wɔ"
+  "ZEC":
+    name: "Jakari"
+    slug: "jakari"
+    name_toc: "Galaasi minin sɛ́wɔ"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+    name_toc: "Efɛɛzi minin sɛ́wɔ"
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+    name_toc: "Filipi minin sɛ́wɔ"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Kolɔɔsi minin sɛ́wɔ"
+  "LUK":
+    name: "Lugu"
+    slug: "lugu"
+    name_toc: "Tesaloniki minin sɛ́wɔ bibinaa"
+  "JHN":
+    name: "Ja̰"
+    slug: "ja"
+    name_toc: "Tesaloniki minin sɛ́wɔ paabaa ǹ wɔ"
+  "ACT":
+    name: "Néra Njékaḭkulaje"
+    slug: "nera-njekaikulaje"
+    name_toc: "Timote sɛ́wɔ bibinaa"
+  "ROM":
+    name: "Njé gə́ Rɔmə"
+    slug: "nje-ge-rme"
+    name_toc: "Timote sɛ́wɔ paabaa ǹ wɔ"
+  "1CO":
+    name: "1 Njé gə́ Kɔrḭtə"
+    slug: "1-nje-ge-krite"
+    name_toc: "Tiiti sɛ́wɔ"
+  "2CO":
+    name: "2 Njé gə́ Kɔrḭtə"
+    slug: "2-nje-ge-krite"
+    name_toc: "Filemɔn sɛ́wɔ"
+  "GAL":
+    name: "Njé gə́ Galati"
+    slug: "nje-ge-galati"
+    name_toc: "Ebrəə minin sɛ́wɔ"
+  "EPH":
+    name: "Njé gə́ Epesə"
+    slug: "nje-ge-epese"
+    name_toc: "Zaaki a sɛ́wɔ"
+  "PHP":
+    name: "Njé gə́ Pilibə"
+    slug: "nje-ge-pilibe"
+    name_toc: "Piɛrɛ a sɛ́wɔ bibinaa"
+  "COL":
+    name: "Njé gə́ Kolosə"
+    slug: "nje-ge-kolose"
+    name_toc: "Piɛrɛ a sɛ́wɔ paabaa ǹ wɔ"
+  "1TH":
+    name: "1 Njé gə́ Tesalonikə"
+    slug: "1-nje-ge-tesalonike"
+    name_toc: "Zaã a sɛ́wɔ bibinaa"
+  "2TH":
+    name: "2 Njé gə́ Tesalonikə"
+    slug: "2-nje-ge-tesalonike"
+    name_toc: "Zaã a sɛ́wɔ paabaa ǹ wɔ"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Zaãa sɛ́wɔ sɔɔbaa ǹ wɔ"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Zude a sɛ́wɔ"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+    name_toc: "Sii-nyaan sɛ́wɔ"
+  "PHM":
+    name: "Piləmɔ̰"
+    slug: "pilem"
+    name_toc: "Mulumbe Waina wa Yesu Klistu walalembwa ne Mateyo"
+  "HEB":
+    name: "Ǝbrəje"
+    slug: "breje"
+    name_toc: "Mulumbe Waina wa Yesu Klistu walalembwa ne Maliko"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+    name_toc: "Mulumbe Waina wa Yesu Klistu walalembwa ne Luka"
+  "1PE":
+    name: "1 Piɛrə"
+    slug: "1-pire"
+    name_toc: "Mulumbe waina wa Yesu Klistu walalembwa ne Yohane"
+  "2PE":
+    name: "2 Piɛrə"
+    slug: "2-pire"
+    name_toc: "Incito sha batumwa"
+  "1JN":
+    name: "1 Ja̰"
+    slug: "1-ja"
+    name_toc: "Kalata ya Paulo ku Baloma"
+  "2JN":
+    name: "2 Ja̰"
+    slug: "2-ja"
+    name_toc: "Kalata yakutanguna ya Paulo ku Bakolinto"
+  "3JN":
+    name: "3 Ja̰"
+    slug: "3-ja"
+    name_toc: "Kalata ya cibili ya Paulo ku Bakolinto"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Kalata ya Paulo ku Bagalatiya"
+  "REV":
+    name: "Loo gə́ killa rea kəm Ja̰’g"
+    slug: "loo-ge-killa-rea-kem-jag"
+    name_toc: "Kalata ya Paulo ku Baefenso"

@@ -1,0 +1,95 @@
+language: "bxh"
+books:
+  "GEN":
+    name: "Aba Fatubu"
+    slug: "aba-fatubu"
+  "EXO":
+    name: "Au'aulaha"
+    slug: "auaulaha"
+  "LEV":
+    name: "Lewitikusi"
+    slug: "lewitikusi"
+  "NUM":
+    name: "Namba"
+    slug: "namba"
+  "DEU":
+    name: "- Diutelonomi"
+    slug: "diutelonomi"
+  "JOS":
+    name: "Diyesuwa"
+    slug: "diyesuwa"
+  "JDG":
+    name: "Diyadidi"
+    slug: "diyadidi"
+  "RUT":
+    name: "Luta"
+    slug: "luta"
+  "1SA":
+    name: "1 Samuwela"
+    slug: "1-samuwela"
+  "2SA":
+    name: "2 Samuwela"
+    slug: "2-samuwela"
+  "1KI":
+    name: "1 Kin"
+    slug: "1-kin"
+  "2KI":
+    name: "2 Kin"
+    slug: "2-kin"
+  "2CH":
+    name: "2 Kolonikolo"
+    slug: "2-kolonikolo"
+  "EZR":
+    name: "Esela"
+    slug: "esela"
+  "NEH":
+    name: "Nehemaiya"
+    slug: "nehemaiya"
+  "JOB":
+    name: "Diyobi"
+    slug: "diyobi"
+  "PSA":
+    name: "Samsi"
+    slug: "samsi"
+  "PRO":
+    name: "Gaimumu"
+    slug: "gaimumu"
+  "ECC":
+    name: "Tau Guguya"
+    slug: "tau-guguya"
+  "ISA":
+    name: "Isaiya"
+    slug: "isaiya"
+  "JER":
+    name: "Delamaiya"
+    slug: "delamaiya"
+  "LAM":
+    name: "Lau Kapole"
+    slug: "lau-kapole"
+  "EZK":
+    name: "Isikiyeli"
+    slug: "isikiyeli"
+  "DAN":
+    name: "Daniyela"
+    slug: "daniyela"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "AMO":
+    name: "Eimosi"
+    slug: "eimosi"
+  "JON":
+    name: "Diyona"
+    slug: "diyona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "ZEC":
+    name: "Sekalaiya"
+    slug: "sekalaiya"
+  "MRK":
+    name: "Maleko"
+    slug: "maleko"
+  "ACT":
+    name: "Paisowa"
+    slug: "paisowa"

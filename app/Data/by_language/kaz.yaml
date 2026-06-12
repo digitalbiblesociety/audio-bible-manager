@@ -1,0 +1,266 @@
+language: "kaz"
+books:
+  "GEN":
+    name: "Жаратылыстың баст."
+    slug: "zaratylystyn-bast"
+    name_toc: "Жаратылыстың басталуы"
+  "EXO":
+    name: "Мысырдан шығу"
+    slug: "mysyrdan-sygu"
+    name_toc: "Мысырдан көшіп шығу"
+  "LEV":
+    name: "Леуіліктер"
+    slug: "leuilikter"
+    name_toc: "Леуіліктер"
+  "NUM":
+    name: "Руларды санау"
+    slug: "rulardy-sanau"
+    name_toc: "Руларды санау"
+  "DEU":
+    name: "Заңды қайталау"
+    slug: "zandy-kajtalau"
+    name_toc: "Заңды қайталау"
+  "JOS":
+    name: "Ешуа"
+    slug: "esua"
+    name_toc: "Ешуа"
+  "JDG":
+    name: "Билер"
+    slug: "biler"
+    name_toc: "Билер"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+    name_toc: "Рут"
+  "1SA":
+    name: "Патшалықтар 1-ж."
+    slug: "patsalyktar-1-z"
+    name_toc: "Патшалықтар туралы бірінші жазба"
+  "2SA":
+    name: "Патшалықтар 2-ж."
+    slug: "patsalyktar-2-z"
+    name_toc: "Патшалықтар туралы екінші жазба"
+  "1KI":
+    name: "Патшалықтар 3-ж."
+    slug: "patsalyktar-3-z"
+    name_toc: "Патшалықтар туралы үшінші жазба"
+  "2KI":
+    name: "Патшалықтар 4-ж."
+    slug: "patsalyktar-4-z"
+    name_toc: "Патшалықтар туралы төртінші жазба"
+  "1CH":
+    name: "Шежірелер 1-ж."
+    slug: "sezireler-1-z"
+    name_toc: "Шежірелер туралы бірінші жазба"
+  "2CH":
+    name: "Шежірелер 2-ж."
+    slug: "sezireler-2-z"
+    name_toc: "Шежірелер туралы екінші жазба"
+  "EZR":
+    name: "Езра"
+    slug: "ezra"
+    name_toc: "Езра"
+  "NEH":
+    name: "Нехемия"
+    slug: "nehemia"
+    name_toc: "Нехемия"
+  "EST":
+    name: "Естер"
+    slug: "ester"
+    name_toc: "Естер"
+  "JOB":
+    name: "Әйүп"
+    slug: "jup"
+    name_toc: "Әйүп"
+  "PSA":
+    name: "Забур жырлары"
+    slug: "zabur-zyrlary"
+    name_toc: "Забур жырлары"
+  "PRO":
+    name: "Нақыл сөздер"
+    slug: "nakyl-sozder"
+    name_toc: "Нақыл сөздер"
+  "ECC":
+    name: "Уағыздаушы"
+    slug: "uagyzdausy"
+    name_toc: "Даналықты уағыздаушы"
+  "SNG":
+    name: "Таңдаулы ән"
+    slug: "tandauly-n"
+    name_toc: "Сүлейменнің таңдаулы әні"
+  "ISA":
+    name: "Ишая"
+    slug: "isaa"
+    name_toc: "Ишая пайғамбар"
+  "JER":
+    name: "Еремия"
+    slug: "eremia"
+    name_toc: "Еремия пайғамбар"
+  "LAM":
+    name: "Жоқтау"
+    slug: "zoktau"
+    name_toc: "Еремияның жоқтауы"
+  "EZK":
+    name: "Езекиел"
+    slug: "ezekiel"
+    name_toc: "Езекиел пайғамбар"
+  "DAN":
+    name: "Даниял"
+    slug: "danial"
+    name_toc: "Даниял пайғамбар"
+  "HOS":
+    name: "Ошия"
+    slug: "osia"
+    name_toc: "Ошия пайғамбар"
+  "JOL":
+    name: "Жоел"
+    slug: "zoel"
+    name_toc: "Жоел пайғамбар"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+    name_toc: "Амос пайғамбар"
+  "OBA":
+    name: "Абди"
+    slug: "abdi"
+    name_toc: "Абди пайғамбар"
+  "JON":
+    name: "Жүніс"
+    slug: "zunis"
+    name_toc: "Жүніс пайғамбар"
+  "MIC":
+    name: "Миха"
+    slug: "miha"
+    name_toc: "Миха пайғамбар"
+  "NAM":
+    name: "Нақұм"
+    slug: "nakum"
+    name_toc: "Нақұм пайғамбар"
+  "HAB":
+    name: "Аббақұқ"
+    slug: "abbakuk"
+    name_toc: "Аббақұқ пайғамбар"
+  "ZEP":
+    name: "Софония"
+    slug: "sofonia"
+    name_toc: "Софония пайғамбар"
+  "HAG":
+    name: "Хаққай"
+    slug: "hakkaj"
+    name_toc: "Хаққай пайғамбар"
+  "ZEC":
+    name: "Зәкәрия"
+    slug: "zkria"
+    name_toc: "Зәкәрия пайғамбар"
+  "MAL":
+    name: "Малахи"
+    slug: "malahi"
+    name_toc: "Малахи пайғамбар"
+  "MAT":
+    name: "Матай"
+    slug: "mataj"
+    name_toc: "Матай жазған Ізгі хабар"
+  "MRK":
+    name: "Марқа"
+    slug: "marka"
+    name_toc: "Марқа жазған Ізгі хабар"
+  "LUK":
+    name: "Лұқа"
+    slug: "luka"
+    name_toc: "Лұқа жазған Ізгі хабар"
+  "JHN":
+    name: "Жохан"
+    slug: "zohan"
+    name_toc: "Жохан жазған Ізгі хабар"
+  "ACT":
+    name: "Елшілер"
+    slug: "elsiler"
+    name_toc: "Елшілердің істері"
+  "ROM":
+    name: "Римдіктерге"
+    slug: "rimdikterge"
+    name_toc: "Римдіктерге арналған хат"
+  "1CO":
+    name: "Қорынттықтарға 1"
+    slug: "korynttyktarga-1"
+    name_toc: "Қорынттықтарға арналған бірінші хат"
+  "2CO":
+    name: "Қорынттықтарға 2"
+    slug: "korynttyktarga-2"
+    name_toc: "Қорынттықтарға арналған екінші хат"
+  "GAL":
+    name: "Ғалаттықтарға"
+    slug: "galattyktarga"
+    name_toc: "Ғалаттықтарға арналған хат"
+  "EPH":
+    name: "Ефестіктерге"
+    slug: "efestikterge"
+    name_toc: "К ЕфесянамЕфестіктерге арналған хат"
+  "PHP":
+    name: "Філіпіліктерге"
+    slug: "filipilikterge"
+    name_toc: "Філіпіліктерге арналған хат"
+  "COL":
+    name: "Қолостықтарға"
+    slug: "kolostyktarga"
+    name_toc: "Қолостықтарға арналған хат"
+  "1TH":
+    name: "Салониқал. 1-хат"
+    slug: "salonikal-1-hat"
+    name_toc: "Салониқалықтарға арналған бірінші хат"
+  "2TH":
+    name: "Салониқал. 2-хат"
+    slug: "salonikal-2-hat"
+    name_toc: "Салониқалықтарға арналған екінші хат"
+  "1TI":
+    name: "Тимотейге 1"
+    slug: "timotejge-1"
+    name_toc: "Тимотейге арналған бірінші хат"
+  "2TI":
+    name: "Тимотейге 2"
+    slug: "timotejge-2"
+    name_toc: "Тимотейге арналған екінші хат"
+  "TIT":
+    name: "Титке"
+    slug: "titke"
+    name_toc: "Титке арналған хат"
+  "PHM":
+    name: "Філимонға"
+    slug: "filimonga"
+    name_toc: "Філимонға арналған хат"
+  "HEB":
+    name: "Еврейлерге"
+    slug: "evrejlerge"
+    name_toc: "Еврейлерге арналған хат"
+  "JAS":
+    name: "Жақып"
+    slug: "zakyp"
+    name_toc: "Жақыптың хаты"
+  "1PE":
+    name: "Петір 1"
+    slug: "petir-1"
+    name_toc: "Петірдің бірінші хаты"
+  "2PE":
+    name: "Петір 2"
+    slug: "petir-2"
+    name_toc: "Петірдің екінші хаты"
+  "1JN":
+    name: "Жохан 1"
+    slug: "zohan-1"
+    name_toc: "Жоханның бірінші хаты"
+  "2JN":
+    name: "Жохан 2"
+    slug: "zohan-2"
+    name_toc: "Жоханның екінші хаты"
+  "3JN":
+    name: "Жохан 3"
+    slug: "zohan-3"
+    name_toc: "Жоханның үшінші хаты"
+  "JUD":
+    name: "Яһуда"
+    slug: "ahuda"
+    name_toc: "Яһуданың хаты"
+  "REV":
+    name: "Аян"
+    slug: "aan"
+    name_toc: "Аян"

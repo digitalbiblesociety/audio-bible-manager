@@ -1,0 +1,83 @@
+language: "zin"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Amakúlu ge Entumwa"
+    slug: "amakulu-ge-entumwa"
+  "ROM":
+    name: "Abarúumi"
+    slug: "abaruumi"
+  "1CO":
+    name: "1 Abakorinto"
+    slug: "1-abakorinto"
+  "2CO":
+    name: "2 Abakorinto"
+    slug: "2-abakorinto"
+  "GAL":
+    name: "Abagalatia"
+    slug: "abagalatia"
+  "EPH":
+    name: "Abaefeso"
+    slug: "abaefeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+  "COL":
+    name: "Abakolosai"
+    slug: "abakolosai"
+  "1TH":
+    name: "1 Abateesalonike"
+    slug: "1-abateesalonike"
+  "2TH":
+    name: "2 Abateesalonike"
+    slug: "2-abateesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Abahebrania"
+    slug: "abahebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Peétero"
+    slug: "1-peetero"
+  "2PE":
+    name: "2 Peétero"
+    slug: "2-peetero"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Okusuululilwa"
+    slug: "okusuululilwa"

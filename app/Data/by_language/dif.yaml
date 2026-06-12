@@ -1,0 +1,83 @@
+language: "dif"
+books:
+  "MAT":
+    name: "Matthaeungundru"
+    slug: "matthaeungundru"
+  "MRK":
+    name: "Markungundru"
+    slug: "markungundru"
+  "LUK":
+    name: "Lucangundru"
+    slug: "lucangundru"
+  "JHN":
+    name: "Johanningundru"
+    slug: "johanningundru"
+  "ACT":
+    name: "Apostel"
+    slug: "apostel"
+  "ROM":
+    name: "Romalani"
+    slug: "romalani"
+  "1CO":
+    name: "1 Korinthalani"
+    slug: "1-korinthalani"
+  "2CO":
+    name: "2 Korinthalani"
+    slug: "2-korinthalani"
+  "GAL":
+    name: "Galatalani"
+    slug: "galatalani"
+  "EPH":
+    name: "Ephesalani"
+    slug: "ephesalani"
+  "PHP":
+    name: "Philippalani"
+    slug: "philippalani"
+  "COL":
+    name: "Kolossalani"
+    slug: "kolossalani"
+  "1TH":
+    name: "1 Thessalonichalani."
+    slug: "1-thessalonichalani"
+  "2TH":
+    name: "2 Thessalonichalani"
+    slug: "2-thessalonichalani"
+  "1TI":
+    name: "1 Timotheungu"
+    slug: "1-timotheungu"
+  "2TI":
+    name: "2 Timotheungu"
+    slug: "2-timotheungu"
+  "TIT":
+    name: "Titungu"
+    slug: "titungu"
+  "PHM":
+    name: "Philemoningu"
+    slug: "philemoningu"
+  "HEB":
+    name: "Hebräer"
+    slug: "hebraer"
+  "JAS":
+    name: "Jakobungundru"
+    slug: "jakobungundru"
+  "1PE":
+    name: "1 Petrungundru"
+    slug: "1-petrungundru"
+  "2PE":
+    name: "2 Petrungundru"
+    slug: "2-petrungundru"
+  "1JN":
+    name: "1 Johanningundru"
+    slug: "1-johanningundru"
+  "2JN":
+    name: "2 Johanningundru"
+    slug: "2-johanningundru"
+  "3JN":
+    name: "3 Johanningundru"
+    slug: "3-johanningundru"
+  "JUD":
+    name: "Judasangundru"
+    slug: "judasangundru"
+  "REV":
+    name: "Tinkari"
+    slug: "tinkari"

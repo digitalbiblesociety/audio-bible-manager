@@ -1,0 +1,5 @@
+language: "hvn"
+books:
+  "MRK":
+    name: "Maꞌu"
+    slug: "mau"

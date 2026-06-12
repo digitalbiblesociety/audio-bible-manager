@@ -1,0 +1,200 @@
+language: "yal"
+books:
+  "GEN":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "EXO":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "LEV":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "NUM":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "DEU":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JOS":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JDG":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "RUT":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1SA":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2SA":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1KI":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2KI":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1CH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2CH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "EZR":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "NEH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "EST":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JOB":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "PSA":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "PRO":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ECC":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "SNG":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ISA":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JER":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "LAM":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "EZK":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "DAN":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "HOS":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JOL":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "AMO":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "OBA":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JON":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "MIC":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "NAM":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "HAB":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ZEP":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "HAG":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ZEC":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "MAL":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "MAT":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "MRK":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "LUK":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "JHN":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ACT":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "ROM":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1CO":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2CO":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "GAL":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "EPH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "PHP":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "COL":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1TH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2TH":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "1TI":
+    name: "Timɔte Singen Sora"
+    slug: "timte-singen-sora"
+  "2TI":
+    name: "2Ti"
+    slug: "2ti"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Phm"
+    slug: "phm"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1PE":
+    name: "1Pe"
+    slug: "1pe"
+  "2PE":
+    name: "2Pe"
+    slug: "2pe"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"
+  "2JN":
+    name: "2Jn"
+    slug: "2jn"
+  "3JN":
+    name: "3Jn"
+    slug: "3jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Rev"
+    slug: "rev"

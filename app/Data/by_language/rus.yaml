@@ -1,0 +1,200 @@
+language: "rus"
+books:
+  "GEN":
+    name: "Бытие"
+    slug: "bytie"
+  "EXO":
+    name: "Исход"
+    slug: "ishod"
+  "LEV":
+    name: "Левит"
+    slug: "levit"
+  "NUM":
+    name: "Числа"
+    slug: "cisla"
+  "DEU":
+    name: "Второзаконие"
+    slug: "vtorozakonie"
+  "JOS":
+    name: "Иисус Навин"
+    slug: "iisus-navin"
+  "JDG":
+    name: "Судьи"
+    slug: "sudi"
+  "RUT":
+    name: "Руфь"
+    slug: "ruf"
+  "1SA":
+    name: "1 Царств"
+    slug: "1-carstv"
+  "2SA":
+    name: "2 Царств"
+    slug: "2-carstv"
+  "1KI":
+    name: "3 Царств"
+    slug: "3-carstv"
+  "2KI":
+    name: "4 Царств"
+    slug: "4-carstv"
+  "1CH":
+    name: "1 Летопись"
+    slug: "1-letopis"
+  "2CH":
+    name: "2 Летопись"
+    slug: "2-letopis"
+  "EZR":
+    name: "Ездра"
+    slug: "ezdra"
+  "NEH":
+    name: "Неемия"
+    slug: "neemia"
+  "EST":
+    name: "Есфирь"
+    slug: "esfir"
+  "JOB":
+    name: "Иов"
+    slug: "iov"
+  "PSA":
+    name: "Псалом"
+    slug: "psalom"
+  "PRO":
+    name: "Притчи"
+    slug: "pritci"
+  "ECC":
+    name: "Екклесиаст"
+    slug: "ekklesiast"
+  "SNG":
+    name: "Песнь Соломона"
+    slug: "pesn-solomona"
+  "ISA":
+    name: "Исаия"
+    slug: "isaia"
+  "JER":
+    name: "Иеремия"
+    slug: "ieremia"
+  "LAM":
+    name: "Плач Иеремии"
+    slug: "plac-ieremii"
+  "EZK":
+    name: "Иезекииль"
+    slug: "iezekiil"
+  "DAN":
+    name: "Даниил"
+    slug: "daniil"
+  "HOS":
+    name: "Осия"
+    slug: "osia"
+  "JOL":
+    name: "Иоиль"
+    slug: "ioil"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+  "OBA":
+    name: "Авдий"
+    slug: "avdij"
+  "JON":
+    name: "Иона"
+    slug: "iona"
+  "MIC":
+    name: "Михей"
+    slug: "mihej"
+  "NAM":
+    name: "Наум"
+    slug: "naum"
+  "HAB":
+    name: "Аввакум"
+    slug: "avvakum"
+  "ZEP":
+    name: "Софония"
+    slug: "sofonia"
+  "HAG":
+    name: "Аггей"
+    slug: "aggej"
+  "ZEC":
+    name: "Захария"
+    slug: "zaharia"
+  "MAL":
+    name: "Малахия"
+    slug: "malahia"
+  "MAT":
+    name: "От Матфея"
+    slug: "ot-matfea"
+  "MRK":
+    name: "От Марка"
+    slug: "ot-marka"
+  "LUK":
+    name: "От Луки"
+    slug: "ot-luki"
+  "JHN":
+    name: "От Иоанна"
+    slug: "ot-ioanna"
+  "ACT":
+    name: "Деяния"
+    slug: "deania"
+  "ROM":
+    name: "К Римлянам"
+    slug: "k-rimlanam"
+  "1CO":
+    name: "1-е к Коринфянам"
+    slug: "1-e-k-korinfanam"
+  "2CO":
+    name: "2-е к Коринфянам"
+    slug: "2-e-k-korinfanam"
+  "GAL":
+    name: "К Галатам"
+    slug: "k-galatam"
+  "EPH":
+    name: "К Ефесянам"
+    slug: "k-efesanam"
+  "PHP":
+    name: "К Филиппийцам"
+    slug: "k-filippijcam"
+  "COL":
+    name: "К Колоссянам"
+    slug: "k-kolossanam"
+  "1TH":
+    name: "1-е к Фессалоникийцам"
+    slug: "1-e-k-fessalonikijcam"
+  "2TH":
+    name: "2-е к Фессалоникийцам"
+    slug: "2-e-k-fessalonikijcam"
+  "1TI":
+    name: "1-е к Тимофею"
+    slug: "1-e-k-timofeu"
+  "2TI":
+    name: "2-е к Тимофею"
+    slug: "2-e-k-timofeu"
+  "TIT":
+    name: "К Титу"
+    slug: "k-titu"
+  "PHM":
+    name: "К Филимону"
+    slug: "k-filimonu"
+  "HEB":
+    name: "К Евреям"
+    slug: "k-evream"
+  "JAS":
+    name: "Иакова"
+    slug: "iakova"
+  "1PE":
+    name: "1-е Петра"
+    slug: "1-e-petra"
+  "2PE":
+    name: "2-е Петра"
+    slug: "2-e-petra"
+  "1JN":
+    name: "1-е Иоанна"
+    slug: "1-e-ioanna"
+  "2JN":
+    name: "2-е Иоанна"
+    slug: "2-e-ioanna"
+  "3JN":
+    name: "3-е Иоанна"
+    slug: "3-e-ioanna"
+  "JUD":
+    name: "Иуды"
+    slug: "iudy"
+  "REV":
+    name: "Откровение"
+    slug: "otkrovenie"

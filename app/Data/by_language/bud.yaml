@@ -1,0 +1,83 @@
+language: "bud"
+books:
+  "MAT":
+    name: "Maatiu"
+    slug: "maatiu"
+  "MRK":
+    name: "Maarki"
+    slug: "maarki"
+  "LUK":
+    name: "Luuki"
+    slug: "luuki"
+  "JHN":
+    name: "Jaan"
+    slug: "jaan"
+  "ACT":
+    name: "Atuun"
+    slug: "atuun"
+  "ROM":
+    name: "Room"
+    slug: "room"
+  "1CO":
+    name: "Kɔranti 1"
+    slug: "kranti-1"
+  "2CO":
+    name: "Kɔranti 2"
+    slug: "kranti-2"
+  "GAL":
+    name: "Gaalaati"
+    slug: "gaalaati"
+  "EPH":
+    name: "Eefeesi"
+    slug: "eefeesi"
+  "PHP":
+    name: "Fiiliipi"
+    slug: "fiiliipi"
+  "COL":
+    name: "Kooloosi"
+    slug: "kooloosi"
+  "1TH":
+    name: "Teesaalooniiki 1"
+    slug: "teesaalooniiki-1"
+  "2TH":
+    name: "Teesaalooniiki 2"
+    slug: "teesaalooniiki-2"
+  "1TI":
+    name: "Tiimootee 1"
+    slug: "tiimootee-1"
+  "2TI":
+    name: "Tiimootee 2"
+    slug: "tiimootee-2"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+  "PHM":
+    name: "Fiileemɔn"
+    slug: "fiileemn"
+  "HEB":
+    name: "Eebru"
+    slug: "eebru"
+  "JAS":
+    name: "Jaaki"
+    slug: "jaaki"
+  "1PE":
+    name: "Piyeer 1"
+    slug: "piyeer-1"
+  "2PE":
+    name: "Piyeer 2"
+    slug: "piyeer-2"
+  "1JN":
+    name: "Jaan 1"
+    slug: "jaan-1"
+  "2JN":
+    name: "Jaan 2"
+    slug: "jaan-2"
+  "3JN":
+    name: "Jaan 3"
+    slug: "jaan-3"
+  "JUD":
+    name: "Juudi"
+    slug: "juudi"
+  "REV":
+    name: "Dileedakal"
+    slug: "dileedakal"

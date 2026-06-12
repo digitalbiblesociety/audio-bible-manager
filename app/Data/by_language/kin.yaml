@@ -1,0 +1,314 @@
+language: "kin"
+books:
+  "GEN":
+    name: "Itangiriro"
+    slug: "itangiriro"
+    name_toc: "Igitabo Cya Mose Cya Mbere Cyitwa Itangiriro"
+  "EXO":
+    name: "Kuva"
+    slug: "kuva"
+    name_toc: "Igitabo Cya Mose Cya Kabiri Cyitwa Kuva"
+  "LEV":
+    name: "Abalewi"
+    slug: "abalewi"
+    name_toc: "Igitabo Cya Mose Cya Gatatu Cyitwa Iby'abalewi"
+  "NUM":
+    name: "Kubara"
+    slug: "kubara"
+    name_toc: "Igitabo Cya Mose Cya Kane Cyitwa Kubara"
+  "DEU":
+    name: "Ivugururamategeko"
+    slug: "ivugururamategeko"
+    name_toc: "Ivugururamategeko"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+    name_toc: "Yosuwa"
+  "JDG":
+    name: "Abacamanza"
+    slug: "abacamanza"
+    name_toc: "Abacamanza"
+  "RUT":
+    name: "Rusi"
+    slug: "rusi"
+    name_toc: "Igitabo Cya Rusi"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Igitabo Cya Mbere Cya Samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Igitabo Cya Kabiri Cya Samweli"
+  "1KI":
+    name: "1 Abami"
+    slug: "1-abami"
+    name_toc: "Igitabo Cya Mbere Cy'abami"
+  "2KI":
+    name: "2 Abami"
+    slug: "2-abami"
+    name_toc: "Igitabo Cya Kabiri Cy'abami"
+  "1CH":
+    name: "1 Ngoma"
+    slug: "1-ngoma"
+    name_toc: "Igitabo Cya Mbere Cy'ibyo Ku Ngoma"
+  "2CH":
+    name: "2 Ngoma"
+    slug: "2-ngoma"
+    name_toc: "Igitabo Cya Kabiri Cy'ibyo Ku Ngoma"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Igitabo Cya Ezira"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Igitabo Cya Nehemiya"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "Igitabo Cya Esiteri"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Igitabo Cya Yobu"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+    name_toc: "Zaburi"
+  "PRO":
+    name: "Imigani"
+    slug: "imigani"
+    name_toc: "Igitabo Cy'imigani"
+  "ECC":
+    name: "Umubwiriza"
+    slug: "umubwiriza"
+    name_toc: "Igitabo Cy'umubwiriza"
+  "SNG":
+    name: "Indirimbo ihebuje"
+    slug: "indirimbo-ihebuje"
+    name_toc: "Indirimbo Ihebuje"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+    name_toc: "Igitabo Cya Ezayi"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+    name_toc: "Igitabo Cy'umuhanuzi Yeremiya"
+  "LAM":
+    name: "Amaganya"
+    slug: "amaganya"
+    name_toc: "Igitabo Cy'amaganya"
+  "EZK":
+    name: "Ezekiyeli"
+    slug: "ezekiyeli"
+    name_toc: "Igitabo Cya Ezekiyeli"
+  "DAN":
+    name: "Daniyeli"
+    slug: "daniyeli"
+    name_toc: "Igitabo Cy'umuhanuzi Daniyeli"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Igitabo Cy'umuhanuzi Hoseya"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+    name_toc: "Igitabo Cy'umuhanuzi Yoweli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Igitabo Cy'umuhanuzi Amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Igitabo Cy'umuhanuzi Obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Igitabo Cy'umuhanuzi Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Igitabo Cy'umuhanuzi Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Igitabo Cy'umuhanuzi Nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Igitabo Cy'umuhanuzi Habakuki"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Igitabo Cy'umuhanuzi Zefaniya"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+    name_toc: "Igitabo Cy'umuhanuzi Hagayi"
+  "ZEC":
+    name: "Zekariya"
+    slug: "zekariya"
+    name_toc: "Igitabo Cy'umuhanuzi Zekariya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Igitabo Cy'umuhanuzi Malaki"
+  "TOB":
+    name: "Tobi"
+    slug: "tobi"
+    name_toc: "Igitabo cya Tobi IJAMBO RY’IBANZE"
+  "JDT":
+    name: "Yudita"
+    slug: "yudita"
+    name_toc: "Igitabo Cya Yudita"
+  "ESG":
+    name: "Esitera"
+    slug: "esitera"
+    name_toc: "Igitabo cya Esitera IJAMBO RY’IBANZE"
+  "WIS":
+    name: "Ubuhanga"
+    slug: "ubuhanga"
+    name_toc: "Igitabo Cy'ubuhanga"
+  "SIR":
+    name: "Mwene Siraki"
+    slug: "mwene-siraki"
+    name_toc: "Igitabo Cya Mwene Siraki"
+  "BAR":
+    name: "Baruki"
+    slug: "baruki"
+    name_toc: "Igitabo Cya Baruki"
+  "LJE":
+    name: "Ibaruwa ya Yeremiya"
+    slug: "ibaruwa-ya-yeremiya"
+    name_toc: "Ibaruwa ya Yeremiya"
+  "S3Y":
+    name: "Ibyongewe ku gitabo cya Daniyeli"
+    slug: "ibyongewe-ku-gitabo-cya-daniyeli"
+    name_toc: "Ibyongewe Ku Gitabo Cya Daniyeli"
+  "SUS":
+    name: "Suzana"
+    slug: "suzana"
+    name_toc: "Igitabo Cya Suzana"
+  "BEL":
+    name: "Beli"
+    slug: "beli"
+    name_toc: "Beli N'ikiyoka"
+  "1MA":
+    name: "1 Abamakabe"
+    slug: "1-abamakabe"
+    name_toc: "Igitabo Cya Mbere Cy'abamakabe"
+  "2MA":
+    name: "2 Abamakabe"
+    slug: "2-abamakabe"
+    name_toc: "Igitabo Cya Kabiri Cy'abamakabe"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Ubutumwa Bwiza Uko Bwanditswe Na Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Ubutumwa Bwiza Uko Bwanditswe Na Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ubutumwa Bwiza Uko Bwanditswe Na Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ubutumwa Bwiza Uko Bwanditswe Na Yohana"
+  "ACT":
+    name: "Ibyakozwe"
+    slug: "ibyakozwe"
+    name_toc: "Ibyakozwe n’Intumwa IJAMBO RY’IBANZE"
+  "ROM":
+    name: "Abaroma"
+    slug: "abaroma"
+    name_toc: "Urwandiko Pawulo Yandikiye Abaroma"
+  "1CO":
+    name: "1 Abakorinto"
+    slug: "1-abakorinto"
+    name_toc: "Urwandiko Rwa Mbere Pawulo Yandikiye Abakorinto"
+  "2CO":
+    name: "2 Abakorinto"
+    slug: "2-abakorinto"
+    name_toc: "Urwandiko Rwa Kabiri Pawulo Yandikiye Abakorinto"
+  "GAL":
+    name: "Abagalatiya"
+    slug: "abagalatiya"
+    name_toc: "Urwandiko Pawulo Yandikiye Abagalatiya"
+  "EPH":
+    name: "Abefeso"
+    slug: "abefeso"
+    name_toc: "Urwandiko Pawulo Yandikiye Abefeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+    name_toc: "Urwandiko Pawulo Yandikiye Abafilipi"
+  "COL":
+    name: "Abakolosayi"
+    slug: "abakolosayi"
+    name_toc: "Urwandiko Pawulo Yandikiye Abakolosayi"
+  "1TH":
+    name: "1 Abatesalonike"
+    slug: "1-abatesalonike"
+    name_toc: "Urwandiko Rwa Mbere Pawulo Yandikiye Abatesalonike"
+  "2TH":
+    name: "2 Abatesalonike"
+    slug: "2-abatesalonike"
+    name_toc: "Urwandiko Rwa Kabiri Pawulo Yandikiye Abatesalonike"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+    name_toc: "Urwandiko Rwa Mbere Pawulo Yandikiye Timoteyo"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+    name_toc: "Urwandiko Rwa Kabiri Pawulo Yandikiye Timoteyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Urwandiko Pawulo Yandikiye Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Urwandiko Pawulo Yandikiye Filemoni"
+  "HEB":
+    name: "Abeheburayo"
+    slug: "abeheburayo"
+    name_toc: "Urwandiko Rwandikiwe Abaheburayo"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Urwandiko Rwanditswe Na Yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Urwandiko Rwa Mbere Rwanditswe Na Petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Urwandiko Rwa Kabiri Rwanditswe Na Petero"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Urwandiko Rwa Mbere Rwanditswe Na Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Urwandiko Rwa Kabiri Rwanditswe Na Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Urwandiko Rwa Gatatu Rwanditswe Na Yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Urwandiko Rwanditswe Na Yuda"
+  "REV":
+    name: "Ibyahisuwe"
+    slug: "ibyahisuwe"
+    name_toc: "Ibyahishuriwe Yohana"

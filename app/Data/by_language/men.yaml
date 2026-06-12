@@ -1,0 +1,134 @@
+language: "men"
+books:
+  "RUT":
+    name: "Luuti"
+    slug: "luuti"
+    name_toc: "Luuti Gɔlei"
+  "EZR":
+    name: "Ɛsla"
+    slug: "sla"
+    name_toc: "Ɛsla Gɔlei"
+  "NEH":
+    name: "Nɛhimaya"
+    slug: "nhimaya"
+    name_toc: "Nɛhimaya Gɔlei"
+  "EST":
+    name: "Ɛsita"
+    slug: "sita"
+    name_toc: "Ɛsita Gɔlei"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+    name_toc: "Obadaya Gɔlei"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona Gɔlei"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Ngowili Yepkei kia MATIU Nyɛini la"
+  "MRK":
+    name: "Maaki"
+    slug: "maaki"
+    name_toc: "Ngowili Yepkei kia MAAKI Nyɛini la"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+    name_toc: "Ngowili Yepkei kia LUKI Nyɛini la"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+    name_toc: "Ngowili Yepkei kia JƆN Nyɛini la"
+  "ACT":
+    name: "Tobleisia Ti Wiehindeisia"
+    slug: "tobleisia-ti-wiehindeisia"
+    name_toc: "TOBLEISIA ti Wiehindeisia"
+  "ROM":
+    name: "Romableisia"
+    slug: "romableisia"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini ROMABLEISIA Gama"
+  "1CO":
+    name: "1 Kɔlintiblɛisia"
+    slug: "1-klintiblisia"
+    name_toc: "Kɔlɛi Yeehaalayei Pɔɔl Nyɛini KƆLINTIBLƐISIA Gama"
+  "2CO":
+    name: "2 Kɔlintiblɛisia"
+    slug: "2-klintiblisia"
+    name_toc: "Kɔlɛi Yeefeleyei Pɔɔl Nyɛini KƆLINTIBLƐISIA Gama"
+  "GAL":
+    name: "Galesiablɛisia"
+    slug: "galesiablisia"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini GALESIABLƐISIA Gama"
+  "EPH":
+    name: "Ɛfisɔsblɛisia"
+    slug: "fissblisia"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini ƐFISƆSBLƐISIA Gama"
+  "PHP":
+    name: "Filipaiblɛisia"
+    slug: "filipaiblisia"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini FILIPAIBLƐISIA Gama"
+  "COL":
+    name: "Kɔlɔsiblɛisia"
+    slug: "klsiblisia"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini KƆLƆSIBLƐISIA Gama"
+  "1TH":
+    name: "1 Tɛsalonikablɛisia"
+    slug: "1-tsalonikablisia"
+    name_toc: "Kɔlɛi Yeehaalayei Pɔɔl Nyɛini TƐSALONIKABLƐISIA Gama"
+  "2TH":
+    name: "2 Tɛsalonikablɛisia"
+    slug: "2-tsalonikablisia"
+    name_toc: "Kɔlɛi Yeefeleyei Pɔɔl Nyɛini TƐSALONIKABLƐISIA Gama"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Kɔlɛi Yeehaalayei Pɔɔl Nyɛini TIMOTI Gama"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Kɔlɛi Yeefeleyei Pɔɔl Nyɛini TIMOTI Gama"
+  "TIT":
+    name: "Taitɔs"
+    slug: "taits"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini TAITƆS Gama"
+  "PHM":
+    name: "Failimɔn"
+    slug: "failimn"
+    name_toc: "Kɔlɛi Pɔɔl Nyɛini FAILIMƆN Gama"
+  "HEB":
+    name: "Hibublɛisia"
+    slug: "hibublisia"
+    name_toc: "Kɔlɔ Nyɛingɔi HIBUBLƐISIA Gama"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+    name_toc: "Kɔlɛi JEMISI Nyɛini"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Kɔlɛi Yeehaalayei PITA Nyɛini"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Kɔlɛi Yeefeleyei PITA Nyɛini"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+    name_toc: "Kɔlɛi Yeehaalayei JƆN Nyɛini"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+    name_toc: "Kɔlɛi Yeefeleyei JƆN Nyɛini"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+    name_toc: "Kɔlɛi Yeesawayei JƆN Nyɛini"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+    name_toc: "Kɔlɛi JUDI Nyɛini"
+  "REV":
+    name: "Hindei Magɛni A Jɔn"
+    slug: "hindei-magni-a-jn"
+    name_toc: "Hindei MAGƐNI a Jɔn"

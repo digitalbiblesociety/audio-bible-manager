@@ -1,0 +1,266 @@
+language: "nzi"
+books:
+  "GEN":
+    name: "Mɔl"
+    slug: "ml"
+    name_toc: "Mosisi Buluku ne mɔɔ lumua mɔɔ bɛfɛlɛ ye Mɔlebɛbo"
+  "EXO":
+    name: "Ade"
+    slug: "ade"
+    name_toc: "Mosisi Buluku ne mɔɔ tɔ zo nwiɔ mɔɔ bɛfɛlɛ ye Adendulɛ"
+  "LEV":
+    name: "Sɛlɛ"
+    slug: "sl"
+    name_toc: "Mosisi Buluku ne mɔɔ tɔ zo nsa mɔɔ le Sɛlɛvolɛma Buluku ne"
+  "NUM":
+    name: "Ɛdi"
+    slug: "di"
+    name_toc: "Mosisi Buluku ne mɔɔ tɔ zo nna mɔɔ bɛfɛlɛ ye Ɛdianlɛ"
+  "DEU":
+    name: "Mɛla"
+    slug: "mla"
+    name_toc: "Mosisi Buluku ne mɔɔ tɔ zo nnu mɔɔ le Mɛla Ɛmanlɛ mɔɔ tɔ zo nwiɔ"
+  "JOS":
+    name: "Dwɔ"
+    slug: "dw"
+    name_toc: "Dwɔhyua Buluku ne"
+  "JDG":
+    name: "Maa"
+    slug: "maa"
+    name_toc: "Maanlebuvolɛma Buluku ne"
+  "RUT":
+    name: "Wulu"
+    slug: "wulu"
+    name_toc: "Wulutu Buluku ne"
+  "1SA":
+    name: "1 Sam"
+    slug: "1-sam"
+    name_toc: "Samoɛle Buluku mɔɔ lumua"
+  "2SA":
+    name: "2 Sam"
+    slug: "2-sam"
+    name_toc: "Samoɛle Buluku mɔɔ tɔ zo nwiɔ"
+  "1KI":
+    name: "1 Arl"
+    slug: "1-arl"
+    name_toc: "Arelemgbunli Buluku mɔɔ lumua"
+  "2KI":
+    name: "2 Arl"
+    slug: "2-arl"
+    name_toc: "Arelemgbunli Buluku mɔɔ tɔ zo nwiɔ"
+  "1CH":
+    name: "1 Edk"
+    slug: "1-edk"
+    name_toc: "1 Edwɛkɛsisilɛ Buluku mɔɔ lumua"
+  "2CH":
+    name: "2 Edk"
+    slug: "2-edk"
+    name_toc: "Edwɛkɛsisilɛ Buluku mɔɔ tɔ zo nwiɔ"
+  "EZR":
+    name: "Ɛzl"
+    slug: "zl"
+    name_toc: "Ɛzela Buluku ne"
+  "NEH":
+    name: "Nih"
+    slug: "nih"
+    name_toc: "Nihɛmaya Buluku ne"
+  "EST":
+    name: "Ɛst"
+    slug: "st"
+    name_toc: "Ɛseta Buluku ne"
+  "JOB":
+    name: "Dwo"
+    slug: "dwo"
+    name_toc: "Dwobu Buluku ne"
+  "PSA":
+    name: "Edw"
+    slug: "edw"
+    name_toc: "Edwɛndolɛ Buluku ne"
+  "PRO":
+    name: "Mrɛ"
+    slug: "mr"
+    name_toc: "Mrɛlɛbulɛ Buluku ne"
+  "ECC":
+    name: "Nolo"
+    slug: "nolo"
+    name_toc: "Nolobɔvo Buluku ne"
+  "SNG":
+    name: "Sɔl"
+    slug: "sl"
+    name_toc: "Sɔlɔmɔn Edwɛne"
+  "ISA":
+    name: "Aye"
+    slug: "aye"
+    name_toc: "Ayezaya Buluku ne"
+  "JER":
+    name: "Gyɛ"
+    slug: "gy"
+    name_toc: "Gyɛlɛmaya Buluku ne"
+  "LAM":
+    name: "Awo"
+    slug: "awo"
+    name_toc: "Gyɛlɛmaya Awolɛyelɛ"
+  "EZK":
+    name: "Yiz"
+    slug: "yiz"
+    name_toc: "Yizikeɛle Buluku ne"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Daneɛle Buluku ne"
+  "HOS":
+    name: "Hoz"
+    slug: "hoz"
+    name_toc: "Hozia Buluku ne"
+  "JOL":
+    name: "Dww"
+    slug: "dww"
+    name_toc: "Dwowɛle Buluku ne"
+  "AMO":
+    name: "Emɔ"
+    slug: "em"
+    name_toc: "Emɔzo Buluku ne"
+  "OBA":
+    name: "Oba"
+    slug: "oba"
+    name_toc: "Obadaya Buluku ne"
+  "JON":
+    name: "Dwn"
+    slug: "dwn"
+    name_toc: "Dwona Buluku ne"
+  "MIC":
+    name: "Mae"
+    slug: "mae"
+    name_toc: "Maeka Buluku ne"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahum Buluku ne"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habakɛke Buluku ne"
+  "ZEP":
+    name: "Zɛf"
+    slug: "zf"
+    name_toc: "Zɛfanaya Buluku ne"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Hagae Buluku ne"
+  "ZEC":
+    name: "Zɛk"
+    slug: "zk"
+    name_toc: "Zɛkalaya Buluku ne"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malakae Buluku ne"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Edwɛkpa ne kɛmɔ Mateyu hɛlɛle la"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Edwɛkpa ne kɛmɔ Maake hɛlɛle la"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Edwɛkpa ne kɛmɔ Luku hɛlɛle la"
+  "JHN":
+    name: "Dw"
+    slug: "dw"
+    name_toc: "Edwɛkpa ne kɛmɔ Dwɔn hɛlɛle la"
+  "ACT":
+    name: "Gyi"
+    slug: "gyi"
+    name_toc: "Ɛzoanvolɛma Gyima ne"
+  "ROM":
+    name: "Wulo"
+    slug: "wulo"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Wulomuma la"
+  "1CO":
+    name: "1 Kɔl"
+    slug: "1-kl"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔlumuale ɔhɛlɛle ɔhɔmanle Kɔlentema la"
+  "2CO":
+    name: "2 Kɔl"
+    slug: "2-kl"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ tɔ zo nwiɔ mɔɔ ɔhɛlɛle ɔhɔmanle Kɔlentema la"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Galeehyeama la"
+  "EPH":
+    name: "Ɛfɛ"
+    slug: "f"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Ɛfɛsɛsema la"
+  "PHP":
+    name: "Fel"
+    slug: "fel"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Felepaema la"
+  "COL":
+    name: "Kɔlɔ"
+    slug: "kl"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Kɔlɔsaema la"
+  "1TH":
+    name: "1 Tɛs"
+    slug: "1-ts"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔlumuale ɔhɛlɛle ɔhɔmanle Tɛsalonaekama la"
+  "2TH":
+    name: "2 Tɛs"
+    slug: "2-ts"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ tɔ zo nwiɔ mɔɔ ɔhɛlɛle ɔhɔmanle Tɛsalonaekama la"
+  "1TI":
+    name: "1 Tem"
+    slug: "1-tem"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔlumuale ɔhɛlɛle ɔhɔmanle Temɔte la"
+  "2TI":
+    name: "2 Tem"
+    slug: "2-tem"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ tɔ zo nwiɔ mɔɔ ɔhɛlɛle ɔhɔmanle Temɔte la"
+  "TIT":
+    name: "Tae"
+    slug: "tae"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Taetɛse la"
+  "PHM":
+    name: "Fae"
+    slug: "fae"
+    name_toc: "Pɔɔlo Kɛlata mɔɔ ɔhɛlɛle ɔhɔmanle Faelimɔn la"
+  "HEB":
+    name: "Hib"
+    slug: "hib"
+    name_toc: "Kɛlata mɔɔ bɛhɛlɛle bɛhɔmanle Hibuluma la"
+  "JAS":
+    name: "Gye"
+    slug: "gye"
+    name_toc: "Gyemise Kɛlata ne"
+  "1PE":
+    name: "1 Pit"
+    slug: "1-pit"
+    name_toc: "Pita Kɛlata mɔɔ lumua"
+  "2PE":
+    name: "2 Pit"
+    slug: "2-pit"
+    name_toc: "Pita Kɛlata mɔɔ tɔ zo nwiɔ"
+  "1JN":
+    name: "1 Dw"
+    slug: "1-dw"
+    name_toc: "Dwɔn Kɛlata mɔɔ lumua"
+  "2JN":
+    name: "2 Dw"
+    slug: "2-dw"
+    name_toc: "Dwɔn Kɛlata mɔɔ tɔ zo nwiɔ"
+  "3JN":
+    name: "3 Dw"
+    slug: "3-dw"
+    name_toc: "Dwɔn Kɛlata mɔɔ tɔ zo nsa"
+  "JUD":
+    name: "Dwu"
+    slug: "dwu"
+    name_toc: "Dwuudu Kɛlata ne"
+  "REV":
+    name: "Yek"
+    slug: "yek"
+    name_toc: "Yekile"

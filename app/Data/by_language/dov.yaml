@@ -1,0 +1,83 @@
+language: "dov"
+books:
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+  "MRK":
+    name: "Makko"
+    slug: "makko"
+  "LUK":
+    name: "Lukka"
+    slug: "lukka"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+  "ACT":
+    name: "Nchito"
+    slug: "nchito"
+  "ROM":
+    name: "Ba Loma"
+    slug: "ba-loma"
+  "1CO":
+    name: "1 Ba Kkolinto"
+    slug: "1-ba-kkolinto"
+  "2CO":
+    name: "2 Ba Kkolinto"
+    slug: "2-ba-kkolinto"
+  "GAL":
+    name: "Ba Galatiya"
+    slug: "ba-galatiya"
+  "EPH":
+    name: "Ba-Efeso"
+    slug: "ba-efeso"
+  "PHP":
+    name: "Ba Filipi"
+    slug: "ba-filipi"
+  "COL":
+    name: "Ba Kkolose"
+    slug: "ba-kkolose"
+  "1TH":
+    name: "1 BaTesalonika"
+    slug: "1-batesalonika"
+  "2TH":
+    name: "2 BaTesalonika"
+    slug: "2-batesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tayitasi"
+    slug: "tayitasi"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Ba Hibbulu"
+    slug: "ba-hibbulu"
+  "JAS":
+    name: "Jemusi"
+    slug: "jemusi"
+  "1PE":
+    name: "Pita mutaanzi"
+    slug: "pita-mutaanzi"
+  "2PE":
+    name: "Pita wabili"
+    slug: "pita-wabili"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Chiyubunuzyo"
+    slug: "chiyubunuzyo"

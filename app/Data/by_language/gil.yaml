@@ -1,0 +1,200 @@
+language: "gil"
+books:
+  "GEN":
+    name: "Karikani B'aai"
+    slug: "karikani-b-aai"
+  "EXO":
+    name: "Te Otinako"
+    slug: "te-otinako"
+  "LEV":
+    name: "Nakoaia Ibonga"
+    slug: "nakoaia-ibonga"
+  "NUM":
+    name: "Warekaia Iteraera"
+    slug: "warekaia-iteraera"
+  "DEU":
+    name: "Te Tua-Kaua"
+    slug: "te-tua-kaua"
+  "JOS":
+    name: "Iotua"
+    slug: "iotua"
+  "JDG":
+    name: "Tani Motiki-taeka"
+    slug: "tani-motiki-taeka"
+  "RUT":
+    name: "Ruuta"
+    slug: "ruuta"
+  "1SA":
+    name: "1.Tamuera"
+    slug: "1-tamuera"
+  "2SA":
+    name: "2.Tamuera"
+    slug: "2-tamuera"
+  "1KI":
+    name: "1.Uea"
+    slug: "1-uea"
+  "2KI":
+    name: "2.Uea"
+    slug: "2-uea"
+  "1CH":
+    name: "1.Rongorongo"
+    slug: "1-rongorongo"
+  "2CH":
+    name: "2.Rongorongo"
+    slug: "2-rongorongo"
+  "EZR":
+    name: "Etira"
+    slug: "etira"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+  "EST":
+    name: "Etita"
+    slug: "etita"
+  "JOB":
+    name: "Iobi"
+    slug: "iobi"
+  "PSA":
+    name: "Taian Areru"
+    slug: "taian-areru"
+  "PRO":
+    name: "Taeka n Rabakau"
+    slug: "taeka-n-rabakau"
+  "ECC":
+    name: "Te Minita"
+    slug: "te-minita"
+  "SNG":
+    name: "Ana Anene Toromon"
+    slug: "ana-anene-toromon"
+  "ISA":
+    name: "Itaia"
+    slug: "itaia"
+  "JER":
+    name: "Ieremia"
+    slug: "ieremia"
+  "LAM":
+    name: "B'aeb'aeti"
+    slug: "b-aeb-aeti"
+  "EZK":
+    name: "Etekiera"
+    slug: "etekiera"
+  "DAN":
+    name: "Taniera"
+    slug: "taniera"
+  "HOS":
+    name: "Otea"
+    slug: "otea"
+  "JOL":
+    name: "Ioera"
+    slug: "ioera"
+  "AMO":
+    name: "Amota"
+    slug: "amota"
+  "OBA":
+    name: "Ob'aria"
+    slug: "ob-aria"
+  "JON":
+    name: "Iona"
+    slug: "iona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+  "HAB":
+    name: "Ab'akuka"
+    slug: "ab-akuka"
+  "ZEP":
+    name: "Teb'ania"
+    slug: "teb-ania"
+  "HAG":
+    name: "Akai"
+    slug: "akai"
+  "ZEC":
+    name: "Tekaria"
+    slug: "tekaria"
+  "MAL":
+    name: "Maraki"
+    slug: "maraki"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Ioane"
+    slug: "ioane"
+  "ACT":
+    name: "M'akuri"
+    slug: "m-akuri"
+  "ROM":
+    name: "I-Rom"
+    slug: "i-rom"
+  "1CO":
+    name: "1.I-Korinto"
+    slug: "1-i-korinto"
+  "2CO":
+    name: "2.I-Korinto"
+    slug: "2-i-korinto"
+  "GAL":
+    name: "I-Karatia"
+    slug: "i-karatia"
+  "EPH":
+    name: "I-Ebeto"
+    slug: "i-ebeto"
+  "PHP":
+    name: "I-Biribi"
+    slug: "i-biribi"
+  "COL":
+    name: "I-Korote"
+    slug: "i-korote"
+  "1TH":
+    name: "1.I-Tetaronike"
+    slug: "1-i-tetaronike"
+  "2TH":
+    name: "2.I-Tetaronike"
+    slug: "2-i-tetaronike"
+  "1TI":
+    name: "1.Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2.Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Biremon"
+    slug: "biremon"
+  "HEB":
+    name: "Ebera"
+    slug: "ebera"
+  "JAS":
+    name: "Iakobo"
+    slug: "iakobo"
+  "1PE":
+    name: "1.Betero"
+    slug: "1-betero"
+  "2PE":
+    name: "2.Betero"
+    slug: "2-betero"
+  "1JN":
+    name: "1.Ioane"
+    slug: "1-ioane"
+  "2JN":
+    name: "2.Ioane"
+    slug: "2-ioane"
+  "3JN":
+    name: "3.Ioane"
+    slug: "3-ioane"
+  "JUD":
+    name: "Iuta"
+    slug: "iuta"
+  "REV":
+    name: "Te Kaotioti"
+    slug: "te-kaotioti"

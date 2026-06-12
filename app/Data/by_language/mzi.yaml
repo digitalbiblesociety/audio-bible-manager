@@ -1,0 +1,142 @@
+language: "mzi"
+books:
+  "GEN":
+    name: "Jénesii̱s"
+    slug: "jenesiis"
+    name_toc: "Jénesii̱"
+  "EXO":
+    name: "Éksondo̱"
+    slug: "eksondo"
+    name_toc: "Éksondo̱"
+  "LEV":
+    name: "Lebitiko̱"
+    slug: "lebitiko"
+    name_toc: "Lebitiko̱"
+  "NUM":
+    name: "Xki̱"
+    slug: "xki"
+    name_toc: "Xki̱"
+  "DEU":
+    name: "Ndeuteronomio̱"
+    slug: "ndeuteronomio"
+    name_toc: "Ndeuteronomio̱"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Na̱ Ruu̱t"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+    name_toc: "Xo̱jo̱n Salmoo̱"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+    name_toc: "Jonaa̱s"
+  "MAT":
+    name: "Matioo̱"
+    slug: "matioo"
+    name_toc: "Éntjatsi̱e̱e̱ Jesukristoo̱ xikó tsꞌén ítꞌa Matioo̱"
+  "MRK":
+    name: "Markoo̱"
+    slug: "markoo"
+    name_toc: "Éntjatsi̱e̱e̱ Jesukristoo̱ xikó tsꞌén ítꞌa Markoo̱"
+  "LUK":
+    name: "Rkaa̱"
+    slug: "rkaa"
+    name_toc: "Éntjatsi̱e̱e̱ Jesukristoo̱ xikó tsꞌén ítꞌa Rkaa̱"
+  "JHN":
+    name: "Juaa̱"
+    slug: "juaa"
+    name_toc: "Éntjatsi̱e̱e̱ Jesukristoo̱ xikó tsꞌén ítꞌa Juaa̱"
+  "ACT":
+    name: "Ni xi kamá"
+    slug: "ni-xi-kama"
+    name_toc: "Ni xi katsꞌén já apostroo̱"
+  "ROM":
+    name: "Xota̱ Roma̱"
+    slug: "xota-roma"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xota̱ Roma̱"
+  "1CO":
+    name: "1 Xota̱ Korinto̱"
+    slug: "1-xota-korinto"
+    name_toc: "1 Xo̱jo̱n xi kananguiyaa̱ xota̱ Korinto̱"
+  "2CO":
+    name: "2 Xota̱ Korinto̱"
+    slug: "2-xota-korinto"
+    name_toc: "2 Xo̱jo̱n xi kananguiyaa̱ xota̱ Korinto̱"
+  "GAL":
+    name: "Xota̱ Ngalasia̱"
+    slug: "xota-ngalasia"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xota̱ Ngalasia̱"
+  "EPH":
+    name: "Xota̱ Éfeso̱"
+    slug: "xota-efeso"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xta̱ Éfeso̱"
+  "PHP":
+    name: "Xota̱ Filipo̱"
+    slug: "xota-filipo"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xta̱ Filipo̱"
+  "COL":
+    name: "Xota̱ Kolosa̱"
+    slug: "xota-kolosa"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xota̱ Kolosa̱"
+  "1TH":
+    name: "1 Xota̱ Tesalónika̱"
+    slug: "1-xota-tesalonika"
+    name_toc: "1 Xo̱jo̱n xi kananguiyaa̱ xota̱ Tesalónika̱"
+  "2TH":
+    name: "2 Xota̱ Tesalónika̱"
+    slug: "2-xota-tesalonika"
+    name_toc: "2 Xo̱jo̱n xi kananguiyaa̱ xota̱ Tesalónika̱"
+  "1TI":
+    name: "1 Timoo̱"
+    slug: "1-timoo"
+    name_toc: "1 Xo̱jo̱n xi kananguiyaa̱ Timoo̱"
+  "2TI":
+    name: "2 Timoo̱"
+    slug: "2-timoo"
+    name_toc: "2 Xo̱jo̱n xi kananguiyaa̱ Timoo̱"
+  "TIT":
+    name: "Titoo̱"
+    slug: "titoo"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ Titoo̱"
+  "PHM":
+    name: "Filemoo̱"
+    slug: "filemoo"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ Filemoo̱"
+  "HEB":
+    name: "Xota̱ Ebreo̱"
+    slug: "xota-ebreo"
+    name_toc: "Xo̱jo̱n xi kananguiyaa̱ xota̱ Ebreoo̱"
+  "JAS":
+    name: "Xo̱jo̱o̱n Sandiyaá"
+    slug: "xojoon-sandiyaa"
+    name_toc: "Xo̱jo̱n xi katsꞌénda Sandiyaá"
+  "1PE":
+    name: "1 Xo̱jo̱o̱n Peé"
+    slug: "1-xojoon-pee"
+    name_toc: "1 Xo̱jo̱n xi katsꞌénda Peé"
+  "2PE":
+    name: "2 Xo̱jo̱o̱n Peé"
+    slug: "2-xojoon-pee"
+    name_toc: "2 Xo̱jo̱n xi katsꞌénda Peé"
+  "1JN":
+    name: "1 Xo̱jo̱o̱n Juaa̱"
+    slug: "1-xojoon-juaa"
+    name_toc: "1 Xo̱jo̱n xi katsꞌénda Juaa̱"
+  "2JN":
+    name: "2 Xo̱jo̱o̱n Juaa̱"
+    slug: "2-xojoon-juaa"
+    name_toc: "2 Xo̱jo̱n xi katsꞌénda Juaa̱"
+  "3JN":
+    name: "3 Xo̱jo̱o̱n Juaa̱"
+    slug: "3-xojoon-juaa"
+    name_toc: "3 Xo̱jo̱n xi katsꞌénda Juaa̱"
+  "JUD":
+    name: "Xo̱jo̱o̱n Judaa̱"
+    slug: "xojoon-judaa"
+    name_toc: "Xo̱jo̱n xi katsꞌénda Judaa̱"
+  "REV":
+    name: "Ni xi akakoo̱"
+    slug: "ni-xi-akakoo"
+    name_toc: "Ni xi akó Jesukristoo̱ nga ka̱ma"

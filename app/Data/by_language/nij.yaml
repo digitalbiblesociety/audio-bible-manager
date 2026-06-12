@@ -1,0 +1,266 @@
+language: "nij"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Genesis"
+  "EXO":
+    name: "Eksodus"
+    slug: "eksodus"
+    name_toc: "Eksodus"
+  "LEV":
+    name: "Lewitikus"
+    slug: "lewitikus"
+    name_toc: "Lewitikus"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+    name_toc: "Numeri"
+  "DEU":
+    name: "Deuteronomium"
+    slug: "deuteronomium"
+    name_toc: "Deuteronomium"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Yosua"
+  "JDG":
+    name: "Hakim"
+    slug: "hakim"
+    name_toc: "Hakim"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Raja-raja"
+    slug: "1-raja-raja"
+    name_toc: "Surat Kare Raja Je Solake"
+  "2KI":
+    name: "2 Raja-raja"
+    slug: "2-raja-raja"
+    name_toc: "Surat Kare Raja Je Kaduee"
+  "1CH":
+    name: "1 Kronika"
+    slug: "1-kronika"
+    name_toc: "1 Kronika"
+  "2CH":
+    name: "2 Kronika"
+    slug: "2-kronika"
+    name_toc: "2 Kronika"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Buku Yob"
+  "PSA":
+    name: "Masmur"
+    slug: "masmur"
+    name_toc: "Masmur"
+  "PRO":
+    name: "Sewut Salomo"
+    slug: "sewut-salomo"
+    name_toc: "Surat Kare Sewut Tuntang Tanding Salomo"
+  "ECC":
+    name: "Pangabar"
+    slug: "pangabar"
+    name_toc: "Pangabar"
+  "SNG":
+    name: "Nyanyin Kare Nyanyi"
+    slug: "nyanyin-kare-nyanyi"
+    name_toc: "Nyanyin Kare Nyanyi"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Yesaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Tatum"
+    slug: "tatum"
+    name_toc: "Tatum"
+  "EZK":
+    name: "Esekhiel"
+    slug: "esekhiel"
+    name_toc: "Esekhiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "Obaja"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Yona"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Sepanya"
+    slug: "sepanya"
+    name_toc: "Sepanya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Sakharia"
+    slug: "sakharia"
+    name_toc: "Sakharia"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+    name_toc: "Maleakhi"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+    name_toc: "Barita Bahalap Ije Insanan Awi Mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Barita Bahalap Ije Insanan Awi Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Barita Bahalap Ije Insanan Awi Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Barita Bahalap Ije Insanan Awi Yohanes"
+  "ACT":
+    name: "Saritan Gawin Kare Rasul"
+    slug: "saritan-gawin-kare-rasul"
+    name_toc: "Saritan Gawin Kare Rasul"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Surat Paulus Akan Ungkup Hong Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Surat Paulus Ije Solake Akan Ungkup Hong Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Surat Paulus Ije Kaduee Akan Ungkup Hong Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Surat Paulus Akan Kare Ungkup Hong Galatia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "Surat Paulus Akan Ungkup Hong Epesus"
+  "PHP":
+    name: "Pilippi"
+    slug: "pilippi"
+    name_toc: "Pilippi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Surat Paulus Akan Ungkup Hong Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Surat Paulus Je Kaduee Akan Ungkup Hong Tesalonika"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+    name_toc: "Timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+    name_toc: "Timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Surat Paulus Akan Titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Surat Paulus Akan Pilemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Surat Akan Oloh Ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Surat Yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Surat Petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Surat Petrus"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Surat Yohanes Ije Solake"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Surat Yohanes Ije Kaduee"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Surat Yohanes Ije Kateloe"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Surat Yudas"
+  "REV":
+    name: "Pangarinah"
+    slug: "pangarinah"
+    name_toc: "Pangarinah Akan Yohanes"

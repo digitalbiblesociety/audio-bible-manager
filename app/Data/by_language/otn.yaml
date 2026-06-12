@@ -1,0 +1,83 @@
+language: "otn"
+books:
+  "MAT":
+    name: "Ra̱ Mateo"
+    slug: "ra-mateo"
+  "MRK":
+    name: "Ra̱ Marcos"
+    slug: "ra-marcos"
+  "LUK":
+    name: "Ra̱ Lucas"
+    slug: "ra-lucas"
+  "JHN":
+    name: "Ra̱ Xuua"
+    slug: "ra-xuua"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+  "1TI":
+    name: "1 ra̱ Timoteo"
+    slug: "1-ra-timoteo"
+  "2TI":
+    name: "2 ra̱ Timoteo"
+    slug: "2-ra-timoteo"
+  "TIT":
+    name: "Ra̱ Tito"
+    slug: "ra-tito"
+  "PHM":
+    name: "Ra̱ Filemón"
+    slug: "ra-filemon"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+  "JAS":
+    name: "Ra̱ Santiago"
+    slug: "ra-santiago"
+  "1PE":
+    name: "1 ra̱ Bɛdu"
+    slug: "1-ra-bdu"
+  "2PE":
+    name: "2 ra̱ Bɛdu"
+    slug: "2-ra-bdu"
+  "1JN":
+    name: "1 ra̱ Xuua"
+    slug: "1-ra-xuua"
+  "2JN":
+    name: "2 ra̱ Xuua"
+    slug: "2-ra-xuua"
+  "3JN":
+    name: "3 ra̱ Xuua"
+    slug: "3-ra-xuua"
+  "JUD":
+    name: "Ra̱ Judas"
+    slug: "ra-judas"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

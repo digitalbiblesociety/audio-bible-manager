@@ -1,0 +1,104 @@
+language: "mvp"
+books:
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "PRO":
+    name: "Kada Bulawan"
+    slug: "kada-bulawan"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yahya"
+    slug: "yahya"
+  "ACT":
+    name: "Jamanna Rasulu'"
+    slug: "jamanna-rasulu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yahya"
+    slug: "1-yahya"
+  "2JN":
+    name: "2 Yahya"
+    slug: "2-yahya"
+  "3JN":
+    name: "3 Yahya"
+    slug: "3-yahya"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Pengkitanna Yahya"
+    slug: "pengkitanna-yahya"

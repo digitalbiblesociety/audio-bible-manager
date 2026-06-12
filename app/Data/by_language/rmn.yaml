@@ -1,0 +1,92 @@
+language: "rmn"
+books:
+  "GEN":
+    name: "Кердипэ"
+    slug: "kerdipe"
+  "RUT":
+    name: "Руфь"
+    slug: "ruf"
+  "JON":
+    name: "Иона"
+    slug: "iona"
+  "MAT":
+    name: "Matej"
+    slug: "matej"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Jovan"
+    slug: "jovan"
+  "ACT":
+    name: "Дила"
+    slug: "dila"
+  "ROM":
+    name: "Rimljanenge"
+    slug: "rimljanenge"
+  "1CO":
+    name: "Angluni e Korinćanjenge"
+    slug: "angluni-e-korincanjenge"
+  "2CO":
+    name: "Dujto Korinćanjenge"
+    slug: "dujto-korincanjenge"
+  "GAL":
+    name: "E Galatenge"
+    slug: "e-galatenge"
+  "EPH":
+    name: "Efesconenge"
+    slug: "efesconenge"
+  "PHP":
+    name: "E Filipljanenge"
+    slug: "e-filipljanenge"
+  "COL":
+    name: "E Kološanenge"
+    slug: "e-kolosanenge"
+  "1TH":
+    name: "Angluni e Solunjamnenge"
+    slug: "angluni-e-solunjamnenge"
+  "2TH":
+    name: "Dujto e Solunjamnenge"
+    slug: "dujto-e-solunjamnenge"
+  "1TI":
+    name: "1. Timotej"
+    slug: "1-timotej"
+  "2TI":
+    name: "2. Timotej"
+    slug: "2-timotej"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "E Jevrejenge"
+    slug: "e-jevrejenge"
+  "JAS":
+    name: "Jakov"
+    slug: "jakov"
+  "1PE":
+    name: "Angluni e Petresiri"
+    slug: "angluni-e-petresiri"
+  "2PE":
+    name: "Dujto e Petresiri"
+    slug: "dujto-e-petresiri"
+  "1JN":
+    name: "1. Jovan"
+    slug: "1-jovan"
+  "2JN":
+    name: "2. Jovan"
+    slug: "2-jovan"
+  "3JN":
+    name: "3. Jovan"
+    slug: "3-jovan"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Phućardipe"
+    slug: "phucardipe"

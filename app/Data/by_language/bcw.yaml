@@ -1,0 +1,83 @@
+language: "bcw"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Markə"
+    slug: "marke"
+  "LUK":
+    name: "Ləwka"
+    slug: "lewka"
+  "JHN":
+    name: "Zhaŋ"
+    slug: "zhan"
+  "ACT":
+    name: "Sləni ka kwal Yesəw"
+    slug: "sleni-ka-kwal-yesew"
+  "ROM":
+    name: "Rəm"
+    slug: "rem"
+  "1CO":
+    name: "1 Kwərintə"
+    slug: "1-kwerinte"
+  "2CO":
+    name: "2 Kwərintə"
+    slug: "2-kwerinte"
+  "GAL":
+    name: "Galatə"
+    slug: "galate"
+  "EPH":
+    name: "Efesə"
+    slug: "efese"
+  "PHP":
+    name: "Filipə"
+    slug: "filipe"
+  "COL":
+    name: "Kwələsə"
+    slug: "kwelese"
+  "1TH":
+    name: "1 Tesalənikə"
+    slug: "1-tesalenike"
+  "2TH":
+    name: "2 Tesalənikə"
+    slug: "2-tesalenike"
+  "1TI":
+    name: "1 Timəte"
+    slug: "1-timete"
+  "2TI":
+    name: "2 Timəte"
+    slug: "2-timete"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+  "PHM":
+    name: "Fəlemən"
+    slug: "felemen"
+  "HEB":
+    name: "Ebərə"
+    slug: "ebere"
+  "JAS":
+    name: "Zhakə"
+    slug: "zhake"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Zhaŋ"
+    slug: "1-zhan"
+  "2JN":
+    name: "2 Zhaŋ"
+    slug: "2-zhan"
+  "3JN":
+    name: "3 Zhaŋ"
+    slug: "3-zhan"
+  "JUD":
+    name: "Zhəwdə"
+    slug: "zhewde"
+  "REV":
+    name: "Shi nashi Zhaŋ"
+    slug: "shi-nashi-zhan"

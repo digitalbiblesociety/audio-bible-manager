@@ -1,0 +1,83 @@
+language: "qvc"
+books:
+  "MAT":
+    name: "San Matiyu"
+    slug: "san-matiyu"
+  "MRK":
+    name: "San Markus"
+    slug: "san-markus"
+  "LUK":
+    name: "San Lukas"
+    slug: "san-lukas"
+  "JHN":
+    name: "San Jwan"
+    slug: "san-jwan"
+  "ACT":
+    name: "Ichus"
+    slug: "ichus"
+  "ROM":
+    name: "Rrumanus"
+    slug: "rrumanus"
+  "1CO":
+    name: "1 Kurintyus"
+    slug: "1-kurintyus"
+  "2CO":
+    name: "2 Kurintyus"
+    slug: "2-kurintyus"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Ifisyus"
+    slug: "ifisyus"
+  "PHP":
+    name: "Filipinsis"
+    slug: "filipinsis"
+  "COL":
+    name: "Kulusinsis"
+    slug: "kulusinsis"
+  "1TH":
+    name: "1 Tisalunisinsis"
+    slug: "1-tisalunisinsis"
+  "2TH":
+    name: "2 Tisalunisinsis"
+    slug: "2-tisalunisinsis"
+  "1TI":
+    name: "1 Timutiyu"
+    slug: "1-timutiyu"
+  "2TI":
+    name: "2 Timutiyu"
+    slug: "2-timutiyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimun"
+    slug: "filimun"
+  "HEB":
+    name: "Ibriyus"
+    slug: "ibriyus"
+  "JAS":
+    name: "Santyagu"
+    slug: "santyagu"
+  "1PE":
+    name: "1 Pidru"
+    slug: "1-pidru"
+  "2PE":
+    name: "2 Pidru"
+    slug: "2-pidru"
+  "1JN":
+    name: "1 Jwan"
+    slug: "1-jwan"
+  "2JN":
+    name: "2 Jwan"
+    slug: "2-jwan"
+  "3JN":
+    name: "3 Jwan"
+    slug: "3-jwan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apukalipsis"
+    slug: "apukalipsis"

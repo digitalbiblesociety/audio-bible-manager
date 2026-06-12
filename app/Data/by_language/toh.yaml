@@ -1,0 +1,298 @@
+language: "toh"
+books:
+  "GEN":
+    name: "Genesi"
+    slug: "genesi"
+    name_toc: "2 Samuyele"
+  "EXO":
+    name: "Ekisodha"
+    slug: "ekisodha"
+    name_toc: "1 Bami"
+  "LEV":
+    name: "Levhi"
+    slug: "levhi"
+    name_toc: "2 Bami"
+  "NUM":
+    name: "Mitengo"
+    slug: "mitengo"
+    name_toc: "1 Makani"
+  "DEU":
+    name: "Dhewuteronome"
+    slug: "dhewuteronome"
+    name_toc: "2 Makani"
+  "JOS":
+    name: "Josuwa"
+    slug: "josuwa"
+    name_toc: "Bbuku lya Ezula"
+  "JDG":
+    name: "Valamuli"
+    slug: "valamuli"
+    name_toc: "Bbuku lya Nehemiya"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+    name_toc: "Bbuku lya Esita"
+  "1SA":
+    name: "1 Samuweli"
+    slug: "1-samuweli"
+    name_toc: "Jobo"
+  "2SA":
+    name: "2 Samuweli"
+    slug: "2-samuweli"
+    name_toc: "Intembauzyo"
+  "1KI":
+    name: "1 Dzipfhumu"
+    slug: "1-dzipfhumu"
+    name_toc: "Tusimpi"
+  "2KI":
+    name: "2 Dzipfhumu"
+    slug: "2-dzipfhumu"
+    name_toc: "Mukambausi"
+  "1CH":
+    name: "1 Dzikoronika"
+    slug: "1-dzikoronika"
+    name_toc: "Ndoolu lwiimbo lwiinda nyimbo zyoonse zya Solomoni"
+  "2CH":
+    name: "2 Dzikoronika"
+    slug: "2-dzikoronika"
+    name_toc: "Bbuku lya Izaya"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Jelemiya"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Buumba"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "Ibbuku Lya-Mika"
+  "JOB":
+    name: "Joba"
+    slug: "joba"
+    name_toc: "Ezekiyeli"
+  "PSA":
+    name: "Dzindzimo"
+    slug: "dzindzimo"
+    name_toc: "Bbuku Lya Daniyeli"
+  "PRO":
+    name: "Mavingu"
+    slug: "mavingu"
+    name_toc: "Makani aa Musinsimi Hosiya"
+  "ECC":
+    name: "Muhevbudzi"
+    slug: "muhevbudzi"
+    name_toc: "Ibbuku lya Joweli"
+  "SNG":
+    name: "Gizimba"
+    slug: "gizimba"
+    name_toc: "Amosi"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Bbuku lya Obadiya"
+  "JER":
+    name: "Jeremiya"
+    slug: "jeremiya"
+    name_toc: "Bbuku lya Jona"
+  "LAM":
+    name: "Gililo"
+    slug: "gililo"
+    name_toc: "Bbuku lya Mika"
+  "EZK":
+    name: "Ezekiyeli"
+    slug: "ezekiyeli"
+    name_toc: "Bbuku lya Nahumu"
+  "DAN":
+    name: "Dhaniyeli"
+    slug: "dhaniyeli"
+    name_toc: "Bbuku lya Habakkuku"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Bbuku lya Zefaniya"
+  "JOL":
+    name: "Joyele"
+    slug: "joyele"
+    name_toc: "Bbuku lya Hagayi"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Bbuku lya Zekaliya"
+  "OBA":
+    name: "Obhadhiya"
+    slug: "obhadhiya"
+    name_toc: "Bbuku lya Malaki"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "MAKANI MABOTU MBWAKALEMBWA A Mateyo"
+  "MIC":
+    name: "Mikeya"
+    slug: "mikeya"
+    name_toc: "MAKANI MABOTU MBWAAKALEMBWA A Maako"
+  "NAM":
+    name: "Nahume"
+    slug: "nahume"
+    name_toc: "MAKANI MABOTU MBWAAKALEMBWA A Luka"
+  "HAB":
+    name: "Habhakuka"
+    slug: "habhakuka"
+    name_toc: "MAKANI MABOTU MBWAAKALEMBWA A Joni"
+  "ZEP":
+    name: "Sofoniya"
+    slug: "sofoniya"
+    name_toc: "Milimo Ya Batumwa"
+  "HAG":
+    name: "Agewu"
+    slug: "agewu"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Baloma"
+  "ZEC":
+    name: "Zakariya"
+    slug: "zakariya"
+    name_toc: "LUGWALO LUTAANZI LWA PAULU KU Bakolinti"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+    name_toc: "LUGWALO LWABILI LWA PAULU KU Bakolinti"
+  "TOB":
+    name: "Tobhiya"
+    slug: "tobhiya"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Bagalatiya"
+  "JDT":
+    name: "Judhite"
+    slug: "judhite"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Baefeso"
+  "ESG":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Bafilipi"
+  "WIS":
+    name: "Guti"
+    slug: "guti"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Bakolose"
+  "SIR":
+    name: "Bheni Siraki"
+    slug: "bheni-siraki"
+    name_toc: "LUGWALO LUTAANZI LWA PAULU NDWAAKALEMBELA Batesalonika"
+  "BAR":
+    name: "Bharuki"
+    slug: "bharuki"
+    name_toc: "LUGWALO LWABILI LWA PAULU NDWAAKALEMBELA Batesalonika"
+  "1MA":
+    name: "1 Makabhewu"
+    slug: "1-makabhewu"
+    name_toc: "LUGWALO LUTAANZI LWA PAULU NDWAAKALEMBELA Timoti"
+  "2MA":
+    name: "2 Makabhewu"
+    slug: "2-makabhewu"
+    name_toc: "LUGWALO LWABILI LWA PAULU NDWAAKALEMBELA Timoti"
+  "MAT":
+    name: "Matewu"
+    slug: "matewu"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Taitasi"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "LUGWALO LWA PAULU NDWAAKALEMBELA Filimoni"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "LUGWALO LWAKALEMBELWA Bahibulu"
+  "JHN":
+    name: "Johane"
+    slug: "johane"
+    name_toc: "LUGWALO LWA Jemusi"
+  "ACT":
+    name: "Mithumo"
+    slug: "mithumo"
+    name_toc: "LUGWALO LUTAANZI LWA Pita"
+  "ROM":
+    name: "Varoma"
+    slug: "varoma"
+    name_toc: "LUGWALO LWABILI LWA Pita"
+  "1CO":
+    name: "1 Vakorinto"
+    slug: "1-vakorinto"
+    name_toc: "LUGWALO LUTAANZI LWA Joni"
+  "2CO":
+    name: "2 Vakorinto"
+    slug: "2-vakorinto"
+    name_toc: "LUGWALO LWABILI LWA Joni"
+  "GAL":
+    name: "Vagalatiya"
+    slug: "vagalatiya"
+    name_toc: "LUGWALO LWATATU LWA Joni"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+    name_toc: "LUGWALO LWA Judi"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+    name_toc: "Ciyubunuzyo Kuli Joni"
+  "COL":
+    name: "Vakolosi"
+    slug: "vakolosi"
+    name_toc: "Ibbuku It Aanzi Lya-Musa Utegwa Matalikilo"
+  "1TH":
+    name: "1 Vatesalonika"
+    slug: "1-vatesalonika"
+    name_toc: "Ibbuku Lyabiu Lya-Musa Utegwa Kulonga"
+  "2TH":
+    name: "2 Vatesalonika"
+    slug: "2-vatesalonika"
+    name_toc: "Ibbuku Lyatatu Lya-Musa Utegwa Levitiko"
+  "1TI":
+    name: "1 Thimoti"
+    slug: "1-thimoti"
+    name_toc: "Ibbuku Lyane Lya-Musa Utegwa Myeelwe"
+  "2TI":
+    name: "2 Thimoti"
+    slug: "2-thimoti"
+    name_toc: "Ibbuku Lyasanu Lya-Musa Litegwa Deuteronomo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ibbuku Lya-Joshua"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Ibbuku Lya-Babetesi"
+  "HEB":
+    name: "Vahebheru"
+    slug: "vahebheru"
+    name_toc: "Ibbuku Lya-Rute"
+  "JAS":
+    name: "Jakobe"
+    slug: "jakobe"
+    name_toc: "Ibbuku Itaanzi Lya-Samuele"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Ibbuku Lyabili Lya-Samuele"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Ibbuku Itaanzi Lya-Bami"
+  "1JN":
+    name: "1 Johane"
+    slug: "1-johane"
+    name_toc: "Ibbuku Lyabili Lya-Bami"
+  "2JN":
+    name: "2 Johane"
+    slug: "2-johane"
+    name_toc: "Ibbuku Litaanzi Lya-Makani Aaciindi"
+  "3JN":
+    name: "3 Johane"
+    slug: "3-johane"
+    name_toc: "Ibbuku L Yabili Lya-Makani Aaciindi"
+  "JUD":
+    name: "Judha"
+    slug: "judha"
+    name_toc: "Ibbuku Lya-Ezara"
+  "REV":
+    name: "Gutuledwa"
+    slug: "gutuledwa"
+    name_toc: "Ibbuku Lya-Nehemiya"

@@ -1,0 +1,110 @@
+language: "tem"
+books:
+  "MAT":
+    name: "Mathiu"
+    slug: "mathiu"
+    name_toc: "Ufunuo Ghwa Johana"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Hlimi sɛbɛ"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Nyinimi sɛbɛ"
+  "JHN":
+    name: "Yɔn"
+    slug: "yn"
+    name_toc: "Sraʔa farafɛɛ sɛbɛ"
+  "ACT":
+    name: "Mȧyɔs ma aŋsom"
+    slug: "mays-ma-asom"
+    name_toc: "Tonrimo sɛbɛ"
+  "ROM":
+    name: "AŋRomans"
+    slug: "aromans"
+    name_toc: "Ladomo furu kayoro sɛbɛ"
+  "1CO":
+    name: "1 AŋKɔrenth"
+    slug: "1-akrenth"
+    name_toc: "Josuwe sɛbɛ"
+  "2CO":
+    name: "2 AŋKɔrenth"
+    slug: "2-akrenth"
+    name_toc: "Syɔfɛɛ sɛbɛ"
+  "GAL":
+    name: "AŋKȧletia"
+    slug: "akaletia"
+    name_toc: "Hruti sɛbɛ"
+  "EPH":
+    name: "AŋƐfisɔs"
+    slug: "afiss"
+    name_toc: "Samyɛli sɛbɛ kplɛɛ"
+  "PHP":
+    name: "AŋFilipai"
+    slug: "afilipai"
+    name_toc: "Samyɛli sɛbɛ syɛnwoo"
+  "COL":
+    name: "AŋKɔlɔsi"
+    slug: "aklsi"
+    name_toc: "Masaa sɛbɛ kplɛɛ"
+  "1TH":
+    name: "1 AŋThɛsȧlonika"
+    slug: "1-athsalonika"
+    name_toc: "Masaa sɛbɛ syɛnwoo"
+  "2TH":
+    name: "2 AŋThɛsȧlonika"
+    slug: "2-athsalonika"
+    name_toc: "Masaʔa kaʔá sɛbɛ kplɛɛ"
+  "1TI":
+    name: "1 Timɔthi"
+    slug: "1-timthi"
+    name_toc: "Masaʔa kaʔá sɛbɛ syɛnwoo"
+  "2TI":
+    name: "2 Timɔthi"
+    slug: "2-timthi"
+    name_toc: "Ɛsidrasi sɛbɛ"
+  "TIT":
+    name: "Taytɔs"
+    slug: "tayts"
+    name_toc: "Neʔemi sɛbɛ"
+  "PHM":
+    name: "Faylimɔn"
+    slug: "faylimn"
+    name_toc: "Ɛsitɛri sɛbɛ"
+  "HEB":
+    name: "AŋHibru"
+    slug: "ahibru"
+    name_toc: "Jɔbi sɛbɛ"
+  "JAS":
+    name: "Yeməs"
+    slug: "yemes"
+    name_toc: "Ŋuru sɛbɛ"
+  "1PE":
+    name: "1 Pitar"
+    slug: "1-pitar"
+    name_toc: "Yomɛʔɛ sɛbɛ"
+  "2PE":
+    name: "2 Pitar"
+    slug: "2-pitar"
+    name_toc: "Ticlimi fɔlɔ wi kàyoro"
+  "1JN":
+    name: "1 Yɔn"
+    slug: "1-yn"
+    name_toc: "Ŋúru ti ŋùʔú"
+  "2JN":
+    name: "2 Yɔn"
+    slug: "2-yn"
+    name_toc: "Esayi sɛbɛ"
+  "3JN":
+    name: "3 Yɔn"
+    slug: "3-yn"
+    name_toc: "Jeremi sɛbɛ"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+    name_toc: "Nyugara ŋuʔu sɛbɛ"
+  "REV":
+    name: "Kȧŋȧibinɛ"
+    slug: "kaaibin"
+    name_toc: "Esekyɛli sɛbɛ"

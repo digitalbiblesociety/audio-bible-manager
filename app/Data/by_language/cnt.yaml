@@ -1,0 +1,83 @@
+language: "cnt"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "Primera Corintios"
+    slug: "primera-corintios"
+  "2CO":
+    name: "Segunda Corintios"
+    slug: "segunda-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+  "1TH":
+    name: "Primera Tesalonicenses"
+    slug: "primera-tesalonicenses"
+  "2TH":
+    name: "Segunda Tesalonicenses"
+    slug: "segunda-tesalonicenses"
+  "1TI":
+    name: "Primera Timoteo"
+    slug: "primera-timoteo"
+  "2TI":
+    name: "Segunda Timoteo"
+    slug: "segunda-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "Primera Pedro"
+    slug: "primera-pedro"
+  "2PE":
+    name: "Segunda Pedro"
+    slug: "segunda-pedro"
+  "1JN":
+    name: "Primera Juan"
+    slug: "primera-juan"
+  "2JN":
+    name: "Segunda Juan"
+    slug: "segunda-juan"
+  "3JN":
+    name: "Tercera Juan"
+    slug: "tercera-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

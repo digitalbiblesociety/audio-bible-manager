@@ -1,0 +1,14 @@
+language: "nif"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maleko"
+    slug: "maleko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"

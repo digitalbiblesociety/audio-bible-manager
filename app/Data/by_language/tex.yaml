@@ -1,0 +1,95 @@
+language: "tex"
+books:
+  "GEN":
+    name: "Kananet"
+    slug: "kananet"
+  "EXO":
+    name: "Lu̱ge̱z"
+    slug: "lugez"
+  "RUT":
+    name: "Ruz"
+    slug: "ruz"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MAT":
+    name: "Ma̱te̱yo̱"
+    slug: "mateyo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Lu̱ka̱"
+    slug: "luka"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Buk wa To̱ni̱a̱u̱"
+    slug: "buk-wa-toniau"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Ko̱ri̱nto̱ 1"
+    slug: "korinto-1"
+  "2CO":
+    name: "Ko̱ri̱nto̱ 2"
+    slug: "korinto-2"
+  "GAL":
+    name: "Ga̱la̱ti̱a̱"
+    slug: "galatia"
+  "EPH":
+    name: "Ephesus"
+    slug: "ephesus"
+  "PHP":
+    name: "Vilipia"
+    slug: "vilipia"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+  "1TH":
+    name: "Te̱se̱lo̱ni̱ka̱ 1"
+    slug: "teselonika-1"
+  "2TH":
+    name: "Te̱se̱lo̱ni̱ka̱ 2"
+    slug: "teselonika-2"
+  "1TI":
+    name: "Ti̱mo̱te̱yo̱ 1"
+    slug: "timoteyo-1"
+  "2TI":
+    name: "Ti̱mo̱te̱yo̱ 2"
+    slug: "timoteyo-2"
+  "TIT":
+    name: "Ti̱to̱"
+    slug: "tito"
+  "PHM":
+    name: "Vilomene"
+    slug: "vilomene"
+  "HEB":
+    name: "I̱bu̱ru̱"
+    slug: "iburu"
+  "JAS":
+    name: "Je̱mi̱s"
+    slug: "jemis"
+  "1PE":
+    name: "Peturu 1"
+    slug: "peturu-1"
+  "2PE":
+    name: "Peturu 2"
+    slug: "peturu-2"
+  "1JN":
+    name: "Jon 1"
+    slug: "jon-1"
+  "2JN":
+    name: "Jon 2"
+    slug: "jon-2"
+  "3JN":
+    name: "Jon 3"
+    slug: "jon-3"
+  "JUD":
+    name: "Ju̱da̱"
+    slug: "juda"
+  "REV":
+    name: "O̱no̱zzo̱k"
+    slug: "onozzok"

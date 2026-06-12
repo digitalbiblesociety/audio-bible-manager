@@ -1,0 +1,149 @@
+language: "bus"
+books:
+  "GEN":
+    name: "Naana"
+    slug: "naana"
+  "EXO":
+    name: "Bɔna"
+    slug: "bna"
+  "NUM":
+    name: "Narona"
+    slug: "narona"
+  "DEU":
+    name: "Dokagbɛsisina"
+    slug: "dokagbsisina"
+  "JOS":
+    name: "Yɔsua"
+    slug: "ysua"
+  "JDG":
+    name: "Yãgɔ̃gɔ̃rinɔ"
+    slug: "yaggrin"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "1 Samuɛli"
+    slug: "1-samuli"
+  "2SA":
+    name: "2 Samuɛli"
+    slug: "2-samuli"
+  "1KI":
+    name: "1 Kinanɔ"
+    slug: "1-kinan"
+  "2KI":
+    name: "2 Kinanɔ"
+    slug: "2-kinan"
+  "EZR":
+    name: "Ɛzɛra"
+    slug: "zra"
+  "NEH":
+    name: "Nɛɛmaya"
+    slug: "nmaya"
+  "EST":
+    name: "Ɛsita"
+    slug: "sita"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Saamunɔ"
+    slug: "saamun"
+  "PRO":
+    name: "Yaasinɔ"
+    slug: "yaasin"
+  "ECC":
+    name: "Laasuudee"
+    slug: "laasuudee"
+  "DAN":
+    name: "Daniɛli"
+    slug: "danili"
+  "JON":
+    name: "Yunusa"
+    slug: "yunusa"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maaku"
+    slug: "maaku"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Zĩrinɔ"
+    slug: "zirin"
+  "ROM":
+    name: "Romudeenɔ"
+    slug: "romudeen"
+  "1CO":
+    name: "1 Kɔrintideenɔ"
+    slug: "1-krintideen"
+  "2CO":
+    name: "2 Kɔrintideenɔ"
+    slug: "2-krintideen"
+  "GAL":
+    name: "Galatianɔ"
+    slug: "galatian"
+  "EPH":
+    name: "Ɛfesudeenɔ"
+    slug: "fesudeen"
+  "PHP":
+    name: "Filipideenɔ"
+    slug: "filipideen"
+  "COL":
+    name: "Kɔlɔsedeenɔ"
+    slug: "klsedeen"
+  "1TH":
+    name: "1 Tɛsalonikadeenɔ"
+    slug: "1-tsalonikadeen"
+  "2TH":
+    name: "2 Tɛsalonikadeenɔ"
+    slug: "2-tsalonikadeen"
+  "1TI":
+    name: "1 Timɔti"
+    slug: "1-timti"
+  "2TI":
+    name: "2 Timɔti"
+    slug: "2-timti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimɔ"
+    slug: "filim"
+  "HEB":
+    name: "Eberunɔ"
+    slug: "eberun"
+  "JAS":
+    name: "Yemisi"
+    slug: "yemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Zia Yã"
+    slug: "zia-ya"

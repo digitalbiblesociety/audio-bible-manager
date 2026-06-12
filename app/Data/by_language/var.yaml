@@ -1,0 +1,83 @@
+language: "var"
+books:
+  "MAT":
+    name: "Maateo Iyoteria"
+    slug: "maateo-iyoteria"
+  "MRK":
+    name: "Marako Iyoteria"
+    slug: "marako-iyoteria"
+  "LUK":
+    name: "Ruuka Iyoteria"
+    slug: "ruuka-iyoteria"
+  "JHN":
+    name: "Waani Iyoteria"
+    slug: "waani-iyoteria"
+  "ACT":
+    name: "Eesusi Ajawariae Nokitiame"
+    slug: "eesusi-ajawariae-nokitiame"
+  "ROM":
+    name: "Roꞌroma Iyotepawa"
+    slug: "roroma-iyotepawa"
+  "1CO":
+    name: "Pahcha Koꞌkorintio Iyotepawa"
+    slug: "pahcha-kokorintio-iyotepawa"
+  "2CO":
+    name: "Oosa Koꞌkorintio Iyotepawa"
+    slug: "oosa-kokorintio-iyotepawa"
+  "GAL":
+    name: "Kaꞌkarata Iyotepawa"
+    slug: "kakarata-iyotepawa"
+  "EPH":
+    name: "Eꞌejesio Iyotepawa"
+    slug: "eejesio-iyotepawa"
+  "PHP":
+    name: "Iꞌiripo Iyotepawa"
+    slug: "iiripo-iyotepawa"
+  "COL":
+    name: "Koꞌkorosa Iyotepawa"
+    slug: "kokorosa-iyotepawa"
+  "1TH":
+    name: "Pahcha Teꞌtesaronika Iyotepawa"
+    slug: "pahcha-tetesaronika-iyotepawa"
+  "2TH":
+    name: "Oosa Teꞌtesaronika Iyotepawa"
+    slug: "oosa-tetesaronika-iyotepawa"
+  "1TI":
+    name: "Pahcha Timoteo Iyotepawa"
+    slug: "pahcha-timoteo-iyotepawa"
+  "2TI":
+    name: "Oosa Timoteo Iyotepawa"
+    slug: "oosa-timoteo-iyotepawa"
+  "TIT":
+    name: "Tiito Iyotepawa"
+    slug: "tiito-iyotepawa"
+  "PHM":
+    name: "Iremoni Iyotepawa"
+    slug: "iremoni-iyotepawa"
+  "HEB":
+    name: "Eꞌeureo Iyotepawa"
+    slug: "eeureo-iyotepawa"
+  "JAS":
+    name: "Saantiao Iyotepawa"
+    slug: "saantiao-iyotepawa"
+  "1PE":
+    name: "Pahcha Peero Iyotepawa"
+    slug: "pahcha-peero-iyotepawa"
+  "2PE":
+    name: "Oosa Peero Iyotepawa"
+    slug: "oosa-peero-iyotepawa"
+  "1JN":
+    name: "Pahcha Waani Iyotepawa"
+    slug: "pahcha-waani-iyotepawa"
+  "2JN":
+    name: "Oosa Waani Iyotepawa"
+    slug: "oosa-waani-iyotepawa"
+  "3JN":
+    name: "Paisa Waani Iyotepawa"
+    slug: "paisa-waani-iyotepawa"
+  "JUD":
+    name: "Uurasi Iyotepawa"
+    slug: "uurasi-iyotepawa"
+  "REV":
+    name: "Waani tetewitewa"
+    slug: "waani-tetewitewa"

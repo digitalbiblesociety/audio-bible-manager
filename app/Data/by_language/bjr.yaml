@@ -1,0 +1,89 @@
+language: "bjr"
+books:
+  "GEN":
+    name: "Óosana"
+    slug: "oosana"
+  "EXO":
+    name: "Rafúdoo Akarafa"
+    slug: "rafudoo-akarafa"
+  "MAT":
+    name: "Mataioo"
+    slug: "mataioo"
+  "MRK":
+    name: "Mareekoo"
+    slug: "mareekoo"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Yoohanee"
+    slug: "yoohanee"
+  "ACT":
+    name: "Niqiqoo Fásiqausa"
+    slug: "niqiqoo-fasiqausa"
+  "ROM":
+    name: "Roomma"
+    slug: "roomma"
+  "1CO":
+    name: "1 Koorinti"
+    slug: "1-koorinti"
+  "2CO":
+    name: "2 Koorinti"
+    slug: "2-koorinti"
+  "GAL":
+    name: "Karatia"
+    slug: "karatia"
+  "EPH":
+    name: "Eefeesusa"
+    slug: "eefeesusa"
+  "PHP":
+    name: "Firipi"
+    slug: "firipi"
+  "COL":
+    name: "Kooroosee"
+    slug: "kooroosee"
+  "1TH":
+    name: "1 Teesaroonika"
+    slug: "1-teesaroonika"
+  "2TH":
+    name: "2 Teesaroonika"
+    slug: "2-teesaroonika"
+  "1TI":
+    name: "1 Timooti"
+    slug: "1-timooti"
+  "2TI":
+    name: "2 Timooti"
+    slug: "2-timooti"
+  "TIT":
+    name: "Titusa"
+    slug: "titusa"
+  "PHM":
+    name: "Fireemoona"
+    slug: "fireemoona"
+  "HEB":
+    name: "Heeburu"
+    slug: "heeburu"
+  "JAS":
+    name: "Yameesa"
+    slug: "yameesa"
+  "1PE":
+    name: "1 Peetooroo"
+    slug: "1-peetooroo"
+  "2PE":
+    name: "2 Peetooroo"
+    slug: "2-peetooroo"
+  "1JN":
+    name: "1 Yoohanee"
+    slug: "1-yoohanee"
+  "2JN":
+    name: "2 Yoohanee"
+    slug: "2-yoohanee"
+  "3JN":
+    name: "3 Yoohanee"
+    slug: "3-yoohanee"
+  "JUD":
+    name: "Yudeesa"
+    slug: "yudeesa"
+  "REV":
+    name: "Uqafíqoo Ufafa"
+    slug: "uqafiqoo-ufafa"

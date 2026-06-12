@@ -1,0 +1,266 @@
+language: "vag"
+books:
+  "GEN":
+    name: "Luglaa"
+    slug: "luglaa"
+    name_toc: "Kìn Nyɔ̧ɔ̧́ Máàrk yi tɨnndé"
+  "EXO":
+    name: "Lii"
+    slug: "lii"
+    name_toc: "Kìn Nyɔ̧ɔ̧́ Lúkàs ya tɨnndé"
+  "LEV":
+    name: "Levi Dee"
+    slug: "levi-dee"
+    name_toc: "Kìn Nyɔ̧ɔ̧́ Jâŋ yi tɨnndé"
+  "NUM":
+    name: "Kuraa"
+    slug: "kuraa"
+    name_toc: "Ə́rɨ́b Nùb Tómé Yi Ə́llé"
+  "DEU":
+    name: "Gbɔgni"
+    slug: "gbgni"
+    name_toc: "Káàtà Pôl Yi Tɨnna Nùb Róòm"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+    name_toc: "Káàtà tíí Pôl yi tɨnna Nùb Kòréèntə̀"
+  "JDG":
+    name: "Sitɔɔra"
+    slug: "sitra"
+    name_toc: "Káàtà bɨrɨ́bí Pôl yi tɨnna Nùb Kòréèntə̀"
+  "RUT":
+    name: "Ruf"
+    slug: "ruf"
+    name_toc: "Káàtà Pôl yi tɨnna Nùb Gàlàtíì"
+  "1SA":
+    name: "1 Samuɛl"
+    slug: "1-samul"
+    name_toc: "Káàtà Pôl yi tɨnna Nùb Èféès"
+  "2SA":
+    name: "2 Samuɛl"
+    slug: "2-samul"
+    name_toc: "Káàtà Pôl yi tɨnna Nùb Fìlíìb"
+  "1KI":
+    name: "1 Koora"
+    slug: "1-koora"
+    name_toc: "Káàtà Pôl yi tɨnna Nùb Kòlóòs"
+  "2KI":
+    name: "2 Koora"
+    slug: "2-koora"
+    name_toc: "Káàtà tíí Pôl yi tɨnna Nùb Tèsàlòníìk"
+  "1CH":
+    name: "1 Faala"
+    slug: "1-faala"
+    name_toc: "Káàtà bɨrɨ́bí Pôl yi tɨnna Nùb Tèsàlòníìk"
+  "2CH":
+    name: "2 Faala"
+    slug: "2-faala"
+    name_toc: "Káàtà tíí Pôl yi tɨnna Tìmòtéè"
+  "EZR":
+    name: "Ɛzra"
+    slug: "zra"
+    name_toc: "Káàtà bɨrɨ́bí Pôl yi tɨnna Tìmòtéè"
+  "NEH":
+    name: "Nɛhɛmia"
+    slug: "nhmia"
+    name_toc: "Káàtà Pôl yi tɨnna Tíìt"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+    name_toc: "Káàtà Pôl yi tɨnna Fìlèmóòŋ"
+  "JOB":
+    name: "Joob"
+    slug: "joob"
+    name_toc: "Káàtà kùb yi tɨnna Gbàŋ Èbɨ̀rə́ə̀"
+  "PSA":
+    name: "Yira"
+    slug: "yira"
+    name_toc: "Káàtà Jâk"
+  "PRO":
+    name: "Sɛɛliizi"
+    slug: "sliizi"
+    name_toc: "Káàtà tíí Píyéèr"
+  "ECC":
+    name: "Nunzuma"
+    slug: "nunzuma"
+    name_toc: "Káàtà bɨrɨ́bí Píyéèr"
+  "SNG":
+    name: "Yirsum"
+    slug: "yirsum"
+    name_toc: "Káàtà tíí Jâŋ"
+  "ISA":
+    name: "Aizaaya"
+    slug: "aizaaya"
+    name_toc: "Káàtà bɨrɨ́bí Jâŋ"
+  "JER":
+    name: "Jɛrɛmia"
+    slug: "jrmia"
+    name_toc: "Káàtà taarɨ́bí Jâŋ"
+  "LAM":
+    name: "Liyira"
+    slug: "liyira"
+    name_toc: "Káàtà Jûdə̀"
+  "EZK":
+    name: "Ɛzɛkiɛl"
+    slug: "zkil"
+    name_toc: "Àpòkàlîb"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+    name_toc: "Genesis"
+  "HOS":
+    name: "Hozia"
+    slug: "hozia"
+    name_toc: "Exodo"
+  "JOL":
+    name: "Jowɛl"
+    slug: "jowl"
+    name_toc: "Levitico"
+  "AMO":
+    name: "Emɔs"
+    slug: "ems"
+    name_toc: "Numero"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Deuteronomio"
+  "JON":
+    name: "Joona"
+    slug: "joona"
+    name_toc: "An Basahan ni Josue"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+    name_toc: "An Basahan han mga Maghurukom"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "An Basahan ni Ruth"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "An Syahan nga Basahan ni Samuel"
+  "ZEP":
+    name: "Zɛfania"
+    slug: "zfania"
+    name_toc: "An Ikaduha nga Basahan ni Samuel"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "An Syahan nga Basahan han mga Hadi"
+  "ZEC":
+    name: "Zɛkaria"
+    slug: "zkaria"
+    name_toc: "An Ikaduha nga Basahan han mga Hadi"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+    name_toc: "An Syahan nga Basahan han Cronicas"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "An Ikaduha nga Basahan han Cronicas"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+    name_toc: "An Basahan ni Esdras"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+    name_toc: "An Basahan ni Nehemias"
+  "JHN":
+    name: "Jɔɔn"
+    slug: "jn"
+    name_toc: "An Basahan ni Ester"
+  "ACT":
+    name: "Wiɛɛlaa"
+    slug: "wilaa"
+    name_toc: "An Basahan ni Job"
+  "ROM":
+    name: "Room"
+    slug: "room"
+    name_toc: "Mga Salmo"
+  "1CO":
+    name: "1 Kɔrint"
+    slug: "1-krint"
+    name_toc: "Mga Darahonon"
+  "2CO":
+    name: "2 Kɔrint"
+    slug: "2-krint"
+    name_toc: "Ecclesiastes"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+    name_toc: "Kanta han mga Kanta"
+  "EPH":
+    name: "Ɛfɛsus"
+    slug: "fsus"
+    name_toc: "An Basahan ni Isaias"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+    name_toc: "An Basahan ni Jeremias"
+  "COL":
+    name: "Kɔlɔsi"
+    slug: "klsi"
+    name_toc: "Mga Pagnguyngoy"
+  "1TH":
+    name: "1 Tɛsalɔnika"
+    slug: "1-tsalnika"
+    name_toc: "An Basahan ni Ezequiel"
+  "2TH":
+    name: "2 Tɛsalɔnika"
+    slug: "2-tsalnika"
+    name_toc: "An Basahan ni Daniel"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "An Basahan ni Oseas"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "An Basahan ni Joel"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+    name_toc: "An Basahan ni Amos"
+  "PHM":
+    name: "Failimɔn"
+    slug: "failimn"
+    name_toc: "An Basahan ni Abdias"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "An Basahan ni Jonas"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "An Basahan ni Miqueas"
+  "1PE":
+    name: "1 Pitta"
+    slug: "1-pitta"
+    name_toc: "An Basahan ni Nahum"
+  "2PE":
+    name: "2 Pitta"
+    slug: "2-pitta"
+    name_toc: "An Basahan ni Habacuc"
+  "1JN":
+    name: "1 Jɔɔn"
+    slug: "1-jn"
+    name_toc: "An Basahan ni Sofonias"
+  "2JN":
+    name: "2 Jɔɔn"
+    slug: "2-jn"
+    name_toc: "An Basahan ni Hageo"
+  "3JN":
+    name: "3 Jɔɔn"
+    slug: "3-jn"
+    name_toc: "An Basahan ni Zacarias"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+    name_toc: "An Basahan ni Malaquias"
+  "REV":
+    name: "Wipillaa"
+    slug: "wipillaa"
+    name_toc: "An Basahan ni Tobit"

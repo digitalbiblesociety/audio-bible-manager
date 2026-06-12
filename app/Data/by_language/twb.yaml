@@ -1,0 +1,266 @@
+language: "twb"
+books:
+  "GEN":
+    name: "Fakasigadan"
+    slug: "fakasigadan"
+    name_toc: "Surat Koduo ni Paulus so Puimpugan so Tisalunika"
+  "EXO":
+    name: "Nu Galin"
+    slug: "nu-galin"
+    name_toc: "Surat Koido ni Paulus so si Timutius"
+  "LEV":
+    name: "Lebitiku"
+    slug: "lebitiku"
+    name_toc: "Surat Koduo ni Paulus so si Timutius"
+  "NUM":
+    name: "Tap"
+    slug: "tap"
+    name_toc: "Surat ni Paulus so si Titus"
+  "DEU":
+    name: "Deuterunumyu"
+    slug: "deuterunumyu"
+    name_toc: "Surat ni Paulus so si Pilimun"
+  "JOS":
+    name: "Uswe"
+    slug: "uswe"
+    name_toc: "Surat so Lobuw Ibrani"
+  "JDG":
+    name: "Tagfangguna"
+    slug: "tagfangguna"
+    name_toc: "Surat ni Yakubus so Inong Niyo Poimaid"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Surat Koido ni Pitrus"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+    name_toc: "Surat Koduo ni Pitrus"
+  "2SA":
+    name: "2 Samwel"
+    slug: "2-samwel"
+    name_toc: "Surat Koido ni Yuanis"
+  "1KI":
+    name: "1 Fun"
+    slug: "1-fun"
+    name_toc: "Surat Koduo ni Yuanis"
+  "2KI":
+    name: "2 Fun"
+    slug: "2-fun"
+    name_toc: "Surat Kotolu ni Yuanis"
+  "1CH":
+    name: "1 Krunika"
+    slug: "1-krunika"
+    name_toc: "Surat ni Yudas"
+  "2CH":
+    name: "2 Krunika"
+    slug: "2-krunika"
+    name_toc: "Pinointolang so si Yuanis"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "TE EVANGELIO yuꞌun SAN MATEO"
+  "NEH":
+    name: "Nemyas"
+    slug: "nemyas"
+    name_toc: "TE EVANGELIO yuꞌun SAN MARCOSE"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "TE EVANGELIO yuꞌun SAN LUCAS"
+  "JOB":
+    name: "Ub"
+    slug: "ub"
+    name_toc: "TE EVANGELIO yuꞌun SAN JUAN"
+  "PSA":
+    name: "Alubad."
+    slug: "alubad"
+    name_toc: "YAꞌTELIK TE APOSTOLETIKE"
+  "PRO":
+    name: "Fangatulun"
+    slug: "fangatulun"
+    name_toc: "Scarta San Pablo Te La Stikon Ta Romae"
+  "ECC":
+    name: "Takamoyung"
+    slug: "takamoyung"
+    name_toc: "PRIMERO SKARTA JCORINTIOETIK TE LA STSꞌIBAY TE JPABLOE"
+  "SNG":
+    name: "Sulumun at Alubad"
+    slug: "sulumun-at-alubad"
+    name_toc: "XCHEBAL SKARTA JCORINTOETIK TE LA STSꞌIBAY TE PABLOE"
+  "ISA":
+    name: "Isayas"
+    slug: "isayas"
+    name_toc: "Skarta San Pablo Te La Stikon Ta Galaciae"
+  "JER":
+    name: "Eremyas"
+    slug: "eremyas"
+    name_toc: "Scarta San Pablo Te La Stikon Ta Efeso"
+  "LAM":
+    name: "Takabalu"
+    slug: "takabalu"
+    name_toc: "Scarta San Pablo Te La Stikon Ta Filipos"
+  "EZK":
+    name: "Esekyel"
+    slug: "esekyel"
+    name_toc: "Skarta San Pablo Te La Stikon Ta Colosas"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Primero Skarta San Pablo Te La Stikon Ta Tesalonikae"
+  "HOS":
+    name: "Usea"
+    slug: "usea"
+    name_toc: "Xchebal Skarta San Pablo Te La Stikon Ta Tesalonicae"
+  "JOL":
+    name: "Uel"
+    slug: "uel"
+    name_toc: "PRIMERO SKARTA SAN PABLO YUꞌUN TE JTIMOTEOE"
+  "AMO":
+    name: "Amus"
+    slug: "amus"
+    name_toc: "XCHEBAL SKARTA SAN PABLO YUꞌUN TE JTIMOTEOE"
+  "OBA":
+    name: "Ubadyas"
+    slug: "ubadyas"
+    name_toc: "SKARTA SAN PABLO YUꞌUN TE TITOE"
+  "JON":
+    name: "Unas"
+    slug: "unas"
+    name_toc: "SCARTA SAN PABLO YUꞌUN TE FILEMONE"
+  "MIC":
+    name: "Mikas"
+    slug: "mikas"
+    name_toc: "KARTA YUꞌUN TE HEBREOETIKE"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+    name_toc: "Skarta te Santiagoe"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Primero Skarta Te San Pedro"
+  "ZEP":
+    name: "Sefanias"
+    slug: "sefanias"
+    name_toc: "Xchebal Skarta Te San Pedroe"
+  "HAG":
+    name: "Agay"
+    slug: "agay"
+    name_toc: "Primero Skarta Te San Juan"
+  "ZEC":
+    name: "Sakaryas"
+    slug: "sakaryas"
+    name_toc: "Xchebal Skarta Te San Juane"
+  "MAL":
+    name: "Malakyas"
+    slug: "malakyas"
+    name_toc: "Yoxebal Skarta Te San Juane"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Skarta Te San Judase"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Ja Te Apocalipsis"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Génesis"
+  "JHN":
+    name: "Uan"
+    slug: "uan"
+    name_toc: "Éxodo"
+  "ACT":
+    name: "Fakamulun"
+    slug: "fakamulun"
+    name_toc: "Levítico"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"
+    name_toc: "Números"
+  "1CO":
+    name: "1 Kurintu"
+    slug: "1-kurintu"
+    name_toc: "Deuteronomio"
+  "2CO":
+    name: "2 Kurintu."
+    slug: "2-kurintu"
+    name_toc: "Josué"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+    name_toc: "Jueces"
+  "EPH":
+    name: "Efesu"
+    slug: "efesu"
+    name_toc: "Rut"
+  "PHP":
+    name: "Filipus"
+    slug: "filipus"
+    name_toc: "Primer libro de Samuel"
+  "COL":
+    name: "Kulusas"
+    slug: "kulusas"
+    name_toc: "Segundo libro de Samuel"
+  "1TH":
+    name: "1 Tesalunika"
+    slug: "1-tesalunika"
+    name_toc: "Primer libro de los Reyes"
+  "2TH":
+    name: "2 Tesalunika"
+    slug: "2-tesalunika"
+    name_toc: "Segundo libro de los Reyes"
+  "1TI":
+    name: "1 Timuteu"
+    slug: "1-timuteu"
+    name_toc: "Primer libro de las Crónicas"
+  "2TI":
+    name: "2 Timuteu"
+    slug: "2-timuteu"
+    name_toc: "Segundo libro de las Crónicas"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Esdras"
+  "PHM":
+    name: "Filemun"
+    slug: "filemun"
+    name_toc: "Nehemías"
+  "HEB":
+    name: "Ebreu"
+    slug: "ebreu"
+    name_toc: "Ester"
+  "JAS":
+    name: "Santiagu"
+    slug: "santiagu"
+    name_toc: "Job"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+    name_toc: "Salmos"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+    name_toc: "Proverbios"
+  "1JN":
+    name: "1 Uan"
+    slug: "1-uan"
+    name_toc: "Eclesiastés"
+  "2JN":
+    name: "2 Uan"
+    slug: "2-uan"
+    name_toc: "El Cantar de los Cantares"
+  "3JN":
+    name: "3 Uan"
+    slug: "3-uan"
+    name_toc: "Isaías"
+  "JUD":
+    name: "Udas"
+    slug: "udas"
+    name_toc: "Jeremías"
+  "REV":
+    name: "At Nafasure"
+    slug: "at-nafasure"
+    name_toc: "Lamentaciones"

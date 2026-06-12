@@ -1,0 +1,104 @@
+language: "wmw"
+books:
+  "GEN":
+    name: "Mwanzo"
+    slug: "mwanzo"
+  "EXO":
+    name: "Kulawa"
+    slug: "kulawa"
+  "DEU":
+    name: "Kumbukumbu"
+    slug: "kumbukumbu"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samuweli"
+    slug: "1-samuweli"
+  "2SA":
+    name: "2 Samuweli"
+    slug: "2-samuweli"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+  "MAT":
+    name: "Matwaya"
+    slug: "matwaya"
+  "MRK":
+    name: "Maruku"
+    slug: "maruku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"
+  "ACT":
+    name: "Vitendo"
+    slug: "vitendo"
+  "ROM":
+    name: "waRoma"
+    slug: "waroma"
+  "1CO":
+    name: "1 waKorintiyu"
+    slug: "1-wakorintiyu"
+  "2CO":
+    name: "2 waKorintiyu"
+    slug: "2-wakorintiyu"
+  "GAL":
+    name: "waGalata"
+    slug: "wagalata"
+  "EPH":
+    name: "waEfezu"
+    slug: "waefezu"
+  "PHP":
+    name: "waFilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "waKolosayi"
+    slug: "wakolosayi"
+  "1TH":
+    name: "1 waTesalonika"
+    slug: "1-watesalonika"
+  "2TH":
+    name: "2 waTesalonika"
+    slug: "2-watesalonika"
+  "1TI":
+    name: "1 Timotiyu"
+    slug: "1-timotiyu"
+  "2TI":
+    name: "2 Timotiyu"
+    slug: "2-timotiyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Waebraniya"
+    slug: "waebraniya"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+  "1PE":
+    name: "1 Peduru"
+    slug: "1-peduru"
+  "2PE":
+    name: "2 Peduru"
+    slug: "2-peduru"
+  "1JN":
+    name: "1 Yahaya"
+    slug: "1-yahaya"
+  "2JN":
+    name: "2 Yahaya"
+    slug: "2-yahaya"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ufunuri"
+    slug: "ufunuri"

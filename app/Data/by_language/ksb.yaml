@@ -1,0 +1,110 @@
+language: "ksb"
+books:
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+    name_toc: "Ulau wedi wa Mateyo"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+    name_toc: "Ulau wedi wa Maliko."
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ulau wedi wa Luka."
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ulau wedi wa Yohana."
+  "ACT":
+    name: "Ntuṅwa"
+    slug: "ntunwa"
+    name_toc: "Ndima za Ntuṅwa."
+  "ROM":
+    name: "Waloma"
+    slug: "waloma"
+    name_toc: "Baluwa ya Paulo kwa Waloma."
+  "1CO":
+    name: "1. Wakolinto"
+    slug: "1-wakolinto"
+    name_toc: "Baluwa ya Paulo ya bosi kwa Wakolinto."
+  "2CO":
+    name: "2. Wakolinto"
+    slug: "2-wakolinto"
+    name_toc: "Baluwa ya Paulo ya mbili kwa Wakolinto."
+  "GAL":
+    name: "Wagalatiya"
+    slug: "wagalatiya"
+    name_toc: "Baluwa ya Paulo kwa Wagalatiya."
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Baluwa ya Paulo kwa Waefeso."
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "Baluwa ya Paulo kwa Wafilipi."
+  "COL":
+    name: "Wakolose"
+    slug: "wakolose"
+    name_toc: "Baluwa ya Paulo kwa Wakolose."
+  "1TH":
+    name: "1. Watesalonike"
+    slug: "1-watesalonike"
+    name_toc: "Baluwa ya Paulo ya bosi kwa Watesalonike."
+  "2TH":
+    name: "2. Watesalonike"
+    slug: "2-watesalonike"
+    name_toc: "Baluwa ya Paulo ya mbili kwa Watesalonike."
+  "1TI":
+    name: "1. Timoteyo"
+    slug: "1-timoteyo"
+    name_toc: "Baluwa ya Paulo ya bosi kwa Timoteyo."
+  "2TI":
+    name: "2. Timoteyo"
+    slug: "2-timoteyo"
+    name_toc: "Baluwa ya Paulo ya mbili kwa Timoteyo."
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Baluwa ya Paulo kwa Tito."
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Baluwa ya Paulo kwa Filemoni."
+  "HEB":
+    name: "Waebuleyo"
+    slug: "waebuleyo"
+    name_toc: "Baluwa kwa Waebuleyo."
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Baluwa ya Yakobo."
+  "1PE":
+    name: "1. Petelo"
+    slug: "1-petelo"
+    name_toc: "Baluwa ya Petelo ya bosi."
+  "2PE":
+    name: "2. Petelo"
+    slug: "2-petelo"
+    name_toc: "Baluwa ya Petelo ya mbili."
+  "1JN":
+    name: "1. Yohana"
+    slug: "1-yohana"
+    name_toc: "Baluwa ya Yohana ya bosi."
+  "2JN":
+    name: "2. Yohana"
+    slug: "2-yohana"
+    name_toc: "Baluwa ya Yohana ya mbili."
+  "3JN":
+    name: "3. Yohana"
+    slug: "3-yohana"
+    name_toc: "Baluwa ya Yohana ya ntatu."
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Baluwa ya Yuda."
+  "REV":
+    name: "Mfumbulo"
+    slug: "mfumbulo"
+    name_toc: "Mfumbulo wa Yohana."

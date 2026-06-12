@@ -1,0 +1,239 @@
+language: "grc"
+books:
+  "GEN":
+    name: "Γενεσις"
+    slug: "genesis"
+  "EXO":
+    name: "Εξοδος"
+    slug: "exodos"
+  "LEV":
+    name: "Λευιτικον"
+    slug: "leuitikon"
+  "NUM":
+    name: "Αριθμοι"
+    slug: "arithmoi"
+  "DEU":
+    name: "Δευτερονομιον"
+    slug: "deuteronomion"
+  "JOS":
+    name: "Ιησους"
+    slug: "iesous"
+  "JDG":
+    name: "Κριται"
+    slug: "kritai"
+  "RUT":
+    name: "Ρουθ"
+    slug: "routh"
+  "1SA":
+    name: "Βασιλειων Α"
+    slug: "basileion-a"
+  "2SA":
+    name: "Βασιλειων Β"
+    slug: "basileion-b"
+  "1KI":
+    name: "Βασιλειων Γ"
+    slug: "basileion-g"
+  "2KI":
+    name: "Βασιλειων Δ"
+    slug: "basileion-d"
+  "1CH":
+    name: "Παραλειπομενων Α"
+    slug: "paraleipomenon-a"
+  "2CH":
+    name: "Παραλειπομενων Β"
+    slug: "paraleipomenon-b"
+  "EZR":
+    name: "Εσδρας"
+    slug: "esdras"
+  "JOB":
+    name: "Ιωβ"
+    slug: "iob"
+  "PSA":
+    name: "Ψαλμοι"
+    slug: "psalmoi"
+  "PRO":
+    name: "Παροιμιαι"
+    slug: "paroimiai"
+  "ECC":
+    name: "Εκκλησιαστης"
+    slug: "ekklesiastes"
+  "SNG":
+    name: "Ασμα"
+    slug: "asma"
+  "ISA":
+    name: "Ησαιας"
+    slug: "esaias"
+  "JER":
+    name: "Ιερεμιας"
+    slug: "ieremias"
+  "LAM":
+    name: "Θρηνοι"
+    slug: "threnoi"
+  "EZK":
+    name: "Ιεζεκιηλ"
+    slug: "iezekiel"
+  "HOS":
+    name: "Ωσηε. Αʹ"
+    slug: "osee-a"
+  "JOL":
+    name: "Ιωηλ. Δʹ"
+    slug: "ioel-d"
+  "AMO":
+    name: "Αμως. Βʹ"
+    slug: "amos-b"
+  "OBA":
+    name: "Οβδειου. Εʹ"
+    slug: "obdeiou-e"
+  "JON":
+    name: "ΙΩΝΑΣ. ϛʹ"
+    slug: "ionas"
+  "MIC":
+    name: "Μιχαιας. Γʹ"
+    slug: "michaias-g"
+  "NAM":
+    name: "Ναουμ. Ζʹ"
+    slug: "naoum-z"
+  "HAB":
+    name: "Αμβακουμ. Ηʹ"
+    slug: "ambakoum-e"
+  "ZEP":
+    name: "Σοφονιας. Θʹ"
+    slug: "sophonias-th"
+  "HAG":
+    name: "Αγγαιος. Ιʹ"
+    slug: "aggaios-i"
+  "ZEC":
+    name: "Ζαχαριας. Ιαʹ"
+    slug: "zacharias-ia"
+  "MAL":
+    name: "Μαλαχιας. Ιβʹ"
+    slug: "malachias-ib"
+  "TOB":
+    name: "Τωβιτ"
+    slug: "tobit"
+  "JDT":
+    name: "Ιουδιθ"
+    slug: "ioudith"
+  "ESG":
+    name: "Εσθηρ"
+    slug: "esther"
+  "WIS":
+    name: "Σοφια"
+    slug: "sophia"
+  "SIR":
+    name: "Βαρουχ"
+    slug: "barouch"
+  "BAR":
+    name: "Βαρουχ"
+    slug: "barouch"
+  "LJE":
+    name: "Επιστολη Ιερεμιου"
+    slug: "epistole-ieremiou"
+  "SUS":
+    name: "Σωσαννα"
+    slug: "sosanna"
+  "BEL":
+    name: "Βηλ"
+    slug: "bel"
+  "DAG":
+    name: "ΔΑΝΙΗΛ (Ελληνικά)"
+    slug: "daniel-ellenika"
+  "1MA":
+    name: "Μακκαβαιων Αʹ"
+    slug: "makkabaion-a"
+  "2MA":
+    name: "Μακκαβαιων Βʹ"
+    slug: "makkabaion-b"
+  "3MA":
+    name: "Μακκαβαιων Γʹ"
+    slug: "makkabaion-g"
+  "4MA":
+    name: "Μακκαβαιων Δʹ"
+    slug: "makkabaion-d"
+  "1ES":
+    name: "Εσδρας. Αʹ"
+    slug: "esdras-a"
+  "MAN":
+    name: "Προσευχη"
+    slug: "proseuche"
+  "MAT":
+    name: "Κατα Ματθαιον"
+    slug: "kata-matthaion"
+  "MRK":
+    name: "Κατα Μαρκον"
+    slug: "kata-markon"
+  "LUK":
+    name: "Κατα Λουκαν"
+    slug: "kata-loukan"
+  "JHN":
+    name: "Κατα Ιωαννην"
+    slug: "kata-ioannen"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Προς Ρωμαιους"
+    slug: "pros-romaious"
+  "1CO":
+    name: "Προς Κορινθιους Α"
+    slug: "pros-korinthious-a"
+  "2CO":
+    name: "Προς Κορινθιους Β"
+    slug: "pros-korinthious-b"
+  "GAL":
+    name: "Προς Γαλατας"
+    slug: "pros-galatas"
+  "EPH":
+    name: "Προς Εφεσιους"
+    slug: "pros-ephesious"
+  "PHP":
+    name: "Προς Φιλιππησιους"
+    slug: "pros-philippesious"
+  "COL":
+    name: "Προς Κολοσσαεις"
+    slug: "pros-kolossaeis"
+  "1TH":
+    name: "Προς Θεσσαλονικεις Α"
+    slug: "pros-thessalonikeis-a"
+  "2TH":
+    name: "Προς Θεσσαλονικεις Β"
+    slug: "pros-thessalonikeis-b"
+  "1TI":
+    name: "Προς Τιμοθεον Α"
+    slug: "pros-timotheon-a"
+  "2TI":
+    name: "Προς Τιμοθεον Β"
+    slug: "pros-timotheon-b"
+  "TIT":
+    name: "Προς Τιτον"
+    slug: "pros-titon"
+  "PHM":
+    name: "Προς Φιλημονα"
+    slug: "pros-philemona"
+  "HEB":
+    name: "Προς Εβραιους"
+    slug: "pros-ebraious"
+  "JAS":
+    name: "Ιακωβου"
+    slug: "iakobou"
+  "1PE":
+    name: "Πετρου Α"
+    slug: "petrou-a"
+  "2PE":
+    name: "Πετρου Β"
+    slug: "petrou-b"
+  "1JN":
+    name: "Ιωαννου Α"
+    slug: "ioannou-a"
+  "2JN":
+    name: "Ιωαννου Β"
+    slug: "ioannou-b"
+  "3JN":
+    name: "Ιωαννου Γ"
+    slug: "ioannou-g"
+  "JUD":
+    name: "Ιουδα"
+    slug: "iouda"
+  "REV":
+    name: "Αποκαλυψις"
+    slug: "apokalypsis"

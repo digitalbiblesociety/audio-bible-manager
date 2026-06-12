@@ -1,0 +1,314 @@
+language: "loz"
+books:
+  "GEN":
+    name: "Simuluho"
+    slug: "simuluho"
+    name_toc: "Buka ya Simuluho"
+  "EXO":
+    name: "Mututo"
+    slug: "mututo"
+    name_toc: "Buka ya Mututo"
+  "LEV":
+    name: "Malivi"
+    slug: "malivi"
+    name_toc: "Buka ya Malivi"
+  "NUM":
+    name: "Lipalo"
+    slug: "lipalo"
+    name_toc: "Buka ya Lipalo"
+  "DEU":
+    name: "Mulao"
+    slug: "mulao"
+    name_toc: "Buka ya Mulao"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Buka ya Joshua"
+  "JDG":
+    name: "Baatuli"
+    slug: "baatuli"
+    name_toc: "Buka ya Baatuli"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Buka ya Ruti"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Buka ya Pili ya Samuele"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Buka ya Bubeli ya Samuele"
+  "1KI":
+    name: "1 Malena"
+    slug: "1-malena"
+    name_toc: "Buka ya Pili ya Malena"
+  "2KI":
+    name: "2 Malena"
+    slug: "2-malena"
+    name_toc: "Buka ya Bubeli ya Malena"
+  "1CH":
+    name: "1 Litaba"
+    slug: "1-litaba"
+    name_toc: "Buka ya Pili ya Litaba"
+  "2CH":
+    name: "2 Litaba"
+    slug: "2-litaba"
+    name_toc: "Buka ya Bubeli ya Litaba"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Buka ya Ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Buka ya Nehemia"
+  "EST":
+    name: "Estere"
+    slug: "estere"
+    name_toc: "Buka ya Estere"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "Buka ya Jobo"
+  "PSA":
+    name: "Lipina"
+    slug: "lipina"
+    name_toc: "Lipina"
+  "PRO":
+    name: "Mashitanguti"
+    slug: "mashitanguti"
+    name_toc: "Buka ya Mashitanguti"
+  "ECC":
+    name: "Mubuleli"
+    slug: "mubuleli"
+    name_toc: "Buka ya Mubuleli"
+  "SNG":
+    name: "Pina ya Lipina"
+    slug: "pina-ya-lipina"
+    name_toc: "Pina ya Lipina"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Buka ya Isaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Buka ya Jeremia"
+  "LAM":
+    name: "Sililo"
+    slug: "sililo"
+    name_toc: "Buka ya Sililo"
+  "EZK":
+    name: "Ezekiele"
+    slug: "ezekiele"
+    name_toc: "Buka ya Ezekiele"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Buka ya Daniele"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Buka ya Hosea"
+  "JOL":
+    name: "Joele"
+    slug: "joele"
+    name_toc: "Buka ya Joele"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Buka ya Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Buka ya Obadia"
+  "JON":
+    name: "Jonasi"
+    slug: "jonasi"
+    name_toc: "Buka ya Jonasi"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Buka ya Mika"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+    name_toc: "Buka ya Nahumi"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Buka ya Habakuki"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Buka ya Zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Buka ya Hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Buka ya Zakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Buka ya Malaki"
+  "TOB":
+    name: "Tobita"
+    slug: "tobita"
+    name_toc: "Buka ya Tobita"
+  "JDT":
+    name: "Judisi"
+    slug: "judisi"
+    name_toc: "Buka ya Judisi"
+  "ESG":
+    name: "Dt. Estere"
+    slug: "dt-estere"
+    name_toc: "Buka ya Estere"
+  "WIS":
+    name: "Butali"
+    slug: "butali"
+    name_toc: "Buka Mo ku Ñozwi Za Butali"
+  "SIR":
+    name: "Lituto za Siraki"
+    slug: "lituto-za-siraki"
+    name_toc: "Lituto Za Siraki"
+  "BAR":
+    name: "Baruki"
+    slug: "baruki"
+    name_toc: "Buka ya Baruki"
+  "LJE":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Liñolo La Jeremia"
+  "S3Y":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Buka Ya Daniele"
+  "SUS":
+    name: "Suzana"
+    slug: "suzana"
+    name_toc: "Buka Ya Suzana"
+  "BEL":
+    name: "Bele"
+    slug: "bele"
+    name_toc: "Buka Ya Bele"
+  "1MA":
+    name: "Buka ya Pili ya Makabaeusi"
+    slug: "buka-ya-pili-ya-makabaeusi"
+    name_toc: "Buka ya Pili ya Makabaeusi"
+  "2MA":
+    name: "Buka ya Bubeli ya Makabaeusi"
+    slug: "buka-ya-bubeli-ya-makabaeusi"
+    name_toc: "Buka ya Bubeli ya Makabaeusi"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Evangeli ya Mateu"
+  "MRK":
+    name: "Mareka"
+    slug: "mareka"
+    name_toc: "Evangeli ya Mareka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Evangeli ya Luka"
+  "JHN":
+    name: "Joani"
+    slug: "joani"
+    name_toc: "Evangeli ya Joani"
+  "ACT":
+    name: "Likezo"
+    slug: "likezo"
+    name_toc: "Likezo"
+  "ROM":
+    name: "Baroma"
+    slug: "baroma"
+    name_toc: "Liñolo la Paulusi Kwa Baroma"
+  "1CO":
+    name: "1 Bakorinte"
+    slug: "1-bakorinte"
+    name_toc: "Liñolo la Pili la Paulusi Kwa Bakorinte"
+  "2CO":
+    name: "2 Bakorinte"
+    slug: "2-bakorinte"
+    name_toc: "Liñolo la Bubeli la Paulusi Kwa Bakorinte"
+  "GAL":
+    name: "Magalata"
+    slug: "magalata"
+    name_toc: "Liñolo la Paulusi Kwa Magalata"
+  "EPH":
+    name: "Baefese"
+    slug: "baefese"
+    name_toc: "Liñolo la Paulusi Kwa Baefese"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+    name_toc: "Liñolo la Paulusi Kwa Bafilipi"
+  "COL":
+    name: "Bakolose"
+    slug: "bakolose"
+    name_toc: "Liñolo la Paulusi Kwa Bakolose"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+    name_toc: "Liñolo la Pili la Paulusi Kwa Batesalonika"
+  "2TH":
+    name: "2 Batesalonika"
+    slug: "2-batesalonika"
+    name_toc: "Liñolo la Bubeli la Paulusi Kwa Batesalonika"
+  "1TI":
+    name: "1 Timotea"
+    slug: "1-timotea"
+    name_toc: "Liñolo la Pili la Paulusi ku Timotea"
+  "2TI":
+    name: "2 Timotea"
+    slug: "2-timotea"
+    name_toc: "Liñolo la Bubeli la Paulusi ku Timotea"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+    name_toc: "Liñolo la Paulusi ku Tite"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Liñolo la Paulusi ku Filemoni"
+  "HEB":
+    name: "Maheberu"
+    slug: "maheberu"
+    name_toc: "Liñolo la Kwa Maheberu"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Liñolo la Jakobo"
+  "1PE":
+    name: "1 Pitrosi"
+    slug: "1-pitrosi"
+    name_toc: "Liñolo la Pili la Pitrosi"
+  "2PE":
+    name: "2 Pitrosi"
+    slug: "2-pitrosi"
+    name_toc: "Liñolo la Bubeli la Pitrosi"
+  "1JN":
+    name: "1 Joani"
+    slug: "1-joani"
+    name_toc: "Liñolo la Pili la Joani"
+  "2JN":
+    name: "2 Joani"
+    slug: "2-joani"
+    name_toc: "Liñolo la Bubeli la Joani"
+  "3JN":
+    name: "3 Joani"
+    slug: "3-joani"
+    name_toc: "Liñolo la Bulalu la Joani"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Liñolo la Juda"
+  "REV":
+    name: "Sinulo"
+    slug: "sinulo"
+    name_toc: "Sinulo ya Joani"

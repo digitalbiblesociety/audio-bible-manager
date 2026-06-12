@@ -1,0 +1,62 @@
+language: "tkr"
+books:
+  "GEN":
+    name: "Ts'etta"
+    slug: "ts-etta"
+  "EXO":
+    name: "Qığeepç'iy"
+    slug: "qgeepc-iy"
+  "NUM":
+    name: "Raq'ambı"
+    slug: "raq-amb"
+  "DEU":
+    name: "Q'aanun q'öb'es"
+    slug: "q-aanun-q-ob-es"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1-Samuelin"
+    slug: "1-samuelin"
+  "2SA":
+    name: "2-Samuelin"
+    slug: "2-samuelin"
+  "1KI":
+    name: "1-Paççahaaşin"
+    slug: "1-paccahaasin"
+  "2KI":
+    name: "2-Paççahaaşin"
+    slug: "2-paccahaasin"
+  "PSA":
+    name: "Zabur"
+    slug: "zabur"
+  "PRO":
+    name: "Фасил"
+    slug: "fasil"
+  "ECC":
+    name: "Mə'əllim"
+    slug: "me-ellim"
+  "DAN":
+    name: "Daniyal"
+    slug: "daniyal"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yəhye"
+    slug: "yehye"
+  "HEB":
+    name: "Cühüt'yaaşis"
+    slug: "cuhut-yaasis"
+  "JAS":
+    name: "Yaaq'ub"
+    slug: "yaaq-ub"

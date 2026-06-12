@@ -1,0 +1,53 @@
+language: "nkn"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Iuano"
+    slug: "iuano"
+  "ACT":
+    name: "Vilinga"
+    slug: "vilinga"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinte"
+    slug: "1-kolinte"
+  "2CO":
+    name: "2 Kolinte"
+    slug: "2-kolinte"
+  "GAL":
+    name: "Ngalata"
+    slug: "ngalata"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipu"
+    slug: "filipu"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timateo"
+    slug: "1-timateo"
+  "2TI":
+    name: "2 Timateo"
+    slug: "2-timateo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"

@@ -1,0 +1,83 @@
+language: "lmd"
+books:
+  "MAT":
+    name: "Maththa"
+    slug: "maththa"
+  "MRK":
+    name: "Markkoc"
+    slug: "markkoc"
+  "LUK":
+    name: "Lukka"
+    slug: "lukka"
+  "JHN":
+    name: "Iuanna"
+    slug: "iuanna"
+  "ACT":
+    name: "Ngre"
+    slug: "ngre"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Kurunthuc 1"
+    slug: "kurunthuc-1"
+  "2CO":
+    name: "Kurunthuc 2"
+    slug: "kurunthuc-2"
+  "GAL":
+    name: "Kalaththia"
+    slug: "kalaththia"
+  "EPH":
+    name: "Apuccuc"
+    slug: "apuccuc"
+  "PHP":
+    name: "Pilippi"
+    slug: "pilippi"
+  "COL":
+    name: "Kulucci"
+    slug: "kulucci"
+  "1TH":
+    name: "Thocculunukkia 1"
+    slug: "thocculunukkia-1"
+  "2TH":
+    name: "Thocculunukkia 2"
+    slug: "thocculunukkia-2"
+  "1TI":
+    name: "Thimiththaoc 1"
+    slug: "thimiththaoc-1"
+  "2TI":
+    name: "Thimiththaoc 2"
+    slug: "thimiththaoc-2"
+  "TIT":
+    name: "Thiththoc"
+    slug: "thiththoc"
+  "PHM":
+    name: "Pelemun"
+    slug: "pelemun"
+  "HEB":
+    name: "Ipranin"
+    slug: "ipranin"
+  "JAS":
+    name: "Iakup"
+    slug: "iakup"
+  "1PE":
+    name: "Poththuruc 1"
+    slug: "poththuruc-1"
+  "2PE":
+    name: "Poththuruc 2"
+    slug: "poththuruc-2"
+  "1JN":
+    name: "Iuanna 1"
+    slug: "iuanna-1"
+  "2JN":
+    name: "Iuanna 2"
+    slug: "iuanna-2"
+  "3JN":
+    name: "Iuanna 3"
+    slug: "iuanna-3"
+  "JUD":
+    name: "Ioutha"
+    slug: "ioutha"
+  "REV":
+    name: "Thitto"
+    slug: "thitto"

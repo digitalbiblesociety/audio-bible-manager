@@ -1,0 +1,266 @@
+language: "khm"
+books:
+  "GEN":
+    name: "លោកុប្បត្តិ"
+    slug: "lokobbatte"
+    name_toc: "《លោកុប្បត្តិ》"
+  "EXO":
+    name: "និក្ខមនំ"
+    slug: "nikkhamnum"
+    name_toc: "និក្ខមនំ"
+  "LEV":
+    name: "លេវីវិន័យ"
+    slug: "levivinyo"
+    name_toc: "លេវី‌វិន័យ"
+  "NUM":
+    name: "ជនគណនា"
+    slug: "chonkonnea"
+    name_toc: "ជនគណនា (ជំរឿនប្រជាជន)"
+  "DEU":
+    name: "ទុតិយកថា"
+    slug: "tuteykatha"
+    name_toc: "ទុតិយ‌កថា"
+  "JOS":
+    name: "យ៉ូស្វេ"
+    slug: "yosve"
+    name_toc: "យ៉ូស្វេ"
+  "JDG":
+    name: "ចៅហ្វាយ"
+    slug: "chauhvay"
+    name_toc: "ពួក​ចៅហ្វាយ"
+  "RUT":
+    name: "នាងរស់"
+    slug: "neangros"
+    name_toc: "នាងរស់ (នាងរូថ)"
+  "1SA":
+    name: "១ សាំយូអែល"
+    slug: "1-samyuael"
+    name_toc: "សាំយូអែល ទី១ (សាមូអែល ទី ១)"
+  "2SA":
+    name: "២ សាំយូអែល"
+    slug: "2-samyuael"
+    name_toc: "សាំយូអែល ទី២ (សាមូអែល ទី ២)"
+  "1KI":
+    name: "១ ពង្សាវតារក្សត្រ"
+    slug: "1-pongseavtarksatr"
+    name_toc: "ពង្សាវតារ‌ក្សត្រ ទី១"
+  "2KI":
+    name: "២ ពង្សាវតារក្សត្រ"
+    slug: "2-pongseavtarksatr"
+    name_toc: "ពង្សាវតារ‌ក្សត្រ ទី២"
+  "1CH":
+    name: "១ របាក្សត្រ"
+    slug: "1-robaksatr"
+    name_toc: "របាក្សត្រ ទី១"
+  "2CH":
+    name: "២ របាក្សត្រ"
+    slug: "2-robaksatr"
+    name_toc: "របាក្សត្រ ទី២"
+  "EZR":
+    name: "អែសរ៉ា"
+    slug: "aesra"
+    name_toc: "អែសរ៉ា"
+  "NEH":
+    name: "នេហេមា"
+    slug: "nehemea"
+    name_toc: "នេហេមា"
+  "EST":
+    name: "នាងអេសធើរ"
+    slug: "neangestheur"
+    name_toc: "នាងអេសធើរ (ព្រះនាងអេសធើរ)"
+  "JOB":
+    name: "យ៉ូប"
+    slug: "yob"
+    name_toc: "យ៉ូប"
+  "PSA":
+    name: "ទំនុកដំកើង"
+    slug: "tumnukdamkaeung"
+    name_toc: "ទំនុកដំកើង"
+  "PRO":
+    name: "សុភាសិត"
+    slug: "sopheaset"
+    name_toc: "សុភាសិត"
+  "ECC":
+    name: "តួន"
+    slug: "tuon"
+    name_toc: "តួន"
+  "SNG":
+    name: "បទ​ចំរៀង"
+    slug: "batchamrieng"
+    name_toc: "បទ​ចំរៀងសាឡូ‌ម៉ូន"
+  "ISA":
+    name: "អេសាយ"
+    slug: "esay"
+    name_toc: "អេសាយ"
+  "JER":
+    name: "យេរេមា"
+    slug: "yeremea"
+    name_toc: "យេរេមា"
+  "LAM":
+    name: "សំណោក"
+    slug: "samnaok"
+    name_toc: "សំណោក"
+  "EZK":
+    name: "អេសេគាល"
+    slug: "esekeal"
+    name_toc: "អេសេគាល (ព្យាការីអេសេគីអែល)"
+  "DAN":
+    name: "ដានីយ៉ែល"
+    slug: "daniyael"
+    name_toc: "ដានីយ៉ែល (លោកដានីអែល)"
+  "HOS":
+    name: "ហូសេ"
+    slug: "hose"
+    name_toc: "ហូសេ"
+  "JOL":
+    name: "យ៉ូអែល"
+    slug: "yoael"
+    name_toc: "យ៉ូអែល"
+  "AMO":
+    name: "អេម៉ុស"
+    slug: "emos"
+    name_toc: "អេម៉ុស"
+  "OBA":
+    name: "អូបាឌា"
+    slug: "obadea"
+    name_toc: "អូបាឌា"
+  "JON":
+    name: "យ៉ូណាស"
+    slug: "yonas"
+    name_toc: "យ៉ូណាស"
+  "MIC":
+    name: "មីកា"
+    slug: "mika"
+    name_toc: "មីកា"
+  "NAM":
+    name: "ណាហ៊ុម"
+    slug: "nahum"
+    name_toc: "ណាហ៊ុម"
+  "HAB":
+    name: "ហាបាគុក"
+    slug: "habakuk"
+    name_toc: "ហាបាគុក"
+  "ZEP":
+    name: "សេផានា"
+    slug: "sephanea"
+    name_toc: "សេផានា"
+  "HAG":
+    name: "ហាកាយ"
+    slug: "hakay"
+    name_toc: "ហាកាយ"
+  "ZEC":
+    name: "សាការី"
+    slug: "sakari"
+    name_toc: "សាការី"
+  "MAL":
+    name: "ម៉ាឡាគី"
+    slug: "malaki"
+    name_toc: "ម៉ាឡាគី"
+  "MAT":
+    name: "ម៉ាថាយ"
+    slug: "mathay"
+    name_toc: "ដំណឹង‌ល្អ​តាម​លោក​ម៉ាថាយ"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Mark"
+  "LUK":
+    name: "លូកា"
+    slug: "luka"
+    name_toc: "ដំណឹង‌ល្អ​តាម​លោក​លូកា"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "John"
+  "ACT":
+    name: "កិច្ចការ"
+    slug: "kechchakar"
+    name_toc: "កិច្ចការ"
+  "ROM":
+    name: "រ៉ូម"
+    slug: "rom"
+    name_toc: "សំបុត្រ​របស់​ប៉ុល​ដល់​ពួក​រ៉ូម"
+  "1CO":
+    name: "១ កូរិនថូស"
+    slug: "1-korinthos"
+    name_toc: "លិខិតទីមួយរបស់លោកប៉ូលផ្ញើជូន គ្រិស្ដបរិស័ទនៅក្រុងកូរិនថូស"
+  "2CO":
+    name: "២ កូរិនថូស"
+    slug: "2-korinthos"
+    name_toc: "សំបុត្រ​ទី២​របស់​លោក​ប៉ុល​ដល់​ពួក"
+  "GAL":
+    name: "កាឡាទី"
+    slug: "kalati"
+    name_toc: "សំបុត្រ​របស់​លោក​ប៉ុល​ដល់​ពួក"
+  "EPH":
+    name: "អេភេសូ"
+    slug: "epheso"
+    name_toc: "លិខិតរបស់លោកប៉ូលផ្ញើជូន គ្រិស្ដបរិស័ទនៅក្រុងអេភេសូ"
+  "PHP":
+    name: "ភីលីព"
+    slug: "philip"
+    name_toc: "សំបុត្រ​របស់​ប៉ុល​ដល់​ពួក​ក្រុង​ភីលីព"
+  "COL":
+    name: "កូឡូស"
+    slug: "kolos"
+    name_toc: "លិខិត​របស់​លោក​ប៉ូល​ផ្ញើ​ជូន អូមាត់​អ៊ីសា​នៅ​ក្រុង​កូឡូស"
+  "1TH":
+    name: "១ ថែស្សាឡូនីច"
+    slug: "1-thaessalonich"
+    name_toc: "សំបុត្រ​ទី​មួយ​របស់​លោក​ប៉ុល​ដល់​ពួក"
+  "2TH":
+    name: "២ ថែស្សាឡូនីច"
+    slug: "2-thaessalonich"
+    name_toc: "សំបុត្រ​ទី​២​របស់​លោក​ប៉ុល​ដល់​ពួក"
+  "1TI":
+    name: "១ ធីម៉ូថេ"
+    slug: "1-thimothe"
+    name_toc: "សំបុត្រ​ទី​១​របស់​ប៉ុល​ដល់​ធីម៉ូថេ"
+  "2TI":
+    name: "២ ធីម៉ូថេ"
+    slug: "2-thimothe"
+    name_toc: "សំបុត្រ​ទី​២​របស់​ប៉ុល​ដល់​ធីម៉ូថេ"
+  "TIT":
+    name: "ទីតុស"
+    slug: "titos"
+    name_toc: "សំបុត្រ​របស់​ប៉ុល​ដល់​ទីតុស"
+  "PHM":
+    name: "ភីលេម៉ូន"
+    slug: "philemon"
+    name_toc: "លិខិត​របស់​លោក​ប៉ូល​ផ្ញើ​ជូន លោក​ភីលេ‌ម៉ូន"
+  "HEB":
+    name: "ហេប្រឺ"
+    slug: "hebr"
+    name_toc: "លិខិត​ផ្ញើ​ជូន អូមាត់​អ៊ីសា​ជាតិ​ហេប្រឺ"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "James"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "1 Peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "2 Peter"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+    name_toc: "1 John"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+    name_toc: "2 John"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+    name_toc: "3 John"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Jude"
+  "REV":
+    name: "វិវរណៈ"
+    slug: "vivron"
+    name_toc: "វិវរណៈ​នៃ​ព្រះ‌យេស៊ូវ​គ្រីស្ទ"

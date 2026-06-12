@@ -1,0 +1,50 @@
+language: "aly"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+  "1TH":
+    name: "1 Thessalonians"
+    slug: "1-thessalonians"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "JAS":
+    name: "James"
+    slug: "james"

@@ -1,0 +1,83 @@
+language: "chv"
+books:
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"
+  "ACT":
+    name: "Апостолсен ӗҫӗ-хӗлӗ"
+    slug: "apostolsen-hl"
+  "ROM":
+    name: "Римсем патне"
+    slug: "rimsem-patne"
+  "1CO":
+    name: "Коринфсем патне 1-мӗш"
+    slug: "korinfsem-patne-1-ms"
+  "2CO":
+    name: "Коринфсем патне 2-мӗш"
+    slug: "korinfsem-patne-2-ms"
+  "GAL":
+    name: "Галатсем патне"
+    slug: "galatsem-patne"
+  "EPH":
+    name: "Ефессем патне"
+    slug: "efessem-patne"
+  "PHP":
+    name: "Филиппӑсем патне"
+    slug: "filippsem-patne"
+  "COL":
+    name: "Колоссӑсем патне"
+    slug: "kolosssem-patne"
+  "1TH":
+    name: "Фессалоникисем патне 1-мӗш"
+    slug: "fessalonikisem-patne-1-ms"
+  "2TH":
+    name: "Фессалоникисем патне 2-мӗш"
+    slug: "fessalonikisem-patne-2-ms"
+  "1TI":
+    name: "Тимофей патне 1-мӗш"
+    slug: "timofej-patne-1-ms"
+  "2TI":
+    name: "Тимофей патне 2-мӗш"
+    slug: "timofej-patne-2-ms"
+  "TIT":
+    name: "Тит патне"
+    slug: "tit-patne"
+  "PHM":
+    name: "Филимон патне"
+    slug: "filimon-patne"
+  "HEB":
+    name: "Еврейсем патне"
+    slug: "evrejsem-patne"
+  "JAS":
+    name: "Иаков ҫырӑвӗ"
+    slug: "iakov-yrv"
+  "1PE":
+    name: "Петрӑн 1-мӗш"
+    slug: "petrn-1-ms"
+  "2PE":
+    name: "Петрӑн 2-мӗш"
+    slug: "petrn-2-ms"
+  "1JN":
+    name: "Иоанӑн 1-мӗш"
+    slug: "ioann-1-ms"
+  "2JN":
+    name: "Иоанӑн 2-мӗш"
+    slug: "ioann-2-ms"
+  "3JN":
+    name: "Иоанӑн 3-мӗш"
+    slug: "ioann-3-ms"
+  "JUD":
+    name: "Иуда ҫырӑвӗ"
+    slug: "iuda-yrv"
+  "REV":
+    name: "Апокалипсис"
+    slug: "apokalipsis"

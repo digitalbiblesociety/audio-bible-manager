@@ -1,0 +1,83 @@
+language: "ikz"
+books:
+  "MAT":
+    name: "Mataayo"
+    slug: "mataayo"
+  "MRK":
+    name: "Maaroko"
+    slug: "maaroko"
+  "LUK":
+    name: "Ruuka"
+    slug: "ruuka"
+  "JHN":
+    name: "Yoohana"
+    slug: "yoohana"
+  "ACT":
+    name: "Amahocha ga Abhatumwa"
+    slug: "amahocha-ga-abhatumwa"
+  "ROM":
+    name: "Abharuumi"
+    slug: "abharuumi"
+  "1CO":
+    name: "1 Abhakʉrintʉ"
+    slug: "1-abhakrint"
+  "2CO":
+    name: "2 Abhakʉrintʉ"
+    slug: "2-abhakrint"
+  "GAL":
+    name: "Abhagaraatiya"
+    slug: "abhagaraatiya"
+  "EPH":
+    name: "Abheefeeso"
+    slug: "abheefeeso"
+  "PHP":
+    name: "Abhafiripi"
+    slug: "abhafiripi"
+  "COL":
+    name: "Abhakorosaayi"
+    slug: "abhakorosaayi"
+  "1TH":
+    name: "1 Abhatɨsarʉʉnikɨ"
+    slug: "1-abhatsarnik"
+  "2TH":
+    name: "2 Abhatɨsarʉʉnikɨ"
+    slug: "2-abhatsarnik"
+  "1TI":
+    name: "1 Timoseo"
+    slug: "1-timoseo"
+  "2TI":
+    name: "2 Timoseo"
+    slug: "2-timoseo"
+  "TIT":
+    name: "Tiitʉ"
+    slug: "tiit"
+  "PHM":
+    name: "Firimʉʉni"
+    slug: "firimni"
+  "HEB":
+    name: "Abhɨɨbhuraaniya"
+    slug: "abhbhuraaniya"
+  "JAS":
+    name: "Yaakobho"
+    slug: "yaakobho"
+  "1PE":
+    name: "1 Peetero"
+    slug: "1-peetero"
+  "2PE":
+    name: "2 Peetero"
+    slug: "2-peetero"
+  "1JN":
+    name: "1 Yoohana"
+    slug: "1-yoohana"
+  "2JN":
+    name: "2 Yoohana"
+    slug: "2-yoohana"
+  "3JN":
+    name: "3 Yoohana"
+    slug: "3-yoohana"
+  "JUD":
+    name: "Yuuda"
+    slug: "yuuda"
+  "REV":
+    name: "Ubhwɨrɨkibhwa"
+    slug: "ubhwrkibhwa"

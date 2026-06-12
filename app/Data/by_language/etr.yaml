@@ -1,0 +1,32 @@
+language: "etr"
+books:
+  "RUT":
+    name: "Uludi"
+    slug: "uludi"
+  "MAT":
+    name: "Madiu"
+    slug: "madiu"
+  "MRK":
+    name: "Maga"
+    slug: "maga"
+  "ACT":
+    name: "Abosolo"
+    slug: "abosolo"
+  "1TI":
+    name: "Age Dimodi"
+    slug: "age-dimodi"
+  "2TI":
+    name: "Agedu Dimodi"
+    slug: "agedu-dimodi"
+  "TIT":
+    name: "Daidasa"
+    slug: "daidasa"
+  "1JN":
+    name: "Age Yone"
+    slug: "age-yone"
+  "2JN":
+    name: "Agedu Yone"
+    slug: "agedu-yone"
+  "3JN":
+    name: "Osoda Yone"
+    slug: "osoda-yone"

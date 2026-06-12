@@ -1,0 +1,83 @@
+language: "grt"
+books:
+  "MAT":
+    name: "মথি"
+    slug: "mathi"
+  "MRK":
+    name: "মার্ক"
+    slug: "marka"
+  "LUK":
+    name: "লূক"
+    slug: "luka"
+  "JHN":
+    name: "যোহননা"
+    slug: "yehanana"
+  "ACT":
+    name: "ওয়াত্তেতারাংনা"
+    slug: "oyattetaramna"
+  "ROM":
+    name: "রোমানরাংনা"
+    slug: "romanaramna"
+  "1CO":
+    name: "1ম করিন্থীয়রাংনা"
+    slug: "1ma-karinthiyaramna"
+  "2CO":
+    name: "2য় করিন্থীয়রাংনা"
+    slug: "2ya-karinthiyaramna"
+  "GAL":
+    name: "গালাতীয়রাংনা"
+    slug: "galatiyaramna"
+  "EPH":
+    name: "ইফিষীয়রাংনা"
+    slug: "iphisiyaramna"
+  "PHP":
+    name: "ফিলিপীয়রাংনা"
+    slug: "philipiyaramna"
+  "COL":
+    name: "কলসীয়রাংনা"
+    slug: "kalasiyaramna"
+  "1TH":
+    name: "1 থিষলনীকী"
+    slug: "1-thisalaniki"
+  "2TH":
+    name: "2 থিষলনীকীয়রাংনা"
+    slug: "2-thisalanikiyaramna"
+  "1TI":
+    name: "1 তীমথিয়"
+    slug: "1-timathiya"
+  "2TI":
+    name: "2 তীমথিয়"
+    slug: "2-timathiya"
+  "TIT":
+    name: "তীতনা"
+    slug: "titana"
+  "PHM":
+    name: "ফিলীমনা"
+    slug: "philimana"
+  "HEB":
+    name: "ইব্রীয়রাংনা"
+    slug: "ibriyaramna"
+  "JAS":
+    name: "যাকোব"
+    slug: "yakoba"
+  "1PE":
+    name: "পিতর"
+    slug: "pitara"
+  "2PE":
+    name: "২ পিতর"
+    slug: "2-pitara"
+  "1JN":
+    name: "1 যোহন"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 যোহন"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 যোহন"
+    slug: "3-yohana"
+  "JUD":
+    name: "যিহূদা"
+    slug: "yihuda"
+  "REV":
+    name: "ফারাকগিবা খাৎথা"
+    slug: "pharakagiba-khattha"

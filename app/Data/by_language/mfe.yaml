@@ -1,0 +1,134 @@
+language: "mfe"
+books:
+  "GEN":
+    name: "Zenez"
+    slug: "zenez"
+    name_toc: "Zenez"
+  "RUT":
+    name: "Rit"
+    slug: "rit"
+    name_toc: "Rit"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "PSA":
+    name: "Psom"
+    slug: "psom"
+    name_toc: "Psom"
+  "PRO":
+    name: "Proverb"
+    slug: "proverb"
+    name_toc: "Proverb"
+  "ISA":
+    name: "Izai"
+    slug: "izai"
+    name_toc: "Izai"
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+    name_toc: "Bonn Nouvel dapre Matie"
+  "MRK":
+    name: "Mk"
+    slug: "mk"
+    name_toc: "Bonn Nouvel dapre Mark"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+    name_toc: "Bonn Nouvel dapre Lik"
+  "JHN":
+    name: "Zn"
+    slug: "zn"
+    name_toc: "Bonn Nouvel dapre Zan"
+  "ACT":
+    name: "Zis"
+    slug: "zis"
+    name_toc: "Zistwar Bann Zapot"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Let pou Romin"
+  "1CO":
+    name: "1 Ko"
+    slug: "1-ko"
+    name_toc: "Premie let pou Korintien"
+  "2CO":
+    name: "2 Ko"
+    slug: "2-ko"
+    name_toc: "Deziem let pou Korintien"
+  "GAL":
+    name: "Ga"
+    slug: "ga"
+    name_toc: "Let pou Galat"
+  "EPH":
+    name: "Ef"
+    slug: "ef"
+    name_toc: "Let pou Efezien"
+  "PHP":
+    name: "Fil"
+    slug: "fil"
+    name_toc: "Let pou Filipien"
+  "COL":
+    name: "Kol"
+    slug: "kol"
+    name_toc: "Let pou Kolosien"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+    name_toc: "Premie let pou Tesalonisien"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+    name_toc: "Deziem let pou Tesalonisien"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "Premie let pou Timote"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "Deziem let pou Timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Let pou Tit"
+  "PHM":
+    name: "Flm"
+    slug: "flm"
+    name_toc: "Let pou Filemon"
+  "HEB":
+    name: "Eb"
+    slug: "eb"
+    name_toc: "Let pou Ebre"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+    name_toc: "Let Zak"
+  "1PE":
+    name: "1 Pi"
+    slug: "1-pi"
+    name_toc: "Premie let Pier"
+  "2PE":
+    name: "2 Pi"
+    slug: "2-pi"
+    name_toc: "Deziem let Pier"
+  "1JN":
+    name: "1 Zn"
+    slug: "1-zn"
+    name_toc: "Premie let Zan"
+  "2JN":
+    name: "2 Zn"
+    slug: "2-zn"
+    name_toc: "Deziem let Zan"
+  "3JN":
+    name: "3 Zn"
+    slug: "3-zn"
+    name_toc: "Trwaziem let Zan"
+  "JUD":
+    name: "Zid"
+    slug: "zid"
+    name_toc: "Let Zid"
+  "REV":
+    name: "Rev"
+    slug: "rev"
+    name_toc: "Revelasion"

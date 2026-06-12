@@ -1,0 +1,200 @@
+language: "mps"
+books:
+  "GEN":
+    name: "Tigidali Nai Gagalama Nigali Side"
+    slug: "tigidali-nai-gagalama-nigali-side"
+  "EXO":
+    name: "Godigo Aga We Bidi Dabe Boi Bidi Nogode Ma Dobola Sali"
+    slug: "godigo-aga-we-bidi-dabe-boi-bidi-nogode-ma-dobola-sali"
+  "LEV":
+    name: "Pris Sę Ebo Bomai Po"
+    slug: "pris-se-ebo-bomai-po"
+  "NUM":
+    name: "Israel Hanigo Namba"
+    slug: "israel-hanigo-namba"
+  "DEU":
+    name: "Mosesgo Godigo Bomai Po Ma Pusali"
+    slug: "mosesgo-godigo-bomai-po-ma-pusali"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Te Israel Tobolu Bidi Dabe"
+    slug: "te-israel-tobolu-bidi-dabe"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Profet Samuelgo Po Elalubo Buku Deli"
+    slug: "profet-samuelgo-po-elalubo-buku-deli"
+  "2SA":
+    name: "Profet Samuelgo Po Elalubo Buku Si"
+    slug: "profet-samuelgo-po-elalubo-buku-si"
+  "1KI":
+    name: "Te Israel me Juda Hani Sigo Tuni Bidigo Po Elalubo Buku Deli"
+    slug: "te-israel-me-juda-hani-sigo-tuni-bidigo-po-elalubo-buku-deli"
+  "2KI":
+    name: "Te Israel me Juda Hani Sigo Tuni Bidigo Po Elalubo Buku Si"
+    slug: "te-israel-me-juda-hani-sigo-tuni-bidigo-po-elalubo-buku-si"
+  "1CH":
+    name: "Tuni Bidi Dabego Po Elalubo Buku Deli"
+    slug: "tuni-bidi-dabego-po-elalubo-buku-deli"
+  "2CH":
+    name: "Tuni Bidi Dabego Po Elalubo Buku Si"
+    slug: "tuni-bidi-dabego-po-elalubo-buku-si"
+  "EZR":
+    name: "Esrago Po Elalubo Buku"
+    slug: "esrago-po-elalubo-buku"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Estago Po Asęai Buku"
+    slug: "estago-po-aseai-buku"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Godigo Nogi Ugwaba Sabo Tęąbi Po Wabo Buku Dabe"
+    slug: "godigo-nogi-ugwaba-sabo-teabi-po-wabo-buku-dabe"
+  "PRO":
+    name: "Bugagia Bidibo Kolesagade Po Asęai Buku"
+    slug: "bugagia-bidibo-kolesagade-po-aseai-buku"
+  "ECC":
+    name: "Kolesaga Koneai Bidigo Pusali Po Elalubo Buku"
+    slug: "kolesaga-koneai-bidigo-pusali-po-elalubo-buku"
+  "SNG":
+    name: "Solomon"
+    slug: "solomon"
+  "ISA":
+    name: "Profet Aisaiago Po Asęai Buku"
+    slug: "profet-aisaiago-po-aseai-buku"
+  "JER":
+    name: "Profet Jeremaiago Po Elalubo Buku"
+    slug: "profet-jeremaiago-po-elalubo-buku"
+  "LAM":
+    name: "Te We Bidi Dabego Jerusalem Hagede Gela Wali"
+    slug: "te-we-bidi-dabego-jerusalem-hagede-gela-wali"
+  "EZK":
+    name: "Profet Esekielgo Po Asęai Buku"
+    slug: "profet-esekielgo-po-aseai-buku"
+  "DAN":
+    name: "Danielgo Buku"
+    slug: "danielgo-buku"
+  "HOS":
+    name: "Profet Hoseago Buku"
+    slug: "profet-hoseago-buku"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Profet Amosgo Buku"
+    slug: "profet-amosgo-buku"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Profet Habakukgo Po Elalubo Buku"
+    slug: "profet-habakukgo-po-elalubo-buku"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Profet Hagaigo Po Elalubo Buku"
+    slug: "profet-hagaigo-po-elalubo-buku"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Godigo Sęba Tagala Palai Bidigo Po"
+    slug: "godigo-seba-tagala-palai-bidigo-po"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Polgo Hasia Pas Deli Korin Dabeba Asęani"
+    slug: "polgo-hasia-pas-deli-korin-dabeba-aseani"
+  "2CO":
+    name: "Polgo Korin Dabeba Si Wabo Pas Asęani"
+    slug: "polgo-korin-dabeba-si-wabo-pas-aseani"
+  "GAL":
+    name: "Polgo Galesia Dabeba Pas Asęani"
+    slug: "polgo-galesia-dabeba-pas-aseani"
+  "EPH":
+    name: "Polgo Efesus Dabeba Pas Asęani"
+    slug: "polgo-efesus-dabeba-pas-aseani"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Polgo Kolosi Dabeba Pas Asęani"
+    slug: "polgo-kolosi-dabeba-pas-aseani"
+  "1TH":
+    name: "Polgo Hasia Pas Deli Tesalonaika Dabeba Asęani"
+    slug: "polgo-hasia-pas-deli-tesalonaika-dabeba-aseani"
+  "2TH":
+    name: "Polgo Si Wali Pas Tesalonaika Dabeba Asęani"
+    slug: "polgo-si-wali-pas-tesalonaika-dabeba-aseani"
+  "1TI":
+    name: "Polgo Hasia Pas Deli Timotibolo Asęna Tolai"
+    slug: "polgo-hasia-pas-deli-timotibolo-asena-tolai"
+  "2TI":
+    name: "Polgo Si Wali Pas Timotiba Asęani"
+    slug: "polgo-si-wali-pas-timotiba-aseani"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hibru Dabeba Tolali Pas"
+    slug: "hibru-dabeba-tolali-pas"
+  "JAS":
+    name: "Jemsgo Asęani Pas"
+    slug: "jemsgo-aseani-pas"
+  "1PE":
+    name: "Pitago Hasia Pas Deli Asęani"
+    slug: "pitago-hasia-pas-deli-aseani"
+  "2PE":
+    name: "Pitago Si Sogo Asęani Pas"
+    slug: "pitago-si-sogo-aseani-pas"
+  "1JN":
+    name: "Jongo Hasia Deli Sogo Asęani Pas"
+    slug: "jongo-hasia-deli-sogo-aseani-pas"
+  "2JN":
+    name: "Jongo Si Sogo Pas Asęani"
+    slug: "jongo-si-sogo-pas-aseani"
+  "3JN":
+    name: "Jongo Sela Sogo Wabo Asęani Pas"
+    slug: "jongo-sela-sogo-wabo-aseani-pas"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Kraisgo Geme Dualali Sę Pedelabo Po Jonbolo Ola Mani"
+    slug: "kraisgo-geme-dualali-se-pedelabo-po-jonbolo-ola-mani"

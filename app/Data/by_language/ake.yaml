@@ -1,0 +1,83 @@
+language: "ake"
+books:
+  "MAT":
+    name: "Ma'siu"
+    slug: "masiu"
+  "MRK":
+    name: "Ma'"
+    slug: "ma"
+  "LUK":
+    name: "Ʉru'"
+    slug: "uru"
+  "JHN":
+    name: "Isaan"
+    slug: "isaan"
+  "ACT":
+    name: "Inkupʉ'pʉ"
+    slug: "inkupupu"
+  "ROM":
+    name: "Ron"
+    slug: "ron"
+  "1CO":
+    name: "1 Koren"
+    slug: "1-koren"
+  "2CO":
+    name: "2 Koren"
+    slug: "2-koren"
+  "GAL":
+    name: "Kare'siya"
+    slug: "karesiya"
+  "EPH":
+    name: "E'pe'sas"
+    slug: "epesas"
+  "PHP":
+    name: "Piri'pai"
+    slug: "piripai"
+  "COL":
+    name: "Koro'se"
+    slug: "korose"
+  "1TH":
+    name: "1 Tesaroni'ka"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaroni'ka"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Temu'ti"
+    slug: "1-temuti"
+  "2TI":
+    name: "2 Temu'ti"
+    slug: "2-temuti"
+  "TIT":
+    name: "Tai'tas"
+    slug: "taitas"
+  "PHM":
+    name: "Pairiman"
+    slug: "pairiman"
+  "HEB":
+    name: "Ipuru"
+    slug: "ipuru"
+  "JAS":
+    name: "Isens"
+    slug: "isens"
+  "1PE":
+    name: "1 Pi'ta"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pi'ta"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Isaan"
+    slug: "1-isaan"
+  "2JN":
+    name: "2 Isaan"
+    slug: "2-isaan"
+  "3JN":
+    name: "3 Isaan"
+    slug: "3-isaan"
+  "JUD":
+    name: "Isutʉ"
+    slug: "isutu"
+  "REV":
+    name: "Isenpoikasa'"
+    slug: "isenpoikasa"

@@ -1,0 +1,236 @@
+language: "lat"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Leviticus"
+    slug: "leviticus"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+  "DEU":
+    name: "Deuteronomium"
+    slug: "deuteronomium"
+  "JOS":
+    name: "Iosue"
+    slug: "iosue"
+  "JDG":
+    name: "Iudicum"
+    slug: "iudicum"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "I Samuelis"
+    slug: "i-samuelis"
+  "2SA":
+    name: "II Samuelis"
+    slug: "ii-samuelis"
+  "1KI":
+    name: "I Regum"
+    slug: "i-regum"
+  "2KI":
+    name: "Regum II"
+    slug: "regum-ii"
+  "1CH":
+    name: "I Paralipomenon"
+    slug: "i-paralipomenon"
+  "2CH":
+    name: "II Paralipomenon"
+    slug: "ii-paralipomenon"
+  "EZR":
+    name: "Esdrae"
+    slug: "esdrae"
+  "NEH":
+    name: "Nehemiæ"
+    slug: "nehemiae"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Iob"
+    slug: "iob"
+  "PSA":
+    name: "Psalmi (heb)"
+    slug: "psalmi-heb"
+  "PRO":
+    name: "Proverbia"
+    slug: "proverbia"
+  "ECC":
+    name: "Ecclesiasticus"
+    slug: "ecclesiasticus"
+  "SNG":
+    name: "Canticum"
+    slug: "canticum"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+  "JER":
+    name: "Ieremias"
+    slug: "ieremias"
+  "LAM":
+    name: "Lamentationes"
+    slug: "lamentationes"
+  "EZK":
+    name: "Ezechiel"
+    slug: "ezechiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Ioel"
+    slug: "ioel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Ionas"
+    slug: "ionas"
+  "MIC":
+    name: "Michaeas"
+    slug: "michaeas"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+  "HAB":
+    name: "Abacuc"
+    slug: "abacuc"
+  "ZEP":
+    name: "Sophonias"
+    slug: "sophonias"
+  "HAG":
+    name: "Aggaeus"
+    slug: "aggaeus"
+  "ZEC":
+    name: "Zacharias"
+    slug: "zacharias"
+  "MAL":
+    name: "Malachias"
+    slug: "malachias"
+  "TOB":
+    name: "Tobiae"
+    slug: "tobiae"
+  "JDT":
+    name: "Iudith"
+    slug: "iudith"
+  "WIS":
+    name: "Sap"
+    slug: "sap"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+  "1MA":
+    name: "I Machabæorum"
+    slug: "i-machabaeorum"
+  "2MA":
+    name: "II Machabaeorum"
+    slug: "ii-machabaeorum"
+  "1ES":
+    name: "III Esdrae"
+    slug: "iii-esdrae"
+  "2ES":
+    name: "IV Esd"
+    slug: "iv-esd"
+  "MAN":
+    name: "Man"
+    slug: "man"
+  "PS2":
+    name: "Ps2"
+    slug: "ps2"
+  "MAT":
+    name: "Matthæus"
+    slug: "matthaeus"
+  "MRK":
+    name: "Marcus"
+    slug: "marcus"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Ioannes"
+    slug: "ioannes"
+  "ACT":
+    name: "Actus"
+    slug: "actus"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "I Corinthios"
+    slug: "i-corinthios"
+  "2CO":
+    name: "II Corinthios"
+    slug: "ii-corinthios"
+  "GAL":
+    name: "Galatas"
+    slug: "galatas"
+  "EPH":
+    name: "Ephesios"
+    slug: "ephesios"
+  "PHP":
+    name: "Philippenses"
+    slug: "philippenses"
+  "COL":
+    name: "Colossenses"
+    slug: "colossenses"
+  "1TH":
+    name: "I Thessalonicenses"
+    slug: "i-thessalonicenses"
+  "2TH":
+    name: "II Thessalonicenses"
+    slug: "ii-thessalonicenses"
+  "1TI":
+    name: "I Timotheum"
+    slug: "i-timotheum"
+  "2TI":
+    name: "II Timotheum"
+    slug: "ii-timotheum"
+  "TIT":
+    name: "Titum"
+    slug: "titum"
+  "PHM":
+    name: "Philemonem"
+    slug: "philemonem"
+  "HEB":
+    name: "Hebraeos"
+    slug: "hebraeos"
+  "JAS":
+    name: "Iacobi"
+    slug: "iacobi"
+  "1PE":
+    name: "I Petri"
+    slug: "i-petri"
+  "2PE":
+    name: "II Petri"
+    slug: "ii-petri"
+  "1JN":
+    name: "Ioannis"
+    slug: "ioannis"
+  "2JN":
+    name: "II Ioannis"
+    slug: "ii-ioannis"
+  "3JN":
+    name: "III Ioannis"
+    slug: "iii-ioannis"
+  "JUD":
+    name: "Iudæ"
+    slug: "iudae"
+  "REV":
+    name: "Apocalypsis"
+    slug: "apocalypsis"
+  "LAO":
+    name: "Lao"
+    slug: "lao"

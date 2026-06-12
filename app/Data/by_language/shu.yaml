@@ -1,0 +1,266 @@
+language: "shu"
+books:
+  "GEN":
+    name: "تكوين"
+    slug: "tkwyn"
+    name_toc: "Knjiga psalmov"
+  "EXO":
+    name: "خُروج"
+    slug: "khrwj"
+    name_toc: "Knjiga pregovorov"
+  "LEV":
+    name: "Laawiyiin"
+    slug: "laawiyiin"
+    name_toc: "Pavlovo pismo kristjanom v Efezu"
+  "NUM":
+    name: "Adad"
+    slug: "adad"
+    name_toc: "Pavlovo pismo kristjanom v Filipih"
+  "DEU":
+    name: "Tasniya"
+    slug: "tasniya"
+    name_toc: "Pavlovo pismo kristjanom v Kolosah"
+  "JOS":
+    name: "يَشُوع"
+    slug: "yshwa"
+    name_toc: "Prerok Jeremija"
+  "JDG":
+    name: "Gudiya"
+    slug: "gudiya"
+    name_toc: "Drugo pavlovo pismo kristjanom v Tesalonikih"
+  "RUT":
+    name: "Raʼuus"
+    slug: "rauus"
+    name_toc: "Prvo pavlovo pismo Timoteju"
+  "1SA":
+    name: "1 Samuwiil"
+    slug: "1-samuwiil"
+    name_toc: "Drugo pavlovo pismo Timoteju"
+  "2SA":
+    name: "2 Samuwiil"
+    slug: "2-samuwiil"
+    name_toc: "Pavlovo pismo Titu"
+  "1KI":
+    name: "1 مُلوك"
+    slug: "1-mlwk"
+    name_toc: "Prerok Joel"
+  "2KI":
+    name: "2 مُلوك"
+    slug: "2-mlwk"
+    name_toc: "Prerok Amos"
+  "1CH":
+    name: "1 أخبار"
+    slug: "1-akhbar"
+    name_toc: "Prerok Abdija"
+  "2CH":
+    name: "2 أخبار"
+    slug: "2-akhbar"
+    name_toc: "Prerok Jona"
+  "EZR":
+    name: "Azra"
+    slug: "azra"
+    name_toc: "Drugo Petrovo pismo"
+  "NEH":
+    name: "Nahamya"
+    slug: "nahamya"
+    name_toc: "Prvo Janezovo pismo"
+  "EST":
+    name: "Astiir"
+    slug: "astiir"
+    name_toc: "Drugo Janezovo pismo"
+  "JOB":
+    name: "Ayyuub"
+    slug: "ayyuub"
+    name_toc: "Tretje Janezovo pismo"
+  "PSA":
+    name: "Zabuur"
+    slug: "zabuur"
+    name_toc: "Judovo pismo"
+  "PRO":
+    name: "Amsaal"
+    slug: "amsaal"
+    name_toc: "Janezovo razodetje"
+  "ECC":
+    name: "جامِعة"
+    slug: "jamah"
+    name_toc: "Prerok Malahija"
+  "SNG":
+    name: "نشيد"
+    slug: "nshyd"
+    name_toc: "Tobijeva knjiga"
+  "ISA":
+    name: "Ichaʼya"
+    slug: "ichaya"
+    name_toc: "Evangeliom pôleg pisma Svétoga Lükáča"
+  "JER":
+    name: "Irmiya"
+    slug: "irmiya"
+    name_toc: "Evangeliom pôleg pisma Svétoga Jánoša"
+  "LAM":
+    name: "Maraasi Irmiya"
+    slug: "maraasi-irmiya"
+    name_toc: "Svéti Apoštolov Djánje"
+  "EZK":
+    name: "Hizgiyaal"
+    slug: "hizgiyaal"
+    name_toc: "Svétoga Pavla Apoštola k Rimláncom pisani list"
+  "DAN":
+    name: "Danyaal"
+    slug: "danyaal"
+    name_toc: "Svétoga Pavla Apoštola I. k Korintušáncom pisani list"
+  "HOS":
+    name: "هُوشَع"
+    slug: "hwsha"
+    name_toc: "Sirahova knjiga"
+  "JOL":
+    name: "Yuwiil"
+    slug: "yuwiil"
+    name_toc: "Svétoga Pavla Apoštola k Glatáncom pisani list"
+  "AMO":
+    name: "Amuus"
+    slug: "amuus"
+    name_toc: "Svétoga Pavla Apoštola k Efezáncom pisani list"
+  "OBA":
+    name: "Ubadya"
+    slug: "ubadya"
+    name_toc: "Svétoga Pavla Apoštola k Filippéncom pisani list"
+  "JON":
+    name: "Yuunus"
+    slug: "yuunus"
+    name_toc: "Svétoga Pavla Apoštola k Kološšáncom Pišazni list"
+  "MIC":
+    name: "مِيخا"
+    slug: "mykha"
+    name_toc: "Lukov evangelij"
+  "NAM":
+    name: "Naahuum"
+    slug: "naahuum"
+    name_toc: "Svétoga Pavla Apoštola II. k Tessaloničáncom pisani list"
+  "HAB":
+    name: "Habaguug"
+    slug: "habaguug"
+    name_toc: "Svétoga Pavla Apoštola I. k Timoteuši pisani list"
+  "ZEP":
+    name: "Safanya"
+    slug: "safanya"
+    name_toc: "Svétoga Pavla Apoštola II. k Timoteuši pisani list"
+  "HAG":
+    name: "Haggaay"
+    slug: "haggaay"
+    name_toc: "Svétoga Pavla Apoštola k Tituši pisani list"
+  "ZEC":
+    name: "Zakariiya"
+    slug: "zakariiya"
+    name_toc: "Svétoga Pavla Apoštola k Filemoni pisani list"
+  "MAL":
+    name: "Malaakhi"
+    slug: "malaakhi"
+    name_toc: "Svétoga Pavla Apoštola k Židovom pisani list"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+    name_toc: "Svétoga Petra Apoštola prvi občinski list"
+  "MRK":
+    name: "Markhus"
+    slug: "markhus"
+    name_toc: "Svétoga Petra Apoštola drügi občinski list"
+  "LUK":
+    name: "لُوقا"
+    slug: "lwqa"
+    name_toc: "Pismo Kološanom"
+  "JHN":
+    name: "Yuuhanna"
+    slug: "yuuhanna"
+    name_toc: "Svétoga Jánoša Apoštola drügi list"
+  "ACT":
+    name: "أعمال الرُسُل"
+    slug: "aamal-alrsl"
+    name_toc: "Drugo pismo Tesaloničanom"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+    name_toc: "Svétoga Jakuba Apoštola občinski list"
+  "1CO":
+    name: "1 Kuruntus"
+    slug: "1-kuruntus"
+    name_toc: "Svétoga Júdaša Apoštola list"
+  "2CO":
+    name: "2 Kuruntus"
+    slug: "2-kuruntus"
+    name_toc: "Svétoga Jánoša Teologuša oznanost"
+  "GAL":
+    name: "غَلاطِية"
+    slug: "ghlatyh"
+    name_toc: "Pismo Filemonu"
+  "EPH":
+    name: "Afasus"
+    slug: "afasus"
+    name_toc: "Prva Mojzesova knjiga"
+  "PHP":
+    name: "Filibbi"
+    slug: "filibbi"
+    name_toc: "Druga Mojzesova knjiga"
+  "COL":
+    name: "Kuluusi"
+    slug: "kuluusi"
+    name_toc: "Tretja Mojzesova knjiga"
+  "1TH":
+    name: "1 Tasaluuniiki"
+    slug: "1-tasaluuniiki"
+    name_toc: "Četrta Mojzesova knjiga"
+  "2TH":
+    name: "2 Tasaluuniiki"
+    slug: "2-tasaluuniiki"
+    name_toc: "Peta Mojzesova knjiga"
+  "1TI":
+    name: "1 Timuutaawus"
+    slug: "1-timuutaawus"
+    name_toc: "Jozuetova knjiga"
+  "2TI":
+    name: "2 Timuutaawus"
+    slug: "2-timuutaawus"
+    name_toc: "Knjiga sodnikov"
+  "TIT":
+    name: "Tiitus"
+    slug: "tiitus"
+    name_toc: "Rutina knjiga"
+  "PHM":
+    name: "Filimuun"
+    slug: "filimuun"
+    name_toc: "Prva Samuelova knjiga"
+  "HEB":
+    name: "Ibraaniyiin"
+    slug: "ibraaniyiin"
+    name_toc: "Druga Samuelova knjiga"
+  "JAS":
+    name: "Yaakhuub"
+    slug: "yaakhuub"
+    name_toc: "Prva knjiga kraljev"
+  "1PE":
+    name: "1 Butrus"
+    slug: "1-butrus"
+    name_toc: "Druga knjiga kraljev"
+  "2PE":
+    name: "2 Butrus"
+    slug: "2-butrus"
+    name_toc: "Prva kroniška knjiga"
+  "1JN":
+    name: "1 Yuuhanna"
+    slug: "1-yuuhanna"
+    name_toc: "Druga kroniška knjiga"
+  "2JN":
+    name: "2 Yuuhanna"
+    slug: "2-yuuhanna"
+    name_toc: "Ezdrova knjiga"
+  "3JN":
+    name: "3 Yuuhanna"
+    slug: "3-yuuhanna"
+    name_toc: "Nehemijeva knjiga"
+  "JUD":
+    name: "Yahuuza"
+    slug: "yahuuza"
+    name_toc: "Esterina knjiga"
+  "REV":
+    name: "Ruʼya"
+    slug: "ruya"
+    name_toc: "Jobova knjiga"

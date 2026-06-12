@@ -64,40 +64,13 @@ class ProcessCommand extends Command
         
         $chapters = Storage::disk('local')->files("bibles/source/$folder_id");
 
-        $context = stream_context_create([
-            'http' => [
-                'header' => "User-Agent: Audio-Bible-Manager/1.0 (https://github.com/digital-bible-society/audio-bible-manager)\r\n"
-            ]
-        ]);
-
-        // Try to fetch vernacular books from API, fallback to local JSON if it fails
+        // Load vernacular book names from the local YAML data (app/Data/by_language/{iso}.yaml)
         $lang_code = strtolower(substr($bible_id,0,3));
-        $books_json = @file_get_contents("https://arc.dbs.org/api/bible-books/".$lang_code, false, $context);
-        if ($books_json === false) {
-            $local_books_file = base_path("app/Data/bible-books-".$lang_code.".json");
-            if (file_exists($local_books_file)) {
-                $books_json = file_get_contents($local_books_file);
-                $this->warn("Using local fallback for bible-books: ".$local_books_file);
-            } else {
-                $this->error("Failed to fetch bible-books from API and no local fallback found at: ".$local_books_file);
-                exit(1);
-            }
-        }
-        $vernacular_books = collect(json_decode($books_json))->pluck('name','book_id');
+        $vernacular_books = $this->load_vernacular_books($lang_code);
 
-        // Try to fetch language details from API, fallback to local JSON if it fails
-        $language_json = @file_get_contents("https://arc.dbs.org/api/languages/".$lang_code, false, $context);
-        if ($language_json === false) {
-            $local_lang_file = base_path("app/Data/languages-".$lang_code.".json");
-            if (file_exists($local_lang_file)) {
-                $language_json = file_get_contents($local_lang_file);
-                $this->warn("Using local fallback for language: ".$local_lang_file);
-            } else {
-                $this->error("Failed to fetch language from API and no local fallback found at: ".$local_lang_file);
-                exit(1);
-            }
-        }
-        $language_details = collect(json_decode($language_json))->toArray();
+        // Language details (e.g. autonym) previously came from the API. The local YAML
+        // data does not carry them, so the v2 tagger falls back to the English name.
+        $language_details = [];
         $vernacular_overrides = [];
         $use_english_for_all = false;
         foreach($chapters as $chapter_path) {
@@ -176,6 +149,34 @@ class ProcessCommand extends Command
             }
             
         }
+    }
+
+    /**
+     * Load vernacular book names from the local YAML data file for a language.
+     *
+     * Reads app/Data/by_language/{iso}.yaml and returns a collection keyed by
+     * book id (e.g. "MAT") with the vernacular name as the value, matching the
+     * shape the arc.dbs.org API previously returned.
+     */
+    private function load_vernacular_books($lang_code)
+    {
+        $yaml_file = base_path("app/Data/by_language/$lang_code.yaml");
+        if (!file_exists($yaml_file)) {
+            $this->error("No local book data found for language '$lang_code' at: $yaml_file");
+            exit(1);
+        }
+
+        $books = [];
+        $current_id = null;
+        foreach (file($yaml_file, FILE_IGNORE_NEW_LINES) as $line) {
+            if (preg_match('/^  "([^"]+)":\s*$/', $line, $matches)) {
+                $current_id = $matches[1];
+            } elseif ($current_id !== null && preg_match('/^    name:\s*"(.*)"\s*$/u', $line, $matches)) {
+                $books[$current_id] = $matches[1];
+            }
+        }
+
+        return collect($books);
     }
 
     private function structure_books_for_megavoice()

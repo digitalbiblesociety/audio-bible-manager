@@ -1,0 +1,266 @@
+language: "tlb"
+books:
+  "GEN":
+    name: "O Kejadian"
+    slug: "o-kejadian"
+    name_toc: "Tito"
+  "EXO":
+    name: "O Keluaran"
+    slug: "o-keluaran"
+    name_toc: "Filemón"
+  "LEV":
+    name: "O Imamat"
+    slug: "o-imamat"
+    name_toc: "Hebreos"
+  "NUM":
+    name: "O Bilangan"
+    slug: "o-bilangan"
+    name_toc: "Santiago"
+  "DEU":
+    name: "O Ulangan"
+    slug: "o-ulangan"
+    name_toc: "1 Pedro"
+  "JOS":
+    name: "O Yosua"
+    slug: "o-yosua"
+    name_toc: "2 Pedro"
+  "JDG":
+    name: "O Hakim-hakim"
+    slug: "o-hakim-hakim"
+    name_toc: "1 Juan"
+  "RUT":
+    name: "O Ngo Rut"
+    slug: "o-ngo-rut"
+    name_toc: "2 Juan"
+  "1SA":
+    name: "O Samuel Madodihiraka"
+    slug: "o-samuel-madodihiraka"
+    name_toc: "3 Juan"
+  "2SA":
+    name: "O Samuel Mahinotoka"
+    slug: "o-samuel-mahinotoka"
+    name_toc: "Judas"
+  "1KI":
+    name: "O Kokoano Madodihiraka"
+    slug: "o-kokoano-madodihiraka"
+    name_toc: "Apocalipsis"
+  "2KI":
+    name: "O Kokoano Mahinotoka"
+    slug: "o-kokoano-mahinotoka"
+    name_toc: "Rut"
+  "1CH":
+    name: "O Tawarikh Madodihiraka"
+    slug: "o-tawarikh-madodihiraka"
+    name_toc: "Uaeñe nede jo'ne 'laqataĝanaĝac joñe'me SAMUEL"
+  "2CH":
+    name: "O Tawarikh Mahinotoka"
+    slug: "o-tawarikh-mahinotoka"
+    name_toc: "Nede laqaya jo'ne 'laqataĝanaĝac joñe'me Samuel"
+  "EZR":
+    name: "O Ezra"
+    slug: "o-ezra"
+    name_toc: "Esdras Lediije"
+  "NEH":
+    name: "O Nehemia"
+    slug: "o-nehemia"
+    name_toc: "Nehemías Lediije"
+  "EST":
+    name: "O Ngo Ester"
+    slug: "o-ngo-ester"
+    name_toc: "Lonataĝanaĝac jañe'me Ester"
+  "JOB":
+    name: "O Ayub"
+    slug: "o-ayub"
+    name_toc: "Oseas Lediije"
+  "PSA":
+    name: "O Mazmur"
+    slug: "o-mazmur"
+    name_toc: "Joel Lediije"
+  "PRO":
+    name: "O Amsal"
+    slug: "o-amsal"
+    name_toc: "Amós Lediije"
+  "ECC":
+    name: "O Pengkhotbah"
+    slug: "o-pengkhotbah"
+    name_toc: "Abdías Lediije"
+  "SNG":
+    name: "O Kidung Agung"
+    slug: "o-kidung-agung"
+    name_toc: "Jonás Lediije"
+  "ISA":
+    name: "O Yesaya"
+    slug: "o-yesaya"
+    name_toc: "Miqueas Lediije"
+  "JER":
+    name: "O Yeremia"
+    slug: "o-yeremia"
+    name_toc: "Nahúm Lediije"
+  "LAM":
+    name: "O Ratapan"
+    slug: "o-ratapan"
+    name_toc: "Habacuc Lediije"
+  "EZK":
+    name: "O Yehezkiel"
+    slug: "o-yehezkiel"
+    name_toc: "Sofonías Lediije"
+  "DAN":
+    name: "O Daniel"
+    slug: "o-daniel"
+    name_toc: "Hageo Lediije"
+  "HOS":
+    name: "O Hosea"
+    slug: "o-hosea"
+    name_toc: "Zacarías Lediije"
+  "JOL":
+    name: "O Yoel"
+    slug: "o-yoel"
+    name_toc: "Malaquías lediije"
+  "AMO":
+    name: "O Amos"
+    slug: "o-amos"
+    name_toc: "Da'me onaĝaic Dios 'laqataĝanaĝac jo'ne qo'mi 'yaĝatema ñe'me Mateo"
+  "OBA":
+    name: "O Obaja"
+    slug: "o-obaja"
+    name_toc: "Da'me onaĝaic Dios 'laqataĝanaĝac jo'ne qo'mi 'yaĝatema ñe'me Marcos"
+  "JON":
+    name: "O Yunus"
+    slug: "o-yunus"
+    name_toc: "Da'me onaĝaic Dios 'laqataĝanaĝac jo'ne qo'mi 'yaĝatema ñe'me Lucas"
+  "MIC":
+    name: "O Mikha"
+    slug: "o-mikha"
+    name_toc: "Da'me onaĝaic Dios 'laqataĝanaĝac jo'ne qo'mi 'yaĝatema ñe'me Juan"
+  "NAM":
+    name: "O Nahum"
+    slug: "o-nahum"
+    name_toc: "Lonataqa ñaa'me Jesús lamaĝa's joca'li"
+  "HAB":
+    name: "O Habakuk"
+    slug: "o-habakuk"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me"
+  "ZEP":
+    name: "O Zefanya"
+    slug: "o-zefanya"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Corinto laje'"
+  "HAG":
+    name: "O Hagai"
+    slug: "o-hagai"
+    name_toc: "Lediije laqaya joñe'me Pablo jo'ne yamaĝalo jogaa'me Corinto laje'"
+  "ZEC":
+    name: "O Zakharia"
+    slug: "o-zakharia"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Galacia laje'"
+  "MAL":
+    name: "O Maleakhi"
+    slug: "o-maleakhi"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Éfeso laje'"
+  "MAT":
+    name: "O Matius"
+    slug: "o-matius"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Filipos laje'"
+  "MRK":
+    name: "O Markus"
+    slug: "o-markus"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Colosas laje'"
+  "LUK":
+    name: "O Lukas"
+    slug: "o-lukas"
+    name_toc: "Pablo lediije jo'ne yamaĝalo jogaa'me Tesalónica laje'"
+  "JHN":
+    name: "O Yohanis"
+    slug: "o-yohanis"
+    name_toc: "Lediije laqaya joñe'me Pablo jo'ne yamaĝalo jogaa'me Tesalónica laje'"
+  "ACT":
+    name: "O Kisah Rasul-rasul"
+    slug: "o-kisah-rasul-rasul"
+    name_toc: "Pablo lediije jo'ne yamaĝa joñe'me Timoteo"
+  "ROM":
+    name: "O Roma"
+    slug: "o-roma"
+    name_toc: "Lediije laqaya joñe'me Pablo jo'ne yamaĝa ñe'me Timoteo"
+  "1CO":
+    name: "O Korintus Madodihiraka"
+    slug: "o-korintus-madodihiraka"
+    name_toc: "Pablo lediije jo'ne yamaĝa ñe'me Tito"
+  "2CO":
+    name: "O Korintus Mahinotoka"
+    slug: "o-korintus-mahinotoka"
+    name_toc: "Pablo lediije jo'ne yamaĝa ñe'me Filemón"
+  "GAL":
+    name: "O Galatia"
+    slug: "o-galatia"
+    name_toc: "Nediije jo'ne qoyamaĝa ga'me Hebreopi"
+  "EPH":
+    name: "O Efesus"
+    slug: "o-efesus"
+    name_toc: "Santiago lediije"
+  "PHP":
+    name: "O Pilipi"
+    slug: "o-pilipi"
+    name_toc: "Pedro lediije jo'ne 'uaeñe"
+  "COL":
+    name: "O Kolose"
+    slug: "o-kolose"
+    name_toc: "Pedro lediije jo'ne p'ategue"
+  "1TH":
+    name: "O Tesalonika Madodihiraka"
+    slug: "o-tesalonika-madodihiraka"
+    name_toc: "Juan lediije jo'ne 'uaeñe"
+  "2TH":
+    name: "O Tesalonika Mahinotoka"
+    slug: "o-tesalonika-mahinotoka"
+    name_toc: "Juan lediije jo'ne uañe laeñi"
+  "1TI":
+    name: "O Timotius Madodihiraka"
+    slug: "o-timotius-madodihiraka"
+    name_toc: "Juan lediije jo'ne p'ategue"
+  "2TI":
+    name: "O Timotius Mahinotoka"
+    slug: "o-timotius-mahinotoka"
+    name_toc: "Judas lediije jo'ne yanema gaa'me Dios lec'oqo'tepi"
+  "TIT":
+    name: "O Titus"
+    slug: "o-titus"
+    name_toc: "Lauanaĝanaĝaco ñe'me Juan"
+  "PHM":
+    name: "O Filemon"
+    slug: "o-filemon"
+    name_toc: "So hua'auchiguiñi"
+  "HEB":
+    name: "O Ibrani"
+    slug: "o-ibrani"
+    name_toc: "Qanqateeguesop ye Egipto so llalaqpi so Israel"
+  "JAS":
+    name: "O Yakobus"
+    slug: "o-yakobus"
+    name_toc: "Da lo'onataxanaxac so chegoxoguetpi so Leví"
+  "1PE":
+    name: "O Petrus Madodihiraka"
+    slug: "o-petrus-madodihiraka"
+    name_toc: "Da naloqnaguec so llalaqpi so Israel"
+  "2PE":
+    name: "O Petrus Mahinotoka"
+    slug: "o-petrus-mahinotoka"
+    name_toc: "Ana nere Deuteronómio"
+  "1JN":
+    name: "O Yohanis Madodihiraka"
+    slug: "o-yohanis-madodihiraka"
+    name_toc: "So Josué inoxonaqcheteua'a ye Canaán so Israel le'ecpi"
+  "2JN":
+    name: "O Yohanis Mahinotoka"
+    slug: "o-yohanis-mahinotoka"
+    name_toc: "Da na'aqtaguec so nataxala'pi maye ilotague' co'ollaxa so Israel le'ecpi"
+  "3JN":
+    name: "O Yohanis Mahangeoka"
+    slug: "o-yohanis-mahangeoka"
+    name_toc: "Da na'aqtaguec aso Rut"
+  "JUD":
+    name: "O Yudas"
+    slug: "o-yudas"
+    name_toc: "Ana hua'auchiguiñi nere Samuel"
+  "REV":
+    name: "O Himatoko"
+    slug: "o-himatoko"
+    name_toc: "Ana lỹa nere Samuel"

@@ -1,0 +1,5 @@
+language: "awk"
+books:
+  "LUK":
+    name: "Luk"
+    slug: "luk"

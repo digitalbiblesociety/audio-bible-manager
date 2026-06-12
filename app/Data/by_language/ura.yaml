@@ -1,0 +1,89 @@
+language: "ura"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+  "MAT":
+    name: "Mateeocha Laenai"
+    slug: "mateeocha-laenai"
+  "MRK":
+    name: "Marocohacha Laenai"
+    slug: "marocohacha-laenai"
+  "LUK":
+    name: "Locasiicha Laenai"
+    slug: "locasiicha-laenai"
+  "JHN":
+    name: "Joaancha Laenai"
+    slug: "joaancha-laenai"
+  "ACT":
+    name: "Ichanohichuru"
+    slug: "ichanohichuru"
+  "ROM":
+    name: "Roma Nenacaauru Rai"
+    slug: "roma-nenacaauru-rai"
+  "1CO":
+    name: "Coriintoo Nenacaauru Rai Leinjiin"
+    slug: "coriintoo-nenacaauru-rai-leinjiin"
+  "2CO":
+    name: "Coriintoo Nenacaauru Rai Coroataja"
+    slug: "coriintoo-nenacaauru-rai-coroataja"
+  "GAL":
+    name: "Galasia Batane Nenacaauru Rai"
+    slug: "galasia-batane-nenacaauru-rai"
+  "EPH":
+    name: "Efesoo Nenacaauru Rai"
+    slug: "efesoo-nenacaauru-rai"
+  "PHP":
+    name: "Filipoo Nenacaauru Rai"
+    slug: "filipoo-nenacaauru-rai"
+  "COL":
+    name: "Colosau Nenacaauru Rai"
+    slug: "colosau-nenacaauru-rai"
+  "1TH":
+    name: "Tesalonecau Nenacaauru Rai Leinjiin"
+    slug: "tesalonecau-nenacaauru-rai-leinjiin"
+  "2TH":
+    name: "Tesalonecau Nenacaauru Rai Coroataja"
+    slug: "tesalonecau-nenacaauru-rai-coroataja"
+  "1TI":
+    name: "Timoteeo Rai Leinjiin"
+    slug: "timoteeo-rai-leinjiin"
+  "2TI":
+    name: "Timoteeo Rai Coroataja"
+    slug: "timoteeo-rai-coroataja"
+  "TIT":
+    name: "Tito Rai"
+    slug: "tito-rai"
+  "PHM":
+    name: "Filemoon Rai"
+    slug: "filemoon-rai"
+  "HEB":
+    name: "Ebereeocuru Rai"
+    slug: "ebereeocuru-rai"
+  "JAS":
+    name: "Saantiaaocha Letoai"
+    slug: "saantiaaocha-letoai"
+  "1PE":
+    name: "Fedoroacha Letoai Leinjiin"
+    slug: "fedoroacha-letoai-leinjiin"
+  "2PE":
+    name: "Fedoroacha Letoai Coroataja"
+    slug: "fedoroacha-letoai-coroataja"
+  "1JN":
+    name: "Joaancha Letoai Leinjiin"
+    slug: "joaancha-letoai-leinjiin"
+  "2JN":
+    name: "Joaancha Letoai Coroataja"
+    slug: "joaancha-letoai-coroataja"
+  "3JN":
+    name: "Joaancha Letoai Nichataja"
+    slug: "joaancha-letoai-nichataja"
+  "JUD":
+    name: "Jodasiicha Letoai"
+    slug: "jodasiicha-letoai"
+  "REV":
+    name: "Afocarifisi"
+    slug: "afocarifisi"

@@ -1,0 +1,83 @@
+language: "mif"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jaŋ"
+    slug: "jan"
+  "ACT":
+    name: "Sləra ŋga Ndəhay Meslərey"
+    slug: "slera-nga-ndehay-meslerey"
+  "ROM":
+    name: "Rawma hay"
+    slug: "rawma-hay"
+  "1CO":
+    name: "1 Kwarinti hay"
+    slug: "1-kwarinti-hay"
+  "2CO":
+    name: "2 Kwarinti hay"
+    slug: "2-kwarinti-hay"
+  "GAL":
+    name: "Galat hay"
+    slug: "galat-hay"
+  "EPH":
+    name: "Efez hay"
+    slug: "efez-hay"
+  "PHP":
+    name: "Fəlepi hay"
+    slug: "felepi-hay"
+  "COL":
+    name: "Kwalaws hay"
+    slug: "kwalaws-hay"
+  "1TH":
+    name: "1 Tesalawnik hay"
+    slug: "1-tesalawnik-hay"
+  "2TH":
+    name: "2 Tesalawnik hay"
+    slug: "2-tesalawnik-hay"
+  "1TI":
+    name: "1 Timawte"
+    slug: "1-timawte"
+  "2TI":
+    name: "2 Timawte"
+    slug: "2-timawte"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemaŋw"
+    slug: "filemanw"
+  "HEB":
+    name: "Hebəre hay"
+    slug: "hebere-hay"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Jaŋ"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jaŋ"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jaŋ"
+    slug: "3-jan"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Cek ma wuzar a Jaŋ"
+    slug: "cek-ma-wuzar-a-jan"

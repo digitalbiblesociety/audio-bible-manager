@@ -1,0 +1,83 @@
+language: "cam"
+books:
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Maréko"
+    slug: "mareko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ioane"
+    slug: "ioane"
+  "ACT":
+    name: "Apostolo"
+    slug: "apostolo"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korénit"
+    slug: "1-korenit"
+  "2CO":
+    name: "2 Korénit"
+    slug: "2-korenit"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Éféso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosé"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tésalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tésalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timoté"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timoté"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filémon"
+    slug: "filemon"
+  "HEB":
+    name: "Ébéru"
+    slug: "eberu"
+  "JAS":
+    name: "Cang"
+    slug: "cang"
+  "1PE":
+    name: "1 Pétéru"
+    slug: "1-peteru"
+  "2PE":
+    name: "2 Pétéru"
+    slug: "2-peteru"
+  "1JN":
+    name: "1 Ioane"
+    slug: "1-ioane"
+  "2JN":
+    name: "2 Ioane"
+    slug: "2-ioane"
+  "3JN":
+    name: "3 Ioane"
+    slug: "3-ioane"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Pii Beetihi"
+    slug: "pii-beetihi"

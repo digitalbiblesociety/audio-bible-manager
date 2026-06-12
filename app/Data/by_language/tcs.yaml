@@ -1,0 +1,92 @@
+language: "tcs"
+books:
+  "GEN":
+    name: "Zenasis - Stat blo ebriting"
+    slug: "zenasis-stat-blo-ebriting"
+  "RUT":
+    name: "Buk baut Rut"
+    slug: "buk-baut-rut"
+  "JON":
+    name: "Spesilmesizman Zona"
+    slug: "spesilmesizman-zona"
+  "MAT":
+    name: "Matiu tokbaut Zizas"
+    slug: "matiu-tokbaut-zizas"
+  "MRK":
+    name: "Mak tokbaut Zizas"
+    slug: "mak-tokbaut-zizas"
+  "LUK":
+    name: "Luk tokbaut Zizas"
+    slug: "luk-tokbaut-zizas"
+  "JHN":
+    name: "Zon tokbaut Zizas"
+    slug: "zon-tokbaut-zizas"
+  "ACT":
+    name: "Pas misnare wok"
+    slug: "pas-misnare-wok"
+  "ROM":
+    name: "Leta po Sos blo Rom"
+    slug: "leta-po-sos-blo-rom"
+  "1CO":
+    name: "Namba 1 leta po Sos blo Korint"
+    slug: "namba-1-leta-po-sos-blo-korint"
+  "2CO":
+    name: "Namba 2 leta po Sos blo Korint"
+    slug: "namba-2-leta-po-sos-blo-korint"
+  "GAL":
+    name: "Leta po Sos blo Galasia"
+    slug: "leta-po-sos-blo-galasia"
+  "EPH":
+    name: "Leta po Sos blo Episis"
+    slug: "leta-po-sos-blo-episis"
+  "PHP":
+    name: "Leta po Sos blo Pilipi"
+    slug: "leta-po-sos-blo-pilipi"
+  "COL":
+    name: "Leta po Sos blo Kolosi"
+    slug: "leta-po-sos-blo-kolosi"
+  "1TH":
+    name: "Namba 1 leta po Sos blo Tesalonika"
+    slug: "namba-1-leta-po-sos-blo-tesalonika"
+  "2TH":
+    name: "Namba 2 leta po Sos blo Tesalonika"
+    slug: "namba-2-leta-po-sos-blo-tesalonika"
+  "1TI":
+    name: "Namba 1 leta po Timoti"
+    slug: "namba-1-leta-po-timoti"
+  "2TI":
+    name: "Namba 2 leta po Timoti"
+    slug: "namba-2-leta-po-timoti"
+  "TIT":
+    name: "Leta po Taitas"
+    slug: "leta-po-taitas"
+  "PHM":
+    name: "Leta po Pilemon"
+    slug: "leta-po-pilemon"
+  "HEB":
+    name: "Leta po Ibrupipol"
+    slug: "leta-po-ibrupipol"
+  "JAS":
+    name: "Leta prom Zemes"
+    slug: "leta-prom-zemes"
+  "1PE":
+    name: "Namba 1 leta prom Pita"
+    slug: "namba-1-leta-prom-pita"
+  "2PE":
+    name: "Namba 2 leta prom Pita"
+    slug: "namba-2-leta-prom-pita"
+  "1JN":
+    name: "Namba 1 leta prom Zon"
+    slug: "namba-1-leta-prom-zon"
+  "2JN":
+    name: "Namba 2 leta prom Zon"
+    slug: "namba-2-leta-prom-zon"
+  "3JN":
+    name: "Namba 3 leta prom Zon"
+    slug: "namba-3-leta-prom-zon"
+  "JUD":
+    name: "Leta prom Zud"
+    slug: "leta-prom-zud"
+  "REV":
+    name: "Rebaleisan - end blo ebriting"
+    slug: "rebaleisan-end-blo-ebriting"

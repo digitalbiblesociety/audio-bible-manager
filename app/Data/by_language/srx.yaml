@@ -1,0 +1,110 @@
+language: "srx"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "Yoeli"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "Amosi"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "Obadia"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+    name_toc: "Yona"
+  "ACT":
+    name: "प्रेरितो कै काम"
+    slug: "prerito-kai-kama"
+    name_toc: "Mika"
+  "ROM":
+    name: "रोमियों"
+    slug: "romiyom"
+    name_toc: "Nahumu"
+  "1CO":
+    name: "1 कुरिन्थियों"
+    slug: "1-kurinthiyom"
+    name_toc: "Habakuki"
+  "2CO":
+    name: "2 कुरिन्थियों"
+    slug: "2-kurinthiyom"
+    name_toc: "Zefania"
+  "GAL":
+    name: "गलातियौं"
+    slug: "galatiyaum"
+    name_toc: "Hagai"
+  "EPH":
+    name: "इफिसियों"
+    slug: "iphisiyom"
+    name_toc: "Zakaria"
+  "PHP":
+    name: "फिलिप्पियों"
+    slug: "philippiyom"
+    name_toc: "Malaki"
+  "COL":
+    name: "कुलुस्सियों"
+    slug: "kulussiyom"
+    name_toc: "Habari Njema Iliyoandikwa Na Matayo"
+  "1TH":
+    name: "1 थिस्सलुनीकियों"
+    slug: "1-thissalunikiyom"
+    name_toc: "Habari Njema Iliyoandikwa Na Marko"
+  "2TH":
+    name: "2 थिस्सलुनीकियों"
+    slug: "2-thissalunikiyom"
+    name_toc: "Habari Njema Iliyoandikwa Na Luka"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "Habari Njema Iliyoandikwa Na Yoane"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "Kitabu Cha Matendo Ya Mitume"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "Barua Ya Paulo Kwa Waroma"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "Barua Ya Kwanza Ya Paulo Kwa Wakorinto"
+  "HEB":
+    name: "इब्रानियों"
+    slug: "ibraniyom"
+    name_toc: "Barua Ya Pili Ya Paulo Kwa Wakorinto"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "Barua Ya Paulo Kwa Wagalatia"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "Barua Ya Paulo Kwa Waefeso"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "Barua Ya Paulo Kwa Wafilipi"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "Barua Ya Paulo Kwa Wakolosayi"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "Barua Ya Kwanza Ya Paulo Kwa Watesalonika"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "Barua Ya Pili Ya Paulo Kwa Watesalonika"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "Barua Ya Kwanza Ya Paulo Kwa Timoteo"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"
+    name_toc: "Barua Ya Pili Ya Paulo Kwa Timoteo"

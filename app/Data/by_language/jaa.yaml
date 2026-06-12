@@ -1,0 +1,89 @@
+language: "jaa"
+books:
+  "GEN":
+    name: "Senisi"
+    slug: "senisi"
+  "DAN":
+    name: "Tanieo"
+    slug: "tanieo"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maroko"
+    slug: "maroko"
+  "LUK":
+    name: "Roka"
+    slug: "roka"
+  "JHN":
+    name: "Yowaho"
+    slug: "yowaho"
+  "ACT":
+    name: "Yeso-ka"
+    slug: "yeso-ka"
+  "ROM":
+    name: "Homa"
+    slug: "homa"
+  "1CO":
+    name: "1 Korito"
+    slug: "1-korito"
+  "2CO":
+    name: "2 Korito"
+    slug: "2-korito"
+  "GAL":
+    name: "Karatiya"
+    slug: "karatiya"
+  "EPH":
+    name: "Efesiyo"
+    slug: "efesiyo"
+  "PHP":
+    name: "Firibo"
+    slug: "firibo"
+  "COL":
+    name: "Koroso"
+    slug: "koroso"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Firimo"
+    slug: "firimo"
+  "HEB":
+    name: "Ebereo"
+    slug: "ebereo"
+  "JAS":
+    name: "Tiyako"
+    slug: "tiyako"
+  "1PE":
+    name: "1 Bedoro"
+    slug: "1-bedoro"
+  "2PE":
+    name: "2 Bedoro"
+    slug: "2-bedoro"
+  "1JN":
+    name: "1 Yowaho"
+    slug: "1-yowaho"
+  "2JN":
+    name: "2 Yowaho"
+    slug: "2-yowaho"
+  "3JN":
+    name: "3 Yowaho"
+    slug: "3-yowaho"
+  "JUD":
+    name: "Yoda"
+    slug: "yoda"
+  "REV":
+    name: "Yeso Kisisito"
+    slug: "yeso-kisisito"

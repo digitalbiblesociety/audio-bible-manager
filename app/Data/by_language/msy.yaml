@@ -1,0 +1,200 @@
+language: "msy"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "EXO":
+    name: "Ua Me Ini"
+    slug: "ua-me-ini"
+  "LEV":
+    name: "Ofa Gami"
+    slug: "ofa-gami"
+  "NUM":
+    name: "Dɨboboniba"
+    slug: "dboboniba"
+  "DEU":
+    name: "Godɨn Araziba"
+    slug: "godn-araziba"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Gumazir Dapaniba"
+    slug: "gumazir-dapaniba"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Atriviba"
+    slug: "1-atriviba"
+  "2KI":
+    name: "2 Atriviba"
+    slug: "2-atriviba"
+  "1CH":
+    name: "1 Eghaghaniba"
+    slug: "1-eghaghaniba"
+  "2CH":
+    name: "2 Eghaghaniba"
+    slug: "2-eghaghaniba"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Onger Akaba"
+    slug: "onger-akaba"
+  "PRO":
+    name: "Aghuzir Akaba"
+    slug: "aghuzir-akaba"
+  "ECC":
+    name: "Fofozir Gumazim"
+    slug: "fofozir-gumazim"
+  "SNG":
+    name: "Solomon"
+    slug: "solomon"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Azir Akam"
+    slug: "azir-akam"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanaia"
+    slug: "sefanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mrk"
+    slug: "mrk"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jhn"
+    slug: "jhn"
+  "ACT":
+    name: "Act"
+    slug: "act"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1Co"
+    slug: "1co"
+  "2CO":
+    name: "2Co"
+    slug: "2co"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "EPH":
+    name: "Eph"
+    slug: "eph"
+  "PHP":
+    name: "Php"
+    slug: "php"
+  "COL":
+    name: "Col"
+    slug: "col"
+  "1TH":
+    name: "1Th"
+    slug: "1th"
+  "2TH":
+    name: "2Th"
+    slug: "2th"
+  "1TI":
+    name: "1Ti"
+    slug: "1ti"
+  "2TI":
+    name: "2Ti"
+    slug: "2ti"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Phm"
+    slug: "phm"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1PE":
+    name: "1Pe"
+    slug: "1pe"
+  "2PE":
+    name: "2Pe"
+    slug: "2pe"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"
+  "2JN":
+    name: "2Jn"
+    slug: "2jn"
+  "3JN":
+    name: "3Jn"
+    slug: "3jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Rev"
+    slug: "rev"

@@ -1,0 +1,266 @@
+language: "pbu"
+books:
+  "GEN":
+    name: "پېدايښت"
+    slug: "pedayxt"
+    name_toc: "2 เทซาโลน"
+  "EXO":
+    name: "هِجرت"
+    slug: "hjrt"
+    name_toc: "1 อาทีโมวเท"
+  "LEV":
+    name: "ليويانو"
+    slug: "lywyanw"
+    name_toc: "2 อาทีโมวเท"
+  "NUM":
+    name: "شمېر"
+    slug: "shmer"
+    name_toc: "อาทีทู"
+  "DEU":
+    name: "ګردان"
+    slug: "grdan"
+    name_toc: "อาพีเลโมน"
+  "JOS":
+    name: "يشوَع"
+    slug: "yshwa"
+    name_toc: "แฮแบร"
+  "JDG":
+    name: "قاضيانو"
+    slug: "qadyanw"
+    name_toc: "อายาโกบ"
+  "RUT":
+    name: "روت"
+    slug: "rwt"
+    name_toc: "1 อาเปตารู"
+  "1SA":
+    name: "اول سموئيل"
+    slug: "awl-smwiyl"
+    name_toc: "2 อาเปตารู"
+  "2SA":
+    name: "دوېم سموئيل"
+    slug: "dwem-smwiyl"
+    name_toc: "1 อายอฮาน"
+  "1KI":
+    name: "اول بادشاهان"
+    slug: "awl-badshahan"
+    name_toc: "2 อายอฮาน"
+  "2KI":
+    name: "دوېم بادشاهان"
+    slug: "dwem-badshahan"
+    name_toc: "3 อายอฮาน"
+  "1CH":
+    name: "اول تواريخ"
+    slug: "awl-twarykh"
+    name_toc: "อายูดา"
+  "2CH":
+    name: "دوېم تاريخ"
+    slug: "dwem-tarykh"
+    name_toc: "ปี บยัะ"
+  "EZR":
+    name: "عزرا"
+    slug: "azra"
+    name_toc: "ဘပ် ဇဝ်ဖြာ လွင် အူ ဆိန့် ဒေါ ဂုဝ် အန်"
+  "NEH":
+    name: "نحمياه"
+    slug: "nhmyah"
+    name_toc: "ဘပ် လွင် ဒူအီ အီဆာရေလ လေး ခဲင် မိူင် အဲဂိုပ်"
+  "EST":
+    name: "اِستَر"
+    slug: "astr"
+    name_toc: "ဘပ် လွင် ဂါန် ပီ လုဝ် ဘူင် ဂေ ဒါ အီ လှူ ဒီ ဇဝ်ဖြာ"
+  "JOB":
+    name: "ايُوب"
+    slug: "ayub"
+    name_toc: "ဘပ် လွင် ဒူအီ အီဆာရေလ ကွယ် ခဲင် ပြဲ ကာဟဝ်း"
+  "PSA":
+    name: "زبور"
+    slug: "zbwr"
+    name_toc: "ဘပ် လွင် အာမုဝ်ဆဲ ဟုဝ် ဒါရာ"
+  "PRO":
+    name: "متلونه"
+    slug: "mtlwnh"
+    name_toc: "လွင် အာယုဝ်ဆူအာ ဝီ ယဲတ့် ဒူအီ အီဆာရေလ"
+  "ECC":
+    name: "معلِم"
+    slug: "malm"
+    name_toc: "ဘပ် လွင် ဂေ ဒါ တာင် အီ ဆုင်ဖျာတ် ဒါရာ ခဲင် မိူင် အီဆာရေလ"
+  "SNG":
+    name: "غزلې"
+    slug: "ghzle"
+    name_toc: "ဘပ် လွင် နာင် ရူထာ"
+  "ISA":
+    name: "يشعياه"
+    slug: "yshayah"
+    name_toc: "ဘပ် ဖိူန် ဒေါ ဂုဝ် အီ စိူဝ် ဘပ် အာဆာမူအေန်"
+  "JER":
+    name: "يرمياه"
+    slug: "yrmyah"
+    name_toc: "ဘပ် ဖိူန် ဟာအာ အီ စိူဝ် ဘပ် အာဆာမူအေန်"
+  "LAM":
+    name: "مرثيى"
+    slug: "mrthiy"
+    name_toc: "ဘပ် ဖိူန် ဒေါ ဂုဝ် လွင် ခုန်ဒီခမ် အီ အိုပ် ဒူအီ အီဆာရေလ"
+  "EZK":
+    name: "حزقى‌ايل"
+    slug: "hzqyayl"
+    name_toc: "ဘပ် ဖိူန် ဟာအာ လွင် ခုန်ဒီခမ် အီ အိုပ် ဒူအီ အီဆာရေလ"
+  "DAN":
+    name: "دانيال"
+    slug: "danial"
+    name_toc: "ဘပ် ဖိူန် ဒေါ ဂုဝ် လွင် ဘိူန် ဒူအီ အီဆာရေလ"
+  "HOS":
+    name: "هوسيع"
+    slug: "hwsya"
+    name_toc: "ဘပ် ဖိူန် ဟာအာ လွင် ဘိူန် ဒူအီ အီဆာရေလ"
+  "JOL":
+    name: "يوايل"
+    slug: "ywayl"
+    name_toc: "ဘပ် လွင် အာအေဆာရာ"
+  "AMO":
+    name: "عاموس"
+    slug: "aamws"
+    name_toc: "ဘပ် လွင် အာနေဟာမီ"
+  "OBA":
+    name: "عبدياه"
+    slug: "abdyah"
+    name_toc: "ဘပ် လွင် နာင် အေဆာထာ"
+  "JON":
+    name: "يُونس"
+    slug: "yunos"
+    name_toc: "ဘပ် ပီ ဒဲမ် လွင် အာယုဝ်ဘာ"
+  "MIC":
+    name: "ميکاه"
+    slug: "mykah"
+    name_toc: "မှုဝ်"
+  "NAM":
+    name: "ناحوم"
+    slug: "nahwm"
+    name_toc: "အာငျာန်"
+  "HAB":
+    name: "حبقُوق"
+    slug: "hbqwq"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒါ အီ ဟုဝ် ဒါရာ"
+  "ZEP":
+    name: "صفنياه"
+    slug: "sfnyah"
+    name_toc: "မှုဝ် ပီ တဝ်း အာဆာလုဝ်မုဝ် လွင် လာယ် ရွက့်"
+  "HAG":
+    name: "حجى"
+    slug: "hjy"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာအီဆာယ"
+  "ZEC":
+    name: "زکرياه"
+    slug: "zkryah"
+    name_toc: "ဘပ် ပဲ့ ဟဲ့ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာယေရေမီ"
+  "MAL":
+    name: "ملاکى"
+    slug: "mlaky"
+    name_toc: "မှုဝ် လွင် နဝ်း က့လိုဝ်"
+  "MAT":
+    name: "متى"
+    slug: "mty"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာအေဆေခေန်"
+  "MRK":
+    name: "مرقوس"
+    slug: "mrqws"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒူအီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာဒါနေလ"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+    name_toc: "ဘပ် လွင် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာဟုဝ်ဆီယာ"
+  "JHN":
+    name: "يوحنا"
+    slug: "ywhna"
+    name_toc: "ဘပ် လွင် ဒူအီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာယုဝ်အေလ"
+  "ACT":
+    name: "اعمال"
+    slug: "aamal"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာမုဝ်ဆာ"
+  "ROM":
+    name: "روميان"
+    slug: "rumyan"
+    name_toc: "ဘပ် ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာအောဘာဒီ"
+  "1CO":
+    name: "اول کورنتيان"
+    slug: "awl-kwrntyan"
+    name_toc: "ဘပ် ပီ ဒဲမ် လွင် ဒူအီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာယုဝ်နာ"
+  "2CO":
+    name: "دوهم قرنتیان"
+    slug: "dwhm-qrntyan"
+    name_toc: "၂ အာယောဟာန်"
+  "GAL":
+    name: "ګلتيان"
+    slug: "gltyan"
+    name_toc: "ပဲ့ ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာနာဟူမ်"
+  "EPH":
+    name: "افسیسیان"
+    slug: "afsysyan"
+    name_toc: "အာယူဒါ"
+  "PHP":
+    name: "فیلیپیان"
+    slug: "fylypyan"
+    name_toc: "ပီ ဘျ"
+  "COL":
+    name: "کولسیان"
+    slug: "kwlsyan"
+    name_toc: "Jenesis"
+  "1TH":
+    name: "اول تِسالونيکيان"
+    slug: "awl-tsalwnykyan"
+    name_toc: "ပဲ့ ပီ ဒဲမ် ဒါ အီ ဘျာန် ဂြုဝ်း ဇဝ်ဖြာ အီ စိူဝ် အာဆာခါရာ"
+  "2TH":
+    name: "دوهم تسالونیکیان"
+    slug: "dwhm-tsalwnykyan"
+    name_toc: "Levitikus"
+  "1TI":
+    name: "اول تيموتيوس"
+    slug: "awl-tymwtyws"
+    name_toc: "အာမာထဲ"
+  "2TI":
+    name: "دوېم تيموتيوس"
+    slug: "dwem-tymwtyws"
+    name_toc: "အာမာကူ"
+  "TIT":
+    name: "تيطوس"
+    slug: "tytws"
+    name_toc: "အာလူကာ"
+  "PHM":
+    name: "فيليمون"
+    slug: "philemon"
+    name_toc: "အာယောဟာန်"
+  "HEB":
+    name: "عبرانيان"
+    slug: "abranyan"
+    name_toc: "ဒူအီ ပီ ရဝ်း"
+  "JAS":
+    name: "يعقوب"
+    slug: "yaqob"
+    name_toc: "ရုဝ်မာ"
+  "1PE":
+    name: "اول پطروس"
+    slug: "awl-ptrws"
+    name_toc: "၁ ခုဝ်ရိန်ထူ"
+  "2PE":
+    name: "دوېم پطروس"
+    slug: "dwem-ptrws"
+    name_toc: "၂ ခုဝ်ရိန်ထူ"
+  "1JN":
+    name: "اول يوحنا"
+    slug: "awl-ywhna"
+    name_toc: "ဂါလာထီ"
+  "2JN":
+    name: "دوېم يوحنا"
+    slug: "dwem-ywhna"
+    name_toc: "အဲဖဲ"
+  "3JN":
+    name: "درېم يوحنا"
+    slug: "drem-ywhna"
+    name_toc: "ဖီလီဖီ"
+  "JUD":
+    name: "یهودا"
+    slug: "yhwda"
+    name_toc: "Ezra"
+  "REV":
+    name: "رويا"
+    slug: "roya"
+    name_toc: "၁ ထေဆာလူန်"

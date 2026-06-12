@@ -1,0 +1,92 @@
+language: "yka"
+books:
+  "GEN":
+    name: "Panagnaꞌan"
+    slug: "panagnaan"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yahiya"
+    slug: "yahiya"
+  "ACT":
+    name: "Hinangan"
+    slug: "hinangan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolossa"
+    slug: "kolossa"
+  "1TH":
+    name: "1 Tessalonika"
+    slug: "1-tessalonika"
+  "2TH":
+    name: "2 Tessalonika"
+    slug: "2-tessalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Hibrani"
+    slug: "hibrani"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+  "1PE":
+    name: "1 Petros"
+    slug: "1-petros"
+  "2PE":
+    name: "2 Petros"
+    slug: "2-petros"
+  "1JN":
+    name: "1 Yahiya"
+    slug: "1-yahiya"
+  "2JN":
+    name: "2 Yahiya"
+    slug: "2-yahiya"
+  "3JN":
+    name: "3 Yahiya"
+    slug: "3-yahiya"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Meˈ Pinakitaˈu"
+    slug: "me-pinakitau"

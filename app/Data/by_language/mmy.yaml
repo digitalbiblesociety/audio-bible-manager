@@ -1,0 +1,83 @@
+language: "mmy"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Lik"
+    slug: "lik"
+  "JHN":
+    name: "Yaaya"
+    slug: "yaaya"
+  "ACT":
+    name: "Lubaakico"
+    slug: "lubaakico"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+  "1CO":
+    name: "1 Korente"
+    slug: "1-korente"
+  "2CO":
+    name: "2 Korente"
+    slug: "2-korente"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Epez"
+    slug: "epez"
+  "PHP":
+    name: "Pilip"
+    slug: "pilip"
+  "COL":
+    name: "Koloos"
+    slug: "koloos"
+  "1TH":
+    name: "1Tesalonik"
+    slug: "1tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ebireenigee"
+    slug: "ebireenigee"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yaaya"
+    slug: "1-yaaya"
+  "2JN":
+    name: "2 Yaaya"
+    slug: "2-yaaya"
+  "3JN":
+    name: "3 Yaaya"
+    slug: "3-yaaya"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Gaaro ta Gaari ku Kiilenta"
+    slug: "gaaro-ta-gaari-ku-kiilenta"

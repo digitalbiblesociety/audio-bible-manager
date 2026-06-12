@@ -1,0 +1,110 @@
+language: "lia"
+books:
+  "MAT":
+    name: "Mathiyu"
+    slug: "mathiyu"
+    name_toc: "Mathiyu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+    name_toc: "Maki"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+    name_toc: "Luku"
+  "JHN":
+    name: "Yɔni"
+    slug: "yni"
+    name_toc: "Yɔni"
+  "ACT":
+    name: "Baseriŋ Bithɔɔkɔ beŋ"
+    slug: "baseri-bithk-be"
+    name_toc: "Baseriŋ Bithɔɔkɔ beŋ"
+  "ROM":
+    name: "BiRomaŋ beŋ"
+    slug: "biroma-be"
+    name_toc: "BiRomaŋ beŋ"
+  "1CO":
+    name: "1 BiKɔrinthi beŋ"
+    slug: "1-bikrinthi-be"
+    name_toc: "1 BiKɔrinthi beŋ"
+  "2CO":
+    name: "2 BiKɔrinthi beŋ"
+    slug: "2-bikrinthi-be"
+    name_toc: "2 BiKɔrinthi beŋ"
+  "GAL":
+    name: "BiKaletiya beŋ"
+    slug: "bikaletiya-be"
+    name_toc: "BiKaletiya beŋ"
+  "EPH":
+    name: "BiƐfɛsɔsi beŋ"
+    slug: "bifssi-be"
+    name_toc: "BiƐfɛsɔsi beŋ"
+  "PHP":
+    name: "BiFilipay beŋ"
+    slug: "bifilipay-be"
+    name_toc: "BiFilipay beŋ"
+  "COL":
+    name: "BiKalasi beŋ"
+    slug: "bikalasi-be"
+    name_toc: "BiKalasi beŋ"
+  "1TH":
+    name: "1 BiThɛsalonaika beŋ"
+    slug: "1-bithsalonaika-be"
+    name_toc: "1 BiThɛsalonaika beŋ"
+  "2TH":
+    name: "2 BiThɛsalonaika"
+    slug: "2-bithsalonaika"
+    name_toc: "2 BiThɛsalonaika"
+  "1TI":
+    name: "1 Timothi"
+    slug: "1-timothi"
+    name_toc: "1 Timothi"
+  "2TI":
+    name: "2 Timothi"
+    slug: "2-timothi"
+    name_toc: "2 Timothi"
+  "TIT":
+    name: "Taitɔsi"
+    slug: "taitsi"
+    name_toc: "Taitɔsi"
+  "PHM":
+    name: "Filimɔŋ"
+    slug: "filim"
+    name_toc: "Filimɔŋ"
+  "HEB":
+    name: "BiHiburu beŋ"
+    slug: "bihiburu-be"
+    name_toc: "BiHiburu beŋ"
+  "JAS":
+    name: "Yemisi"
+    slug: "yemisi"
+    name_toc: "Yemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "1 Pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "2 Pita"
+  "1JN":
+    name: "1 Yɔni"
+    slug: "1-yni"
+    name_toc: "1 Yɔni"
+  "2JN":
+    name: "2 Yɔni"
+    slug: "2-yni"
+    name_toc: "2 Yɔni"
+  "3JN":
+    name: "3 Yɔni"
+    slug: "3-yni"
+    name_toc: "3 Yɔni"
+  "JUD":
+    name: "Yudi"
+    slug: "yudi"
+    name_toc: "Yudi"
+  "REV":
+    name: "Matɔŋinɔkɔ mȧŋ"
+    slug: "matink-ma"
+    name_toc: "Matɔŋinɔkɔ mȧŋ"

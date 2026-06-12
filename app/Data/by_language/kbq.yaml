@@ -1,0 +1,200 @@
+language: "kbq"
+books:
+  "GEN":
+    name: "Jenesis-Agafa"
+    slug: "jenesis-agafa"
+  "EXO":
+    name: "Zmavarene"
+    slug: "zmavarene"
+  "LEV":
+    name: "3 Mose"
+    slug: "3-mose"
+  "NUM":
+    name: "4 Mose"
+    slug: "4-mose"
+  "DEU":
+    name: "Tiuteronomi Kasege"
+    slug: "tiuteronomi-kasege"
+  "JOS":
+    name: "Zosua"
+    slug: "zosua"
+  "JDG":
+    name: "Jasi vahere"
+    slug: "jasi-vahere"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samue"
+    slug: "1-samue"
+  "2SA":
+    name: "2 Samue"
+    slug: "2-samue"
+  "1KI":
+    name: "1 Kva vahere"
+    slug: "1-kva-vahere"
+  "2KI":
+    name: "2 Kva"
+    slug: "2-kva"
+  "1CH":
+    name: "1 Kroniku-2 Kroniku"
+    slug: "1-kroniku-2-kroniku"
+  "2CH":
+    name: "2 Kronikol-Zamagi Zamagenke"
+    slug: "2-kronikol-zamagi-zamagenke"
+  "EZR":
+    name: "ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemaia"
+    slug: "nehemaia"
+  "EST":
+    name: "esta"
+    slug: "esta"
+  "JOB":
+    name: "Jovu"
+    slug: "jovu"
+  "PSA":
+    name: "Sams-Zgame"
+    slug: "sams-zgame"
+  "PRO":
+    name: "Proveps-Knare Nomaniza"
+    slug: "proveps-knare-nomaniza"
+  "ECC":
+    name: "Ikrisiasatis"
+    slug: "ikrisiasatis"
+  "SNG":
+    name: "Soromoni' mago' ara hunte'nea zgamere"
+    slug: "soromoni-mago-ara-hunte-nea-zgamere"
+  "ISA":
+    name: "Aizaia"
+    slug: "aizaia"
+  "JER":
+    name: "Zeremaia"
+    slug: "zeremaia"
+  "LAM":
+    name: "Lementesen-Zavi Krafa"
+    slug: "lementesen-zavi-krafa"
+  "EZK":
+    name: "Izikeli"
+    slug: "izikeli"
+  "DAN":
+    name: "Taneo"
+    slug: "taneo"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Zoe"
+    slug: "zoe"
+  "AMO":
+    name: "Emosi"
+    slug: "emosi"
+  "OBA":
+    name: "Obadaia"
+    slug: "obadaia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Havakaki"
+    slug: "havakaki"
+  "ZEP":
+    name: "Zefanaia"
+    slug: "zefanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekraia Sekaraia"
+    slug: "zekraia-sekaraia"
+  "MAL":
+    name: "Marakai"
+    slug: "marakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+  "ACT":
+    name: "Aposol"
+    slug: "aposol"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesasi"
+    slug: "efesasi"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitusi"
+    slug: "taitusi"
+  "PHM":
+    name: "Falimoni"
+    slug: "falimoni"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+  "JUD":
+    name: "Juti"
+    slug: "juti"
+  "REV":
+    name: "Revalesen-Hufo Hu'ne"
+    slug: "revalesen-hufo-hune"

@@ -1,0 +1,110 @@
+language: "mnb"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Bhihita Metaa Nebuhino Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Bhihita Metaa Nebuhino Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Bhihita Metaa nebuhino Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Bhihita Metaa nebuhino Yohanes"
+  "ACT":
+    name: "Tula-tulando rasulu"
+    slug: "tula-tulando-rasulu"
+    name_toc: "Tula-tulano Nehabundo Rasulu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Suhano Paulus so umati we Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Suhano Paulus kabhao-bhaono so umati we Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Suhano Paulus kahaa pakuno so umati we Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Suhano Paulus So Umati We Galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Suhano Paulus so umati we Efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Suhano Paulus So Umati We Filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Suhano Paulus So Umati We Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Suhano Paulus Kabhao-bhaono So Umati We Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Suhano Paulus Kahaapakuno So Umati We Tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Suhano Paulus Kabhao-bhaono So Timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Suhano Paulus Kahaa Pakuno So Timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Suhano Paulus So Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Suhano Paulus So Filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Suha so miendo Ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Suhano Yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Suhano Petrus Kabhao-bhaono"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Suhano Petrus kahaa pakuno"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Suhano Yohanes kabhao-bhaono"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Suhano Yohanes kahaa pakuno"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Suhano Yohanes katolu pakuno"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Suhano Yudas"
+  "REV":
+    name: "Powoha"
+    slug: "powoha"
+    name_toc: "Powohano Yohanes"

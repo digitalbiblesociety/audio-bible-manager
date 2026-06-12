@@ -1,0 +1,266 @@
+language: "mug"
+books:
+  "GEN":
+    name: "Pi zi tiki"
+    slug: "pi-zi-tiki"
+    name_toc: "Pi zi tiki"
+  "EXO":
+    name: "Niyi n'edi"
+    slug: "niyi-n-edi"
+    name_toc: "Niyi n'edi"
+  "LEV":
+    name: "Levitekai"
+    slug: "levitekai"
+    name_toc: "Levitekai"
+  "NUM":
+    name: "Piɵi"
+    slug: "pii"
+    name_toc: "Piɵi"
+  "DEU":
+    name: "Wiyi na midini gadai"
+    slug: "wiyi-na-midini-gadai"
+    name_toc: "Wiyi na midini gadai"
+  "JOS":
+    name: "Yosva"
+    slug: "yosva"
+    name_toc: "Yosva"
+  "JDG":
+    name: "Paakai zi sariya"
+    slug: "paakai-zi-sariya"
+    name_toc: "Paakai zi sariya"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuwel"
+    slug: "1-samuwel"
+    name_toc: "Samuwel n'avut"
+  "2SA":
+    name: "2 Samuwel"
+    slug: "2-samuwel"
+    name_toc: "Samuwel n'ag'aŋ sulu"
+  "1KI":
+    name: "Lokwita n'avut na wiiɗi paakai"
+    slug: "lokwita-n-avut-na-wiii-paakai"
+    name_toc: "Lokwita n'avut na wiiɗi paakai"
+  "2KI":
+    name: "Lokwita n'ag'aŋ sulu na wiiɗi paakai"
+    slug: "lokwita-n-ag-a-sulu-na-wiii-paakai"
+    name_toc: "Lokwita n'avut na wiiɗi paakai"
+  "1CH":
+    name: "Labar na war yivai n'avut"
+    slug: "labar-na-war-yivai-n-avut"
+    name_toc: "Labar na war yivai n'avut"
+  "2CH":
+    name: "Labar na war yivai n'ag'aŋ sulu"
+    slug: "labar-na-war-yivai-n-ag-a-sulu"
+    name_toc: "Labar na war yivai n'ag'aŋ sulu"
+  "EZR":
+    name: "Ezdras"
+    slug: "ezdras"
+    name_toc: "Ezdras"
+  "NEH":
+    name: "Nahamiyas"
+    slug: "nahamiyas"
+    name_toc: "Nahamiyas"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Yob"
+  "PSA":
+    name: "Yama na wiini David"
+    slug: "yama-na-wiini-david"
+    name_toc: "Yama na wiini David"
+  "PRO":
+    name: "Seŋ joro"
+    slug: "se-joro"
+    name_toc: "Seŋ joro"
+  "ECC":
+    name: "Ɗif zi ɓiki seŋ"
+    slug: "if-zi-iki-se"
+    name_toc: "Ɗif zi ɓiki seŋ"
+  "SNG":
+    name: "Yama n'a suwa yama paŋ"
+    slug: "yama-n-a-suwa-yama-pa"
+    name_toc: "Yama n'a suwa yama paŋ"
+  "ISA":
+    name: "Esaya"
+    slug: "esaya"
+    name_toc: "Esaya"
+  "JER":
+    name: "Yeremiyas"
+    slug: "yeremiyas"
+    name_toc: "Yeremiyas"
+  "LAM":
+    name: "Yama zi tuuwi"
+    slug: "yama-zi-tuuwi"
+    name_toc: "Yama zi tuuwi"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+    name_toc: "Ezekiyel"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+    name_toc: "Daniyel"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Hoseya"
+  "JOL":
+    name: "Yowel"
+    slug: "yowel"
+    name_toc: "Yowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+    name_toc: "Abdiyas"
+  "JON":
+    name: "Yonas"
+    slug: "yonas"
+    name_toc: "Yonas"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Sofoniyas"
+    slug: "sofoniyas"
+    name_toc: "Sofoniyas"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+    name_toc: "Haggai"
+  "ZEC":
+    name: "Sakariyas"
+    slug: "sakariyas"
+    name_toc: "Sakariyas"
+  "MAL":
+    name: "Malakiyas"
+    slug: "malakiyas"
+    name_toc: "Malakiyas"
+  "MAT":
+    name: "Matewus"
+    slug: "matewus"
+    name_toc: "Labar na pɗem na Matewus a ɗoŋ"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Labar na pɗem na Markus a ɗoŋ"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Labar na pɗem na Lukas a ɗoŋ"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Labar na pɗem na Yohana a ɗoŋ"
+  "ACT":
+    name: "Sdaɗi Apostelai"
+    slug: "sdai-apostelai"
+    name_toc: "Sdaɗi Apostelai"
+  "ROM":
+    name: "Romekai"
+    slug: "romekai"
+    name_toc: "Letre na siɗi Romekai"
+  "1CO":
+    name: "1 Korintekai"
+    slug: "1-korintekai"
+    name_toc: "Letre n'avut na wiini Pawlus siɗi Korintekai"
+  "2CO":
+    name: "2 Korintekai"
+    slug: "2-korintekai"
+    name_toc: "Letre n'ag'aŋ sulu na wiini Pawlus siɗi Korintekai"
+  "GAL":
+    name: "Galatekai"
+    slug: "galatekai"
+    name_toc: "Letre na wiini Pawlus siɗi Galatekai"
+  "EPH":
+    name: "Efesekai"
+    slug: "efesekai"
+    name_toc: "Letre na wiini Pawlus siɗi Efesekai"
+  "PHP":
+    name: "Filipekai"
+    slug: "filipekai"
+    name_toc: "Letre na wiini Pawlus siɗi Filipekai"
+  "COL":
+    name: "Kolosekai"
+    slug: "kolosekai"
+    name_toc: "Letre na wiini Pawlus siɗi Kolesekai"
+  "1TH":
+    name: "1 Tesalonikekai"
+    slug: "1-tesalonikekai"
+    name_toc: "Letre n'avut na wiini Pawlus siɗi Tesalonikekai"
+  "2TH":
+    name: "2 Tesalonikekai"
+    slug: "2-tesalonikekai"
+    name_toc: "Letre n'ag'aŋ sulu na wiini Pawlus siɗi Tesalonikekai"
+  "1TI":
+    name: "1 Timotewus"
+    slug: "1-timotewus"
+    name_toc: "Letre n'avut na wiini Pawlus sini Timotewus"
+  "2TI":
+    name: "2 Timotewus"
+    slug: "2-timotewus"
+    name_toc: "Letre n'ag'aŋ sulu na wiini Pawlus sini Timotewus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Letre na wiini Pawlus sini Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Letre na wiini Pawlus sini Filemon"
+  "HEB":
+    name: "Hebrekai"
+    slug: "hebrekai"
+    name_toc: "Letre na siɗi Hebrekai"
+  "JAS":
+    name: "Yakob"
+    slug: "yakob"
+    name_toc: "Letre na wiini Yakob"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "Letre n'avut na wiini Peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "Letre n'ag'aŋ sulu na wiini Peter"
+  "1JN":
+    name: "1Yohana"
+    slug: "1yohana"
+    name_toc: "Letre n'avut na wiini Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Letre n'avut na wiini Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Letre n'ag'aŋ hu na wiini Yohana"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Letre na wiini Yudas"
+  "REV":
+    name: "Siŋki n'edi"
+    slug: "siki-n-edi"
+    name_toc: "Siŋki n'edi na sini Yohana"

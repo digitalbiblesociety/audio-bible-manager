@@ -1,0 +1,89 @@
+language: "oss"
+books:
+  "GEN":
+    name: "Райдиан"
+    slug: "rajdian"
+  "EXO":
+    name: "Рацыд"
+    slug: "racyd"
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"
+  "ACT":
+    name: "Апостолты хъуыддӕгтӕ"
+    slug: "apostolty-huyddgt"
+  "ROM":
+    name: "Ромӕгтӕм"
+    slug: "romgtm"
+  "1CO":
+    name: "1 Коринфӕгтӕм"
+    slug: "1-korinfgtm"
+  "2CO":
+    name: "2 Коринфӕгтӕм"
+    slug: "2-korinfgtm"
+  "GAL":
+    name: "Галатӕгтӕм"
+    slug: "galatgtm"
+  "EPH":
+    name: "Эфесӕгтӕм"
+    slug: "efesgtm"
+  "PHP":
+    name: "Филиппӕгтӕм"
+    slug: "filippgtm"
+  "COL":
+    name: "Колоссӕгтӕм"
+    slug: "kolossgtm"
+  "1TH":
+    name: "1 Фессалоникӕгтӕм"
+    slug: "1-fessalonikgtm"
+  "2TH":
+    name: "2 Фессалоникӕгтӕм"
+    slug: "2-fessalonikgtm"
+  "1TI":
+    name: "1 Тимофеймӕ"
+    slug: "1-timofejm"
+  "2TI":
+    name: "2 Тимофеймӕ"
+    slug: "2-timofejm"
+  "TIT":
+    name: "Титмӕ"
+    slug: "titm"
+  "PHM":
+    name: "Филимонмӕ"
+    slug: "filimonm"
+  "HEB":
+    name: "Дзуттӕгтӕм"
+    slug: "dzuttgtm"
+  "JAS":
+    name: "Иаков"
+    slug: "iakov"
+  "1PE":
+    name: "1 Петр"
+    slug: "1-petr"
+  "2PE":
+    name: "2 Петр"
+    slug: "2-petr"
+  "1JN":
+    name: "1 Иоанн"
+    slug: "1-ioann"
+  "2JN":
+    name: "2 Иоанн"
+    slug: "2-ioann"
+  "3JN":
+    name: "3 Иоанн"
+    slug: "3-ioann"
+  "JUD":
+    name: "Иудӕ"
+    slug: "iud"
+  "REV":
+    name: "Ӕргомад"
+    slug: "rgomad"

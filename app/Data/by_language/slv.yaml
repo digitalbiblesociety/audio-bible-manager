@@ -1,0 +1,322 @@
+language: "slv"
+books:
+  "GEN":
+    name: "1 Mojzes"
+    slug: "1-mojzes"
+    name_toc: "Ruta"
+  "EXO":
+    name: "2 Mojzes"
+    slug: "2-mojzes"
+    name_toc: "Prva Samuelova knjiga"
+  "LEV":
+    name: "3 Mojzes"
+    slug: "3-mojzes"
+    name_toc: "Druga Samuelova knjiga"
+  "NUM":
+    name: "4 Mojzes"
+    slug: "4-mojzes"
+    name_toc: "Prva knjiga kraljev"
+  "DEU":
+    name: "5 Mojzes"
+    slug: "5-mojzes"
+    name_toc: "Druga knjiga kraljev"
+  "JOS":
+    name: "Jozue"
+    slug: "jozue"
+    name_toc: "Prva kroniška knjiga"
+  "JDG":
+    name: "Sodniki"
+    slug: "sodniki"
+    name_toc: "Druga kroniška knjiga"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+    name_toc: "Ezra"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Nehemija"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Estera"
+  "1KI":
+    name: "1 Kralji"
+    slug: "1-kralji"
+    name_toc: "Job"
+  "2KI":
+    name: "2 Kralji"
+    slug: "2-kralji"
+    name_toc: "Psalmi"
+  "1CH":
+    name: "1 Kroniška"
+    slug: "1-kroniska"
+    name_toc: "Pregovori"
+  "2CH":
+    name: "2 Kroniška"
+    slug: "2-kroniska"
+    name_toc: "Pridigar"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "SALAMONOV PREDIGAR, BVKOVSKI, ECCLEſiaſtes, Iudouſki pak, Koheleth, // imenovan."
+  "NEH":
+    name: "Nehemija"
+    slug: "nehemija"
+    name_toc: "Izaija"
+  "EST":
+    name: "Estera"
+    slug: "estera"
+    name_toc: "Jeremija"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Žalostinke"
+  "PSA":
+    name: "Psalmi"
+    slug: "psalmi"
+    name_toc: "Ezekiel"
+  "PRO":
+    name: "Pregovori"
+    slug: "pregovori"
+    name_toc: "Daniel"
+  "ECC":
+    name: "Pridigar"
+    slug: "pridigar"
+    name_toc: "Ozej"
+  "SNG":
+    name: "Visoka pesem"
+    slug: "visoka-pesem"
+    name_toc: "Joel"
+  "ISA":
+    name: "Izaija"
+    slug: "izaija"
+    name_toc: "Amos"
+  "JER":
+    name: "Jeremija"
+    slug: "jeremija"
+    name_toc: "Abdija"
+  "LAM":
+    name: "Žalostinke"
+    slug: "zalostinke"
+    name_toc: "Jona"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Iona Prerok."
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Miha Prerok."
+  "HOS":
+    name: "Ozej"
+    slug: "ozej"
+    name_toc: "Habakuk"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Sofonija"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Agej"
+  "OBA":
+    name: "Abdija"
+    slug: "abdija"
+    name_toc: "Zaharija"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Malahija"
+  "MIC":
+    name: "Miha"
+    slug: "miha"
+    name_toc: "Maleahi Prerok."
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Judita"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Estera (grška)"
+  "ZEP":
+    name: "Sofonija"
+    slug: "sofonija"
+    name_toc: "Prva knjiga Makabejcev"
+  "HAG":
+    name: "Agej"
+    slug: "agej"
+    name_toc: "Druga knjiga Makabejcev"
+  "ZEC":
+    name: "Zaharija"
+    slug: "zaharija"
+    name_toc: "Knjiga modrosti"
+  "MAL":
+    name: "Malahija"
+    slug: "malahija"
+    name_toc: "Sirah"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "O le tusi muamua a Peteru"
+  "JDT":
+    name: "Judita"
+    slug: "judita"
+    name_toc: "Jeremijevo pismo"
+  "ESG":
+    name: "Estera (grška)"
+    slug: "estera-grska"
+    name_toc: "O le tusi a Paulo i le Ekalesia i Roma"
+  "WIS":
+    name: "Modrost"
+    slug: "modrost"
+    name_toc: "Evangelij po Luku"
+  "SIR":
+    name: "Sirah"
+    slug: "sirah"
+    name_toc: "Evangelij po Janezu"
+  "BAR":
+    name: "Baruh"
+    slug: "baruh"
+    name_toc: "Apostolska dela"
+  "LJE":
+    name: "Jeremijevo pismo"
+    slug: "jeremijevo-pismo"
+    name_toc: "O le tusi a Paulo i le Ekalesia i Kolose"
+  "S3Y":
+    name: "Shtvki Hdanielv."
+    slug: "shtvki-hdanielv"
+    name_toc: "O Le Faaaliga A Iesu Keriso Ia Ioane."
+  "SUS":
+    name: "Istoria Od Svsanne Inv Daniela."
+    slug: "istoria-od-svsanne-inv-daniela"
+    name_toc: "O Le Tusi E Tolu A Le Aposetolo O Ioane."
+  "BEL":
+    name: "OD BELA v'BABELI."
+    slug: "od-bela-v-babeli"
+    name_toc: "O Le Tusi A Le Aposetolo O Iuta."
+  "DAG":
+    name: "Danijel (2. del)"
+    slug: "danijel-2-del"
+    name_toc: "Pismo Rimljanom"
+  "1MA":
+    name: "1 Makabejci"
+    slug: "1-makabejci"
+    name_toc: "Evangelij po Mateju"
+  "2MA":
+    name: "2 Makabejci"
+    slug: "2-makabejci"
+    name_toc: "Evangelij po Marku"
+  "MAN":
+    name: "Manassova Molitov."
+    slug: "manassova-molitov"
+    name_toc: "O le Kenese"
+  "MAT":
+    name: "Matej"
+    slug: "matej"
+    name_toc: "Druga knjiga Samuelova"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Prva knjiga Kraljev"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Druga knjiga Kraljev"
+  "JHN":
+    name: "Janez"
+    slug: "janez"
+    name_toc: "Visoka pesem"
+  "ACT":
+    name: "Djánje"
+    slug: "djanje"
+    name_toc: "Pavla apostola list Filipljanom"
+  "ROM":
+    name: "Rimljanom"
+    slug: "rimljanom"
+    name_toc: "Knjiga Jeremija preroka"
+  "1CO":
+    name: "1 Korinčanom"
+    slug: "1-korincanom"
+    name_toc: "Prvo pismo Tesaloničanom"
+  "2CO":
+    name: "2 Korinčanom"
+    slug: "2-korincanom"
+    name_toc: "Drugo pismo Tesaloničanom"
+  "GAL":
+    name: "Galatom"
+    slug: "galatom"
+    name_toc: "EVANGELI SKVSI S. Lukesha sapiſſan."
+  "EPH":
+    name: "Efežanom"
+    slug: "efezanom"
+    name_toc: "Prerok Ozea"
+  "PHP":
+    name: "Filipljanom"
+    slug: "filipljanom"
+    name_toc: "Prerok Joel"
+  "COL":
+    name: "Kološanom"
+    slug: "kolosanom"
+    name_toc: "Druga knjiga Letopisov"
+  "1TH":
+    name: "1 Tesaloničanom"
+    slug: "1-tesalonicanom"
+    name_toc: "Pismo Hebrejcem"
+  "2TH":
+    name: "2 Tesaloničanom"
+    slug: "2-tesalonicanom"
+    name_toc: "Jakobovo pismo"
+  "1TI":
+    name: "1 Timoteju"
+    slug: "1-timoteju"
+    name_toc: "Prvo Petrovo pismo"
+  "2TI":
+    name: "2 Timoteju"
+    slug: "2-timoteju"
+    name_toc: "Drugo Petrovo pismo"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Prerok Habakuk"
+  "PHM":
+    name: "Filemonu"
+    slug: "filemonu"
+    name_toc: "Prerok Zefanija"
+  "HEB":
+    name: "Hebrejcem"
+    slug: "hebrejcem"
+    name_toc: "Prerok Hagaj"
+  "JAS":
+    name: "Jakob"
+    slug: "jakob"
+    name_toc: "Knjiga Ezrova"
+  "1PE":
+    name: "I Peter"
+    slug: "i-peter"
+    name_toc: "Judov list splošni"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "PERVE MOSESSOVE BVQVE, GENESIS IMEnovane, Iudouski, Breshith."
+  "1JN":
+    name: "1 Janez"
+    slug: "1-janez"
+    name_toc: "Knjiga Nehemijeva"
+  "2JN":
+    name: "2 Janez"
+    slug: "2-janez"
+    name_toc: "Knjiga Esterina"
+  "3JN":
+    name: "3 Janez"
+    slug: "3-janez"
+    name_toc: "Knjiga Jobova"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Dejanja sv. apostolov"
+  "REV":
+    name: "Oznanost"
+    slug: "oznanost"
+    name_toc: "Jozue"

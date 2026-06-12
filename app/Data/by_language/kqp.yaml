@@ -1,0 +1,83 @@
+language: "kqp"
+books:
+  "MAT":
+    name: "Matiyé"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Ja"
+    slug: "ja"
+  "ACT":
+    name: "Jé lê bay jé"
+    slug: "je-le-bay-je"
+  "ROM":
+    name: "Rômê"
+    slug: "rome"
+  "1CO":
+    name: "1 Kworêntiɲê"
+    slug: "1-kworentie"
+  "2CO":
+    name: "2 Kworêntiɲê"
+    slug: "2-kworentie"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Epêsiɲê"
+    slug: "epesie"
+  "PHP":
+    name: "Pilipiɲê"
+    slug: "pilipie"
+  "COL":
+    name: "Kwolosiɲê"
+    slug: "kwolosie"
+  "1TH":
+    name: "1 Tésalonisiɲê"
+    slug: "1-tesalonisie"
+  "2TH":
+    name: "2 Tésalonisiɲê"
+    slug: "2-tesalonisie"
+  "1TI":
+    name: "1 Timoté"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timoté"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Pilémô"
+    slug: "pilemo"
+  "HEB":
+    name: "Hébre"
+    slug: "hebre"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piyêr"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyêr"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Ja"
+    slug: "1-ja"
+  "2JN":
+    name: "2 Ja"
+    slug: "2-ja"
+  "3JN":
+    name: "3 Ja"
+    slug: "3-ja"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Pelal wo jô Ja"
+    slug: "pelal-wo-jo-ja"

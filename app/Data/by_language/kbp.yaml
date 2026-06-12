@@ -1,0 +1,110 @@
+language: "kbp"
+books:
+  "MAT":
+    name: "Maatiyee"
+    slug: "maatiyee"
+    name_toc: "Laŋhɛzɩyɛ tɔm ndʋ́ Maatiyee mawa yɔ"
+  "MRK":
+    name: "Maarkɩ"
+    slug: "maark"
+    name_toc: "Laŋhɛzɩyɛ tɔm ndʋ́ Maarkɩ mawa yɔ"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Laŋhɛzɩyɛ tɔm ndʋ́ Luka mawa yɔ"
+  "JHN":
+    name: "Yohanɛɛsɩ"
+    slug: "yohans"
+    name_toc: "Laŋhɛzɩyɛ tɔm ndʋ́ Yohanɛɛsɩ mawa yɔ"
+  "ACT":
+    name: "Tʋma Labʋ"
+    slug: "tma-lab"
+    name_toc: "Yesu tiyiyaa Tʋma Labʋ tɔm takayaɣ"
+  "ROM":
+    name: "Room"
+    slug: "room"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Room ñɩma yɔ"
+  "1CO":
+    name: "1 Kɔrɛntɩ"
+    slug: "1-krnt"
+    name_toc: "Takayaɣ kajalaɣ ñɩŋga ŋgá Pɔɔlɩ ma Kɔrɛntɩ ñɩma yɔ"
+  "2CO":
+    name: "2 Kɔrɛntɩ"
+    slug: "2-krnt"
+    name_toc: "Takayaɣ naalɛ ñɩŋga ŋgá Pɔɔlɩ ma Kɔrɛntɩ ñɩma yɔ"
+  "GAL":
+    name: "Galaatɩ"
+    slug: "galaat"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Galaatɩ ñɩma yɔ"
+  "EPH":
+    name: "Efɛɛzɩ"
+    slug: "efz"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Efɛɛzɩ ñɩma yɔ"
+  "PHP":
+    name: "Filiipu"
+    slug: "filiipu"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Filiipu ñɩma yɔ"
+  "COL":
+    name: "Koloosi"
+    slug: "koloosi"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Koloosi ñɩma yɔ"
+  "1TH":
+    name: "1 Tesalooniki"
+    slug: "1-tesalooniki"
+    name_toc: "Takayaɣ kajalaɣ ñɩŋga ŋgá Pɔɔlɩ ma Tesalooniki ñɩma yɔ"
+  "2TH":
+    name: "2 Tesalooniki"
+    slug: "2-tesalooniki"
+    name_toc: "Takayaɣ naalɛ ñɩŋga ŋgá Pɔɔlɩ ma Tesalooniki ñɩma yɔ"
+  "1TI":
+    name: "1 Timootee"
+    slug: "1-timootee"
+    name_toc: "Takayaɣ kajalaɣ ñɩŋga ŋgá Pɔɔlɩ ma Timootee yɔ"
+  "2TI":
+    name: "2 Timootee"
+    slug: "2-timootee"
+    name_toc: "Takayaɣ naalɛ ñɩŋga ŋgá Pɔɔlɩ ma Timootee yɔ"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Tiiti yɔ"
+  "PHM":
+    name: "Fileemɔɔ"
+    slug: "fileem"
+    name_toc: "Takayaɣ ŋgá Pɔɔlɩ ma Fileemɔɔ yɔ"
+  "HEB":
+    name: "Ebree"
+    slug: "ebree"
+    name_toc: "Takayaɣ ŋgá pama Ebree ñɩma yɔ"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+    name_toc: "Takayaɣ ŋgá Yakubu mawa yɔ"
+  "1PE":
+    name: "1 Pɩyɛ"
+    slug: "1-py"
+    name_toc: "Takayaɣ kajalaɣ ñɩŋga ŋgá Pɩyɛ mawa yɔ"
+  "2PE":
+    name: "2 Pɩyɛ"
+    slug: "2-py"
+    name_toc: "Takayaɣ naalɛ ñɩŋga ŋgá Pɩyɛ mawa yɔ"
+  "1JN":
+    name: "1 Yohanɛɛsɩ"
+    slug: "1-yohans"
+    name_toc: "Takayaɣ kajalaɣ ñɩŋga ŋgá Yohanɛɛsɩ mawa yɔ"
+  "2JN":
+    name: "2 Yohanɛɛsɩ"
+    slug: "2-yohans"
+    name_toc: "Takayaɣ naalɛ ñɩŋga ŋgá Yohanɛɛsɩ mawa yɔ"
+  "3JN":
+    name: "3 Yohanɛɛsɩ"
+    slug: "3-yohans"
+    name_toc: "Takayaɣ naadozo ñɩŋga ŋgá Yohanɛɛsɩ mawa yɔ"
+  "JUD":
+    name: "Yuudi"
+    slug: "yuudi"
+    name_toc: "Takayaɣ ŋgá Yuudi mawa yɔ"
+  "REV":
+    name: "Wɩlʋʋ"
+    slug: "wl"
+    name_toc: "Wɩlʋʋ Takayaɣ ŋgá Yohanɛɛsɩ mawa yɔ"

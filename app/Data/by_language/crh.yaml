@@ -1,0 +1,200 @@
+language: "crh"
+books:
+  "GEN":
+    name: "Башланув"
+    slug: "baslanuv"
+  "EXO":
+    name: "Чыкъыш"
+    slug: "cykys"
+  "LEV":
+    name: "Левийлилер"
+    slug: "levijliler"
+  "NUM":
+    name: "Сайылар"
+    slug: "sajylar"
+  "DEU":
+    name: "Къануннынъ Текрары"
+    slug: "kanunnyn-tekrary"
+  "JOS":
+    name: "Нун огълу Ехошуа"
+    slug: "nun-oglu-ehosua"
+  "JDG":
+    name: "Къадылар"
+    slug: "kadylar"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1 Падишалар"
+    slug: "1-padisalar"
+  "2SA":
+    name: "2 Падишалар"
+    slug: "2-padisalar"
+  "1KI":
+    name: "3 Падишалар"
+    slug: "3-padisalar"
+  "2KI":
+    name: "4 Падишалар"
+    slug: "4-padisalar"
+  "1CH":
+    name: "1 Тарих вакъиалары"
+    slug: "1-tarih-vakialary"
+  "2CH":
+    name: "2 Тарих вакъиалары"
+    slug: "2-tarih-vakialary"
+  "EZR":
+    name: "Узеир"
+    slug: "uzeir"
+  "NEH":
+    name: "Нехемья"
+    slug: "nehema"
+  "EST":
+    name: "Эстер"
+    slug: "ester"
+  "JOB":
+    name: "Эюп"
+    slug: "eup"
+  "PSA":
+    name: "Зебур"
+    slug: "zebur"
+  "PRO":
+    name: "Икметли сёзлер"
+    slug: "ikmetli-sezler"
+  "ECC":
+    name: "Джемаат Башы"
+    slug: "dzemaat-basy"
+  "SNG":
+    name: "Энъ яхшы йыр"
+    slug: "en-ahsy-jyr"
+  "ISA":
+    name: "Ешая"
+    slug: "esaa"
+  "JER":
+    name: "Йирмея"
+    slug: "jirmea"
+  "LAM":
+    name: "Агълав йырлары"
+    slug: "aglav-jyrlary"
+  "EZK":
+    name: "Ехезкель"
+    slug: "ehezkel"
+  "DAN":
+    name: "Даниял"
+    slug: "danial"
+  "HOS":
+    name: "Хошеа"
+    slug: "hosea"
+  "JOL":
+    name: "Ёэль"
+    slug: "eel"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+  "OBA":
+    name: "Овадья"
+    slug: "ovada"
+  "JON":
+    name: "Юнус"
+    slug: "unus"
+  "MIC":
+    name: "Микъа"
+    slug: "mika"
+  "NAM":
+    name: "Нахум"
+    slug: "nahum"
+  "HAB":
+    name: "Хавакъкъукъ"
+    slug: "havakkuk"
+  "ZEP":
+    name: "Цефанья"
+    slug: "cefana"
+  "HAG":
+    name: "Хагъгъай"
+    slug: "haggaj"
+  "ZEC":
+    name: "Зекерья"
+    slug: "zekera"
+  "MAL":
+    name: "Малакий"
+    slug: "malakij"
+  "MAT":
+    name: "Матта"
+    slug: "matta"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Юхан"
+    slug: "uhan"
+  "ACT":
+    name: "Фаалиет"
+    slug: "faaliet"
+  "ROM":
+    name: "Римлилерге"
+    slug: "rimlilerge"
+  "1CO":
+    name: "1 Коринтлилерге"
+    slug: "1-korintlilerge"
+  "2CO":
+    name: "2 Коринтлилерге"
+    slug: "2-korintlilerge"
+  "GAL":
+    name: "Галатиядакилерге"
+    slug: "galatiadakilerge"
+  "EPH":
+    name: "Эфеслилерге"
+    slug: "efeslilerge"
+  "PHP":
+    name: "Филиплердекилерге"
+    slug: "filiplerdekilerge"
+  "COL":
+    name: "Колоссайлыларгъа"
+    slug: "kolossajlylarga"
+  "1TH":
+    name: "1 Тессалоникелилерге"
+    slug: "1-tessalonikelilerge"
+  "2TH":
+    name: "2 Тессалоникелилерге"
+    slug: "2-tessalonikelilerge"
+  "1TI":
+    name: "1 Тимотейге"
+    slug: "1-timotejge"
+  "2TI":
+    name: "2 Тимотейге"
+    slug: "2-timotejge"
+  "TIT":
+    name: "Титке"
+    slug: "titke"
+  "PHM":
+    name: "Филимонгъа"
+    slug: "filimonga"
+  "HEB":
+    name: "Еудийлерге"
+    slug: "eudijlerge"
+  "JAS":
+    name: "Якъуп"
+    slug: "akup"
+  "1PE":
+    name: "1 Пётр"
+    slug: "1-petr"
+  "2PE":
+    name: "2 Пётр"
+    slug: "2-petr"
+  "1JN":
+    name: "1 Юхан"
+    slug: "1-uhan"
+  "2JN":
+    name: "2 Юхан"
+    slug: "2-uhan"
+  "3JN":
+    name: "3 Юхан"
+    slug: "3-uhan"
+  "JUD":
+    name: "Иуда"
+    slug: "iuda"
+  "REV":
+    name: "Сырларнынъ ачылувы"
+    slug: "syrlarnyn-acyluvy"

@@ -1,0 +1,236 @@
+language: "bcl"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+  "NUM":
+    name: "Mga Bilang"
+    slug: "mga-bilang"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+  "JDG":
+    name: "Hukom"
+    slug: "hukom"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "Mga Hade"
+    slug: "mga-hade"
+  "2KI":
+    name: "Mga Hade"
+    slug: "mga-hade"
+  "1CH":
+    name: "Mga Cronica"
+    slug: "mga-cronica"
+  "2CH":
+    name: "Mga Cronica"
+    slug: "mga-cronica"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Salmo"
+    slug: "salmo"
+  "PRO":
+    name: "Mga Talinhaga"
+    slug: "mga-talinhaga"
+  "ECC":
+    name: "Ecclesiastes O an Parahulit"
+    slug: "ecclesiastes-o-an-parahulit"
+  "SNG":
+    name: "An Awit Nin Mga Awit"
+    slug: "an-awit-nin-mga-awit"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+  "LAM":
+    name: "Mga Panambitan"
+    slug: "mga-panambitan"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadias"
+    slug: "obadias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MIC":
+    name: "Mikas"
+    slug: "mikas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Sofonias"
+    slug: "sofonias"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+  "ZEC":
+    name: "Zacarias"
+    slug: "zacarias"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Esther"
+    slug: "esther"
+  "WIS":
+    name: "An Kadonongan Ni Solomon"
+    slug: "an-kadonongan-ni-solomon"
+  "SIR":
+    name: "Sirac"
+    slug: "sirac"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+  "LJE":
+    name: "An Surat Ni Jeremias"
+    slug: "an-surat-ni-jeremias"
+  "S3Y":
+    name: "An Awit Kan Tolong Hoben Na Lalaki"
+    slug: "an-awit-kan-tolong-hoben-na-lalaki"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+  "BEL":
+    name: "Si Bel Asin an Dragon"
+    slug: "si-bel-asin-an-dragon"
+  "1MA":
+    name: "1 Maccabeo"
+    slug: "1-maccabeo"
+  "2MA":
+    name: "2 Maccabeo"
+    slug: "2-maccabeo"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Gibo"
+    slug: "gibo"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+  "GAL":
+    name: "Galacia"
+    slug: "galacia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+  "1TH":
+    name: "Taga Tesalonica"
+    slug: "taga-tesalonica"
+  "2TH":
+    name: "Taga Tesalonica"
+    slug: "taga-tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreyo"
+    slug: "hebreyo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Kapahayagan"
+    slug: "kapahayagan"

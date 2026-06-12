@@ -1,0 +1,83 @@
+language: "agm"
+books:
+  "MAT":
+    name: "Matiyuho"
+    slug: "matiyuho"
+  "MRK":
+    name: "Maakɨho"
+    slug: "maakiho"
+  "LUK":
+    name: "Rukɨho"
+    slug: "rukiho"
+  "JHN":
+    name: "Jonɨho"
+    slug: "joniho"
+  "ACT":
+    name: "Aposerɨhiya"
+    slug: "aposerihiya"
+  "ROM":
+    name: "Romɨhiya"
+    slug: "romihiya"
+  "1CO":
+    name: "1 Korindɨhiya"
+    slug: "1-korindihiya"
+  "2CO":
+    name: "2 Korindɨhiya"
+    slug: "2-korindihiya"
+  "GAL":
+    name: "Garesiyaahiya"
+    slug: "garesiyaahiya"
+  "EPH":
+    name: "Epesaasihiya"
+    slug: "epesaasihiya"
+  "PHP":
+    name: "Piripaihiya"
+    slug: "piripaihiya"
+  "COL":
+    name: "Korosihiya"
+    slug: "korosihiya"
+  "1TH":
+    name: "1 Tesaronaikaahiya"
+    slug: "1-tesaronaikaahiya"
+  "2TH":
+    name: "2 Tesaronaikaahiya"
+    slug: "2-tesaronaikaahiya"
+  "1TI":
+    name: "1 Timoteho"
+    slug: "1-timoteho"
+  "2TI":
+    name: "2 Timoteho"
+    slug: "2-timoteho"
+  "TIT":
+    name: "Taitaasiho"
+    slug: "taitaasiho"
+  "PHM":
+    name: "Pirimonɨho"
+    slug: "pirimoniho"
+  "HEB":
+    name: "Ibɨruhiya"
+    slug: "ibiruhiya"
+  "JAS":
+    name: "Jemɨsiho"
+    slug: "jemisiho"
+  "1PE":
+    name: "1 Pitaaho"
+    slug: "1-pitaaho"
+  "2PE":
+    name: "2 Pitaaho"
+    slug: "2-pitaaho"
+  "1JN":
+    name: "1 Jonɨho"
+    slug: "1-joniho"
+  "2JN":
+    name: "2 Jonɨho"
+    slug: "2-joniho"
+  "3JN":
+    name: "3 Jonɨho"
+    slug: "3-joniho"
+  "JUD":
+    name: "Judɨho"
+    slug: "judiho"
+  "REV":
+    name: "Pɨwɨha Ausaimaninjɨha"
+    slug: "piwiha-ausaimaninjiha"

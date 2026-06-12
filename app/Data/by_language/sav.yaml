@@ -1,0 +1,92 @@
+language: "sav"
+books:
+  "GEN":
+    name: "Camba"
+    slug: "camba"
+  "EXO":
+    name: "Pula"
+    slug: "pula"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MAT":
+    name: "Macce"
+    slug: "macce"
+  "MRK":
+    name: "Maarko"
+    slug: "maarko"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Saaŋ"
+    slug: "saa"
+  "ACT":
+    name: "Tum ci"
+    slug: "tum-ci"
+  "ROM":
+    name: "Ɓi Rom"
+    slug: "i-rom"
+  "1CO":
+    name: "1 Korenta"
+    slug: "1-korenta"
+  "2CO":
+    name: "2 Korenta"
+    slug: "2-korenta"
+  "GAL":
+    name: "Ɓi Galaat"
+    slug: "i-galaat"
+  "EPH":
+    name: "Ɓi Efes"
+    slug: "i-efes"
+  "PHP":
+    name: "Ɓi Filippi"
+    slug: "i-filippi"
+  "COL":
+    name: "Ɓi Kolos"
+    slug: "i-kolos"
+  "1TH":
+    name: "1 Tessalonik"
+    slug: "1-tessalonik"
+  "2TH":
+    name: "2 Tessalonik"
+    slug: "2-tessalonik"
+  "1TI":
+    name: "1 Timoote"
+    slug: "1-timoote"
+  "2TI":
+    name: "2 Timoote"
+    slug: "2-timoote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoon"
+    slug: "filemoon"
+  "HEB":
+    name: "Heber ci"
+    slug: "heber-ci"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Piyeer"
+    slug: "1-piyeer"
+  "2PE":
+    name: "2 Piyeer"
+    slug: "2-piyeer"
+  "1JN":
+    name: "1 Saaŋ"
+    slug: "1-saa"
+  "2JN":
+    name: "2 Saaŋ"
+    slug: "2-saa"
+  "3JN":
+    name: "3 Saaŋ"
+    slug: "3-saa"
+  "JUD":
+    name: "Yuud"
+    slug: "yuud"
+  "REV":
+    name: "Teeɓ ki"
+    slug: "tee-ki"

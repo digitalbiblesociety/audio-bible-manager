@@ -1,0 +1,83 @@
+language: "uth"
+books:
+  "MAT":
+    name: "Matiyos"
+    slug: "matiyos"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Se̱nge̱-mo̱"
+    slug: "senge-mo"
+  "ROM":
+    name: "Roma-ne̱"
+    slug: "roma-ne"
+  "1CO":
+    name: "1 Korinti-ne̱"
+    slug: "1-korinti-ne"
+  "2CO":
+    name: "2 Korinti-ne̱"
+    slug: "2-korinti-ne"
+  "GAL":
+    name: "Garatiya-ne̱"
+    slug: "garatiya-ne"
+  "EPH":
+    name: "Apisu-ne̱"
+    slug: "apisu-ne"
+  "PHP":
+    name: "Piripi-ne̱"
+    slug: "piripi-ne"
+  "COL":
+    name: "Korosiya-ne̱"
+    slug: "korosiya-ne"
+  "1TH":
+    name: "1 Tasaronika-ne̱"
+    slug: "1-tasaronika-ne"
+  "2TH":
+    name: "2 Tasaronika-ne̱"
+    slug: "2-tasaronika-ne"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pirimo̱n"
+    slug: "pirimon"
+  "HEB":
+    name: "Yahuda-ne̱"
+    slug: "yahuda-ne"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Bitrus"
+    slug: "1-bitrus"
+  "2PE":
+    name: "2 Bitrus"
+    slug: "2-bitrus"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yahudas"
+    slug: "yahudas"
+  "REV":
+    name: "U̱t-Hyangan"
+    slug: "ut-hyangan"

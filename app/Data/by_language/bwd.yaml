@@ -1,0 +1,5 @@
+language: "bwd"
+books:
+  "GEN":
+    name: "Ebavevuvu"
+    slug: "ebavevuvu"

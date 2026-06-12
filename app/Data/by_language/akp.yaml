@@ -1,0 +1,83 @@
+language: "akp"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+  "ACT":
+    name: "Karabara"
+    slug: "karabara"
+  "ROM":
+    name: "Ma Romase"
+    slug: "ma-romase"
+  "1CO":
+    name: "1 Ma Korintose"
+    slug: "1-ma-korintose"
+  "2CO":
+    name: "2 Ma Korintose"
+    slug: "2-ma-korintose"
+  "GAL":
+    name: "Ma Galatiase"
+    slug: "ma-galatiase"
+  "EPH":
+    name: "Ma Efesose"
+    slug: "ma-efesose"
+  "PHP":
+    name: "Ma Filipise"
+    slug: "ma-filipise"
+  "COL":
+    name: "Ma Kolosese"
+    slug: "ma-kolosese"
+  "1TH":
+    name: "1 Ma Tesalonikase"
+    slug: "1-ma-tesalonikase"
+  "2TH":
+    name: "2 Ma Tesalonikase"
+    slug: "2-ma-tesalonikase"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ma Hebrise"
+    slug: "ma-hebrise"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Kaɖikate Ɔko"
+    slug: "kaikate-ko"

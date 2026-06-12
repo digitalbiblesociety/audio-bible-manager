@@ -1,0 +1,89 @@
+language: "ami"
+books:
+  "PSA":
+    name: "'Olic"
+    slug: "olic"
+  "PRO":
+    name: "Taneng"
+    slug: "taneng"
+  "MAT":
+    name: "Matay"
+    slug: "matay"
+  "MRK":
+    name: "Maroko"
+    slug: "maroko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohani"
+    slug: "yohani"
+  "ACT":
+    name: "Dmak"
+    slug: "dmak"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Kalatiya"
+    slug: "kalatiya"
+  "EPH":
+    name: "Ifiso"
+    slug: "ifiso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosay"
+    slug: "kolosay"
+  "1TH":
+    name: "1 Tisalonika"
+    slug: "1-tisalonika"
+  "2TH":
+    name: "2 Tisalonika"
+    slug: "2-tisalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hipray"
+    slug: "hipray"
+  "JAS":
+    name: "Yakop"
+    slug: "yakop"
+  "1PE":
+    name: "1 Pitiro"
+    slug: "1-pitiro"
+  "2PE":
+    name: "2 Pitiro"
+    slug: "2-pitiro"
+  "1JN":
+    name: "1 Yohani"
+    slug: "1-yohani"
+  "2JN":
+    name: "2 Yohani"
+    slug: "2-yohani"
+  "3JN":
+    name: "3 Yohani"
+    slug: "3-yohani"
+  "JUD":
+    name: "Yuta"
+    slug: "yuta"
+  "REV":
+    name: "Pa'arawan"
+    slug: "pa-arawan"

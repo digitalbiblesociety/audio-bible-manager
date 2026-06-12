@@ -1,0 +1,83 @@
+language: "arn"
+books:
+  "MAT":
+    name: "Matew"
+    slug: "matew"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Hecho"
+    slug: "hecho"
+  "ROM":
+    name: "Romanu"
+    slug: "romanu"
+  "1CO":
+    name: "1 Korintio"
+    slug: "1-korintio"
+  "2CO":
+    name: "2 Korintio"
+    slug: "2-korintio"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Efesio"
+    slug: "efesio"
+  "PHP":
+    name: "Filipense"
+    slug: "filipense"
+  "COL":
+    name: "Kolosense"
+    slug: "kolosense"
+  "1TH":
+    name: "1 Tesalonisense"
+    slug: "1-tesalonisense"
+  "2TH":
+    name: "2 Tesalonisense"
+    slug: "2-tesalonisense"
+  "1TI":
+    name: "1 Timotew"
+    slug: "1-timotew"
+  "2TI":
+    name: "2 Timotew"
+    slug: "2-timotew"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ebrew"
+    slug: "ebrew"
+  "JAS":
+    name: "Santiaw"
+    slug: "santiaw"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Apokalipsi"
+    slug: "apokalipsi"

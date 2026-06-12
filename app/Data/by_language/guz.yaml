@@ -1,0 +1,227 @@
+language: "guz"
+books:
+  "GEN":
+    name: "Omochanko"
+    slug: "omochanko"
+  "EXO":
+    name: "Okong’anya"
+    slug: "okonganya"
+  "LEV":
+    name: "Abalawi"
+    slug: "abalawi"
+  "NUM":
+    name: "Omobaro"
+    slug: "omobaro"
+  "DEU":
+    name: "Okoiranerera"
+    slug: "okoiranerera"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Abagambi"
+    slug: "abagambi"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+  "1KI":
+    name: "1 Abaruoti"
+    slug: "1-abaruoti"
+  "2KI":
+    name: "2 Abaruoti"
+    slug: "2-abaruoti"
+  "1CH":
+    name: "1 Amang’ana ’Ebiro"
+    slug: "1-amangana-ebiro"
+  "2CH":
+    name: "2 Amang’ana ’Ebiro"
+    slug: "2-amangana-ebiro"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Ayubu"
+    slug: "ayubu"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+  "PRO":
+    name: "Emereng’anio"
+    slug: "emerenganio"
+  "ECC":
+    name: "Omorandia"
+    slug: "omorandia"
+  "SNG":
+    name: "Ogot Gwa Sulemani"
+    slug: "ogot-gwa-sulemani"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Ekerero"
+    slug: "ekerero"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+  "JDT":
+    name: "Yuditi"
+    slug: "yuditi"
+  "ESG":
+    name: "Esiterig"
+    slug: "esiterig"
+  "WIS":
+    name: "Obong’a"
+    slug: "obonga"
+  "SIR":
+    name: "Sira"
+    slug: "sira"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+  "DAG":
+    name: "Danielig"
+    slug: "danielig"
+  "1MA":
+    name: "1 Makabi"
+    slug: "1-makabi"
+  "2MA":
+    name: "2 Makabi"
+    slug: "2-makabi"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Ogokora Kw’abatomwa"
+    slug: "ogokora-kwabatomwa"
+  "ROM":
+    name: "Abarumi"
+    slug: "abarumi"
+  "1CO":
+    name: "1 Abakorinto"
+    slug: "1-abakorinto"
+  "2CO":
+    name: "2 Abakorinto"
+    slug: "2-abakorinto"
+  "GAL":
+    name: "Abagalatia"
+    slug: "abagalatia"
+  "EPH":
+    name: "Abafeso"
+    slug: "abafeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+  "COL":
+    name: "Abakolasai"
+    slug: "abakolasai"
+  "1TH":
+    name: "1 Abatesaloniki"
+    slug: "1-abatesaloniki"
+  "2TH":
+    name: "2 Abatesaloniki"
+    slug: "2-abatesaloniki"
+  "1TI":
+    name: "1 Timetheo"
+    slug: "1-timetheo"
+  "2TI":
+    name: "2 Timetheo"
+    slug: "2-timetheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Abaibirania"
+    slug: "abaibirania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "Petero"
+    slug: "petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Okomaanoka"
+    slug: "okomaanoka"

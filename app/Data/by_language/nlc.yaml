@@ -1,0 +1,110 @@
+language: "nlc"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Yohanes"
+  "ACT":
+    name: "Rasul"
+    slug: "rasul"
+    name_toc: "RASUL Kata Pengantar"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "1 KORINTUS Kata Pengantar"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "2 KORINTUS Kata Pengantar"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "GALATIA Kata Pengantar"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "EPESUS Kata Pengantar"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "PILIPI Kata Pengantar"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "KOLOSE Kata Pengantar"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "1 TESALONIKA Kata Pengantar"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "2 TESALONIKA Kata Pengantar"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "1 TIMOTIUS Kata Pengantar"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "2 TIMOTIUS Kata Pengantar"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "TITUS Kata Pengantar"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "PILEMON Kata Pengantar"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "IBRANI Kata Pengantar"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "YAKOBUS Kata Pengantar"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "1 PETRUS Kata Pengantar"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "2 PETRUS Kata Pengantar"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "1 YOHANES Kata Pengantar"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "2 YOHANES Kata Pengantar"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "3 YOHANES Kata Pengantar"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "YUDAS Kata Pengantar"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"
+    name_toc: "WAHYU Kata Pengantar"

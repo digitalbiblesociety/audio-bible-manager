@@ -1,0 +1,266 @@
+language: "toi"
+books:
+  "GEN":
+    name: "Matalikilo"
+    slug: "matalikilo"
+    name_toc: "A Bhuku ga Estere"
+  "EXO":
+    name: "Kulonga"
+    slug: "kulonga"
+    name_toc: "A Bhuku ga Joba"
+  "LEV":
+    name: "Bapaizi"
+    slug: "bapaizi"
+    name_toc: "A Tisimu"
+  "NUM":
+    name: "Myeelwe"
+    slug: "myeelwe"
+    name_toc: "A Mavingu"
+  "DEU":
+    name: "Ciibalusyo"
+    slug: "ciibalusyo"
+    name_toc: "Mutshawuteli Kutani Mukaneli"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Lagarkati nu̱ rap ɓu̱ Biturus"
+  "JDG":
+    name: "Babetesi"
+    slug: "babetesi"
+    name_toc: "A Bhuku ga Muprofeti Isaya"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+    name_toc: "A Bhuku ga Muprofeti Jeremia"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Lagarkati nu̱ kunung ɓu̱ Yokhana"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Lagarkati ɓu̱ Yakhuda"
+  "1KI":
+    name: "1 Bami"
+    slug: "1-bami"
+    name_toc: "A Bhuku ga Danieli"
+  "2KI":
+    name: "2 Bami"
+    slug: "2-bami"
+    name_toc: "A Bhuku ga Hosea"
+  "1CH":
+    name: "1 Makani"
+    slug: "1-makani"
+    name_toc: "A Bhuku ga Joeli"
+  "2CH":
+    name: "2 Makani"
+    slug: "2-makani"
+    name_toc: "A Bhuku ga Amosi"
+  "EZR":
+    name: "Ezula"
+    slug: "ezula"
+    name_toc: "A Bhuku ga Obadia"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "A Bhuku ga Jona"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "A Bhuku ga Mika"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "A Bhuku ga Nahume"
+  "PSA":
+    name: "Intembauzyo"
+    slug: "intembauzyo"
+    name_toc: "A Bhuku ga Habakuka"
+  "PRO":
+    name: "Tusimpi"
+    slug: "tusimpi"
+    name_toc: "A Bhuku ga Zefania"
+  "ECC":
+    name: "Mukambausi"
+    slug: "mukambausi"
+    name_toc: "A Bhuku ga Hagai"
+  "SNG":
+    name: "Lwiimbo lwa Solomoni"
+    slug: "lwiimbo-lwa-solomoni"
+    name_toc: "A Bhuku ga Zakaria"
+  "ISA":
+    name: "Izaya"
+    slug: "izaya"
+    name_toc: "A Bhuku ga Malaki"
+  "JER":
+    name: "Jelemiya"
+    slug: "jelemiya"
+    name_toc: "Ivangeli hi kutsala ka Mateu"
+  "LAM":
+    name: "Buumba"
+    slug: "buumba"
+    name_toc: "Ivangeli hi kutsala ka Marku"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Esdras"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+    name_toc: "Nehemi"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ester"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+    name_toc: "Job"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "A papilo go ranga ga Mupostoli Paule ka va le Korinte"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "A papilo ga wumbiri ga Mupostoli Paule ka va le Korinte"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "A papilo ga Mupostoli Paule ka va le Galatia"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "A papilo ga Mupostoli Paule ka va le Efesusi"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "A papilo ga Mupostoli Paule ka va le Filipi"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Jermi"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "A papilo go ranga ga Mupostoli Paule ka va le Tesalonika"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Esekiyel"
+  "ZEC":
+    name: "Zekaliya"
+    slug: "zekaliya"
+    name_toc: "A papilo go ranga ga Mupostoli Paule ka Timote"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "A papilo ga wumbiri ga Mupostoli Paule ka Timote"
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+    name_toc: "A papilo ga Mupostoli Paule ka Titusi"
+  "MRK":
+    name: "Maako"
+    slug: "maako"
+    name_toc: "A papilo ga Mupostoli Paule ka Filemoni"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "A papilo ka Maheberu"
+  "JHN":
+    name: "Joni"
+    slug: "joni"
+    name_toc: "A papilo ga Jakobe"
+  "ACT":
+    name: "Milimo"
+    slug: "milimo"
+    name_toc: "A papilo go ranga ga Pedro"
+  "ROM":
+    name: "Baloma"
+    slug: "baloma"
+    name_toc: "A papilo ga wumbiri ga Pedro"
+  "1CO":
+    name: "1 Bakolinti"
+    slug: "1-bakolinti"
+    name_toc: "A papilo go ranga ga Johani"
+  "2CO":
+    name: "2 Bakolinti"
+    slug: "2-bakolinti"
+    name_toc: "A papilo ga wumbiri ga Johani"
+  "GAL":
+    name: "Bagalatiya"
+    slug: "bagalatiya"
+    name_toc: "A papilo ga wunharu ga Johani"
+  "EPH":
+    name: "Baefeso"
+    slug: "baefeso"
+    name_toc: "A papilo ga Juda"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+    name_toc: "A Kuvululelwa ka Johani"
+  "COL":
+    name: "Bakolose"
+    slug: "bakolose"
+    name_toc: "Labar Mbarkandang nu̱ Matta bu̱laki"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+    name_toc: "Labar Mbarkandang nu̱ Markus bu̱laki"
+  "2TH":
+    name: "2 Batesalonika"
+    slug: "2-batesalonika"
+    name_toc: "Labar Mbarkandang nu̱ Luka Bu̱laki"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Labar Mbarkandang nu̱ Yokhana bu̱laki"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Tlu̱nar ɓu̱ Pudeku"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Kefder Maga Pol Ɓoʼ Ne Jar Rom Wo Mono"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Lagarkati ɓu̱ Bulus nu̱ gumapaali ma yir she Korintiyeku"
+  "HEB":
+    name: "Hebrayo"
+    slug: "hebrayo"
+    name_toc: "Kefder Ma De Ɓog Maga Pol Ɓoʼ Ne Jar Korente Wo Mono"
+  "JAS":
+    name: "Jemusi"
+    slug: "jemusi"
+    name_toc: "Lagarkati ɓu̱ Bulus ma yir she Galatiyeku"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Lagarkati ɓu̱ Bulus ma yir she Afiseku"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Lagarkati ɓu̱ Bulus ma yir she Filipiyeku"
+  "1JN":
+    name: "1 Joni"
+    slug: "1-joni"
+    name_toc: "Lagarkati ɓu̱ Bulus ma yir she Kolosiyeku"
+  "2JN":
+    name: "2 Joni"
+    slug: "2-joni"
+    name_toc: "Lagarkati ɓu̱ Bulus nu̱ gumapaali ma yir she Tasalonikeku"
+  "3JN":
+    name: "3 Joni"
+    slug: "3-joni"
+    name_toc: "Lagarkati ɓu̱ Bulus nu̱ rap ma yir she Tasalonikeku"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+    name_toc: "Lagarkati ɓu̱ Bulus nu̱ gumapaali ma yir she Timoti"
+  "REV":
+    name: "Ciyubunuzyo"
+    slug: "ciyubunuzyo"
+    name_toc: "Lagarkati ɓu̱ Bulus nu̱ rap ma yir she Timoti"

@@ -1,0 +1,83 @@
+language: "nko"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Gyumagyihɛ"
+    slug: "gyumagyih"
+  "ROM":
+    name: "Romafɔ"
+    slug: "romaf"
+  "1CO":
+    name: "1 Korintofɔ"
+    slug: "1-korintof"
+  "2CO":
+    name: "2 Korintofɔ"
+    slug: "2-korintof"
+  "GAL":
+    name: "Galatiafɔ"
+    slug: "galatiaf"
+  "EPH":
+    name: "Efesofɔ"
+    slug: "efesof"
+  "PHP":
+    name: "Filipifɔ"
+    slug: "filipif"
+  "COL":
+    name: "Kolosefɔ"
+    slug: "kolosef"
+  "1TH":
+    name: "1 Tesalonikafɔ"
+    slug: "1-tesalonikaf"
+  "2TH":
+    name: "2 Tesalonikafɔ"
+    slug: "2-tesalonikaf"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebrifɔ"
+    slug: "hebrif"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Atɔ Lɛsúnáhɛ́"
+    slug: "at-lsunah"

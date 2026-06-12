@@ -1,0 +1,83 @@
+language: "agt"
+books:
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Hwan"
+    slug: "hwan"
+  "ACT":
+    name: "Turin Kiden"
+    slug: "turin-kiden"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Pilipos"
+    slug: "pilipos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotyo"
+    slug: "1-timotyo"
+  "2TI":
+    name: "2 Timotyo"
+    slug: "2-timotyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hebreyu"
+    slug: "hebreyu"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+  "1JN":
+    name: "1 Hwan"
+    slug: "1-hwan"
+  "2JN":
+    name: "2 Hwan"
+    slug: "2-hwan"
+  "3JN":
+    name: "3 Hwan"
+    slug: "3-hwan"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+  "REV":
+    name: "Nagmatakar"
+    slug: "nagmatakar"

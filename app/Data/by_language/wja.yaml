@@ -1,0 +1,35 @@
+language: "wja"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "COL":
+    name: "Col"
+    slug: "col"
+  "1TH":
+    name: "1Th"
+    slug: "1th"
+  "2TH":
+    name: "2Th"
+    slug: "2th"
+  "1TI":
+    name: "1Ti"
+    slug: "1ti"
+  "2TI":
+    name: "2Ti"
+    slug: "2ti"
+  "PHM":
+    name: "Phm"
+    slug: "phm"
+  "JAS":
+    name: "Jas"
+    slug: "jas"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"
+  "2JN":
+    name: "2Jn"
+    slug: "2jn"
+  "3JN":
+    name: "3Jn"
+    slug: "3jn"

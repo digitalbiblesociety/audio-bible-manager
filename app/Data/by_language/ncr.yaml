@@ -1,0 +1,83 @@
+language: "ncr"
+books:
+  "MAT":
+    name: "Macho"
+    slug: "macho"
+  "MRK":
+    name: "Maliku"
+    slug: "maliku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joŋ"
+    slug: "jo"
+  "ACT":
+    name: "Lɛme"
+    slug: "lme"
+  "ROM":
+    name: "Lum"
+    slug: "lum"
+  "1CO":
+    name: "1 Kolɛŋ"
+    slug: "1-kol"
+  "2CO":
+    name: "2 Kolɛŋ"
+    slug: "2-kol"
+  "GAL":
+    name: "Galɛshiaŋ"
+    slug: "galshia"
+  "EPH":
+    name: "Ɛfɛsu"
+    slug: "fsu"
+  "PHP":
+    name: "Filibi"
+    slug: "filibi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tɛsalonika"
+    slug: "1-tsalonika"
+  "2TH":
+    name: "2 Tɛsalonika"
+    slug: "2-tsalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taytu"
+    slug: "taytu"
+  "PHM":
+    name: "Filemu"
+    slug: "filemu"
+  "HEB":
+    name: "Ibulu"
+    slug: "ibulu"
+  "JAS":
+    name: "Jɛm"
+    slug: "jm"
+  "1PE":
+    name: "1 Bita"
+    slug: "1-bita"
+  "2PE":
+    name: "2 Bita"
+    slug: "2-bita"
+  "1JN":
+    name: "1 Joŋ"
+    slug: "1-jo"
+  "2JN":
+    name: "2 Joŋ"
+    slug: "2-jo"
+  "3JN":
+    name: "3 Joŋ"
+    slug: "3-jo"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Mwɛɛ mù Jiso gɛ̀ dunyɛ"
+    slug: "mw-mu-jiso-g-duny"

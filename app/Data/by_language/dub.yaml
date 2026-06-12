@@ -1,0 +1,83 @@
+language: "dub"
+books:
+  "MAT":
+    name: "માથ્થી"
+    slug: "maththi"
+  "MRK":
+    name: "માર્ક"
+    slug: "marka"
+  "LUK":
+    name: "લુક.ની સુવાર્તા"
+    slug: "luka-ni-suvarta"
+  "JHN":
+    name: "યોહાન"
+    slug: "yohana"
+  "ACT":
+    name: "પ્રેરિત કેલે કામે"
+    slug: "prerita-kele-kame"
+  "ROM":
+    name: "રોમન પત્રો"
+    slug: "romana-patro"
+  "1CO":
+    name: "1 કુરિંથીઓ પત્રો"
+    slug: "1-kurimthio-patro"
+  "2CO":
+    name: "2 કુરિંથીઓ પત્રો"
+    slug: "2-kurimthio-patro"
+  "GAL":
+    name: "ગલાતિઓ પત્રો"
+    slug: "galatio-patro"
+  "EPH":
+    name: "એફેસીઓ પત્રો"
+    slug: "ephesio-patro"
+  "PHP":
+    name: "ફિલિપ્પીઓ પત્રો"
+    slug: "philippio-patro"
+  "COL":
+    name: "કલોસ્સીઓ પત્રો"
+    slug: "kalossio-patro"
+  "1TH":
+    name: "1 થેસ્સલોનિકીઓ પત્રો"
+    slug: "1-thessalonikio-patro"
+  "2TH":
+    name: "2 થેસ્સલોનિકા પત્રો"
+    slug: "2-thessalonika-patro"
+  "1TI":
+    name: "1 તિમોથી પત્રો"
+    slug: "1-timothi-patro"
+  "2TI":
+    name: "2 તિમોથી પત્રો"
+    slug: "2-timothi-patro"
+  "TIT":
+    name: "તિતસ પત્રો"
+    slug: "titasa-patro"
+  "PHM":
+    name: "ફિલેમોનુ પત્રો"
+    slug: "philemonu-patro"
+  "HEB":
+    name: "હિબ્રૂઓને પત્રો"
+    slug: "hibruone-patro"
+  "JAS":
+    name: "યાકુબુ પત્રો"
+    slug: "yakubu-patro"
+  "1PE":
+    name: "1 પિત્તરુ પત્રો"
+    slug: "1-pittaru-patro"
+  "2PE":
+    name: "2 પિત્તર પત્રો"
+    slug: "2-pittara-patro"
+  "1JN":
+    name: "1 યોહાન પત્રો"
+    slug: "1-yohana-patro"
+  "2JN":
+    name: "2 યોહાન પત્રો"
+    slug: "2-yohana-patro"
+  "3JN":
+    name: "3 યોહાન પત્રો"
+    slug: "3-yohana-patro"
+  "JUD":
+    name: "યહુદાનો પત્રો"
+    slug: "yahudano-patro"
+  "REV":
+    name: "પ્રકટીકરણ"
+    slug: "prakatikarana"

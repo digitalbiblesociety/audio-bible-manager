@@ -1,0 +1,200 @@
+language: "aze"
+books:
+  "GEN":
+    name: "Yaradiliş"
+    slug: "yaradilis"
+  "EXO":
+    name: "Çixiş"
+    slug: "cixis"
+  "LEV":
+    name: "Levi̇li̇lər"
+    slug: "levililer"
+  "NUM":
+    name: "Saylar"
+    slug: "saylar"
+  "DEU":
+    name: "Qanunun Təkrari"
+    slug: "qanunun-tekrari"
+  "JOS":
+    name: "Yeşua"
+    slug: "yesua"
+  "JDG":
+    name: "Haki̇mlər"
+    slug: "hakimler"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Bi̇ri̇nci̇ Şamuel"
+    slug: "birinci-samuel"
+  "2SA":
+    name: "İki̇nci̇ Şamuel"
+    slug: "ikinci-samuel"
+  "1KI":
+    name: "Bi̇ri̇nci̇ Padşahlar"
+    slug: "birinci-padsahlar"
+  "2KI":
+    name: "İki̇nci̇ Padşahlar"
+    slug: "ikinci-padsahlar"
+  "1CH":
+    name: "Bi̇ri̇nci̇ Salnamələr"
+    slug: "birinci-salnameler"
+  "2CH":
+    name: "İki̇nci̇ Salnamələr"
+    slug: "ikinci-salnameler"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemya"
+    slug: "nehemya"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Əyyub"
+    slug: "eyyub"
+  "PSA":
+    name: "Zəbur"
+    slug: "zebur"
+  "PRO":
+    name: "Süleymanin Məsəlləri̇"
+    slug: "suleymanin-meselleri"
+  "ECC":
+    name: "Vai̇z"
+    slug: "vaiz"
+  "SNG":
+    name: "Nəğmələr Nəğməsi̇"
+    slug: "negmeler-negmesi"
+  "ISA":
+    name: "Yeşaya"
+    slug: "yesaya"
+  "JER":
+    name: "Yeremya"
+    slug: "yeremya"
+  "LAM":
+    name: "Mərsi̇yələr"
+    slug: "mersiyeler"
+  "EZK":
+    name: "Yezekel"
+    slug: "yezekel"
+  "DAN":
+    name: "Dani̇el"
+    slug: "daniel"
+  "HOS":
+    name: "Huşə"
+    slug: "huse"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Avdi̇ya"
+    slug: "avdiya"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+  "MIC":
+    name: "Mi̇keya"
+    slug: "mikeya"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habaqquq"
+    slug: "habaqquq"
+  "ZEP":
+    name: "Sefanya"
+    slug: "sefanya"
+  "HAG":
+    name: "Haqqay"
+    slug: "haqqay"
+  "ZEC":
+    name: "Zəkəri̇yyə"
+    slug: "zekeriyye"
+  "MAL":
+    name: "Malaki̇"
+    slug: "malaki"
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yəhya"
+    slug: "yehya"
+  "ACT":
+    name: "Həvari̇ləri̇n İşləri̇"
+    slug: "hevarilerin-isleri"
+  "ROM":
+    name: "Romalilara"
+    slug: "romalilara"
+  "1CO":
+    name: "1 Kori̇nfli̇lərə"
+    slug: "1-korinflilere"
+  "2CO":
+    name: "2 Kori̇nfli̇lərə"
+    slug: "2-korinflilere"
+  "GAL":
+    name: "Qalati̇yalilara"
+    slug: "qalatiyalilara"
+  "EPH":
+    name: "Efesli̇lərə"
+    slug: "efeslilere"
+  "PHP":
+    name: "Fi̇li̇pi̇li̇lərə"
+    slug: "filipililere"
+  "COL":
+    name: "Kolosseli̇lərə"
+    slug: "kolosselilere"
+  "1TH":
+    name: "1 Saloni̇kli̇lərə"
+    slug: "1-saloniklilere"
+  "2TH":
+    name: "2 Saloni̇kli̇lərə"
+    slug: "2-saloniklilere"
+  "1TI":
+    name: "1 Ti̇moteyə"
+    slug: "1-timoteye"
+  "2TI":
+    name: "2 Ti̇moteyə"
+    slug: "2-timoteye"
+  "TIT":
+    name: "Ti̇tə"
+    slug: "tite"
+  "PHM":
+    name: "Fi̇li̇mona"
+    slug: "filimona"
+  "HEB":
+    name: "İbrani̇lərə"
+    slug: "ibranilere"
+  "JAS":
+    name: "Yaqub"
+    slug: "yaqub"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 Yəhya"
+    slug: "1-yehya"
+  "2JN":
+    name: "2 Yəhya"
+    slug: "2-yehya"
+  "3JN":
+    name: "3 Yəhya"
+    slug: "3-yehya"
+  "JUD":
+    name: "Yəhuda"
+    slug: "yehuda"
+  "REV":
+    name: "Vəhy"
+    slug: "vehy"

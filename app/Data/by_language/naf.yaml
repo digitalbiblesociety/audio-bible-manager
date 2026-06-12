@@ -1,0 +1,83 @@
+language: "naf"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zân"
+    slug: "zan"
+  "ACT":
+    name: "Nembayelen Muluwin"
+    slug: "nembayelen-muluwin"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolin"
+    slug: "1-kolin"
+  "2CO":
+    name: "2 Kolin"
+    slug: "2-kolin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Epesa"
+    slug: "epesa"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Ibulu"
+    slug: "ibulu"
+  "JAS":
+    name: "Zems"
+    slug: "zems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Zân"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zân"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zân"
+    slug: "3-zan"
+  "JUD":
+    name: "Zudas"
+    slug: "zudas"
+  "REV":
+    name: "Kie Kienok"
+    slug: "kie-kienok"

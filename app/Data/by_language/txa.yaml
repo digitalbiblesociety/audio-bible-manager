@@ -1,0 +1,122 @@
+language: "txa"
+books:
+  "GEN":
+    name: "Pinongurugan"
+    slug: "pinongurugan"
+    name_toc: "Ezequiel"
+  "PSA":
+    name: "Lagu"
+    slug: "lagu"
+    name_toc: "Daniel"
+  "PRO":
+    name: "Pontudukan"
+    slug: "pontudukan"
+    name_toc: "Oseas"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Joel"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Amós"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Abdías"
+  "JHN":
+    name: "Yuanis"
+    slug: "yuanis"
+    name_toc: "Jonás"
+  "ACT":
+    name: "Pinongoorapan"
+    slug: "pinongoorapan"
+    name_toc: "Miqueas"
+  "ROM":
+    name: "Ruum"
+    slug: "ruum"
+    name_toc: "Nahúm"
+  "1CO":
+    name: "1 Kurintus"
+    slug: "1-kurintus"
+    name_toc: "Habacuc"
+  "2CO":
+    name: "2 Kurintus"
+    slug: "2-kurintus"
+    name_toc: "Sofonías"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Hageo"
+  "EPH":
+    name: "Ipisus"
+    slug: "ipisus"
+    name_toc: "Zacarías"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Malaquías"
+  "COL":
+    name: "Kulusi"
+    slug: "kulusi"
+    name_toc: "Evangelio según San Mateo"
+  "1TH":
+    name: "1 Tisalunika"
+    slug: "1-tisalunika"
+    name_toc: "Evangelio según San Marcos"
+  "2TH":
+    name: "2 Tisalunika"
+    slug: "2-tisalunika"
+    name_toc: "Evangelio según San Lucas"
+  "1TI":
+    name: "1 Timutius"
+    slug: "1-timutius"
+    name_toc: "Evangelio según San Juan"
+  "2TI":
+    name: "2 Timutius"
+    slug: "2-timutius"
+    name_toc: "Hechos de los Apóstoles"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Carta de san Pablo a los Romanos"
+  "PHM":
+    name: "Pilimun"
+    slug: "pilimun"
+    name_toc: "Primera carta de san Pablo a los Corintios"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Segunda carta de san Pablo a los Corintios"
+  "JAS":
+    name: "Yakubus"
+    slug: "yakubus"
+    name_toc: "Carta de san Pablo a los Gálatas"
+  "1PE":
+    name: "1 Pitrus"
+    slug: "1-pitrus"
+    name_toc: "Carta de san Pablo a los Efesios"
+  "2PE":
+    name: "2 Pitrus"
+    slug: "2-pitrus"
+    name_toc: "Carta de san Pablo a los Filipenses"
+  "1JN":
+    name: "1 Yuanis"
+    slug: "1-yuanis"
+    name_toc: "Carta de san Pablo a los Colosenses"
+  "2JN":
+    name: "2 Yuanis"
+    slug: "2-yuanis"
+    name_toc: "Primera carta de san Pablo a los Tesalonicenses"
+  "3JN":
+    name: "3 Yuanis"
+    slug: "3-yuanis"
+    name_toc: "Segunda carta de san Pablo a los Tesalonicenses"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Primera carta de san Pablo a Timoteo"
+  "REV":
+    name: "Pinointolang"
+    slug: "pinointolang"
+    name_toc: "Segunda carta de san Pablo a Timoteo"

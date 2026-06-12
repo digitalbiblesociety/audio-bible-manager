@@ -1,0 +1,110 @@
+language: "ktu"
+books:
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+    name_toc: "Nsamu Mbote Ya Matai"
+  "MRK":
+    name: "Malako"
+    slug: "malako"
+    name_toc: "Nsamu Mbote Ya Malako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Nsamu Mbote Ya Luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Nsamu Mbote Ya Yoane"
+  "ACT":
+    name: "Bisalu Ya Bantumwa"
+    slug: "bisalu-ya-bantumwa"
+    name_toc: "Bisalu Ya Bantumwa"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+    name_toc: "Nkanda Ya Paulu Kwa Baloma"
+  "1CO":
+    name: "1 Kolinto"
+    slug: "1-kolinto"
+    name_toc: "Nkanda Ya Ntete Ya Paulu Kwa Bakolinto"
+  "2CO":
+    name: "2 Kolinto"
+    slug: "2-kolinto"
+    name_toc: "Nkanda Ya Zole Ya Paulu Kwa Bakolinto"
+  "GAL":
+    name: "Ngalata"
+    slug: "ngalata"
+    name_toc: "Nkanda Ya Paulu Kwa Bangalata"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Nkanda Ya Paulu Kwa Baefeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Nkanda Ya Paulu Kwa Bafilipi"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+    name_toc: "Nkanda Ya Paulu Kwa Bakolosai"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Nkanda Ya Ntete Ya Paulu Kwa Batesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Nkanda Ya Zole Ya Paulu Kwa Batesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Nkanda Ya Ntete Ya Paulu Kwa Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Nkanda Ya Zole Ya Paulu Kwa Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Nkanda Ya Paulu Kwa Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Nkanda Ya Paulu Kwa Filemoni"
+  "HEB":
+    name: "Ebeleo"
+    slug: "ebeleo"
+    name_toc: "Nkanda Kwa Ebeleo"
+  "JAS":
+    name: "Yakobi"
+    slug: "yakobi"
+    name_toc: "Nkanda Ya Yakobi"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+    name_toc: "Nkanda Ya Ntete Ya Petelo"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+    name_toc: "Nkanda Ya Zole Ya Petelo"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Nkanda Ya Ntete Ya Yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Nkanda Ya Zole Ya Yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Nkanda Ya Tatu Ya Yoane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Nkanda Ya Yuda"
+  "REV":
+    name: "Nzaikulu"
+    slug: "nzaikulu"
+    name_toc: "Nzaikusu Ya Yoane"

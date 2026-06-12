@@ -1,0 +1,83 @@
+language: "avn"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohan"
+    slug: "yohan"
+  "ACT":
+    name: "Axwɛ"
+    slug: "axw"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalo"
+    slug: "1-tesalo"
+  "2TH":
+    name: "2 Tesalo"
+    slug: "2-tesalo"
+  "1TI":
+    name: "1 Timo"
+    slug: "1-timo"
+  "2TI":
+    name: "2 Timo"
+    slug: "2-timo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "File"
+    slug: "file"
+  "HEB":
+    name: "Hebr"
+    slug: "hebr"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yoh"
+    slug: "1-yoh"
+  "2JN":
+    name: "2 Yoh"
+    slug: "2-yoh"
+  "3JN":
+    name: "3 Yoh"
+    slug: "3-yoh"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Kub"
+    slug: "kub"

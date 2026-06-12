@@ -1,0 +1,98 @@
+language: "kdl"
+books:
+  "LEV":
+    name: "Aɗara̱kpi"
+    slug: "aarakpi"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"
+  "ACT":
+    name: "Asuki"
+    slug: "asuki"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintiya"
+    slug: "1-korintiya"
+  "2CO":
+    name: "2 Korintiya"
+    slug: "2-korintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisu"
+    slug: "afisu"
+  "PHP":
+    name: "Filibi"
+    slug: "filibi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tasaloniya"
+    slug: "1-tasaloniya"
+  "2TH":
+    name: "2 Tasaloniya"
+    slug: "2-tasaloniya"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitu"
+    slug: "taitu"
+  "PHM":
+    name: "Filimo"
+    slug: "filimo"
+  "HEB":
+    name: "Kagali ka Ibirahi"
+    slug: "kagali-ka-ibirahi"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Bituru"
+    slug: "1-bituru"
+  "2PE":
+    name: "2 Bituru"
+    slug: "2-bituru"
+  "1JN":
+    name: "1 Yahaya"
+    slug: "1-yahaya"
+  "2JN":
+    name: "2 Yahaya"
+    slug: "2-yahaya"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+  "REV":
+    name: "Kuwene"
+    slug: "kuwene"

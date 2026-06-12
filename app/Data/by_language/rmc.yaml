@@ -1,0 +1,200 @@
+language: "rmc"
+books:
+  "GEN":
+    name: "1. Mojžišoskero"
+    slug: "1-mojzisoskero"
+  "EXO":
+    name: "2. Mojžišoskero"
+    slug: "2-mojzisoskero"
+  "LEV":
+    name: "3. Mojžišoskro"
+    slug: "3-mojzisoskro"
+  "NUM":
+    name: "4. Mojžišoskero"
+    slug: "4-mojzisoskero"
+  "DEU":
+    name: "5. Mojžišoskero"
+    slug: "5-mojzisoskero"
+  "JOS":
+    name: "Jozua"
+    slug: "jozua"
+  "JDG":
+    name: "Sudcengero"
+    slug: "sudcengero"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1. Samueloskero"
+    slug: "1-samueloskero"
+  "2SA":
+    name: "2. Samueloskero"
+    slug: "2-samueloskero"
+  "1KI":
+    name: "1. Kraľengero"
+    slug: "1-kralengero"
+  "2KI":
+    name: "2. Kraľengero"
+    slug: "2-kralengero"
+  "1CH":
+    name: "1. Kronikengero"
+    slug: "1-kronikengero"
+  "2CH":
+    name: "2. Kronikengero"
+    slug: "2-kronikengero"
+  "EZR":
+    name: "Ezdraš"
+    slug: "ezdras"
+  "NEH":
+    name: "Nehemiaš"
+    slug: "nehemias"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Žalmi"
+    slug: "zalmi"
+  "PRO":
+    name: "Prislovja"
+    slug: "prislovja"
+  "ECC":
+    name: "Kazaťeľis"
+    slug: "kazatelis"
+  "SNG":
+    name: "Nekšukareder giľi"
+    slug: "neksukareder-gili"
+  "ISA":
+    name: "Izajaš"
+    slug: "izajas"
+  "JER":
+    name: "Jeremijaš"
+    slug: "jeremijas"
+  "LAM":
+    name: "Roviben le Jeremijašiskro"
+    slug: "roviben-le-jeremijasiskro"
+  "EZK":
+    name: "Ezechiel"
+    slug: "ezechiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hozeaš"
+    slug: "hozeas"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadijaš"
+    slug: "obadijas"
+  "JON":
+    name: "Jonaš"
+    slug: "jonas"
+  "MIC":
+    name: "Micheaš"
+    slug: "micheas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofonijaš"
+    slug: "sofonijas"
+  "HAG":
+    name: "Haggeus"
+    slug: "haggeus"
+  "ZEC":
+    name: "Zacharijaš"
+    slug: "zacharijas"
+  "MAL":
+    name: "Malachijaš"
+    slug: "malachijas"
+  "MAT":
+    name: "Matuš"
+    slug: "matus"
+  "MRK":
+    name: "Marek"
+    slug: "marek"
+  "LUK":
+    name: "Lukaš"
+    slug: "lukas"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Skutki"
+    slug: "skutki"
+  "ROM":
+    name: "Rimanenge"
+    slug: "rimanenge"
+  "1CO":
+    name: "1. Korinťanenge"
+    slug: "1-korintanenge"
+  "2CO":
+    name: "2. Korinťanenge"
+    slug: "2-korintanenge"
+  "GAL":
+    name: "Galaťanenge"
+    slug: "galatanenge"
+  "EPH":
+    name: "Efežanenge"
+    slug: "efezanenge"
+  "PHP":
+    name: "Filipanenge"
+    slug: "filipanenge"
+  "COL":
+    name: "Kološanenge"
+    slug: "kolosanenge"
+  "1TH":
+    name: "1. Tesaloničanenge"
+    slug: "1-tesalonicanenge"
+  "2TH":
+    name: "2. Tesaloničanenge"
+    slug: "2-tesalonicanenge"
+  "1TI":
+    name: "1. Timoteoske"
+    slug: "1-timoteoske"
+  "2TI":
+    name: "2. Timoteoske"
+    slug: "2-timoteoske"
+  "TIT":
+    name: "Titoske"
+    slug: "titoske"
+  "PHM":
+    name: "Filemonoske"
+    slug: "filemonoske"
+  "HEB":
+    name: "Židenge"
+    slug: "zidenge"
+  "JAS":
+    name: "Jakob"
+    slug: "jakob"
+  "1PE":
+    name: "1. Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2. Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1. Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2. Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3. Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Zjaveňje"
+    slug: "zjavenje"

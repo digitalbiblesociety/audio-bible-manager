@@ -1,0 +1,83 @@
+language: "jid"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Ndu Manzaniba"
+    slug: "ndu-manzaniba"
+  "ROM":
+    name: "Romawa"
+    slug: "romawa"
+  "1CO":
+    name: "1 Korinthians"
+    slug: "1-korinthians"
+  "2CO":
+    name: "2 Corinthians"
+    slug: "2-corinthians"
+  "GAL":
+    name: "Galatiyawa"
+    slug: "galatiyawa"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+  "1TH":
+    name: "1 Teselonikawa"
+    slug: "1-teselonikawa"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+  "1TI":
+    name: "1 Timotawus"
+    slug: "1-timotawus"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimo"
+    slug: "filimo"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "Yohanna U'1"
+    slug: "yohanna-u1"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Revelation 1"
+    slug: "revelation-1"

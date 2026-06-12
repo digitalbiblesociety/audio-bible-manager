@@ -1,0 +1,8 @@
+language: "omw"
+books:
+  "MRK":
+    name: "Maaki"
+    slug: "maaki"
+  "JHN":
+    name: "Ioni"
+    slug: "ioni"

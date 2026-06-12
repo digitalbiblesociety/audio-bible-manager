@@ -1,0 +1,101 @@
+language: "rub"
+books:
+  "GEN":
+    name: "Ntandiko"
+    slug: "ntandiko"
+  "RUT":
+    name: "Ru̱u̱si̱"
+    slug: "ruusi"
+  "EST":
+    name: "Esi̱teeri̱"
+    slug: "esiteeri"
+  "PSA":
+    name: "Zabbu̱li̱"
+    slug: "zabbuli"
+  "PRO":
+    name: "Ngeera"
+    slug: "ngeera"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mari̱ko"
+    slug: "mariko"
+  "LUK":
+    name: "Lu̱u̱ka"
+    slug: "luuka"
+  "JHN":
+    name: "Yohaana"
+    slug: "yohaana"
+  "ACT":
+    name: "Bikorwa bya Bakwenda"
+    slug: "bikorwa-bya-bakwenda"
+  "ROM":
+    name: "Baru̱u̱mi̱"
+    slug: "baruumi"
+  "1CO":
+    name: "1 Bakoli̱nso"
+    slug: "1-bakolinso"
+  "2CO":
+    name: "2 Bakoli̱nso"
+    slug: "2-bakolinso"
+  "GAL":
+    name: "Bagalati̱ya"
+    slug: "bagalatiya"
+  "EPH":
+    name: "Beefeeso"
+    slug: "beefeeso"
+  "PHP":
+    name: "Bafi̱ri̱pi̱"
+    slug: "bafiripi"
+  "COL":
+    name: "Bakolosaayi"
+    slug: "bakolosaayi"
+  "1TH":
+    name: "1 Basosolonika"
+    slug: "1-basosolonika"
+  "2TH":
+    name: "2 Basosolonika"
+    slug: "2-basosolonika"
+  "1TI":
+    name: "1 Ti̱mi̱teo"
+    slug: "1-timiteo"
+  "2TI":
+    name: "2 Ti̱mi̱teo"
+    slug: "2-timiteo"
+  "TIT":
+    name: "Ti̱to"
+    slug: "tito"
+  "PHM":
+    name: "Fi̱ri̱mooni̱"
+    slug: "firimooni"
+  "HEB":
+    name: "Bahebburaniya"
+    slug: "bahebburaniya"
+  "JAS":
+    name: "Yakobbo"
+    slug: "yakobbo"
+  "1PE":
+    name: "1 Peeteru"
+    slug: "1-peeteru"
+  "2PE":
+    name: "2 Peeteru"
+    slug: "2-peeteru"
+  "1JN":
+    name: "1 Yohaana"
+    slug: "1-yohaana"
+  "2JN":
+    name: "2 Yohaana"
+    slug: "2-yohaana"
+  "3JN":
+    name: "3 Yohaana"
+    slug: "3-yohaana"
+  "JUD":
+    name: "Yu̱da"
+    slug: "yuda"
+  "REV":
+    name: "Kuwonekerwa"
+    slug: "kuwonekerwa"

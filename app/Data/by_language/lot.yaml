@@ -1,0 +1,110 @@
+language: "lot"
+books:
+  "MAT":
+    name: "Matteyo"
+    slug: "matteyo"
+    name_toc: "Matteyo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Yoane"
+  "ACT":
+    name: "Ehanita"
+    slug: "ehanita"
+    name_toc: "Ehanita Huno Lefahat"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Awaraga Paulo jio Aati Roma"
+  "1CO":
+    name: "1Korinto"
+    slug: "1korinto"
+    name_toc: "Etteri Waraga Paulo jio Aati Korinto"
+  "2CO":
+    name: "2Korinto"
+    slug: "2korinto"
+    name_toc: "Etteri Waraga Paulo jio Aati Korinto"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+    name_toc: "Awaraga Paulo jio Aati Galasia"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Awaraga Paulo jio Aati Efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Awaraga Paulo jio Aati Filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Awaraga Paulo Jio Aati Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Etteri Waraga Paulo jio Aati TESALONIKA"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Etarrihi Waraga Paulo jio Aati TESALONIKA"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Awaraga Etabotye Ninya Igyorok Paulo Jyo Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Awaraga Etarrihi Ninya Igyorok Paulo Jyo Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Awaraga Paulo jio Tito"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Awaraga Paulo jio FILIMON"
+  "HEB":
+    name: "Ebrei"
+    slug: "ebrei"
+    name_toc: "Awaraga jio Aati EBREI"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Awaraga Ninyia igier YAKOBO"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Etteri Waraga PETRO"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Etarrihi Waraga PETRO"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Etteri Waraga YOANE"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Etarrihi Waraga Yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Etahunihi Waraga YOANE"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Awaraga Ninyia Igier YUDA"
+  "REV":
+    name: "Etaleyehina"
+    slug: "etaleyehina"
+    name_toc: "ETALEYEHINA Ninyia Isiarani jio Yoane"

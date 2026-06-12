@@ -1,0 +1,266 @@
+language: "wls"
+books:
+  "GEN":
+    name: "Senesi"
+    slug: "senesi"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Ab'e Roma"
+  "EXO":
+    name: "Ekesote"
+    slug: "ekesote"
+    name_toc: "Embaluwa Esooka Paulo Ye Yaghandiikira Ab'e Korintho"
+  "LEV":
+    name: "Levitiko"
+    slug: "levitiko"
+    name_toc: "Embaluwa Eyokubiri Paulo Ye Yaghandiikira"
+  "NUM":
+    name: "Numelo"
+    slug: "numelo"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Ab'e Galatia"
+  "DEU":
+    name: "Tetelonome"
+    slug: "tetelonome"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Ab'efeso"
+  "JOS":
+    name: "Sosue"
+    slug: "sosue"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Ab'e Filippi"
+  "JDG":
+    name: "Tui Fakamaau"
+    slug: "tui-fakamaau"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Ab'e Kolosai"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+    name_toc: "Embaluwa Esooka Paulo Ye Yaghandiikira Ab'e Thessalonika"
+  "1SA":
+    name: "Uluaki Tohi A Samuele"
+    slug: "uluaki-tohi-a-samuele"
+    name_toc: "Embaluwa Eyokubiri Paulo Ye Yaghandiikira Ab'e Thessalonika"
+  "2SA":
+    name: "Lua Tohi A Samuele"
+    slug: "lua-tohi-a-samuele"
+    name_toc: "Embaluwa Esooka Paulo Ye Yaghandiikira Timotheo"
+  "1KI":
+    name: "Uluaki Hau"
+    slug: "uluaki-hau"
+    name_toc: "Embaluwa Eyokubiri Paulo Ye Yaghandiikira Timotheo"
+  "2KI":
+    name: "Lua Hau"
+    slug: "lua-hau"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Tito"
+  "1CH":
+    name: "Uluaki Koloniko"
+    slug: "uluaki-koloniko"
+    name_toc: "Embaluwa Paulo Ye Yaghandiikira Filemoni"
+  "2CH":
+    name: "Lua Koloniko"
+    slug: "lua-koloniko"
+    name_toc: "Embaluwa Eri Abaheburayi"
+  "EZR":
+    name: "Esetalasi"
+    slug: "esetalasi"
+    name_toc: "EMBALUWA EYAGHANDIIKIBWA Yakobo"
+  "NEH":
+    name: "Neemia"
+    slug: "neemia"
+    name_toc: "Embaluwa Esooka Eyaghandiikibwa Petero"
+  "EST":
+    name: "Esitele"
+    slug: "esitele"
+    name_toc: "Embaluwa Eyokubiri Eyaghandiikibwa Petero"
+  "JOB":
+    name: "Sopo"
+    slug: "sopo"
+    name_toc: "Embaluwa Ya Yoanne Esooka"
+  "PSA":
+    name: "Pesalemo"
+    slug: "pesalemo"
+    name_toc: "Embaluwa Ya Yoanne Eyokubiri"
+  "PRO":
+    name: "Taaga Lea"
+    slug: "taaga-lea"
+    name_toc: "Embaluwa Ya Yoanne Eyokusatu"
+  "ECC":
+    name: "Ekelesiasi"
+    slug: "ekelesiasi"
+    name_toc: "Embaluwa Eyaghandiikibwa Yuda"
+  "SNG":
+    name: "Katiko O Te U Katiko"
+    slug: "katiko-o-te-u-katiko"
+    name_toc: "Okwolekebwa Kwa Yoanne"
+  "ISA":
+    name: "Esaia"
+    slug: "esaia"
+    name_toc: "Zɛnɛse"
+  "JER":
+    name: "Selemia"
+    slug: "selemia"
+    name_toc: "Ɛsedɔ"
+  "LAM":
+    name: "Tagi Laulau A Selemia"
+    slug: "tagi-laulau-a-selemia"
+    name_toc: "Levetekɔ"
+  "EZK":
+    name: "Esekiele"
+    slug: "esekiele"
+    name_toc: "Nɔŋba"
+  "DAN":
+    name: "Taniela"
+    slug: "taniela"
+    name_toc: "Dutɛrɔnome"
+  "HOS":
+    name: "Oseo"
+    slug: "oseo"
+    name_toc: "Zasua"
+  "JOL":
+    name: "Soele"
+    slug: "soele"
+    name_toc: "M̀ɛni-sâa Ƃó-ƃelai"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Lûfi"
+  "OBA":
+    name: "Apetiasi"
+    slug: "apetiasi"
+    name_toc: "Samia Maa-ŋuŋ"
+  "JON":
+    name: "Sonasi"
+    slug: "sonasi"
+    name_toc: "Samia Veerɛi"
+  "MIC":
+    name: "Mikea"
+    slug: "mikea"
+    name_toc: "Kâloŋ Maa-ŋuŋ"
+  "NAM":
+    name: "Naume"
+    slug: "naume"
+    name_toc: "Kâloŋ Veerɛi"
+  "HAB":
+    name: "Hapakuke"
+    slug: "hapakuke"
+    name_toc: "Kɔlɔnikɔ Maa-ŋuŋ"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "Kɔlɔnikɔ Veerɛi"
+  "HAG":
+    name: "Akeseo"
+    slug: "akeseo"
+    name_toc: "Ɛzura"
+  "ZEC":
+    name: "Sakalia"
+    slug: "sakalia"
+    name_toc: "Niɛmaya"
+  "MAL":
+    name: "Malakia"
+    slug: "malakia"
+    name_toc: "Ɛtɛ"
+  "MAT":
+    name: "Evaselio A Mateo"
+    slug: "evaselio-a-mateo"
+    name_toc: "Zôo"
+  "MRK":
+    name: "Evaselio A Maleko"
+    slug: "evaselio-a-maleko"
+    name_toc: "Wule-woo-ŋa"
+  "LUK":
+    name: "Evaselio A Luka"
+    slug: "evaselio-a-luka"
+    name_toc: "Táre-woo-ŋa"
+  "JHN":
+    name: "Evaselio A Soane"
+    slug: "evaselio-a-soane"
+    name_toc: "Ikilisiati"
+  "ACT":
+    name: "Tohi Gaue A Te Kau Apositolo"
+    slug: "tohi-gaue-a-te-kau-apositolo"
+    name_toc: "Wule-ŋa Kélee Mɛi Wûle"
+  "ROM":
+    name: "Tohi a Paulo ki te kau LOMA"
+    slug: "tohi-a-paulo-ki-te-kau-loma"
+    name_toc: "Azaya"
+  "1CO":
+    name: "Uluaki tohi a Paulo ki te kau KOLINITO"
+    slug: "uluaki-tohi-a-paulo-ki-te-kau-kolinito"
+    name_toc: "Zɛlemaya"
+  "2CO":
+    name: "Lua tohi a Paulo ki te kau KOLINITO"
+    slug: "lua-tohi-a-paulo-ki-te-kau-kolinito"
+    name_toc: "Zerusâlɛŋ Karáa Maa Wɔ̂lɔ-wooi"
+  "GAL":
+    name: "Tohi a Paulo ki te kau KALATE"
+    slug: "tohi-a-paulo-ki-te-kau-kalate"
+    name_toc: "Izikiɛ"
+  "EPH":
+    name: "Tohi a Paulo ki te kau EFESO"
+    slug: "tohi-a-paulo-ki-te-kau-efeso"
+    name_toc: "Danîa"
+  "PHP":
+    name: "Tohi a Paulo ki te kau FILIPE"
+    slug: "tohi-a-paulo-ki-te-kau-filipe"
+    name_toc: "Osia"
+  "COL":
+    name: "Tohi a Paulo ki te kau KOLOSE"
+    slug: "tohi-a-paulo-ki-te-kau-kolose"
+    name_toc: "Zooɛ"
+  "1TH":
+    name: "Uluaki tohi a Paulo ki te kau TESALONIKA"
+    slug: "uluaki-tohi-a-paulo-ki-te-kau-tesalonika"
+    name_toc: "Emɔ"
+  "2TH":
+    name: "Lua tohi a Paulo ki te kau TESALONIKA"
+    slug: "lua-tohi-a-paulo-ki-te-kau-tesalonika"
+    name_toc: "Obadaya"
+  "1TI":
+    name: "Uluaki tohi a Paulo kia TIMOTEO"
+    slug: "uluaki-tohi-a-paulo-kia-timoteo"
+    name_toc: "Zôna"
+  "2TI":
+    name: "Lua tohi a Paulo kia TIMOTEO"
+    slug: "lua-tohi-a-paulo-kia-timoteo"
+    name_toc: "Maka"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Neeuŋ"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+    name_toc: "Abaku"
+  "HEB":
+    name: "Tohi ki te kau HEPELEO"
+    slug: "tohi-ki-te-kau-hepeleo"
+    name_toc: "Zɛfɛnâya"
+  "JAS":
+    name: "Tohi A Sakopo"
+    slug: "tohi-a-sakopo"
+    name_toc: "Egaa"
+  "1PE":
+    name: "Uluaki Tohi A Petelo"
+    slug: "uluaki-tohi-a-petelo"
+    name_toc: "Zɛkɛrâya"
+  "2PE":
+    name: "Lua Tohi A Petelo"
+    slug: "lua-tohi-a-petelo"
+    name_toc: "Malakai"
+  "1JN":
+    name: "Uluaki Tohi A Soane"
+    slug: "uluaki-tohi-a-soane"
+    name_toc: "Maafîu"
+  "2JN":
+    name: "Lua Tohi A Soane"
+    slug: "lua-tohi-a-soane"
+    name_toc: "Mâki"
+  "3JN":
+    name: "Tolu Tohi A Soane"
+    slug: "tolu-tohi-a-soane"
+    name_toc: "Lûu"
+  "JUD":
+    name: "Tohi A Suta"
+    slug: "tohi-a-suta"
+    name_toc: "Zɔ̂ŋ"
+  "REV":
+    name: "Apokalipisi"
+    slug: "apokalipisi"
+    name_toc: "Zia-ƃelai Kɛ́-mɛni-ŋai"

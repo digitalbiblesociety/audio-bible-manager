@@ -1,0 +1,83 @@
+language: "mjp"
+books:
+  "MAT":
+    name: "Matew"
+    slug: "matew"
+  "MRK":
+    name: "Maah-Ko"
+    slug: "maah-ko"
+  "LUK":
+    name: "Rukas"
+    slug: "rukas"
+  "JHN":
+    name: "Jowãw"
+    slug: "jowaw"
+  "ACT":
+    name: "Atos"
+    slug: "atos"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korĩn"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korĩn"
+    slug: "2-korin"
+  "GAL":
+    name: "Garata"
+    slug: "garata"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pirip"
+    slug: "pirip"
+  "COL":
+    name: "Korosa"
+    slug: "korosa"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Tsimoot"
+    slug: "1-tsimoot"
+  "2TI":
+    name: "2 Tsimoot"
+    slug: "2-tsimoot"
+  "TIT":
+    name: "Tiit"
+    slug: "tiit"
+  "PHM":
+    name: "Piremon"
+    slug: "piremon"
+  "HEB":
+    name: "Eberew"
+    slug: "eberew"
+  "JAS":
+    name: "Tsijaag"
+    slug: "tsijaag"
+  "1PE":
+    name: "1 Peed"
+    slug: "1-peed"
+  "2PE":
+    name: "2 Peed"
+    slug: "2-peed"
+  "1JN":
+    name: "1 Jowãw"
+    slug: "1-jowaw"
+  "2JN":
+    name: "2 Jowãw"
+    slug: "2-jowaw"
+  "3JN":
+    name: "3 Jowãw"
+    slug: "3-jowaw"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apokarip"
+    slug: "apokarip"

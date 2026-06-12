@@ -1,0 +1,266 @@
+language: "pce"
+books:
+  "GEN":
+    name: "ดอ โฆว"
+    slug: "d-khow"
+    name_toc: "Estha"
+  "EXO":
+    name: "เลห"
+    slug: "leh"
+    name_toc: "Job"
+  "LEV":
+    name: "အီ လှူ"
+    slug: "i-hlu"
+    name_toc: "ପିତର ଲେକିକିତି ପର୍ତୁମ୍‌ ଆକି"
+  "NUM":
+    name: "แปร กาฮ็อห"
+    slug: "paer-kahh"
+    name_toc: "Proverbs"
+  "DEU":
+    name: "ดารา"
+    slug: "dara"
+    name_toc: "Ekklesiastes"
+  "JOS":
+    name: "อาโยวซูอา"
+    slug: "ayowsua"
+    name_toc: "Songs of Songs"
+  "JDG":
+    name: "อี ซูงพยาด"
+    slug: "i-sungphyad"
+    name_toc: "Isaya"
+  "RUT":
+    name: "นาง รูทา"
+    slug: "nang-rutha"
+    name_toc: "Jeremaya"
+  "1SA":
+    name: "1 อาซามูเอน"
+    slug: "1-asamuen"
+    name_toc: "Lamentashons"
+  "2SA":
+    name: "2 อาซามูเอน"
+    slug: "2-asamuen"
+    name_toc: "Ezekiel"
+  "1KI":
+    name: "1 คูนดีคัม"
+    slug: "1-khundikham"
+    name_toc: "Daniel"
+  "2KI":
+    name: "2 คูนดีคัม"
+    slug: "2-khundikham"
+    name_toc: "Hosea"
+  "1CH":
+    name: "1 บืน"
+    slug: "1-buen"
+    name_toc: "Joel"
+  "2CH":
+    name: "2 บืน"
+    slug: "2-buen"
+    name_toc: "Amos"
+  "EZR":
+    name: "อาเอซารา"
+    slug: "aesara"
+    name_toc: "Obadaya"
+  "NEH":
+    name: "อาเนฮามี"
+    slug: "anehami"
+    name_toc: "Jonah"
+  "EST":
+    name: "นาง เอซาทา"
+    slug: "nang-esatha"
+    name_toc: "Mikah"
+  "JOB":
+    name: "อาโยวบา"
+    slug: "ayowba"
+    name_toc: "Nahum"
+  "PSA":
+    name: "หม"
+    slug: "m"
+    name_toc: "Habakkuk"
+  "PRO":
+    name: "อง"
+    slug: "ng"
+    name_toc: "Zefanaya"
+  "ECC":
+    name: "โฮว ดารา"
+    slug: "how-dara"
+    name_toc: "Haggai"
+  "SNG":
+    name: "ร็อก"
+    slug: "rk"
+    name_toc: "Zekaraya"
+  "ISA":
+    name: "အာအီဆာယ"
+    slug: "aihsaja"
+    name_toc: "ଥେସଲନୀକିୟନି ମଣ୍ଡ୍‌ଲିତାକେ ପେରିତ ପାଉଲତି ପାର୍ତୁମ୍ ଚିଟି"
+  "JER":
+    name: "อาเยเรมี"
+    slug: "ayeremi"
+    name_toc: "Matiu"
+  "LAM":
+    name: "กลึร"
+    slug: "kluer"
+    name_toc: "Mark"
+  "EZK":
+    name: "อาเอเซเคน"
+    slug: "aesekhen"
+    name_toc: "Luke"
+  "DAN":
+    name: "အာဒါနေလ"
+    slug: "adaneila"
+    name_toc: "ବାଚିକିତି ପାଉଲ ଫିଲୀମୋନ ଲାଗାୟ୍ ଚିଟି ଲେକିକିତାନ୍"
+  "HOS":
+    name: "อาโฮวซียา"
+    slug: "ahowsiya"
+    name_toc: "Acts"
+  "JOL":
+    name: "အာယုဝ်အေလ"
+    slug: "ajuweila"
+    name_toc: "ଯାକୁବ ଲେକିକିତି ଚିଟି"
+  "AMO":
+    name: "อาโมวซา"
+    slug: "amowsa"
+    name_toc: "Paul First Leta To Korintian Bilivers"
+  "OBA":
+    name: "อาออบาดี"
+    slug: "abadi"
+    name_toc: "Paul Sekond Leta To Korintian Bilivers"
+  "JON":
+    name: "อาโยวนา"
+    slug: "ayowna"
+    name_toc: "Paul Leta To Galatian Bilivers"
+  "MIC":
+    name: "อามีคา"
+    slug: "amikha"
+    name_toc: "Paul Leta To Efesian Bilivers"
+  "NAM":
+    name: "อานาโฮม"
+    slug: "anahom"
+    name_toc: "Paul Leta To Filippian Bilivers"
+  "HAB":
+    name: "อาฮาบาฆูก"
+    slug: "ahabakhuk"
+    name_toc: "Paul Leta To Kolossian Bilivers"
+  "ZEP":
+    name: "อาเจพานี"
+    slug: "achephani"
+    name_toc: "Paul First Leta To Tesalonian Bilivers"
+  "HAG":
+    name: "อาฮากาย"
+    slug: "ahakay"
+    name_toc: "Paul Sekond Leta To Tesalonian Bilivers"
+  "ZEC":
+    name: "อาซาคารา"
+    slug: "asakhara"
+    name_toc: "Paul First Leta To Timoti"
+  "MAL":
+    name: "อามาลาคี"
+    slug: "amalakhi"
+    name_toc: "Paul Sekond Leta To Timoti"
+  "MAT":
+    name: "มท"
+    slug: "mth"
+    name_toc: "Paul Leta To Titus"
+  "MRK":
+    name: "มก"
+    slug: "mk"
+    name_toc: "Paul Leta To Filemon"
+  "LUK":
+    name: "ลก"
+    slug: "lk"
+    name_toc: "Di Leta to Hibru Pipol"
+  "JHN":
+    name: "ยฮ"
+    slug: "yh"
+    name_toc: "James Leta"
+  "ACT":
+    name: "ปร"
+    slug: "pr"
+    name_toc: "Pita First Leta"
+  "ROM":
+    name: "รม"
+    slug: "rm"
+    name_toc: "Pita Sekond Leta"
+  "1CO":
+    name: "1 คร"
+    slug: "1-khr"
+    name_toc: "John First Leta"
+  "2CO":
+    name: "2 คร"
+    slug: "2-khr"
+    name_toc: "John Sekond Leta"
+  "GAL":
+    name: "ฆท"
+    slug: "khth"
+    name_toc: "John Third Leta"
+  "EPH":
+    name: "อพ"
+    slug: "ph"
+    name_toc: "Jude Leta"
+  "PHP":
+    name: "พพ"
+    slug: "phph"
+    name_toc: "Revelashon"
+  "COL":
+    name: "กซ"
+    slug: "ks"
+    name_toc: "ମାତିଉ ଲେକିକିତି ଜିସୁ କ୍ରିସ୍ଟତି ନେକ୍ରିକାବୁର୍‌"
+  "1TH":
+    name: "1 ทล"
+    slug: "1-thl"
+    name_toc: "ମାର୍କ ଲେକିକିତି ଜିସୁ କ୍ରିସ୍ଟତି ନେକ୍ରିକାବୁର୍‌"
+  "2TH":
+    name: "2 ทล"
+    slug: "2-thl"
+    name_toc: "ଲୁକ ଲେକିକିତି ଜିସୁ କ୍ରିସ୍ଟତି ନେକ୍ରିକାବୁର୍‌"
+  "1TI":
+    name: "1 ทม"
+    slug: "1-thm"
+    name_toc: "ଜହନ୍‌ ଲେକିକିତି ଜିସୁ କ୍ରିସ୍ଟତି ନେକ୍ରିକାବୁର୍‌"
+  "2TI":
+    name: "2 ทม"
+    slug: "2-thm"
+    name_toc: "ପକ୍ୟାତାକାନ୍‌ ପକ୍ୟାତାକାର୍ତି କାମାୟ୍‌"
+  "TIT":
+    name: "อท"
+    slug: "th"
+    name_toc: "ରମିୟ ମଣ୍ଡଲି ତାକେ କୁକ୍ୟାତି ପାଉଲ୍‍ତି ଆକି"
+  "PHM":
+    name: "พม"
+    slug: "phm"
+    name_toc: "କରନ୍ତିନି ମଣ୍ଡଲ୍‌ ତାକେ ପାଉଲ୍‌ତି ପର୍ତୁମ୍‌ନି ଆକି"
+  "HEB":
+    name: "ฮบ"
+    slug: "hb"
+    name_toc: "କରନ୍ତିୟ ମଣ୍ଡଲି ଲାଗାଂ ପାଉଲ୍‌ତି ରିଣ୍ଡି ଆକି"
+  "JAS":
+    name: "ยก"
+    slug: "yk"
+    name_toc: "ଗାଲାତିୟ ମଣ୍ଡ୍‌ଲି ଲାଗାୟ୍ ପକ୍ୟାତି ପାଉଲତି ଆକି"
+  "1PE":
+    name: "1 ปต"
+    slug: "1-pt"
+    name_toc: "ଏପିସିୟ ମଣ୍ଡ୍‌ଲି ଲାଗାଂ ପକ୍ୟାତି ପାଉଲ୍‌ତି ଆକି"
+  "2PE":
+    name: "2 ปต"
+    slug: "2-pt"
+    name_toc: "ପିଲିପିୟ ମଣ୍ଡ୍‌ଲି ତାକେ ପକ୍ୟାତି ପାଉଲ୍‌ତି ଆକି"
+  "1JN":
+    name: "1 ยฮ"
+    slug: "1-yh"
+    name_toc: "କଲସିୟ ମଣ୍ଡ୍‌ଲି ଲାଗାଂ ପକ୍ୟାତି ପାଉଲ୍‌ତି ଆକି"
+  "2JN":
+    name: "2 ยฮ"
+    slug: "2-yh"
+    name_toc: "ତେସ୍‌ଲନିକି ମଣ୍ଡଲି ଲାଗାଂ ପକ୍ୟାତି ପାଉଲ୍‌ତି ପର୍ତୁମ୍‌ ଆକି"
+  "3JN":
+    name: "3 ยฮ"
+    slug: "3-yh"
+    name_toc: "ତେସ୍‌ଲନିକି ମଣ୍ଡଲି ଲାଗାଂ ପକ୍ୟାତି ପାଉଲ୍‌ତି ରିଣ୍ଡି ଆକି"
+  "JUD":
+    name: "ยด"
+    slug: "yd"
+    name_toc: "ତିମତି ଲାଗାଂ ପକ୍ୟାତି ପାଉଲ୍‌ତି ପର୍ତୁମ୍‌ ଆକି"
+  "REV":
+    name: "ปบ"
+    slug: "pb"
+    name_toc: "ପିଲିମନ୍‌ ଲାଗାୟ୍‌ ପକ୍ୟାତି ପାଉଲ୍‌ତି ଆକି"

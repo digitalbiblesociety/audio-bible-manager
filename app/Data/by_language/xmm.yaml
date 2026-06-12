@@ -1,0 +1,110 @@
+language: "xmm"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Lomaŋ"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Kɔleŋtiɛŋ Maa-ŋuŋ"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Kɔleŋtiɛŋ Veerɛi"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Galesiɛŋ"
+  "ACT":
+    name: "Kisah Para Rasul"
+    slug: "kisah-para-rasul"
+    name_toc: "Ifisiɛŋ"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Felepiɛŋ"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Kolasiɛŋ"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Tɛsɛlôniɛŋ Maa-ŋuŋ"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Tɛsɛlôniɛŋ Veerɛi"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Temete Maa-ŋuŋ"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Temete Veerɛi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Taitɔ"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Falemɔŋ"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Ibulu"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Zĩi"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Pitɛ Maa-ŋuŋ"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Pitɛ Veerɛi"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+    name_toc: "Zɔ̂ŋ Maa-ŋuŋ"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Zɔ̂ŋ Veerɛi"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Zɔ̂ŋ Zaaƃai"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Zûu"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "M̀ɛni-lɛɛi"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Genesesi"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Ekisodo"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Lefitiko"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Numeli"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"
+    name_toc: "Detulonomo"

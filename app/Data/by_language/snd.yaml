@@ -1,0 +1,266 @@
+language: "snd"
+books:
+  "GEN":
+    name: "پيدائش"
+    slug: "pydaish"
+    name_toc: "طيطس"
+  "EXO":
+    name: "خروج"
+    slug: "khrwj"
+    name_toc: "فليمون"
+  "LEV":
+    name: "لاوي سرشتو"
+    slug: "lawy-srshtw"
+    name_toc: "عبرانين"
+  "NUM":
+    name: "ڳاڻاٽو"
+    slug: "ganatw"
+    name_toc: "يعقوب"
+  "DEU":
+    name: "شريعت جو دور"
+    slug: "shryat-jw-dwr"
+    name_toc: "1.پطرس"
+  "JOS":
+    name: "يشوع"
+    slug: "yshwa"
+    name_toc: "2.پطرس"
+  "JDG":
+    name: "قاضين"
+    slug: "qadyn"
+    name_toc: "1.يوحنا"
+  "RUT":
+    name: "روٿ"
+    slug: "rwth"
+    name_toc: "2.يوحنا"
+  "1SA":
+    name: "1.سموئيل"
+    slug: "1smwiyl"
+    name_toc: "O leetar o ɗikandeer ole SAŊ A BINDNA"
+  "2SA":
+    name: "2.سموئيل"
+    slug: "2smwiyl"
+    name_toc: "O leetar o dadkandeer ole SAŊ A BINDNA"
+  "1KI":
+    name: "1.بادشاهَہ"
+    slug: "1badshahh"
+    name_toc: "O leetar ole YUDAA A BINDNA"
+  "2KI":
+    name: "2.بادشاهَہ"
+    slug: "2badshahh"
+    name_toc: "MBEEÑIL NE Safe le no ke Yeesu a feeñilna a Saŋ"
+  "1CH":
+    name: "1.تواريخ"
+    slug: "1twarykh"
+    name_toc: "मत्ती का सुसमाचार"
+  "2CH":
+    name: "2.تواريخ"
+    slug: "2twarykh"
+    name_toc: "मरकुस का सुसमाचार"
+  "EZR":
+    name: "عزرا"
+    slug: "azra"
+    name_toc: "لوقا"
+  "NEH":
+    name: "نحمياہ"
+    slug: "nhmyah"
+    name_toc: "يوحنا"
+  "EST":
+    name: "آستر"
+    slug: "astr"
+    name_toc: "رسولن جا ڪم"
+  "JOB":
+    name: "ايوب"
+    slug: "ayub"
+    name_toc: "رومين"
+  "PSA":
+    name: "زبور"
+    slug: "zbwr"
+    name_toc: "1.ڪرنٿين"
+  "PRO":
+    name: "مثل"
+    slug: "mthl"
+    name_toc: "2.ڪرنٿين"
+  "ECC":
+    name: "واعظ"
+    slug: "waaz"
+    name_toc: "گلتين"
+  "SNG":
+    name: "راڳ"
+    slug: "rag"
+    name_toc: "اِفسين"
+  "ISA":
+    name: "يسعياہ"
+    slug: "ysayah"
+    name_toc: "فلپين"
+  "JER":
+    name: "يرمياہ"
+    slug: "yrmyah"
+    name_toc: "ڪلسين"
+  "LAM":
+    name: "زاريون"
+    slug: "zarywn"
+    name_toc: "1.ٿسلونيڪين"
+  "EZK":
+    name: "حزقي ايل"
+    slug: "hzqy-ayl"
+    name_toc: "2.ٿسلونيڪين"
+  "DAN":
+    name: "دانيال"
+    slug: "danial"
+    name_toc: "1 तीमुथियुस"
+  "HOS":
+    name: "هوسيع"
+    slug: "hwsya"
+    name_toc: "2.تيمٿيس"
+  "JOL":
+    name: "يوايل"
+    slug: "ywayl"
+    name_toc: "طيطس"
+  "AMO":
+    name: "عاموس"
+    slug: "aamws"
+    name_toc: "فليمون"
+  "OBA":
+    name: "عبدياہ"
+    slug: "abdyah"
+    name_toc: "عبرانين"
+  "JON":
+    name: "يونس"
+    slug: "yunos"
+    name_toc: "याकूब"
+  "MIC":
+    name: "ميڪاہ"
+    slug: "mykah"
+    name_toc: "1.پطرس"
+  "NAM":
+    name: "ناحوم"
+    slug: "nahwm"
+    name_toc: "2.پطرس"
+  "HAB":
+    name: "حبقوق"
+    slug: "hbqwq"
+    name_toc: "1.يوحنا"
+  "ZEP":
+    name: "صفنياہ"
+    slug: "sfnyah"
+    name_toc: "2.يوحنا"
+  "HAG":
+    name: "حجي"
+    slug: "hjy"
+    name_toc: "3 यूहन्ना"
+  "ZEC":
+    name: "ذڪرياہ"
+    slug: "dhkryah"
+    name_toc: "يهوداہ"
+  "MAL":
+    name: "ملاڪي"
+    slug: "mlaky"
+    name_toc: "प्रकाशितवाक्य"
+  "MAT":
+    name: "متي"
+    slug: "mty"
+    name_toc: "Safe le no MBERAAND NAA"
+  "MRK":
+    name: "مرقس"
+    slug: "mrqs"
+    name_toc: "Safe le na SUTAX ALE"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+    name_toc: "Safe le na PAƊAX ALE"
+  "JHN":
+    name: "يوحنا"
+    slug: "ywhna"
+    name_toc: "Safe le na LIM ALE"
+  "ACT":
+    name: "سنتن جا ڪم"
+    slug: "sntn-ja-km"
+    name_toc: "Ke bindeena no xe ne’eena YOONA"
+  "ROM":
+    name: "رومين"
+    slug: "romijn"
+    name_toc: "Safe le YOSUWE"
+  "1CO":
+    name: "1.ڪرنٿين"
+    slug: "1krnthyn"
+    name_toc: "Safe le no tuleer NAHUM"
+  "2CO":
+    name: "2.ڪرنٿين"
+    slug: "2krnthyn"
+    name_toc: "Safe le no tuleer HABAKUK"
+  "GAL":
+    name: "گلتين"
+    slug: "gltyn"
+    name_toc: "Safe eetaand le SAMI’EL"
+  "EPH":
+    name: "افسين"
+    slug: "afsyn"
+    name_toc: "Safe ɗikandeer le SAMI’EL"
+  "PHP":
+    name: "فلپين"
+    slug: "flpyn"
+    name_toc: "Safe eetaand le no MAAD WE"
+  "COL":
+    name: "ڪلسين"
+    slug: "klsyn"
+    name_toc: "Safe ɗikandeer le no MAAD WE"
+  "1TH":
+    name: "1.ٿسلونيڪين"
+    slug: "1thslwnykyn"
+    name_toc: "YEGIL MBAAX NE YEESU ne Mace a bindtuuna"
+  "2TH":
+    name: "2.ٿسلونيڪين"
+    slug: "2thslwnykyn"
+    name_toc: "YEGIL MBAAX NE YEESU ne Mark a bindtuuna"
+  "1TI":
+    name: "1.تيمٿيس"
+    slug: "1tymthys"
+    name_toc: "YEGIL MBAAX NE YEESU ne Lik a bindtuuna"
+  "2TI":
+    name: "2.تيمٿيس"
+    slug: "2tymthys"
+    name_toc: "YEGIL MBAAX NE YEESU ne Saŋ a bindtuuna"
+  "TIT":
+    name: "طيطس"
+    slug: "tyts"
+    name_toc: "Ke bindeena no xe ne’eena ESTEER"
+  "PHM":
+    name: "فليمون"
+    slug: "flymwn"
+    name_toc: "Ke bindeena no xe ne’eena YOB"
+  "HEB":
+    name: "عبرانين"
+    slug: "abranyn"
+    name_toc: "Safe le na KIM A TEDU KE"
+  "JAS":
+    name: "يعقوب"
+    slug: "yaqob"
+    name_toc: "Safe le na XA PEƬIT AXE"
+  "1PE":
+    name: "1.پطرس"
+    slug: "1ptrs"
+    name_toc: "O leetar ole Pool a bindna GIMU WE NGENNA GALATI"
+  "2PE":
+    name: "2.پطرس"
+    slug: "2ptrs"
+    name_toc: "O leetar ole Pool a bindna GIMU WE NGENNA EFEES"
+  "1JN":
+    name: "1.يوحنا"
+    slug: "1ywhna"
+    name_toc: "O leetar ole Pool a bindna GIMU WE NGENNA FILIP"
+  "2JN":
+    name: "2.يوحنا"
+    slug: "2ywhna"
+    name_toc: "O leetar ole Pool a bindna GIMU WE NGENNA KOLOS"
+  "3JN":
+    name: "3.يوحنا"
+    slug: "3ywhna"
+    name_toc: "O leetar o eetaand ole Pool a bindna GIMU WE NGENNA TESALONIK"
+  "JUD":
+    name: "يهوداہ"
+    slug: "yhwdah"
+    name_toc: "O leetar o ɗikandeer ole Pool a bindna GIMU WE NGENNA TESALONIK"
+  "REV":
+    name: "مڪاشفو"
+    slug: "mkashfw"
+    name_toc: "Safe le no tuleer DAÑEL"

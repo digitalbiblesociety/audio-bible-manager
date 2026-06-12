@@ -1,0 +1,83 @@
+language: "sbs"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Mareka"
+    slug: "mareka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+  "ACT":
+    name: "Mitendo"
+    slug: "mitendo"
+  "ROM":
+    name: "Maroma"
+    slug: "maroma"
+  "1CO":
+    name: "1 Va Korinte"
+    slug: "1-va-korinte"
+  "2CO":
+    name: "2 Makorinte:"
+    slug: "2-makorinte"
+  "GAL":
+    name: "Agalatiya"
+    slug: "agalatiya"
+  "EPH":
+    name: "Maefese"
+    slug: "maefese"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+  "COL":
+    name: "Makolose"
+    slug: "makolose"
+  "1TH":
+    name: "1 Matesolonika"
+    slug: "1-matesolonika"
+  "2TH":
+    name: "2 Mateselonika"
+    slug: "2-mateselonika"
+  "1TI":
+    name: "1 Timotea 1"
+    slug: "1-timotea-1"
+  "2TI":
+    name: "2 Timotea"
+    slug: "2-timotea"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Maheberu"
+    slug: "maheberu"
+  "JAS":
+    name: "Jakovo"
+    slug: "jakovo"
+  "1PE":
+    name: "I Petorosi"
+    slug: "i-petorosi"
+  "2PE":
+    name: "2 Pitolosi"
+    slug: "2-pitolosi"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+  "3JN":
+    name: "3 Johana"
+    slug: "3-johana"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Insinulo"
+    slug: "insinulo"

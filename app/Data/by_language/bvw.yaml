@@ -1,0 +1,11 @@
+language: "bvw"
+books:
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "ACT":
+    name: "Torchəkəna Fathləncha"
+    slug: "torchekena-fathlencha"
+  "1CO":
+    name: "1 Korintiyawecha"
+    slug: "1-korintiyawecha"

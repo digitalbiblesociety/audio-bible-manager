@@ -1,0 +1,200 @@
+language: "afr"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Eksodus"
+    slug: "eksodus"
+  "LEV":
+    name: "Levitikus"
+    slug: "levitikus"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+  "DEU":
+    name: "Deuteronomium"
+    slug: "deuteronomium"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Rigters"
+    slug: "rigters"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Konings"
+    slug: "1-konings"
+  "2KI":
+    name: "2 Konings"
+    slug: "2-konings"
+  "1CH":
+    name: "1 Kronieke"
+    slug: "1-kronieke"
+  "2CH":
+    name: "2 Kronieke"
+    slug: "2-kronieke"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalms"
+    slug: "psalms"
+  "PRO":
+    name: "Spreuke"
+    slug: "spreuke"
+  "ECC":
+    name: "Prediker"
+    slug: "prediker"
+  "SNG":
+    name: "Hooglied"
+    slug: "hooglied"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Klaagliedere"
+    slug: "klaagliedere"
+  "EZK":
+    name: "Esegiël"
+    slug: "esegiel"
+  "DAN":
+    name: "Daniël"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joël"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadja"
+    slug: "obadja"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Miga"
+    slug: "miga"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sefanja"
+    slug: "sefanja"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sagaria"
+    slug: "sagaria"
+  "MAL":
+    name: "Maleagi"
+    slug: "maleagi"
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Handelinge"
+    slug: "handelinge"
+  "ROM":
+    name: "Romeine"
+    slug: "romeine"
+  "1CO":
+    name: "1 Korintiërs"
+    slug: "1-korintiers"
+  "2CO":
+    name: "2 Korintiërs"
+    slug: "2-korintiers"
+  "GAL":
+    name: "Galasiërs"
+    slug: "galasiers"
+  "EPH":
+    name: "Efesiërs"
+    slug: "efesiers"
+  "PHP":
+    name: "Filippense"
+    slug: "filippense"
+  "COL":
+    name: "Kolossense"
+    slug: "kolossense"
+  "1TH":
+    name: "1 Tessalonisense"
+    slug: "1-tessalonisense"
+  "2TH":
+    name: "2 Tessalonisense"
+    slug: "2-tessalonisense"
+  "1TI":
+    name: "1 Timoteus"
+    slug: "1-timoteus"
+  "2TI":
+    name: "2 Timoteus"
+    slug: "2-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreërs"
+    slug: "hebreers"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johannes"
+    slug: "1-johannes"
+  "2JN":
+    name: "2 Johannes"
+    slug: "2-johannes"
+  "3JN":
+    name: "3 Johannes"
+    slug: "3-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Die Openbaring"
+    slug: "die-openbaring"

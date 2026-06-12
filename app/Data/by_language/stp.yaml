@@ -1,0 +1,83 @@
+language: "stp"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maarkos"
+    slug: "maarkos"
+  "LUK":
+    name: "Luukas"
+    slug: "luukas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "GU NOONBIꞌÑ GUCH XOIꞌKAM"
+    slug: "gu-noonbin-guch-xoikam"
+  "ROM":
+    name: "Rooma Kam"
+    slug: "rooma-kam"
+  "1CO":
+    name: "1 Koriinto Kam"
+    slug: "1-koriinto-kam"
+  "2CO":
+    name: "2 Koriinto Kam"
+    slug: "2-koriinto-kam"
+  "GAL":
+    name: "Galaasia Kam"
+    slug: "galaasia-kam"
+  "EPH":
+    name: "Eepeso Kam"
+    slug: "eepeso-kam"
+  "PHP":
+    name: "Piliipos Kam"
+    slug: "piliipos-kam"
+  "COL":
+    name: "Koloosas Kam"
+    slug: "koloosas-kam"
+  "1TH":
+    name: "1 Tesaloonika Kam"
+    slug: "1-tesaloonika-kam"
+  "2TH":
+    name: "2 Tesaloonika Kam"
+    slug: "2-tesaloonika-kam"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Pilimoon"
+    slug: "pilimoon"
+  "HEB":
+    name: "Israel Kam"
+    slug: "israel-kam"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Peegro"
+    slug: "1-peegro"
+  "2PE":
+    name: "2 Peegro"
+    slug: "2-peegro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Juudas"
+    slug: "juudas"
+  "REV":
+    name: "Nat Jax Tɨ Tɨɨ Gu Juan"
+    slug: "nat-jax-ti-tii-gu-juan"

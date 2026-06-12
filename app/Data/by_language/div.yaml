@@ -1,0 +1,95 @@
+language: "div"
+books:
+  "GEN":
+    name: "ފެށުން"
+    slug: "feshun"
+  "EXO":
+    name: "ނެރުއްވުން"
+    slug: "neruvun"
+  "RUT":
+    name: "ރާޢޫތު"
+    slug: "raaoothu"
+  "1SA":
+    name: "1 ޞަމޫއީލް"
+    slug: "1-samooeel"
+  "2SA":
+    name: "2 ޞަމޫއީލް"
+    slug: "2-samooeel"
+  "PRO":
+    name: "ހަރުބަސްތައް"
+    slug: "harubastha"
+  "JON":
+    name: "ޔޫނުސްގެފާނު"
+    slug: "yoonusgefaanu"
+  "MAT":
+    name: "މައްތާ"
+    slug: "mathaa"
+  "MRK":
+    name: "މަރުކުސް"
+    slug: "marukus"
+  "LUK":
+    name: "ލޫކާސް"
+    slug: "lookaas"
+  "JHN":
+    name: "ޔޫޙަންނާ"
+    slug: "yoohannaa"
+  "ACT":
+    name: "މަންދޫބުންގެ މަސައްކަތް"
+    slug: "mandhoobunge-masakath"
+  "GAL":
+    name: "ގަލާތިޔާގެ މަސީޙީންނަށް ސިޓީ"
+    slug: "galaathiyaage-maseeheennash-sitee"
+  "EPH":
+    name: "އެފޭސުސްގެ މަސީޙީންނަށް ސިޓީ"
+    slug: "efeysusge-maseeheennash-sitee"
+  "PHP":
+    name: "ފިލިއްޕީގެ މަސީޙީންނަށް ސިޓީ"
+    slug: "filipeege-maseeheennash-sitee"
+  "COL":
+    name: "ކުލޫއްސީގެ މަސީޙީންނަށް ސިޓީ"
+    slug: "kulooseege-maseeheennash-sitee"
+  "1TH":
+    name: "ތިސަލޯނިކާގެ މަސީޙީންނަށް ފުރަތަމަ ސިޓީ"
+    slug: "thisaloanikaage-maseeheennash-furathama-sitee"
+  "2TH":
+    name: "ތިސަލޯނިކާގެ މަސީޙީންނަށް ދެވަނަ ސިޓީ"
+    slug: "thisaloanikaage-maseeheennash-dhevana-sitee"
+  "1TI":
+    name: "ތިމޮތީއަށް ފުރަތަމަ ސިޓީ"
+    slug: "thimotheeash-furathama-sitee"
+  "2TI":
+    name: "ތިމޮތީއަށް ދެވަނަ ސިޓީ"
+    slug: "thimotheeash-dhevana-sitee"
+  "TIT":
+    name: "ތީތުސްއަށް ސިޓީ"
+    slug: "theethusash-sitee"
+  "PHM":
+    name: "ފިލަމެންއަށް ސިޓީ"
+    slug: "filamenash-sitee"
+  "HEB":
+    name: "ޢިބްރާނީންނަށް ސިޓީ"
+    slug: "ibraaneennash-sitee"
+  "JAS":
+    name: "ޔާމިޒުގެ ސިޓީ"
+    slug: "yaamizuge-sitee"
+  "1PE":
+    name: "ޕަތަރަސްގެ ފުރަތަމަ ސިޓީ"
+    slug: "patharasge-furathama-sitee"
+  "2PE":
+    name: "ޕަތަރަސްގެ ދެވަނަ ސިޓީ"
+    slug: "patharasge-dhevana-sitee"
+  "1JN":
+    name: "ޔޫޙަންނާގެ ފުރަތަމަ ސިޓީ"
+    slug: "yoohannaage-furathama-sitee"
+  "2JN":
+    name: "ޔޫޙަންނާގެ ދެވަނަ ސިޓީ"
+    slug: "yoohannaage-dhevana-sitee"
+  "3JN":
+    name: "ޔޫޙަންނާގެ ތިންވަނަ ސިޓީ"
+    slug: "yoohannaage-thinvana-sitee"
+  "JUD":
+    name: "ޔަހޫ‏ޛާގެ ސިޓީ"
+    slug: "yahoodhaage-sitee"
+  "REV":
+    name: "ހާމަކޮށްދެއްވުންތަކެއް"
+    slug: "haamakoshdhevunthake"

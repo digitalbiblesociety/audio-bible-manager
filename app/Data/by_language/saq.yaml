@@ -1,0 +1,83 @@
+language: "saq"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yoana"
+    slug: "yoana"
+  "ACT":
+    name: "Asat"
+    slug: "asat"
+  "ROM":
+    name: "Rroman"
+    slug: "rroman"
+  "1CO":
+    name: "1 Lkorinto"
+    slug: "1-lkorinto"
+  "2CO":
+    name: "2 Lkorinto"
+    slug: "2-lkorinto"
+  "GAL":
+    name: "Lgalatia"
+    slug: "lgalatia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Lpilipi"
+    slug: "lpilipi"
+  "COL":
+    name: "Lkolosae"
+    slug: "lkolosae"
+  "1TH":
+    name: "1 Ltesalonike"
+    slug: "1-ltesalonike"
+  "2TH":
+    name: "2 Ltesalonike"
+    slug: "2-ltesalonike"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Lburania"
+    slug: "lburania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yoana"
+    slug: "1-yoana"
+  "2JN":
+    name: "2 Yoana"
+    slug: "2-yoana"
+  "3JN":
+    name: "3 Yoana"
+    slug: "3-yoana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Mbolunoto"
+    slug: "mbolunoto"

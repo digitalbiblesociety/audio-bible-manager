@@ -1,0 +1,200 @@
+language: "fra"
+books:
+  "GEN":
+    name: "Genèse"
+    slug: "genese"
+  "EXO":
+    name: "Exode"
+    slug: "exode"
+  "LEV":
+    name: "Lévitique"
+    slug: "levitique"
+  "NUM":
+    name: "Nombres"
+    slug: "nombres"
+  "DEU":
+    name: "Deutéronome"
+    slug: "deuteronome"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+  "JDG":
+    name: "Juges"
+    slug: "juges"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2samuel"
+  "1KI":
+    name: "1 Rois"
+    slug: "1rois"
+  "2KI":
+    name: "2 Rois"
+    slug: "2rois"
+  "1CH":
+    name: "1 Chroniques"
+    slug: "1chroniques"
+  "2CH":
+    name: "2 Chroniques"
+    slug: "2chroniques"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+  "NEH":
+    name: "Néhémie"
+    slug: "nehemie"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psaumes"
+    slug: "psaumes"
+  "PRO":
+    name: "Proverbes"
+    slug: "proverbes"
+  "ECC":
+    name: "Ecclésiaste"
+    slug: "ecclesiaste"
+  "SNG":
+    name: "Cantique"
+    slug: "cantique"
+  "ISA":
+    name: "Ésaïe"
+    slug: "esaie"
+  "JER":
+    name: "Jérémie"
+    slug: "jeremie"
+  "LAM":
+    name: "Lamentations"
+    slug: "lamentations"
+  "EZK":
+    name: "Ézékiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Osée"
+    slug: "osee"
+  "JOL":
+    name: "Joël"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MIC":
+    name: "Michée"
+    slug: "michee"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+  "ZEP":
+    name: "Sophonie"
+    slug: "sophonie"
+  "HAG":
+    name: "Aggée"
+    slug: "aggee"
+  "ZEC":
+    name: "Zacharie"
+    slug: "zacharie"
+  "MAL":
+    name: "Malachie"
+    slug: "malachie"
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+  "ACT":
+    name: "Actes"
+    slug: "actes"
+  "ROM":
+    name: "Romains"
+    slug: "romains"
+  "1CO":
+    name: "1 Corinthiens"
+    slug: "1corinthiens"
+  "2CO":
+    name: "2 Corinthiens"
+    slug: "2corinthiens"
+  "GAL":
+    name: "Galates"
+    slug: "galates"
+  "EPH":
+    name: "Éphésiens"
+    slug: "ephesiens"
+  "PHP":
+    name: "Philippiens"
+    slug: "philippiens"
+  "COL":
+    name: "Colossiens"
+    slug: "colossiens"
+  "1TH":
+    name: "1 Thessaloniciens"
+    slug: "1thessaloniciens"
+  "2TH":
+    name: "2 Thessaloniciens"
+    slug: "2thessaloniciens"
+  "1TI":
+    name: "1 Timothée"
+    slug: "1-timothee"
+  "2TI":
+    name: "2 Timothée"
+    slug: "2-timothee"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Philémon"
+    slug: "philemon"
+  "HEB":
+    name: "Hébreux"
+    slug: "hebreux"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1pierre"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2pierre"
+  "1JN":
+    name: "1 Jean"
+    slug: "1jean"
+  "2JN":
+    name: "2 Jean"
+    slug: "2jean"
+  "3JN":
+    name: "3 Jean"
+    slug: "3jean"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Apocalypse"
+    slug: "apocalypse"

@@ -1,0 +1,83 @@
+language: "nin"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Marrku"
+    slug: "marrku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Indu"
+    slug: "indu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korrintiya"
+    slug: "1-korrintiya"
+  "2CO":
+    name: "2 Korrintiya"
+    slug: "2-korrintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Filipiya"
+    slug: "filipiya"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+  "HEB":
+    name: "Ibraniya"
+    slug: "ibraniya"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Biturr"
+    slug: "1-biturr"
+  "2PE":
+    name: "2 Biturr"
+    slug: "2-biturr"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yahudi"
+    slug: "yahudi"
+  "REV":
+    name: "Ibwu Tsarr"
+    slug: "ibwu-tsarr"

@@ -1,0 +1,200 @@
+language: "gog"
+books:
+  "GEN":
+    name: "Mwamulizo"
+    slug: "mwamulizo"
+  "EXO":
+    name: "Wutuluce"
+    slug: "wutuluce"
+  "LEV":
+    name: "Walawi"
+    slug: "walawi"
+  "NUM":
+    name: "Wuwale"
+    slug: "wuwale"
+  "DEU":
+    name: "Wukumbucize wo Wulajilize"
+    slug: "wukumbucize-wo-wulajilize"
+  "JOS":
+    name: "Yoshuwa"
+    slug: "yoshuwa"
+  "JDG":
+    name: "Walamuzi"
+    slug: "walamuzi"
+  "RUT":
+    name: "Lutu"
+    slug: "lutu"
+  "1SA":
+    name: "1 Samwili"
+    slug: "1-samwili"
+  "2SA":
+    name: "2 Samwili"
+    slug: "2-samwili"
+  "1KI":
+    name: "1 Watemi"
+    slug: "1-watemi"
+  "2KI":
+    name: "2 Watemi"
+    slug: "2-watemi"
+  "1CH":
+    name: "1 Zinghomo"
+    slug: "1-zinghomo"
+  "2CH":
+    name: "2 Zinghomo"
+    slug: "2-zinghomo"
+  "EZR":
+    name: "Ezila"
+    slug: "ezila"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "JOB":
+    name: "Jobu"
+    slug: "jobu"
+  "PSA":
+    name: "Zabuli"
+    slug: "zabuli"
+  "PRO":
+    name: "Zimbazi"
+    slug: "zimbazi"
+  "ECC":
+    name: "Muganuzi"
+    slug: "muganuzi"
+  "SNG":
+    name: "Lwimbo Luswanu muno"
+    slug: "lwimbo-luswanu-muno"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yelemiya"
+    slug: "yelemiya"
+  "LAM":
+    name: "I Cililo"
+    slug: "i-cililo"
+  "EZK":
+    name: "Ezekiyeli"
+    slug: "ezekiyeli"
+  "DAN":
+    name: "Danyeli"
+    slug: "danyeli"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+  "ZEC":
+    name: "Zakaliya"
+    slug: "zakaliya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Metumo ge Watumwa"
+    slug: "metumo-ge-watumwa"
+  "ROM":
+    name: "Walumi"
+    slug: "walumi"
+  "1CO":
+    name: "1 Wakolinto"
+    slug: "1-wakolinto"
+  "2CO":
+    name: "2 Wakolinto"
+    slug: "2-wakolinto"
+  "GAL":
+    name: "Wagalatiya"
+    slug: "wagalatiya"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosayi"
+    slug: "wakolosayi"
+  "1TH":
+    name: "1 Watesalonike"
+    slug: "1-watesalonike"
+  "2TH":
+    name: "2 Watesalonike"
+    slug: "2-watesalonike"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Wahebelaniya"
+    slug: "wahebelaniya"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petelo"
+    slug: "1-petelo"
+  "2PE":
+    name: "2 Petelo"
+    slug: "2-petelo"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Wugubule"
+    slug: "wugubule"

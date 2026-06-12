@@ -1,0 +1,302 @@
+language: "mer"
+books:
+  "GEN":
+    name: "Kîam"
+    slug: "kiam"
+    name_toc: "Kîambîrîria"
+  "EXO":
+    name: "Kum"
+    slug: "kum"
+    name_toc: "Kuuma"
+  "LEV":
+    name: "Ala"
+    slug: "ala"
+    name_toc: "Alawi"
+  "NUM":
+    name: "Gût"
+    slug: "gut"
+    name_toc: "Gûtara"
+  "DEU":
+    name: "Kûr"
+    slug: "kur"
+    name_toc: "Kûriikanithia Maathana"
+  "JOS":
+    name: "Josh"
+    slug: "josh"
+    name_toc: "Joshua"
+  "JDG":
+    name: "Agam"
+    slug: "agam"
+    name_toc: "Agambi"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Ruthu"
+  "1SA":
+    name: "1Sam"
+    slug: "1sam"
+    name_toc: "1 Samûeli"
+  "2SA":
+    name: "2Sam"
+    slug: "2sam"
+    name_toc: "2 Samûeli"
+  "1KI":
+    name: "1Ane"
+    slug: "1ane"
+    name_toc: "1 Anene"
+  "2KI":
+    name: "2Ane"
+    slug: "2ane"
+    name_toc: "2 Anene"
+  "1CH":
+    name: "1Ma"
+    slug: "1ma"
+    name_toc: "1 Mantû ja Karaaja"
+  "2CH":
+    name: "2Ma"
+    slug: "2ma"
+    name_toc: "2 Mantû ja Karaaja"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Esta"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Ayubu"
+  "PSA":
+    name: "Zab"
+    slug: "zab"
+    name_toc: "Zaburi"
+  "PRO":
+    name: "Njun"
+    slug: "njun"
+    name_toc: "Njuno"
+  "ECC":
+    name: "Mût"
+    slug: "mut"
+    name_toc: "Mûtûmîîria"
+  "SNG":
+    name: "Rwî"
+    slug: "rwi"
+    name_toc: "Rwîmbo rwa Solomoni"
+  "ISA":
+    name: "Isa"
+    slug: "isa"
+    name_toc: "Isaya"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+    name_toc: "Jeremia"
+  "LAM":
+    name: "Kîr"
+    slug: "kir"
+    name_toc: "Kîrîro kîa Jeremia"
+  "EZK":
+    name: "Ezek"
+    slug: "ezek"
+    name_toc: "Ezekieli"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Danieli"
+  "HOS":
+    name: "Hos"
+    slug: "hos"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Joe"
+    slug: "joe"
+    name_toc: "Joeli"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Oba"
+    slug: "oba"
+    name_toc: "Obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mik"
+    slug: "mik"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahumu"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habakuku"
+  "ZEP":
+    name: "Zef"
+    slug: "zef"
+    name_toc: "Zefania"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zek"
+    slug: "zek"
+    name_toc: "Zekaria"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malaki"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+    name_toc: "Tobiti"
+  "JDT":
+    name: "Judi"
+    slug: "judi"
+    name_toc: "Judîthi"
+  "ESG":
+    name: "Est"
+    slug: "est"
+    name_toc: "Esta"
+  "WIS":
+    name: "Ûûm"
+    slug: "uum"
+    name_toc: "Ûûme"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+    name_toc: "Siraki"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+    name_toc: "Baruku"
+  "DAG":
+    name: "Dag"
+    slug: "dag"
+    name_toc: "Danieli"
+  "1MA":
+    name: "1Mak"
+    slug: "1mak"
+    name_toc: "1 Makabeo"
+  "2MA":
+    name: "2Mak"
+    slug: "2mak"
+    name_toc: "2 Makabeo"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Mathayo"
+  "MRK":
+    name: "Mar"
+    slug: "mar"
+    name_toc: "Maariko"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Luka"
+  "JHN":
+    name: "Joh"
+    slug: "joh"
+    name_toc: "Johana"
+  "ACT":
+    name: "Maj"
+    slug: "maj"
+    name_toc: "Mathithio ja Atûmwa"
+  "ROM":
+    name: "Aro"
+    slug: "aro"
+    name_toc: "Aroma"
+  "1CO":
+    name: "1Ako"
+    slug: "1ako"
+    name_toc: "1 Akorintho"
+  "2CO":
+    name: "2Ako"
+    slug: "2ako"
+    name_toc: "2 Akorintho"
+  "GAL":
+    name: "Agal"
+    slug: "agal"
+    name_toc: "Agalatia"
+  "EPH":
+    name: "Aef"
+    slug: "aef"
+    name_toc: "Aefeso"
+  "PHP":
+    name: "Afi"
+    slug: "afi"
+    name_toc: "Afilipi"
+  "COL":
+    name: "Akol"
+    slug: "akol"
+    name_toc: "Akolosai"
+  "1TH":
+    name: "1Ath"
+    slug: "1ath"
+    name_toc: "1 Athesalonike"
+  "2TH":
+    name: "2Ath"
+    slug: "2ath"
+    name_toc: "2 Athesalonike"
+  "1TI":
+    name: "1Tim"
+    slug: "1tim"
+    name_toc: "1 Timotheo"
+  "2TI":
+    name: "2Tim"
+    slug: "2tim"
+    name_toc: "2 Timotheo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Tito"
+  "PHM":
+    name: "Fil"
+    slug: "fil"
+    name_toc: "Filemoni"
+  "HEB":
+    name: "Ahi"
+    slug: "ahi"
+    name_toc: "Ahibirania"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+    name_toc: "Jakubu"
+  "1PE":
+    name: "1Pet"
+    slug: "1pet"
+    name_toc: "1 Petero"
+  "2PE":
+    name: "2Pet"
+    slug: "2pet"
+    name_toc: "2 Petero"
+  "1JN":
+    name: "1Joh"
+    slug: "1joh"
+    name_toc: "1 Johana"
+  "2JN":
+    name: "2 Joh"
+    slug: "2-joh"
+    name_toc: "2 Johana"
+  "3JN":
+    name: "3Joh"
+    slug: "3joh"
+    name_toc: "3 Johana"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Juda"
+  "REV":
+    name: "Kûg"
+    slug: "kug"
+    name_toc: "Kûguûrîrwa"

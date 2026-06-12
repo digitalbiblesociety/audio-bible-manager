@@ -1,0 +1,83 @@
+language: "nab"
+books:
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Joãu"
+    slug: "joau"
+  "ACT":
+    name: "Atos"
+    slug: "atos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Korĩntios"
+    slug: "1-korintios"
+  "2CO":
+    name: "2 Korĩntios"
+    slug: "2-korintios"
+  "GAL":
+    name: "Kálatas"
+    slug: "kalatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipẽnses"
+    slug: "filipenses"
+  "COL":
+    name: "Kolosẽnses"
+    slug: "kolosenses"
+  "1TH":
+    name: "1 Tesalonisẽnses"
+    slug: "1-tesalonisenses"
+  "2TH":
+    name: "2 Tesalonisẽnses"
+    slug: "2-tesalonisenses"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemõ"
+    slug: "filemo"
+  "HEB":
+    name: "Ebreus"
+    slug: "ebreus"
+  "JAS":
+    name: "Tiako"
+    slug: "tiako"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Joãu"
+    slug: "1-joau"
+  "2JN":
+    name: "2 Joãu"
+    slug: "2-joau"
+  "3JN":
+    name: "3 Joãu"
+    slug: "3-joau"
+  "JUD":
+    name: "Jutas"
+    slug: "jutas"
+  "REV":
+    name: "Apokalipse"
+    slug: "apokalipse"

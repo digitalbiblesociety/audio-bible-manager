@@ -1,0 +1,266 @@
+language: "sfw"
+books:
+  "GEN":
+    name: "Gyenesise"
+    slug: "gyenesise"
+    name_toc: "ቲቶ"
+  "EXO":
+    name: "Ɛksadɔso"
+    slug: "ksadso"
+    name_toc: "ፊልሞና"
+  "LEV":
+    name: "Lewitikɔso"
+    slug: "lewitikso"
+    name_toc: "የእብራውያን ናቸር"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+    name_toc: "የያቆብ ናቸር"
+  "DEU":
+    name: "Deuteronomi"
+    slug: "deuteronomi"
+    name_toc: "1ነ የጴጥሮስ ናቸር"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "2ነ የጴጥሮስ ናቸር"
+  "JDG":
+    name: "Maenbulɛfoɛ"
+    slug: "maenbulfo"
+    name_toc: "1ነ ዮኻንስ ናቸር"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+    name_toc: "2ነ ዮኻንስ ናቸር"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "3ነ ዮኻንስ ናቸር"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "የኹዳ ናቸር"
+  "1KI":
+    name: "1 Ahemvo"
+    slug: "1-ahemvo"
+    name_toc: "የዮኻንስ ራዕይ"
+  "2KI":
+    name: "2 Ahemvo"
+    slug: "2-ahemvo"
+    name_toc: "Cɑ̈gø"
+  "1CH":
+    name: "1 Aberɛso Dwirɛ"
+    slug: "1-aberso-dwir"
+    name_toc: "Kedhø"
+  "2CH":
+    name: "2 Aberɛso Dwirɛ"
+    slug: "2-aberso-dwir"
+    name_toc: "Kwɑrri Leebì"
+  "EZR":
+    name: "Ɛsra"
+    slug: "sra"
+    name_toc: "Kwɑn"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Jøli Cigg"
+  "EST":
+    name: "Ɛseta"
+    slug: "seta"
+    name_toc: "Jöcwø"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Jɑgg"
+  "PSA":
+    name: "Edwein"
+    slug: "edwein"
+    name_toc: "Ruth"
+  "PRO":
+    name: "Anyandera"
+    slug: "anyandera"
+    name_toc: "Kyeel Wɑ̈jji Sɑmwel"
+  "ECC":
+    name: "Nworɛ Dwirɛhanɛniɛ"
+    slug: "nwor-dwirhanni"
+    name_toc: "Ryeew Wɑ̈jji Sɑmwel"
+  "SNG":
+    name: "Edwein Nu Dwein"
+    slug: "edwein-nu-dwein"
+    name_toc: "Kyeel Wɑ̈jji Rɑ̈nhì"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Ryeew Wɑ̈jji Rɑ̈nhì"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Kyeel Kwøbbi Cyɑ̈ng"
+  "LAM":
+    name: "Awuye"
+    slug: "awuye"
+    name_toc: "Ryeew Kwøbbi Cyɑ̈ng"
+  "EZK":
+    name: "Hesekiel"
+    slug: "hesekiel"
+    name_toc: "Edhrɑ̀"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Nëmɑyɑ̀"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ester"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Ayub"
+  "AMO":
+    name: "Amose"
+    slug: "amose"
+    name_toc: "Wör"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Gɑ́j"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Tïddi Kwøb"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Wörr-ɑ Døngø"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Icɑyɑ̀"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Jermɑyɑ̀"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+    name_toc: "Wörri Ywøg"
+  "HAG":
+    name: "Hagae"
+    slug: "hagae"
+    name_toc: "Idhkiel"
+  "ZEC":
+    name: "Sakaria"
+    slug: "sakaria"
+    name_toc: "Dɑniel"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Odheyɑ̀"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Yöiil"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Amos"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Obɑdiyɑ̀"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Yönɑ̀"
+  "ACT":
+    name: "Asomafoɛ"
+    slug: "asomafo"
+    name_toc: "Miikɑ̀"
+  "ROM":
+    name: "Romanfoɛ"
+    slug: "romanfo"
+    name_toc: "Nɑum"
+  "1CO":
+    name: "1 Korintofoɛ"
+    slug: "1-korintofo"
+    name_toc: "Abɑkuk"
+  "2CO":
+    name: "2 Korintofoɛ"
+    slug: "2-korintofo"
+    name_toc: "Dhepɑniyɑ̀"
+  "GAL":
+    name: "Galatiafoɛ"
+    slug: "galatiafo"
+    name_toc: "Agɑy"
+  "EPH":
+    name: "Ɛfesofoɛ"
+    slug: "fesofo"
+    name_toc: "Dhekɑriyɑ̀"
+  "PHP":
+    name: "Filipifoɛ"
+    slug: "filipifo"
+    name_toc: "Mɑlɑkì"
+  "COL":
+    name: "Kolosefoɛ"
+    slug: "kolosefo"
+    name_toc: "Töbiyɑ̀"
+  "1TH":
+    name: "1 Tɛsalonikafoɛ"
+    slug: "1-tsalonikafo"
+    name_toc: "Judith"
+  "2TH":
+    name: "2 Tɛsalonika"
+    slug: "2-tsalonika"
+    name_toc: "Ester Grïïk"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Kyeel Wɑ̈jji Mɑkɑbì"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ryeew Wɑ̈jji Mɑkɑbì"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Peli Wïj Sølømøn"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+    name_toc: "Sirɑk"
+  "HEB":
+    name: "Hebrifoɛ"
+    slug: "hebrifo"
+    name_toc: "Bɑruk"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Cïïji Jermɑyɑ̀"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Kwɑ̈jji Adhɑriyɑ̀ kí Wörri Wøbb Ádɑ̈g"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Susɑnɑ̀"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Bel kí Nɑ̈ɑ̈ynyɑng"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Mɑthyëw"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Mɑrk"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Luk"
+  "REV":
+    name: "Nyekyire"
+    slug: "nyekyire"
+    name_toc: "Jøn"

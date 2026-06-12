@@ -1,0 +1,83 @@
+language: "urb"
+books:
+  "MAT":
+    name: "Matéu"
+    slug: "mateu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Ruk"
+    slug: "ruk"
+  "JHN":
+    name: "Juã"
+    slug: "jua"
+  "ACT":
+    name: "At"
+    slug: "at"
+  "ROM":
+    name: "Hom"
+    slug: "hom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Ngara"
+    slug: "ngara"
+  "EPH":
+    name: "Ese"
+    slug: "ese"
+  "PHP":
+    name: "Siri"
+    slug: "siri"
+  "COL":
+    name: "Koro"
+    slug: "koro"
+  "1TH":
+    name: "1 Tesaron"
+    slug: "1-tesaron"
+  "2TH":
+    name: "2 Tesaron"
+    slug: "2-tesaron"
+  "1TI":
+    name: "1 Timo"
+    slug: "1-timo"
+  "2TI":
+    name: "2 Timo"
+    slug: "2-timo"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Siremõ"
+    slug: "siremo"
+  "HEB":
+    name: "Emberéu"
+    slug: "embereu"
+  "JAS":
+    name: "Tian"
+    slug: "tian"
+  "1PE":
+    name: "1 Petu"
+    slug: "1-petu"
+  "2PE":
+    name: "2 Petu"
+    slug: "2-petu"
+  "1JN":
+    name: "1 Juã"
+    slug: "1-jua"
+  "2JN":
+    name: "2 Juã"
+    slug: "2-jua"
+  "3JN":
+    name: "3 Juã"
+    slug: "3-jua"
+  "JUD":
+    name: "Jun"
+    slug: "jun"
+  "REV":
+    name: "Apokarip"
+    slug: "apokarip"

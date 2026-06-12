@@ -1,0 +1,110 @@
+language: "kff"
+books:
+  "MAT":
+    name: "ମାତିଉ"
+    slug: "matiu"
+    name_toc: "ମାତିଉ ଲେକ୍‍ତାଦ୍‍ ଜିସୁ କ୍ରିଷ୍ଟନ୍‍ ସୁସମାଚାର୍‌"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+    name_toc: "ମାର୍କ ଲେକ୍‍ତାଦ୍ ଜିସୁ କ୍ରିଷ୍ଟନ୍‍ ସୁସମାଚାର୍‌"
+  "LUK":
+    name: "ଲୁକ"
+    slug: "luka"
+    name_toc: "ଲୁକ ଲେକ୍‍ତାଦ୍ ଜିସୁ କ୍ରିଷ୍ଟନ୍‍ ସୁସମାଚାର୍‌"
+  "JHN":
+    name: "ଯୋହନ୍‌‌"
+    slug: "yohan"
+    name_toc: "ଯୋହନ୍‌‌ ଲେକ୍‍ତାଦ୍ ଜିସୁ କ୍ରିଷ୍ଟନ୍‍ ସୁସମାଚାର୍‌"
+  "ACT":
+    name: "ପ୍ରେରିତ"
+    slug: "prerita"
+    name_toc: "ପ୍ରେରିତ ଶିଷ୍ୟଡ଼ାଦ୍‌ ପାଡ଼୍‍ୟିତାଦ୍‍ ଗଟ୍‌"
+  "ROM":
+    name: "ରୋମୀୟ"
+    slug: "romiya"
+    name_toc: "ରୋମୀୟ ନାରୁଡ଼୍‌ ଗାର୍ରେ ପାଉଲ୍‌ତେ ଚିଟି"
+  "1CO":
+    name: "୧ କରନ୍ତିୟ"
+    slug: "1-karantiya"
+    name_toc: "କରନ୍ତିୟ ବିଶ୍ୱାସୀଡ଼୍ ଗାର୍ରେ ପାଉଲ୍‌ତେ ପ୍ରତମ୍‍ ଚିଟି"
+  "2CO":
+    name: "୨ କରନ୍ତିୟ"
+    slug: "2-karantiya"
+    name_toc: "କରନ୍ତିୟ ବିଶ୍ୱାସୀଡ଼୍ ଗାର୍ରେ ପାଉଲ୍‌ତେ ଦ୍ୱିତିୟ ଚିଟି"
+  "GAL":
+    name: "ଗାଲାତୀୟ"
+    slug: "galatiya"
+    name_toc: "ଗାଲାତୀୟଡ଼୍‌ ଗାର୍ରେ ପାଉଲ୍‍ତାଦ୍‌ ଚିଟି"
+  "EPH":
+    name: "ଏଫିସିୟ"
+    slug: "ephisiya"
+    name_toc: "ଏଫିସିୟଡ଼୍‌ ଗାର୍ରେ ପାଉଲ୍‌ତାଦ୍‌ ଚିଟି"
+  "PHP":
+    name: "ଫିଲିପିୟ"
+    slug: "philipiya"
+    name_toc: "ଫିଲିପିୟଡ଼୍‌ ଗାର୍ରେ ପାଉଲ୍‌ତେ ଚିଟି"
+  "COL":
+    name: "କଲସୀୟ"
+    slug: "kalasiya"
+    name_toc: "କଲସୀୟ ନାରୁଡ଼୍‌ ଗାରେ ପାଉଲ୍‌ତେ ଚିଟି"
+  "1TH":
+    name: "୧ ଥେସଲନିୟ"
+    slug: "1-thesalaniya"
+    name_toc: "ଥେସଲନିୟ ବିଶ୍ୱାସୀଡ଼୍ ଗାର୍ରେ ପାଉଲ୍‌ତେ ପ୍ରତମ୍‌ ଚିଟି"
+  "2TH":
+    name: "୨ ଥେସଲନିୟ"
+    slug: "2-thesalaniya"
+    name_toc: "ଥେସଲନିୟ ବିଶ୍ୱାସୀଡ଼୍ ଗାର୍ରେ ପାଉଲ୍‌ତେ ଦ୍ୱିତିୟ ଚିଟି"
+  "1TI":
+    name: "୧ ତୀମତି"
+    slug: "1-timati"
+    name_toc: "ତୀମତିନ୍‌ ଗାର୍ରେ ପାଉଲ୍‌ତେ ପ୍ରତମ୍‍ ଚିଟି"
+  "2TI":
+    name: "୨ ତୀମତି"
+    slug: "2-timati"
+    name_toc: "ତୀମତିନ୍‌ ଗାର୍ରେ ପାଉଲ୍‌ତେ ଦ୍ୱିତୀୟ ଚିଟି"
+  "TIT":
+    name: "ତୀତସ୍‌"
+    slug: "titas"
+    name_toc: "ତୀତସ୍‌ତେ ବକେତ୍‌ ପାଉଲ୍‌ତେ ଚିଟି"
+  "PHM":
+    name: "ଫିଲିମୋନ୍‌"
+    slug: "philimon"
+    name_toc: "ଫିଲିମୋନ୍‌ତେ ବକେତ୍ ପାଉଲ୍‌ତାଦ୍‌ ଚିଟି"
+  "HEB":
+    name: "ଏବ୍ରୀ"
+    slug: "ebri"
+    name_toc: "ଏବ୍ରୀ ନାରୁଡ଼୍‍ ଗାର୍ରେ ଲେକ୍‍ତାଦ୍‍ ଚିଟି"
+  "JAS":
+    name: "ଯାକୁବ"
+    slug: "yakuba"
+    name_toc: "ଯାକୁବ ଲେକ୍‍ତାଦ୍ ଚିଟି"
+  "1PE":
+    name: "୧ ପିତର୍‍"
+    slug: "1-pitar"
+    name_toc: "ପିତର୍‌ ଲେକ୍‍ତାଦ୍ ପ୍ରତମ୍‍ ଚିଟି"
+  "2PE":
+    name: "୨ ପିତର୍‌"
+    slug: "2-pitar"
+    name_toc: "ପିତର୍‌ ଲେକ୍‍ତାଦ୍ ଦ୍ୱିତୀୟ ଚିଟି"
+  "1JN":
+    name: "୧ ଯୋହନ୍‌‌"
+    slug: "1-yohan"
+    name_toc: "ଯୋହନ୍‌‌ ଲେକ୍‍ତାଦ୍ ପ୍ରତମ୍‍ ଚିଟି"
+  "2JN":
+    name: "୨ ଯୋହନ୍‌‌"
+    slug: "2-yohan"
+    name_toc: "ଯୋହନ୍‌‌ ଲେକ୍‍ତାଦ୍ ଦ୍ୱିତୀୟ ଚିଟି"
+  "3JN":
+    name: "୩ ଯୋହନ୍‌‌"
+    slug: "3-yohan"
+    name_toc: "ଯୋହନ୍‌‌ ଲେକ୍‍ତାଦ୍ ତୃତୀୟ ଚିଟି"
+  "JUD":
+    name: "ଯିହୁଦା"
+    slug: "yihuda"
+    name_toc: "ଯିହୁଦା ଲେକ୍‍ତାଦ୍ ଚିଟି"
+  "REV":
+    name: "ପ୍ରକାଶିତ୍‌ ବାକ୍ୟ"
+    slug: "prakasit-bakya"
+    name_toc: "ଯୋହନ୍‌‌ ଲେକ୍‍ତାଦ୍‍ ପ୍ରକାଶିତ୍‌ ବାକ୍ୟ"

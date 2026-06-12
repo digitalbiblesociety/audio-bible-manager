@@ -1,0 +1,83 @@
+language: "bbk"
+books:
+  "MAT":
+    name: "Matìyò"
+    slug: "matiyo"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Joyn"
+    slug: "joyn"
+  "ACT":
+    name: "Shwèʼè"
+    slug: "shwee"
+  "ROM":
+    name: "Lum"
+    slug: "lum"
+  "1CO":
+    name: "1 Kolìntyàns"
+    slug: "1-kolintyans"
+  "2CO":
+    name: "2 Kolìntyàns"
+    slug: "2-kolintyans"
+  "GAL":
+    name: "Gàlesìyà"
+    slug: "galesiya"
+  "EPH":
+    name: "Efi"
+    slug: "efi"
+  "PHP":
+    name: "Filìbay"
+    slug: "filibay"
+  "COL":
+    name: "Kòlosè"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tèsàlonikà"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tèsàlonikà"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotì"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timotì"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taytùs"
+    slug: "taytus"
+  "PHM":
+    name: "Filimùyn"
+    slug: "filimuyn"
+  "HEB":
+    name: "Hibùlù"
+    slug: "hibulu"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Bità"
+    slug: "1-bita"
+  "2PE":
+    name: "2 Bità"
+    slug: "2-bita"
+  "1JN":
+    name: "1 Joyn"
+    slug: "1-joyn"
+  "2JN":
+    name: "2 Joyn"
+    slug: "2-joyn"
+  "3JN":
+    name: "3 Joyn"
+    slug: "3-joyn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Kəmwetə"
+    slug: "kemwete"

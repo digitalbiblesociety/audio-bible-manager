@@ -1,0 +1,83 @@
+language: "mam"
+books:
+  "MAT":
+    name: "Matey"
+    slug: "matey"
+  "MRK":
+    name: "Marks"
+    slug: "marks"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Kyb'inchb'in"
+    slug: "kybinchbin"
+  "ROM":
+    name: "Aj Rom"
+    slug: "aj-rom"
+  "1CO":
+    name: "1 Aj Corint"
+    slug: "1-aj-corint"
+  "2CO":
+    name: "2 Aj Corint"
+    slug: "2-aj-corint"
+  "GAL":
+    name: "Aj Galacia"
+    slug: "aj-galacia"
+  "EPH":
+    name: "Aj Éfeso"
+    slug: "aj-efeso"
+  "PHP":
+    name: "Aj Filipos"
+    slug: "aj-filipos"
+  "COL":
+    name: "Aj Colosa"
+    slug: "aj-colosa"
+  "1TH":
+    name: "1 Aj Tesalónica"
+    slug: "1-aj-tesalonica"
+  "2TH":
+    name: "2 Aj Tesalónica"
+    slug: "2-aj-tesalonica"
+  "1TI":
+    name: "1 Timotey"
+    slug: "1-timotey"
+  "2TI":
+    name: "2 Timotey"
+    slug: "2-timotey"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Aj Ebrey"
+    slug: "aj-ebrey"
+  "JAS":
+    name: "Santyaw"
+    slug: "santyaw"
+  "1PE":
+    name: "1 Pegr"
+    slug: "1-pegr"
+  "2PE":
+    name: "2 Pegr"
+    slug: "2-pegr"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Tchiky'b'in"
+    slug: "tchikybin"

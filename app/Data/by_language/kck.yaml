@@ -1,0 +1,266 @@
+language: "kck"
+books:
+  "GEN":
+    name: "Kutangisa"
+    slug: "kutangisa"
+    name_toc: "Lukwalo gwe Kutangisa"
+  "EXO":
+    name: "Kufuluka"
+    slug: "kufuluka"
+    name_toc: "Lukwalo gwe Kufuluka"
+  "LEV":
+    name: "Zwipo"
+    slug: "zwipo"
+    name_toc: "Lukwalo gwe Zwipo"
+  "NUM":
+    name: "Mbalo"
+    slug: "mbalo"
+    name_toc: "Lukwalo gwe Mbalo"
+  "DEU":
+    name: "Matama"
+    slug: "matama"
+    name_toc: "Lukwalo gwe Matama"
+  "JOS":
+    name: "Joshuwa"
+    slug: "joshuwa"
+    name_toc: "Lukwalo gwa Joshuwa"
+  "JDG":
+    name: "Basumikilisi"
+    slug: "basumikilisi"
+    name_toc: "Lukwalo gwe Basumikilisi"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Lukwalo gwa Ruti"
+  "1SA":
+    name: "1 Samuele"
+    slug: "1-samuele"
+    name_toc: "Lukwalo gwe Kutanga gwa Samuele"
+  "2SA":
+    name: "2 Samuele"
+    slug: "2-samuele"
+    name_toc: "Lukwalo gwe bubili gwa Samuele"
+  "1KI":
+    name: "1 Bomambo"
+    slug: "1-bomambo"
+    name_toc: "Lukwalo gwe kutanga gwa Bomambo"
+  "2KI":
+    name: "2 Bomambo"
+    slug: "2-bomambo"
+    name_toc: "Lukwalo gwe bubili gwa Bomambo"
+  "1CH":
+    name: "1 Zwiyitikalo"
+    slug: "1-zwiyitikalo"
+    name_toc: "Lukwalo gwe kutanga gwe Zwiyitikalo"
+  "2CH":
+    name: "2 Zwiyitikalo"
+    slug: "2-zwiyitikalo"
+    name_toc: "Lukwalo gwe bubili gwe  Zwiyitikalo"
+  "EZR":
+    name: "Ezera"
+    slug: "ezera"
+    name_toc: "Ezera"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Nehemiya"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita"
+  "JOB":
+    name: "Jobe"
+    slug: "jobe"
+    name_toc: "Jobe"
+  "PSA":
+    name: "Njimbo"
+    slug: "njimbo"
+    name_toc: "Lukwalo gwe Njimbo"
+  "PRO":
+    name: "Makungulupeswa"
+    slug: "makungulupeswa"
+    name_toc: "Makungulupeswa"
+  "ECC":
+    name: "Nsumikili"
+    slug: "nsumikili"
+    name_toc: "Nsumikili"
+  "SNG":
+    name: "Lumbo gwe Njimbo"
+    slug: "lumbo-gwe-njimbo"
+    name_toc: "Lumbo gwe Njimbo"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Isaya"
+  "JER":
+    name: "Jeremiya"
+    slug: "jeremiya"
+    name_toc: "Jeremiya"
+  "LAM":
+    name: "Zwililo"
+    slug: "zwililo"
+    name_toc: "Zwililo"
+  "EZK":
+    name: "Ezekiele"
+    slug: "ezekiele"
+    name_toc: "Lukwalo gwa Ezekiele"
+  "DAN":
+    name: "Daniyele"
+    slug: "daniyele"
+    name_toc: "Lukwalo gwa Daniyele"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Lukwalo gwa Hoseya"
+  "JOL":
+    name: "Jowele"
+    slug: "jowele"
+    name_toc: "Lukwalo gwa Jowele"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Lukwalo gwa Amosi"
+  "OBA":
+    name: "Obhadiya"
+    slug: "obhadiya"
+    name_toc: "Lukwalo gwa Obhadiya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Lukwalo gwa Jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Lukwalo gwa Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Lukwalo gwa Nahumu"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Lukwalo gwa Habakuku"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Lukwalo gwa Zefaniya"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+    name_toc: "Lukwalo gwa Hagayi"
+  "ZEC":
+    name: "Zakhariya"
+    slug: "zakhariya"
+    name_toc: "Lukwalo gwa Zakhariya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Lukwalo gwa Malaki"
+  "MAT":
+    name: "Matewu"
+    slug: "matewu"
+    name_toc: "Lukwalo gwa Matewu"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Lukwalo gwa Mako"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "Lukwalo gwa Luke"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+    name_toc: "Lukwalo gwa Johani"
+  "ACT":
+    name: "Mishingo"
+    slug: "mishingo"
+    name_toc: "Mishingo ye Batumwa"
+  "ROM":
+    name: "Baroma"
+    slug: "baroma"
+    name_toc: "Lukwalo gwa Paulo ekwalila Baroma"
+  "1CO":
+    name: "1 Bakorinta"
+    slug: "1-bakorinta"
+    name_toc: "Lukwalo gwa Paulo gwe kutanga ekwalila Bakorinta"
+  "2CO":
+    name: "2 Bakorinta"
+    slug: "2-bakorinta"
+    name_toc: "Lukwalo gwa Paulo gwe bubili ekwalila Bakorinta"
+  "GAL":
+    name: "Bagalatiya"
+    slug: "bagalatiya"
+    name_toc: "Lukwalo gwa Paulo ekwalila Bagalatiya"
+  "EPH":
+    name: "Baefeso"
+    slug: "baefeso"
+    name_toc: "Lukwalo gwa Paulo ekwalila Baefeso"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+    name_toc: "Lukwalo gwa Paulo ekwalila Bafilipi"
+  "COL":
+    name: "Bakolosa"
+    slug: "bakolosa"
+    name_toc: "Lukwalo gwa Paulo ekwalila Bakolosi"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+    name_toc: "Lukwalo gwa Paulo gwe kutanga ekwalila Batesalonika"
+  "2TH":
+    name: "2 Batesalonika"
+    slug: "2-batesalonika"
+    name_toc: "Lukwalo gwa Paulo gwe bubili ekwalila Batesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Lukwalo gwa Paulo gwe kutanga ekwalila Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Lukwalo gwa Paulo gwe bubili ekwalila Timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Lukwalo gwa Paulo ekwalila Tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Lukwalo gwa Paulo ekwalila Filimoni"
+  "HEB":
+    name: "Bahebheru"
+    slug: "bahebheru"
+    name_toc: "Lukwalo gwakakwaligwa Bahebheru"
+  "JAS":
+    name: "Jakubo"
+    slug: "jakubo"
+    name_toc: "Lukwalo gwakakwagwa ndi Jakubo"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Lukwalo gwe kutanga gwakakwagwa ndi Pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Lukwalo gwe bubili gwakakwagwa ndi Pita"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+    name_toc: "Lukwalo gwe kutanga gwakakwagwa ndi Johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+    name_toc: "Lukwalo gwe bubili gwakakwagwa ndi Johani"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+    name_toc: "Lukwalo gwe butatu gwakakwagwa ndi Johani"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+    name_toc: "Lukwalo gwakakwagwa ndi Judi"
+  "REV":
+    name: "Zumbunulo"
+    slug: "zumbunulo"
+    name_toc: "Zumbunulo yakazumbunuligwa Johani"

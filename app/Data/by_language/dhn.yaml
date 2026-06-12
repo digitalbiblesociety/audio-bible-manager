@@ -1,0 +1,116 @@
+language: "dhn"
+books:
+  "GEN":
+    name: "उत्पत्ति"
+    slug: "utpatti"
+  "EXO":
+    name: "निर्गमन"
+    slug: "nirgamana"
+  "LEV":
+    name: "लैव्यव्यवस्था"
+    slug: "laivyavyavastha"
+  "JOS":
+    name: "यहोशू"
+    slug: "yahosu"
+  "EST":
+    name: "एस्तेर"
+    slug: "estera"
+  "ECC":
+    name: "सभोपदेशक"
+    slug: "sabhopadesaka"
+  "EZK":
+    name: "यहेजकेल"
+    slug: "yahejakela"
+  "DAN":
+    name: "दानिय्येल"
+    slug: "daniyyela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MIC":
+    name: "मीका"
+    slug: "mika"
+  "MAT":
+    name: "માથ્થી"
+    slug: "maththi"
+  "MRK":
+    name: "માર્ક"
+    slug: "marka"
+  "LUK":
+    name: "લુક"
+    slug: "luka"
+  "JHN":
+    name: "યોહાન"
+    slug: "yohana"
+  "ACT":
+    name: "પ્રેરિતસા કરેલ કામ"
+    slug: "preritasa-karela-kama"
+  "ROM":
+    name: "રોમ"
+    slug: "roma"
+  "1CO":
+    name: "1 કોરિંથી"
+    slug: "1-korimthi"
+  "2CO":
+    name: "2 કોરિંથી"
+    slug: "2-korimthi"
+  "GAL":
+    name: "ગલાતી"
+    slug: "galati"
+  "EPH":
+    name: "એફેસી"
+    slug: "ephesi"
+  "PHP":
+    name: "ફિલિપી"
+    slug: "philipi"
+  "COL":
+    name: "કલોસી"
+    slug: "kalosi"
+  "1TH":
+    name: "1 થેસલોનિકી"
+    slug: "1-thesaloniki"
+  "2TH":
+    name: "2 થેસલોનિકી"
+    slug: "2-thesaloniki"
+  "1TI":
+    name: "1 તિમોથી"
+    slug: "1-timothi"
+  "2TI":
+    name: "2 તિમોથી"
+    slug: "2-timothi"
+  "TIT":
+    name: "તિતસ"
+    slug: "titasa"
+  "PHM":
+    name: "ફિલેમોન"
+    slug: "philemona"
+  "HEB":
+    name: "હિબ્રૂ"
+    slug: "hibru"
+  "JAS":
+    name: "યાકુબ"
+    slug: "yakuba"
+  "1PE":
+    name: "1 પિતર"
+    slug: "1-pitara"
+  "2PE":
+    name: "2 પિતર"
+    slug: "2-pitara"
+  "1JN":
+    name: "1 યોહાન"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 યોહાન"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 યોહાન"
+    slug: "3-yohana"
+  "JUD":
+    name: "યહૂદા"
+    slug: "yahuda"
+  "REV":
+    name: "પ્રકટીકરણ"
+    slug: "prakatikarana"

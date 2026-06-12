@@ -1,0 +1,200 @@
+language: "cmn"
+books:
+  "GEN":
+    name: "摩西一書創世記"
+    slug: "mo-xi-yi-shu-chuang-shi-ji"
+  "EXO":
+    name: "摩西二書出伊及記"
+    slug: "mo-xi-er-shu-chu-yi-ji-ji"
+  "LEV":
+    name: "摩西三書利未記"
+    slug: "mo-xi-san-shu-li-wei-ji"
+  "NUM":
+    name: "摩西四書民數記"
+    slug: "mo-xi-si-shu-min-shu-ji"
+  "DEU":
+    name: "摩西五書申命記"
+    slug: "mo-xi-wu-shu-shen-ming-ji"
+  "JOS":
+    name: "約書亞"
+    slug: "yue-shu-ya"
+  "JDG":
+    name: "士師"
+    slug: "shi-shi"
+  "RUT":
+    name: "路得"
+    slug: "lu-de"
+  "1SA":
+    name: "撒母耳前"
+    slug: "sa-mu-er-qian"
+  "2SA":
+    name: "撒母耳後"
+    slug: "sa-mu-er-hou"
+  "1KI":
+    name: "列王上"
+    slug: "lie-wang-shang"
+  "2KI":
+    name: "列王下"
+    slug: "lie-wang-xia"
+  "1CH":
+    name: "歷代上"
+    slug: "li-dai-shang"
+  "2CH":
+    name: "歷代下"
+    slug: "li-dai-xia"
+  "EZR":
+    name: "以斯拉"
+    slug: "yi-si-la"
+  "NEH":
+    name: "尼希米"
+    slug: "ni-xi-mi"
+  "EST":
+    name: "以斯帖"
+    slug: "yi-si-tie"
+  "JOB":
+    name: "約百"
+    slug: "yue-bai"
+  "PSA":
+    name: "詩篇"
+    slug: "shi-pian"
+  "PRO":
+    name: "箴言"
+    slug: "zhen-yan"
+  "ECC":
+    name: "傳道"
+    slug: "chuan-dao"
+  "SNG":
+    name: "所羅門歌又名雅歌"
+    slug: "suo-luo-men-ge-you-ming-ya-ge"
+  "ISA":
+    name: "以賽亞"
+    slug: "yi-sai-ya"
+  "JER":
+    name: "耶利米"
+    slug: "ye-li-mi"
+  "LAM":
+    name: "耶利米哀歌"
+    slug: "ye-li-mi-ai-ge"
+  "EZK":
+    name: "以西結"
+    slug: "yi-xi-jie"
+  "DAN":
+    name: "但以理"
+    slug: "dan-yi-li"
+  "HOS":
+    name: "何西阿"
+    slug: "he-xi-a"
+  "JOL":
+    name: "約珥"
+    slug: "yue-er"
+  "AMO":
+    name: "亞摩斯"
+    slug: "ya-mo-si"
+  "OBA":
+    name: "阿巴底亞"
+    slug: "a-ba-di-ya"
+  "JON":
+    name: "約拿"
+    slug: "yue-na"
+  "MIC":
+    name: "彌迦"
+    slug: "mi-jia"
+  "NAM":
+    name: "那鴻"
+    slug: "na-hong"
+  "HAB":
+    name: "哈巴谷"
+    slug: "ha-ba-gu"
+  "ZEP":
+    name: "西番雅"
+    slug: "xi-fan-ya"
+  "HAG":
+    name: "哈該"
+    slug: "ha-gai"
+  "ZEC":
+    name: "撒迦利亞"
+    slug: "sa-jia-li-ya"
+  "MAL":
+    name: "瑪拉基"
+    slug: "ma-la-ji"
+  "MAT":
+    name: "馬太福音"
+    slug: "ma-tai-fu-yin"
+  "MRK":
+    name: "馬可福音"
+    slug: "ma-ke-fu-yin"
+  "LUK":
+    name: "路加福音"
+    slug: "lu-jia-fu-yin"
+  "JHN":
+    name: "約翰福音"
+    slug: "yue-han-fu-yin"
+  "ACT":
+    name: "使徒行傳"
+    slug: "shi-tu-xing-chuan"
+  "ROM":
+    name: "使徒保羅達羅馬人書"
+    slug: "shi-tu-bao-luo-da-luo-ma-ren-shu"
+  "1CO":
+    name: "使徒保羅達哥林多人前書"
+    slug: "shi-tu-bao-luo-da-ge-lin-duo-ren-qian-shu"
+  "2CO":
+    name: "使徒保羅達哥林多人後書"
+    slug: "shi-tu-bao-luo-da-ge-lin-duo-ren-hou-shu"
+  "GAL":
+    name: "使徒保羅達迦拉太人書"
+    slug: "shi-tu-bao-luo-da-jia-la-tai-ren-shu"
+  "EPH":
+    name: "使徙保羅達以弗所人書"
+    slug: "shi-xi-bao-luo-da-yi-fu-suo-ren-shu"
+  "PHP":
+    name: "使徒保羅達腓力此人書"
+    slug: "shi-tu-bao-luo-da-fei-li-ci-ren-shu"
+  "COL":
+    name: "使徒保羅達歌羅西人書"
+    slug: "shi-tu-bao-luo-da-ge-luo-xi-ren-shu"
+  "1TH":
+    name: "使徒保羅達帖撒羅尼加前書"
+    slug: "shi-tu-bao-luo-da-tie-sa-luo-ni-jia-qian-shu"
+  "2TH":
+    name: "使徒保羅達帖撒羅尼加後書"
+    slug: "shi-tu-bao-luo-da-tie-sa-luo-ni-jia-hou-shu"
+  "1TI":
+    name: "使徒保羅達提摩太前書"
+    slug: "shi-tu-bao-luo-da-ti-mo-tai-qian-shu"
+  "2TI":
+    name: "使徒保羅達提摩太後書"
+    slug: "shi-tu-bao-luo-da-ti-mo-tai-hou-shu"
+  "TIT":
+    name: "使徒保羅達提多書"
+    slug: "shi-tu-bao-luo-da-ti-duo-shu"
+  "PHM":
+    name: "使徒保羅達腓利門書"
+    slug: "shi-tu-bao-luo-da-fei-li-men-shu"
+  "HEB":
+    name: "使徒保羅達希伯來人書"
+    slug: "shi-tu-bao-luo-da-xi-bo-lai-ren-shu"
+  "JAS":
+    name: "雅各書"
+    slug: "ya-ge-shu"
+  "1PE":
+    name: "彼得前書"
+    slug: "bi-de-qian-shu"
+  "2PE":
+    name: "彼得後書"
+    slug: "bi-de-hou-shu"
+  "1JN":
+    name: "約翰第一書"
+    slug: "yue-han-di-yi-shu"
+  "2JN":
+    name: "約翰第二書"
+    slug: "yue-han-di-er-shu"
+  "3JN":
+    name: "約翰第三書"
+    slug: "yue-han-di-san-shu"
+  "JUD":
+    name: "猶大書"
+    slug: "you-da-shu"
+  "REV":
+    name: "默示錄"
+    slug: "mo-shi-lu"

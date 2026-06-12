@@ -1,0 +1,83 @@
+language: "moa"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Zaan"
+    slug: "zaan"
+  "ACT":
+    name: "Klɛza Mu"
+    slug: "klza-mu"
+  "ROM":
+    name: "Romɛ Mu"
+    slug: "rom-mu"
+  "1CO":
+    name: "Korɛnti ꞊Lwa Mi"
+    slug: "kornti-lwa-mi"
+  "2CO":
+    name: "Korɛnti Plɛ Mi"
+    slug: "kornti-pl-mi"
+  "GAL":
+    name: "Galasi Mu"
+    slug: "galasi-mu"
+  "EPH":
+    name: "Efɛzi Mu"
+    slug: "efzi-mu"
+  "PHP":
+    name: "Filipu Mu"
+    slug: "filipu-mu"
+  "COL":
+    name: "Kolɔsi Mu"
+    slug: "kolsi-mu"
+  "1TH":
+    name: "Tesaloniki ꞊Lwa Mi"
+    slug: "tesaloniki-lwa-mi"
+  "2TH":
+    name: "Tesaloniki Plɛ Mi"
+    slug: "tesaloniki-pl-mi"
+  "1TI":
+    name: "Timote ꞊Lwa Mi"
+    slug: "timote-lwa-mi"
+  "2TI":
+    name: "Timote Plɛ Mi"
+    slug: "timote-pl-mi"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebre Mu"
+    slug: "ebre-mu"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+  "1PE":
+    name: "Piɛri ꞊Lwa Mi"
+    slug: "piri-lwa-mi"
+  "2PE":
+    name: "Piɛri Plɛ Mi"
+    slug: "piri-pl-mi"
+  "1JN":
+    name: "Zaan ꞊Lwa Mi"
+    slug: "zaan-lwa-mi"
+  "2JN":
+    name: "Zaan Plɛ Mi"
+    slug: "zaan-pl-mi"
+  "3JN":
+    name: "Zaan Yaga Mi"
+    slug: "zaan-yaga-mi"
+  "JUD":
+    name: "Zudi"
+    slug: "zudi"
+  "REV":
+    name: "‑Yrɛ Zi Yele 'Sɛwɛ"
+    slug: "yr-zi-yele-sw"

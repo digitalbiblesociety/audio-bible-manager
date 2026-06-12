@@ -1,0 +1,62 @@
+language: "lth"
+books:
+  "GEN":
+    name: "Acak"
+    slug: "acak"
+  "DEU":
+    name: "Nwö"
+    slug: "nwo"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ROM":
+    name: "Jö Roma"
+    slug: "jo-roma"
+  "1CO":
+    name: "1 Jö Korinti"
+    slug: "1-jo-korinti"
+  "2CO":
+    name: "2 Jö Korinti"
+    slug: "2-jo-korinti"
+  "GAL":
+    name: "Jö Galatia"
+    slug: "jo-galatia"
+  "EPH":
+    name: "Jö Epeco"
+    slug: "jo-epeco"
+  "PHP":
+    name: "Jö Pilipi"
+    slug: "jo-pilipi"
+  "COL":
+    name: "Jö Kolocai"
+    slug: "jo-kolocai"
+  "1TH":
+    name: "1 Jö Tecalonika"
+    slug: "1-jo-tecalonika"
+  "2TH":
+    name: "2 Jö Tecalonika"
+    slug: "2-jo-tecalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"

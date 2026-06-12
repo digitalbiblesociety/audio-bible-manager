@@ -1,0 +1,20 @@
+language: "tbx"
+books:
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Malaka"
+    slug: "malaka"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yoan"
+    slug: "yoan"
+  "ACT":
+    name: "Sinale"
+    slug: "sinale"
+  "REV":
+    name: "Kamapim Tok Hait"
+    slug: "kamapim-tok-hait"

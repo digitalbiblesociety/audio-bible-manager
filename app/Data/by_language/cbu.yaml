@@ -1,0 +1,158 @@
+language: "cbu"
+books:
+  "GEN":
+    name: "Apanll Chtarangu"
+    slug: "apanll-chtarangu"
+  "EXO":
+    name: "Tashitungarangu"
+    slug: "tashitungarangu"
+  "LEV":
+    name: "Apanll Kamachtamarini"
+    slug: "apanll-kamachtamarini"
+  "NUM":
+    name: "Masatarangana"
+    slug: "masatarangana"
+  "DEU":
+    name: "Tayusima"
+    slug: "tayusima"
+  "JOS":
+    name: "Josueya"
+    slug: "josueya"
+  "JDG":
+    name: "Kurak Tsipasa"
+    slug: "kurak-tsipasa"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samuela"
+    slug: "1-samuela"
+  "2SA":
+    name: "2 Samuela"
+    slug: "2-samuela"
+  "1KI":
+    name: "1 Utaáchich Kuraka"
+    slug: "1-utaachich-kuraka"
+  "2KI":
+    name: "2 Utaáchich Kuraka"
+    slug: "2-utaachich-kuraka"
+  "EZR":
+    name: "Esdra"
+    slug: "esdra"
+  "NEH":
+    name: "Nehemiyasa"
+    slug: "nehemiyasa"
+  "JOB":
+    name: "Jobarini"
+    slug: "jobarini"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+  "ISA":
+    name: "Isáysa"
+    slug: "isaysa"
+  "JER":
+    name: "Jeremiyasa"
+    slug: "jeremiyasa"
+  "EZK":
+    name: "Esekiyela"
+    slug: "esekiyela"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+  "JON":
+    name: "Jonasa"
+    slug: "jonasa"
+  "MIC":
+    name: "Mikiyasa"
+    slug: "mikiyasa"
+  "ZEC":
+    name: "Sakáriyasa"
+    slug: "sakariyasa"
+  "MAL":
+    name: "Malakiyasa"
+    slug: "malakiyasa"
+  "MAT":
+    name: "Matiwarini"
+    slug: "matiwarini"
+  "MRK":
+    name: "Márkosarini"
+    slug: "markosarini"
+  "LUK":
+    name: "Lukasarini"
+    slug: "lukasarini"
+  "JHN":
+    name: "Wangarini"
+    slug: "wangarini"
+  "ACT":
+    name: "Tayaspatampanirini"
+    slug: "tayaspatampanirini"
+  "ROM":
+    name: "Romshucheema"
+    slug: "romshucheema"
+  "1CO":
+    name: "1 Koríndshucheema"
+    slug: "1-korindshucheema"
+  "2CO":
+    name: "2 Koríndshucheema"
+    slug: "2-korindshucheema"
+  "GAL":
+    name: "Gálatasshcheema"
+    slug: "galatasshcheema"
+  "EPH":
+    name: "Ipísshucheema"
+    slug: "ipisshucheema"
+  "PHP":
+    name: "Felipshucheema"
+    slug: "felipshucheema"
+  "COL":
+    name: "Kólosénshucheema"
+    slug: "kolosenshucheema"
+  "1TH":
+    name: "1 Tesalónshucheema"
+    slug: "1-tesalonshucheema"
+  "2TH":
+    name: "2 Tesalónshucheema"
+    slug: "2-tesalonshucheema"
+  "1TI":
+    name: "1 Tímoteyurineema"
+    slug: "1-timoteyurineema"
+  "2TI":
+    name: "2 Tímoteyurineema"
+    slug: "2-timoteyurineema"
+  "TIT":
+    name: "Titorineema"
+    slug: "titorineema"
+  "PHM":
+    name: "Filemónurineema"
+    slug: "filemonurineema"
+  "HEB":
+    name: "Utaáshucheema"
+    slug: "utaashucheema"
+  "JAS":
+    name: "Sandeekurini"
+    slug: "sandeekurini"
+  "1PE":
+    name: "1 Pitorurini"
+    slug: "1-pitorurini"
+  "2PE":
+    name: "2 Pitorurini"
+    slug: "2-pitorurini"
+  "1JN":
+    name: "1 Wangarini"
+    slug: "1-wangarini"
+  "2JN":
+    name: "2 Wangarini"
+    slug: "2-wangarini"
+  "3JN":
+    name: "3 Wangarini"
+    slug: "3-wangarini"
+  "JUD":
+    name: "Utaásarini"
+    slug: "utaasarini"
+  "REV":
+    name: "Apanll Ashtachu Anu"
+    slug: "apanll-ashtachu-anu"

@@ -1,0 +1,86 @@
+language: "kqc"
+books:
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Vegu"
+    slug: "vegu"
+  "ROM":
+    name: "Rome vene"
+    slug: "rome-vene"
+  "1CO":
+    name: "1 Corinth vene"
+    slug: "1-corinth-vene"
+  "2CO":
+    name: "2 Corinth vene"
+    slug: "2-corinth-vene"
+  "GAL":
+    name: "Galatia vene"
+    slug: "galatia-vene"
+  "EPH":
+    name: "Ephesus vene"
+    slug: "ephesus-vene"
+  "PHP":
+    name: "Philippi vene"
+    slug: "philippi-vene"
+  "COL":
+    name: "Colossae vene"
+    slug: "colossae-vene"
+  "1TH":
+    name: "1 Thessalonica vene"
+    slug: "1-thessalonica-vene"
+  "2TH":
+    name: "2 Thessalonica vene"
+    slug: "2-thessalonica-vene"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrew vene"
+    slug: "hebrew-vene"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Niokuna sina"
+    slug: "niokuna-sina"

@@ -1,0 +1,119 @@
+language: "tbg"
+books:
+  "GEN":
+    name: "Okara"
+    slug: "okara"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samueri"
+    slug: "1-samueri"
+  "2SA":
+    name: "2 Samueri"
+    slug: "2-samueri"
+  "1KI":
+    name: "1 King"
+    slug: "1-king"
+  "2KI":
+    name: "2 King"
+    slug: "2-king"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Estaa"
+    slug: "estaa"
+  "PSA":
+    name: "Ihi"
+    slug: "ihi"
+  "PRO":
+    name: "Uva Maara Koqera"
+    slug: "uva-maara-koqera"
+  "JER":
+    name: "Ieremaiaa"
+    slug: "ieremaiaa"
+  "JON":
+    name: "Ionaa"
+    slug: "ionaa"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maaki"
+    slug: "maaki"
+  "LUK":
+    name: "Ruki"
+    slug: "ruki"
+  "JHN":
+    name: "Ioni"
+    slug: "ioni"
+  "ACT":
+    name: "Kaiqa Varora"
+    slug: "kaiqa-varora"
+  "ROM":
+    name: "Romeni"
+    slug: "romeni"
+  "1CO":
+    name: "1 Korinti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Korinti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Karesia"
+    slug: "karesia"
+  "EPH":
+    name: "Epasaasi"
+    slug: "epasaasi"
+  "PHP":
+    name: "Piripai"
+    slug: "piripai"
+  "COL":
+    name: "Korosi"
+    slug: "korosi"
+  "1TH":
+    name: "1 Tesaronaika"
+    slug: "1-tesaronaika"
+  "2TH":
+    name: "2 Tesaronaika"
+    slug: "2-tesaronaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taiaasi"
+    slug: "taiaasi"
+  "PHM":
+    name: "Pirimoni"
+    slug: "pirimoni"
+  "HEB":
+    name: "Hiparu"
+    slug: "hiparu"
+  "JAS":
+    name: "Iemi"
+    slug: "iemi"
+  "1PE":
+    name: "1 Pitaa"
+    slug: "1-pitaa"
+  "2PE":
+    name: "2 Pitaa"
+    slug: "2-pitaa"
+  "1JN":
+    name: "1 Ioni"
+    slug: "1-ioni"
+  "2JN":
+    name: "2 Ioni"
+    slug: "2-ioni"
+  "3JN":
+    name: "3 Ioni"
+    slug: "3-ioni"
+  "JUD":
+    name: "Iuti"
+    slug: "iuti"
+  "REV":
+    name: "Qoqaiqama Kora"
+    slug: "qoqaiqama-kora"

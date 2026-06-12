@@ -1,0 +1,80 @@
+language: "haw"
+books:
+  "GEN":
+    name: "Kinohi"
+    slug: "kinohi"
+  "EXO":
+    name: "Pukaana"
+    slug: "pukaana"
+  "LEV":
+    name: "Oihanakahuna"
+    slug: "oihanakahuna"
+  "NUM":
+    name: "Na Helu"
+    slug: "na-helu"
+  "DEU":
+    name: "Kanawailua"
+    slug: "kanawailua"
+  "JOS":
+    name: "Iosua"
+    slug: "iosua"
+  "JDG":
+    name: "Lunakanawai"
+    slug: "lunakanawai"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+  "1SA":
+    name: "I. Samuela"
+    slug: "i-samuela"
+  "2SA":
+    name: "II. Samuela"
+    slug: "ii-samuela"
+  "1KI":
+    name: "I. Na Lii"
+    slug: "i-na-lii"
+  "2KI":
+    name: "II. Na Lii"
+    slug: "ii-na-lii"
+  "1CH":
+    name: "I. Oihanaalii"
+    slug: "i-oihanaalii"
+  "2CH":
+    name: "II. Oihanaalii"
+    slug: "ii-oihanaalii"
+  "EZR":
+    name: "Ezera"
+    slug: "ezera"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esetera"
+    slug: "esetera"
+  "JOB":
+    name: "Ioba"
+    slug: "ioba"
+  "PSA":
+    name: "Halelu"
+    slug: "halelu"
+  "PRO":
+    name: "Solomona"
+    slug: "solomona"
+  "ECC":
+    name: "Kekahuna"
+    slug: "kekahuna"
+  "SNG":
+    name: "Mele a Solomona"
+    slug: "mele-a-solomona"
+  "ISA":
+    name: "Isaia"
+    slug: "isaia"
+  "JER":
+    name: "Ieremia"
+    slug: "ieremia"
+  "LAM":
+    name: "Kanikau"
+    slug: "kanikau"
+  "EZK":
+    name: "Ezekiela"
+    slug: "ezekiela"

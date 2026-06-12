@@ -1,0 +1,110 @@
+language: "maf"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+    name_toc: "Matthieu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Marc"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "Luc"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "Jean"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "Actes"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+    name_toc: "Romains"
+  "1CO":
+    name: "1 Corinthians"
+    slug: "1-corinthians"
+    name_toc: "I Corinthiens"
+  "2CO":
+    name: "2 Corinthians"
+    slug: "2-corinthians"
+    name_toc: "Ii Corinthiens"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+    name_toc: "Galates"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+    name_toc: "Ephesiens"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+    name_toc: "Philippiens"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+    name_toc: "Colossiens"
+  "1TH":
+    name: "1 Thessalonians"
+    slug: "1-thessalonians"
+    name_toc: "I Thessaloniciens"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+    name_toc: "Ii Thessaloniciens"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+    name_toc: "I Timothee"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+    name_toc: "Ii Timothee"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Tite"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+    name_toc: "Philémon"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+    name_toc: "Hébreux"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+    name_toc: "Jacques"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "I Pierre"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "Ii Pierre"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+    name_toc: "I Jean"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+    name_toc: "Ii Jean"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+    name_toc: "Iii Jean"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Jude"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"
+    name_toc: "Apocalypse"

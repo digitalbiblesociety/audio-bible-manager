@@ -1,0 +1,83 @@
+language: "meq"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Yuhana"
+    slug: "yuhana"
+  "LUK":
+    name: "Yuhana"
+    slug: "yuhana"
+  "JHN":
+    name: "Yuhana"
+    slug: "yuhana"
+  "ACT":
+    name: "Məsler hay"
+    slug: "mesler-hay"
+  "ROM":
+    name: "Roma hay"
+    slug: "roma-hay"
+  "1CO":
+    name: "1 Koriŋte hay"
+    slug: "1-korinte-hay"
+  "2CO":
+    name: "2 Koriŋte hay"
+    slug: "2-korinte-hay"
+  "GAL":
+    name: "Galat hay"
+    slug: "galat-hay"
+  "EPH":
+    name: "Efez hay"
+    slug: "efez-hay"
+  "PHP":
+    name: "Kolosi hay"
+    slug: "kolosi-hay"
+  "COL":
+    name: "Kolosi hay"
+    slug: "kolosi-hay"
+  "1TH":
+    name: "1 Tesalonik hay"
+    slug: "1-tesalonik-hay"
+  "2TH":
+    name: "2 Tesalonik hay"
+    slug: "2-tesalonik-hay"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimoŋ"
+    slug: "filimon"
+  "HEB":
+    name: "Hebrœ hay"
+    slug: "hebroe-hay"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yuhana"
+    slug: "1-yuhana"
+  "2JN":
+    name: "2 Yuhana"
+    slug: "2-yuhana"
+  "3JN":
+    name: "3 Yuhana"
+    slug: "3-yuhana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Məsine i Yuhana"
+    slug: "mesine-i-yuhana"

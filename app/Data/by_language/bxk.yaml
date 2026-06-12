@@ -1,0 +1,224 @@
+language: "bxk"
+books:
+  "GEN":
+    name: "Lir."
+    slug: "lir"
+  "EXO":
+    name: "Khur."
+    slug: "khur"
+  "LEV":
+    name: "Bal."
+    slug: "bal"
+  "NUM":
+    name: "Khub."
+    slug: "khub"
+  "DEU":
+    name: "Likh."
+    slug: "likh"
+  "JOS":
+    name: "Yosh."
+    slug: "yosh"
+  "JDG":
+    name: "Bakh."
+    slug: "bakh"
+  "RUT":
+    name: "Ru."
+    slug: "ru"
+  "1SA":
+    name: "1 Sam."
+    slug: "1-sam"
+  "2SA":
+    name: "2 Sam."
+    slug: "2-sam"
+  "1KI":
+    name: "1 Bab."
+    slug: "1-bab"
+  "2KI":
+    name: "2 Bab."
+    slug: "2-bab"
+  "1CH":
+    name: "1 Ke Ch."
+    slug: "1-ke-ch"
+  "2CH":
+    name: "2 Ke Ch."
+    slug: "2-ke-ch"
+  "EZR":
+    name: "Esr."
+    slug: "esr"
+  "NEH":
+    name: "Neh."
+    slug: "neh"
+  "EST":
+    name: "Est."
+    slug: "est"
+  "JOB":
+    name: "Ayu."
+    slug: "ayu"
+  "PSA":
+    name: "Chiny."
+    slug: "chiny"
+  "PRO":
+    name: "Chis."
+    slug: "chis"
+  "ECC":
+    name: "Omwil."
+    slug: "omwil"
+  "SNG":
+    name: "Kumw."
+    slug: "kumw"
+  "ISA":
+    name: "Isa."
+    slug: "isa"
+  "JER":
+    name: "Yer."
+    slug: "yer"
+  "LAM":
+    name: "Lis."
+    slug: "lis"
+  "EZK":
+    name: "Esek."
+    slug: "esek"
+  "DAN":
+    name: "Dan."
+    slug: "dan"
+  "HOS":
+    name: "Hos."
+    slug: "hos"
+  "JOL":
+    name: "Yoe."
+    slug: "yoe"
+  "AMO":
+    name: "Amo."
+    slug: "amo"
+  "OBA":
+    name: "Obad."
+    slug: "obad"
+  "JON":
+    name: "Yon."
+    slug: "yon"
+  "MIC":
+    name: "Mik."
+    slug: "mik"
+  "NAM":
+    name: "Nau."
+    slug: "nau"
+  "HAB":
+    name: "Hab."
+    slug: "hab"
+  "ZEP":
+    name: "Sef."
+    slug: "sef"
+  "HAG":
+    name: "Hag."
+    slug: "hag"
+  "ZEC":
+    name: "Sak."
+    slug: "sak"
+  "MAL":
+    name: "Mal."
+    slug: "mal"
+  "TOB":
+    name: "Tob."
+    slug: "tob"
+  "JDT":
+    name: "Yut."
+    slug: "yut"
+  "ESG":
+    name: "Esl."
+    slug: "esl"
+  "WIS":
+    name: "Lim."
+    slug: "lim"
+  "SIR":
+    name: "Sir."
+    slug: "sir"
+  "BAR":
+    name: "Baru."
+    slug: "baru"
+  "1MA":
+    name: "1 Bam."
+    slug: "1-bam"
+  "2MA":
+    name: "2 Bam."
+    slug: "2-bam"
+  "MAT":
+    name: "Mat."
+    slug: "mat"
+  "MRK":
+    name: "Mk."
+    slug: "mk"
+  "LUK":
+    name: "Lk."
+    slug: "lk"
+  "JHN":
+    name: "Yn."
+    slug: "yn"
+  "ACT":
+    name: "Bikh."
+    slug: "bikh"
+  "ROM":
+    name: "Bar."
+    slug: "bar"
+  "1CO":
+    name: "1 Bakor."
+    slug: "1-bakor"
+  "2CO":
+    name: "2 Bakor."
+    slug: "2-bakor"
+  "GAL":
+    name: "Bakal."
+    slug: "bakal"
+  "EPH":
+    name: "Baef."
+    slug: "baef"
+  "PHP":
+    name: "Bafil."
+    slug: "bafil"
+  "COL":
+    name: "Bakol."
+    slug: "bakol"
+  "1TH":
+    name: "1 Bates."
+    slug: "1-bates"
+  "2TH":
+    name: "2 Bates."
+    slug: "2-bates"
+  "1TI":
+    name: "1 Tim."
+    slug: "1-tim"
+  "2TI":
+    name: "2 Tim."
+    slug: "2-tim"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Film."
+    slug: "film"
+  "HEB":
+    name: "Baeb."
+    slug: "baeb"
+  "JAS":
+    name: "Yak."
+    slug: "yak"
+  "1PE":
+    name: "1 Pet."
+    slug: "1-pet"
+  "2PE":
+    name: "2 Pet."
+    slug: "2-pet"
+  "1JN":
+    name: "1 Yn."
+    slug: "1-yn"
+  "2JN":
+    name: "2 Yn."
+    slug: "2-yn"
+  "3JN":
+    name: "3 Yn."
+    slug: "3-yn"
+  "JUD":
+    name: "Yudi"
+    slug: "yudi"
+  "REV":
+    name: "Lif."
+    slug: "lif"

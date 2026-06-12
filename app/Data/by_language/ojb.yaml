@@ -1,0 +1,258 @@
+language: "ojb"
+books:
+  "GEN":
+    name: "ᒉᓂᓯᔅ"
+    slug: "cenisis"
+    name_toc: "ᒉᓂᓯᔅ"
+  "EXO":
+    name: "ᐁᑭᓴᑕᔅ"
+    slug: "ekisatas"
+    name_toc: "ᐁᑭᓴᑕᔅ"
+  "LEV":
+    name: "ᓬᐃᐱᑎᑲᔅ"
+    slug: "lipitikas"
+    name_toc: "ᓬᐃᐱᑎᑲᔅ"
+  "NUM":
+    name: "ᐊᑭᑖᓱᓇᓐ"
+    slug: "akitaasonan"
+    name_toc: "ᐊᑭᑖᓱᓇᓐ"
+  "DEU":
+    name: "ᑑᑕᕒᐋᓇᒦ"
+    slug: "tootaraanamii"
+    name_toc: "ᑑᑕᕒᐋᓇᒦ"
+  "JOS":
+    name: "ᒑᔓᐙ"
+    slug: "caashowaa"
+    name_toc: "ᒑᔓᐙ"
+  "JDG":
+    name: "ᐅᓈᑯᓂᑫᒃ"
+    slug: "onaakonikek"
+    name_toc: "ᐅᓈᑯᓂᑫᒃ"
+  "RUT":
+    name: "ᐅᕒᐆᑦ"
+    slug: "oroot"
+    name_toc: "ᐅᕒᐆᑦ"
+  "1SA":
+    name: "1 ᓵᒥᔫ"
+    slug: "1-saamiyoo"
+    name_toc: "1 ᓵᒥᔫ"
+  "2SA":
+    name: "2 ᓵᒥᔫ"
+    slug: "2-saamiyoo"
+    name_toc: "2 ᓵᒥᔫ"
+  "1KI":
+    name: "1 ᑭᒋᐅᑭᒫᒃ"
+    slug: "1-kiciokimaak"
+    name_toc: "1 ᑭᒋᐅᑭᒫᒃ"
+  "2KI":
+    name: "2 ᑭᒋᐅᑭᒫᒃ"
+    slug: "2-kiciokimaak"
+    name_toc: "2 ᑭᒋᐅᑭᒫᒃ"
+  "EZR":
+    name: "ᐁᓴᕒᐊ"
+    slug: "esara"
+    name_toc: "ᐁᓴᕒᐊ"
+  "NEH":
+    name: "ᓃᔭᒫᔭ"
+    slug: "niiyamaaya"
+    name_toc: "ᓃᔭᒫᔭ"
+  "EST":
+    name: "ᐁᔅᑕᕒ"
+    slug: "estar"
+    name_toc: "ᐁᔅᑕᕒ"
+  "JOB":
+    name: "ᒎᑉ"
+    slug: "coop"
+    name_toc: "ᒎᑉ"
+  "PSA":
+    name: "ᓂᑲᒧᓇᓐ"
+    slug: "nikamonan"
+    name_toc: "ᓂᑲᒧᓇᓐ"
+  "PRO":
+    name: "ᑲᑮᑖᐎᑮᔗᐎᓇᓐ"
+    slug: "kakiitaawikiishwewinan"
+    name_toc: "ᑲᑮᑖᐎᑮᔗᐎᓇᓐ"
+  "ECC":
+    name: "ᑳᑭᑫᑖᓱᒡ"
+    slug: "kaakiketaasoc"
+    name_toc: "ᑳᑭᑫᑖᓱᒡ"
+  "SNG":
+    name: "ᔂᓬᐊᒪᓐ ᐅᓂᑲᒧᓇᓐ"
+    slug: "swaalaman-onikamonan"
+    name_toc: "ᔂᓬᐊᒪᓐ ᐅᓂᑲᒧᓇᓐ"
+  "ISA":
+    name: "ᐋᐃᓭᔭ"
+    slug: "aaiseya"
+    name_toc: "ᐋᐃᓭᔭ"
+  "JER":
+    name: "ᒉᕒᐊᒫᔭ"
+    slug: "ceramaaya"
+    name_toc: "ᒉᕒᐊᒫᔭ"
+  "LAM":
+    name: "ᒫᓀᑕᒧᐎᓐ"
+    slug: "maanetamowin"
+    name_toc: "ᒫᓀᑕᒧᐎᓐ"
+  "EZK":
+    name: "ᐄᓰᑭᔫ"
+    slug: "iisiikiyoo"
+    name_toc: "ᐄᓰᑭᔫ"
+  "DAN":
+    name: "ᑖᓂᔫ"
+    slug: "taaniyoo"
+    name_toc: "ᑖᓂᔫ"
+  "HOS":
+    name: "ᐅᓰᔭ"
+    slug: "osiiya"
+    name_toc: "ᐅᓰᔭ"
+  "JOL":
+    name: "ᒎᐌᓬ"
+    slug: "coowel"
+    name_toc: "ᒎᐌᓬ"
+  "AMO":
+    name: "ᐁᒪᔅ"
+    slug: "emas"
+    name_toc: "ᐁᒪᔅ"
+  "OBA":
+    name: "ᐆᐱᑖᔭ"
+    slug: "oopitaaya"
+    name_toc: "ᐆᐱᑖᔭ"
+  "JON":
+    name: "ᒎᓇ"
+    slug: "coona"
+    name_toc: "ᒎᓇ"
+  "MIC":
+    name: "ᒫᐃᑲ"
+    slug: "maaika"
+    name_toc: "ᒫᐃᑲ"
+  "NAM":
+    name: "ᓀᐊᒻ"
+    slug: "neam"
+    name_toc: "ᓀᐊᒻ"
+  "HAB":
+    name: "ᐋᐸᑲᒃ"
+    slug: "aapakak"
+    name_toc: "ᐋᐸᑲᒃ"
+  "ZEP":
+    name: "ᓭᐸᓈᔭ"
+    slug: "sepanaaya"
+    name_toc: "ᓭᐸᓈᔭ"
+  "HAG":
+    name: "ᐋᑫᐋᐃ"
+    slug: "aakeaai"
+    name_toc: "ᐋᑫᐋᐃ"
+  "ZEC":
+    name: "ᓭᑲᕒᐋᔭ"
+    slug: "sekaraaya"
+    name_toc: "ᓭᑲᕒᐋᔭ"
+  "MAL":
+    name: "ᒫᓬᐊᑳᐃ"
+    slug: "maalakaai"
+    name_toc: "ᒫᓬᐊᑳᐃ"
+  "MAT":
+    name: "ᒫᑎᔪ"
+    slug: "maatiyo"
+    name_toc: "ᐃᐃᐌ ᒥᓍᒋᒧᐎᓐ ᑳᐃᓈᑐᑕᕽ ᐊᐊ ᒫᑎᔪ"
+  "MRK":
+    name: "ᒫᕒᒃ"
+    slug: "maark"
+    name_toc: "ᐃᐃᐌ ᒥᓍᒋᒧᐎᓐ ᑳᐃᓈᑐᑕᕽ ᐊᐊ ᒫᕒᒃ"
+  "LUK":
+    name: "ᓬᐅᒃ"
+    slug: "lok"
+    name_toc: "ᐃᐃᐌ ᒥᓍᒋᒧᐎᓐ ᑳᐃᓈᑐᑕᕽ ᐊᐊ ᓬᐅᒃ"
+  "JHN":
+    name: "ᒞᓐ"
+    slug: "cwaan"
+    name_toc: "ᐃᐃᐌ ᒥᓍᒋᒧᐎᓐ ᐃᓇᑫ ᑳᐃᔑᑎᐹᑐᑕᕽ ᐊᐊ ᒞᓐ"
+  "ACT":
+    name: "ᐃᔑᒋᑫᐎᓇᓐ"
+    slug: "ishicikewinan"
+    name_toc: "ᐃᔑᒋᑫᐎᓇᓐ"
+  "ROM":
+    name: "ᐅᕒᐆᒪᓇᒃ"
+    slug: "oroomanak"
+    name_toc: "ᑆᓬ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐅᕒᐆᒥᕽ ᑳᑮᐊᔮᓂᒡ ᐅᑌᐺᑕᒨᐞ ᐅᕒᐆᒪᓇᒃ"
+  "1CO":
+    name: "1 ᑲᕒᐃᑎᔭᓇᒃ"
+    slug: "1-karitiyanak"
+    name_toc: "ᓂᑕᒻ ᐊᐊ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᐃ ᐅᑌᐺᑕᒨᐞ ᐃᐃᒫ ᒀᕒᐃᑎᕽ ᑳᐊᔮᓂᒡ 1 ᑲᕒᐃᑎᔭᓇᒃ"
+  "2CO":
+    name: "2 ᑲᕒᐃᑎᔭᓇᒃ"
+    slug: "2-karitiyanak"
+    name_toc: "ᓃᔣ ᐊᐊ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᐃ ᐅᑌᐺᑕᒨᐞ ᐃᐃᒫ ᒀᕒᐃᓐᑦ ᐆᑌᓈᕽ ᑳᑮᐊᔮᓂᒡ 2 ᑲᕒᐃᑎᔭᓇᒃ"
+  "GAL":
+    name: "ᑲᓬᐁᔑᔭᓇᒃ"
+    slug: "kaleshiyanak"
+    name_toc: "ᐊᐊ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ ᑲᓬᐁᔑᔭ ᐊᑮᕽ ᑳᑮᐊᔮᓂᒡ ᑲᓬᐁᔑᔭᓇᒃ"
+  "EPH":
+    name: "ᐃᐲᔑᔭᓇᒃ"
+    slug: "ipiishiyanak"
+    name_toc: "ᐊᐊ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ ᐁᐱᓴᓯᕽ ᑳᐊᔮᓂᒡ ᐃᐲᔑᔭᓇᒃ"
+  "PHP":
+    name: "ᐱᓬᐃᐱᔭᓇᒃ"
+    slug: "pilipiyanak"
+    name_toc: "ᑆᓬ ᑳᑮᐃᔑᐲᐊᒪᐙᑦ ᐅᑌᐺᑕᒨᐞ // ᐱᓬᐃᐹᐃ ᐆᑌᓈᕽ ᑳᑮᐊᔮᓂᒡ ᐱᓬᐃᐱᔭᓇᒃ"
+  "COL":
+    name: "ᑲᓬᐋᔑᔭᓇᒃ"
+    slug: "kalaashiyanak"
+    name_toc: "ᑆᓬ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ // ᑲᓬᐋᓰ ᐆᑌᓈᕽ ᑳᑮᐊᔮᓂᒡ ᑲᓬᐋᔑᔭᓇᒃ"
+  "1TH":
+    name: "1 ᑌᓴᓬᐆᓂᔭᓇᒃ"
+    slug: "1-tesalooniyanak"
+    name_toc: "ᓃᑳᓐ ᐊᐊ ᑆᓬ ᑳᑮᒫᒌᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ ᑌᓴᓬᐊᓇᐃᑳᕽ ᑳᑮᐊᔮᓂᒡ 1 ᑌᓴᓬᐆᓂᔭᓇᒃ"
+  "2TH":
+    name: "2 ᑌᓴᓬᐆᓂᔭᓇᒃ"
+    slug: "2-tesalooniyanak"
+    name_toc: "ᒦᓇᐙ ᑆᓬ ᑳᑮᒫᒌᐲᐊᒪᐙᒡ ᐃᐃ ᐅᑌᐺᑕᒨᐞ ᑌᓴᓬᐊᓇᐃᑳᕽ ᑳᑮᐊᔮᓂᒡ 2 ᑌᓴᓬᐆᓂᔭᓇᒃ"
+  "1TI":
+    name: "1 ᑎᒪᑎ"
+    slug: "1-timati"
+    name_toc: "ᓃᑳᓐ ᐊᐊ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᓂ ᑎᒪᑎᐗᓐ 1 ᑎᒪᑎ"
+  "2TI":
+    name: "2 ᑎᒪᑎ"
+    slug: "2-timati"
+    name_toc: "ᒦᓇᐙ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᓂ ᑎᒪᑎᐗᓐ 2 ᑎᒪᑎ"
+  "TIT":
+    name: "ᑕᐃᑕᔅ"
+    slug: "taitas"
+    name_toc: "ᐊᐊᐌ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᓂ ᑕᐃᑕᓴᓐ ᑕᐃᑕᔅ"
+  "PHM":
+    name: "ᐹᐃᓬᐄᒪᓐ"
+    slug: "paailiiman"
+    name_toc: "ᐊᐊᐌ ᑆᓬ ᑳᑮᐅᔑᐲᐊᒪᐙᒡ ᐃᓂ ᐹᐃᓬᐄᒪᓇᓐ ᐹᐃᓬᐄᒪᓐ"
+  "HEB":
+    name: "ᐄᐸᕒᐆᐗᒃ"
+    slug: "iiparoowak"
+    name_toc: "ᑳᑮᐃᔑᐲᐊᒪᐎᑣ ᐄᐸᕒᐆᐗᒃ ᐄᐸᕒᐆᐗᒃ"
+  "JAS":
+    name: "ᒌᒥᔅ"
+    slug: "ciimis"
+    name_toc: "ᐅᑑᔑᐲᐃᑲᓐ ᒌᒥᔅ ᒌᒥᔅ"
+  "1PE":
+    name: "1 ᐲᑕᕒ"
+    slug: "1-piitar"
+    name_toc: "ᓂᑕᒻ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ // ᒥᓯᐌ ᑳᑮᐊᔮᓂᒡ 1 ᐲᑕᕒ"
+  "2PE":
+    name: "2 ᐲᑕᕒ"
+    slug: "2-piitar"
+    name_toc: "ᐃᔥᒀᒡ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ ᒥᓯᐌ ᑳᑮᐊᔮᓂᒡ 2 ᐲᑕᕒ"
+  "1JN":
+    name: "1 ᒞᓐ"
+    slug: "1-cwaan"
+    name_toc: "ᓂᑕᒻ ᒞᓐ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐅᑕᓇᒥᐋᐞ 1 ᒞᓐ"
+  "2JN":
+    name: "2 ᒞᓐ"
+    slug: "2-cwaan"
+    name_toc: "ᒞᓐ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᐃᑴᐗᓐ 2 ᒞᓐ"
+  "3JN":
+    name: "3 ᒞᓐ"
+    slug: "3-cwaan"
+    name_toc: "ᒞᓐ ᑳᑮᐃᔑᐲᐊᒪᐙᒡ ᑫᔭᓴᓐ 3 ᒞᓐ"
+  "JUD":
+    name: "ᒎᑦ"
+    slug: "coot"
+    name_toc: "ᒎᑦ ᑳᑮᐃᔑᐱᐊᒪᐙᒡ ᐅᑌᐺᑕᒨᐞ ᒎᑦ"
+  "REV":
+    name: "ᑭᑫᑕᒨᔑᐌᐎᓐ"
+    slug: "kiketamooshiwewin"
+    name_toc: "ᒦ ᓴ ᐅᐌᓂ ᒞᓐ ᑳᑮᐃᔑᐲᐃᑫᒡ ᐋᓃᓐ ᑳᑮᐃᔑ~ᑭᑫᑕᒨᓂᑯᒡ ᒋᓴᔅ Xᑕᓐ ᑭᑫᑕᒨᔑᐌᐎᓐ"

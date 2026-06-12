@@ -1,0 +1,83 @@
+language: "gnd"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhana"
+    slug: "yuhana"
+  "ACT":
+    name: "Gà Ɓəzla Meslire"
+    slug: "ga-ezla-meslire"
+  "ROM":
+    name: "Ruma"
+    slug: "ruma"
+  "1CO":
+    name: "1 Kurintiya"
+    slug: "1-kurintiya"
+  "2CO":
+    name: "2 Kurintiya"
+    slug: "2-kurintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efesiya"
+    slug: "efesiya"
+  "PHP":
+    name: "Filipiya"
+    slug: "filipiya"
+  "COL":
+    name: "Kulusiya"
+    slug: "kulusiya"
+  "1TH":
+    name: "1 Tesalunike"
+    slug: "1-tesalunike"
+  "2TH":
+    name: "2 Tesalunike"
+    slug: "2-tesalunike"
+  "1TI":
+    name: "1 Timute"
+    slug: "1-timute"
+  "2TI":
+    name: "2 Timute"
+    slug: "2-timute"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimun"
+    slug: "filimun"
+  "HEB":
+    name: "Ibəranikwa"
+    slug: "iberanikwa"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yuhana"
+    slug: "1-yuhana"
+  "2JN":
+    name: "2 Yuhana"
+    slug: "2-yuhana"
+  "3JN":
+    name: "3 Yuhana"
+    slug: "3-yuhana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Sunwa Yuhana"
+    slug: "sunwa-yuhana"

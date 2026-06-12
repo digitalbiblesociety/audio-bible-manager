@@ -1,0 +1,227 @@
+language: "dag"
+books:
+  "GEN":
+    name: "Piligu"
+    slug: "piligu"
+  "EXO":
+    name: "Yibu"
+    slug: "yibu"
+  "LEV":
+    name: "Lɛvinima"
+    slug: "lvinima"
+  "NUM":
+    name: "Kalinlinima"
+    slug: "kalinlinima"
+  "DEU":
+    name: "Zaligu"
+    slug: "zaligu"
+  "JOS":
+    name: "Jɔshua"
+    slug: "jshua"
+  "JDG":
+    name: "Zuɣulaannima"
+    slug: "zuulaannima"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuɛl"
+    slug: "1-samul"
+  "2SA":
+    name: "2 Samuɛl"
+    slug: "2-samul"
+  "1KI":
+    name: "1 Nanima"
+    slug: "1-nanima"
+  "2KI":
+    name: "2 Nanima"
+    slug: "2-nanima"
+  "1CH":
+    name: "1 Yɛlikura"
+    slug: "1-ylikura"
+  "2CH":
+    name: "2 Yɛlikura"
+    slug: "2-ylikura"
+  "EZR":
+    name: "Ɛzra"
+    slug: "zra"
+  "NEH":
+    name: "Nɛhimia"
+    slug: "nhimia"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+  "JOB":
+    name: "Ayuba"
+    slug: "ayuba"
+  "PSA":
+    name: "Yila"
+    slug: "yila"
+  "PRO":
+    name: "Ŋaha"
+    slug: "aha"
+  "ECC":
+    name: "Waazuyihira"
+    slug: "waazuyihira"
+  "SNG":
+    name: "Sulemaana Yila"
+    slug: "sulemaana-yila"
+  "ISA":
+    name: "Aizaia"
+    slug: "aizaia"
+  "JER":
+    name: "Jɛrimia"
+    slug: "jrimia"
+  "LAM":
+    name: "Fabilanima"
+    slug: "fabilanima"
+  "EZK":
+    name: "Ɛzɛkiɛl"
+    slug: "zkil"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+  "HOS":
+    name: "Hozia"
+    slug: "hozia"
+  "JOL":
+    name: "Joɛl"
+    slug: "jol"
+  "AMO":
+    name: "Amɔs"
+    slug: "ams"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zɛfania"
+    slug: "zfania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tɔbiti"
+    slug: "tbiti"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Ɛsta Gk"
+    slug: "sta-gk"
+  "WIS":
+    name: "Sul Yɛm"
+    slug: "sul-ym"
+  "SIR":
+    name: "Siraki"
+    slug: "siraki"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "DAG":
+    name: "Dan"
+    slug: "dan"
+  "1MA":
+    name: "1 Makabiis"
+    slug: "1-makabiis"
+  "2MA":
+    name: "2 Makabiis"
+    slug: "2-makabiis"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+  "ACT":
+    name: "Tuma"
+    slug: "tuma"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Kɔrintinima"
+    slug: "1-krintinima"
+  "2CO":
+    name: "2 Kɔrintinima"
+    slug: "2-krintinima"
+  "GAL":
+    name: "Galɛshianima"
+    slug: "galshianima"
+  "EPH":
+    name: "Ɛfɛsusnima"
+    slug: "fsusnima"
+  "PHP":
+    name: "Filipainima"
+    slug: "filipainima"
+  "COL":
+    name: "Kolɔsinima"
+    slug: "kolsinima"
+  "1TH":
+    name: "1 Tɛsalɔnikanima"
+    slug: "1-tsalnikanima"
+  "2TH":
+    name: "2 Tɛsalɔnikanima"
+    slug: "2-tsalnikanima"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Failimɔn"
+    slug: "failimn"
+  "HEB":
+    name: "Hiburunima"
+    slug: "hiburunima"
+  "JAS":
+    name: "Jeemsi"
+    slug: "jeemsi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Kahigibu"
+    slug: "kahigibu"

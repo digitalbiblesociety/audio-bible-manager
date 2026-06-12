@@ -1,0 +1,266 @@
+language: "npi"
+books:
+  "GEN":
+    name: "उत्‍पत्ति"
+    slug: "utpatti"
+    name_toc: "उत्‍पत्ति"
+  "EXO":
+    name: "प्रस्‍थान"
+    slug: "prasthana"
+    name_toc: "प्रस्‍थान"
+  "LEV":
+    name: "लेवी"
+    slug: "levi"
+    name_toc: "लेवी"
+  "NUM":
+    name: "गन्ती"
+    slug: "ganti"
+    name_toc: "गन्ती"
+  "DEU":
+    name: "व्यवस्था"
+    slug: "vyavastha"
+    name_toc: "व्यवस्था"
+  "JOS":
+    name: "यहोशू"
+    slug: "yahosu"
+    name_toc: "यहोशू"
+  "JDG":
+    name: "न्यायकर्ता"
+    slug: "nyayakarta"
+    name_toc: "न्यायकर्ता"
+  "RUT":
+    name: "रूथ"
+    slug: "rutha"
+    name_toc: "रूथ"
+  "1SA":
+    name: "१ शमूएल"
+    slug: "1-samuela"
+    name_toc: "१ शमूएल"
+  "2SA":
+    name: "२ शमूएल"
+    slug: "2-samuela"
+    name_toc: "२ शमूएल"
+  "1KI":
+    name: "१ राजा"
+    slug: "1-raja"
+    name_toc: "१ राजा"
+  "2KI":
+    name: "२ राजा"
+    slug: "2-raja"
+    name_toc: "२ राजा"
+  "1CH":
+    name: "१ इतिहास"
+    slug: "1-itihasa"
+    name_toc: "१ इतिहास"
+  "2CH":
+    name: "२ इतिहास"
+    slug: "2-itihasa"
+    name_toc: "२ इतिहास"
+  "EZR":
+    name: "एज्रा"
+    slug: "ejra"
+    name_toc: "एज्रा"
+  "NEH":
+    name: "नहेम्‍याह"
+    slug: "nahemyaha"
+    name_toc: "नहेम्‍याह"
+  "EST":
+    name: "एस्‍तर"
+    slug: "estara"
+    name_toc: "एस्‍तर"
+  "JOB":
+    name: "अय्‍यूब"
+    slug: "ayyuba"
+    name_toc: "अय्‍यूब"
+  "PSA":
+    name: "भजनसंग्रह"
+    slug: "bhajanasamgraha"
+    name_toc: "भजनसंग्रह"
+  "PRO":
+    name: "हितोपदेश"
+    slug: "hitopadesa"
+    name_toc: "हितोपदेश"
+  "ECC":
+    name: "उपदेशक"
+    slug: "upadesaka"
+    name_toc: "उपदेशक"
+  "SNG":
+    name: "श्रेष्‍ठगीत"
+    slug: "sresthagita"
+    name_toc: "श्रेष्‍ठगीत"
+  "ISA":
+    name: "यशैया"
+    slug: "yasaiya"
+    name_toc: "यशैया"
+  "JER":
+    name: "यर्मिया"
+    slug: "yarmiya"
+    name_toc: "यर्मिया"
+  "LAM":
+    name: "विलाप"
+    slug: "vilapa"
+    name_toc: "विलाप"
+  "EZK":
+    name: "इजकिएल"
+    slug: "ijakiela"
+    name_toc: "इजकिएल"
+  "DAN":
+    name: "दानिएल"
+    slug: "daniela"
+    name_toc: "दानिएल"
+  "HOS":
+    name: "होशे"
+    slug: "hose"
+    name_toc: "होशे"
+  "JOL":
+    name: "योएल"
+    slug: "yoela"
+    name_toc: "योएल"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+    name_toc: "आमोस"
+  "OBA":
+    name: "ओबदिया"
+    slug: "obadiya"
+    name_toc: "ओबदिया"
+  "JON":
+    name: "योना"
+    slug: "yona"
+    name_toc: "योना"
+  "MIC":
+    name: "मीका"
+    slug: "mika"
+    name_toc: "मीका"
+  "NAM":
+    name: "नहूम"
+    slug: "nahuma"
+    name_toc: "नहूम"
+  "HAB":
+    name: "हबकूक"
+    slug: "habakuka"
+    name_toc: "हबकूक"
+  "ZEP":
+    name: "सपन्‍याह"
+    slug: "sapanyaha"
+    name_toc: "सपन्‍याह"
+  "HAG":
+    name: "हाग्‍गै"
+    slug: "haggai"
+    name_toc: "हाग्‍गै"
+  "ZEC":
+    name: "जकरिया"
+    slug: "jakariya"
+    name_toc: "जकरिया"
+  "MAL":
+    name: "मलाकी"
+    slug: "malaki"
+    name_toc: "मलाकी"
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्ती"
+  "MRK":
+    name: "मर्कूस"
+    slug: "markusa"
+    name_toc: "मर्कूस"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "लूका"
+  "JHN":
+    name: "यूहन्‍ना"
+    slug: "yuhanna"
+    name_toc: "यूहन्‍ना"
+  "ACT":
+    name: "प्रेरित"
+    slug: "prerita"
+    name_toc: "प्रेरित"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+    name_toc: "रोमी"
+  "1CO":
+    name: "१ कोरिन्थी"
+    slug: "1-korinthi"
+    name_toc: "१ कोरिन्थी"
+  "2CO":
+    name: "२ कोरिन्थी"
+    slug: "2-korinthi"
+    name_toc: "२ कोरिन्थी"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+    name_toc: "गलाती"
+  "EPH":
+    name: "एफिसी"
+    slug: "ephisi"
+    name_toc: "एफिसी"
+  "PHP":
+    name: "फिलिप्पी"
+    slug: "philippi"
+    name_toc: "फिलिप्पी"
+  "COL":
+    name: "कलस्सी"
+    slug: "kalassi"
+    name_toc: "कलस्सी"
+  "1TH":
+    name: "१ थेसलोनिकी"
+    slug: "1-thesaloniki"
+    name_toc: "१ थेसलोनिकी"
+  "2TH":
+    name: "२ थेसलोनिकी"
+    slug: "2-thesaloniki"
+    name_toc: "२ थेसलोनिकी"
+  "1TI":
+    name: "१ तिमोथी"
+    slug: "1-timothi"
+    name_toc: "१ तिमोथी"
+  "2TI":
+    name: "२ तिमोथी"
+    slug: "2-timothi"
+    name_toc: "२ तिमोथी"
+  "TIT":
+    name: "तीतस"
+    slug: "titasa"
+    name_toc: "तीतस"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "फिलेमोन"
+  "HEB":
+    name: "हिब्रू"
+    slug: "hibru"
+    name_toc: "हिब्रू"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "याकूब"
+  "1PE":
+    name: "१ पत्रुस"
+    slug: "1-patrusa"
+    name_toc: "१ पत्रुस"
+  "2PE":
+    name: "२ पत्रुस"
+    slug: "2-patrusa"
+    name_toc: "२ पत्रुस"
+  "1JN":
+    name: "१ यूहन्‍ना"
+    slug: "1-yuhanna"
+    name_toc: "१ यूहन्‍ना"
+  "2JN":
+    name: "२ यूहन्‍ना"
+    slug: "2-yuhanna"
+    name_toc: "२ यूहन्‍ना"
+  "3JN":
+    name: "३ यूहन्‍ना"
+    slug: "3-yuhanna"
+    name_toc: "३ यूहन्‍ना"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदा"
+  "REV":
+    name: "प्रकाश"
+    slug: "prakasa"
+    name_toc: "प्रकाश"

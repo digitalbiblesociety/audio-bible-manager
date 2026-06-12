@@ -1,0 +1,161 @@
+language: "vid"
+books:
+  "GEN":
+    name: "Mwaluko"
+    slug: "mwaluko"
+  "EXO":
+    name: "Kulawa"
+    slug: "kulawa"
+  "LEV":
+    name: "Walawi"
+    slug: "walawi"
+  "NUM":
+    name: "Hisabu"
+    slug: "hisabu"
+  "DEU":
+    name: "Kukumbuchila"
+    slug: "kukumbuchila"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+  "JDG":
+    name: "Watagusa"
+    slug: "watagusa"
+  "RUT":
+    name: "Luti"
+    slug: "luti"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+  "1KI":
+    name: "1 Wandewa"
+    slug: "1-wandewa"
+  "2KI":
+    name: "2 Wandewa"
+    slug: "2-wandewa"
+  "PSA":
+    name: "Zabuli"
+    slug: "zabuli"
+  "PRO":
+    name: "Nhelo"
+    slug: "nhelo"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+  "ZEP":
+    name: "Sefaniya"
+    slug: "sefaniya"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+  "ZEC":
+    name: "Sekaliya"
+    slug: "sekaliya"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Matei"
+    slug: "matei"
+  "MRK":
+    name: "Malichi"
+    slug: "malichi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Madito"
+    slug: "madito"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinto"
+    slug: "1-kolinto"
+  "2CO":
+    name: "2 Kolinto"
+    slug: "2-kolinto"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+  "1TI":
+    name: "1 Timoteyi"
+    slug: "1-timoteyi"
+  "2TI":
+    name: "2 Timoteyi"
+    slug: "2-timoteyi"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimeni"
+    slug: "filimeni"
+  "HEB":
+    name: "Waebulaniya"
+    slug: "waebulaniya"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Petili"
+    slug: "1-petili"
+  "2PE":
+    name: "2 Petili"
+    slug: "2-petili"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ugubulo"
+    slug: "ugubulo"

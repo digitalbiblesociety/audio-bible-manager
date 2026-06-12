@@ -1,0 +1,83 @@
+language: "ttq"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luqa"
+    slug: "luqa"
+  "JHN":
+    name: "Yaxya"
+    slug: "yaxya"
+  "ACT":
+    name: "Igitan ǝn Nǝmmuzal"
+    slug: "igitan-n-nmmuzal"
+  "ROM":
+    name: "Kǝl-Ǝrrum"
+    slug: "kl-rrum"
+  "1CO":
+    name: "1 Kǝl-Korent"
+    slug: "1-kl-korent"
+  "2CO":
+    name: "2 Kǝl-Korent"
+    slug: "2-kl-korent"
+  "GAL":
+    name: "Kǝl-Galatǝya"
+    slug: "kl-galatya"
+  "EPH":
+    name: "Kǝl-Efez"
+    slug: "kl-efez"
+  "PHP":
+    name: "Kǝl-Filib"
+    slug: "kl-filib"
+  "COL":
+    name: "Kǝl-Kolosǝya"
+    slug: "kl-kolosya"
+  "1TH":
+    name: "1 Kǝl-Tesalonik"
+    slug: "1-kl-tesalonik"
+  "2TH":
+    name: "2 Kǝl-Tesalonik"
+    slug: "2-kl-tesalonik"
+  "1TI":
+    name: "1 Timotay"
+    slug: "1-timotay"
+  "2TI":
+    name: "2 Timotay"
+    slug: "2-timotay"
+  "TIT":
+    name: "Titǝs"
+    slug: "tits"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+  "HEB":
+    name: "Kǝl-Ɣibri"
+    slug: "kl-ibri"
+  "JAS":
+    name: "Yaqub"
+    slug: "yaqub"
+  "1PE":
+    name: "1 Butros"
+    slug: "1-butros"
+  "2PE":
+    name: "2 Butros"
+    slug: "2-butros"
+  "1JN":
+    name: "1 Yaxya"
+    slug: "1-yaxya"
+  "2JN":
+    name: "2 Yaxya"
+    slug: "2-yaxya"
+  "3JN":
+    name: "3 Yaxya"
+    slug: "3-yaxya"
+  "JUD":
+    name: "Yuday"
+    slug: "yuday"
+  "REV":
+    name: "Ǝlkǝttab wa n Ǝnǝfilal"
+    slug: "lkttab-wa-n-nfilal"

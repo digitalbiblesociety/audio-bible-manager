@@ -1,0 +1,95 @@
+language: "kbo"
+books:
+  "GEN":
+    name: "Íꞌdóngárá"
+    slug: "idongara"
+  "EXO":
+    name: "Wụ̃ngárá"
+    slug: "wungara"
+  "RUT":
+    name: "Rụ́tã"
+    slug: "ruta"
+  "JON":
+    name: "Yónã"
+    slug: "yona"
+  "MAT":
+    name: "Mãtáyo"
+    slug: "matayo"
+  "MRK":
+    name: "Mãrákõ"
+    slug: "marako"
+  "LUK":
+    name: "Lúkã"
+    slug: "luka"
+  "JHN":
+    name: "Yũwánĩ"
+    slug: "yuwani"
+  "ACT":
+    name: "Ẹ̃zị́"
+    slug: "ezi"
+  "ROM":
+    name: "Rómã"
+    slug: "roma"
+  "1CO":
+    name: "1 Kõrínítõ"
+    slug: "1-korinito"
+  "2CO":
+    name: "2 Kõrínítõ"
+    slug: "2-korinito"
+  "GAL":
+    name: "Gãlãtị́yã"
+    slug: "galatiya"
+  "EPH":
+    name: "Ẽfésõ"
+    slug: "efeso"
+  "PHP":
+    name: "Pị̃lị̃pọ́yị̃"
+    slug: "pilipoyi"
+  "COL":
+    name: "Kõlõsáyĩ"
+    slug: "kolosayi"
+  "1TH":
+    name: "1 Tẽsãlõníkẽ"
+    slug: "1-tesalonike"
+  "2TH":
+    name: "2 Tẽsãlõníkẽ"
+    slug: "2-tesalonike"
+  "1TI":
+    name: "1 Tĩmõtéyõ"
+    slug: "1-timoteyo"
+  "2TI":
+    name: "2 Tĩmõtéyõ"
+    slug: "2-timoteyo"
+  "TIT":
+    name: "Tị́tọ̃"
+    slug: "tito"
+  "PHM":
+    name: "Fĩlĩmónã"
+    slug: "filimona"
+  "HEB":
+    name: "Ẽbérẽ"
+    slug: "ebere"
+  "JAS":
+    name: "Yõkóbũ"
+    slug: "yokobu"
+  "1PE":
+    name: "1 Pétẽró"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pétẽró"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yũwánĩ"
+    slug: "1-yuwani"
+  "2JN":
+    name: "2 Yũwánĩ"
+    slug: "2-yuwani"
+  "3JN":
+    name: "3 Yũwánĩ"
+    slug: "3-yuwani"
+  "JUD":
+    name: "Yụ́dã"
+    slug: "yuda"
+  "REV":
+    name: "Iꞌdangárá"
+    slug: "idangara"

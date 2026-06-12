@@ -1,0 +1,83 @@
+language: "kur"
+books:
+  "MAT":
+    name: "Мәтта"
+    slug: "mtta"
+  "MRK":
+    name: "Марqос"
+    slug: "marqos"
+  "LUK":
+    name: "Луqа"
+    slug: "luqa"
+  "JHN":
+    name: "Йуһ’әнна"
+    slug: "juhnna"
+  "ACT":
+    name: "К’аред Шандийа"
+    slug: "kared-sandija"
+  "ROM":
+    name: "Р’омайи"
+    slug: "romaji"
+  "1CO":
+    name: "Корьнт’и I"
+    slug: "kornti-i"
+  "2CO":
+    name: "Корьнт’и II"
+    slug: "kornti-ii"
+  "GAL":
+    name: "Галати"
+    slug: "galati"
+  "EPH":
+    name: "Әфәси"
+    slug: "fsi"
+  "PHP":
+    name: "Филипи"
+    slug: "filipi"
+  "COL":
+    name: "Колоси"
+    slug: "kolosi"
+  "1TH":
+    name: "Т’есалоники I"
+    slug: "tesaloniki-i"
+  "2TH":
+    name: "Т’есалоники II"
+    slug: "tesaloniki-ii"
+  "1TI":
+    name: "Тимот’ейо I"
+    slug: "timotejo-i"
+  "2TI":
+    name: "Тимот’ейо II"
+    slug: "timotejo-ii"
+  "TIT":
+    name: "Тито"
+    slug: "tito"
+  "PHM":
+    name: "Фьлимон"
+    slug: "flimon"
+  "HEB":
+    name: "Ибрани"
+    slug: "ibrani"
+  "JAS":
+    name: "Аqуб"
+    slug: "aqub"
+  "1PE":
+    name: "Пәтрус I"
+    slug: "ptrus-i"
+  "2PE":
+    name: "Пәтрус II"
+    slug: "ptrus-ii"
+  "1JN":
+    name: "Йуһ’әнна I"
+    slug: "juhnna-i"
+  "2JN":
+    name: "Йуһ’әнна II"
+    slug: "juhnna-ii"
+  "3JN":
+    name: "Йуһ’әнна III"
+    slug: "juhnna-iii"
+  "JUD":
+    name: "Щьһуда"
+    slug: "shuda"
+  "REV":
+    name: "Ә’йанти"
+    slug: "janti"

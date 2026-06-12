@@ -1,0 +1,14 @@
+language: "idc"
+books:
+  "MAT":
+    name: "IMatta"
+    slug: "imatta"
+  "MRK":
+    name: "IMarkus"
+    slug: "imarkus"
+  "LUK":
+    name: "ILuka"
+    slug: "iluka"
+  "JHN":
+    name: "IYahaya"
+    slug: "iyahaya"

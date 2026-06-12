@@ -1,0 +1,110 @@
+language: "kzf"
+books:
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Kareba Belo To Nitulisi Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Kareba Belo To Nitulisi Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Kareba Belo To Nitulisi Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Kareba Belo To Nitulisi Yohanes"
+  "ACT":
+    name: "Suro-suro"
+    slug: "suro-suro"
+    name_toc: "Tuntu Powia Nu Suro-suro I Pue Yesus"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Sura Paulus Ka Topomparasaya Ri Ngata Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Sura Paulus Pamulana Ka Topomparasaya Ri Ngata Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Sura Paulus Karongganina Ka Topomparasaya Ri Ngata Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Sura Paulus Ka Topomparasaya Ri Galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Sura Paulus Ka Topomparasaya Ri Ngata Efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Sura Paulus Ka Topomparasaya Ri Ngata Filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Sura Paulus Ka Topomparasaya Ri Ngata Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Sura Paulus Pamulana Ka Topomparasaya Ri Ngata Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Sura Paulus Karongganina Ka Topomparasaya Ri Ngata Tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Sura Paulus Pamulana Ka Timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Sura Paulus Karongganina Ka Timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Sura Paulus Ka Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Sura Paulus Ka Filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Sura Ka Topomparasaya To Ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Sura Nggari Ja'i Yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Sura Pamulana Nggari Ja'i Petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Sura Karongganina Nggari Ja'i Petrus"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Sura Pamulana Nggari Ja'i Yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Sura Karongganina Nggari Ja'i Yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Sura Katolungganina Nggari Ja'i Yohanes"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Sura Nggari Ja'i Yudas"
+  "REV":
+    name: "Panggita"
+    slug: "panggita"
+    name_toc: "Panggita To Nipopokita Yesus Kristus Ka Yohanes"

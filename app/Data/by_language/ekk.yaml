@@ -1,0 +1,83 @@
+language: "ekk"
+books:
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Apostlite"
+    slug: "apostlite"
+  "ROM":
+    name: "Roomlased"
+    slug: "roomlased"
+  "1CO":
+    name: "1. Korintlastele"
+    slug: "1-korintlastele"
+  "2CO":
+    name: "2. Korintlastele"
+    slug: "2-korintlastele"
+  "GAL":
+    name: "Galaatlastele"
+    slug: "galaatlastele"
+  "EPH":
+    name: "Efeslastele"
+    slug: "efeslastele"
+  "PHP":
+    name: "Filiplastele"
+    slug: "filiplastele"
+  "COL":
+    name: "Koloslastele"
+    slug: "koloslastele"
+  "1TH":
+    name: "1. Tessalooniklastele"
+    slug: "1-tessalooniklastele"
+  "2TH":
+    name: "2. Tessalooniklastele"
+    slug: "2-tessalooniklastele"
+  "1TI":
+    name: "1. Timoteosele"
+    slug: "1-timoteosele"
+  "2TI":
+    name: "2. Timoteosele"
+    slug: "2-timoteosele"
+  "TIT":
+    name: "Tiitusele"
+    slug: "tiitusele"
+  "PHM":
+    name: "Fileemonile"
+    slug: "fileemonile"
+  "HEB":
+    name: "Heebrealastele"
+    slug: "heebrealastele"
+  "JAS":
+    name: "Jaakobuse"
+    slug: "jaakobuse"
+  "1PE":
+    name: "1. Peetruse"
+    slug: "1-peetruse"
+  "2PE":
+    name: "2. Peetruse"
+    slug: "2-peetruse"
+  "1JN":
+    name: "1. Johannese"
+    slug: "1-johannese"
+  "2JN":
+    name: "2. Johannese"
+    slug: "2-johannese"
+  "3JN":
+    name: "3. Johannese"
+    slug: "3-johannese"
+  "JUD":
+    name: "Juuda"
+    slug: "juuda"
+  "REV":
+    name: "Ilmutus"
+    slug: "ilmutus"

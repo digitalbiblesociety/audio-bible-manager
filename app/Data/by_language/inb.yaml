@@ -1,0 +1,83 @@
+language: "inb"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Korintopi"
+    slug: "1-korintopi"
+  "2CO":
+    name: "2 Korintopi"
+    slug: "2-korintopi"
+  "GAL":
+    name: "Galasiapi Cristowa Tukuskakunata"
+    slug: "galasiapi-cristowa-tukuskakunata"
+  "EPH":
+    name: "Efesopi Cristowa Tukuskakunata"
+    slug: "efesopi-cristowa-tukuskakunata"
+  "PHP":
+    name: "Filipospi Cristowa Tukuskakunata"
+    slug: "filipospi-cristowa-tukuskakunata"
+  "COL":
+    name: "Kolosaspi Cristowa Tukuskakunata"
+    slug: "kolosaspi-cristowa-tukuskakunata"
+  "1TH":
+    name: "1 Tesalonikapi Cristowa Tukuskakunata"
+    slug: "1-tesalonikapi-cristowa-tukuskakunata"
+  "2TH":
+    name: "2 Tesalonikapi Cristowa Tukuskakunata"
+    slug: "2-tesalonikapi-cristowa-tukuskakunata"
+  "1TI":
+    name: "1 Timoteota"
+    slug: "1-timoteota"
+  "2TI":
+    name: "2 Timoteota"
+    slug: "2-timoteota"
+  "TIT":
+    name: "Titota"
+    slug: "titota"
+  "PHM":
+    name: "Filemonta"
+    slug: "filemonta"
+  "HEB":
+    name: "Hebreokunata"
+    slug: "hebreokunata"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 San Pedro"
+    slug: "1-san-pedro"
+  "2PE":
+    name: "2 San Pedro"
+    slug: "2-san-pedro"
+  "1JN":
+    name: "1 San Juan"
+    slug: "1-san-juan"
+  "2JN":
+    name: "2 San Juan"
+    slug: "2-san-juan"
+  "3JN":
+    name: "3 San Juan"
+    slug: "3-san-juan"
+  "JUD":
+    name: "San Judas"
+    slug: "san-judas"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

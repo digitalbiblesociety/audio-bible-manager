@@ -1,0 +1,266 @@
+language: "sgw"
+books:
+  "GEN":
+    name: "ፍጥ."
+    slug: "fet"
+    name_toc: "ၵျၢမ်း/ဢၼ်/ႁေႃး/တြႃး/"
+  "EXO":
+    name: "ዘፃት"
+    slug: "zadat"
+    name_toc: "ယေႃးသု/"
+  "LEV":
+    name: "ሌዊ"
+    slug: "lewi"
+    name_toc: "ၸီႇယၢင်ႇ/တြႃး/"
+  "NUM":
+    name: "ዝር"
+    slug: "zer"
+    name_toc: "ရုထႃႉ/"
+  "DEU":
+    name: "ዘዳ."
+    slug: "zada"
+    name_toc: "ၼိုင်ႈ/သမူၺ်ႇလႃႉ/"
+  "JOS":
+    name: "ኢያሱ"
+    slug: "iyasu"
+    name_toc: "သွင်/သမူၺ်ႇလႃႉ/"
+  "JDG":
+    name: "መሳ."
+    slug: "masa"
+    name_toc: "ၼိုင်ႈ/ၶုၼ်/ႁေႃၶမ်း/"
+  "RUT":
+    name: "ሩት"
+    slug: "rut"
+    name_toc: "သွင်/ၶုၼ်/ႁေႃၶမ်း/"
+  "1SA":
+    name: "1ነ ሳሙ."
+    slug: "1na-samu"
+    name_toc: "ၼိုင်ႈ/ရႃႇၸဝၢင်ႇ/ၶျုၵ်ႈ/"
+  "2SA":
+    name: "2ነ ሳሙ."
+    slug: "2na-samu"
+    name_toc: "သွင်/ရႃႇၸဝၢင်ႇ/ၶျုၵ်ႈ/"
+  "1KI":
+    name: "1ነ ነገ."
+    slug: "1na-naga"
+    name_toc: "ဢေးၸရႃႇ/"
+  "2KI":
+    name: "2ነ ነገ."
+    slug: "2na-naga"
+    name_toc: "ၼေႇႁမိ/"
+  "1CH":
+    name: "1ነ ዜና"
+    slug: "1na-zena"
+    name_toc: "ဢေးသတႃႇ/"
+  "2CH":
+    name: "2ነ ዜና"
+    slug: "2na-zena"
+    name_toc: "ယေႃးၽႃႉ/"
+  "EZR":
+    name: "እዝራ"
+    slug: "ezera"
+    name_toc: "ၵျၢမ်း/သႃႇလၢမ်ႇ/"
+  "NEH":
+    name: "ነኽ"
+    slug: "nax"
+    name_toc: "ၵျၢမ်း/သုၵ်ႉ/တၢမ်ႇ/"
+  "EST":
+    name: "አስ"
+    slug: "as"
+    name_toc: "တေႇသၼႃႇ/"
+  "JOB":
+    name: "ኢዮብ"
+    slug: "iyob"
+    name_toc: "သေႃးလမုၼ်ႇ/"
+  "PSA":
+    name: "ዝምራ"
+    slug: "zemera"
+    name_toc: "ဢိသႃႇယႃႉ/"
+  "PRO":
+    name: "ወማ"
+    slug: "wama"
+    name_toc: "ယေႇရမိ/"
+  "ECC":
+    name: "ሰባ"
+    slug: "saba"
+    name_toc: "ပွင်ႉ/ၶၢင်း/"
+  "SNG":
+    name: "መጣፍ ተዝምራ ዝም"
+    slug: "mataf-tazemera-zem"
+    name_toc: "ယေႇၸၵျေႇလႃႉ/"
+  "ISA":
+    name: "ኢሳ"
+    slug: "isa"
+    name_toc: "တၢၼ်ႇယေႇလႃႉ/"
+  "JER":
+    name: "ኤር"
+    slug: "er"
+    name_toc: "ႁူဝ်းသေႇ/"
+  "LAM":
+    name: "ኤርብ"
+    slug: "ereb"
+    name_toc: "ယူဝ်းဢေႇလႃႉ/"
+  "EZK":
+    name: "ኽዝ"
+    slug: "xez"
+    name_toc: "ဢႃႇမူတ်ႉ/"
+  "DAN":
+    name: "ዳን"
+    slug: "dan"
+    name_toc: "ဢေႃးပတိ/"
+  "HOS":
+    name: "ኾሴ"
+    slug: "xose"
+    name_toc: "ယူဝ်းၼႃႉ/"
+  "JOL":
+    name: "ኢዩ"
+    slug: "iyu"
+    name_toc: "မိၶႃႇ/"
+  "AMO":
+    name: "አሞፅ"
+    slug: "amod"
+    name_toc: "ၼႃႇႁုမ်ႇ/"
+  "OBA":
+    name: "አብ"
+    slug: "ab"
+    name_toc: "ႁပၵ်ႉၵုၵ်ႉ/"
+  "JON":
+    name: "ዮናስ"
+    slug: "yonas"
+    name_toc: "ၸေႇၽၼိ/"
+  "MIC":
+    name: "ሚክ"
+    slug: "mik"
+    name_toc: "ႁၵ်ႉၵႄး/"
+  "NAM":
+    name: "ናኾም"
+    slug: "naxom"
+    name_toc: "ၸႃႇၶရိ/"
+  "HAB":
+    name: "እን"
+    slug: "en"
+    name_toc: "မႃႇလၶိ/"
+  "ZEP":
+    name: "ሶፎ"
+    slug: "sofo"
+    name_toc: "မတ်ႈထႄႇ/"
+  "HAG":
+    name: "ኻጌ"
+    slug: "xage"
+    name_toc: "မႃႇ​ၵု/"
+  "ZEC":
+    name: "ዘካ"
+    slug: "zaka"
+    name_toc: "လု​ၵႃႇ/"
+  "MAL":
+    name: "ሚል"
+    slug: "mil"
+    name_toc: "ယူဝ်းႁၢၼ်ႇ/"
+  "MAT":
+    name: "ማቴ."
+    slug: "mate"
+    name_toc: "တမၢၼ်ႇ/ၸဝ်ႈ/"
+  "MRK":
+    name: "ማር."
+    slug: "mar"
+    name_toc: "ရူဝ်းမႃႉ/"
+  "LUK":
+    name: "ሉቃ."
+    slug: "luqa"
+    name_toc: "1 ၵေႃးရိၼ်ႇထု/"
+  "JHN":
+    name: "ዮኻ."
+    slug: "yoxa"
+    name_toc: "2 ၵေႃးရိၼ်ႇထု/"
+  "ACT":
+    name: "ና. ሜና."
+    slug: "na-mena"
+    name_toc: "ၵလႃႇတိ/"
+  "ROM":
+    name: "ሮሜ"
+    slug: "rome"
+    name_toc: "ဢေးၽႅတ်ႈ/"
+  "1CO":
+    name: "1ነ ቆሮ."
+    slug: "1na-qoro"
+    name_toc: "ၽိလိပ်ႉပိ/"
+  "2CO":
+    name: "2ነ ቆሮ."
+    slug: "2na-qoro"
+    name_toc: "ၵေႃးလေႃးသေး/"
+  "GAL":
+    name: "ገላ"
+    slug: "gala"
+    name_toc: "1 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ/"
+  "EPH":
+    name: "ኤፌ"
+    slug: "efe"
+    name_toc: "2 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ/"
+  "PHP":
+    name: "ፊል"
+    slug: "fil"
+    name_toc: "1 တိမေႃးသေႇ/"
+  "COL":
+    name: "ቆላ"
+    slug: "qola"
+    name_toc: "2 တိမေႃးသေႇ/"
+  "1TH":
+    name: "1ነ ተሰ"
+    slug: "1na-tasa"
+    name_toc: "တိတု/"
+  "2TH":
+    name: "2ነ ተሰ"
+    slug: "2na-tasa"
+    name_toc: "ၽိလေႇမုၼ်ႇ/"
+  "1TI":
+    name: "1ነ ጢሞ"
+    slug: "1na-timo"
+    name_toc: "ႁေႇပြႄး/"
+  "2TI":
+    name: "2ነ ጢሞ"
+    slug: "2na-timo"
+    name_toc: "ယႃႇၵုပ်ႈ/"
+  "TIT":
+    name: "ቲቶ"
+    slug: "tito"
+    name_toc: "1 ပေႇတရု/"
+  "PHM":
+    name: "ፊልሞና"
+    slug: "filemona"
+    name_toc: "2 ပေႇတရု/"
+  "HEB":
+    name: "እብ"
+    slug: "eb"
+    name_toc: "1 ယူဝ်းႁၢၼ်ႇ/"
+  "JAS":
+    name: "ያእ"
+    slug: "ya"
+    name_toc: "2 ယူဝ်းႁၢၼ်ႇ/"
+  "1PE":
+    name: "1ነ ጴጥ"
+    slug: "1na-pet"
+    name_toc: "3 ယူဝ်းႁၢၼ်ႇ/"
+  "2PE":
+    name: "2ነ ጴጥ"
+    slug: "2na-pet"
+    name_toc: "ယုတႃႉ/"
+  "1JN":
+    name: "1ነ ዮኻ"
+    slug: "1na-yoxa"
+    name_toc: "ၵျၢမ်းပျႃႇတိၵ်ႈ/"
+  "2JN":
+    name: "2ነ ዮኻ"
+    slug: "2na-yoxa"
+    name_toc: "ၵျၢမ်းငဝ်ႈၵမ်ႇၽႃႇ"
+  "3JN":
+    name: "3ነ ዮኻ"
+    slug: "3na-yoxa"
+    name_toc: "ၵျၢမ်းဢၼ်ဢွၵ်ႇၵႂႃႇ"
+  "JUD":
+    name: "ይኹዳ"
+    slug: "yexuda"
+    name_toc: "ၵျၢမ်းဢၼ်ႁဵတ်းဝၢတ်ႈ"
+  "REV":
+    name: "ራዕይ"
+    slug: "raey"
+    name_toc: "ၵျၢမ်းဢၼ်ယူႇၼႂ်းထိူၼ်ႇ"

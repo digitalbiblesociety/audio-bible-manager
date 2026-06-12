@@ -1,0 +1,5 @@
+language: "lbb"
+books:
+  "MRK":
+    name: "Mak"
+    slug: "mak"

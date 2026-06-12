@@ -1,0 +1,314 @@
+language: "pag"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Genesis"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+    name_toc: "Exodo"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+    name_toc: "Levitico"
+  "NUM":
+    name: "Bilang"
+    slug: "bilang"
+    name_toc: "Saray Bilang"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Deuteronomio"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+    name_toc: "Say Libro nen Josue"
+  "JDG":
+    name: "Huis"
+    slug: "huis"
+    name_toc: "Say Libro na Saray Huis"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Say Libro nen Ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Say Ononan Libro nen Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Say Kumadwan Libro nen Samuel"
+  "1KI":
+    name: "Saray Arari"
+    slug: "saray-arari"
+    name_toc: "Say Ononan Libro na Saray Arari"
+  "2KI":
+    name: "Saray Arari"
+    slug: "saray-arari"
+    name_toc: "Say Kumadwan Libro na Saray Arari"
+  "1CH":
+    name: "1 Saray Awaran"
+    slug: "1-saray-awaran"
+    name_toc: "Sa Ononan Libro na Saray Awaran"
+  "2CH":
+    name: "2 Saray Awaran"
+    slug: "2-saray-awaran"
+    name_toc: "Say Kumadwan Libro na Saray Awaran"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Say Libro nen Esdras"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+    name_toc: "Say Libro nen Nehemias"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Say Libro nen Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Say Libro nen Job"
+  "PSA":
+    name: "Salmo"
+    slug: "salmo"
+    name_toc: "Saray Salmo"
+  "PRO":
+    name: "Probirbio"
+    slug: "probirbio"
+    name_toc: "2 Reinan"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+    name_toc: "Ecclesiastes"
+  "SNG":
+    name: "Kanta nen Solomon"
+    slug: "kanta-nen-solomon"
+    name_toc: "2 Krónikanan"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+    name_toc: "Say Libro nen Isaias"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "Say Libro nen Jeremias"
+  "LAM":
+    name: "Saray Tagleey"
+    slug: "saray-tagleey"
+    name_toc: "Saray Tagleey"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Say Libro nen Ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Say Libro nen Daniel"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Say Libro nen Oseas"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Say Libro nen Joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Say Libro nen Amos"
+  "OBA":
+    name: "Obadias"
+    slug: "obadias"
+    name_toc: "Say Libro nen Obadias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Say Libro nen Jonas"
+  "MIC":
+    name: "Mikias"
+    slug: "mikias"
+    name_toc: "Say Libro nen Mikias"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Say Libro nen Nahum"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Say Libro nen Habacuc"
+  "ZEP":
+    name: "Sofonias"
+    slug: "sofonias"
+    name_toc: "Say Libro nen Sofonias"
+  "HAG":
+    name: "Aggeo"
+    slug: "aggeo"
+    name_toc: "Say Libro nen Aggeo"
+  "ZEC":
+    name: "Zacarias"
+    slug: "zacarias"
+    name_toc: "Say Libro nen Zacarias"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+    name_toc: "Say Libro nen Malakias"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Say Libro nen Tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+    name_toc: "Say Libro nen Judit"
+  "ESG":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Say Libro nen Ester (Say Birsion a Grigo)"
+  "WIS":
+    name: "Say Kakabatan Nen Solomon"
+    slug: "say-kakabatan-nen-solomon"
+    name_toc: "Say Ononan Libro na Saray Macabeo"
+  "SIR":
+    name: "Sirac"
+    slug: "sirac"
+    name_toc: "Say Kumadwan Libro na Saray Macabeo"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+    name_toc: "Say Kakabatan nen Solomon"
+  "LJE":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "Say Kakabatan nen Jesus a Lakin Anak nen Sirac (Ecclesiastico)"
+  "S3Y":
+    name: "Kanta da ray Taloran Lalakin Tobun-balo"
+    slug: "kanta-da-ray-taloran-lalakin-tobun-balo"
+    name_toc: "Judit"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Say Sulat nen Jeremias"
+  "BEL":
+    name: "Si Bel Tan Say Dragon"
+    slug: "si-bel-tan-say-dragon"
+    name_toc: "Say Pikakasi nen Azarias tan say Kanta da ray Taloran Lalakin Tobun-balo"
+  "1MA":
+    name: "1 Saray Macabeo"
+    slug: "1-saray-macabeo"
+    name_toc: "Habakuk"
+  "2MA":
+    name: "2 Saray Macabeo"
+    slug: "2-saray-macabeo"
+    name_toc: "Sofonías"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Say Maung a Balita onung ed kinen Mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "Say Maung a Balita onung ed kinen Marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Say Maung a Balita onung ed kinen Lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Say Maung a Balita onung ed kinen Juan"
+  "ACT":
+    name: "Saray Gawgawa"
+    slug: "saray-gawgawa"
+    name_toc: "Saray Gawgawa da ray Apostol"
+  "ROM":
+    name: "Taga Roma"
+    slug: "taga-roma"
+    name_toc: "Say Sulat nen Pablo ed saray Taga Roma"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+    name_toc: "Say Ononan Sulat nen Pablo ed saray Taga Corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+    name_toc: "Say Kumadwan Sulat nen Pablo ed saray Taga Corinto"
+  "GAL":
+    name: "Taga Galacia"
+    slug: "taga-galacia"
+    name_toc: "Say Sulat nen Pablo ed saray Taga Galacia"
+  "EPH":
+    name: "Taga-efeso"
+    slug: "taga-efeso"
+    name_toc: "Say Sulat nen Pablo ed saray Taga Efeso"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+    name_toc: "Say Sulat nen Pablo ed saray Taga Filipos"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+    name_toc: "Say Sulat nen Pablo ed saray Taga Colosas"
+  "1TH":
+    name: "1 Tesalonica"
+    slug: "1-tesalonica"
+    name_toc: "Say Ononan Sulat nen Pablo ed saray Taga Tesalonica"
+  "2TH":
+    name: "2 Tesalonica"
+    slug: "2-tesalonica"
+    name_toc: "Say Kumadwan Sulat nen Pablo ed saray Taga Tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Say Ononan Sulat nen Pablo ed kinen Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Say Kumadwan Sulat nen Pablo ed kinen Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Say Sulat nen Pablo ed kinen Tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Say Sulat nen Pablo ed kinen Filemon"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+    name_toc: "Say Sulat ed saray Hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "Say Sulat nen Santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Say Ononan Sulat nen Pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Say Kumadwan Sulat nen Pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "Say Ononan Sulat nen Juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "Say Kumadwan Sulat nen Juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "Say Kumatlon Sulat nen Juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Say Sulat nen Judas"
+  "REV":
+    name: "Puyan"
+    slug: "puyan"
+    name_toc: "Say Puyan ed kinen Juan"

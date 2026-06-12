@@ -1,0 +1,86 @@
+language: "muh"
+books:
+  "GEN":
+    name: "Gina Ngü"
+    slug: "gina-ngu"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yüwane"
+    slug: "yuwane"
+  "ACT":
+    name: "Wü Mürü Tima ka Yesu"
+    slug: "wu-muru-tima-ka-yesu"
+  "ROM":
+    name: "Rüma"
+    slug: "ruma"
+  "1CO":
+    name: "1 Korïnito"
+    slug: "1-korinito"
+  "2CO":
+    name: "2 Korïnito"
+    slug: "2-korinito"
+  "GAL":
+    name: "Galatïya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Fïlïpoyi"
+    slug: "filipoyi"
+  "COL":
+    name: "Kolosayï"
+    slug: "kolosayi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Fïlemüna"
+    slug: "filemuna"
+  "HEB":
+    name: "Ebere"
+    slug: "ebere"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yüwane"
+    slug: "1-yuwane"
+  "2JN":
+    name: "2 Yüwane"
+    slug: "2-yuwane"
+  "3JN":
+    name: "3 Yüwane"
+    slug: "3-yuwane"
+  "JUD":
+    name: "Yudi"
+    slug: "yudi"
+  "REV":
+    name: "Ngü te sere te-ye"
+    slug: "ngu-te-sere-te-ye"

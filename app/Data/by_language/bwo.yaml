@@ -1,0 +1,83 @@
+language: "bwo"
+books:
+  "MAT":
+    name: "Matiwos Dooshishiyo"
+    slug: "matiwos-dooshishiyo"
+  "MRK":
+    name: "Mark'os Dooshishiyo"
+    slug: "mark-os-dooshishiyo"
+  "LUK":
+    name: "Luk'as Dooshishiyo"
+    slug: "luk-as-dooshishiyo"
+  "JHN":
+    name: "Yohans Dooshishiyo"
+    slug: "yohans-dooshishiyo"
+  "ACT":
+    name: "Woshetswotsi"
+    slug: "woshetswotsi"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 K'orontos"
+    slug: "1-k-orontos"
+  "2CO":
+    name: "2 K'orontos"
+    slug: "2-k-orontos"
+  "GAL":
+    name: "Gelati"
+    slug: "gelati"
+  "EPH":
+    name: "Efeson"
+    slug: "efeson"
+  "PHP":
+    name: "Filp'siyos"
+    slug: "filp-siyos"
+  "COL":
+    name: "K'olasiyas"
+    slug: "k-olasiyas"
+  "1TH":
+    name: "1 Teselonk'e"
+    slug: "1-teselonk-e"
+  "2TH":
+    name: "2 Teselonk'e"
+    slug: "2-teselonk-e"
+  "1TI":
+    name: "1 T'imotiwos"
+    slug: "1-t-imotiwos"
+  "2TI":
+    name: "2 T'imotiwos"
+    slug: "2-t-imotiwos"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ibrawiyots"
+    slug: "ibrawiyots"
+  "JAS":
+    name: "Yak'ob"
+    slug: "yak-ob"
+  "1PE":
+    name: "1 P'et'ros"
+    slug: "1-p-et-ros"
+  "2PE":
+    name: "2 P'et'ros"
+    slug: "2-p-et-ros"
+  "1JN":
+    name: "1 Yohans"
+    slug: "1-yohans"
+  "2JN":
+    name: "2 Yohans"
+    slug: "2-yohans"
+  "3JN":
+    name: "3 Yohans"
+    slug: "3-yohans"
+  "JUD":
+    name: "Yhud"
+    slug: "yhud"
+  "REV":
+    name: "Yohans Bek'o"
+    slug: "yohans-bek-o"

@@ -1,0 +1,83 @@
+language: "yns"
+books:
+  "MAT":
+    name: "Màtay"
+    slug: "matay"
+  "MRK":
+    name: "Malakɔ"
+    slug: "malak"
+  "LUK":
+    name: "Lukà"
+    slug: "luka"
+  "JHN":
+    name: "Ywan"
+    slug: "ywan"
+  "ACT":
+    name: "Isal"
+    slug: "isal"
+  "ROM":
+    name: "Lɔmà"
+    slug: "lma"
+  "1CO":
+    name: "1 Bàkɔlintɔ"
+    slug: "1-baklint"
+  "2CO":
+    name: "2 Bàkɔlintɔ"
+    slug: "2-baklint"
+  "GAL":
+    name: "Ngalàtyà"
+    slug: "ngalatya"
+  "EPH":
+    name: "Ɛfɛsɔ"
+    slug: "fs"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+  "COL":
+    name: "Kɔlɔsay"
+    slug: "klsay"
+  "1TH":
+    name: "1 Tɛsalɔnikà"
+    slug: "1-tsalnika"
+  "2TH":
+    name: "2 Tɛsalɔnikà"
+    slug: "2-tsalnika"
+  "1TI":
+    name: "1 Tumàtɛ"
+    slug: "1-tumat"
+  "2TI":
+    name: "2 Tumàtɛ"
+    slug: "2-tumat"
+  "TIT":
+    name: "Titɔ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ɛbɛlyɔ"
+    slug: "bly"
+  "JAS":
+    name: "Zyak"
+    slug: "zyak"
+  "1PE":
+    name: "1 Petɔlà"
+    slug: "1-petla"
+  "2PE":
+    name: "2 Petɔlà"
+    slug: "2-petla"
+  "1JN":
+    name: "1 Ywan"
+    slug: "1-ywan"
+  "2JN":
+    name: "2 Ywan"
+    slug: "2-ywan"
+  "3JN":
+    name: "3 Ywan"
+    slug: "3-ywan"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Imɛɛy"
+    slug: "imy"

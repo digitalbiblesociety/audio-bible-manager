@@ -1,0 +1,110 @@
+language: "noi"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्ती रचित सुसमाचार"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "मरकुस रचित सुसमाचार"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "लूका रचित सुसमाचार"
+  "JHN":
+    name: "युहन्ना"
+    slug: "yuhanna"
+    name_toc: "युहन्ना रचित सुसमाचार"
+  "ACT":
+    name: "प्रेरितो काम"
+    slug: "prerito-kama"
+    name_toc: "प्रेरितो कामो पुस्तक"
+  "ROM":
+    name: "रोमि"
+    slug: "romi"
+    name_toc: "रोमियो पोव्लुस प्रेरितो लेखलो पत्र"
+  "1CO":
+    name: "1 कुरिन्थि"
+    slug: "1-kurinthi"
+    name_toc: "1 कुरिन्थि पोव्लुस प्रेरितो लेखलो पत्र"
+  "2CO":
+    name: "2 कुरिन्थि"
+    slug: "2-kurinthi"
+    name_toc: "2 कुरिन्थि पोव्लुस प्रेरितो लेखलो पत्र"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+    name_toc: "गलाती पोव्लुस प्रेरितो लेखलो पत्र"
+  "EPH":
+    name: "इफिसी"
+    slug: "iphisi"
+    name_toc: "इफिसी पोव्लुस प्रेरितो लेखलो पत्र"
+  "PHP":
+    name: "फिलिप्पी"
+    slug: "philippi"
+    name_toc: "फिलिप्पी पोव्लुस प्रेरितो लेखलो पत्र"
+  "COL":
+    name: "कुलुस्सी"
+    slug: "kulussi"
+    name_toc: "कुलुस्सी पोव्लुस प्रेरितो लेखलो पत्र"
+  "1TH":
+    name: "1 थिस्लोनी"
+    slug: "1-thisloni"
+    name_toc: "1 थिस्लोनी पोव्लुस प्रेरितो लेखलो पत्र"
+  "2TH":
+    name: "2 थिस्लोनी"
+    slug: "2-thisloni"
+    name_toc: "2 थिस्लोनी पोव्लुस प्रेरितो लेखलो पत्र"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "1 तीमुथियुस पोव्लुस प्रेरितो लेखलो पत्र"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "2 तीमुथियुस पोव्लुस प्रेरितो लेखलो पत्र"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "तीतुस पोव्लुस प्रेरितो लेखलो पत्र"
+  "PHM":
+    name: "फिलोमोन"
+    slug: "philomona"
+    name_toc: "फिलोमोन पोव्लुस प्रेरितो लेखलो पत्र"
+  "HEB":
+    name: "इब्रानि"
+    slug: "ibrani"
+    name_toc: "इब्रानि पत्र"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "याकूब लेखलो पत्र"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "1 पतरस"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "2 पतरस"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "1 यूहन्नाआ लेखलो पत्र"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "2 यूहन्नाआ लेखलो पत्र"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "3 यूहन्नाआ लेखलो पत्र"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदाआ लेखलो पत्र"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"
+    name_toc: "यूहन्नाआ लेखलो प्रकाशितवाक्य"

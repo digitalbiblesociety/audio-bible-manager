@@ -1,0 +1,83 @@
+language: "maj"
+books:
+  "MAT":
+    name: "Xu̱ju̱n xi y'ét'a Mateo̱"
+    slug: "xujun-xi-yeta-mateo"
+  "MRK":
+    name: "Xu̱ju̱n xi y'ét'a Marco̱"
+    slug: "xujun-xi-yeta-marco"
+  "LUK":
+    name: "Xu̱ju̱n xi y'ét'a Luca̱"
+    slug: "xujun-xi-yeta-luca"
+  "JHN":
+    name: "Xu̱ju̱n xi y'ét'a Jua"
+    slug: "xujun-xi-yeta-jua"
+  "ACT":
+    name: "Ni xi kits'ín já postru̱"
+    slug: "ni-xi-kitsin-ja-postru"
+  "ROM":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ ni̱nku̱ Roma̱"
+    slug: "xujun-xi-kinekjihi-xuta-ninku-roma"
+  "1CO":
+    name: "1 Corinto̱"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto̱"
+    slug: "2-corinto"
+  "GAL":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ ni̱nku̱ Galaci̱a̱"
+    slug: "xujun-xi-kinekjihi-xuta-ninku-galacia"
+  "EPH":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ ni̱nku̱ Efe̱so̱"
+    slug: "xujun-xi-kinekjihi-xuta-ninku-efeso"
+  "PHP":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ ni̱nku̱ Filipo̱"
+    slug: "xujun-xi-kinekjihi-xuta-ninku-filipo"
+  "COL":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ ni̱nku̱ Colosa̱"
+    slug: "xujun-xi-kinekjihi-xuta-ninku-colosa"
+  "1TH":
+    name: "1 Tesaloni̱ka̱"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesaloni̱ka̱"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo̱"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo̱"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ Tito̱"
+    slug: "xujun-xi-kinekjihi-tito"
+  "PHM":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ Filemon"
+    slug: "xujun-xi-kinekjihi-filemon"
+  "HEB":
+    name: "Xu̱ju̱n xi kin'ekjíhi̱ xu̱ta̱ Hebreo̱"
+    slug: "xujun-xi-kinekjihi-xuta-hebreo"
+  "JAS":
+    name: "Xu̱ju̱n xi kits'ínntu Santiago̱"
+    slug: "xujun-xi-kitsinntu-santiago"
+  "1PE":
+    name: "1 Pedro̱"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro̱"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Jua"
+    slug: "1-jua"
+  "2JN":
+    name: "2 Jua"
+    slug: "2-jua"
+  "3JN":
+    name: "3 Jua"
+    slug: "3-jua"
+  "JUD":
+    name: "Xu̱ju̱n xi kits'ínntu Juda̱"
+    slug: "xujun-xi-kitsinntu-juda"
+  "REV":
+    name: "Ni xi y'éjña chji Jesucristo̱ nga ka̱ma"
+    slug: "ni-xi-yejna-chji-jesucristo-nga-kama"

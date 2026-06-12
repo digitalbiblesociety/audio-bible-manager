@@ -1,0 +1,83 @@
+language: "hif"
+books:
+  "MAT":
+    name: "Methiu"
+    slug: "methiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Yuhanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Prerito ke Kaam"
+    slug: "prerito-ke-kaam"
+  "ROM":
+    name: "Raom"
+    slug: "raom"
+  "1CO":
+    name: "1 Kurinth"
+    slug: "1-kurinth"
+  "2CO":
+    name: "2 Kurinth"
+    slug: "2-kurinth"
+  "GAL":
+    name: "Galeshia"
+    slug: "galeshia"
+  "EPH":
+    name: "Efisia"
+    slug: "efisia"
+  "PHP":
+    name: "Filippi"
+    slug: "filippi"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+  "1TH":
+    name: "1 Thisluneeka"
+    slug: "1-thisluneeka"
+  "2TH":
+    name: "2 Thisluneeka"
+    slug: "2-thisluneeka"
+  "1TI":
+    name: "1 Ṭimathi"
+    slug: "1-timathi"
+  "2TI":
+    name: "2 Ṭimathi"
+    slug: "2-timathi"
+  "TIT":
+    name: "Ṭaayṭas"
+    slug: "taaytas"
+  "PHM":
+    name: "Fileman"
+    slug: "fileman"
+  "HEB":
+    name: "Heebru"
+    slug: "heebru"
+  "JAS":
+    name: "Jeims"
+    slug: "jeims"
+  "1PE":
+    name: "1 Peeṭa"
+    slug: "1-peeta"
+  "2PE":
+    name: "2 Peeṭa"
+    slug: "2-peeta"
+  "1JN":
+    name: "1 Yuhanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 Yuhanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 Yuhanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Juuḍ"
+    slug: "juud"
+  "REV":
+    name: "Revelaishan"
+    slug: "revelaishan"

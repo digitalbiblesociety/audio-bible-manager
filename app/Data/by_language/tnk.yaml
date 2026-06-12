@@ -1,0 +1,83 @@
+language: "tnk"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Wok Me"
+    slug: "wok-me"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Fas Korin"
+    slug: "fas-korin"
+  "2CO":
+    name: "Seken Korin"
+    slug: "seken-korin"
+  "GAL":
+    name: "Kalesia"
+    slug: "kalesia"
+  "EPH":
+    name: "Efesas"
+    slug: "efesas"
+  "PHP":
+    name: "Filipae"
+    slug: "filipae"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "Fas Tesalonaeka"
+    slug: "fas-tesalonaeka"
+  "2TH":
+    name: "Seken Tesalonaeka"
+    slug: "seken-tesalonaeka"
+  "1TI":
+    name: "Fas Timoti"
+    slug: "fas-timoti"
+  "2TI":
+    name: "Seken Timoti"
+    slug: "seken-timoti"
+  "TIT":
+    name: "Taetas"
+    slug: "taetas"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hipru"
+    slug: "hipru"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+  "1PE":
+    name: "Fas Pita"
+    slug: "fas-pita"
+  "2PE":
+    name: "Seken Pita"
+    slug: "seken-pita"
+  "1JN":
+    name: "Fas Jon"
+    slug: "fas-jon"
+  "2JN":
+    name: "Seken Jon"
+    slug: "seken-jon"
+  "3JN":
+    name: "Nampa Tri Jon"
+    slug: "nampa-tri-jon"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Revelesen"
+    slug: "revelesen"

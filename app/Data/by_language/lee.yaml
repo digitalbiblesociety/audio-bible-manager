@@ -1,0 +1,83 @@
+language: "lee"
+books:
+  "MAT":
+    name: "Məco"
+    slug: "meco"
+  "MRK":
+    name: "Markɛ"
+    slug: "mark"
+  "LUK":
+    name: "Lwiki"
+    slug: "lwiki"
+  "JHN":
+    name: "Zhã"
+    slug: "zha"
+  "ACT":
+    name: "Tùntúmə́ bé"
+    slug: "tuntume-be"
+  "ROM":
+    name: "Orɔm"
+    slug: "orm"
+  "1CO":
+    name: "1 Kɔrɛ̃tɛ"
+    slug: "1-krt"
+  "2CO":
+    name: "2 Kɔrɛ̃tɛ"
+    slug: "2-krt"
+  "GAL":
+    name: "Galəshi"
+    slug: "galeshi"
+  "EPH":
+    name: "Efɛɛzɛ"
+    slug: "efz"
+  "PHP":
+    name: "Shilipu"
+    slug: "shilipu"
+  "COL":
+    name: "Kɔlɔɔsɛ"
+    slug: "kls"
+  "1TH":
+    name: "1 Tesəloniki"
+    slug: "1-teseloniki"
+  "2TH":
+    name: "2 Tesəloniki"
+    slug: "2-teseloniki"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Shəlamɔ"
+    slug: "shelam"
+  "HEB":
+    name: "Ebərəbá"
+    slug: "ebereba"
+  "JAS":
+    name: "Zhakɛ"
+    slug: "zhak"
+  "1PE":
+    name: "1 Pyɛɛrɛ"
+    slug: "1-pyr"
+  "2PE":
+    name: "2 Pyɛɛrɛ"
+    slug: "2-pyr"
+  "1JN":
+    name: "1 Zhã"
+    slug: "1-zha"
+  "2JN":
+    name: "2 Zhã"
+    slug: "2-zha"
+  "3JN":
+    name: "3 Zhã"
+    slug: "3-zha"
+  "JUD":
+    name: "Zhidi"
+    slug: "zhidi"
+  "REV":
+    name: "Kɔn dɛ̀bɛ́ Zhã nɔ mɔ́"
+    slug: "kn-db-zha-n-m"

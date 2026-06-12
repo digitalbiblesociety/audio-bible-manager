@@ -1,0 +1,110 @@
+language: "lom"
+books:
+  "MAT":
+    name: "Mafiyu"
+    slug: "mafiyu"
+    name_toc: "Ziizɛ Kolai malɔlɔgi"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+    name_toc: "Maki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+    name_toc: "Luki"
+  "JHN":
+    name: "Jɔ̃"
+    slug: "j"
+    name_toc: "Jɔ̃"
+  "ACT":
+    name: "Te Ɣɛɛ Vaitiɛ"
+    slug: "te-vaiti"
+    name_toc: "Ziizɛ Na Keelaitiɛ Ɣɛɛ Vaitiɛ"
+  "ROM":
+    name: "Loomɛitiɛ"
+    slug: "loomiti"
+    name_toc: "Loomɛitiɛ"
+  "1CO":
+    name: "1Kɔlĩitiɛ"
+    slug: "1kliiti"
+    name_toc: "Kɔlĩitiɛ Maa Wũgi"
+  "2CO":
+    name: "Kɔlĩitiɛ"
+    slug: "kliiti"
+    name_toc: "Kɔlĩitiɛ Fele Kelei"
+  "GAL":
+    name: "Galeesiaitiɛ"
+    slug: "galeesiaiti"
+    name_toc: "Galeesiaitiɛ"
+  "EPH":
+    name: "Ɛfɛsɔitiɛ"
+    slug: "fsiti"
+    name_toc: "Ɛfɛsɔitiɛ"
+  "PHP":
+    name: "Felepaitiɛ"
+    slug: "felepaiti"
+    name_toc: "Felepaitiɛ"
+  "COL":
+    name: "Kolasaitiɛ"
+    slug: "kolasaiti"
+    name_toc: "Kolasaitiɛ"
+  "1TH":
+    name: "1 Tɛsɛlonaikaitiɛ"
+    slug: "1-tslonaikaiti"
+    name_toc: "Tɛsɛlonaikaitiɛ Maa Wũgi"
+  "2TH":
+    name: "2 Tɛsɛlonaikaitiɛ"
+    slug: "2-tslonaikaiti"
+    name_toc: "Tɛsɛlonaikaitiɛ Fele Kelei"
+  "1TI":
+    name: "1 Temete"
+    slug: "1-temete"
+    name_toc: "Temete Maa Wũgi"
+  "2TI":
+    name: "2 Temete"
+    slug: "2-temete"
+    name_toc: "Temete Fele Kekei"
+  "TIT":
+    name: "Taitɔ"
+    slug: "tait"
+    name_toc: "Taitɔ"
+  "PHM":
+    name: "Failimɔ"
+    slug: "failim"
+    name_toc: "Failimɔ"
+  "HEB":
+    name: "Hiiƃuluitiɛ"
+    slug: "hiiuluiti"
+    name_toc: "Hiiƃuluitiɛ"
+  "JAS":
+    name: "Jĩi"
+    slug: "jii"
+    name_toc: "Jĩi"
+  "1PE":
+    name: "1 Pite"
+    slug: "1-pite"
+    name_toc: "Pite Maa Wũgi"
+  "2PE":
+    name: "2 Pite"
+    slug: "2-pite"
+    name_toc: "Pite Fele Kelei"
+  "1JN":
+    name: "1Jɔ̃"
+    slug: "1j"
+    name_toc: "Jɔ̃ Maa Wũgi"
+  "2JN":
+    name: "2Jɔ̃"
+    slug: "2j"
+    name_toc: "Jɔ̃ Fele Kelei"
+  "3JN":
+    name: "3Jɔ̃"
+    slug: "3j"
+    name_toc: "Jɔ̃ Sava Kelei"
+  "JUD":
+    name: "Juu"
+    slug: "juu"
+    name_toc: "Juu"
+  "REV":
+    name: "Faa Wuloai Kɛnɛ Ma"
+    slug: "faa-wuloai-kn-ma"
+    name_toc: "Faa Wuloai Kɛnɛ Ma"

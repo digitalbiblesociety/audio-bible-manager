@@ -1,0 +1,6 @@
+language: "rbb"
+books:
+  "MRK":
+    name: "မာကု"
+    slug: "maku"
+    name_toc: "Sykadyipén (Apokalipsiso)"

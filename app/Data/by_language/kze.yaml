@@ -1,0 +1,83 @@
+language: "kze"
+books:
+  "MAT":
+    name: "Mátíyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mááka"
+    slug: "maaka"
+  "LUK":
+    name: "Árúku"
+    slug: "aruku"
+  "JHN":
+    name: "Yóni"
+    slug: "yoni"
+  "ACT":
+    name: "aantá-kwaasi"
+    slug: "aanta-kwaasi"
+  "ROM":
+    name: "Árómáa"
+    slug: "aromaa"
+  "1CO":
+    name: "1 Kórínti"
+    slug: "1-korinti"
+  "2CO":
+    name: "2 Kórínti"
+    slug: "2-korinti"
+  "GAL":
+    name: "Kárésiya"
+    slug: "karesiya"
+  "EPH":
+    name: "Évésasi"
+    slug: "evesasi"
+  "PHP":
+    name: "Vírípai"
+    slug: "viripai"
+  "COL":
+    name: "Kórósi"
+    slug: "korosi"
+  "1TH":
+    name: "1 Tésárónaika"
+    slug: "1-tesaronaika"
+  "2TH":
+    name: "2 Tésárónaika"
+    slug: "2-tesaronaika"
+  "1TI":
+    name: "1 Tímóti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Tímóti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Táítási"
+    slug: "taitasi"
+  "PHM":
+    name: "Vírímóni"
+    slug: "virimoni"
+  "HEB":
+    name: "Ípíru"
+    slug: "ipiru"
+  "JAS":
+    name: "Yémési"
+    slug: "yemesi"
+  "1PE":
+    name: "1 Pítaa"
+    slug: "1-pitaa"
+  "2PE":
+    name: "2 Pítaa"
+    slug: "2-pitaa"
+  "1JN":
+    name: "1 Yóni"
+    slug: "1-yoni"
+  "2JN":
+    name: "2 Yóni"
+    slug: "2-yoni"
+  "3JN":
+    name: "3 Yóni"
+    slug: "3-yoni"
+  "JUD":
+    name: "Yúte"
+    slug: "yute"
+  "REV":
+    name: "paárurain-kwasai"
+    slug: "paarurain-kwasai"

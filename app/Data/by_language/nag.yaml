@@ -1,0 +1,110 @@
+language: "nag"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+    name_toc: "Matthew He Likha Bhal Khobor"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Mrk"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "Luke He Likha Bhal Khobor"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "John He Likha Bhal Khobor"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+    name_toc: "Pasonir Khan Laga Kaam"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+    name_toc: "Rome Girja Logot Paul He Likha Chithi"
+  "1CO":
+    name: "Prothom Corinthians"
+    slug: "prothom-corinthians"
+    name_toc: "Corinth Logot Paul He Likha Prothom Chithi"
+  "2CO":
+    name: "2 Corinthians"
+    slug: "2-corinthians"
+    name_toc: "Corinth Logot Paul He Likha Duitio Chithi"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+    name_toc: "Galatia Logot Paul He Likha Chithi"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+    name_toc: "Ephesia Logot Paul He Likha Chithi"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+    name_toc: "Philippi Logot Paul He Likha Chithi"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+    name_toc: "Colossia Logot Paul He Likha Chithi"
+  "1TH":
+    name: "First Thessalonians"
+    slug: "first-thessalonians"
+    name_toc: "Thessalonicakhan Logot Paul He Likha Prothom Chithi"
+  "2TH":
+    name: "Second Thessalonians"
+    slug: "second-thessalonians"
+    name_toc: "Thessalonika khan Logot Paul He Likha Duitio Chithi"
+  "1TI":
+    name: "First Timothy"
+    slug: "first-timothy"
+    name_toc: "Timothy Logot Paul He Likha Prothom Chithi"
+  "2TI":
+    name: "Second Timothy"
+    slug: "second-timothy"
+    name_toc: "Timothy Logot Paul He Likha Duitio Chithi"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Titus Logot Paul He Likha Chithi"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+    name_toc: "Philemon Logot Paul He Likha Chithi"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+    name_toc: "Hebrews khan Ke Likha Chithi"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "James Laga Chithi"
+  "1PE":
+    name: "First Peter"
+    slug: "first-peter"
+    name_toc: "Peter Laga Prothom Chithi"
+  "2PE":
+    name: "Second Peter"
+    slug: "second-peter"
+    name_toc: "Peter Laga Duitio Chithi"
+  "1JN":
+    name: "First John"
+    slug: "first-john"
+    name_toc: "John Laga Prothom Chithi"
+  "2JN":
+    name: "Second John"
+    slug: "second-john"
+    name_toc: "John Laga Duitio Chithi"
+  "3JN":
+    name: "Third John"
+    slug: "third-john"
+    name_toc: "John Laga Tritio Chithi"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Jude Laga Chithi"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"
+    name_toc: "John Logot Prokahit Kora Baiko"

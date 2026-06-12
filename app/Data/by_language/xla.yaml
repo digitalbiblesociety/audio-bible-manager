@@ -1,0 +1,92 @@
+language: "xla"
+books:
+  "GEN":
+    name: "Yeneses"
+    slug: "yeneses"
+  "EXO":
+    name: "Ekesedes"
+    slug: "ekesedes"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Ma꞉tiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yon"
+    slug: "yon"
+  "ACT":
+    name: "Taiya dle so"
+    slug: "taiya-dle-so"
+  "ROM":
+    name: "Loum"
+    slug: "loum"
+  "1CO":
+    name: "1 Kolin"
+    slug: "1-kolin"
+  "2CO":
+    name: "2 Kolin"
+    slug: "2-kolin"
+  "GAL":
+    name: "Galasiya"
+    slug: "galasiya"
+  "EPH":
+    name: "Epeses"
+    slug: "epeses"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taites"
+    slug: "taites"
+  "PHM":
+    name: "Palimon"
+    slug: "palimon"
+  "HEB":
+    name: "Hibulu"
+    slug: "hibulu"
+  "JAS":
+    name: "Yeims"
+    slug: "yeims"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yon"
+    slug: "1-yon"
+  "2JN":
+    name: "2 Yon"
+    slug: "2-yon"
+  "3JN":
+    name: "3 Yon"
+    slug: "3-yon"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Bobotimatimale"
+    slug: "bobotimatimale"

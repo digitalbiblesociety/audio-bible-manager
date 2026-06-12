@@ -1,0 +1,86 @@
+language: "aaz"
+books:
+  "GEN":
+    name: "Retaꞌ Ahun-hunut"
+    slug: "reta-ahun-hunut"
+  "MAT":
+    name: "Naiꞌ Mateos"
+    slug: "nai-mateos"
+  "MRK":
+    name: "Naiꞌ Markus"
+    slug: "nai-markus"
+  "LUK":
+    name: "Naiꞌ Lukas"
+    slug: "nai-lukas"
+  "JHN":
+    name: "Naiꞌ Yohanis"
+    slug: "nai-yohanis"
+  "ACT":
+    name: "Haef ein sin Retaꞌ"
+    slug: "haef-ein-sin-reta"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Naiꞌ Titus"
+    slug: "nai-titus"
+  "PHM":
+    name: "Naiꞌ Filmon"
+    slug: "nai-filmon"
+  "HEB":
+    name: "Atoin Ibranis sin"
+    slug: "atoin-ibranis-sin"
+  "JAS":
+    name: "Naiꞌ Yakobus"
+    slug: "nai-yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Yohanis"
+    slug: "1-yohanis"
+  "2JN":
+    name: "2 Yohanis"
+    slug: "2-yohanis"
+  "3JN":
+    name: "3 Yohanis"
+    slug: "3-yohanis"
+  "JUD":
+    name: "Naiꞌ Judas"
+    slug: "nai-judas"
+  "REV":
+    name: "Rasi Mnitas neu naiꞌ Yohanis"
+    slug: "rasi-mnitas-neu-nai-yohanis"

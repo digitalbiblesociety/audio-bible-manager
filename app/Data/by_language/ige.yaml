@@ -1,0 +1,200 @@
+language: "ige"
+books:
+  "GEN":
+    name: "Ọmwụ Ọdada"
+    slug: "omwu-odada"
+  "EXO":
+    name: "Ehe Ọkpụkpụ"
+    slug: "ehe-okpukpu"
+  "LEV":
+    name: "Ala Ilivayị"
+    slug: "ala-ilivayi"
+  "NUM":
+    name: "Ọwawa"
+    slug: "owawa"
+  "DEU":
+    name: "Ehile Ọmada"
+    slug: "ehile-omada"
+  "JOS":
+    name: "Ijochuwa"
+    slug: "ijochuwa"
+  "JDG":
+    name: "Angịleje"
+    slug: "angileje"
+  "RUT":
+    name: "IRutu"
+    slug: "irutu"
+  "1SA":
+    name: "1 ỊSamwẹlụ"
+    slug: "1-isamwelu"
+  "2SA":
+    name: "2 Ịsamwẹlụ"
+    slug: "2-isamwelu"
+  "1KI":
+    name: "1 Ịdịrịhụ"
+    slug: "1-idirihu"
+  "2KI":
+    name: "2 Ịdịrịhụ"
+    slug: "2-idirihu"
+  "1CH":
+    name: "1 Ego Ogbegbe"
+    slug: "1-ego-ogbegbe"
+  "2CH":
+    name: "2 Ego Ogbegbe"
+    slug: "2-ego-ogbegbe"
+  "EZR":
+    name: "Ẹsịra"
+    slug: "esira"
+  "NEH":
+    name: "Inehemaya"
+    slug: "inehemaya"
+  "EST":
+    name: "Ẹsịta"
+    slug: "esita"
+  "JOB":
+    name: "IJobu"
+    slug: "ijobu"
+  "PSA":
+    name: "Eje Ọnyịịla"
+    slug: "eje-onyiila"
+  "PRO":
+    name: "Etu"
+    slug: "etu"
+  "ECC":
+    name: "ỌngọliryaỌngọ"
+    slug: "ongoliryaongo"
+  "SNG":
+    name: "Eje Ọ-gụ Eje"
+    slug: "eje-o-gu-eje"
+  "ISA":
+    name: "Ayịsaya"
+    slug: "ayisaya"
+  "JER":
+    name: "IJeremaya"
+    slug: "ijeremaya"
+  "LAM":
+    name: "Ida Ọbaba"
+    slug: "ida-obaba"
+  "EZK":
+    name: "Isikẹlụ"
+    slug: "isikelu"
+  "DAN":
+    name: "Ịdanẹlụ"
+    slug: "idanelu"
+  "HOS":
+    name: "IHoseya"
+    slug: "ihoseya"
+  "JOL":
+    name: "Ijuwẹlụ"
+    slug: "ijuwelu"
+  "AMO":
+    name: "EmọsịEmọ"
+    slug: "emosiemo"
+  "OBA":
+    name: "ObadayaOba"
+    slug: "obadayaoba"
+  "JON":
+    name: "Ijona"
+    slug: "ijona"
+  "MIC":
+    name: "Ịmayịka"
+    slug: "imayika"
+  "NAM":
+    name: "ỊNahụm"
+    slug: "inahum"
+  "HAB":
+    name: "Ịhabakuku"
+    slug: "ihabakuku"
+  "ZEP":
+    name: "ỊSẹfaniya"
+    slug: "isefaniya"
+  "HAG":
+    name: "Ịhagayị"
+    slug: "ihagayi"
+  "ZEC":
+    name: "Ịsẹkaraya"
+    slug: "isekaraya"
+  "MAL":
+    name: "Ịmalakayị"
+    slug: "imalakayi"
+  "MAT":
+    name: "Ịmatiyu"
+    slug: "imatiyu"
+  "MRK":
+    name: "Ịmakị"
+    slug: "imaki"
+  "LUK":
+    name: "Iluku"
+    slug: "iluku"
+  "JHN":
+    name: "Ịjọn"
+    slug: "ijon"
+  "ACT":
+    name: "ỤKỤRWỌ nya ALẸRỤ"
+    slug: "ukurwo-nya-aleru"
+  "ROM":
+    name: "Ala Irom"
+    slug: "ala-irom"
+  "1CO":
+    name: "1 Ala Ịkọrịntị"
+    slug: "1-ala-ikorinti"
+  "2CO":
+    name: "2 Ala Ịkọrịntị"
+    slug: "2-ala-ikorinti"
+  "GAL":
+    name: "Ala Ịgaletiya"
+    slug: "ala-igaletiya"
+  "EPH":
+    name: "Ala Efesọsị"
+    slug: "ala-efesosi"
+  "PHP":
+    name: "Ala Ifilipayị"
+    slug: "ala-ifilipayi"
+  "COL":
+    name: "ALA IkọLOSI"
+    slug: "ala-ikolosi"
+  "1TH":
+    name: "1 Ala Ịtẹsalonika"
+    slug: "1-ala-itesalonika"
+  "2TH":
+    name: "2 Ala Ịtẹsalonika"
+    slug: "2-ala-itesalonika"
+  "1TI":
+    name: "1 Itimoti"
+    slug: "1-itimoti"
+  "2TI":
+    name: "2 Itimoti"
+    slug: "2-itimoti"
+  "TIT":
+    name: "Ịtayịtọsị"
+    slug: "itayitosi"
+  "PHM":
+    name: "Ifilimọn"
+    slug: "ifilimon"
+  "HEB":
+    name: "Ala Ihiburu"
+    slug: "ala-ihiburu"
+  "JAS":
+    name: "Ijemsi"
+    slug: "ijemsi"
+  "1PE":
+    name: "1 Ipita"
+    slug: "1-ipita"
+  "2PE":
+    name: "2 Ipita"
+    slug: "2-ipita"
+  "1JN":
+    name: "1 Ịjọn"
+    slug: "1-ijon"
+  "2JN":
+    name: "2 Ịjọn"
+    slug: "2-ijon"
+  "3JN":
+    name: "3 Ịjọn"
+    slug: "3-ijon"
+  "JUD":
+    name: "Ijudu"
+    slug: "ijudu"
+  "REV":
+    name: "Ọwụrụụ-wụrụ"
+    slug: "owuruu-wuru"

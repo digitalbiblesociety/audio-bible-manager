@@ -1,0 +1,20 @@
+language: "abc"
+books:
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"

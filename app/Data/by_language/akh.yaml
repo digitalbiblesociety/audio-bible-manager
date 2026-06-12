@@ -1,0 +1,83 @@
+language: "akh"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Njon"
+    slug: "njon"
+  "ACT":
+    name: "Bismi Sao"
+    slug: "bismi-sao"
+  "ROM":
+    name: "Orom"
+    slug: "orom"
+  "1CO":
+    name: "1 Korind"
+    slug: "1-korind"
+  "2CO":
+    name: "2 Korind"
+    slug: "2-korind"
+  "GAL":
+    name: "Kalesiya"
+    slug: "kalesiya"
+  "EPH":
+    name: "Ebeses"
+    slug: "ebeses"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaka"
+    slug: "1-tesalonaka"
+  "2TH":
+    name: "2 Tesalonaka"
+    slug: "2-tesalonaka"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tatas"
+    slug: "tatas"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Nju Sem"
+    slug: "nju-sem"
+  "JAS":
+    name: "Njemus"
+    slug: "njemus"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Njon"
+    slug: "1-njon"
+  "2JN":
+    name: "2 Njon"
+    slug: "2-njon"
+  "3JN":
+    name: "3 Njon"
+    slug: "3-njon"
+  "JUD":
+    name: "Njur"
+    slug: "njur"
+  "REV":
+    name: "Kao Dund"
+    slug: "kao-dund"

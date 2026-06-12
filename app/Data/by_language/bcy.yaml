@@ -1,0 +1,5 @@
+language: "bcy"
+books:
+  "MRK":
+    name: "Markus"
+    slug: "markus"

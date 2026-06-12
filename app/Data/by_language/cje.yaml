@@ -1,0 +1,83 @@
+language: "cje"
+books:
+  "MAT":
+    name: "Mathiơ"
+    slug: "mathio"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Jăng"
+    slug: "jang"
+  "ACT":
+    name: "Bruă Du Mơnih Tơdi-tơdài"
+    slug: "brua-du-monih-todi-todai"
+  "ROM":
+    name: "Rôma"
+    slug: "roma"
+  "1CO":
+    name: "I Kôrintô"
+    slug: "i-korinto"
+  "2CO":
+    name: "II Kôrintô"
+    slug: "ii-korinto"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Ephesô"
+    slug: "epheso"
+  "PHP":
+    name: "Philip"
+    slug: "philip"
+  "COL":
+    name: "Kôlôse"
+    slug: "kolose"
+  "1TH":
+    name: "I Tesalônika"
+    slug: "i-tesalonika"
+  "2TH":
+    name: "II Tesalônika"
+    slug: "ii-tesalonika"
+  "1TI":
+    name: "I Timôthe"
+    slug: "i-timothe"
+  "2TI":
+    name: "II Timôthe"
+    slug: "ii-timothe"
+  "TIT":
+    name: "Tĭt"
+    slug: "tit"
+  "PHM":
+    name: "Philemôn"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrơ"
+    slug: "hebro"
+  "JAS":
+    name: "Jakơ"
+    slug: "jako"
+  "1PE":
+    name: "I Pier"
+    slug: "i-pier"
+  "2PE":
+    name: "II Pier"
+    slug: "ii-pier"
+  "1JN":
+    name: "I Jăng"
+    slug: "i-jang"
+  "2JN":
+    name: "II Jăng"
+    slug: "ii-jang"
+  "3JN":
+    name: "III Jăng"
+    slug: "iii-jang"
+  "JUD":
+    name: "Juđe"
+    slug: "jude"
+  "REV":
+    name: "Pơh-tơbiă Pơnuaĭ Tơrđơŭ"
+    slug: "poh-tobia-ponuai-tordou"

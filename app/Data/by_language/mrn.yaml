@@ -1,0 +1,200 @@
+language: "mrn"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "EXO":
+    name: "Eksodas"
+    slug: "eksodas"
+  "LEV":
+    name: "Levitikas"
+    slug: "levitikas"
+  "NUM":
+    name: "Naba"
+    slug: "naba"
+  "DEU":
+    name: "Diutronomi"
+    slug: "diutronomi"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Jajis"
+    slug: "jajis"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Ululahu Samuel"
+    slug: "ululahu-samuel"
+  "2SA":
+    name: "Fapea Samuel"
+    slug: "fapea-samuel"
+  "1KI":
+    name: "Ululahu Kings"
+    slug: "ululahu-kings"
+  "2KI":
+    name: "Fapea Kings"
+    slug: "fapea-kings"
+  "1CH":
+    name: "Ululahu Kronikols"
+    slug: "ululahu-kronikols"
+  "2CH":
+    name: "Fapea Kronikols"
+    slug: "fapea-kronikols"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemaea"
+    slug: "nehemaea"
+  "EST":
+    name: "Nogna Buka Esta"
+    slug: "nogna-buka-esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Proveb"
+    slug: "proveb"
+  "ECC":
+    name: "Eklesiasti"
+    slug: "eklesiasti"
+  "SNG":
+    name: "Famane Khoje"
+    slug: "famane-khoje"
+  "ISA":
+    name: "Profet Isaiah"
+    slug: "profet-isaiah"
+  "JER":
+    name: "Profet Jeremaea"
+    slug: "profet-jeremaea"
+  "LAM":
+    name: "Lamentations"
+    slug: "lamentations"
+  "EZK":
+    name: "Profet Esikiel"
+    slug: "profet-esikiel"
+  "DAN":
+    name: "Profet Daniel"
+    slug: "profet-daniel"
+  "HOS":
+    name: "Profet Hosia"
+    slug: "profet-hosia"
+  "JOL":
+    name: "Profet Joel"
+    slug: "profet-joel"
+  "AMO":
+    name: "Profet Emos"
+    slug: "profet-emos"
+  "OBA":
+    name: "Profet Obadaea"
+    slug: "profet-obadaea"
+  "JON":
+    name: "Profet Jona"
+    slug: "profet-jona"
+  "MIC":
+    name: "Profet Maeka"
+    slug: "profet-maeka"
+  "NAM":
+    name: "Profet Nahum"
+    slug: "profet-nahum"
+  "HAB":
+    name: "Profet Habaku"
+    slug: "profet-habaku"
+  "ZEP":
+    name: "Profet Sefanaea"
+    slug: "profet-sefanaea"
+  "HAG":
+    name: "Profet Hagae"
+    slug: "profet-hagae"
+  "ZEC":
+    name: "Profet Sekaraea"
+    slug: "profet-sekaraea"
+  "MAL":
+    name: "Profet Malakai"
+    slug: "profet-malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Jone"
+    slug: "jone"
+  "ACT":
+    name: "Mae Khuru"
+    slug: "mae-khuru"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "Ululahu Korin"
+    slug: "ululahu-korin"
+  "2CO":
+    name: "Fapea Korin"
+    slug: "fapea-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipae"
+    slug: "filipae"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Ululahu Tesalonika"
+    slug: "ululahu-tesalonika"
+  "2TH":
+    name: "Fapea Tesalonika"
+    slug: "fapea-tesalonika"
+  "1TI":
+    name: "Ululahu Timoti"
+    slug: "ululahu-timoti"
+  "2TI":
+    name: "Fapea Timoti"
+    slug: "fapea-timoti"
+  "TIT":
+    name: "Taetus"
+    slug: "taetus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+  "1PE":
+    name: "Ululahu Pita"
+    slug: "ululahu-pita"
+  "2PE":
+    name: "Fapea Pita"
+    slug: "fapea-pita"
+  "1JN":
+    name: "Ululahu Jone"
+    slug: "ululahu-jone"
+  "2JN":
+    name: "Fapea Jone"
+    slug: "fapea-jone"
+  "3JN":
+    name: "Fatilo Jone"
+    slug: "fatilo-jone"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Thakle"
+    slug: "thakle"

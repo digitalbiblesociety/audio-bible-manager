@@ -1,0 +1,200 @@
+language: "srp"
+books:
+  "GEN":
+    name: "1. Мојсијева"
+    slug: "1-mojsijeva"
+  "EXO":
+    name: "2. Мојсијева"
+    slug: "2-mojsijeva"
+  "LEV":
+    name: "3. Мојсијева"
+    slug: "3-mojsijeva"
+  "NUM":
+    name: "4. Мојсијева"
+    slug: "4-mojsijeva"
+  "DEU":
+    name: "5. Мојсијева"
+    slug: "5-mojsijeva"
+  "JOS":
+    name: "Исус Навин"
+    slug: "isus-navin"
+  "JDG":
+    name: "Судије"
+    slug: "sudije"
+  "RUT":
+    name: "Рута"
+    slug: "ruta"
+  "1SA":
+    name: "1. Самуило"
+    slug: "1-samuilo"
+  "2SA":
+    name: "2. Самуило"
+    slug: "2-samuilo"
+  "1KI":
+    name: "1. Цареви"
+    slug: "1-carevi"
+  "2KI":
+    name: "2. Цареви"
+    slug: "2-carevi"
+  "1CH":
+    name: "1. Летописи"
+    slug: "1-letopisi"
+  "2CH":
+    name: "2. Летописи"
+    slug: "2-letopisi"
+  "EZR":
+    name: "Езра"
+    slug: "ezra"
+  "NEH":
+    name: "Немија"
+    slug: "nemija"
+  "EST":
+    name: "Јестира"
+    slug: "jestira"
+  "JOB":
+    name: "Јов"
+    slug: "jov"
+  "PSA":
+    name: "Псалми"
+    slug: "psalmi"
+  "PRO":
+    name: "Пословице"
+    slug: "poslovice"
+  "ECC":
+    name: "Проповедник"
+    slug: "propovednik"
+  "SNG":
+    name: "Песма над песмама"
+    slug: "pesma-nad-pesmama"
+  "ISA":
+    name: "Isaija"
+    slug: "isaija"
+  "JER":
+    name: "Јеремија"
+    slug: "jeremija"
+  "LAM":
+    name: "Тужбалице"
+    slug: "tuzbalice"
+  "EZK":
+    name: "Језекиљ"
+    slug: "jezekil"
+  "DAN":
+    name: "Данило"
+    slug: "danilo"
+  "HOS":
+    name: "Осија"
+    slug: "osija"
+  "JOL":
+    name: "Јоил"
+    slug: "joil"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+  "OBA":
+    name: "Авдија"
+    slug: "avdija"
+  "JON":
+    name: "Јона"
+    slug: "jona"
+  "MIC":
+    name: "Михеј"
+    slug: "mihej"
+  "NAM":
+    name: "Наум"
+    slug: "naum"
+  "HAB":
+    name: "Авакум"
+    slug: "avakum"
+  "ZEP":
+    name: "Софонија"
+    slug: "sofonija"
+  "HAG":
+    name: "Агеј"
+    slug: "agej"
+  "ZEC":
+    name: "Захарија"
+    slug: "zaharija"
+  "MAL":
+    name: "Малахија"
+    slug: "malahija"
+  "MAT":
+    name: "Матеј"
+    slug: "matej"
+  "MRK":
+    name: "Марко"
+    slug: "marko"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Јован"
+    slug: "jovan"
+  "ACT":
+    name: "Дела апостолска"
+    slug: "dela-apostolska"
+  "ROM":
+    name: "Римљанима"
+    slug: "rimlanima"
+  "1CO":
+    name: "1. Коринћанима"
+    slug: "1-korincanima"
+  "2CO":
+    name: "2. Коринћанима"
+    slug: "2-korincanima"
+  "GAL":
+    name: "Галаћанима"
+    slug: "galacanima"
+  "EPH":
+    name: "Ефесцима"
+    slug: "efescima"
+  "PHP":
+    name: "Филипљанима"
+    slug: "filiplanima"
+  "COL":
+    name: "Колошанима"
+    slug: "kolosanima"
+  "1TH":
+    name: "1. Солуњанима"
+    slug: "1-solunanima"
+  "2TH":
+    name: "2. Солуњанима"
+    slug: "2-solunanima"
+  "1TI":
+    name: "1. Тимотеју"
+    slug: "1-timoteju"
+  "2TI":
+    name: "2. Тимотеју"
+    slug: "2-timoteju"
+  "TIT":
+    name: "Титу"
+    slug: "titu"
+  "PHM":
+    name: "Филимону"
+    slug: "filimonu"
+  "HEB":
+    name: "Јеврејима"
+    slug: "jevrejima"
+  "JAS":
+    name: "Јаковљева"
+    slug: "jakovleva"
+  "1PE":
+    name: "1. Петрова"
+    slug: "1-petrova"
+  "2PE":
+    name: "2. Петрова"
+    slug: "2-petrova"
+  "1JN":
+    name: "1. Јованова"
+    slug: "1-jovanova"
+  "2JN":
+    name: "2. Јованова"
+    slug: "2-jovanova"
+  "3JN":
+    name: "3. Јованова"
+    slug: "3-jovanova"
+  "JUD":
+    name: "Јудина"
+    slug: "judina"
+  "REV":
+    name: "Откривење"
+    slug: "otkrivene"

@@ -1,0 +1,266 @@
+language: "new"
+books:
+  "GEN":
+    name: "उत्‍पत्ति"
+    slug: "utpatti"
+    name_toc: "उत्‍पत्तिया सफू"
+  "EXO":
+    name: "प्रस्‍थान"
+    slug: "prasthana"
+    name_toc: "प्रस्‍थानया सफू"
+  "LEV":
+    name: "लेवी"
+    slug: "levi"
+    name_toc: "लेवीतय्‌गु सफू"
+  "NUM":
+    name: "गन्‍ती"
+    slug: "ganti"
+    name_toc: "गन्‍तीया सफू"
+  "DEU":
+    name: "व्‍यवस्‍था"
+    slug: "vyavastha"
+    name_toc: "व्‍यवस्‍थाया सफू"
+  "JOS":
+    name: "यहोशू"
+    slug: "yahosu"
+    name_toc: "यहोशूया सफू"
+  "JDG":
+    name: "न्‍यायकर्ता"
+    slug: "nyayakarta"
+    name_toc: "न्‍यायकर्ताया सफू"
+  "RUT":
+    name: "रूथ"
+    slug: "rutha"
+    name_toc: "रुथया सफू"
+  "1SA":
+    name: "१ शमूएल"
+    slug: "1-samuela"
+    name_toc: "शमूएलया न्‍हापांगु सफू"
+  "2SA":
+    name: "२ शमूएल"
+    slug: "2-samuela"
+    name_toc: "शमूएलया निगूगु सफू"
+  "1KI":
+    name: "१ राजा"
+    slug: "1-raja"
+    name_toc: "जुजुतय्‌गु न्‍हापांगु सफू"
+  "2KI":
+    name: "२ राजा"
+    slug: "2-raja"
+    name_toc: "जुजुतय्‌गु निगूगु सफू"
+  "1CH":
+    name: "१ इतिहास"
+    slug: "1-itihasa"
+    name_toc: "इतिहासया न्‍हापांगु सफू"
+  "2CH":
+    name: "२ इतिहास"
+    slug: "2-itihasa"
+    name_toc: "इतिहासया निगूगु सफू"
+  "EZR":
+    name: "एज्रा"
+    slug: "ejra"
+    name_toc: "एज्राया सफू"
+  "NEH":
+    name: "नहेम्‍याह"
+    slug: "nahemyaha"
+    name_toc: "नहेम्‍याहया सफू"
+  "EST":
+    name: "एस्‍तर"
+    slug: "estara"
+    name_toc: "एस्‍तरया सफू"
+  "JOB":
+    name: "अय्‍यूब"
+    slug: "ayyuba"
+    name_toc: "अय्‍यूबया सफू"
+  "PSA":
+    name: "भजन"
+    slug: "bhajana"
+    name_toc: "भजनसंग्रहया सफू"
+  "PRO":
+    name: "हितोपदेश"
+    slug: "hitopadesa"
+    name_toc: "हितोपदेशया सफू"
+  "ECC":
+    name: "उपदेशक"
+    slug: "upadesaka"
+    name_toc: "उपदेशकया सफू"
+  "SNG":
+    name: "श्रेष्‍ठगीत"
+    slug: "sresthagita"
+    name_toc: "श्रेष्‍ठगीतया सफू"
+  "ISA":
+    name: "यशैया"
+    slug: "yasaiya"
+    name_toc: "यशैयाया सफू"
+  "JER":
+    name: "यर्मिया"
+    slug: "yarmiya"
+    name_toc: "यर्मियाया सफू"
+  "LAM":
+    name: "विलाप"
+    slug: "vilapa"
+    name_toc: "विलापया सफू"
+  "EZK":
+    name: "इजकिएल"
+    slug: "ijakiela"
+    name_toc: "इजकिएलया सफू"
+  "DAN":
+    name: "दानिएल"
+    slug: "daniela"
+    name_toc: "दानिएलया सफू"
+  "HOS":
+    name: "होशे"
+    slug: "hose"
+    name_toc: "होशेया सफू"
+  "JOL":
+    name: "योएल"
+    slug: "yoela"
+    name_toc: "योएलया सफू"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+    name_toc: "आमोसया सफू"
+  "OBA":
+    name: "ओबदिया"
+    slug: "obadiya"
+    name_toc: "ओबदियाया सफू"
+  "JON":
+    name: "योना"
+    slug: "yona"
+    name_toc: "योनाया सफू"
+  "MIC":
+    name: "मीका"
+    slug: "mika"
+    name_toc: "मीकाया सफू"
+  "NAM":
+    name: "नहूम"
+    slug: "nahuma"
+    name_toc: "नहूमया सफू"
+  "HAB":
+    name: "हबकूक"
+    slug: "habakuka"
+    name_toc: "हबकूकया सफू"
+  "ZEP":
+    name: "सपन्‍याह"
+    slug: "sapanyaha"
+    name_toc: "सपन्‍याहया सफू"
+  "HAG":
+    name: "हाग्‍गै"
+    slug: "haggai"
+    name_toc: "हाग्‍गैया सफू"
+  "ZEC":
+    name: "जकरिया"
+    slug: "jakariya"
+    name_toc: "जकरियायागु सफू"
+  "MAL":
+    name: "मलाकी"
+    slug: "malaki"
+    name_toc: "मलाकीया सफू"
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "मत्तीं च्‍वःगु भिंगु खँ"
+  "MRK":
+    name: "मर्कूस"
+    slug: "markusa"
+    name_toc: "मर्कूसं च्‍वःगु भिंगु खँ"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "लूकां च्‍वःगु भिंगु खँ"
+  "JHN":
+    name: "यूहन्‍ना"
+    slug: "yuhanna"
+    name_toc: "यूहन्‍नां च्‍वःगु भिंगु खँ"
+  "ACT":
+    name: "प्रेरित"
+    slug: "prerita"
+    name_toc: "प्रेरितया सफू"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+    name_toc: "रोमीया सफू"
+  "1CO":
+    name: "१ कोरिन्‍थी"
+    slug: "1-korinthi"
+    name_toc: "कोरिन्‍थीया न्‍हापांगु सफू"
+  "2CO":
+    name: "२ कोरिन्‍थी"
+    slug: "2-korinthi"
+    name_toc: "कोरिन्‍थीया निगूगु सफू"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+    name_toc: "गलातीया सफू"
+  "EPH":
+    name: "एफिसी"
+    slug: "ephisi"
+    name_toc: "एफिसीया सफू"
+  "PHP":
+    name: "फिलिप्‍पी"
+    slug: "philippi"
+    name_toc: "फिलिप्‍पीया सफू"
+  "COL":
+    name: "कलस्‍सी"
+    slug: "kalassi"
+    name_toc: "कलस्‍सीया सफू"
+  "1TH":
+    name: "१ थेसलोनिकी"
+    slug: "1-thesaloniki"
+    name_toc: "थेसलोनिकीया न्‍हापांगु सफू"
+  "2TH":
+    name: "२ थेसलोनिकी"
+    slug: "2-thesaloniki"
+    name_toc: "थेसलोनिकीया निगूगु सफू"
+  "1TI":
+    name: "१ तिमोथी"
+    slug: "1-timothi"
+    name_toc: "तिमोथीया न्‍हापांगु सफू"
+  "2TI":
+    name: "२ तिमोथी"
+    slug: "2-timothi"
+    name_toc: "तिमोथीया निगूगु सफू"
+  "TIT":
+    name: "तीतस"
+    slug: "titasa"
+    name_toc: "तीतसया सफू"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "फिलेमोनया सफू"
+  "HEB":
+    name: "हिब्रू"
+    slug: "hibru"
+    name_toc: "हिब्रूया सफू"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "याकूबया सफू"
+  "1PE":
+    name: "१ पत्रुस"
+    slug: "1-patrusa"
+    name_toc: "पत्रुसया न्‍हापांगु सफू"
+  "2PE":
+    name: "२ पत्रुस"
+    slug: "2-patrusa"
+    name_toc: "पत्रुसया निगूगु सफू"
+  "1JN":
+    name: "१ यूहन्‍ना"
+    slug: "1-yuhanna"
+    name_toc: "यूहन्‍नाया न्‍हापांगु सफू"
+  "2JN":
+    name: "२ यूहन्‍ना"
+    slug: "2-yuhanna"
+    name_toc: "यूहन्‍नाया निगूगु सफू"
+  "3JN":
+    name: "३ यूहन्‍ना"
+    slug: "3-yuhanna"
+    name_toc: "यूहन्‍नाया स्‍वंगूगु सफू"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदाया सफू"
+  "REV":
+    name: "प्रकाश"
+    slug: "prakasa"
+    name_toc: "प्रकाशया सफू"

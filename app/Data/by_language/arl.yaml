@@ -1,0 +1,125 @@
+language: "arl"
+books:
+  "GEN":
+    name: "Geenesis"
+    slug: "geenesis"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+  "LEV":
+    name: "Leviitico"
+    slug: "leviitico"
+  "NUM":
+    name: "Nuumero"
+    slug: "nuumero"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Josuee"
+    slug: "josuee"
+  "JDG":
+    name: "Jueces"
+    slug: "jueces"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Reyes"
+    slug: "1-reyes"
+  "1CH":
+    name: "1 Croonicas"
+    slug: "1-croonicas"
+  "2CH":
+    name: "2 Croonicas"
+    slug: "2-croonicas"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marco"
+    slug: "marco"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Miishano"
+    slug: "miishano"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+  "GAL":
+    name: "Gálata"
+    slug: "galata"
+  "EPH":
+    name: "Éfeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+  "COL":
+    name: "Colosa"
+    slug: "colosa"
+  "1TH":
+    name: "1 Tesalónica"
+    slug: "1-tesalonica"
+  "2TH":
+    name: "2 Tesalónica"
+    slug: "2-tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Niquishano"
+    slug: "niquishano"

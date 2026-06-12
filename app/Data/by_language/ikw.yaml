@@ -1,0 +1,83 @@
+language: "ikw"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Makị"
+    slug: "maki"
+  "LUK":
+    name: "Lukwu"
+    slug: "lukwu"
+  "JHN":
+    name: "Jọni"
+    slug: "joni"
+  "ACT":
+    name: "Ẹrnu Ele Izi"
+    slug: "ernu-ele-izi"
+  "ROM":
+    name: "Ele Rom"
+    slug: "ele-rom"
+  "1CO":
+    name: "1 Ele Kọrinti"
+    slug: "1-ele-korinti"
+  "2CO":
+    name: "2 Ele Kọrinti"
+    slug: "2-ele-korinti"
+  "GAL":
+    name: "Ele Galasia"
+    slug: "ele-galasia"
+  "EPH":
+    name: "Ele Efesọsi"
+    slug: "ele-efesosi"
+  "PHP":
+    name: "Ele Filipaị"
+    slug: "ele-filipai"
+  "COL":
+    name: "Ele Kọlosi"
+    slug: "ele-kolosi"
+  "1TH":
+    name: "1 Ele Tẹsalonika"
+    slug: "1-ele-tesalonika"
+  "2TH":
+    name: "2 Ele Tẹsalonika"
+    slug: "2-ele-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taịtosi"
+    slug: "taitosi"
+  "PHM":
+    name: "Filemọni"
+    slug: "filemoni"
+  "HEB":
+    name: "Ele Hiburu"
+    slug: "ele-hiburu"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jọni"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Jọni"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Jọni"
+    slug: "3-joni"
+  "JUD":
+    name: "Judu"
+    slug: "judu"
+  "REV":
+    name: "Okpume"
+    slug: "okpume"

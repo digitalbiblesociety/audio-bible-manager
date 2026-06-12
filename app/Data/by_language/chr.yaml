@@ -1,0 +1,83 @@
+language: "chr"
+books:
+  "MAT":
+    name: "Ꭳꮝꮫ Ꭷꮓꭾꮫ Ꮉꮪ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "osdv-kanohedv-madu-uwowelanvhi"
+  "MRK":
+    name: "Ꭳꮝꮫ Ꭷꮓꭾꮫ Ꮉꭶ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "osdv-kanohedv-maga-uwowelanvhi"
+  "LUK":
+    name: "Ꭳꮝꮫ Ꭷꮓꭾꮫ Ꮇꭶ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "osdv-kanohedv-luga-uwowelanvhi"
+  "JHN":
+    name: "Ꭳꮝꮫ Ꭷꮓꭾꮫ Ꮳꮒ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "osdv-kanohedv-tsani-uwowelanvhi"
+  "ACT":
+    name: "Ꭸꮵꮕꮟꮫ Ꮔꮎꮫꮑꮅꮩꮈꭲ"
+    slug: "getsinvsidv-nunadvnelidolvi"
+  "ROM":
+    name: "Ꮙꮃ Ꮆꮋ Ꭰꮑꭿ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-lomi-anehi-tsuwowelanelvhi"
+  "1CO":
+    name: "Ꭺꮅꮒꮧᏹ Ꭰꮑꭿ Ꭲꭼᏹᏹ Ꭸꭺꮺꮃꮑꮈꭿ"
+    slug: "golinidi-anehi-igv-gegowelanelvhi"
+  "2CO":
+    name: "Ꭺꮅꮒꮧᏹ Ꭰꮑꭿ Ꮤꮅꮑ Ꭸꭺꮺꮃꮑꮈꭿ"
+    slug: "golinidi-anehi-taline-gegowelanelvhi"
+  "GAL":
+    name: "Ꮙꮃ Ꭸꮄꮟᏹ Ꭰꮑꭿ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-gelesi-anehi-tsuwowelanelvhi"
+  "EPH":
+    name: "Ꮙꮃ Ꭱꮘꮜ Ꭰꮑꭿ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-equisa-anehi-tsuwowelanelvhi"
+  "PHP":
+    name: "Ꮙꮃ Ꮘꮅꭹᏹ Ꭰꮑꭿ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-quiligi-anehi-tsuwowelanelvhi"
+  "COL":
+    name: "Ꮙꮃ Ꭺꮆꮟ Ꭰꮑꭿ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-golosi-anehi-tsuwowelanelvhi"
+  "1TH":
+    name: "Ꮙꮃ Ꮥꮟꮆꮒꭶ Ꭰꮑꭿ Ꭲꭼᏹᏹ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-desiloniga-anehi-igv-tsuwowelanelvhi"
+  "2TH":
+    name: "Ꮙꮃ Ꮥꮟꮆꮒꭶ Ꭰꮑꭿ Ꮤꮅꮑ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-desiloniga-anehi-taline-tsuwowelanelvhi"
+  "1TI":
+    name: "Ꮙꮃ Ꮷꮼꮺꮃꮕꭿ Ꭲꭼᏹᏹ Ꮧꮉꮧ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-tsuwowelanvhi-igv-dimadi-tsuwowelanelvhi"
+  "2TI":
+    name: "Ꮙꮃ Ꮷꮼꮺꮃꮕꭿ Ꮤꮅꮑ Ꮧꮉꮧ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-tsuwowelanvhi-taline-dimadi-tsuwowelanelvhi"
+  "TIT":
+    name: "Ꮙꮃ Ꮣꮣꮟ Ꭴꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-dadasi-uwowelanelvhi"
+  "PHM":
+    name: "Ꮙꮃ Ꮖꮅꮉꮒ Ꭴꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-qualimani-uwowelanelvhi"
+  "HEB":
+    name: "Ꮙꮃ Ꭰꮒꮘꮇ Ꮷꮼꮺꮃꮑꮈꭿ"
+    slug: "quola-aniquilu-tsuwowelanelvhi"
+  "JAS":
+    name: "Ꮵꮋ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "tsimi-uwowelanvhi"
+  "1PE":
+    name: "Ꮘꮣ Ꭲꭼᏹᏹ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "quida-igv-uwowelanvhi"
+  "2PE":
+    name: "Ꮘꮣ Ꮤꮅꮑ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "quida-taline-uwowelanvhi"
+  "1JN":
+    name: "Ꮳꮒ Ꭲꭼᏹᏹ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "tsani-igv-uwowelanvhi"
+  "2JN":
+    name: "Ꮳꮒ Ꮤꮅꮑ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "tsani-taline-uwowelanvhi"
+  "3JN":
+    name: "Ꮳꮒ Ꮶꭲꮑ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "tsani-tsoine-uwowelanvhi"
+  "JUD":
+    name: "Ꮷꮣꮟ Ꭴꮼꮺꮃꮕꭿ"
+    slug: "tsudasi-uwowelanvhi"
+  "REV":
+    name: "Ꮳꮒ Ꮔꮝꮫ Ꭰꮵꮎꮔꭺꮻꮞꮈꭲ"
+    slug: "tsani-nusdv-atsinanugowiselvi"

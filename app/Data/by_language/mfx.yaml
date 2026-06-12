@@ -1,0 +1,83 @@
+language: "mfx"
+books:
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዋንሳ"
+    slug: "wanesa"
+  "ACT":
+    name: "ሀዋርታይ ኦሶ"
+    slug: "hawaretay-oso"
+  "ROM":
+    name: "ኦሮመ"
+    slug: "oroma"
+  "1CO":
+    name: "1ቆሮንቶሳ"
+    slug: "1qoronetosa"
+  "2CO":
+    name: "2ቆሮንቶሳ"
+    slug: "2qoronetosa"
+  "GAL":
+    name: "ጋላትያ"
+    slug: "galateya"
+  "EPH":
+    name: "ኤፍሶን"
+    slug: "efeson"
+  "PHP":
+    name: "ፍልጲሶሳ"
+    slug: "felepisosa"
+  "COL":
+    name: "ቆላስያሳ"
+    slug: "qolaseyasa"
+  "1TH":
+    name: "1ተሰሎንቀ"
+    slug: "1tasaloneqa"
+  "2TH":
+    name: "2ተሰሎንቀ"
+    slug: "2tasaloneqa"
+  "1TI":
+    name: "1ጽማቶሳ"
+    slug: "1sematosa"
+  "2TI":
+    name: "2ጽማቶሳ"
+    slug: "2sematosa"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "ፍልሞና"
+    slug: "felemona"
+  "HEB":
+    name: "እብራወ"
+    slug: "eberawa"
+  "JAS":
+    name: "ያይቆባ"
+    slug: "yayeqoba"
+  "1PE":
+    name: "1ጵጽሮሳ"
+    slug: "1peserosa"
+  "2PE":
+    name: "2ጵጽሮሳ"
+    slug: "2peserosa"
+  "1JN":
+    name: "1ዋንሳ"
+    slug: "1wanesa"
+  "2JN":
+    name: "2ዋንሳ"
+    slug: "2wanesa"
+  "3JN":
+    name: "3ዋንሳ"
+    slug: "3wanesa"
+  "JUD":
+    name: "ይሁዳ"
+    slug: "yehuda"
+  "REV":
+    name: "ዋንሳ ቆንጭ"
+    slug: "wanesa-qonec"

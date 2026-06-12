@@ -1,0 +1,83 @@
+language: "muy"
+books:
+  "MAT":
+    name: "Meciyʉ"
+    slug: "meciyu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Lʉk"
+    slug: "luk"
+  "JHN":
+    name: "Zeŋ"
+    slug: "zen"
+  "ACT":
+    name: "Tʉwi"
+    slug: "tuwi"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Koreŋ"
+    slug: "1-koren"
+  "2CO":
+    name: "2 Koreŋ"
+    slug: "2-koren"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efez"
+    slug: "efez"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Hebri"
+    slug: "hebri"
+  "JAS":
+    name: "Zek"
+    slug: "zek"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Zeŋ"
+    slug: "1-zen"
+  "2JN":
+    name: "2 Zeŋ"
+    slug: "2-zen"
+  "3JN":
+    name: "3 Zeŋ"
+    slug: "3-zen"
+  "JUD":
+    name: "Zʉd"
+    slug: "zud"
+  "REV":
+    name: "Maŋgahani"
+    slug: "mangahani"

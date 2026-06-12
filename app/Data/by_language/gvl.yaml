@@ -1,0 +1,83 @@
+language: "gvl"
+books:
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+  "ACT":
+    name: "Nyanra Njekawkulege"
+    slug: "nyanra-njekawkulege"
+  "ROM":
+    name: "Nje Ke Rome"
+    slug: "nje-ke-rome"
+  "1CO":
+    name: "1 Nje Ke Corinthe"
+    slug: "1-nje-ke-corinthe"
+  "2CO":
+    name: "2 Nje Ke Corinthe"
+    slug: "2-nje-ke-corinthe"
+  "GAL":
+    name: "Nje Ke Galatie"
+    slug: "nje-ke-galatie"
+  "EPH":
+    name: "Nje Ke Ephese"
+    slug: "nje-ke-ephese"
+  "PHP":
+    name: "Nje Ke Philippes"
+    slug: "nje-ke-philippes"
+  "COL":
+    name: "Nje Ke Colosses"
+    slug: "nje-ke-colosses"
+  "1TH":
+    name: "1 Nje Ke Thessalonique"
+    slug: "1-nje-ke-thessalonique"
+  "2TH":
+    name: "2 Nje Ke Thessalonique"
+    slug: "2-nje-ke-thessalonique"
+  "1TI":
+    name: "1 Timothee"
+    slug: "1-timothee"
+  "2TI":
+    name: "2 Timothee"
+    slug: "2-timothee"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebreuge"
+    slug: "hebreuge"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1-pierre"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2-pierre"
+  "1JN":
+    name: "1 Jean"
+    slug: "1-jean"
+  "2JN":
+    name: "2 Jean"
+    slug: "2-jean"
+  "3JN":
+    name: "3 Jean"
+    slug: "3-jean"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Lookilera’n"
+    slug: "lookileran"

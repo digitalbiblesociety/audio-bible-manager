@@ -1,0 +1,83 @@
+language: "mni"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Pakhonchatpa"
+    slug: "pakhonchatpa"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "1 Corinth"
+    slug: "1-corinth"
+  "2CO":
+    name: "2 Corinth"
+    slug: "2-corinth"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Ephesus"
+    slug: "ephesus"
+  "PHP":
+    name: "Philippi"
+    slug: "philippi"
+  "COL":
+    name: "Colossae"
+    slug: "colossae"
+  "1TH":
+    name: "1 Thessalonica"
+    slug: "1-thessalonica"
+  "2TH":
+    name: "2 Thessalonica"
+    slug: "2-thessalonica"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrew"
+    slug: "hebrew"
+  "JAS":
+    name: "Jacob"
+    slug: "jacob"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Phongdokpiba"
+    slug: "phongdokpiba"

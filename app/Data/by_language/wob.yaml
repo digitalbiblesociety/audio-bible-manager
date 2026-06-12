@@ -1,0 +1,83 @@
+language: "wob"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Makɩ"
+    slug: "mak"
+  "LUK":
+    name: "Luikɩ"
+    slug: "luik"
+  "JHN":
+    name: "San"
+    slug: "san"
+  "ACT":
+    name: "Nʋʋdɩ"
+    slug: "nd"
+  "ROM":
+    name: "Romɛ"
+    slug: "rom"
+  "1CO":
+    name: "1 Korɛntɩ"
+    slug: "1-kornt"
+  "2CO":
+    name: "2 Korɛntɩ"
+    slug: "2-kornt"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efɛsɩ"
+    slug: "efs"
+  "PHP":
+    name: "Filipʋ"
+    slug: "filip"
+  "COL":
+    name: "Kolɔsɩ"
+    slug: "kols"
+  "1TH":
+    name: "1 Tesalonikɩ"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonikɩ"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titɩ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eble"
+    slug: "eble"
+  "JAS":
+    name: "Sakɩ"
+    slug: "sak"
+  "1PE":
+    name: "1 Piɛi"
+    slug: "1-pii"
+  "2PE":
+    name: "2 Piɛi"
+    slug: "2-pii"
+  "1JN":
+    name: "1 San"
+    slug: "1-san"
+  "2JN":
+    name: "2 San"
+    slug: "2-san"
+  "3JN":
+    name: "3 San"
+    slug: "3-san"
+  "JUD":
+    name: "Suidɩ"
+    slug: "suid"
+  "REV":
+    name: "Dɩ'kwla‑sawlu"
+    slug: "dkwlasawlu"

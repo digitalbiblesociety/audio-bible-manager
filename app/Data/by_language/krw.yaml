@@ -1,0 +1,110 @@
+language: "krw"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+    name_toc: "Pɔ̀n Chɛ̀ Matio To-a La"
+  "MRK":
+    name: "Maɛ"
+    slug: "ma"
+    name_toc: "Pɔ̀n Chɛ̀ Maɛ To-a La"
+  "LUK":
+    name: "Luu"
+    slug: "luu"
+    name_toc: "Pɔ̀n Chɛ̀ Luu To-a La"
+  "JHN":
+    name: "Chɔɔn"
+    slug: "chn"
+    name_toc: "Pɔ̀n Chɛ̀ Chɔɔn To-a La"
+  "ACT":
+    name: "Nu̍-dɛ̍ᵻ"
+    slug: "nu-d"
+    name_toc: "Klai-a Gba̍tòà-a Nu̍a̍a̍ La"
+  "ROM":
+    name: "Wloma"
+    slug: "wloma"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Wloma Nyɔ̍ We̍-ɛ La"
+  "1CO":
+    name: "1 Kɔwlɛntiɔn"
+    slug: "1-kwlntin"
+    name_toc: "Pɔɔ-a Sàǐtòò Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Kɔwlɛn Nyɔ̍ We̍-ɛ La"
+  "2CO":
+    name: "2 Kɔwlɛntiɔn"
+    slug: "2-kwlntin"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Sɔɔ̌n Naɛ Ɔ̍ Chlǐh-a Kɔwlɛn Nyɔ̍ We̍-ɛ La"
+  "GAL":
+    name: "Kelesea"
+    slug: "kelesea"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Kelesea Nyɔ̍ We̍-ɛ La"
+  "EPH":
+    name: "Ɛfɛsɔ"
+    slug: "fs"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Ɛfɛsɔ Nyɔ̍ We̍-ɛ La"
+  "PHP":
+    name: "Felepai"
+    slug: "felepai"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Felepai Nyɔ̍ We̍-ɛ La"
+  "COL":
+    name: "Kalase"
+    slug: "kalase"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Kalase Nyɔ̍ We̍-ɛ La"
+  "1TH":
+    name: "1 Tɛsoloniɔn"
+    slug: "1-tsolonin"
+    name_toc: "Pɔɔ-a Sàǐtòò Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Tɛsolonaika Nyɔ̍ We̍-ɛ La"
+  "2TH":
+    name: "2 Tɛsoloniɔn"
+    slug: "2-tsolonin"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Sɔɔ̌n Naɛ Ɔ̍ Chlǐh-a Tɛsolonaika Nyɔ̍ We̍-ɛ La"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Pɔɔ-a Sàǐtòò Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Timote We̍-ɛ La"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Sɔɔ̌n Naɛ Ɔ̍ Chlǐh-a Timote We̍-ɛ La"
+  "TIT":
+    name: "Taitɔ"
+    slug: "tait"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Taitɔ We̍-ɛ La"
+  "PHM":
+    name: "Faɛlimɔ"
+    slug: "falim"
+    name_toc: "Pɔɔ-a Chlǐh-dɛ̍ Ɔ̍ Chlǐh-a Faɛlimɔ We̍-ɛ La"
+  "HEB":
+    name: "Iblu"
+    slug: "iblu"
+    name_toc: "Chlǐh-dɛ̍ Mu̍-a Iblu Nyɔ̍ We̍-ɛ La"
+  "JAS":
+    name: "Chiin"
+    slug: "chiin"
+    name_toc: "Chlǐh-dɛ̍ Chiin Chlǐh-aɛ La"
+  "1PE":
+    name: "1 Pitɛ"
+    slug: "1-pit"
+    name_toc: "Pitɛ-a Sàǐtòò Chlǐh-dɛ̍ La"
+  "2PE":
+    name: "2 Pitɛ"
+    slug: "2-pit"
+    name_toc: "Pitɛ-a Chlǐh-dɛ̍ Sɔɔ̌n Naɛ La"
+  "1JN":
+    name: "1 Chɔɔn"
+    slug: "1-chn"
+    name_toc: "Chɔɔn-a Sàǐtòò Chlǐh-dɛ̍ La"
+  "2JN":
+    name: "2 Chɔɔn"
+    slug: "2-chn"
+    name_toc: "Chɔɔn-a Chlǐh-dɛ̍ Sɔɔ̌n Naɛ La"
+  "3JN":
+    name: "3 Chɔɔn"
+    slug: "3-chn"
+    name_toc: "Chɔɔn-a Chlǐh-dɛ̍ Ta̍a̍n Naɛ La"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+    name_toc: "Chlǐh-dɛ̍ Judi Chlǐh-aɛ La"
+  "REV":
+    name: "Wlɛfeleseɔn"
+    slug: "wlfelesen"
+    name_toc: "Wlɛfeleseɔn Ìh La Bo Nyɔsoa Toe Chɔɔn"

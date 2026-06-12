@@ -1,0 +1,146 @@
+language: "gvn"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "DEU":
+    name: "Deuteronomy"
+    slug: "deuteronomy"
+  "JDG":
+    name: "Judges"
+    slug: "judges"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Kings"
+    slug: "1-kings"
+  "2KI":
+    name: "2 Kings"
+    slug: "2-kings"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Kaban Matthewmu"
+    slug: "kaban-matthewmu"
+  "MRK":
+    name: "Kaban Markamu"
+    slug: "kaban-markamu"
+  "LUK":
+    name: "Kaban Lukeumu"
+    slug: "kaban-lukeumu"
+  "JHN":
+    name: "Kaban Johnumu"
+    slug: "kaban-johnumu"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "ROM":
+    name: "Kaban Roman-warranda"
+    slug: "kaban-roman-warranda"
+  "1CO":
+    name: "1 Corinthian-warranda"
+    slug: "1-corinthian-warranda"
+  "2CO":
+    name: "2 Corinthian-warranda"
+    slug: "2-corinthian-warranda"
+  "GAL":
+    name: "Kaban Galatian-warranda"
+    slug: "kaban-galatian-warranda"
+  "EPH":
+    name: "Kaban Ephesian-warranda"
+    slug: "kaban-ephesian-warranda"
+  "PHP":
+    name: "Kaban Philippian-warranda"
+    slug: "kaban-philippian-warranda"
+  "COL":
+    name: "Kaban Colossian-warranda"
+    slug: "kaban-colossian-warranda"
+  "1TH":
+    name: "1 Thessalonian-warranda"
+    slug: "1-thessalonian-warranda"
+  "2TH":
+    name: "2 Thessalonian-warranda"
+    slug: "2-thessalonian-warranda"
+  "1TI":
+    name: "1 Timothynda"
+    slug: "1-timothynda"
+  "2TI":
+    name: "2 Timothynda"
+    slug: "2-timothynda"
+  "TIT":
+    name: "Kaban Titusanda"
+    slug: "kaban-titusanda"
+  "PHM":
+    name: "Kaban Philemonanda"
+    slug: "kaban-philemonanda"
+  "HEB":
+    name: "Kaban Hebrew-warranda"
+    slug: "kaban-hebrew-warranda"
+  "JAS":
+    name: "Kaban Jamesamu"
+    slug: "kaban-jamesamu"
+  "1PE":
+    name: "1 Petermu"
+    slug: "1-petermu"
+  "2PE":
+    name: "2 Petermu"
+    slug: "2-petermu"
+  "1JN":
+    name: "1 Johnumu"
+    slug: "1-johnumu"
+  "2JN":
+    name: "2 Johnumu"
+    slug: "2-johnumu"
+  "3JN":
+    name: "3 Johnumu"
+    slug: "3-johnumu"
+  "JUD":
+    name: "Kaban Judeumu"
+    slug: "kaban-judeumu"
+  "REV":
+    name: "Kaban Revelation"
+    slug: "kaban-revelation"

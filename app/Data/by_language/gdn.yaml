@@ -1,0 +1,83 @@
+language: "gdn"
+books:
+  "MAT":
+    name: "Mateyu"
+    slug: "mateyu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Ruki"
+    slug: "ruki"
+  "JHN":
+    name: "Diyoni"
+    slug: "diyoni"
+  "ACT":
+    name: "Bususu"
+    slug: "bususu"
+  "ROM":
+    name: "Roumi"
+    slug: "roumi"
+  "1CO":
+    name: "1 Korini"
+    slug: "1-korini"
+  "2CO":
+    name: "2 Korini"
+    slug: "2-korini"
+  "GAL":
+    name: "Garasiya"
+    slug: "garasiya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Piripai"
+    slug: "piripai"
+  "COL":
+    name: "Korosiya"
+    slug: "korosiya"
+  "1TH":
+    name: "1 Tesaronika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesaronika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Simosi"
+    slug: "1-simosi"
+  "2TI":
+    name: "2 Simosi"
+    slug: "2-simosi"
+  "TIT":
+    name: "Taitos"
+    slug: "taitos"
+  "PHM":
+    name: "Paerimoni"
+    slug: "paerimoni"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Diyemesi"
+    slug: "diyemesi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Diyoni"
+    slug: "1-diyoni"
+  "2JN":
+    name: "2 Diyoni"
+    slug: "2-diyoni"
+  "3JN":
+    name: "3 Diyoni"
+    slug: "3-diyoni"
+  "JUD":
+    name: "Diyudi"
+    slug: "diyudi"
+  "REV":
+    name: "Matatapupu"
+    slug: "matatapupu"

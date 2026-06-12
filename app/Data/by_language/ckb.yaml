@@ -1,0 +1,200 @@
+language: "ckb"
+books:
+  "GEN":
+    name: "پەیدابوون"
+    slug: "peydabuwn"
+  "EXO":
+    name: "دەرچوون"
+    slug: "derchuwn"
+  "LEV":
+    name: "لێڤییەکان"
+    slug: "levyyekan"
+  "NUM":
+    name: "سەرژمێری"
+    slug: "serzhmery"
+  "DEU":
+    name: "دواوتاری موسا"
+    slug: "dwawtary-mwsa"
+  "JOS":
+    name: "یەشوع"
+    slug: "yeshwa"
+  "JDG":
+    name: "ڕابەران"
+    slug: "raberan"
+  "RUT":
+    name: "ڕائووس"
+    slug: "raiuws"
+  "1SA":
+    name: "یەکەم ساموئێل"
+    slug: "yekem-samwiel"
+  "2SA":
+    name: "دووەم ساموئێل"
+    slug: "duwem-samwiel"
+  "1KI":
+    name: "یەکەم پاشایان"
+    slug: "yekem-pashayan"
+  "2KI":
+    name: "دووەم پاشایان"
+    slug: "duwem-pashayan"
+  "1CH":
+    name: "یەکەم پوختەی مێژوو"
+    slug: "yekem-pwkhtey-mezhuw"
+  "2CH":
+    name: "دووەم پوختەی مێژوو"
+    slug: "duwem-pwkhtey-mezhuw"
+  "EZR":
+    name: "عەزرا"
+    slug: "aezra"
+  "NEH":
+    name: "نەحەمیا"
+    slug: "nehemya"
+  "EST":
+    name: "ئەستێر"
+    slug: "iester"
+  "JOB":
+    name: "ئەیوب"
+    slug: "ieywb"
+  "PSA":
+    name: "زەبوورەکان"
+    slug: "zebuwrekan"
+  "PRO":
+    name: "پەندەکانی سلێمان"
+    slug: "pendekany-sleman"
+  "ECC":
+    name: "ژیرمەندی"
+    slug: "zhyrmendy"
+  "SNG":
+    name: "گۆرانی گۆرانییەکان"
+    slug: "gorany-goranyyekan"
+  "ISA":
+    name: "ئیشایا"
+    slug: "iyshaya"
+  "JER":
+    name: "یەرمیا"
+    slug: "yermya"
+  "LAM":
+    name: "شینەکانی یەرمیا"
+    slug: "shynekany-yermya"
+  "EZK":
+    name: "حزقیێل"
+    slug: "hzqyel"
+  "DAN":
+    name: "دانیال"
+    slug: "danyal"
+  "HOS":
+    name: "هۆشەع"
+    slug: "hoshea"
+  "JOL":
+    name: "یۆئێل"
+    slug: "yoiel"
+  "AMO":
+    name: "ئامۆس"
+    slug: "iamos"
+  "OBA":
+    name: "عۆبەدیا"
+    slug: "aobedya"
+  "JON":
+    name: "یونس"
+    slug: "ywns"
+  "MIC":
+    name: "میخا"
+    slug: "mykha"
+  "NAM":
+    name: "ناحوم"
+    slug: "nahwm"
+  "HAB":
+    name: "حەبەقوق"
+    slug: "hebeqwq"
+  "ZEP":
+    name: "سەفەنیا"
+    slug: "sefenya"
+  "HAG":
+    name: "حەگەی"
+    slug: "hegey"
+  "ZEC":
+    name: "زەکەریا"
+    slug: "zekerya"
+  "MAL":
+    name: "مەلاخی"
+    slug: "melakhy"
+  "MAT":
+    name: "مەتا"
+    slug: "meta"
+  "MRK":
+    name: "مەرقۆس"
+    slug: "merqos"
+  "LUK":
+    name: "لۆقا"
+    slug: "loqa"
+  "JHN":
+    name: "یۆحەنا"
+    slug: "yohena"
+  "ACT":
+    name: "کردار"
+    slug: "krdar"
+  "ROM":
+    name: "ڕۆما"
+    slug: "roma"
+  "1CO":
+    name: "یەکەم کۆرنسۆس"
+    slug: "yekem-kornsos"
+  "2CO":
+    name: "دووەم کۆرنسۆس"
+    slug: "duwem-kornsos"
+  "GAL":
+    name: "گەلاتیا"
+    slug: "gelatya"
+  "EPH":
+    name: "ئەفەسۆس"
+    slug: "iefesos"
+  "PHP":
+    name: "فیلیپی"
+    slug: "fylypy"
+  "COL":
+    name: "کۆلۆسی"
+    slug: "kolosy"
+  "1TH":
+    name: "یەکەم سالۆنیکی"
+    slug: "yekem-salonyky"
+  "2TH":
+    name: "دووەم سالۆنیکی"
+    slug: "duwem-salonyky"
+  "1TI":
+    name: "یەکەم تیمۆساوس"
+    slug: "yekem-tymosaws"
+  "2TI":
+    name: "دووەم تیمۆساوس"
+    slug: "duwem-tymosaws"
+  "TIT":
+    name: "تیتۆس"
+    slug: "tytos"
+  "PHM":
+    name: "فلیمۆن"
+    slug: "flymon"
+  "HEB":
+    name: "عیبرانییەکان"
+    slug: "aybranyyekan"
+  "JAS":
+    name: "یاقوب"
+    slug: "yaqwb"
+  "1PE":
+    name: "یەکەم پەترۆس"
+    slug: "yekem-petros"
+  "2PE":
+    name: "دووەم پەترۆس"
+    slug: "duwem-petros"
+  "1JN":
+    name: "یەکەم یۆحەنا"
+    slug: "yekem-yohena"
+  "2JN":
+    name: "دووەم یۆحەنا"
+    slug: "duwem-yohena"
+  "3JN":
+    name: "سێیەم یۆحەنا"
+    slug: "seyem-yohena"
+  "JUD":
+    name: "یەهوزا"
+    slug: "yehwza"
+  "REV":
+    name: "ئاشکراکردن"
+    slug: "iashkrakrdn"

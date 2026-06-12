@@ -1,0 +1,5 @@
+language: "mzq"
+books:
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"

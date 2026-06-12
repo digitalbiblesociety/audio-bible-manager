@@ -1,0 +1,266 @@
+language: "yao"
+books:
+  "GEN":
+    name: "Gen"
+    slug: "gen"
+    name_toc: "Paulusen hun Titus fahet suwesingga haharoho imbibahon"
+  "EXO":
+    name: "Eks"
+    slug: "eks"
+    name_toc: "Paulusen hun Filemon fahet suwesingga haharoho imbibahon"
+  "LEV":
+    name: "Lef"
+    slug: "lef"
+    name_toc: "Suwesingga Ibrani inap fahet haharoho imbibahon"
+  "NUM":
+    name: "Num"
+    slug: "num"
+    name_toc: "Yakobusen suwesingga haharoho imbibahon"
+  "DEU":
+    name: "Det"
+    slug: "det"
+    name_toc: "Petrusen suwesingga tamon haharoho imbibahon"
+  "JOS":
+    name: "Yos"
+    slug: "yos"
+    name_toc: "Petrusen suwesingga pirenehon haharoho imbibahon"
+  "JDG":
+    name: "Ŵak"
+    slug: "wak"
+    name_toc: "Yohanesen suwesingga atamon haharoho imbibahon"
+  "RUT":
+    name: "Lut"
+    slug: "lut"
+    name_toc: "Yohanes suwesingga pirenehon imbibahon"
+  "1SA":
+    name: "1 Sam"
+    slug: "1-sam"
+    name_toc: "Yohanes suwesingga hinahanehon imbibahon"
+  "2SA":
+    name: "2 Sam"
+    slug: "2-sam"
+    name_toc: "Yudasen suwesingga haharoho imbibahon"
+  "1KI":
+    name: "1 Ayi"
+    slug: "1-ayi"
+    name_toc: "Map toho werehon Yesusen Yohanes fam inamap tibag ane (Wahyu Kepada Yohanes)"
+  "2KI":
+    name: "2 Ayi"
+    slug: "2-ayi"
+    name_toc: "Génesis"
+  "1CH":
+    name: "1 Mbi"
+    slug: "1-mbi"
+    name_toc: "Éxodo"
+  "2CH":
+    name: "2 Mbi"
+    slug: "2-mbi"
+    name_toc: "Levítico"
+  "EZR":
+    name: "Esa"
+    slug: "esa"
+    name_toc: "Números"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Deuteronomio"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "Josué"
+  "JOB":
+    name: "Yob"
+    slug: "yob"
+    name_toc: "Jueces"
+  "PSA":
+    name: "Mas"
+    slug: "mas"
+    name_toc: "Rut"
+  "PRO":
+    name: "Mis"
+    slug: "mis"
+    name_toc: "Primer libro de Samuel"
+  "ECC":
+    name: "Jwak"
+    slug: "jwak"
+    name_toc: "Segundo libro de Samuel"
+  "SNG":
+    name: "Nyi"
+    slug: "nyi"
+    name_toc: "Primer libro de los Reyes"
+  "ISA":
+    name: "Yes"
+    slug: "yes"
+    name_toc: "Segundo libro de los Reyes"
+  "JER":
+    name: "Yel"
+    slug: "yel"
+    name_toc: "Primer libro de las Crónicas"
+  "LAM":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Segundo libro de las Crónicas"
+  "EZK":
+    name: "Esek"
+    slug: "esek"
+    name_toc: "Esdras"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Nehemías"
+  "HOS":
+    name: "Hos"
+    slug: "hos"
+    name_toc: "Ester"
+  "JOL":
+    name: "Yow"
+    slug: "yow"
+    name_toc: "Job"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Salmos"
+  "OBA":
+    name: "Oba"
+    slug: "oba"
+    name_toc: "Proverbios"
+  "JON":
+    name: "Yon"
+    slug: "yon"
+    name_toc: "Eclesiastés"
+  "MIC":
+    name: "Mik"
+    slug: "mik"
+    name_toc: "El Cantar de los Cantares"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Isaías"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Jeremías"
+  "ZEP":
+    name: "Sef"
+    slug: "sef"
+    name_toc: "Lamentaciones"
+  "HAG":
+    name: "Hag"
+    slug: "hag"
+    name_toc: "Ezequiel"
+  "ZEC":
+    name: "Sak"
+    slug: "sak"
+    name_toc: "Daniel"
+  "MAL":
+    name: "Mala"
+    slug: "mala"
+    name_toc: "Oseas"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Joel"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Amós"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Abdías"
+  "JHN":
+    name: "Yoh"
+    slug: "yoh"
+    name_toc: "Jonás"
+  "ACT":
+    name: "Mase"
+    slug: "mase"
+    name_toc: "Miqueas"
+  "ROM":
+    name: "Alo"
+    slug: "alo"
+    name_toc: "Nahúm"
+  "1CO":
+    name: "1 Akoli"
+    slug: "1-akoli"
+    name_toc: "Habacuc"
+  "2CO":
+    name: "2 Akoli"
+    slug: "2-akoli"
+    name_toc: "Sofonías"
+  "GAL":
+    name: "Agal"
+    slug: "agal"
+    name_toc: "Hageo"
+  "EPH":
+    name: "Aef"
+    slug: "aef"
+    name_toc: "Zacarías"
+  "PHP":
+    name: "Afil"
+    slug: "afil"
+    name_toc: "Malaquías"
+  "COL":
+    name: "Akolo"
+    slug: "akolo"
+    name_toc: "Tobit"
+  "1TH":
+    name: "1 Ates"
+    slug: "1-ates"
+    name_toc: "ESTER (texto griego)"
+  "2TH":
+    name: "2 Ates"
+    slug: "2-ates"
+    name_toc: "Sabiduría"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "Eclesiástico"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "Baruc"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Carta de Jeremías"
+  "PHM":
+    name: "Fil"
+    slug: "fil"
+    name_toc: "DANIEL (adiciones deuterocanónicas)"
+  "HEB":
+    name: "Aheb"
+    slug: "aheb"
+    name_toc: "Susana"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+    name_toc: "Bel"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+    name_toc: "1 Macabeos"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+    name_toc: "2 Macabeos"
+  "1JN":
+    name: "1 Yoh"
+    slug: "1-yoh"
+    name_toc: "San Mateo"
+  "2JN":
+    name: "2 Yoh"
+    slug: "2-yoh"
+    name_toc: "San Marcos"
+  "3JN":
+    name: "3 Yoh"
+    slug: "3-yoh"
+    name_toc: "San Lucas"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+    name_toc: "San Juan"
+  "REV":
+    name: "Ciw"
+    slug: "ciw"
+    name_toc: "Ba'axo'ob"

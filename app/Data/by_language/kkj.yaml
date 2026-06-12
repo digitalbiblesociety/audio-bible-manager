@@ -1,0 +1,83 @@
+language: "kkj"
+books:
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Jaŋ"
+    slug: "jan"
+  "ACT":
+    name: "Ɓotu Ɓe Tomun"
+    slug: "botu-be-tomun"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Kɔrɛŋt"
+    slug: "1-krnt"
+  "2CO":
+    name: "2 Kɔrɛŋt"
+    slug: "2-krnt"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efɛs"
+    slug: "efs"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filemn"
+  "HEB":
+    name: "Ɓehebere"
+    slug: "behebere"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piyɛr"
+    slug: "1-piyr"
+  "2PE":
+    name: "2 Piyɛr"
+    slug: "2-piyr"
+  "1JN":
+    name: "1 Jaŋ"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jaŋ"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jaŋ"
+    slug: "3-jan"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Punja Mɛyasi"
+    slug: "punja-myasi"

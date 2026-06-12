@@ -1,0 +1,83 @@
+language: "bfd"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+  "ACT":
+    name: "Ɨ̀fàꞌà"
+    slug: "ifaa"
+  "ROM":
+    name: "BaRoma"
+    slug: "baroma"
+  "1CO":
+    name: "1 BaKorinto"
+    slug: "1-bakorinto"
+  "2CO":
+    name: "2 BaKorinto"
+    slug: "2-bakorinto"
+  "GAL":
+    name: "BaGalatia"
+    slug: "bagalatia"
+  "EPH":
+    name: "BaEfeso"
+    slug: "baefeso"
+  "PHP":
+    name: "BaFilipi"
+    slug: "bafilipi"
+  "COL":
+    name: "BaKolosi"
+    slug: "bakolosi"
+  "1TH":
+    name: "1 BaTesalonika"
+    slug: "1-batesalonika"
+  "2TH":
+    name: "2 BaTesalonika"
+    slug: "2-batesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "BaHeber"
+    slug: "baheber"
+  "JAS":
+    name: "Jɛms"
+    slug: "jms"
+  "1PE":
+    name: "1 Peta"
+    slug: "1-peta"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Ɨ̀nnǔ nlwìꞌìnjɨ̀m"
+    slug: "innu-nlwiinjim"
+  "REV":
+    name: "Ɨ̀nnǔ nlwìꞌìnjɨ̀m"
+    slug: "innu-nlwiinjim"

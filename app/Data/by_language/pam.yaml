@@ -1,0 +1,314 @@
+language: "pam"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+    name_toc: "Promé Karta Di Huan"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+    name_toc: "Di Dos Karta Di Huan"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+    name_toc: "Di Tres Karta Di Huan"
+  "NUM":
+    name: "Ding Bilang"
+    slug: "ding-bilang"
+    name_toc: "Karta Di Hudas"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Revelashon"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+    name_toc: "Génesis"
+  "JDG":
+    name: "Ukum"
+    slug: "ukum"
+    name_toc: "Éksodo"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Levítiko"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Numbernan"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Deuteronomio"
+  "1KI":
+    name: "1 Ari"
+    slug: "1-ari"
+    name_toc: "Yozue"
+  "2KI":
+    name: "2 Ari"
+    slug: "2-ari"
+    name_toc: "Huesnan"
+  "1CH":
+    name: "1 Cronica"
+    slug: "1-cronica"
+    name_toc: "Ruth"
+  "2CH":
+    name: "2 Cronica"
+    slug: "2-cronica"
+    name_toc: "1 Samuel"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "2 Samuel"
+  "NEH":
+    name: "Nehemias"
+    slug: "nehemias"
+    name_toc: "1 Reinan"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "2 Reinan"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "1 Krónikanan"
+  "PSA":
+    name: "Ding Dalit"
+    slug: "ding-dalit"
+    name_toc: "2 Krónikanan"
+  "PRO":
+    name: "Ding Kasebian"
+    slug: "ding-kasebian"
+    name_toc: "Esdras"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+    name_toc: "Nehemías"
+  "SNG":
+    name: "Ing Malagung Diling Kanta"
+    slug: "ing-malagung-diling-kanta"
+    name_toc: "Ester"
+  "ISA":
+    name: "Isaias"
+    slug: "isaias"
+    name_toc: "Job"
+  "JER":
+    name: "Jeremias"
+    slug: "jeremias"
+    name_toc: "Salmonan"
+  "LAM":
+    name: "Ding Tagulele"
+    slug: "ding-tagulele"
+    name_toc: "Proverbionan"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "Predikador"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "E Kanto Di Tur Kanto"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Isaías"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Yeremías"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Lamentashonnan"
+  "OBA":
+    name: "Obadias"
+    slug: "obadias"
+    name_toc: "Ezekiel"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Daniel"
+  "MIC":
+    name: "Mikeas"
+    slug: "mikeas"
+    name_toc: "Hoséas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Yoel"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Amos"
+  "ZEP":
+    name: "Zepania"
+    slug: "zepania"
+    name_toc: "Abdías"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Yonas"
+  "ZEC":
+    name: "Zacarias"
+    slug: "zacarias"
+    name_toc: "Mikéas"
+  "MAL":
+    name: "Malakias"
+    slug: "malakias"
+    name_toc: "Nahum"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Habakuk"
+  "JDT":
+    name: "Judith"
+    slug: "judith"
+    name_toc: "Sofonías"
+  "ESG":
+    name: "Esther Greek"
+    slug: "esther-greek"
+    name_toc: "Hagai"
+  "WIS":
+    name: "Ing Kabiasnan Nang Solomon"
+    slug: "ing-kabiasnan-nang-solomon"
+    name_toc: "Zakarías"
+  "SIR":
+    name: "Ecclessiasticu"
+    slug: "ecclessiasticu"
+    name_toc: "Malakías"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Evangelio Segun Mateo"
+  "LJE":
+    name: "Ing Sulat Nang Jeremias"
+    slug: "ing-sulat-nang-jeremias"
+    name_toc: "Evangelio Segun Marko"
+  "S3Y":
+    name: "Ing Kanta Ding Atlung Kayanakan A Lalaki"
+    slug: "ing-kanta-ding-atlung-kayanakan-a-lalaki"
+    name_toc: "Evangelio Segun Lukas"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Evangelio Segun Huan"
+  "BEL":
+    name: "I Bel At Ing Dragon"
+    slug: "i-bel-at-ing-dragon"
+    name_toc: "Echonan Di E Apòstelnan"
+  "1MA":
+    name: "1 Macabeo"
+    slug: "1-macabeo"
+    name_toc: "Karta Di Pablo Na Romanonan"
+  "2MA":
+    name: "2 Macabeo"
+    slug: "2-macabeo"
+    name_toc: "Di Promé Karta Di Pablo Na Korintionan"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Di Dos Karta Di Pablo Na Korintionan"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+    name_toc: "Karta Di Pablo Na Galatanan"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+    name_toc: "Karta Di Pablo Na Efesionan"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+    name_toc: "Karta Di Pablo Na Filipensenan"
+  "ACT":
+    name: "Ding Dapat"
+    slug: "ding-dapat"
+    name_toc: "Karta Di Pablo Na Kolosensenan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Promé Karta Di Pablo Na Tesalonisensenan"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+    name_toc: "Di Dos Karta Di Pablo Na Tesalonisensenan"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+    name_toc: "Promé Karta Di Pablo Na Timoteo"
+  "GAL":
+    name: "Galacia"
+    slug: "galacia"
+    name_toc: "Di Dos Karta Di Pablo Na Timoteo"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Karta Di Pablo Na Tito"
+  "PHP":
+    name: "Filipos"
+    slug: "filipos"
+    name_toc: "Karta Di Pablo Na Filemon"
+  "COL":
+    name: "Colosas"
+    slug: "colosas"
+    name_toc: "Karta Na Hebreonan"
+  "1TH":
+    name: "1 Tesalonica"
+    slug: "1-tesalonica"
+    name_toc: "Karta Di Hakobo"
+  "2TH":
+    name: "2 Tesalonica"
+    slug: "2-tesalonica"
+    name_toc: "Promé Karta Di Pedro"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Di Dos Karta Di Pedro"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Promé Karta Di Huan"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Di Dos Karta Di Huan"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Di Tres Karta Di Huan"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+    name_toc: "Karta Di Hudas"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+    name_toc: "Revelashon"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "Wakù Itekale Matthew Nùmenukappù"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "Wakù Itekale Mark Nùmenukappù"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+    name_toc: "Wakù Itekale Luk Nùmenukappù"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+    name_toc: "Wakù Itekale John Nùmenukappù"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+    name_toc: "Yeunossak kon Wotokoyi Yekale"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Paul Kaletayi Inmenukappù Rome Pon kon Piyak"
+  "REV":
+    name: "Kapahayagan"
+    slug: "kapahayagan"
+    name_toc: "Wapiyalok Paul Kaletayi Immenukappù Corinth Pon Kon Piyak"

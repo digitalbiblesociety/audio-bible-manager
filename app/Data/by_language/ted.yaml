@@ -1,0 +1,83 @@
+language: "ted"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Makɩ"
+    slug: "mak"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Saan"
+    slug: "saan"
+  "ACT":
+    name: "Nunu‑tɔplɩ"
+    slug: "nunutpl"
+  "ROM":
+    name: "Rɔmʋkʋɛ"
+    slug: "rmk"
+  "1CO":
+    name: "1 Kolɛtɩkʋɛ"
+    slug: "1-koltk"
+  "2CO":
+    name: "2 Kolɛtɩkʋɛ"
+    slug: "2-koltk"
+  "GAL":
+    name: "Galatɩkʋɛ"
+    slug: "galatk"
+  "EPH":
+    name: "Efɛsɩkʋɛ"
+    slug: "efsk"
+  "PHP":
+    name: "Filipʋkʋɛ"
+    slug: "filipk"
+  "COL":
+    name: "Kolɔsɩkʋɛ"
+    slug: "kolsk"
+  "1TH":
+    name: "1 Tesalonikɩkʋɛ"
+    slug: "1-tesalonikk"
+  "2TH":
+    name: "2 Tesalonikɩkʋɛ"
+    slug: "2-tesalonikk"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titɩ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Hebrekʋɛ"
+    slug: "hebrek"
+  "JAS":
+    name: "Sakɩ"
+    slug: "sak"
+  "1PE":
+    name: "1 Piɛlɩ"
+    slug: "1-pil"
+  "2PE":
+    name: "2 Piɛlɩ"
+    slug: "2-pil"
+  "1JN":
+    name: "1 Saan"
+    slug: "1-saan"
+  "2JN":
+    name: "2 Saan"
+    slug: "2-saan"
+  "3JN":
+    name: "3 Saan"
+    slug: "3-saan"
+  "JUD":
+    name: "Judɩ"
+    slug: "jud"
+  "REV":
+    name: "'Kwla'mʋ'yeecrɩɩnɩɛ"
+    slug: "kwlamyeecrn"

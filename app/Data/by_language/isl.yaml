@@ -1,0 +1,86 @@
+language: "isl"
+books:
+  "PSA":
+    name: "Sálmarnir"
+    slug: "salmarnir"
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markús"
+    slug: "markus"
+  "LUK":
+    name: "Lúkas"
+    slug: "lukas"
+  "JHN":
+    name: "Jóhannes"
+    slug: "johannes"
+  "ACT":
+    name: "Postulasagan"
+    slug: "postulasagan"
+  "ROM":
+    name: "Rómverjabréfið"
+    slug: "romverjabrefi"
+  "1CO":
+    name: "I. Korintubréf"
+    slug: "i-korintubref"
+  "2CO":
+    name: "II. Korintubréf"
+    slug: "ii-korintubref"
+  "GAL":
+    name: "Galatabréfið"
+    slug: "galatabrefi"
+  "EPH":
+    name: "Efesusbréfið"
+    slug: "efesusbrefi"
+  "PHP":
+    name: "Filippíbréfið"
+    slug: "filippibrefi"
+  "COL":
+    name: "Kólossubréfið"
+    slug: "kolossubrefi"
+  "1TH":
+    name: "I. Þessaloníkubréf"
+    slug: "i-essalonikubref"
+  "2TH":
+    name: "II. Þessaloníkubréf"
+    slug: "ii-essalonikubref"
+  "1TI":
+    name: "I. Tímóteusarbréf"
+    slug: "i-timoteusarbref"
+  "2TI":
+    name: "II. Tímóteusarbréf"
+    slug: "ii-timoteusarbref"
+  "TIT":
+    name: "Títusarbréfið"
+    slug: "titusarbrefi"
+  "PHM":
+    name: "Fílemonsbréfið"
+    slug: "filemonsbrefi"
+  "HEB":
+    name: "Hebreabréfið"
+    slug: "hebreabrefi"
+  "JAS":
+    name: "Jakobsbréf"
+    slug: "jakobsbref"
+  "1PE":
+    name: "I. Pétursbréf"
+    slug: "i-petursbref"
+  "2PE":
+    name: "II. Pétursbréf"
+    slug: "ii-petursbref"
+  "1JN":
+    name: "I. Jóhannesarbréf"
+    slug: "i-johannesarbref"
+  "2JN":
+    name: "II. Jóhannesarbréf"
+    slug: "ii-johannesarbref"
+  "3JN":
+    name: "III. Jóhannesarbréf"
+    slug: "iii-johannesarbref"
+  "JUD":
+    name: "Júdasarbréf"
+    slug: "judasarbref"
+  "REV":
+    name: "Opinberun Jóhannesar"
+    slug: "opinberun-johannesar"

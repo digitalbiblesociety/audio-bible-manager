@@ -1,0 +1,8 @@
+language: "hru"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"

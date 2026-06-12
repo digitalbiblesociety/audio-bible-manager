@@ -1,0 +1,116 @@
+language: "mpx"
+books:
+  "GEN":
+    name: "Abatelipuna"
+    slug: "abatelipuna"
+  "EXO":
+    name: "Totagil"
+    slug: "totagil"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+  "RUT":
+    name: "Ludi"
+    slug: "ludi"
+  "1SA":
+    name: "1 Samuwela"
+    slug: "1-samuwela"
+  "2SA":
+    name: "2 Samuwela"
+    slug: "2-samuwela"
+  "2CH":
+    name: "2Ch"
+    slug: "2ch"
+  "EZR":
+    name: "Esila"
+    slug: "esila"
+  "PSA":
+    name: "Same"
+    slug: "same"
+  "DAN":
+    name: "Daniyela"
+    slug: "daniyela"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MAT":
+    name: "Mataiyo"
+    slug: "mataiyo"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Diyon"
+    slug: "diyon"
+  "ACT":
+    name: "Tuwalali"
+    slug: "tuwalali"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinita"
+    slug: "1-kolinita"
+  "2CO":
+    name: "2 Kolinita"
+    slug: "2-kolinita"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibilu"
+    slug: "hibilu"
+  "JAS":
+    name: "Yemesa"
+    slug: "yemesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Diyon"
+    slug: "1-diyon"
+  "2JN":
+    name: "2 Diyon"
+    slug: "2-diyon"
+  "3JN":
+    name: "3 Diyon"
+    slug: "3-diyon"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Pankite"
+    slug: "pankite"

@@ -1,0 +1,266 @@
+language: "tir"
+books:
+  "GEN":
+    name: "ዘፍጥረት"
+    slug: "zafeterat"
+    name_toc: "O Ngo Ester"
+  "EXO":
+    name: "ዘፀኣት"
+    slug: "zadaat"
+    name_toc: "O Ayub"
+  "LEV":
+    name: "ዘሌዋውያን"
+    slug: "zalewaweyan"
+    name_toc: "O Mazmur"
+  "NUM":
+    name: "ዘሑልቍ"
+    slug: "zahuleqwe"
+    name_toc: "O Amsal"
+  "DEU":
+    name: "ዘዳግም"
+    slug: "zadagem"
+    name_toc: "O Pengkhotbah"
+  "JOS":
+    name: "ኢያሱ"
+    slug: "iyasu"
+    name_toc: "O Kidung Agung"
+  "JDG":
+    name: "መሳፍንት"
+    slug: "masafenet"
+    name_toc: "O Yesaya"
+  "RUT":
+    name: "ሩት"
+    slug: "rut"
+    name_toc: "O Yeremia"
+  "1SA":
+    name: "1ይ ሳሙኤል"
+    slug: "1y-samuel"
+    name_toc: "O Ratapan"
+  "2SA":
+    name: "2ይ ሳሙኤል"
+    slug: "2y-samuel"
+    name_toc: "O Yehezkiel"
+  "1KI":
+    name: "1ይ ነገስት"
+    slug: "1y-nagaset"
+    name_toc: "O Daniel"
+  "2KI":
+    name: "2ይ ነገስት"
+    slug: "2y-nagaset"
+    name_toc: "O Hosea"
+  "1CH":
+    name: "1ይ ዜና"
+    slug: "1y-zena"
+    name_toc: "O Yoel"
+  "2CH":
+    name: "2ይ ዜና"
+    slug: "2y-zena"
+    name_toc: "O Amos"
+  "EZR":
+    name: "እዝራ"
+    slug: "ezera"
+    name_toc: "O Obaja"
+  "NEH":
+    name: "ነህምያ"
+    slug: "nahemeya"
+    name_toc: "O Yunus"
+  "EST":
+    name: "ኣስቴር"
+    slug: "aseter"
+    name_toc: "O Mikha"
+  "JOB":
+    name: "ኢዮብ"
+    slug: "iyob"
+    name_toc: "O Nahum"
+  "PSA":
+    name: "ዳዊት"
+    slug: "dawit"
+    name_toc: "O Habakuk"
+  "PRO":
+    name: "ምሳሌ"
+    slug: "mesale"
+    name_toc: "O Zefanya"
+  "ECC":
+    name: "መክብብ"
+    slug: "makebeb"
+    name_toc: "O Hagai"
+  "SNG":
+    name: "መሃልየ"
+    slug: "mahaleya"
+    name_toc: "O Zakharia"
+  "ISA":
+    name: "ኢሳይያስ"
+    slug: "isayeyas"
+    name_toc: "O Maleakhi"
+  "JER":
+    name: "ኤርሚያስ"
+    slug: "eremiyas"
+    name_toc: "O Abari Ma Oa O Matius Wa Tö Tuli-tulihi"
+  "LAM":
+    name: "ሰቆቃወ"
+    slug: "saqoqawa"
+    name_toc: "O Abari Ma Oa O Markus Wa Tö Tuli-tulihi"
+  "EZK":
+    name: "ሕዝቅኤል"
+    slug: "hezeqeel"
+    name_toc: "O Abari Ma Oa O Lukas Wa Tö Tuli-tulihi"
+  "DAN":
+    name: "ዳንኤል"
+    slug: "daneel"
+    name_toc: "O Abari Ma Oa O Yohanis Wa Tö Tuli-tulihi"
+  "HOS":
+    name: "ሆሴዕ"
+    slug: "hose"
+    name_toc: "O Rasul-rasul Manga Jarita"
+  "JOL":
+    name: "ኢዩኤል"
+    slug: "iyuel"
+    name_toc: "O Paulus Ai Hurata O Jemaatika O Roma Mabereraka"
+  "AMO":
+    name: "ኣሞፅ"
+    slug: "amod"
+    name_toc: "O Paulus Ai Hurata Madodihiraka O Jemaatika O Korintus Mabereraka"
+  "OBA":
+    name: "ኣብድዩ"
+    slug: "abedeyu"
+    name_toc: "O Paulus Ai Hurata Mahinotoka O Jemaatika O Korintus Mabereraka"
+  "JON":
+    name: "ዮናስ"
+    slug: "yonas"
+    name_toc: "O Paulus Ai Hurata O Jemaat-jemaatika O Galatia Ma Daera Oka"
+  "MIC":
+    name: "ሚክያስ"
+    slug: "mikeyas"
+    name_toc: "O Paulus Ai Hurata O Jemaatika O Efesus Mabereraka"
+  "NAM":
+    name: "ናሆም"
+    slug: "nahom"
+    name_toc: "O Paulus Ai Hurata O Jemaatika O Pilipi Mabereraka"
+  "HAB":
+    name: "እንባቆም"
+    slug: "enebaqom"
+    name_toc: "O Paulus Ai Hurata O Jemaatika O Kolose Mabereraka"
+  "ZEP":
+    name: "ሶፎንያስ"
+    slug: "sofoneyas"
+    name_toc: "O Paulus Ai Hurata Madodihiraka O Jemaatika O Tesalonika Mabereraka"
+  "HAG":
+    name: "ሓጌ"
+    slug: "hage"
+    name_toc: "O Paulus Ai Hurata Mahinotoka O Jemaatika O Tesalonika Mabereraka"
+  "ZEC":
+    name: "ዘካርያስ"
+    slug: "zakareyas"
+    name_toc: "O Paulus Ai Hurata Madodihiraka O Timotiusika"
+  "MAL":
+    name: "ሚልክያስ"
+    slug: "milekeyas"
+    name_toc: "O Paulus Ai Hurata Mahinotoka O Timotiusika"
+  "MAT":
+    name: "ማቴዎስ"
+    slug: "matewos"
+    name_toc: "O Paulus Ai Hurata O Titusika"
+  "MRK":
+    name: "ማርቆስ"
+    slug: "mareqos"
+    name_toc: "O Paulus Ai Hurata O Filemonika"
+  "LUK":
+    name: "ሉቃስ"
+    slug: "luqas"
+    name_toc: "O Hurata O Ibrani Manyawaika"
+  "JHN":
+    name: "ዮሃንስ"
+    slug: "yohanes"
+    name_toc: "O Yakobus Ai Hurata"
+  "ACT":
+    name: "ግብሪ ሃዋርያት"
+    slug: "geberi-hawareyat"
+    name_toc: "O Petrus Ai Hurata Madodihiraka"
+  "ROM":
+    name: "ሮሜ"
+    slug: "rome"
+    name_toc: "O Petrus Ai Hurata Mahinotoka"
+  "1CO":
+    name: "1ይ ቆሮንቶስ"
+    slug: "1y-qoronetos"
+    name_toc: "O Yohanis Ai Hurata Madodihiraka"
+  "2CO":
+    name: "2ይ ቆሮንቶስ"
+    slug: "2y-qoronetos"
+    name_toc: "O Yohanis Ai Hurata Mahinotoka"
+  "GAL":
+    name: "ገላትያ"
+    slug: "galateya"
+    name_toc: "O Yohanis Ai Hurata Mahangeoka"
+  "EPH":
+    name: "ኤፌሶን"
+    slug: "efeson"
+    name_toc: "O Yudas Ai Hurata"
+  "PHP":
+    name: "ፊልጵስዩስ"
+    slug: "filepeseyus"
+    name_toc: "O Himatoko O Yohanisika"
+  "COL":
+    name: "ቈላስይስ"
+    slug: "qwalaseyes"
+    name_toc: "Buku dia Ntundu dia Mose dietawo Etatelu"
+  "1TH":
+    name: "1ይ ተሰሎንቄ"
+    slug: "1y-tasaloneqe"
+    name_toc: "Buku dia Hendi dia Mose dietawo Etumbelu"
+  "2TH":
+    name: "2ይ ተሰሎንቄ"
+    slug: "2y-tasaloneqe"
+    name_toc: "Buku dia Satu dia Mose dietawo Akambu wʼAsiLewi"
+  "1TI":
+    name: "1ይ ጢሞቴዎስ"
+    slug: "1y-timotewos"
+    name_toc: "Buku dia Nei dia Mose dietawo Walelu"
+  "2TI":
+    name: "2ይ ጢሞቴዎስ"
+    slug: "2y-timotewos"
+    name_toc: "Buku dia Tanu dia Mose dietawo Euhwelu KkElembe"
+  "TIT":
+    name: "ቲቶ"
+    slug: "tito"
+    name_toc: "Jashua"
+  "PHM":
+    name: "ፊልሞና"
+    slug: "filemona"
+    name_toc: "Embadi"
+  "HEB":
+    name: "ዕብራውያን"
+    slug: "eberaweyan"
+    name_toc: "Ruta"
+  "JAS":
+    name: "ያእቆብ"
+    slug: "yaeqob"
+    name_toc: "Buku dia Ntundu dia Samuele"
+  "1PE":
+    name: "1ይ ጴጥሮስ"
+    slug: "1y-peteros"
+    name_toc: "Buku dia Hendi dia Samuele"
+  "2PE":
+    name: "2ይ ጴጥሮስ"
+    slug: "2y-peteros"
+    name_toc: "Buku dia Ntundu dia Khumi ya Dikanga"
+  "1JN":
+    name: "1ይ ዮሃንስ"
+    slug: "1y-yohanes"
+    name_toc: "Buku dia Hendi dia Khumi ya Dikanga"
+  "2JN":
+    name: "2ይ ዮሃንስ"
+    slug: "2y-yohanes"
+    name_toc: "Buku dia Ntundu dia Ekondo"
+  "3JN":
+    name: "3ይ ዮሃንስ"
+    slug: "3y-yohanes"
+    name_toc: "Buku dia Hendi dia Ekondo"
+  "JUD":
+    name: "ይሁዳ"
+    slug: "yehuda"
+    name_toc: "Ezera"
+  "REV":
+    name: "ራእይ"
+    slug: "raey"
+    name_toc: "Nehemiya"

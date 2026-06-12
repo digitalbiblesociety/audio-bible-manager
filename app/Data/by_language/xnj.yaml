@@ -1,0 +1,83 @@
+language: "xnj"
+books:
+  "MAT":
+    name: "Matei"
+    slug: "matei"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohani"
+    slug: "yohani"
+  "ACT":
+    name: "Matendu"
+    slug: "matendu"
+  "ROM":
+    name: "Valumi"
+    slug: "valumi"
+  "1CO":
+    name: "1 Vakolinto"
+    slug: "1-vakolinto"
+  "2CO":
+    name: "2 Vakolinto"
+    slug: "2-vakolinto"
+  "GAL":
+    name: "Vagalatia"
+    slug: "vagalatia"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+  "COL":
+    name: "Vakolosai"
+    slug: "vakolosai"
+  "1TH":
+    name: "1 Vatesolonike"
+    slug: "1-vatesolonike"
+  "2TH":
+    name: "2 Vatesolonike"
+    slug: "2-vatesolonike"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Vaebulania"
+    slug: "vaebulania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petili"
+    slug: "1-petili"
+  "2PE":
+    name: "2 Petili"
+    slug: "2-petili"
+  "1JN":
+    name: "1 Yohani"
+    slug: "1-yohani"
+  "2JN":
+    name: "2 Yohani"
+    slug: "2-yohani"
+  "3JN":
+    name: "3 Yohani"
+    slug: "3-yohani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ugubukulo"
+    slug: "ugubukulo"

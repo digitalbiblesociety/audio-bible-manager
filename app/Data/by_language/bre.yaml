@@ -1,0 +1,14 @@
+language: "bre"
+books:
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+  "JHN":
+    name: "Jean"
+    slug: "jean"

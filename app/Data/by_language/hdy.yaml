@@ -1,0 +1,200 @@
+language: "hdy"
+books:
+  "GEN":
+    name: "Qooccanchi Kitaaba"
+    slug: "qooccanchi-kitaaba"
+  "EXO":
+    name: "Dooyyi Kitaaba"
+    slug: "dooyyi-kitaaba"
+  "LEV":
+    name: "Qeessuwwi Kitaaba"
+    slug: "qeessuwwi-kitaaba"
+  "NUM":
+    name: "Xiqqi Kitaaba"
+    slug: "xiqqi-kitaaba"
+  "DEU":
+    name: "See'l Kitaaba"
+    slug: "see-l-kitaaba"
+  "JOS":
+    name: "Iyyaas Kitaaba"
+    slug: "iyyaas-kitaaba"
+  "JDG":
+    name: "Gassaa'n Kitaaba"
+    slug: "gassaa-n-kitaaba"
+  "RUT":
+    name: "Ruut Kitaaba"
+    slug: "ruut-kitaaba"
+  "1SA":
+    name: "1 Saamu'eel Kitaaba"
+    slug: "1-saamu-eel-kitaaba"
+  "2SA":
+    name: "2 Saamu'eel Kitaaba"
+    slug: "2-saamu-eel-kitaaba"
+  "1KI":
+    name: "1Adlilluwwi kitaaba"
+    slug: "1adlilluwwi-kitaaba"
+  "2KI":
+    name: "2 Adilluwwi Kitaaba"
+    slug: "2-adilluwwi-kitaaba"
+  "1CH":
+    name: "1 Agannuwwi Kitaaba"
+    slug: "1-agannuwwi-kitaaba"
+  "2CH":
+    name: "2Agannuwwi Kitaaba"
+    slug: "2agannuwwi-kitaaba"
+  "EZR":
+    name: "Izir Kitaaba"
+    slug: "izir-kitaaba"
+  "NEH":
+    name: "Nahim Kitaaba"
+    slug: "nahim-kitaaba"
+  "EST":
+    name: "Asteer Kitaaba"
+    slug: "asteer-kitaaba"
+  "JOB":
+    name: "Iyyoob Kitaaba"
+    slug: "iyyoob-kitaaba"
+  "PSA":
+    name: "Mazmuu'l Kitaaba"
+    slug: "mazmuu-l-kitaaba"
+  "PRO":
+    name: "Kobi'llishshi Kitaaba"
+    slug: "kobi-llishshi-kitaaba"
+  "ECC":
+    name: "Hayyo'i Kitaaba"
+    slug: "hayyo-i-kitaaba"
+  "SNG":
+    name: "Birimmi Kitaaba"
+    slug: "birimmi-kitaaba"
+  "ISA":
+    name: "Issaayyaas Kitaaba"
+    slug: "issaayyaas-kitaaba"
+  "JER":
+    name: "Ermiyaas Kitaaba"
+    slug: "ermiyaas-kitaaba"
+  "LAM":
+    name: "Kichchechchi Kitaaba"
+    slug: "kichchechchi-kitaaba"
+  "EZK":
+    name: "Hizqi'eel Kitaaba"
+    slug: "hizqi-eel-kitaaba"
+  "DAN":
+    name: "Daani'eel Kitaaba"
+    slug: "daani-eel-kitaaba"
+  "HOS":
+    name: "Hoose'i Kitaaba"
+    slug: "hoose-i-kitaaba"
+  "JOL":
+    name: "Iyyoo'eel Kitaaba"
+    slug: "iyyoo-eel-kitaaba"
+  "AMO":
+    name: "Amoox Kitaaba"
+    slug: "amoox-kitaaba"
+  "OBA":
+    name: "Abdiy kitaaba"
+    slug: "abdiy-kitaaba"
+  "JON":
+    name: "Yoonaas Kitaaba"
+    slug: "yoonaas-kitaaba"
+  "MIC":
+    name: "Mikkiyaas Kitaaba"
+    slug: "mikkiyaas-kitaaba"
+  "NAM":
+    name: "Naahoom Kitaaba"
+    slug: "naahoom-kitaaba"
+  "HAB":
+    name: "Inbaaqoom Kitaaba"
+    slug: "inbaaqoom-kitaaba"
+  "ZEP":
+    name: "Safooniyaas Kitaaba"
+    slug: "safooniyaas-kitaaba"
+  "HAG":
+    name: "Hage'i Kitaaba"
+    slug: "hage-i-kitaaba"
+  "ZEC":
+    name: "Zakkaaryaas Kitaaba"
+    slug: "zakkaaryaas-kitaaba"
+  "MAL":
+    name: "Milkiyaas Kitaaba"
+    slug: "milkiyaas-kitaaba"
+  "MAT":
+    name: "Maatiwoos Mishiraachcha"
+    slug: "maatiwoos-mishiraachcha"
+  "MRK":
+    name: "Maarqoos Mishiraachcha"
+    slug: "maarqoos-mishiraachcha"
+  "LUK":
+    name: "Luqaas Mishiraachcha"
+    slug: "luqaas-mishiraachcha"
+  "JHN":
+    name: "Yohaannis Mishiraachcha"
+    slug: "yohaannis-mishiraachcha"
+  "ACT":
+    name: "Asse'amaa'n Baxo"
+    slug: "asse-amaa-n-baxo"
+  "ROM":
+    name: "Oroome'i Asso"
+    slug: "oroome-i-asso"
+  "1CO":
+    name: "1Qorontoos Asso"
+    slug: "1qorontoos-asso"
+  "2CO":
+    name: "2Qorontoos Asso"
+    slug: "2qorontoos-asso"
+  "GAL":
+    name: "Galatiy Asso"
+    slug: "galatiy-asso"
+  "EPH":
+    name: "Efeesoon Asso"
+    slug: "efeesoon-asso"
+  "PHP":
+    name: "Filiphphisiyus Asso"
+    slug: "filiphphisiyus-asso"
+  "COL":
+    name: "Qollaasiyaas Asso"
+    slug: "qollaasiyaas-asso"
+  "1TH":
+    name: "1Tasalonqe'i Asso"
+    slug: "1tasalonqe-i-asso"
+  "2TH":
+    name: "2Tasalonqe'i Asso"
+    slug: "2tasalonqe-i-asso"
+  "1TI":
+    name: "1Ximootoos Asso"
+    slug: "1ximootoos-asso"
+  "2TI":
+    name: "2Ximootoos Asso"
+    slug: "2ximootoos-asso"
+  "TIT":
+    name: "Tiito'i Asso"
+    slug: "tiito-i-asso"
+  "PHM":
+    name: "Filimoon Asso"
+    slug: "filimoon-asso"
+  "HEB":
+    name: "Ibro'i Asso"
+    slug: "ibro-i-asso"
+  "JAS":
+    name: "Yaaqoob Asso"
+    slug: "yaaqoob-asso"
+  "1PE":
+    name: "1Pheexiroos Asso"
+    slug: "1pheexiroos-asso"
+  "2PE":
+    name: "2Pheexiroos Asso"
+    slug: "2pheexiroos-asso"
+  "1JN":
+    name: "1Yohaannis Asso"
+    slug: "1yohaannis-asso"
+  "2JN":
+    name: "2Yohaannis Asso"
+    slug: "2yohaannis-asso"
+  "3JN":
+    name: "3Yohaannis Asso"
+    slug: "3yohaannis-asso"
+  "JUD":
+    name: "Yihud Asso"
+    slug: "yihud-asso"
+  "REV":
+    name: "Yohaannis Kaalta"
+    slug: "yohaannis-kaalta"

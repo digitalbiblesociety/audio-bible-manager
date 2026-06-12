@@ -1,0 +1,83 @@
+language: "xed"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukwa"
+    slug: "lukwa"
+  "JHN":
+    name: "Yuhwana"
+    slug: "yuhwana"
+  "ACT":
+    name: "Slna gwal ghunay"
+    slug: "slna-gwal-ghunay"
+  "ROM":
+    name: "La Ruma"
+    slug: "la-ruma"
+  "1CO":
+    name: "1 Kwareŋt"
+    slug: "1-kwarent"
+  "2CO":
+    name: "2 Kwareŋt"
+    slug: "2-kwarent"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+  "EPH":
+    name: "Afisus"
+    slug: "afisus"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Kwalus"
+    slug: "kwalus"
+  "1TH":
+    name: "1 Tesalunik"
+    slug: "1-tesalunik"
+  "2TH":
+    name: "2 Tesalunik"
+    slug: "2-tesalunik"
+  "1TI":
+    name: "1 Timute"
+    slug: "1-timute"
+  "2TI":
+    name: "2 Timute"
+    slug: "2-timute"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimuŋ"
+    slug: "filimun"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yuhwana"
+    slug: "1-yuhwana"
+  "2JN":
+    name: "2 Yuhwana"
+    slug: "2-yuhwana"
+  "3JN":
+    name: "3 Yuhwana"
+    slug: "3-yuhwana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Suna Yuhwana"
+    slug: "suna-yuhwana"

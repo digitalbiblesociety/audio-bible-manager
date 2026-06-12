@@ -1,0 +1,110 @@
+language: "npy"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Ngkora Marasa au nauki Matiu"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Ngkora Marasa au nauki Markus"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+    name_toc: "Ngkora Marasa au nauki Lukasi"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Ngkora Marasa au nauki Yohane"
+  "ACT":
+    name: "Suro"
+    slug: "suro"
+    name_toc: "Tuntukana Pobagonda Surona Pue Yesu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Surana Suro Paulu i to Sarani i wanua Roma"
+  "1CO":
+    name: "1 Korintu"
+    slug: "1-korintu"
+    name_toc: "Surana Suro Paulu au Nguru-nguruna i to Sarani i wanua Korintu"
+  "2CO":
+    name: "2 Korintu"
+    slug: "2-korintu"
+    name_toc: "Surana Suro Paulu au Karombelana i to Sarani i wanua Korintu"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Surana Suro Paulu i to Sarani i tampo Galatia"
+  "EPH":
+    name: "Epesu"
+    slug: "epesu"
+    name_toc: "Surana Suro Paulu i to Sarani i wanua Epesu"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Surana Suro Paulu i to Sarani i wanua Pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Surana Suro Paulu i to Sarani i wanua Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Surana Suro Paulu au Nguru-nguruna i to Sarani i wanuaTesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Surana Suro Paulu au Karombelana i to Sarani i wanua Tesalonika"
+  "1TI":
+    name: "1 Timotiu"
+    slug: "1-timotiu"
+    name_toc: "Surana Suro Paulu au Nguru-nguruna i Timotiu"
+  "2TI":
+    name: "2 Timotiu"
+    slug: "2-timotiu"
+    name_toc: "Surana Suro Paulu au Karombelana i Timotiu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Surana Suro Paulu i Titu"
+  "PHM":
+    name: "Pilemo"
+    slug: "pilemo"
+    name_toc: "Surana Suro Paulu i Pilemo"
+  "HEB":
+    name: "Ibarani"
+    slug: "ibarani"
+    name_toc: "Sura au rapakatu i hantobu to Sarani au rahanga to Ibarani"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+    name_toc: "Sura au nauki Yakobu"
+  "1PE":
+    name: "1 Peturu"
+    slug: "1-peturu"
+    name_toc: "Surana Suro Peturu au Nguru-nguruna"
+  "2PE":
+    name: "2 Peturu"
+    slug: "2-peturu"
+    name_toc: "Surana Suro Peturu au Karombelana"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Surana Suro Yohane au nguru-nguruna"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Surana Suro Yohane au Karombelana"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Surana Suro Yohane au Katalu"
+  "JUD":
+    name: "Yudasi"
+    slug: "yudasi"
+    name_toc: "Sura au Nauki Yudasi"
+  "REV":
+    name: "Pampetudungia"
+    slug: "pampetudungia"
+    name_toc: "Pampetudungia i Suro Yohane"

@@ -1,0 +1,266 @@
+language: "lns"
+books:
+  "GEN":
+    name: "Kèʼlo"
+    slug: "kelo"
+    name_toc: "Ŋwàʼ Kèʼlo"
+  "EXO":
+    name: "Fəə"
+    slug: "fee"
+    name_toc: "Ŋwàʼ Fəə"
+  "LEV":
+    name: "Cù"
+    slug: "cu"
+    name_toc: "Ŋwàʼ Cù"
+  "NUM":
+    name: "Kintaŋ"
+    slug: "kinta"
+    name_toc: "Ŋwàʼ Kintaŋ"
+  "DEU":
+    name: "Remrí"
+    slug: "remri"
+    name_toc: "Ŋwàʼ Remrí"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+    name_toc: "Ŋwàʼ Joshua"
+  "JDG":
+    name: "Atǎr Nsaʼ"
+    slug: "atar-nsa"
+    name_toc: "Ŋwàʼ Atǎr Nsaʼ"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Ŋwàʼ Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Ŋwàʼ Samuel mbìyì"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Ŋwàʼ Samuel woo baà"
+  "1KI":
+    name: "1 Afòn"
+    slug: "1-afon"
+    name_toc: "Ŋwàʼ Afòn mbìyi"
+  "2KI":
+    name: "2 Afòn"
+    slug: "2-afon"
+    name_toc: "Ŋwàʼ Afòn woo baà"
+  "1CH":
+    name: "1 Wòŋ"
+    slug: "1-wo"
+    name_toc: "Ŋwàʼ Wòŋ mbìyi"
+  "2CH":
+    name: "2 Wòŋ"
+    slug: "2-wo"
+    name_toc: "Ŋwàʼ Wòŋ woo baà"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Ŋwàʼ Esra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Ŋwàʼ Nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Ŋwàʼ Esta"
+  "JOB":
+    name: "Jov"
+    slug: "jov"
+    name_toc: "Ŋwàʼ Jov"
+  "PSA":
+    name: "Nsùyrì Nyùy"
+    slug: "nsuyri-nyuy"
+    name_toc: "Ŋwàʼ Nsùyrì Nyùy"
+  "PRO":
+    name: "Ŋgàn"
+    slug: "gan"
+    name_toc: "Ŋwàʼ Ŋgàn"
+  "ECC":
+    name: "Ŋgaà Tàrvìnyò"
+    slug: "gaa-tarvinyo"
+    name_toc: "Ŋwàʼ Ŋgaà Tàrvìnyò"
+  "SNG":
+    name: "Yòv Viŋgér"
+    slug: "yov-viger"
+    name_toc: "Ŋwàʼ Yòv Viŋgér"
+  "ISA":
+    name: "Aysaya"
+    slug: "aysaya"
+    name_toc: "Ŋwàʼ Aysaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Ŋwàʼ Jeremia"
+  "LAM":
+    name: "Yòvdìy"
+    slug: "yovdiy"
+    name_toc: "Ŋwàʼ Yòvdìy"
+  "EZK":
+    name: "Esiker"
+    slug: "esiker"
+    name_toc: "Ŋwàʼ Esiker"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Ŋwàʼ Daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Ŋwàʼ Hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Ŋwàʼ Joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Ŋwàʼ Amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Ŋwàʼ Obadia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Ŋwàʼ Jona"
+  "MIC":
+    name: "Mayka"
+    slug: "mayka"
+    name_toc: "Ŋwàʼ Mayka"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Ŋwàʼ Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Ŋwàʼ Habakuk"
+  "ZEP":
+    name: "Tsəfaniya"
+    slug: "tsefaniya"
+    name_toc: "Ŋwàʼ Tsəfaniya"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+    name_toc: "Ŋwàʼ Hagay"
+  "ZEC":
+    name: "Sekariya"
+    slug: "sekariya"
+    name_toc: "Ŋwàʼ Sekariya"
+  "MAL":
+    name: "Malakay"
+    slug: "malakay"
+    name_toc: "Ŋwàʼ Malakay"
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+    name_toc: "Ŋwàʼ Matio"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+    name_toc: "Ŋwàʼ Maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Ŋwàʼ Luk"
+  "JHN":
+    name: "Joon"
+    slug: "joon"
+    name_toc: "Ŋwàʼ Joon"
+  "ACT":
+    name: "Lim Aŋgàa Ntum"
+    slug: "lim-agaa-ntum"
+    name_toc: "Ŋwàʼ Lìm Aŋgàa Ntum Jesus"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Ŋwàʼ woó Rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+    name_toc: "Ŋwàʼ woó Korin mbìyi"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+    name_toc: "Ŋwàʼ woó Korin woo baà"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Ŋwàʼ woó Galatia"
+  "EPH":
+    name: "Efesor"
+    slug: "efesor"
+    name_toc: "Ŋwàʼ woó Efesor"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Ŋwàʼ woó Filipi"
+  "COL":
+    name: "Kolosia"
+    slug: "kolosia"
+    name_toc: "Ŋwàʼ woó Kolosia"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Ŋwàʼ woó Tesalonika mbìyi"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Ŋwàʼ woó Tesalonika woo baà"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Ŋwàʼ Timoti mbìyi"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Ŋwàʼ Timoti woo baà"
+  "TIT":
+    name: "Titur"
+    slug: "titur"
+    name_toc: "Ŋwàʼ Titur"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Ŋwàʼ Filemon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "Ŋwàʼ Hibru"
+  "JAS":
+    name: "Jeem"
+    slug: "jeem"
+    name_toc: "Ŋwàʼ Jeem"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Ŋwàʼ Pita mbìyi"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Ŋwàʼ Pita woo baà"
+  "1JN":
+    name: "1 Joon"
+    slug: "1-joon"
+    name_toc: "Ŋwàʼ ntum Joon mbìyi"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+    name_toc: "Ŋwàʼ ntum Joon woo baà"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+    name_toc: "Ŋwàʼ ntum Joon woo taár"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Ŋwàʼ Jud"
+  "REV":
+    name: "Ŋgaà Yen"
+    slug: "gaa-yen"
+    name_toc: "Ŋwàʼ Ŋgaà Yen"

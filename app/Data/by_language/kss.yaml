@@ -1,0 +1,200 @@
+language: "kss"
+books:
+  "GEN":
+    name: "Chɛ̄nɛ̍se̍ē"
+    slug: "chnsee"
+  "EXO":
+    name: "Ɛ̍sɔ̍dɔ̍ɔ̄"
+    slug: "sd"
+  "LEV":
+    name: "Lɛ̄vi̍ti̍kɔ̍ɔ̄"
+    slug: "lvitik"
+  "NUM":
+    name: "Nɔ̍mbāā"
+    slug: "nmbaa"
+  "DEU":
+    name: "Dītɔ̍nɔ̍mi̍ī"
+    slug: "ditnmii"
+  "JOS":
+    name: "Chɔ̄ɔ̍sūāā"
+    slug: "chsuaa"
+  "JDG":
+    name: "Chɔ̄ɔ̍chi̍a̍a̍"
+    slug: "chchiaa"
+  "RUT":
+    name: "Lu̍fū"
+    slug: "lufu"
+  "1SA":
+    name: "Sa̍a̍mi̍ɛ̍ɛ̄ Tāso̍o̍"
+    slug: "saami-tasoo"
+  "2SA":
+    name: "Sa̍a̍mi̍ɛ̍ɛ̄ Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "saami-dii-nd"
+  "1KI":
+    name: "Māsāā Bɛ̍ndūāā Tāsi̍a̍a̍"
+    slug: "masaa-bnduaa-tasiaa"
+  "2KI":
+    name: "Māsāā Bɛ̍ndūāā Di̍i̍ŋ Ndūa̍a̍"
+    slug: "masaa-bnduaa-dii-nduaa"
+  "1CH":
+    name: "Ko̍lo̍ni̍kō Tāso̍o̍"
+    slug: "koloniko-tasoo"
+  "2CH":
+    name: "Ko̍lo̍ni̍kō Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "koloniko-dii-nd"
+  "EZR":
+    name: "Ɛ̍si̍lūā"
+    slug: "silua"
+  "NEH":
+    name: "Nɛ̄hīma̍yā"
+    slug: "nhimaya"
+  "EST":
+    name: "Ɛ̄si̍tā"
+    slug: "sita"
+  "JOB":
+    name: "Cho̍o̍bū"
+    slug: "choobu"
+  "PSA":
+    name: "Sa᷅m"
+    slug: "sam"
+  "PRO":
+    name: "Pu̍lɔ̍wāā"
+    slug: "pulwaa"
+  "ECC":
+    name: "Īkīlīsi̍a̍a̍tīī"
+    slug: "ikilisiaatii"
+  "SNG":
+    name: "Chōndi̍i̍ Sɔ̍lɔ̍mɔ̄ŋ Nde̍"
+    slug: "chondii-slm-nde"
+  "ISA":
+    name: "Āīsa̍yā"
+    slug: "aisaya"
+  "JER":
+    name: "Chɛ̄lūīma̍yā"
+    slug: "chluimaya"
+  "LAM":
+    name: "Cha᷄ŋ Īmɔ̍nɛ̍ Chɛ̄lūīma̍yā Wo̍"
+    slug: "cha-imn-chluimaya-wo"
+  "EZK":
+    name: "Īsi̍kīāā"
+    slug: "isikiaa"
+  "DAN":
+    name: "Da̍a̍ni̍ɛ̍ɛ̄"
+    slug: "daani"
+  "HOS":
+    name: "Hōōsi̍a̍ā"
+    slug: "hoosiaa"
+  "JOL":
+    name: "Cho̍wɛ̄ɛ̄"
+    slug: "chow"
+  "AMO":
+    name: "E̍mɔ̍ɔ̍sī"
+    slug: "emsi"
+  "OBA":
+    name: "Ōbāda̍yā"
+    slug: "obadaya"
+  "JON":
+    name: "Cho̍nā"
+    slug: "chona"
+  "MIC":
+    name: "Ma̍kāl"
+    slug: "makal"
+  "NAM":
+    name: "Nāhu᷅m"
+    slug: "nahum"
+  "HAB":
+    name: "Ha̍ba̍ku̍kū"
+    slug: "habakuku"
+  "ZEP":
+    name: "Sɛ̄fāna̍yā"
+    slug: "sfanaya"
+  "HAG":
+    name: "Ha̍kāī"
+    slug: "hakai"
+  "ZEC":
+    name: "Sɛ̄kāla̍yā"
+    slug: "skalaya"
+  "MAL":
+    name: "Māla̍kāī"
+    slug: "malakai"
+  "MAT":
+    name: "Māa̍ti̍u̍"
+    slug: "maatiu"
+  "MRK":
+    name: "Ma̍kī"
+    slug: "maki"
+  "LUK":
+    name: "Lu̍kū"
+    slug: "luku"
+  "JHN":
+    name: "Chɔ᷄ŋ"
+    slug: "ch"
+  "ACT":
+    name: "Wa̍lta̍ Wānāa̍ Chi̍i̍sūa̍a̍"
+    slug: "walta-wanaa-chiisuaa"
+  "ROM":
+    name: "Lu̍o̍ma᷅ŋnda̍"
+    slug: "luomanda"
+  "1CO":
+    name: "Kɔ̄li̍ŋtīāŋ Tāso̍o̍"
+    slug: "klitia-tasoo"
+  "2CO":
+    name: "Kɔ̄li̍ŋtīāŋ Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "klitia-dii-nd"
+  "GAL":
+    name: "Kāle̍e̍sīāŋnda̍"
+    slug: "kaleesianda"
+  "EPH":
+    name: "Ɛ̄fi̍sīāŋnda̍"
+    slug: "fisianda"
+  "PHP":
+    name: "Fīli̍pīāŋnda̍"
+    slug: "filipianda"
+  "COL":
+    name: "Kōlo̍sīāŋnda̍"
+    slug: "kolosianda"
+  "1TH":
+    name: "Tɛ̄sālo̍nīāŋ Tāso̍o̍"
+    slug: "tsalonia-tasoo"
+  "2TH":
+    name: "Tɛ̄sālo̍nīāŋ Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "tsalonia-dii-nd"
+  "1TI":
+    name: "Ti̍mo̍tī Tāso̍o̍"
+    slug: "timoti-tasoo"
+  "2TI":
+    name: "Ti̍mo̍tī Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "timoti-dii-nd"
+  "TIT":
+    name: "Ta̍i̍tɔ̄ɔ̄"
+    slug: "tait"
+  "PHM":
+    name: "Fi̍lɛ̍mɔ̄ŋ"
+    slug: "film"
+  "HEB":
+    name: "Hi̍būlūi̍ya̍"
+    slug: "hibuluiya"
+  "JAS":
+    name: "Chēmi̍si̍"
+    slug: "chemisi"
+  "1PE":
+    name: "Pītɛ̍ Tāso̍o̍"
+    slug: "pit-tasoo"
+  "2PE":
+    name: "Pītɛ̍ Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "pit-dii-nd"
+  "1JN":
+    name: "Chɔ᷄ŋ Tāso̍o̍"
+    slug: "ch-tasoo"
+  "2JN":
+    name: "Chɔ᷄ŋ Di̍i̍ŋ Ndɔ̄ɔ̍"
+    slug: "ch-dii-nd"
+  "3JN":
+    name: "Chɔ᷄ŋ Ŋgāa̍ Ndɔ̄ɔ̍"
+    slug: "ch-gaa-nd"
+  "JUD":
+    name: "Chu̍dī"
+    slug: "chudi"
+  "REV":
+    name: "Sɔ̄ɔ̍ŋ Chɔ̍ɔ̍ma᷄ŋndo̍ŋ"
+    slug: "s-chmando"

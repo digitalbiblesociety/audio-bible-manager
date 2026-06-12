@@ -1,0 +1,83 @@
+language: "snw"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Ɔkpɛ Ɔbla"
+    slug: "kp-bla"
+  "ROM":
+    name: "Roma Batii"
+    slug: "roma-batii"
+  "1CO":
+    name: "1 Korinto Batii"
+    slug: "1-korinto-batii"
+  "2CO":
+    name: "2 Korinto Batii"
+    slug: "2-korinto-batii"
+  "GAL":
+    name: "Galatia Batii"
+    slug: "galatia-batii"
+  "EPH":
+    name: "Efeso Batii"
+    slug: "efeso-batii"
+  "PHP":
+    name: "Filipi Batii"
+    slug: "filipi-batii"
+  "COL":
+    name: "Kolose Batii"
+    slug: "kolose-batii"
+  "1TH":
+    name: "1 Tesalonika Batii"
+    slug: "1-tesalonika-batii"
+  "2TH":
+    name: "2 Tesalonika Batii"
+    slug: "2-tesalonika-batii"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebri Batii"
+    slug: "hebri-batii"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Odiki Otuo"
+    slug: "odiki-otuo"

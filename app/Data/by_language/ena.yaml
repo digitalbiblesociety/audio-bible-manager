@@ -1,0 +1,89 @@
+language: "ena"
+books:
+  "GEN":
+    name: "Hɨdɨlɨ"
+    slug: "hidili"
+  "EXO":
+    name: "Cɨhu vivi"
+    slug: "cihu-vivi"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Makɨ"
+    slug: "maki"
+  "LUK":
+    name: "Lukɨ"
+    slug: "luki"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Hulaŋ Jisasɨ lɨbɨmɨŋami"
+    slug: "hulan-jisasi-libiminami"
+  "ROM":
+    name: "Lom"
+    slug: "lom"
+  "1CO":
+    name: "1 Kolin"
+    slug: "1-kolin"
+  "2CO":
+    name: "2 Kolin"
+    slug: "2-kolin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesusɨ"
+    slug: "efesusi"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitusɨ"
+    slug: "taitusi"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibɨlu"
+    slug: "ibilu"
+  "JAS":
+    name: "Jemɨsɨ"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jutɨ"
+    slug: "juti"
+  "REV":
+    name: "Ciaŋ haiabɨla lama abami"
+    slug: "cian-haiabila-lama-abami"

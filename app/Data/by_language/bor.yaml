@@ -1,0 +1,83 @@
+language: "bor"
+books:
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "João"
+    slug: "joao"
+  "ACT":
+    name: "Atos"
+    slug: "atos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Coríntios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Coríntios"
+    slug: "2-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efésios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colossenses"
+    slug: "colossenses"
+  "1TH":
+    name: "1 Tessalonicenses"
+    slug: "1-tessalonicenses"
+  "2TH":
+    name: "2 Tessalonicenses"
+    slug: "2-tessalonicenses"
+  "1TI":
+    name: "1 Timóteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timóteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemom"
+    slug: "filemom"
+  "HEB":
+    name: "Hebreus"
+    slug: "hebreus"
+  "JAS":
+    name: "Tiago"
+    slug: "tiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 João"
+    slug: "1-joao"
+  "2JN":
+    name: "2 João"
+    slug: "2-joao"
+  "3JN":
+    name: "3 João"
+    slug: "3-joao"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Boe Oto Padure Kejeboe Reo"
+    slug: "boe-oto-padure-kejeboe-reo"

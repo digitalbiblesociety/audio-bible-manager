@@ -1,0 +1,83 @@
+language: "mav"
+books:
+  "MAT":
+    name: "Iesui Etiat Mateu Mienoi"
+    slug: "iesui-etiat-mateu-mienoi"
+  "MRK":
+    name: "Iesui Etiat Maku Mienoi"
+    slug: "iesui-etiat-maku-mienoi"
+  "LUK":
+    name: "Iesui Etiat Iruka Mienoi"
+    slug: "iesui-etiat-iruka-mienoi"
+  "JHN":
+    name: "Iesui Etiat Iuwãu Mienoi"
+    slug: "iesui-etiat-iuwau-mienoi"
+  "ACT":
+    name: "Iesui Saipepiaria Minug Ko'i"
+    slug: "iesui-saipepiaria-minug-koi"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1 Coríntios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Coríntios"
+    slug: "2-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efésios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colossenses"
+    slug: "colossenses"
+  "1TH":
+    name: "1 Tessalonicenses"
+    slug: "1-tessalonicenses"
+  "2TH":
+    name: "2 Tessalonicenses"
+    slug: "2-tessalonicenses"
+  "1TI":
+    name: "1 Timóteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timóteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemóm"
+    slug: "filemom"
+  "HEB":
+    name: "Epereu Ywania Nãpin Hap"
+    slug: "epereu-ywania-napin-hap"
+  "JAS":
+    name: "Mehĩ Tiaku Minãpin"
+    slug: "mehi-tiaku-minapin"
+  "1PE":
+    name: "Peteru Minãpin Sa'awy'iwuat"
+    slug: "peteru-minapin-saawyiwuat"
+  "2PE":
+    name: "Peteru Minãpin Typuat"
+    slug: "peteru-minapin-typuat"
+  "1JN":
+    name: "Iuwãu Minãpin Sa'awy'iwuat"
+    slug: "iuwau-minapin-saawyiwuat"
+  "2JN":
+    name: "Iuwãu Minãpin Typuat"
+    slug: "iuwau-minapin-typuat"
+  "3JN":
+    name: "Iuwãu Minãpin Mye'ymuat"
+    slug: "iuwau-minapin-myeymuat"
+  "JUD":
+    name: "Mehĩ Iuta Minãpin"
+    slug: "mehi-iuta-minapin"
+  "REV":
+    name: "Iesui Aru E Hap Iuwãu Miwan"
+    slug: "iesui-aru-e-hap-iuwau-miwan"

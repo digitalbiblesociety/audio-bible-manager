@@ -1,0 +1,200 @@
+language: "pan"
+books:
+  "GEN":
+    name: "ਉਤਪਤ"
+    slug: "utapata"
+  "EXO":
+    name: "ਕੂਚ"
+    slug: "kuca"
+  "LEV":
+    name: "ਲੇਵੀਆਂ ਦੀ ਪੋਥੀ"
+    slug: "leviam-di-pothi"
+  "NUM":
+    name: "ਗਿਣਤੀ"
+    slug: "ginati"
+  "DEU":
+    name: "ਬਿਵਸਥਾ ਸਾਰ"
+    slug: "bivasatha-sara"
+  "JOS":
+    name: "ਯਹੋਸ਼ੁਆ"
+    slug: "yahosaa"
+  "JDG":
+    name: "ਨਿਆਂਈਆਂ ਦੀ ਪੋਥੀ"
+    slug: "niamiam-di-pothi"
+  "RUT":
+    name: "ਰੂਥ"
+    slug: "rutha"
+  "1SA":
+    name: "ਸਮੂਏਲ ਦੀ ਪਹਿਲੀ ਪੋਥੀ"
+    slug: "samuela-di-pahili-pothi"
+  "2SA":
+    name: "ਸਮੂਏਲ ਦੀ ਦੂਜੀ ਪੋਥੀ"
+    slug: "samuela-di-duji-pothi"
+  "1KI":
+    name: "ਰਾਜਿਆਂ ਦੀ ਪਹਿਲੀ ਪੋਥੀ"
+    slug: "rajiam-di-pahili-pothi"
+  "2KI":
+    name: "ਰਾਜਿਆਂ ਦੀ ਦੂਜੀ ਪੋਥੀ"
+    slug: "rajiam-di-duji-pothi"
+  "1CH":
+    name: "ਇਤਹਾਸ ਦੀ ਪਹਿਲੀ ਪੋਥੀ"
+    slug: "itahasa-di-pahili-pothi"
+  "2CH":
+    name: "ਇਤਹਾਸ ਦੀ ਦੂਜੀ ਪੋਥੀ"
+    slug: "itahasa-di-duji-pothi"
+  "EZR":
+    name: "ਅਜ਼ਰਾ"
+    slug: "ajara"
+  "NEH":
+    name: "ਨਹਮਯਾਹ"
+    slug: "nahamayaha"
+  "EST":
+    name: "ਅਸਤਰ"
+    slug: "asatara"
+  "JOB":
+    name: "ਅੱਯੂਬ"
+    slug: "ayuba"
+  "PSA":
+    name: "ਜ਼ਬੂਰ"
+    slug: "jabura"
+  "PRO":
+    name: "ਕਹਾਉਤਾਂ"
+    slug: "kahautam"
+  "ECC":
+    name: "ਉਪਦੇਸ਼ਕ"
+    slug: "upadesaka"
+  "SNG":
+    name: "ਸਲੇਮਾਨ ਦਾ ਗੀਤ"
+    slug: "salemana-da-gita"
+  "ISA":
+    name: "ਯਸਾਯਾਹ"
+    slug: "yasayaha"
+  "JER":
+    name: "ਯਿਰਮਿਯਾਹ"
+    slug: "yiramiyaha"
+  "LAM":
+    name: "ਵਿਰਲਾਪ"
+    slug: "viralapa"
+  "EZK":
+    name: "ਹਿਜ਼ਕੀਏਲ"
+    slug: "hijakiela"
+  "DAN":
+    name: "ਦਾਨੀਏਲ"
+    slug: "daniela"
+  "HOS":
+    name: "ਹੋਸ਼ੇਆ"
+    slug: "hosaa"
+  "JOL":
+    name: "ਯੋਏਲ"
+    slug: "yoela"
+  "AMO":
+    name: "ਆਮੋਸ"
+    slug: "amosa"
+  "OBA":
+    name: "ਓਬਦਯਾਹ"
+    slug: "obadayaha"
+  "JON":
+    name: "ਯੂਨਾਹ"
+    slug: "yunaha"
+  "MIC":
+    name: "ਮੀਕਾਹ"
+    slug: "mikaha"
+  "NAM":
+    name: "ਨਹੂਮ"
+    slug: "nahuma"
+  "HAB":
+    name: "ਹਬਕੱੂਕ"
+    slug: "habakaka"
+  "ZEP":
+    name: "ਸਫ਼ਨਯਾਹ"
+    slug: "saphanayaha"
+  "HAG":
+    name: "ਹੱਜਈ"
+    slug: "hajai"
+  "ZEC":
+    name: "ਜ਼ਕਰਯਾਹ"
+    slug: "jakarayaha"
+  "MAL":
+    name: "ਮਲਾਕੀ"
+    slug: "malaki"
+  "MAT":
+    name: "ਮੱਤੀ"
+    slug: "mati"
+  "MRK":
+    name: "ਮਰਕੁਸ"
+    slug: "marakusa"
+  "LUK":
+    name: "ਲੂਕਾ"
+    slug: "luka"
+  "JHN":
+    name: "ਯੂਹੰਨਾ"
+    slug: "yuhamna"
+  "ACT":
+    name: "ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ"
+    slug: "rasulam-de-karataba"
+  "ROM":
+    name: "ਰੋਮੀਆਂ ਨੂੰ"
+    slug: "romiam-num"
+  "1CO":
+    name: "ਕੁਰਿੰਥੀਆਂ ਨੂੰ"
+    slug: "kurimthiam-num"
+  "2CO":
+    name: "2 ਕੁਰਿੰਥੀਆਂ ਨੂੰ"
+    slug: "2-kurimthiam-num"
+  "GAL":
+    name: "ਗਲਾਤੀਆਂ ਨੂੰ"
+    slug: "galatiam-num"
+  "EPH":
+    name: "ਅਫ਼ਸੀਆਂ ਨੂੰ"
+    slug: "aphasiam-num"
+  "PHP":
+    name: "ਫ਼ਿਲਿੱਪੀਆਂ ਨੂੰ"
+    slug: "phalipiam-num"
+  "COL":
+    name: "ਕੁਲੁੱਸੀਆਂ ਨੂੰ"
+    slug: "kulusiam-num"
+  "1TH":
+    name: "1 ਥੱਸਲੁਨੀਕੀਆਂ ਨੂੰ"
+    slug: "1-thasalunikiam-num"
+  "2TH":
+    name: "2 ਥੱਸਲੁਨੀਕੀਆਂ ਨੂੰ"
+    slug: "2-thasalunikiam-num"
+  "1TI":
+    name: "1 ਤਿਮੋਥਿਉਸ ਨੂੰ"
+    slug: "1-timothiusa-num"
+  "2TI":
+    name: "2 ਤਿਮੋਥਿਉਸ ਨੂੰ"
+    slug: "2-timothiusa-num"
+  "TIT":
+    name: "ਤੀਤੁਸ ਨੂੰ"
+    slug: "titusa-num"
+  "PHM":
+    name: "ਫ਼ਿਲੇਮੋਨ ਨੂੰ"
+    slug: "phalemona-num"
+  "HEB":
+    name: "ਇਬਰਾਨੀਆਂ ਨੂੰ"
+    slug: "ibaraniam-num"
+  "JAS":
+    name: "ਯਾਕੂਬ"
+    slug: "yakuba"
+  "1PE":
+    name: "1 ਪਤਰਸ"
+    slug: "1-patarasa"
+  "2PE":
+    name: "2 ਪਤਰਸ"
+    slug: "2-patarasa"
+  "1JN":
+    name: "1 ਯੂਹੰਨਾ"
+    slug: "1-yuhamna"
+  "2JN":
+    name: "2 ਯੂਹੰਨਾ"
+    slug: "2-yuhamna"
+  "3JN":
+    name: "3 ਯੂਹੰਨਾ"
+    slug: "3-yuhamna"
+  "JUD":
+    name: "ਯਹੂਦਾਹ"
+    slug: "yahudaha"
+  "REV":
+    name: "ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ"
+    slug: "parakasa-di-pothi"

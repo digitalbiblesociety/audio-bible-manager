@@ -1,0 +1,86 @@
+language: "usa"
+books:
+  "GEN":
+    name: "Áaimo Ataáraine"
+    slug: "aaimo-ataaraine"
+  "MAT":
+    name: "Máátiyu"
+    slug: "maatiyu"
+  "MRK":
+    name: "Mááki"
+    slug: "maaki"
+  "LUK":
+    name: "Arúke"
+    slug: "aruke"
+  "JHN":
+    name: "Yóáane"
+    slug: "yoaane"
+  "ACT":
+    name: "nôrabi urááqtaba (Apótoro)"
+    slug: "norabi-uraaqtaba-apotoro"
+  "ROM":
+    name: "Arómani"
+    slug: "aromani"
+  "1CO":
+    name: "1 Korítiani"
+    slug: "1-koritiani"
+  "2CO":
+    name: "2 Korítiani"
+    slug: "2-koritiani"
+  "GAL":
+    name: "Karétiani"
+    slug: "karetiani"
+  "EPH":
+    name: "Ipítiani"
+    slug: "ipitiani"
+  "PHP":
+    name: "Pirípiani"
+    slug: "piripiani"
+  "COL":
+    name: "Koráátiani"
+    slug: "koraatiani"
+  "1TH":
+    name: "1 Tetaróniani"
+    slug: "1-tetaroniani"
+  "2TH":
+    name: "2 Tetaróniani"
+    slug: "2-tetaroniani"
+  "1TI":
+    name: "1 Tímoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Tímoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tááítati"
+    slug: "taaitati"
+  "PHM":
+    name: "Pírímoni"
+    slug: "pirimoni"
+  "HEB":
+    name: "Íbaru"
+    slug: "ibaru"
+  "JAS":
+    name: "Yêmiti"
+    slug: "yemiti"
+  "1PE":
+    name: "1 Pítaa"
+    slug: "1-pitaa"
+  "2PE":
+    name: "2 Pítaa"
+    slug: "2-pitaa"
+  "1JN":
+    name: "1 Yóáane"
+    slug: "1-yoaane"
+  "2JN":
+    name: "2 Yóáane"
+    slug: "2-yoaane"
+  "3JN":
+    name: "3 Yóáane"
+    slug: "3-yoaane"
+  "JUD":
+    name: "Yúti"
+    slug: "yuti"
+  "REV":
+    name: "Arébárétiani"
+    slug: "arebaretiani"

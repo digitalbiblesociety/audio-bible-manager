@@ -1,0 +1,8 @@
+language: "cjs"
+books:
+  "MRK":
+    name: "Пӧлӱк"
+    slug: "plk"
+  "JHN":
+    name: "Ыйбан"
+    slug: "yjban"

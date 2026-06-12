@@ -1,0 +1,200 @@
+language: "mkw"
+books:
+  "GEN":
+    name: "Mbandukulu"
+    slug: "mbandukulu"
+  "EXO":
+    name: "Kubasika"
+    slug: "kubasika"
+  "LEV":
+    name: "Kinganga-Nzambi"
+    slug: "kinganga-nzambi"
+  "NUM":
+    name: "Lutangu"
+    slug: "lutangu"
+  "DEU":
+    name: "Musiku ya zole"
+    slug: "musiku-ya-zole"
+  "JOS":
+    name: "Yeswa"
+    slug: "yeswa"
+  "JDG":
+    name: "Bikuudi"
+    slug: "bikuudi"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+  "1SA":
+    name: "1 Samwele"
+    slug: "1-samwele"
+  "2SA":
+    name: "2 Samwele"
+    slug: "2-samwele"
+  "1KI":
+    name: "1 Bantinu"
+    slug: "1-bantinu"
+  "2KI":
+    name: "2 Bantinu"
+    slug: "2-bantinu"
+  "1CH":
+    name: "1 Kinkulu"
+    slug: "1-kinkulu"
+  "2CH":
+    name: "2 Kinkulu"
+    slug: "2-kinkulu"
+  "EZR":
+    name: "Esedase"
+    slug: "esedase"
+  "NEH":
+    name: "Neyemi"
+    slug: "neyemi"
+  "EST":
+    name: "Esetele"
+    slug: "esetele"
+  "JOB":
+    name: "Yobi"
+    slug: "yobi"
+  "PSA":
+    name: "Mikunga"
+    slug: "mikunga"
+  "PRO":
+    name: "Bingana"
+    slug: "bingana"
+  "ECC":
+    name: "Kuluntu"
+    slug: "kuluntu"
+  "SNG":
+    name: "Mukunga ya Kitoko"
+    slug: "mukunga-ya-kitoko"
+  "ISA":
+    name: "Esaya"
+    slug: "esaya"
+  "JER":
+    name: "Yelemya"
+    slug: "yelemya"
+  "LAM":
+    name: "Manyongo"
+    slug: "manyongo"
+  "EZK":
+    name: "Ezekyele"
+    slug: "ezekyele"
+  "DAN":
+    name: "Danyele"
+    slug: "danyele"
+  "HOS":
+    name: "Oseya"
+    slug: "oseya"
+  "JOL":
+    name: "Yowele"
+    slug: "yowele"
+  "AMO":
+    name: "Amose"
+    slug: "amose"
+  "OBA":
+    name: "Abedyase"
+    slug: "abedyase"
+  "JON":
+    name: "Yonase"
+    slug: "yonase"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nawume"
+    slug: "nawume"
+  "HAB":
+    name: "Abakuke"
+    slug: "abakuke"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+  "ZEC":
+    name: "Zakali"
+    slug: "zakali"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Matayi"
+    slug: "matayi"
+  "MRK":
+    name: "Make"
+    slug: "make"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Yowane"
+    slug: "yowane"
+  "ACT":
+    name: "Bisalu"
+    slug: "bisalu"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1 Kolinto"
+    slug: "1-kolinto"
+  "2CO":
+    name: "2 Kolinto"
+    slug: "2-kolinto"
+  "GAL":
+    name: "Ngalatiya"
+    slug: "ngalatiya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipe"
+    slug: "filipe"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+  "HEB":
+    name: "Ba-Ebeleyo"
+    slug: "ba-ebeleyo"
+  "JAS":
+    name: "Zaki"
+    slug: "zaki"
+  "1PE":
+    name: "1 Pyele"
+    slug: "1-pyele"
+  "2PE":
+    name: "2 Pyele"
+    slug: "2-pyele"
+  "1JN":
+    name: "1 Yowane"
+    slug: "1-yowane"
+  "2JN":
+    name: "2 Yowane"
+    slug: "2-yowane"
+  "3JN":
+    name: "3 Yowane"
+    slug: "3-yowane"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Luzabusu"
+    slug: "luzabusu"

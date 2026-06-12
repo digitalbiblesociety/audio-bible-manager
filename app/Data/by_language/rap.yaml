@@ -1,0 +1,83 @@
+language: "rap"
+books:
+  "MAT":
+    name: "Māteo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Iovani"
+    slug: "iovani"
+  "ACT":
+    name: "AŊA O TE ꞌĀPŌTORO"
+    slug: "ana-o-te-apotoro"
+  "ROM":
+    name: "Rōmano"
+    slug: "romano"
+  "1CO":
+    name: "1 Kōrinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Kōrinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Karatia"
+    slug: "karatia"
+  "EPH":
+    name: "Ēfeto"
+    slug: "efeto"
+  "PHP":
+    name: "Fīripo"
+    slug: "firipo"
+  "COL":
+    name: "Kōrosa"
+    slug: "korosa"
+  "1TH":
+    name: "1 Tētārōnika"
+    slug: "1-tetaronika"
+  "2TH":
+    name: "2 Tētārōnika"
+    slug: "2-tetaronika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Firemono"
+    slug: "firemono"
+  "HEB":
+    name: "ꞌEVEREO"
+    slug: "evereo"
+  "JAS":
+    name: "Tanatiako"
+    slug: "tanatiako"
+  "1PE":
+    name: "1 Pētero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pētero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Iovani"
+    slug: "1-iovani"
+  "2JN":
+    name: "2 Iovani"
+    slug: "2-iovani"
+  "3JN":
+    name: "3 Iovani"
+    slug: "3-iovani"
+  "JUD":
+    name: "Hura"
+    slug: "hura"
+  "REV":
+    name: "MEꞌE HAKA TAKEꞌA"
+    slug: "mee-haka-takea"

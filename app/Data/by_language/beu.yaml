@@ -1,0 +1,11 @@
+language: "beu"
+books:
+  "GEN":
+    name: "Sarenta halomang-halomang"
+    slug: "sarenta-halomang-halomang"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "ACT":
+    name: "Eetvala ang naung Esarenta"
+    slug: "eetvala-ang-naung-esarenta"

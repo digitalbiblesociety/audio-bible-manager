@@ -1,0 +1,83 @@
+language: "ksp"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Markə"
+    slug: "marke"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Kulaje"
+    slug: "kulaje"
+  "ROM":
+    name: "Rɔmɛnje"
+    slug: "rmnje"
+  "1CO":
+    name: "1 Kɔrɛntinyɛje"
+    slug: "1-krntinyje"
+  "2CO":
+    name: "2 Kɔrɛntinyɛje"
+    slug: "2-krntinyje"
+  "GAL":
+    name: "Galatəje"
+    slug: "galateje"
+  "EPH":
+    name: "Epɛjinyɛje"
+    slug: "epjinyje"
+  "PHP":
+    name: "Pilipinyɛje"
+    slug: "pilipinyje"
+  "COL":
+    name: "Kolosinyɛje"
+    slug: "kolosinyje"
+  "1TH":
+    name: "1 Tesalonisinyɛje"
+    slug: "1-tesalonisinyje"
+  "2TH":
+    name: "2 Tesalonisinyɛje"
+    slug: "2-tesalonisinyje"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+  "PHM":
+    name: "Pilemɔn"
+    slug: "pilemn"
+  "HEB":
+    name: "Ebərəje"
+    slug: "ebereje"
+  "JAS":
+    name: "Jakə"
+    slug: "jake"
+  "1PE":
+    name: "1 Piyɛr"
+    slug: "1-piyr"
+  "2PE":
+    name: "2 Piyɛr"
+    slug: "2-piyr"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Judə"
+    slug: "jude"
+  "REV":
+    name: "Apokalisi"
+    slug: "apokalisi"

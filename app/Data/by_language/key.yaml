@@ -1,0 +1,83 @@
+language: "key"
+books:
+  "MAT":
+    name: "మత్తయి"
+    slug: "mattayi"
+  "MRK":
+    name: "మార్కు"
+    slug: "marku"
+  "LUK":
+    name: "లూకా"
+    slug: "luka"
+  "JHN":
+    name: "యోహాను"
+    slug: "yohanu"
+  "ACT":
+    name: "బారికుల్ కమొ"
+    slug: "barikul-kamo"
+  "ROM":
+    name: "రోమా"
+    slug: "roma"
+  "1CO":
+    name: "1 కొరింది"
+    slug: "1-korimdi"
+  "2CO":
+    name: "2 కొరింది"
+    slug: "2-korimdi"
+  "GAL":
+    name: "గలతీ"
+    slug: "galati"
+  "EPH":
+    name: "ఎపెసి"
+    slug: "epesi"
+  "PHP":
+    name: "పిలిప్పి"
+    slug: "pilippi"
+  "COL":
+    name: "కొలొస్సి"
+    slug: "kolossi"
+  "1TH":
+    name: "1 దెస్సలొనీ"
+    slug: "1-dessaloni"
+  "2TH":
+    name: "2 దెస్సలొనీ"
+    slug: "2-dessaloni"
+  "1TI":
+    name: "1 తిమోతి"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 తిమోతి"
+    slug: "2-timoti"
+  "TIT":
+    name: "తీతు"
+    slug: "titu"
+  "PHM":
+    name: "పిలేమోను"
+    slug: "pilemonu"
+  "HEB":
+    name: "ఎబ్రీయుల్"
+    slug: "ebriyul"
+  "JAS":
+    name: "యాకోబు"
+    slug: "yakobu"
+  "1PE":
+    name: "1 పేతురు"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 పేతురు"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 యోహాను"
+    slug: "1-yohanu"
+  "2JN":
+    name: "2 యోహాను"
+    slug: "2-yohanu"
+  "3JN":
+    name: "3 యోహాను"
+    slug: "3-yohanu"
+  "JUD":
+    name: "యూదా"
+    slug: "yuda"
+  "REV":
+    name: "ప్రకటన"
+    slug: "prakatana"

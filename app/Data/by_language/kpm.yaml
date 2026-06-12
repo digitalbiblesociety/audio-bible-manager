@@ -1,0 +1,266 @@
+language: "kpm"
+books:
+  "GEN":
+    name: "Sơnròp Gơlik Gơs"
+    slug: "sonrop-golik-gos"
+    name_toc: "Sră Dơ̆ Dùl Môise Dê Sơnđan La Sơnròp Gơlik Gơs"
+  "EXO":
+    name: "Lik Ejiptơ"
+    slug: "lik-ejipto"
+    name_toc: "Sră Dơ̆ Bàr Môise Dê Sơnđan La Lik Ejiptơ"
+  "LEV":
+    name: "Lebi"
+    slug: "lebi"
+    name_toc: "Sră Dơ̆ Pe Môise Dê Sơnđan La Lebi"
+  "NUM":
+    name: "Khà Làng Bol"
+    slug: "kha-lang-bol"
+    name_toc: "Sră Dơ̆ Poan Môise Dê Sơnđan La Khà Làng Bol"
+  "DEU":
+    name: "Yal Wơl"
+    slug: "yal-wol"
+    name_toc: "Sră Dơ̆ Pram Môise Dê Sơnđan La Yal Wơl Bơta Boh Lam"
+  "JOS":
+    name: "Jôsue"
+    slug: "josue"
+    name_toc: "Sră Jôsue"
+  "JDG":
+    name: "Ală Kwang Cahrña"
+    slug: "ala-kwang-cahrna"
+    name_toc: "Sră Ală Kwang Cahrña"
+  "RUT":
+    name: "Rutơ"
+    slug: "ruto"
+    name_toc: "Sră Rutơ"
+  "1SA":
+    name: "I Samuel"
+    slug: "i-samuel"
+    name_toc: "Sră Dơ̆ Dùl Samuel"
+  "2SA":
+    name: "II Samuel"
+    slug: "ii-samuel"
+    name_toc: "Sră Dơ̆ Bàr Samuel"
+  "1KI":
+    name: "I Ală Bơtau"
+    slug: "i-ala-botau"
+    name_toc: "Sră Dơ̆ Dùl Ală Bơtau"
+  "2KI":
+    name: "II Ală Bơtau"
+    slug: "ii-ala-botau"
+    name_toc: "Sră Dơ̆ Bàr Ală Bơtau"
+  "1CH":
+    name: "I Yal Yau"
+    slug: "i-yal-yau"
+    name_toc: "Sră Dơ̆ Dùl Yal Yau"
+  "2CH":
+    name: "II Yal Yau"
+    slug: "ii-yal-yau"
+    name_toc: "Sră Dơ̆ Bàr Yal Yau"
+  "EZR":
+    name: "Ejra"
+    slug: "ejra"
+    name_toc: "Sră Ejra"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Sră Nehemi"
+  "EST":
+    name: "Este"
+    slug: "este"
+    name_toc: "Sră Este"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+    name_toc: "Sră Jop"
+  "PSA":
+    name: "Đơs Crih"
+    slug: "os-crih"
+    name_toc: "Sră Đơs Crih"
+  "PRO":
+    name: "Jơnau Pơnđik"
+    slug: "jonau-ponik"
+    name_toc: "Sră Jơnau Pơnđik"
+  "ECC":
+    name: "Cau Bơto"
+    slug: "cau-boto"
+    name_toc: "Sră Cau Bơto"
+  "SNG":
+    name: "Đơs Chò"
+    slug: "os-cho"
+    name_toc: "Sră Đơs Chò Salômôn Dê"
+  "ISA":
+    name: "Esai"
+    slug: "esai"
+    name_toc: "Sră Esai Dê"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+    name_toc: "Sră Jeremi Dê"
+  "LAM":
+    name: "Ñìm Rac"
+    slug: "nim-rac"
+    name_toc: "Sră Ñìm Rac Jeremi Dê"
+  "EZK":
+    name: "Ejekiel"
+    slug: "ejekiel"
+    name_toc: "Sră Ejekiel Dê"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Sră Daniel Dê"
+  "HOS":
+    name: "Ôse"
+    slug: "ose"
+    name_toc: "Sră Ôse"
+  "JOL":
+    name: "Jôel"
+    slug: "joel"
+    name_toc: "Sră Jôel"
+  "AMO":
+    name: "Amôs"
+    slug: "amos"
+    name_toc: "Sră Amôs"
+  "OBA":
+    name: "Apdia"
+    slug: "apdia"
+    name_toc: "Sră Apdia"
+  "JON":
+    name: "Jôna"
+    slug: "jona"
+    name_toc: "Sră Jôna"
+  "MIC":
+    name: "Mice"
+    slug: "mice"
+    name_toc: "Sră Mice"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Sră Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Sră Habakuk"
+  "ZEP":
+    name: "Sôphôni"
+    slug: "sophoni"
+    name_toc: "Sră Sôphôni"
+  "HAG":
+    name: "Age"
+    slug: "age"
+    name_toc: "Sră Age"
+  "ZEC":
+    name: "Sacari"
+    slug: "sacari"
+    name_toc: "Sră Sacari"
+  "MAL":
+    name: "Malaci"
+    slug: "malaci"
+    name_toc: "Sră Malaci"
+  "MAT":
+    name: "Mathiơ"
+    slug: "mathio"
+    name_toc: "Jơnau Niam Jat Mathiơ"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Jơnau Niam Jat Mak"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Jơnau Niam Jat Luka"
+  "JHN":
+    name: "Jang"
+    slug: "jang"
+    name_toc: "Jơnau Niam Jat Jang"
+  "ACT":
+    name: "Broă"
+    slug: "broa"
+    name_toc: "Broă Ală Cau Gơnoar Bơto Dờng"
+  "ROM":
+    name: "Rôma"
+    slug: "roma"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Ală Cau Dòn Tòm Rôma In"
+  "1CO":
+    name: "I Kôrintô"
+    slug: "i-korinto"
+    name_toc: "Sră Pơyoa Dơ̆ Dùl Pol Dê Pơyoa Ală Cau Dòn Tòm Kôrintô In"
+  "2CO":
+    name: "II Kôrintô"
+    slug: "ii-korinto"
+    name_toc: "Sră Pơyoa Dơ̆ Bàr Pol Dê Pơyoa Ală Cau Dòn Tòm Kôrintô In"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Ală Cau Dòn Tòm Galati In"
+  "EPH":
+    name: "Ephesô"
+    slug: "epheso"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Ală Cau Dòn Tòm Ephesô In"
+  "PHP":
+    name: "Philip"
+    slug: "philip"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Ală Cau Dòn Tòm Philip In"
+  "COL":
+    name: "Kôlôse"
+    slug: "kolose"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Ală Cau Dòn Tòm Kôlôse In"
+  "1TH":
+    name: "I Tesalônika"
+    slug: "i-tesalonika"
+    name_toc: "Sră Pơyoa Dơ̆ Dùl Pol Dê Pơyoa Ală Cau Dòn Tòm Tesalônika In"
+  "2TH":
+    name: "II Tesalônika"
+    slug: "ii-tesalonika"
+    name_toc: "Sră Pơyoa Dơ̆ Bàr Pol Dê Pơyoa Ală Cau Dòn Tòm Tesalônika In"
+  "1TI":
+    name: "I Timôthe"
+    slug: "i-timothe"
+    name_toc: "Sră Pơyoa Dơ̆ Dùl Pol Dê Pơyoa Timôthe In"
+  "2TI":
+    name: "II Timôthe"
+    slug: "ii-timothe"
+    name_toc: "Sră Pơyoa Dơ̆ Bàr Pol Dê Pơyoa Timôthe In"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Tit In"
+  "PHM":
+    name: "Philemôn"
+    slug: "philemon"
+    name_toc: "Sră Pơyoa Pol Dê Pơyoa Philemôn In"
+  "HEB":
+    name: "Hebrơ"
+    slug: "hebro"
+    name_toc: "Sră Pơyoa Ală Cau Hebrơ In"
+  "JAS":
+    name: "Jakơ"
+    slug: "jako"
+    name_toc: "Sră Pơyoa Jakơ Dê"
+  "1PE":
+    name: "I Pier"
+    slug: "i-pier"
+    name_toc: "Sră Pơyoa Dơ̆ Dùl Pier Dê"
+  "2PE":
+    name: "II Pier"
+    slug: "ii-pier"
+    name_toc: "Sră Pơyoa Dơ̆ Bàr Pier Dê"
+  "1JN":
+    name: "I Jang"
+    slug: "i-jang"
+    name_toc: "Sră Pơyoa Dơ̆ Dùl Jang Dê"
+  "2JN":
+    name: "II Jang"
+    slug: "ii-jang"
+    name_toc: "Sră Pơyoa Dơ̆ Bàr Jang Dê"
+  "3JN":
+    name: "III Jang"
+    slug: "iii-jang"
+    name_toc: "Sră Pơyoa Dơ̆ Pe Jang Dê"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "Sră Pơyoa Jude Dê"
+  "REV":
+    name: "Yal Tơlik"
+    slug: "yal-tolik"
+    name_toc: "Sră Yal Tơlik Jang Dê"

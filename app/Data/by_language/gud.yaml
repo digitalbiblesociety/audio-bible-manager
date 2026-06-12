@@ -1,0 +1,83 @@
+language: "gud"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Lobh"
+    slug: "lobh"
+  "ROM":
+    name: "Wlɔ"
+    slug: "wl"
+  "1CO":
+    name: "1 Kolt"
+    slug: "1-kolt"
+  "2CO":
+    name: "2 Kolt"
+    slug: "2-kolt"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+  "EPH":
+    name: "Efz"
+    slug: "efz"
+  "PHP":
+    name: "Filp"
+    slug: "filp"
+  "COL":
+    name: "Kols"
+    slug: "kols"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Film"
+    slug: "film"
+  "HEB":
+    name: "Ebl"
+    slug: "ebl"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "1 Pɩɛ"
+    slug: "1-p"
+  "2PE":
+    name: "2 Pɩɛ"
+    slug: "2-p"
+  "1JN":
+    name: "1 Zaan"
+    slug: "1-zaan"
+  "2JN":
+    name: "2 Zaan"
+    slug: "2-zaan"
+  "3JN":
+    name: "3 Zaan"
+    slug: "3-zaan"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+  "REV":
+    name: "Ziz"
+    slug: "ziz"

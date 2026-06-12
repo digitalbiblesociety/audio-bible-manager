@@ -1,0 +1,266 @@
+language: "tob"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+    name_toc: "2 Samuweli"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+    name_toc: "1 Dzipfhumu"
+  "LEV":
+    name: "Levítico"
+    slug: "levitico"
+    name_toc: "2 Dzipfhumu"
+  "NUM":
+    name: "Números"
+    slug: "numeros"
+    name_toc: "1 Dzikoronika"
+  "DEU":
+    name: "Deuteronómio"
+    slug: "deuteronomio"
+    name_toc: "2 Dzikoronika"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+    name_toc: "Ezira"
+  "JDG":
+    name: "Jueces"
+    slug: "jueces"
+    name_toc: "Nehemiya"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Malakiya"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Tobhiya"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Judhite"
+  "1KI":
+    name: "1 Reyes"
+    slug: "1-reyes"
+    name_toc: "Mavingu"
+  "2KI":
+    name: "2 Reyes"
+    slug: "2-reyes"
+    name_toc: "Muhevbudzi"
+  "1CH":
+    name: "1 Crónicas"
+    slug: "1-cronicas"
+    name_toc: "Gizimba"
+  "2CH":
+    name: "2 Crónicas"
+    slug: "2-cronicas"
+    name_toc: "Isaya"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Esiteri"
+  "NEH":
+    name: "Nehemías"
+    slug: "nehemias"
+    name_toc: "Guti"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Bheni Siraki"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Dhaniyeli"
+  "PSA":
+    name: "Salmos"
+    slug: "salmos"
+    name_toc: "Hoseya"
+  "PRO":
+    name: "Proverbios"
+    slug: "proverbios"
+    name_toc: "Joyele"
+  "ECC":
+    name: "Eclesiastés"
+    slug: "eclesiastes"
+    name_toc: "Amosi"
+  "SNG":
+    name: "Cantares"
+    slug: "cantares"
+    name_toc: "Obhadhiya"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+    name_toc: "Jona"
+  "JER":
+    name: "Jeremías"
+    slug: "jeremias"
+    name_toc: "Mikeya"
+  "LAM":
+    name: "Lamentaciones"
+    slug: "lamentaciones"
+    name_toc: "Nahume"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+    name_toc: "Habhakuka"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Sofoniya"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Bharuki"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "1 Makabhewu"
+  "AMO":
+    name: "Amós"
+    slug: "amos"
+    name_toc: "2 Makabhewu"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "Matewu"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+    name_toc: "Marko"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Luka"
+  "NAM":
+    name: "Nahúm"
+    slug: "nahum"
+    name_toc: "Johane"
+  "HAB":
+    name: "Habacuc"
+    slug: "habacuc"
+    name_toc: "Mithumo Ya Vapostoli"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "Varoma"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "1 Vakorinto"
+  "ZEC":
+    name: "Zacarías"
+    slug: "zacarias"
+    name_toc: "2 Vakorinto"
+  "MAL":
+    name: "Malaquías"
+    slug: "malaquias"
+    name_toc: "Vagalatiya"
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+    name_toc: "Vaefeso"
+  "MRK":
+    name: "Mc"
+    slug: "mc"
+    name_toc: "Vafilipi"
+  "LUK":
+    name: "Lc"
+    slug: "lc"
+    name_toc: "Vakolosi"
+  "JHN":
+    name: "Jn"
+    slug: "jn"
+    name_toc: "1 Vatesalonika"
+  "ACT":
+    name: "Hch"
+    slug: "hch"
+    name_toc: "2 Vatesalonika"
+  "ROM":
+    name: "Ro"
+    slug: "ro"
+    name_toc: "1 Thimoti"
+  "1CO":
+    name: "1 Co"
+    slug: "1-co"
+    name_toc: "2 Thimoti"
+  "2CO":
+    name: "2 Co"
+    slug: "2-co"
+    name_toc: "Tito"
+  "GAL":
+    name: "Gl"
+    slug: "gl"
+    name_toc: "Filemoni"
+  "EPH":
+    name: "Ef"
+    slug: "ef"
+    name_toc: "Vahebheru"
+  "PHP":
+    name: "Flp"
+    slug: "flp"
+    name_toc: "Jakobe"
+  "COL":
+    name: "Col"
+    slug: "col"
+    name_toc: "1 Pedro"
+  "1TH":
+    name: "1 Ts"
+    slug: "1-ts"
+    name_toc: "2 Pedro"
+  "2TH":
+    name: "2 Ts"
+    slug: "2-ts"
+    name_toc: "1 Johane"
+  "1TI":
+    name: "1 Ti"
+    slug: "1-ti"
+    name_toc: "2 Johane"
+  "2TI":
+    name: "2 Ti"
+    slug: "2-ti"
+    name_toc: "3 Johane"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Judha"
+  "PHM":
+    name: "Flm"
+    slug: "flm"
+    name_toc: "Gutuledwa"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+    name_toc: "Genesi"
+  "JAS":
+    name: "Stg"
+    slug: "stg"
+    name_toc: "Ekisodha"
+  "1PE":
+    name: "1 P"
+    slug: "1-p"
+    name_toc: "Levhi"
+  "2PE":
+    name: "2 P"
+    slug: "2-p"
+    name_toc: "Mitengo"
+  "1JN":
+    name: "1 Jn"
+    slug: "1-jn"
+    name_toc: "Dhewuteronome"
+  "2JN":
+    name: "2 Jn"
+    slug: "2-jn"
+    name_toc: "Josuwa"
+  "3JN":
+    name: "3 Jn"
+    slug: "3-jn"
+    name_toc: "Valamuli"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Rute"
+  "REV":
+    name: "Ap"
+    slug: "ap"
+    name_toc: "1 Samuweli"

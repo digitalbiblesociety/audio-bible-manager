@@ -1,0 +1,83 @@
+language: "kpw"
+books:
+  "MAT":
+    name: "Madyu"
+    slug: "madyu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Aposɨl"
+    slug: "aposil"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korid"
+    slug: "1-korid"
+  "2CO":
+    name: "2 Korid"
+    slug: "2-korid"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Epesas"
+    slug: "epesas"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Desalonaika"
+    slug: "1-desalonaika"
+  "2TH":
+    name: "2 Desalonaika"
+    slug: "2-desalonaika"
+  "1TI":
+    name: "1 Dimodi"
+    slug: "1-dimodi"
+  "2TI":
+    name: "2 Dimodi"
+    slug: "2-dimodi"
+  "TIT":
+    name: "Daidas"
+    slug: "daidas"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pida"
+    slug: "1-pida"
+  "2PE":
+    name: "2 Pida"
+    slug: "2-pida"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Repelesin"
+    slug: "repelesin"

@@ -1,0 +1,95 @@
+language: "bcc"
+books:
+  "GEN":
+    name: "Pédáesh"
+    slug: "pedaesh"
+  "EXO":
+    name: "Dargwaz"
+    slug: "dargwaz"
+  "PSA":
+    name: "Zabur"
+    slug: "zabur"
+  "DAN":
+    name: "Dányál"
+    slug: "danyal"
+  "MAT":
+    name: "Mattá"
+    slug: "matta"
+  "MRK":
+    name: "Markás"
+    slug: "markas"
+  "LUK":
+    name: "Luká"
+    slug: "luka"
+  "JHN":
+    name: "Yuhanná"
+    slug: "yuhanna"
+  "ACT":
+    name: "Kásedáni Kár"
+    slug: "kasedani-kar"
+  "ROM":
+    name: "Pulosay kágad pa Rumián"
+    slug: "pulosay-kagad-pa-rumian"
+  "1CO":
+    name: "Korentiáni Awali Kágad"
+    slug: "korentiani-awali-kagad"
+  "2CO":
+    name: "Pa Korentián Pulosay Domi Kágad"
+    slug: "pa-korentian-pulosay-domi-kagad"
+  "GAL":
+    name: "Pa Galátián Pulosay kágad"
+    slug: "pa-galatian-pulosay-kagad"
+  "EPH":
+    name: "Pa Epésosián Pulosay kágad"
+    slug: "pa-epesosian-pulosay-kagad"
+  "PHP":
+    name: "Pa Pilipián Pulosay kágad"
+    slug: "pa-pilipian-pulosay-kagad"
+  "COL":
+    name: "Pa Kulosián Pulosay kágad"
+    slug: "pa-kulosian-pulosay-kagad"
+  "1TH":
+    name: "Pa Tesálunikián Pulosay awali kágad"
+    slug: "pa-tesalunikian-pulosay-awali-kagad"
+  "2TH":
+    name: "Pa Tesálunikián Pulosay domi kágad"
+    slug: "pa-tesalunikian-pulosay-domi-kagad"
+  "1TI":
+    name: "Pa Timutáusá Pulosay awali kágad"
+    slug: "pa-timutausa-pulosay-awali-kagad"
+  "2TI":
+    name: "Pa Timutáusá Pulosay domi kágad"
+    slug: "pa-timutausa-pulosay-domi-kagad"
+  "TIT":
+    name: "Pa Titusá Pulosay kágad"
+    slug: "pa-titusa-pulosay-kagad"
+  "PHM":
+    name: "Pa Pilimuná Pulosay kágad"
+    slug: "pa-pilimuna-pulosay-kagad"
+  "HEB":
+    name: "Pa Ebránián"
+    slug: "pa-ebranian"
+  "JAS":
+    name: "Ákub"
+    slug: "akub"
+  "1PE":
+    name: "Petrosay Awal Kágad"
+    slug: "petrosay-awal-kagad"
+  "2PE":
+    name: "Petrosay Domi Kágad"
+    slug: "petrosay-domi-kagad"
+  "1JN":
+    name: "یوهَنّائے ائولی کاگد"
+    slug: "ywhnaye-aywly-kagd"
+  "2JN":
+    name: "Yuhannáay Domi Kágad"
+    slug: "yuhannaay-domi-kagad"
+  "3JN":
+    name: "Yuhannáay Saymi Kágad"
+    slug: "yuhannaay-saymi-kagad"
+  "JUD":
+    name: "Yahudáay Kágad"
+    slug: "yahudaay-kagad"
+  "REV":
+    name: "Elhám"
+    slug: "elham"

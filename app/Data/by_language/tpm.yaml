@@ -1,0 +1,83 @@
+language: "tpm"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+  "ACT":
+    name: "Tuma"
+    slug: "tuma"
+  "ROM":
+    name: "Room Tima"
+    slug: "room-tima"
+  "1CO":
+    name: "1 Kɔrint Tima"
+    slug: "1-krint-tima"
+  "2CO":
+    name: "2 Kɔrint Tima"
+    slug: "2-krint-tima"
+  "GAL":
+    name: "Galesia Tima"
+    slug: "galesia-tima"
+  "EPH":
+    name: "Ɛfɛsus Tima"
+    slug: "fsus-tima"
+  "PHP":
+    name: "Filipai Tima"
+    slug: "filipai-tima"
+  "COL":
+    name: "Kɔlɔsɛ Tima"
+    slug: "kls-tima"
+  "1TH":
+    name: "1 Tɛsalɔnika Tima"
+    slug: "1-tsalnika-tima"
+  "2TH":
+    name: "2 Tɛsalɔnika Tima"
+    slug: "2-tsalnika-tima"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Failimɔn"
+    slug: "failimn"
+  "HEB":
+    name: "Ju Tima"
+    slug: "ju-tima"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Jɔn Deesi"
+    slug: "jn-deesi"

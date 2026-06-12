@@ -1,0 +1,83 @@
+language: "aii"
+books:
+  "MAT":
+    name: "ܡܬܝ"
+    slug: "mty"
+  "MRK":
+    name: "ܡܪܩܘܣ"
+    slug: "mrqws"
+  "LUK":
+    name: "ܠܘܩܐ"
+    slug: "lwq"
+  "JHN":
+    name: "ܝܘܚܢܢ"
+    slug: "ywhnn"
+  "ACT":
+    name: "ܦܪܟܣܣ ܕܫܠܝ̈ܚܐ"
+    slug: "prkss-dslyh"
+  "ROM":
+    name: "ܕܠܘܬ ܪ̈ܗܘܡܢܐ"
+    slug: "dlwt-rhwmn"
+  "1CO":
+    name: "ܕܩܘܪ̈ܢܬܝܐ ܩܕܡܝܬܐ"
+    slug: "dqwrnty-qdmyt"
+  "2CO":
+    name: "ܕܩܘܪ̈ܢܬܝܐ ܕܬܪ̈ܬܝܢ"
+    slug: "dqwrnty-dtrtyn"
+  "GAL":
+    name: "ܕܠܘܬ ܓܠܛܝ̈ܐ"
+    slug: "dlwt-glty"
+  "EPH":
+    name: "ܕܠܘܬ ܐܦܣܝ̈ܐ"
+    slug: "dlwt-psy"
+  "PHP":
+    name: "ܕܠܘܬ ܦܝܠܝܦܣܝ̈ܐ"
+    slug: "dlwt-pylypsy"
+  "COL":
+    name: "ܕܠܘܬ ܩܘܠܣܝ̈ܐ"
+    slug: "dlwt-qwlsy"
+  "1TH":
+    name: "ܕܬܣܠܘܢܝ̈ܩܝܐ ܩܕܡܝܬܐ"
+    slug: "dtslwnyqy-qdmyt"
+  "2TH":
+    name: "ܕܬܣܠܘܢܝ̈ܩܝܐ ܕܬܪ̈ܬܝܢ"
+    slug: "dtslwnyqy-dtrtyn"
+  "1TI":
+    name: "ܕܛܝܡܬܐܘܣ ܩܕܡܝܬܐ"
+    slug: "dtymtws-qdmyt"
+  "2TI":
+    name: "ܕܛܝܡܬܐܘܣ ܕܬܪ̈ܬܝܢ"
+    slug: "dtymtws-dtrtyn"
+  "TIT":
+    name: "ܕܠܘܬ ܛܛܘܣ"
+    slug: "dlwt-ttws"
+  "PHM":
+    name: "ܕܠܘܬ ܦܝܠܡܘܢ"
+    slug: "dlwt-pylmwn"
+  "HEB":
+    name: "ܕܠܘܬ ܥܒܪ̈ܝܐ"
+    slug: "dlwt-bry"
+  "JAS":
+    name: "ܐܓܪܬܐ ܕܝܥܩܘܒ"
+    slug: "grt-dyqwb"
+  "1PE":
+    name: "ܐܓܪܬܐ ܕܦܛܪܘܣ"
+    slug: "grt-dptrws"
+  "2PE":
+    name: "ܐܓܪܬܐ ܕܬܪ̈ܬܝܢ ܕܦܛܪܘܣ"
+    slug: "grt-dtrtyn-dptrws"
+  "1JN":
+    name: "ܐܓܪܬܐ ܕܝܘܚܢܢ"
+    slug: "grt-dywhnn"
+  "2JN":
+    name: "ܐܓܪܬܐ ܕܬܪ̈ܬܢܢ ܕܝܘܚܢܢ ܫܠܝܚܐ"
+    slug: "grt-dtrtnn-dywhnn-slyh"
+  "3JN":
+    name: "ܐܓܪܬܐ ܕܬܠܬ ܕܝܘܚܢܢ ܫܠܝܚܐ"
+    slug: "grt-dtlt-dywhnn-slyh"
+  "JUD":
+    name: "ܐܓܪܬܐ ܕܝܗܘܕܐ"
+    slug: "grt-dyhwd"
+  "REV":
+    name: "ܓܢܝܢܐ ܕܝܘܚܢܢ"
+    slug: "gnyn-dywhnn"

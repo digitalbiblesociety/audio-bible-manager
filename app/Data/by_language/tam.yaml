@@ -1,0 +1,200 @@
+language: "tam"
+books:
+  "GEN":
+    name: "ஆதியாகமம்"
+    slug: "atiyakamam"
+  "EXO":
+    name: "யாத்திராகமம்"
+    slug: "yattirakamam"
+  "LEV":
+    name: "லேவியராகமம்"
+    slug: "leviyarakamam"
+  "NUM":
+    name: "எண்ணாகமம்"
+    slug: "ennakamam"
+  "DEU":
+    name: "உபாகமம்"
+    slug: "upakamam"
+  "JOS":
+    name: "யோசுவா"
+    slug: "yocuva"
+  "JDG":
+    name: "நியாயாதிபதிகள்"
+    slug: "niyayatipatikal"
+  "RUT":
+    name: "ரூத்"
+    slug: "rut"
+  "1SA":
+    name: "1 சாமுவேல்"
+    slug: "1-camuvel"
+  "2SA":
+    name: "2 சாமுவேல்"
+    slug: "2-camuvel"
+  "1KI":
+    name: "1 ராஜாக்கள்"
+    slug: "1-rajakkal"
+  "2KI":
+    name: "2 ராஜாக்கள்"
+    slug: "2-rajakkal"
+  "1CH":
+    name: "1 நாளாகமம்"
+    slug: "1-nalakamam"
+  "2CH":
+    name: "2 நாளாகமம்"
+    slug: "2-nalakamam"
+  "EZR":
+    name: "எஸ்றா"
+    slug: "esra"
+  "NEH":
+    name: "நெகேமியா"
+    slug: "nekemiya"
+  "EST":
+    name: "எஸ்தர்"
+    slug: "estar"
+  "JOB":
+    name: "யோபு"
+    slug: "yopu"
+  "PSA":
+    name: "சங்கீதம்"
+    slug: "cankitam"
+  "PRO":
+    name: "நீதிமொழிகள்"
+    slug: "nitimolikal"
+  "ECC":
+    name: "பிரசங்கி"
+    slug: "piracanki"
+  "SNG":
+    name: "உன்னதப்பாட்டு"
+    slug: "unnatappattu"
+  "ISA":
+    name: "ஏசாயா"
+    slug: "ecaya"
+  "JER":
+    name: "எரேமியா"
+    slug: "eremiya"
+  "LAM":
+    name: "புலம்பல்"
+    slug: "pulampal"
+  "EZK":
+    name: "எசேக்கியேல்"
+    slug: "ecekkiyel"
+  "DAN":
+    name: "தானியேல்"
+    slug: "taniyel"
+  "HOS":
+    name: "ஓசியா"
+    slug: "ociya"
+  "JOL":
+    name: "யோவேல்"
+    slug: "yovel"
+  "AMO":
+    name: "ஆமோஸ்"
+    slug: "amos"
+  "OBA":
+    name: "ஒபதியா"
+    slug: "opatiya"
+  "JON":
+    name: "யோனா"
+    slug: "yona"
+  "MIC":
+    name: "மீகா"
+    slug: "mika"
+  "NAM":
+    name: "நாகூம்"
+    slug: "nakum"
+  "HAB":
+    name: "ஆபகூக்"
+    slug: "apakuk"
+  "ZEP":
+    name: "செப்பனியா"
+    slug: "ceppaniya"
+  "HAG":
+    name: "ஆகாய்"
+    slug: "akay"
+  "ZEC":
+    name: "சகரியா"
+    slug: "cakariya"
+  "MAL":
+    name: "மல்கியா"
+    slug: "malkiya"
+  "MAT":
+    name: "மத்தேயு"
+    slug: "matteyu"
+  "MRK":
+    name: "மாற்கு"
+    slug: "marku"
+  "LUK":
+    name: "லூக்கா"
+    slug: "lukka"
+  "JHN":
+    name: "யோவான்"
+    slug: "yovan"
+  "ACT":
+    name: "அப்போஸ்தலர்"
+    slug: "appostalar"
+  "ROM":
+    name: "ரோமர்"
+    slug: "romar"
+  "1CO":
+    name: "1 கொரி."
+    slug: "1-kori"
+  "2CO":
+    name: "2 கொரி."
+    slug: "2-kori"
+  "GAL":
+    name: "கலாத்தியர்"
+    slug: "kalattiyar"
+  "EPH":
+    name: "எபேசியர்"
+    slug: "epeciyar"
+  "PHP":
+    name: "பிலிப்பியர்"
+    slug: "pilippiyar"
+  "COL":
+    name: "கொலோசெயர்"
+    slug: "koloceyar"
+  "1TH":
+    name: "1 தெசலோனிக்கேயர்"
+    slug: "1-tecalonikkeyar"
+  "2TH":
+    name: "2 தெசலோனிக்கேயர்"
+    slug: "2-tecalonikkeyar"
+  "1TI":
+    name: "1 தீமோத்தேயு"
+    slug: "1-timotteyu"
+  "2TI":
+    name: "2 தீமோத்தேயு"
+    slug: "2-timotteyu"
+  "TIT":
+    name: "தீத்து"
+    slug: "tittu"
+  "PHM":
+    name: "பிலேமோன்"
+    slug: "pilemon"
+  "HEB":
+    name: "எபிரேயர்"
+    slug: "epireyar"
+  "JAS":
+    name: "யாக்கோபு"
+    slug: "yakkopu"
+  "1PE":
+    name: "1 பேதுரு"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 பேதுரு"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 யோவான்"
+    slug: "1-yovan"
+  "2JN":
+    name: "2 யோவான்"
+    slug: "2-yovan"
+  "3JN":
+    name: "3 யோவான்"
+    slug: "3-yovan"
+  "JUD":
+    name: "யூதா"
+    slug: "yuta"
+  "REV":
+    name: "வெளி."
+    slug: "veli"

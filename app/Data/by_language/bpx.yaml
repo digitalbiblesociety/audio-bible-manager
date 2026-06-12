@@ -1,0 +1,5 @@
+language: "bpx"
+books:
+  "MAT":
+    name: "मत्‌ती"
+    slug: "matti"

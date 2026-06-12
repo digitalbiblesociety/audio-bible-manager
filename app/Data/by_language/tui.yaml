@@ -1,0 +1,266 @@
+language: "tui"
+books:
+  "GEN":
+    name: "Tĩĩgi Were"
+    slug: "tiigi-were"
+    name_toc: "Esita"
+  "EXO":
+    name: "Laage Go"
+    slug: "laage-go"
+    name_toc: "Yob"
+  "LEV":
+    name: "Joŋre Jar Lefid Wo"
+    slug: "jore-jar-lefid-wo"
+    name_toc: "Ngieosio"
+  "NUM":
+    name: "Keege Jar Israyel Wo"
+    slug: "keege-jar-israyel-wo"
+    name_toc: "Ngakamatak"
+  "DEU":
+    name: "Dogge Jag Liŋgi"
+    slug: "dogge-jag-ligi"
+    name_toc: "Eketataman"
+  "JOS":
+    name: "Josuwe"
+    slug: "josuwe"
+    name_toc: "Eeos Lokebusean Noi"
+  "JDG":
+    name: "Jar Car Kiida Wo"
+    slug: "jar-car-kiida-wo"
+    name_toc: "Isaya"
+  "RUT":
+    name: "Rud"
+    slug: "rud"
+    name_toc: "Yeremia"
+  "1SA":
+    name: "1 Samyel"
+    slug: "1-samyel"
+    name_toc: "Akigoro"
+  "2SA":
+    name: "2 Samyel"
+    slug: "2-samyel"
+    name_toc: "Esekiel"
+  "1KI":
+    name: "1 Waŋre Wo"
+    slug: "1-ware-wo"
+    name_toc: "Daniel"
+  "2KI":
+    name: "2 Waŋre Wo"
+    slug: "2-ware-wo"
+    name_toc: "Osea"
+  "1CH":
+    name: "1 Kronig"
+    slug: "1-kronig"
+    name_toc: "Yoel"
+  "2CH":
+    name: "2 Kronig"
+    slug: "2-kronig"
+    name_toc: "Amos"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Obadia"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Yona"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Mika"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Naum"
+  "PSA":
+    name: "Siŋ Wora"
+    slug: "si-wora"
+    name_toc: "Abakuk"
+  "PRO":
+    name: "Jag Jõõ Wo"
+    slug: "jag-joo-wo"
+    name_toc: "Sepania"
+  "ECC":
+    name: "Eklesiyaste"
+    slug: "eklesiyaste"
+    name_toc: "Agai"
+  "SNG":
+    name: "Siŋ Ma De Daŋ Siŋn Wo"
+    slug: "si-ma-de-da-sin-wo"
+    name_toc: "Sekaria"
+  "ISA":
+    name: "Esay"
+    slug: "esay"
+    name_toc: "Malaki"
+  "JER":
+    name: "Jermi"
+    slug: "jermi"
+    name_toc: "Ngakiro Naajokak Loger Lo Egirea Matayo"
+  "LAM":
+    name: "Lawge Mani Jermin Wo"
+    slug: "lawge-mani-jermin-wo"
+    name_toc: "Ngakiro Naajokak Loger Lo Egirea Mariko"
+  "EZK":
+    name: "Esekiyel"
+    slug: "esekiyel"
+    name_toc: "Ngakiro Naajokak Loger Lo Egirea Luka"
+  "DAN":
+    name: "Danyel"
+    slug: "danyel"
+    name_toc: "Ngakiro Naajokak Loger Lo Egirea Yoana"
+  "HOS":
+    name: "Ose"
+    slug: "ose"
+    name_toc: "Ngitichisio A Ngimeanara"
+  "JOL":
+    name: "Jowel"
+    slug: "jowel"
+    name_toc: "Abarua Na Egirakini Paulo Ngiroma"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Abarua Na Ekingaren Egirakini Paulo Ngikorintoi"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+    name_toc: "Abarua Na A Ngaarei Na Egirakini Paulo Ngikorintoi"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Abarua Na Egirakini Paulo Ngigalatiae"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+    name_toc: "Abarua Na Egirakini Paulo Ngiepesoi"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Abarua Na Egirakini Paulo Ngipilipi"
+  "HAB":
+    name: "Habakug"
+    slug: "habakug"
+    name_toc: "Abarua Na Egirakini Paulo Ngikolosai"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+    name_toc: "Abarua Na Ekingaren Na Egirakini Paulo Ngitesalonike"
+  "HAG":
+    name: "Aje"
+    slug: "aje"
+    name_toc: "Abarua Na A Ngaarei Na Egirakini Paulo Ngitesalonike"
+  "ZEC":
+    name: "Sakari"
+    slug: "sakari"
+    name_toc: "Abarua Na Ekingaren Na Egirakini Paulo Timoteo"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+    name_toc: "Abarua Na A Ngaarei Na Egirakini Paulo Timoteo"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+    name_toc: "Abarua Na Egirakini Paulo Tito"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Abarua Na Egirakini Paulo Pilemon"
+  "LUK":
+    name: "Lug"
+    slug: "lug"
+    name_toc: "Abarua Na Egirakinio Ngieburaniae"
+  "JHN":
+    name: "Jaŋ"
+    slug: "ja"
+    name_toc: "Abarua Na Egiri Yakobo"
+  "ACT":
+    name: "Joŋre"
+    slug: "jore"
+    name_toc: "Abarua Na Ekingaren A Petero"
+  "ROM":
+    name: "Rom Wo"
+    slug: "rom-wo"
+    name_toc: "Abarua Na A Ngaarei A Petero"
+  "1CO":
+    name: "1 Korente Wo"
+    slug: "1-korente-wo"
+    name_toc: "Abarua Na Ekingaren A Yoana"
+  "2CO":
+    name: "2 Korente Wo"
+    slug: "2-korente-wo"
+    name_toc: "Abarua Na A Ngaarei A Yoana"
+  "GAL":
+    name: "Galad Wo"
+    slug: "galad-wo"
+    name_toc: "Abarua Na A Ngauni A Yoana"
+  "EPH":
+    name: "Efes Wo"
+    slug: "efes-wo"
+    name_toc: "Abarua A Yuda"
+  "PHP":
+    name: "Filip Wo"
+    slug: "filip-wo"
+    name_toc: "Akitoodikinet A Yoana"
+  "COL":
+    name: "Kolos Wo"
+    slug: "kolos-wo"
+    name_toc: "Fakasigadan"
+  "1TH":
+    name: "1 Tesalonig Wo"
+    slug: "1-tesalonig-wo"
+    name_toc: "Nu Galin"
+  "2TH":
+    name: "2 Tesalonig Wo"
+    slug: "2-tesalonig-wo"
+    name_toc: "Lebitiku"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Tap"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Deuterunumyu"
+  "TIT":
+    name: "Tid"
+    slug: "tid"
+    name_toc: "Uswe"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemo"
+    name_toc: "Ngay Tagfangguna"
+  "HEB":
+    name: "Hebre Wo"
+    slug: "hebre-wo"
+    name_toc: "Rut"
+  "JAS":
+    name: "Jag"
+    slug: "jag"
+    name_toc: "Fasadik Samwel"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+    name_toc: "Faduak Samwel"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+    name_toc: "Fasadik Fun"
+  "1JN":
+    name: "1 Jaŋ"
+    slug: "1-ja"
+    name_toc: "Faduak Fun"
+  "2JN":
+    name: "2 Jaŋ"
+    slug: "2-ja"
+    name_toc: "Fasadik Krunika"
+  "3JN":
+    name: "3 Jaŋ"
+    slug: "3-ja"
+    name_toc: "Faduak Krunika"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Esra"
+  "REV":
+    name: "Naage Nene"
+    slug: "naage-nene"
+    name_toc: "Nemyas"

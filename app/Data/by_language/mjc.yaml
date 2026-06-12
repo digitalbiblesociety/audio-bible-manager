@@ -1,0 +1,83 @@
+language: "mjc"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Los Hechos"
+    slug: "los-hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "I Corintios"
+    slug: "i-corintios"
+  "2CO":
+    name: "II Corintios"
+    slug: "ii-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+  "1TH":
+    name: "I Tesalonicenses"
+    slug: "i-tesalonicenses"
+  "2TH":
+    name: "II Tesalonicenses"
+    slug: "ii-tesalonicenses"
+  "1TI":
+    name: "I Timoteo"
+    slug: "i-timoteo"
+  "2TI":
+    name: "II Timoteo"
+    slug: "ii-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "I San Pedro"
+    slug: "i-san-pedro"
+  "2PE":
+    name: "II San Pedro"
+    slug: "ii-san-pedro"
+  "1JN":
+    name: "I San Juan"
+    slug: "i-san-juan"
+  "2JN":
+    name: "II San Juan"
+    slug: "ii-san-juan"
+  "3JN":
+    name: "III San Juan"
+    slug: "iii-san-juan"
+  "JUD":
+    name: "San Judas"
+    slug: "san-judas"
+  "REV":
+    name: "El Apocalipsis"
+    slug: "el-apocalipsis"

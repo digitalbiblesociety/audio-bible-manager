@@ -1,0 +1,266 @@
+language: "lam"
+books:
+  "GEN":
+    name: "Ifyakutaŋga"
+    slug: "ifyakutaga"
+    name_toc: "Ifyakutaŋga"
+  "EXO":
+    name: "Ifyakufuma"
+    slug: "ifyakufuma"
+    name_toc: "Ifyakufuma"
+  "LEV":
+    name: "Ifya Ŵalefai"
+    slug: "ifya-walefai"
+    name_toc: "Ifya Ŵalefai"
+  "NUM":
+    name: "Ifyakupenda"
+    slug: "ifyakupenda"
+    name_toc: "Ifyakupenda"
+  "DEU":
+    name: "Ndutelonomi"
+    slug: "ndutelonomi"
+    name_toc: "Ndutelonomi"
+  "JOS":
+    name: "Josyua"
+    slug: "josyua"
+    name_toc: "Josyua"
+  "JDG":
+    name: "Awasololwesi"
+    slug: "awasololwesi"
+    name_toc: "Awasololwesi"
+  "RUT":
+    name: "Lufi"
+    slug: "lufi"
+    name_toc: "Lufi"
+  "1SA":
+    name: "1Samweli"
+    slug: "1samweli"
+    name_toc: "1Samweli"
+  "2SA":
+    name: "2Samweli"
+    slug: "2samweli"
+    name_toc: "2Samweli"
+  "1KI":
+    name: "1Imfumu"
+    slug: "1imfumu"
+    name_toc: "1Imfumu"
+  "2KI":
+    name: "2Imfumu"
+    slug: "2imfumu"
+    name_toc: "2Imfumu"
+  "1CH":
+    name: "1Ifyeŵo"
+    slug: "1ifyewo"
+    name_toc: "1Ifyeŵo"
+  "2CH":
+    name: "2Ifyeŵo"
+    slug: "2ifyewo"
+    name_toc: "2Ifyeŵo"
+  "EZR":
+    name: "Esila"
+    slug: "esila"
+    name_toc: "Esila"
+  "NEH":
+    name: "Neyamiya"
+    slug: "neyamiya"
+    name_toc: "Neyamiya"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esita"
+  "JOB":
+    name: "Jobo"
+    slug: "jobo"
+    name_toc: "Jobo"
+  "PSA":
+    name: "Amasamo"
+    slug: "amasamo"
+    name_toc: "Amasamo"
+  "PRO":
+    name: "Ifisimpi"
+    slug: "ifisimpi"
+    name_toc: "Ifisimpi"
+  "ECC":
+    name: "Uwakutulisya"
+    slug: "uwakutulisya"
+    name_toc: "Uwakutulisya"
+  "SNG":
+    name: "Ulwimbo"
+    slug: "ulwimbo"
+    name_toc: "Ulwimbo lwakwe Solomoni"
+  "ISA":
+    name: "Yisaya"
+    slug: "yisaya"
+    name_toc: "Yisaya"
+  "JER":
+    name: "Jelemiya"
+    slug: "jelemiya"
+    name_toc: "Jelemiya"
+  "LAM":
+    name: "Imisowa"
+    slug: "imisowa"
+    name_toc: "Imisowa Yakwe Jelemiya"
+  "EZK":
+    name: "Esiceli"
+    slug: "esiceli"
+    name_toc: "Esiceli"
+  "DAN":
+    name: "Danyeli"
+    slug: "danyeli"
+    name_toc: "Danyeli"
+  "HOS":
+    name: "Osiya"
+    slug: "osiya"
+    name_toc: "Osiya"
+  "JOL":
+    name: "Joeli"
+    slug: "joeli"
+    name_toc: "Joeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Obadiya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nayumi"
+    slug: "nayumi"
+    name_toc: "Nayumi"
+  "HAB":
+    name: "Abakuci"
+    slug: "abakuci"
+    name_toc: "Abakuci"
+  "ZEP":
+    name: "Sefaniya"
+    slug: "sefaniya"
+    name_toc: "Sefaniya"
+  "HAG":
+    name: "Agayi"
+    slug: "agayi"
+    name_toc: "Agayi"
+  "ZEC":
+    name: "Sakaliya"
+    slug: "sakaliya"
+    name_toc: "Sakaliya"
+  "MAL":
+    name: "Malaci"
+    slug: "malaci"
+    name_toc: "Malaci"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Iceŵo Iciweme Icakuli Ŵa Yesu Klistu Icalembele Matayo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Iceŵo Iciweme Icakuli Ŵa Yesu Klistu Icalembele Mako"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+    name_toc: "Iceŵo Iciweme Icakuli Ŵa Yesu Klistu Icalembele Luku"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Iceŵo Iciweme Icakuli Ŵa Yesu Klistu Icalembele Yoane"
+  "ACT":
+    name: "Ifyacitilwe"
+    slug: "ifyacitilwe"
+    name_toc: "Ifyacitilwe"
+  "ROM":
+    name: "Aŵaloma"
+    slug: "awaloma"
+    name_toc: "Iŋkalata Yakwe Paulu Iaŵalembele Aŵaloma"
+  "1CO":
+    name: "1 Aŵakolinto"
+    slug: "1-awakolinto"
+    name_toc: "Iŋkalata Yakwe Paulu Iatanjile Ukuŵalembela Aŵakolinto"
+  "2CO":
+    name: "2 Aŵakolinto"
+    slug: "2-awakolinto"
+    name_toc: "Iŋkalata Yakwe Paulu Iyaŵusiŵili Iaŵalembele Aŵakolinto"
+  "GAL":
+    name: "Aŵagalatiya"
+    slug: "awagalatiya"
+    name_toc: "Iŋkalata Yakwe Paulu Iaŵalembele Aŵagalatiya"
+  "EPH":
+    name: "Aŵaefesa"
+    slug: "awaefesa"
+    name_toc: "Iŋkalata Yakwe Paulu Iaŵalembele Aŵaefesa"
+  "PHP":
+    name: "Aŵafilipoi"
+    slug: "awafilipoi"
+    name_toc: "Iŋkalata Yakwe Paulu Iaŵalembele Aŵafilipoi"
+  "COL":
+    name: "Aŵakolosai"
+    slug: "awakolosai"
+    name_toc: "Iŋkalata Yakwe Paulu Iaŵalembele Aŵakolosai"
+  "1TH":
+    name: "1 Aŵatesalonike"
+    slug: "1-awatesalonike"
+    name_toc: "Iŋkalata Yakwe Paulu Iatanjile Ukuŵalembela Aŵatesalonike"
+  "2TH":
+    name: "2 Aŵatesalonike"
+    slug: "2-awatesalonike"
+    name_toc: "Iŋkalata Yakwe Paulu Iyawusiwili Iawalembele Aŵatesalonike"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Iŋkalata Yakwe Paulu Iatanjile Ukumulembela Timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Iŋkalata Yakwe Paulu Iyaŵusiwili Ukumulembela Timote"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Iŋkalata Yakwe Paulu Iyamulembele Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Iŋkalata Yakwe Paulu Iyamulembele Filemoni"
+  "HEB":
+    name: "Ŵaebeya"
+    slug: "waebeya"
+    name_toc: "Iŋkalata Iyaku Ŵaebeya"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Iŋkalata Yakwe Jakobo"
+  "1PE":
+    name: "1 Petilo"
+    slug: "1-petilo"
+    name_toc: "Iŋkalata Yakwe Petilo Iyakutaŋga"
+  "2PE":
+    name: "2 Petilo"
+    slug: "2-petilo"
+    name_toc: "ŊKALATA YAKWE Petilo IYA WUSIWILI"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Iŋkalata Yakwe Yoane Iyakutaŋga"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Iŋkalata Yakwe Yoane Iya Ŵusiŵili"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "3 Iŋkalata Yakwe Yoane Iyaŵusitatu"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+    name_toc: "Iŋkalata Yakwe Juda"
+  "REV":
+    name: "Ukufisulula"
+    slug: "ukufisulula"
+    name_toc: "Ukufisulula Kwakwe Yoane Umuntu Waŵa Lesa"

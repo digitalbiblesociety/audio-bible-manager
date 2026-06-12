@@ -1,0 +1,83 @@
+language: "txu"
+books:
+  "MAT":
+    name: "Matêu"
+    slug: "mateu"
+  "MRK":
+    name: "Makô"
+    slug: "mako"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Djuão rax"
+    slug: "djuao-rax"
+  "ACT":
+    name: "Metĩndjwỳnh Karõ"
+    slug: "metindjwynh-karo"
+  "ROM":
+    name: "Rôma"
+    slug: "roma"
+  "1CO":
+    name: "Kôritu kumrẽx"
+    slug: "koritu-kumrex"
+  "2CO":
+    name: "Atãri Kôritu"
+    slug: "atari-koritu"
+  "GAL":
+    name: "Garaxa"
+    slug: "garaxa"
+  "EPH":
+    name: "Epexu"
+    slug: "epexu"
+  "PHP":
+    name: "Pirpu"
+    slug: "pirpu"
+  "COL":
+    name: "Korxi"
+    slug: "korxi"
+  "1TH":
+    name: "Texarônika kumrẽx"
+    slug: "texaronika-kumrex"
+  "2TH":
+    name: "Atãri Texarônika"
+    slug: "atari-texaronika"
+  "1TI":
+    name: "Ximoxi kumrẽx"
+    slug: "ximoxi-kumrex"
+  "2TI":
+    name: "Atãri Ximoxi"
+    slug: "atari-ximoxi"
+  "TIT":
+    name: "Xitu"
+    slug: "xitu"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Mekbê idjaer"
+    slug: "mekbe-idjaer"
+  "JAS":
+    name: "Xijagu"
+    slug: "xijagu"
+  "1PE":
+    name: "Pedru kumrẽx"
+    slug: "pedru-kumrex"
+  "2PE":
+    name: "Atãri Pedru"
+    slug: "atari-pedru"
+  "1JN":
+    name: "Djuão kumrẽx"
+    slug: "djuao-kumrex"
+  "2JN":
+    name: "Atãri Djuão"
+    slug: "atari-djuao"
+  "3JN":
+    name: "Djuãoo ino rer"
+    slug: "djuaoo-ino-rer"
+  "JUD":
+    name: "Djuda"
+    slug: "djuda"
+  "REV":
+    name: "Mỳjja apôx"
+    slug: "myjja-apox"

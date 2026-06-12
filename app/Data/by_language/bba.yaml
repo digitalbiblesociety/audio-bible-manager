@@ -1,0 +1,200 @@
+language: "bba"
+books:
+  "GEN":
+    name: "Torubu"
+    slug: "torubu"
+  "EXO":
+    name: "Yɑribu"
+    slug: "yribu"
+  "LEV":
+    name: "Sɑ̃ɑrun Woodɑ"
+    slug: "srun-wood"
+  "NUM":
+    name: "Gbɑburu"
+    slug: "gbburu"
+  "DEU":
+    name: "Sɔ̃ɔsiru"
+    slug: "ssiru"
+  "JOS":
+    name: "Yosue"
+    slug: "yosue"
+  "JDG":
+    name: "Kpɑrobu"
+    slug: "kprobu"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "Sɑmuɛli I"
+    slug: "smuli-i"
+  "2SA":
+    name: "Sɑmuɛli II"
+    slug: "smuli-ii"
+  "1KI":
+    name: "Sinɑmbu I"
+    slug: "sinmbu-i"
+  "2KI":
+    name: "Sinɑmbu II"
+    slug: "sinmbu-ii"
+  "1CH":
+    name: "Bɑndun Gɑri I"
+    slug: "bndun-gri-i"
+  "2CH":
+    name: "Bɑndun Gɑri II"
+    slug: "bndun-gri-ii"
+  "EZR":
+    name: "Ɛsidɑrɑsi"
+    slug: "sidrsi"
+  "NEH":
+    name: "Nɛɛmi"
+    slug: "nmi"
+  "EST":
+    name: "Ɛsitɛɛ"
+    slug: "sit"
+  "JOB":
+    name: "Yoobu"
+    slug: "yoobu"
+  "PSA":
+    name: "Womusu"
+    slug: "womusu"
+  "PRO":
+    name: "Mɔnnu"
+    slug: "mnnu"
+  "ECC":
+    name: "Wɑɑsu kowo"
+    slug: "wsu-kowo"
+  "SNG":
+    name: "Womu Duro"
+    slug: "womu-duro"
+  "ISA":
+    name: "Esɑi"
+    slug: "esi"
+  "JER":
+    name: "Yeremi"
+    slug: "yeremi"
+  "LAM":
+    name: "Swĩi"
+    slug: "swii"
+  "EZK":
+    name: "Esekiɛli"
+    slug: "esekili"
+  "DAN":
+    name: "Dɑniɛli"
+    slug: "dnili"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Yoɛli"
+    slug: "yoli"
+  "AMO":
+    name: "Amɔsu"
+    slug: "amsu"
+  "OBA":
+    name: "Abudiɑsi"
+    slug: "abudisi"
+  "JON":
+    name: "Yonɑsi"
+    slug: "yonsi"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+  "NAM":
+    name: "Nɑhumu"
+    slug: "nhumu"
+  "HAB":
+    name: "Hɑbɑkuku"
+    slug: "hbkuku"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Asee"
+    slug: "asee"
+  "ZEC":
+    name: "Sɑkɑri"
+    slug: "skri"
+  "MAL":
+    name: "Mɑlɑsi"
+    slug: "mlsi"
+  "MAT":
+    name: "Mɑteu"
+    slug: "mteu"
+  "MRK":
+    name: "Mɑɑku"
+    slug: "mku"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Yohɑnu"
+    slug: "yohnu"
+  "ACT":
+    name: "Gɔrobun Kookoosu"
+    slug: "grobun-kookoosu"
+  "ROM":
+    name: "Romu"
+    slug: "romu"
+  "1CO":
+    name: "Korinti I"
+    slug: "korinti-i"
+  "2CO":
+    name: "Korinti II"
+    slug: "korinti-ii"
+  "GAL":
+    name: "Gɑlɑti"
+    slug: "glti"
+  "EPH":
+    name: "Efesu"
+    slug: "efesu"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Tɛsɑlonikɑ I"
+    slug: "tslonik-i"
+  "2TH":
+    name: "Tɛsɑlonikɑ II"
+    slug: "tslonik-ii"
+  "1TI":
+    name: "Timɔte I"
+    slug: "timte-i"
+  "2TI":
+    name: "Timɔte II"
+    slug: "timte-ii"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Heberu"
+    slug: "heberu"
+  "JAS":
+    name: "Yɑkɔbu"
+    slug: "ykbu"
+  "1PE":
+    name: "Piɛɛ I"
+    slug: "pi-i"
+  "2PE":
+    name: "Piɛɛ II"
+    slug: "pi-ii"
+  "1JN":
+    name: "Yohɑnu I"
+    slug: "yohnu-i"
+  "2JN":
+    name: "Yohɑnu II"
+    slug: "yohnu-ii"
+  "3JN":
+    name: "Yohɑnu III"
+    slug: "yohnu-iii"
+  "JUD":
+    name: "Yudu"
+    slug: "yudu"
+  "REV":
+    name: "Kɑ̃siru"
+    slug: "ksiru"

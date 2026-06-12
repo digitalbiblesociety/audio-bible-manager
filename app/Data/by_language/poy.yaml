@@ -1,0 +1,83 @@
+language: "poy"
+books:
+  "MAT":
+    name: "Matayu"
+    slug: "matayu"
+  "MRK":
+    name: "Mariku"
+    slug: "mariku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohani"
+    slug: "yohani"
+  "ACT":
+    name: "Matendu"
+    slug: "matendu"
+  "ROM":
+    name: "Warumi"
+    slug: "warumi"
+  "1CO":
+    name: "1 Wakorintu"
+    slug: "1-wakorintu"
+  "2CO":
+    name: "2 Wakorintu"
+    slug: "2-wakorintu"
+  "GAL":
+    name: "Wagalatiya"
+    slug: "wagalatiya"
+  "EPH":
+    name: "Waefesu"
+    slug: "waefesu"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+  "COL":
+    name: "Wakolosayi"
+    slug: "wakolosayi"
+  "1TH":
+    name: "1 Watesaloniki"
+    slug: "1-watesaloniki"
+  "2TH":
+    name: "2 Watesaloniki"
+    slug: "2-watesaloniki"
+  "1TI":
+    name: "1 Timotewu"
+    slug: "1-timotewu"
+  "2TI":
+    name: "2 Timotewu"
+    slug: "2-timotewu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Waebulaniya"
+    slug: "waebulaniya"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+  "1PE":
+    name: "1 Peteru"
+    slug: "1-peteru"
+  "2PE":
+    name: "2 Peteru"
+    slug: "2-peteru"
+  "1JN":
+    name: "1 Yohani"
+    slug: "1-yohani"
+  "2JN":
+    name: "2 Yohani"
+    slug: "2-yohani"
+  "3JN":
+    name: "3 Yohani"
+    slug: "3-yohani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ugubutulu"
+    slug: "ugubutulu"

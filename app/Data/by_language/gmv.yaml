@@ -1,0 +1,200 @@
+language: "gmv"
+books:
+  "GEN":
+    name: "ሜቴ ማጻፋ"
+    slug: "mete-masafa"
+  "EXO":
+    name: "ኬሳ ማጻፋ"
+    slug: "kesa-masafa"
+  "LEV":
+    name: "ሌዌታ ማጻፋ"
+    slug: "leweta-masafa"
+  "NUM":
+    name: "ታይቦ ማጻፋ"
+    slug: "tayebo-masafa"
+  "DEU":
+    name: "ዛሬ ማጻፋ"
+    slug: "zare-masafa"
+  "JOS":
+    name: "ኢያሶ ማጻፋ"
+    slug: "iyaso-masafa"
+  "JDG":
+    name: "ዳናታ ማጻፋ"
+    slug: "danata-masafa"
+  "RUT":
+    name: "ኡሩቲ ማጻፋ"
+    slug: "uruti-masafa"
+  "1SA":
+    name: "1ሳሜላ ማጻፋ"
+    slug: "1samela-masafa"
+  "2SA":
+    name: "2ሳሜላ ማጻፋ"
+    slug: "2samela-masafa"
+  "1KI":
+    name: "1ካዎታ ማጻፋ"
+    slug: "1kawota-masafa"
+  "2KI":
+    name: "2ካዎታ ማጻፋ"
+    slug: "2kawota-masafa"
+  "1CH":
+    name: "1ታሪኬ ማጻፋ"
+    slug: "1tarike-masafa"
+  "2CH":
+    name: "2ታሪኬ ማጻፋ"
+    slug: "2tarike-masafa"
+  "EZR":
+    name: "ኢዝራ ማጻፋ"
+    slug: "izera-masafa"
+  "NEH":
+    name: "ናሂሚያ ማጻፋ"
+    slug: "nahimiya-masafa"
+  "EST":
+    name: "ኣስቴሪ ማጻፋ"
+    slug: "aseteri-masafa"
+  "JOB":
+    name: "ኢዮቤ ማጻፋ"
+    slug: "iyobe-masafa"
+  "PSA":
+    name: "ዬ ማጻፋ"
+    slug: "ye-masafa"
+  "PRO":
+    name: "ሌሚሶ ማጻፋ"
+    slug: "lemiso-masafa"
+  "ECC":
+    name: "ኤራንቻታ ማጻፋ"
+    slug: "eranecata-masafa"
+  "SNG":
+    name: "ሲቆ ሳባ"
+    slug: "siqo-saba"
+  "ISA":
+    name: "ኢሳያሳ ቲንቢቴ"
+    slug: "isayasa-tinebite"
+  "JER":
+    name: "ኤርማሳ ቲንቢቴ"
+    slug: "eremasa-tinebite"
+  "LAM":
+    name: "ኤርማሳ ዚላስ"
+    slug: "eremasa-zilas"
+  "EZK":
+    name: "ሂዚቄላ ቲንቢቴ"
+    slug: "hiziqela-tinebite"
+  "DAN":
+    name: "ዳኔላ ቲንቢቴ"
+    slug: "danela-tinebite"
+  "HOS":
+    name: "ሆሴኤ ቲንቢቴ"
+    slug: "hosee-tinebite"
+  "JOL":
+    name: "ኢዩኤሌ ቲንቢቴ"
+    slug: "iyuele-tinebite"
+  "AMO":
+    name: "ኣሞጼ ቲንቢቴ"
+    slug: "amose-tinebite"
+  "OBA":
+    name: "ኣብዲዩ ቲንቢቴ"
+    slug: "abediyu-tinebite"
+  "JON":
+    name: "ዮናሳ ቲንቢቴ"
+    slug: "yonasa-tinebite"
+  "MIC":
+    name: "ሚኪያሳ ቲንቢቴ"
+    slug: "mikiyasa-tinebite"
+  "NAM":
+    name: "ናሆሜ ቲንቢቴ"
+    slug: "nahome-tinebite"
+  "HAB":
+    name: "ኢምባቆ ቲንቢቴ"
+    slug: "imebaqo-tinebite"
+  "ZEP":
+    name: "ሶፎናሳ ቲንቢቴ"
+    slug: "sofonasa-tinebite"
+  "HAG":
+    name: "ሃጌ ቲንቢቴ"
+    slug: "hage-tinebite"
+  "ZEC":
+    name: "ዛካራሳ ቲንቢቴ"
+    slug: "zakarasa-tinebite"
+  "MAL":
+    name: "ሚልካሳ ቲንቢቴ"
+    slug: "milekasa-tinebite"
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ዮሃኒሳ"
+    slug: "yohanisa"
+  "ACT":
+    name: "ሃዋሬታ ኦሶ"
+    slug: "hawareta-oso"
+  "ROM":
+    name: "ኦሮሜ"
+    slug: "orome"
+  "1CO":
+    name: "1 ቆሮንቶሴ"
+    slug: "1-qoronetose"
+  "2CO":
+    name: "2 ቆሮንቶሴ"
+    slug: "2-qoronetose"
+  "GAL":
+    name: "ጋላቲያ"
+    slug: "galatiya"
+  "EPH":
+    name: "ኤፌሶኔ"
+    slug: "efesone"
+  "PHP":
+    name: "ፒሊጲሲዮሴ"
+    slug: "pilipisiyose"
+  "COL":
+    name: "ቆላሲያሴ"
+    slug: "qolasiyase"
+  "1TH":
+    name: "1 ታሶሎንቄ"
+    slug: "1-tasoloneqe"
+  "2TH":
+    name: "2 ታሶሎንቄ"
+    slug: "2-tasoloneqe"
+  "1TI":
+    name: "1 ፂምቶሳ"
+    slug: "1-dimetosa"
+  "2TI":
+    name: "2 ፂምቶሳ"
+    slug: "2-dimetosa"
+  "TIT":
+    name: "ቲቶሳ"
+    slug: "titosa"
+  "PHM":
+    name: "ፒልሞና"
+    slug: "pilemona"
+  "HEB":
+    name: "ኢብራዌ"
+    slug: "iberawe"
+  "JAS":
+    name: "ያቆቤ"
+    slug: "yaqobe"
+  "1PE":
+    name: "1 ጴፅሮሳ"
+    slug: "1-pederosa"
+  "2PE":
+    name: "2 ጴፅሮሳ"
+    slug: "2-pederosa"
+  "1JN":
+    name: "1 ዮሃኒሳ"
+    slug: "1-yohanisa"
+  "2JN":
+    name: "2 ዮሃኒሳ"
+    slug: "2-yohanisa"
+  "3JN":
+    name: "3 ዮሃኒሳ"
+    slug: "3-yohanisa"
+  "JUD":
+    name: "ዩሁዳ"
+    slug: "yuhuda"
+  "REV":
+    name: "ዮሃኒሳ ኣጁታ"
+    slug: "yohanisa-aguta"

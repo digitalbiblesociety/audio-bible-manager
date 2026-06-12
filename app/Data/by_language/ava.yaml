@@ -1,0 +1,83 @@
+language: "ava"
+books:
+  "MAT":
+    name: "Матфейица бицараб Рохалил хабар"
+    slug: "matfejica-bicarab-rohalil-habar"
+  "MRK":
+    name: "Маркица бицараб Рохалил хабар"
+    slug: "markica-bicarab-rohalil-habar"
+  "LUK":
+    name: "Лукаца бицараб Рохалил хабар"
+    slug: "lukaca-bicarab-rohalil-habar"
+  "JHN":
+    name: "Иоанница бицараб Рохалил хабар"
+    slug: "ioannica-bicarab-rohalil-habar"
+  "ACT":
+    name: "Чапарзабазул ишал"
+    slug: "caparzabazul-isal"
+  "ROM":
+    name: "Румазухъе кагъат"
+    slug: "rumazuhe-kagat"
+  "1CO":
+    name: "Коринфиязухъе тӀоцебесеб кагъат"
+    slug: "korinfiazuhe-tocebeseb-kagat"
+  "2CO":
+    name: "Коринфиязухъе кӀиабилеб кагъат"
+    slug: "korinfiazuhe-kiabileb-kagat"
+  "GAL":
+    name: "Галатиязухъе кагъат"
+    slug: "galatiazuhe-kagat"
+  "EPH":
+    name: "Эфесиязухъе кагъат"
+    slug: "efesiazuhe-kagat"
+  "PHP":
+    name: "Филиппиязухъе кагъат"
+    slug: "filippiazuhe-kagat"
+  "COL":
+    name: "Колоссиязухъе кагъат"
+    slug: "kolossiazuhe-kagat"
+  "1TH":
+    name: "Фессалоникиязухъе тӀоцебесеб кагъат"
+    slug: "fessalonikiazuhe-tocebeseb-kagat"
+  "2TH":
+    name: "Фессалоникиязухъе кӀиабилеб кагъат"
+    slug: "fessalonikiazuhe-kiabileb-kagat"
+  "1TI":
+    name: "Тимофейихъе тӀоцебесеб кагъат"
+    slug: "timofejihe-tocebeseb-kagat"
+  "2TI":
+    name: "Тимофейихъе кӀиабилеб кагъат"
+    slug: "timofejihe-kiabileb-kagat"
+  "TIT":
+    name: "Титихъе кагъат"
+    slug: "titihe-kagat"
+  "PHM":
+    name: "Филемонихъе кагъат"
+    slug: "filemonihe-kagat"
+  "HEB":
+    name: "ЖугьутӀазухъе кагъат"
+    slug: "zugutazuhe-kagat"
+  "JAS":
+    name: "Якъубил кагъат"
+    slug: "akubil-kagat"
+  "1PE":
+    name: "Пётрил тӀоцебесеб кагъат"
+    slug: "petril-tocebeseb-kagat"
+  "2PE":
+    name: "Пётрил кӀиабилеб кагъат"
+    slug: "petril-kiabileb-kagat"
+  "1JN":
+    name: "Иоаннил тӀоцебесеб кагъат"
+    slug: "ioannil-tocebeseb-kagat"
+  "2JN":
+    name: "Иоаннил кӀиабилеб кагъат"
+    slug: "ioannil-kiabileb-kagat"
+  "3JN":
+    name: "Иоаннил лъабабилеб кагъат"
+    slug: "ioannil-lababileb-kagat"
+  "JUD":
+    name: "Ягьудал кагъат"
+    slug: "agudal-kagat"
+  "REV":
+    name: "Иоанние Аллагьас загьир гьарурал ишал"
+    slug: "ioannie-allagas-zagir-garural-isal"

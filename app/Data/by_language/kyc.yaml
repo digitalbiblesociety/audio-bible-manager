@@ -1,0 +1,197 @@
+language: "kyc"
+books:
+  "GEN":
+    name: "Jenesese"
+    slug: "jenesese"
+  "EXO":
+    name: "Ekesetase"
+    slug: "ekesetase"
+  "LEV":
+    name: "Lipitikase"
+    slug: "lipitikase"
+  "NUM":
+    name: "Nambase"
+    slug: "nambase"
+  "DEU":
+    name: "Dutaronome"
+    slug: "dutaronome"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Jasi"
+    slug: "jasi"
+  "RUT":
+    name: "Uruti"
+    slug: "uruti"
+  "1SA":
+    name: "1 Samyuele"
+    slug: "1-samyuele"
+  "2SA":
+    name: "2 Samyuele"
+    slug: "2-samyuele"
+  "1KI":
+    name: "1 Kiŋi"
+    slug: "1-kini"
+  "2KI":
+    name: "2 Kiŋi"
+    slug: "2-kini"
+  "1CH":
+    name: "1 Koronekolese"
+    slug: "1-koronekolese"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+  "NEH":
+    name: "Niyamaya"
+    slug: "niyamaya"
+  "EST":
+    name: "Eseta"
+    slug: "eseta"
+  "JOB":
+    name: "Jopo"
+    slug: "jopo"
+  "PSA":
+    name: "Samu"
+    slug: "samu"
+  "PRO":
+    name: "Poropepe"
+    slug: "poropepe"
+  "ECC":
+    name: "Ekelesiyasitisi"
+    slug: "ekelesiyasitisi"
+  "SNG":
+    name: "Kenane Solomoneme Piya"
+    slug: "kenane-solomoneme-piya"
+  "ISA":
+    name: "Aisaya"
+    slug: "aisaya"
+  "JER":
+    name: "Jeremaya"
+    slug: "jeremaya"
+  "LAM":
+    name: "Ee Lenge Kenane Dupwa"
+    slug: "ee-lenge-kenane-dupwa"
+  "EZK":
+    name: "Isikiolo"
+    slug: "isikiolo"
+  "DAN":
+    name: "Daniele"
+    slug: "daniele"
+  "HOS":
+    name: "Osia"
+    slug: "osia"
+  "JOL":
+    name: "Joele"
+    slug: "joele"
+  "AMO":
+    name: "Emosa"
+    slug: "emosa"
+  "OBA":
+    name: "Opetaya"
+    slug: "opetaya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maeka"
+    slug: "maeka"
+  "NAM":
+    name: "Neyame"
+    slug: "neyame"
+  "HAB":
+    name: "Apakuku"
+    slug: "apakuku"
+  "ZEP":
+    name: "Sepanaya"
+    slug: "sepanaya"
+  "HAG":
+    name: "Akai"
+    slug: "akai"
+  "ZEC":
+    name: "Sekaraya"
+    slug: "sekaraya"
+  "MAL":
+    name: "Malakae"
+    slug: "malakae"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Make"
+    slug: "make"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Jone"
+    slug: "jone"
+  "ACT":
+    name: "Aposelena Yulu"
+    slug: "aposelena-yulu"
+  "ROM":
+    name: "Orome"
+    slug: "orome"
+  "1CO":
+    name: "1 Korina"
+    slug: "1-korina"
+  "2CO":
+    name: "2 Korina"
+    slug: "2-korina"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Epesasa"
+    slug: "epesasa"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitesa"
+    slug: "taitesa"
+  "PHM":
+    name: "Pilimone"
+    slug: "pilimone"
+  "HEB":
+    name: "Ipuru"
+    slug: "ipuru"
+  "JAS":
+    name: "Jemesa"
+    slug: "jemesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jone"
+    slug: "1-jone"
+  "2JN":
+    name: "2 Jone"
+    slug: "2-jone"
+  "3JN":
+    name: "3 Jone"
+    slug: "3-jone"
+  "JUD":
+    name: "Juti"
+    slug: "juti"
+  "REV":
+    name: "Orepalaisane"
+    slug: "orepalaisane"

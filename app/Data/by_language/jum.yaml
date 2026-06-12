@@ -1,0 +1,8 @@
+language: "jum"
+books:
+  "GEN":
+    name: "Ïïjjïn"
+    slug: "iijjin"
+  "MAT":
+    name: "Matta"
+    slug: "matta"

@@ -1,0 +1,83 @@
+language: "sxb"
+books:
+  "MAT":
+    name: "Mathaayo"
+    slug: "mathaayo"
+  "MRK":
+    name: "Mariiko"
+    slug: "mariiko"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yowaana"
+    slug: "yowaana"
+  "ACT":
+    name: "Awatumwa"
+    slug: "awatumwa"
+  "ROM":
+    name: "Awaruumi"
+    slug: "awaruumi"
+  "1CO":
+    name: "1 Awakorintho"
+    slug: "1-awakorintho"
+  "2CO":
+    name: "2 Awakorintho"
+    slug: "2-awakorintho"
+  "GAL":
+    name: "Awagalatia"
+    slug: "awagalatia"
+  "EPH":
+    name: "Awaefeeso"
+    slug: "awaefeeso"
+  "PHP":
+    name: "Awafiliipi"
+    slug: "awafiliipi"
+  "COL":
+    name: "Awakolosaai"
+    slug: "awakolosaai"
+  "1TH":
+    name: "1 Awathesaloniika"
+    slug: "1-awathesaloniika"
+  "2TH":
+    name: "2 Awathesaloniika"
+    slug: "2-awathesaloniika"
+  "1TI":
+    name: "1 Timotheeo"
+    slug: "1-timotheeo"
+  "2TI":
+    name: "2 Timotheeo"
+    slug: "2-timotheeo"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Filemooni"
+    slug: "filemooni"
+  "HEB":
+    name: "Awaibrania"
+    slug: "awaibrania"
+  "JAS":
+    name: "Yakoobo"
+    slug: "yakoobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Yowaana"
+    slug: "1-yowaana"
+  "2JN":
+    name: "2 Yowaana"
+    slug: "2-yowaana"
+  "3JN":
+    name: "3 Yowaana"
+    slug: "3-yowaana"
+  "JUD":
+    name: "Yuuda"
+    slug: "yuuda"
+  "REV":
+    name: "Owusasuko"
+    slug: "owusasuko"

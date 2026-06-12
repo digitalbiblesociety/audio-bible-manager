@@ -1,0 +1,149 @@
+language: "prq"
+books:
+  "GEN":
+    name: "Itanta-nakari"
+    slug: "itanta-nakari"
+  "EXO":
+    name: "Éxodo"
+    slug: "exodo"
+  "LEV":
+    name: "Leví-iti"
+    slug: "levi-iti"
+  "NUM":
+    name: "Ikarajiitzi"
+    slug: "ikarajiitzi"
+  "DEU":
+    name: "Apiiñaaniri"
+    slug: "apiinaaniri"
+  "JOS":
+    name: "Josué"
+    slug: "josue"
+  "JDG":
+    name: "Jiwari-payi"
+    slug: "jiwari-payi"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Pinkathari-payi"
+    slug: "1-pinkathari-payi"
+  "2KI":
+    name: "2 Pinkathari-payi"
+    slug: "2-pinkathari-payi"
+  "2CH":
+    name: "2 Crónicas"
+    slug: "2-cronicas"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Panthaantsi"
+    slug: "panthaantsi"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+  "JER":
+    name: "Jeremías"
+    slug: "jeremias"
+  "EZK":
+    name: "Ezequiel"
+    slug: "ezequiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "JON":
+    name: "Jonás"
+    slug: "jonas"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+  "MAL":
+    name: "Malaquías"
+    slug: "malaquias"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Yantayi-takiri"
+    slug: "yantayi-takiri"
+  "ROM":
+    name: "Roma-satzi"
+    slug: "roma-satzi"
+  "1CO":
+    name: "1 Corinto-satzi"
+    slug: "1-corinto-satzi"
+  "2CO":
+    name: "2 Corinto-satzi"
+    slug: "2-corinto-satzi"
+  "GAL":
+    name: "Galacia-satzi"
+    slug: "galacia-satzi"
+  "EPH":
+    name: "Efeso-satzi"
+    slug: "efeso-satzi"
+  "PHP":
+    name: "Filipos-satzi"
+    slug: "filipos-satzi"
+  "COL":
+    name: "Colosas-satzi"
+    slug: "colosas-satzi"
+  "1TH":
+    name: "1 Tesalónica-satzi"
+    slug: "1-tesalonica-satzi"
+  "2TH":
+    name: "2 Tesalónica-satzi"
+    slug: "2-tesalonica-satzi"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Heber-iiti"
+    slug: "heber-iiti"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juan"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Iñaakan-taitziri"
+    slug: "inaakan-taitziri"

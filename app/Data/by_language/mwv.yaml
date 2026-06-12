@@ -1,0 +1,266 @@
+language: "mwv"
+books:
+  "GEN":
+    name: "1Mos."
+    slug: "1mos"
+    name_toc: "1 Mose"
+  "EXO":
+    name: "2Mos."
+    slug: "2mos"
+    name_toc: "2 Mose"
+  "LEV":
+    name: "3Mos."
+    slug: "3mos"
+    name_toc: "3 Mose"
+  "NUM":
+    name: "4Mos."
+    slug: "4mos"
+    name_toc: "4 Mose"
+  "DEU":
+    name: "5Mos."
+    slug: "5mos"
+    name_toc: "5 Mose"
+  "JOS":
+    name: "Jos."
+    slug: "jos"
+    name_toc: "Josua"
+  "JDG":
+    name: "Pas."
+    slug: "pas"
+    name_toc: "Pasiukum"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1Sam."
+    slug: "1sam"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2Sam."
+    slug: "2sam"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1Rim."
+    slug: "1rim"
+    name_toc: "1 Rimata"
+  "2KI":
+    name: "2Rim."
+    slug: "2rim"
+    name_toc: "2 Rimata"
+  "1CH":
+    name: "1Taw."
+    slug: "1taw"
+    name_toc: "1 Tawarikh"
+  "2CH":
+    name: "2Taw."
+    slug: "2taw"
+    name_toc: "2 Tawarikh"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Neh."
+    slug: "neh"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Est."
+    slug: "est"
+    name_toc: "Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Psalmen"
+    slug: "psalmen"
+    name_toc: "Psalmen"
+  "PRO":
+    name: "Pangt."
+    slug: "pangt"
+    name_toc: "Panganturat"
+  "ECC":
+    name: "Sip."
+    slug: "sip"
+    name_toc: "Sipungangantoman"
+  "SNG":
+    name: "Ur.Sab."
+    slug: "ur-sab"
+    name_toc: "Urai Sabeu"
+  "ISA":
+    name: "Jes."
+    slug: "jes"
+    name_toc: "Jesaya"
+  "JER":
+    name: "Jer."
+    slug: "jer"
+    name_toc: "Jeremia"
+  "LAM":
+    name: "Sou."
+    slug: "sou"
+    name_toc: "Sougeri"
+  "EZK":
+    name: "Jehz."
+    slug: "jehz"
+    name_toc: "Jehezkiel"
+  "DAN":
+    name: "Dan."
+    slug: "dan"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hos."
+    slug: "hos"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Jol."
+    slug: "jol"
+    name_toc: "Joel"
+  "AMO":
+    name: "Ams."
+    slug: "ams"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obj."
+    slug: "obj"
+    name_toc: "Obaja"
+  "JON":
+    name: "Jon."
+    slug: "jon"
+    name_toc: "Jona"
+  "MIC":
+    name: "Mik."
+    slug: "mik"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nah."
+    slug: "nah"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Hab."
+    slug: "hab"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Zep."
+    slug: "zep"
+    name_toc: "Zepanya"
+  "HAG":
+    name: "Hag."
+    slug: "hag"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zakh."
+    slug: "zakh"
+    name_toc: "Zakharia"
+  "MAL":
+    name: "Malk."
+    slug: "malk"
+    name_toc: "Maleakhi"
+  "MAT":
+    name: "Mat."
+    slug: "mat"
+    name_toc: "Mateus"
+  "MRK":
+    name: "Mrk."
+    slug: "mrk"
+    name_toc: "Markus"
+  "LUK":
+    name: "Luk."
+    slug: "luk"
+    name_toc: "Lukas"
+  "JHN":
+    name: "Joh."
+    slug: "joh"
+    name_toc: "Johannes"
+  "ACT":
+    name: "Pugap."
+    slug: "pugap"
+    name_toc: "Pugagalaira Tai Apostel"
+  "ROM":
+    name: "Rm."
+    slug: "rm"
+    name_toc: "Roma"
+  "1CO":
+    name: "1Kor."
+    slug: "1kor"
+    name_toc: "1 Korintus"
+  "2CO":
+    name: "2Kor."
+    slug: "2kor"
+    name_toc: "2 Korintus"
+  "GAL":
+    name: "Gal."
+    slug: "gal"
+    name_toc: "Galatia"
+  "EPH":
+    name: "Ep."
+    slug: "ep"
+    name_toc: "Epesus"
+  "PHP":
+    name: "Plp."
+    slug: "plp"
+    name_toc: "Pilippi"
+  "COL":
+    name: "Kol."
+    slug: "kol"
+    name_toc: "Kolose"
+  "1TH":
+    name: "1Tes."
+    slug: "1tes"
+    name_toc: "1 Tesalonika"
+  "2TH":
+    name: "2Tes."
+    slug: "2tes"
+    name_toc: "2 Tesalonika"
+  "1TI":
+    name: "1Tim."
+    slug: "1tim"
+    name_toc: "1 Timoteus"
+  "2TI":
+    name: "2Tim."
+    slug: "2tim"
+    name_toc: "2 Timoteus"
+  "TIT":
+    name: "Tit."
+    slug: "tit"
+    name_toc: "Titus"
+  "PHM":
+    name: "Plm."
+    slug: "plm"
+    name_toc: "Pilemon"
+  "HEB":
+    name: "Ibr."
+    slug: "ibr"
+    name_toc: "Ibrani"
+  "JAS":
+    name: "Jak."
+    slug: "jak"
+    name_toc: "Jakobus"
+  "1PE":
+    name: "1Ptr."
+    slug: "1ptr"
+    name_toc: "1 Petrus"
+  "2PE":
+    name: "2Ptr."
+    slug: "2ptr"
+    name_toc: "2 Petrus"
+  "1JN":
+    name: "1Joh."
+    slug: "1joh"
+    name_toc: "1 Johannes"
+  "2JN":
+    name: "2Joh."
+    slug: "2joh"
+    name_toc: "2 Johannes"
+  "3JN":
+    name: "3Joh."
+    slug: "3joh"
+    name_toc: "3 Johannes"
+  "JUD":
+    name: "Jud."
+    slug: "jud"
+    name_toc: "Judas"
+  "REV":
+    name: "Pamoil."
+    slug: "pamoil"
+    name_toc: "Pamoilianan"

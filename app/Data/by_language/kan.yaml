@@ -1,0 +1,200 @@
+language: "kan"
+books:
+  "GEN":
+    name: "ಆದಿಕಾಂಡ"
+    slug: "adikamda"
+  "EXO":
+    name: "ವಿಮೋಚನಕಾಂಡ"
+    slug: "vimocanakamda"
+  "LEV":
+    name: "ಯಾಜಕಕಾಂಡ"
+    slug: "yajakakamda"
+  "NUM":
+    name: "ಅರಣ್ಯಕಾಂಡ"
+    slug: "aranyakamda"
+  "DEU":
+    name: "ಧರ್ಮೋಪದೇಶಕಾಂಡ"
+    slug: "dharmopadesakamda"
+  "JOS":
+    name: "ಯೆಹೋಶುವನು"
+    slug: "yehosuvanu"
+  "JDG":
+    name: "ನ್ಯಾಯಸ್ಥಾಪಕರು"
+    slug: "nyayasthapakaru"
+  "RUT":
+    name: "ರೂತಳು"
+    slug: "rutalu"
+  "1SA":
+    name: "1 ಸಮುವೇಲನು"
+    slug: "1-samuvelanu"
+  "2SA":
+    name: "2 ಸಮುವೇಲನು"
+    slug: "2-samuvelanu"
+  "1KI":
+    name: "1 ರಾಜರುಗಳು"
+    slug: "1-rajarugalu"
+  "2KI":
+    name: "2 ರಾಜರುಗಳು"
+    slug: "2-rajarugalu"
+  "1CH":
+    name: "1 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ"
+    slug: "1-purvakalavrttamta"
+  "2CH":
+    name: "2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ"
+    slug: "2-purvakalavrttamta"
+  "EZR":
+    name: "ಎಜ್ರ"
+    slug: "ejra"
+  "NEH":
+    name: "ನೆಹೆಮೀಯ"
+    slug: "nehemiya"
+  "EST":
+    name: "ಎಸ್ತೇರಳು"
+    slug: "esteralu"
+  "JOB":
+    name: "ಯೋಬನು"
+    slug: "yobanu"
+  "PSA":
+    name: "ಕೀರ್ತನೆಗಳು"
+    slug: "kirtanegalu"
+  "PRO":
+    name: "ಜ್ಞಾನೋಕ್ತಿಗಳು"
+    slug: "jnanoktigalu"
+  "ECC":
+    name: "ಪ್ರಸಂಗಿ"
+    slug: "prasamgi"
+  "SNG":
+    name: "ಪರಮ ಗೀತ"
+    slug: "parama-gita"
+  "ISA":
+    name: "ಯೆಶಾಯ"
+    slug: "yesaya"
+  "JER":
+    name: "ಯೆರೆಮೀಯ"
+    slug: "yeremiya"
+  "LAM":
+    name: "ಪ್ರಲಾಪಗಳು"
+    slug: "pralapagalu"
+  "EZK":
+    name: "ಯೆಹೆಜ್ಕೇಲ"
+    slug: "yehejkela"
+  "DAN":
+    name: "ದಾನಿಯೇಲ"
+    slug: "daniyela"
+  "HOS":
+    name: "ಹೋಶೇಯ"
+    slug: "hoseya"
+  "JOL":
+    name: "ಯೋವೇಲ"
+    slug: "yovela"
+  "AMO":
+    name: "ಆಮೋಸ"
+    slug: "amosa"
+  "OBA":
+    name: "ಒಬದ್ಯ"
+    slug: "obadya"
+  "JON":
+    name: "ಯೋನ"
+    slug: "yona"
+  "MIC":
+    name: "ಮೀಕ"
+    slug: "mika"
+  "NAM":
+    name: "ನಹೂಮ"
+    slug: "nahuma"
+  "HAB":
+    name: "ಹಬಕ್ಕೂಕ"
+    slug: "habakkuka"
+  "ZEP":
+    name: "ಚೆಫನ್ಯ"
+    slug: "cephanya"
+  "HAG":
+    name: "ಹಗ್ಗಾಯ"
+    slug: "haggaya"
+  "ZEC":
+    name: "ಜೆಕರ್ಯ"
+    slug: "jekarya"
+  "MAL":
+    name: "ಮಲಾಕಿ"
+    slug: "malaki"
+  "MAT":
+    name: "ಮತ್ತಾಯ"
+    slug: "mattaya"
+  "MRK":
+    name: "ಮಾರ್ಕ"
+    slug: "marka"
+  "LUK":
+    name: "ಲೂಕ"
+    slug: "luka"
+  "JHN":
+    name: "ಯೋಹಾನ"
+    slug: "yohana"
+  "ACT":
+    name: "ಅಪೊಸ್ತಲರ ಕಾರ್ಯಗಳು"
+    slug: "apostalara-karyagalu"
+  "ROM":
+    name: "ರೋಮ್‌ನಗರದವರಿಗೆ"
+    slug: "romnagaradavarige"
+  "1CO":
+    name: "1 ಕೊರಿಂಥದವರಿಗೆ"
+    slug: "1-korimthadavarige"
+  "2CO":
+    name: "2 ಕೊರಿಂಥದವರಿಗೆ"
+    slug: "2-korimthadavarige"
+  "GAL":
+    name: "ಗಲಾತ್ಯದವರಿಗೆ"
+    slug: "galatyadavarige"
+  "EPH":
+    name: "ಎಫೆಸದವರಿಗೆ"
+    slug: "ephesadavarige"
+  "PHP":
+    name: "ಫಿಲಿಪ್ಪಿಯವರಿಗೆ"
+    slug: "philippiyavarige"
+  "COL":
+    name: "ಕೊಲೊಸ್ಸೆಯವರಿಗೆ"
+    slug: "kolosseyavarige"
+  "1TH":
+    name: "1 ಥೆಸಲೋನಿಕದವರಿಗೆ"
+    slug: "1-thesalonikadavarige"
+  "2TH":
+    name: "2 ಥೆಸಲೋನಿಕದವರಿಗೆ"
+    slug: "2-thesalonikadavarige"
+  "1TI":
+    name: "1 ತಿಮೊಥೆಯನಿಗೆ"
+    slug: "1-timotheyanige"
+  "2TI":
+    name: "2 ತಿಮೊಥೆಯನಿಗೆ"
+    slug: "2-timotheyanige"
+  "TIT":
+    name: "ತೀತನಿಗೆ"
+    slug: "titanige"
+  "PHM":
+    name: "ಫಿಲೆಮೋನನಿಗೆ"
+    slug: "philemonanige"
+  "HEB":
+    name: "ಇಬ್ರಿಯರಿಗೆ"
+    slug: "ibriyarige"
+  "JAS":
+    name: "ಯಾಕೋಬನು"
+    slug: "yakobanu"
+  "1PE":
+    name: "1 ಪೇತ್ರನು"
+    slug: "1-petranu"
+  "2PE":
+    name: "2 ಪೇತ್ರನು"
+    slug: "2-petranu"
+  "1JN":
+    name: "1 ಯೋಹಾನ"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 ಯೋಹಾನ"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 ಯೋಹಾನ"
+    slug: "3-yohana"
+  "JUD":
+    name: "ಯೂದನು"
+    slug: "yudanu"
+  "REV":
+    name: "ಪ್ರಕಟನೆ"
+    slug: "prakatane"

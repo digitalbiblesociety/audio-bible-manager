@@ -1,0 +1,5 @@
+language: "beh"
+books:
+  "GEN":
+    name: "Cirǝm"
+    slug: "cirm"

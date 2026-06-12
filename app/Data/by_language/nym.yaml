@@ -1,0 +1,110 @@
+language: "nym"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Mhola Ya Chelu Kitisi Yatonilwe Na Mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Mhola Ya Chelu Kitisi Yatonilwe Na Marko"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+    name_toc: "Mhola Ya Chelu Kitisi Yatonilwe Na Lukasi"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Mhola Ya Chelu Kitisi Yatonilwe Na Yohana"
+  "ACT":
+    name: "Milimo"
+    slug: "milimo"
+    name_toc: "Milimo Ya Vatume"
+  "ROM":
+    name: "Varoma"
+    slug: "varoma"
+    name_toc: "Barua Yamwa Paulo Ku Varoma"
+  "1CO":
+    name: "1vakorinto"
+    slug: "1vakorinto"
+    name_toc: "Barua Ya Mbele Yamwa Paulo Ku Vakorinto"
+  "2CO":
+    name: "2 Vakorinto"
+    slug: "2-vakorinto"
+    name_toc: "Barua Ya Vuvili Yamwa Paulo Ku Vakorinto"
+  "GAL":
+    name: "Vagalatia"
+    slug: "vagalatia"
+    name_toc: "Barua Yamwa Paulo Ku Vagalatia"
+  "EPH":
+    name: "Vaefeso"
+    slug: "vaefeso"
+    name_toc: "Barua Yamwa Paulo Ku VAEFESO"
+  "PHP":
+    name: "Vafilipi"
+    slug: "vafilipi"
+    name_toc: "Barua Yamwa Paulo Ku VAFILIPI"
+  "COL":
+    name: "Vakolose"
+    slug: "vakolose"
+    name_toc: "Barua Yamwa Paulo Ku VAKOLOSE"
+  "1TH":
+    name: "1 Vatesalonike"
+    slug: "1-vatesalonike"
+    name_toc: "Barua Ya Mbele Yamwa Paulo Ku Vatesalonike"
+  "2TH":
+    name: "2 Vatesalonike"
+    slug: "2-vatesalonike"
+    name_toc: "Barua Ya Vuvili Yamwa Paulo Ku Vatesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Barua Ya Mbele Yamwa Paulo Kumwa Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Barua Ya Vuvili Yamwa Paulo Kumwa Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Barua Yamwa Paulo Kumwa Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Barua Yamwa Paulo Kumwa Filemoni"
+  "HEB":
+    name: "Vahebrayo"
+    slug: "vahebrayo"
+    name_toc: "Barua Ku VAHEBRAYO"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Barua Yamwa YAKOBO"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Barua Ya Mbele Yamwa Petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Barua Ya Vuvili Yamwa Petro"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Barua Ya Mbele Yamwa Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Barua Ya Vuvili Yamwa Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Barua Ya Vudatu Yamwa Yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Barua Yamwa YUDA"
+  "REV":
+    name: "Vukundukule"
+    slug: "vukundukule"
+    name_toc: "Vukundukule Wamwa Yohana"

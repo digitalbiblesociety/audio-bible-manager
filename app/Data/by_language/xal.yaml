@@ -1,0 +1,95 @@
+language: "xal"
+books:
+  "GEN":
+    name: "Эклц"
+    slug: "eklc"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "PSA":
+    name: "Псалмс"
+    slug: "psalms"
+  "PRO":
+    name: "Бөлг"
+    slug: "bolg"
+  "MAT":
+    name: "Матай"
+    slug: "mataj"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Йохан"
+    slug: "johan"
+  "ACT":
+    name: "Апостолмуд"
+    slug: "apostolmud"
+  "ROM":
+    name: "Риминхн"
+    slug: "riminhn"
+  "1CO":
+    name: "1 Көринтинхн"
+    slug: "1-korintinhn"
+  "2CO":
+    name: "2 Көринтинхн"
+    slug: "2-korintinhn"
+  "GAL":
+    name: "Һалатьянхн"
+    slug: "halatanhn"
+  "EPH":
+    name: "Епесинхн"
+    slug: "epesinhn"
+  "PHP":
+    name: "Пилипинхн"
+    slug: "pilipinhn"
+  "COL":
+    name: "Калосинхн"
+    slug: "kalosinhn"
+  "1TH":
+    name: "1 Тесалоникинхн"
+    slug: "1-tesalonikinhn"
+  "2TH":
+    name: "2 Тесалоникинхн"
+    slug: "2-tesalonikinhn"
+  "1TI":
+    name: "1 Тимофей"
+    slug: "1-timofej"
+  "2TI":
+    name: "2 Тимофей"
+    slug: "2-timofej"
+  "TIT":
+    name: "Тит"
+    slug: "tit"
+  "PHM":
+    name: "Пилемон"
+    slug: "pilemon"
+  "HEB":
+    name: "Евреймүд"
+    slug: "evrejmud"
+  "JAS":
+    name: "Яков"
+    slug: "akov"
+  "1PE":
+    name: "1 Пётр"
+    slug: "1-petr"
+  "2PE":
+    name: "2 Пётр"
+    slug: "2-petr"
+  "1JN":
+    name: "1 Йохан"
+    slug: "1-johan"
+  "2JN":
+    name: "2 Йохан"
+    slug: "2-johan"
+  "3JN":
+    name: "3 Йохан"
+    slug: "3-johan"
+  "JUD":
+    name: "Йуда"
+    slug: "juda"
+  "REV":
+    name: "Апокалипсис"
+    slug: "apokalipsis"

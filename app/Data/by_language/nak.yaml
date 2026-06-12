@@ -1,0 +1,83 @@
+language: "nak"
+books:
+  "MAT":
+    name: "E Matiu"
+    slug: "e-matiu"
+  "MRK":
+    name: "E Mark"
+    slug: "e-mark"
+  "LUK":
+    name: "E Luk"
+    slug: "e-luk"
+  "JHN":
+    name: "E Ioanes"
+    slug: "e-ioanes"
+  "ACT":
+    name: "La Bilalaha"
+    slug: "la-bilalaha"
+  "ROM":
+    name: "E Rom"
+    slug: "e-rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "E Galesia"
+    slug: "e-galesia"
+  "EPH":
+    name: "Epesas"
+    slug: "epesas"
+  "PHP":
+    name: "E Pilipai"
+    slug: "e-pilipai"
+  "COL":
+    name: "E Kolose"
+    slug: "e-kolose"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "E Taitas"
+    slug: "e-taitas"
+  "PHM":
+    name: "E Pilimon"
+    slug: "e-pilimon"
+  "HEB":
+    name: "E Hibru"
+    slug: "e-hibru"
+  "JAS":
+    name: "E Iakob"
+    slug: "e-iakob"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Ioanes"
+    slug: "1-ioanes"
+  "2JN":
+    name: "2 Ioanes"
+    slug: "2-ioanes"
+  "3JN":
+    name: "3 Ioanes"
+    slug: "3-ioanes"
+  "JUD":
+    name: "E Iuda"
+    slug: "e-iuda"
+  "REV":
+    name: "La Veipalala"
+    slug: "la-veipalala"

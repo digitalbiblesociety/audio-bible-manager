@@ -1,0 +1,89 @@
+language: "sbl"
+books:
+  "PSA":
+    name: "Kawkanta"
+    slug: "kawkanta"
+  "PRO":
+    name: "Kawkahalita-an"
+    slug: "kawkahalita-an"
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lokas"
+    slug: "lokas"
+  "JHN":
+    name: "Howan"
+    slug: "howan"
+  "ACT":
+    name: "Gawgawà"
+    slug: "gawgawa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Ipiso"
+    slug: "ipiso"
+  "PHP":
+    name: "Pilipos"
+    slug: "pilipos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "1 Tisalonika"
+    slug: "1-tisalonika"
+  "2TH":
+    name: "2 Tisalonika"
+    slug: "2-tisalonika"
+  "1TI":
+    name: "1 Timotiyo"
+    slug: "1-timotiyo"
+  "2TI":
+    name: "2 Timotiyo"
+    slug: "2-timotiyo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibriyo"
+    slug: "hibriyo"
+  "JAS":
+    name: "Santiyago"
+    slug: "santiyago"
+  "1PE":
+    name: "1 Pidro"
+    slug: "1-pidro"
+  "2PE":
+    name: "2 Pidro"
+    slug: "2-pidro"
+  "1JN":
+    name: "1 Howan"
+    slug: "1-howan"
+  "2JN":
+    name: "2 Howan"
+    slug: "2-howan"
+  "3JN":
+    name: "3 Howan"
+    slug: "3-howan"
+  "JUD":
+    name: "Hodas"
+    slug: "hodas"
+  "REV":
+    name: "Impatnag"
+    slug: "impatnag"

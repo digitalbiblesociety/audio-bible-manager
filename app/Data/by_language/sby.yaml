@@ -1,0 +1,110 @@
+language: "sby"
+books:
+  "MAT":
+    name: "Mateyo"
+    slug: "mateyo"
+    name_toc: "Zyowɛli sɛ́bɛw"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+    name_toc: "Amɔsi sɛ́bɛw"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Abidyasi sɛ́bɛw"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Zyonasi sɛ́bɛw"
+  "ACT":
+    name: "Incito"
+    slug: "incito"
+    name_toc: "Misye sɛ́bɛw"
+  "ROM":
+    name: "Baloma"
+    slug: "baloma"
+    name_toc: "Nahumi sɛ́bɛw"
+  "1CO":
+    name: "1 Bakolinto"
+    slug: "1-bakolinto"
+    name_toc: "Habakuki sɛ́bɛw"
+  "2CO":
+    name: "2 Bakolinto"
+    slug: "2-bakolinto"
+    name_toc: "Sofonii sɛ́bɛw"
+  "GAL":
+    name: "Bagalatiya"
+    slug: "bagalatiya"
+    name_toc: "Agizye sɛ́bɛw"
+  "EPH":
+    name: "Baefenso"
+    slug: "baefenso"
+    name_toc: "Zakarii sɛ́bɛw"
+  "PHP":
+    name: "Bafilipi"
+    slug: "bafilipi"
+    name_toc: "Malasyii sɛ́bɛw"
+  "COL":
+    name: "Bakolose"
+    slug: "bakolose"
+    name_toc: "Syɛɛnjóocǎnri Matye sɛ́bɛ lè"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+    name_toc: "Syɛɛnjóocǎnri Mariki sɛ́bɛ lè"
+  "2TH":
+    name: "2 Batesalonika"
+    slug: "2-batesalonika"
+    name_toc: "Syɛɛnjóocǎnri Luki sɛ́bɛ lè"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Syɛɛnjóocǎnri Zyan sɛ́bɛ lè"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Pìitunbèle Kapyegele sɛ́bɛ"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Wɔrɔmi ye ma"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Sɛ́bɛseliw Pɔli tórigo lè Korɛnti ye ma"
+  "HEB":
+    name: "Bahebeli"
+    slug: "bahebeli"
+    name_toc: "Sɛ́bɛsiin wów Pɔli tórigo lè Korɛnti ye ma"
+  "JAS":
+    name: "Jemusi"
+    slug: "jemusi"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Galasi ye ma"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Efɛzi ye ma"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Filipikaʔa ye ma"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Kɔlɔsi ye ma"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Sɛ́bɛseliw Pɔli tórigo lè Tesaloniki ye ma"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Sɛ́bɛsiin wów Pɔli tórigo lè Tesaloniki ye ma"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Sɛ́bɛseliw Pɔli tórigo lè Timɔte ma"
+  "REV":
+    name: "Kuyubulula"
+    slug: "kuyubulula"
+    name_toc: "Sɛ́bɛsiin wów Pɔli tórigo lè Timɔte ma"

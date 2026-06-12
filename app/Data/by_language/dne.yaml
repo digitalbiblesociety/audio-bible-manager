@@ -1,0 +1,83 @@
+language: "dne"
+books:
+  "MAT":
+    name: "Matei"
+    slug: "matei"
+  "MRK":
+    name: "Maluku"
+    slug: "maluku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Mahengo"
+    slug: "mahengo"
+  "ROM":
+    name: "Akalome"
+    slug: "akalome"
+  "1CO":
+    name: "1Akakolintu"
+    slug: "1akakolintu"
+  "2CO":
+    name: "2Akakolintu"
+    slug: "2akakolintu"
+  "GAL":
+    name: "Akagalatiya"
+    slug: "akagalatiya"
+  "EPH":
+    name: "Epecho"
+    slug: "epecho"
+  "PHP":
+    name: "Filipu"
+    slug: "filipu"
+  "COL":
+    name: "Akakolochahe"
+    slug: "akakolochahe"
+  "1TH":
+    name: "1Akatecholonike"
+    slug: "1akatecholonike"
+  "2TH":
+    name: "2Akatecholonike"
+    slug: "2akatecholonike"
+  "1TI":
+    name: "1Temocheyo"
+    slug: "1temocheyo"
+  "2TI":
+    name: "2Temocheyo"
+    slug: "2temocheyo"
+  "TIT":
+    name: "Teto"
+    slug: "teto"
+  "PHM":
+    name: "Filemone"
+    slug: "filemone"
+  "HEB":
+    name: "Akaebulaniya"
+    slug: "akaebulaniya"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+  "1PE":
+    name: "1Petile"
+    slug: "1petile"
+  "2PE":
+    name: "2Petile"
+    slug: "2petile"
+  "1JN":
+    name: "1Yohane"
+    slug: "1yohane"
+  "2JN":
+    name: "2Yohane"
+    slug: "2yohane"
+  "3JN":
+    name: "3Yohane"
+    slug: "3yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Uloto"
+    slug: "uloto"

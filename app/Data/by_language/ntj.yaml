@@ -1,0 +1,152 @@
+language: "ntj"
+books:
+  "GEN":
+    name: "Ngarnmanytjatjanya"
+    slug: "ngarnmanytjatjanya"
+  "EXO":
+    name: "Mapakantjanya"
+    slug: "mapakantjanya"
+  "NUM":
+    name: "Mayu-mayuwana"
+    slug: "mayu-mayuwana"
+  "DEU":
+    name: "Ngamurringkutja"
+    slug: "ngamurringkutja"
+  "JOS":
+    name: "Tjatjuwanyatjarra"
+    slug: "tjatjuwanyatjarra"
+  "RUT":
+    name: "Rutjanyatjarra"
+    slug: "rutjanyatjarra"
+  "1SA":
+    name: "Tjamiyulnga 1"
+    slug: "tjamiyulnga-1"
+  "2SA":
+    name: "Tjamiyulnga 2"
+    slug: "tjamiyulnga-2"
+  "1KI":
+    name: "Puurrpa Pirnitjarra 1"
+    slug: "puurrpa-pirnitjarra-1"
+  "2KI":
+    name: "Puurrpa Pirnitjarra 2"
+    slug: "puurrpa-pirnitjarra-2"
+  "2CH":
+    name: "Tjurrtju Purlkanyatjarra 2"
+    slug: "tjurrtju-purlkanyatjarra-2"
+  "EZR":
+    name: "Yatjuranyatjarra"
+    slug: "yatjuranyatjarra"
+  "NEH":
+    name: "Niyamayiku Tjukurrpa"
+    slug: "niyamayiku-tjukurrpa"
+  "JOB":
+    name: "Tjawupanyatjarra"
+    slug: "tjawupanyatjarra"
+  "PSA":
+    name: "Turlku"
+    slug: "turlku"
+  "PRO":
+    name: "Tjukurrpa Kurluny-kurlunypa Pirninya"
+    slug: "tjukurrpa-kurluny-kurlunypa-pirninya"
+  "ISA":
+    name: "Yatjayaku Tjukurrpa"
+    slug: "yatjayaku-tjukurrpa"
+  "JER":
+    name: "Tjiramayiku Tjukurrpa"
+    slug: "tjiramayiku-tjukurrpa"
+  "EZK":
+    name: "Yiitjikulku Tjukurrpa"
+    slug: "yiitjikulku-tjukurrpa"
+  "DAN":
+    name: "Tannyulngatjarra"
+    slug: "tannyulngatjarra"
+  "JON":
+    name: "Tjawunanyatjarra"
+    slug: "tjawunanyatjarra"
+  "MIC":
+    name: "Mayikaku Tjukurrpa"
+    slug: "mayikaku-tjukurrpa"
+  "MAL":
+    name: "Malakayiku Tjukurrpa"
+    slug: "malakayiku-tjukurrpa"
+  "MAT":
+    name: "Matjuyuku Tjukurrpa"
+    slug: "matjuyuku-tjukurrpa"
+  "MRK":
+    name: "Maakaku Tjukurrpa"
+    slug: "maakaku-tjukurrpa"
+  "LUK":
+    name: "Luukaku Tjukurrpa"
+    slug: "luukaku-tjukurrpa"
+  "JHN":
+    name: "Tjuunku Tjukurrpa"
+    slug: "tjuunku-tjukurrpa"
+  "ACT":
+    name: "Palyalpayinya"
+    slug: "palyalpayinya"
+  "ROM":
+    name: "Ruumala Nyinapayiku Lata"
+    slug: "ruumala-nyinapayiku-lata"
+  "1CO":
+    name: "Kurinytja Nyinapayiku Lata 1"
+    slug: "kurinytja-nyinapayiku-lata-1"
+  "2CO":
+    name: "Kurinytja Nyinapayiku Lata 2"
+    slug: "kurinytja-nyinapayiku-lata-2"
+  "GAL":
+    name: "Kalayitjala Nyinapayiku Lata"
+    slug: "kalayitjala-nyinapayiku-lata"
+  "EPH":
+    name: "Yipitjala Nyinapayiku Lata"
+    slug: "yipitjala-nyinapayiku-lata"
+  "PHP":
+    name: "Pilupayila Nyinapayiku Lata"
+    slug: "pilupayila-nyinapayiku-lata"
+  "COL":
+    name: "Kulutjila Nyinapayiku Lata"
+    slug: "kulutjila-nyinapayiku-lata"
+  "1TH":
+    name: "Tjatjalanila Nyinapayiku Lata 1"
+    slug: "tjatjalanila-nyinapayiku-lata-1"
+  "2TH":
+    name: "Tjatjalanila Nyinapayiku Lata 2"
+    slug: "tjatjalanila-nyinapayiku-lata-2"
+  "1TI":
+    name: "Timatjiku Lata 1"
+    slug: "timatjiku-lata-1"
+  "2TI":
+    name: "Timatjiku Lata 2"
+    slug: "timatjiku-lata-2"
+  "TIT":
+    name: "Tayitaku Lata"
+    slug: "tayitaku-lata"
+  "PHM":
+    name: "Payiliimanku Lata"
+    slug: "payiliimanku-lata"
+  "HEB":
+    name: "Yiipuru Pirniku Lata"
+    slug: "yiipuru-pirniku-lata"
+  "JAS":
+    name: "Lata Tjayiminyamartatji"
+    slug: "lata-tjayiminyamartatji"
+  "1PE":
+    name: "Lata Piitanyamartatji 1"
+    slug: "lata-piitanyamartatji-1"
+  "2PE":
+    name: "Lata Piitanyamartatji 2"
+    slug: "lata-piitanyamartatji-2"
+  "1JN":
+    name: "Lata Tjuunngamartatji 1"
+    slug: "lata-tjuunngamartatji-1"
+  "2JN":
+    name: "Lata Tjuunngamartatji 2"
+    slug: "lata-tjuunngamartatji-2"
+  "3JN":
+    name: "Lata Tjuunngamartatji 3"
+    slug: "lata-tjuunngamartatji-3"
+  "JUD":
+    name: "Lata Tjuutanyamartatji"
+    slug: "lata-tjuutanyamartatji"
+  "REV":
+    name: "Nintitjunkutjanya"
+    slug: "nintitjunkutjanya"

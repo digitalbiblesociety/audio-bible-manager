@@ -1,0 +1,83 @@
+language: "odu"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mạk"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jọn"
+    slug: "jon"
+  "ACT":
+    name: "Eḍighiom ạar"
+    slug: "eighiom-aar"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Kọrint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Kọrint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galetia"
+    slug: "galetia"
+  "EPH":
+    name: "Ẹfesos"
+    slug: "efesos"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kọlosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tẹsalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tẹsalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tạitos"
+    slug: "taitos"
+  "PHM":
+    name: "Failimon"
+    slug: "failimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jọn"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jọn"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jọn"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Ạghiiny"
+    slug: "aghiiny"

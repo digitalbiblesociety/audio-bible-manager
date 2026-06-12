@@ -1,0 +1,86 @@
+language: "bsc"
+books:
+  "GEN":
+    name: "Añanar aŋ"
+    slug: "ananar-an"
+  "MAT":
+    name: "Maco"
+    slug: "maco"
+  "MRK":
+    name: "Marëk"
+    slug: "marek"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Ŝaŋ"
+    slug: "san"
+  "ACT":
+    name: "Ɓandixa"
+    slug: "bandixa"
+  "ROM":
+    name: "Ɓërom"
+    slug: "berom"
+  "1CO":
+    name: "1 Ɓëkoreŋët"
+    slug: "1-bekorenet"
+  "2CO":
+    name: "2 Ɓëkoreŋët"
+    slug: "2-bekorenet"
+  "GAL":
+    name: "Ɓëgalat"
+    slug: "begalat"
+  "EPH":
+    name: "Ɓëhefes"
+    slug: "behefes"
+  "PHP":
+    name: "Ɓëfilip"
+    slug: "befilip"
+  "COL":
+    name: "Ɓëkolos"
+    slug: "bekolos"
+  "1TH":
+    name: "1 Ɓëtesalonik"
+    slug: "1-betesalonik"
+  "2TH":
+    name: "2 Ɓëtesalonik"
+    slug: "2-betesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Ɓëŝëwif"
+    slug: "besewif"
+  "JAS":
+    name: "Ŝak"
+    slug: "sak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Ŝaŋ"
+    slug: "1-san"
+  "2JN":
+    name: "2 Ŝaŋ"
+    slug: "2-san"
+  "3JN":
+    name: "3 Ŝaŋ"
+    slug: "3-san"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Andoɗakel"
+    slug: "andoakel"

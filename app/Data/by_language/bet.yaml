@@ -1,0 +1,83 @@
+language: "bet"
+books:
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Maakö"
+    slug: "maako"
+  "LUK":
+    name: "Lwiikö"
+    slug: "lwiiko"
+  "JHN":
+    name: "Zaa"
+    slug: "zaa"
+  "ACT":
+    name: "Nʋnʋlii"
+    slug: "nnlii"
+  "ROM":
+    name: "Ghlɔɔmö A ‑Nʋa"
+    slug: "ghlmo-a-na"
+  "1CO":
+    name: "1 Kolɛɛtɩ A ‑Nʋa"
+    slug: "1-kolt-a-na"
+  "2CO":
+    name: "2 Kolɛɛtɩ A ‑Nʋa"
+    slug: "2-kolt-a-na"
+  "GAL":
+    name: "Galatii A ‑Nʋa"
+    slug: "galatii-a-na"
+  "EPH":
+    name: "Efɛɛzɩ A ‑Nʋa"
+    slug: "efz-a-na"
+  "PHP":
+    name: "Filiipö A ‑Nʋa"
+    slug: "filiipo-a-na"
+  "COL":
+    name: "Kolɔɔsɩ A ‑Nʋa"
+    slug: "kols-a-na"
+  "1TH":
+    name: "1 Tesaloniikö A ‑Nʋa"
+    slug: "1-tesaloniiko-a-na"
+  "2TH":
+    name: "2 Tesaloniikö A ‑Nʋa"
+    slug: "2-tesaloniiko-a-na"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Tiitɩ"
+    slug: "tiit"
+  "PHM":
+    name: "Filemɔɔ"
+    slug: "filem"
+  "HEB":
+    name: "Ebleewaa"
+    slug: "ebleewaa"
+  "JAS":
+    name: "Zaakö"
+    slug: "zaako"
+  "1PE":
+    name: "1 Piɛlɩ"
+    slug: "1-pil"
+  "2PE":
+    name: "2 Piɛlɩ"
+    slug: "2-pil"
+  "1JN":
+    name: "1 Zaa"
+    slug: "1-zaa"
+  "2JN":
+    name: "2 Zaa"
+    slug: "2-zaa"
+  "3JN":
+    name: "3 Zaa"
+    slug: "3-zaa"
+  "JUD":
+    name: "Zwiidɩ"
+    slug: "zwiid"
+  "REV":
+    name: "’Ylimötulanɩlii"
+    slug: "ylimotulanlii"

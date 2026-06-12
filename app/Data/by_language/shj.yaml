@@ -1,0 +1,5 @@
+language: "shj"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"

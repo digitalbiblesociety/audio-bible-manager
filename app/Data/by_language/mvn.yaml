@@ -1,0 +1,83 @@
+language: "mvn"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Marika"
+    slug: "marika"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Ioni"
+    slug: "ioni"
+  "ACT":
+    name: "Dewa"
+    slug: "dewa"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korinita"
+    slug: "1-korinita"
+  "2CO":
+    name: "2 Korinita"
+    slug: "2-korinita"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesusi"
+    slug: "epesusi"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Pilemoni"
+    slug: "pilemoni"
+  "HEB":
+    name: "Ebereu"
+    slug: "ebereu"
+  "JAS":
+    name: "Iamesa"
+    slug: "iamesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Ioni"
+    slug: "1-ioni"
+  "2JN":
+    name: "2 Ioni"
+    slug: "2-ioni"
+  "3JN":
+    name: "3 Ioni"
+    slug: "3-ioni"
+  "JUD":
+    name: "Iudasa"
+    slug: "iudasa"
+  "REV":
+    name: "Si‑vin'‑omana"
+    slug: "sivinomana"

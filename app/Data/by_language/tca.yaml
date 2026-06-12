@@ -1,0 +1,200 @@
+language: "tca"
+books:
+  "GEN":
+    name: "Naanearü ügüchiga"
+    slug: "naanearu-uguchiga"
+  "EXO":
+    name: "Ínachoxü̃xü̃chiga"
+    slug: "inachoxuxuchiga"
+  "LEV":
+    name: "Lebítanüxü̃arü puracüchiga"
+    slug: "lebitanuxuaru-puracuchiga"
+  "NUM":
+    name: "Iraétanüxü̃arü muxchiga"
+    slug: "iraetanuxuaru-muxchiga"
+  "DEU":
+    name: "Wenaxarü naxümatü ga Tupanaarü mugü"
+    slug: "wenaxaru-naxumatu-ga-tupanaaru-mugu"
+  "JOS":
+    name: "Yochué"
+    slug: "yochue"
+  "JDG":
+    name: "Ãẽ̱xgacügü ga guxchaxü̃güarü mexẽxẽruü̃gü"
+    slug: "aexgacugu-ga-guxchaxuguaru-mexexeruugu"
+  "RUT":
+    name: "Rux"
+    slug: "rux"
+  "1SA":
+    name: "1 Chamué"
+    slug: "1-chamue"
+  "2SA":
+    name: "2 Chamué"
+    slug: "2-chamue"
+  "1KI":
+    name: "Nüxíraxü̃xü̃ ga popera ga ãẽ̱xgacügüchiga"
+    slug: "nuxiraxuxu-ga-popera-ga-aexgacuguchiga"
+  "2KI":
+    name: "Norü taxre ga popera ga ãẽ̱xgacügüchiga"
+    slug: "noru-taxre-ga-popera-ga-aexgacuguchiga"
+  "1CH":
+    name: "Nüxíraxü̃xü̃ ga to ga popera ga ãẽ̱xgacügüchiga ümatüxü̃"
+    slug: "nuxiraxuxu-ga-to-ga-popera-ga-aexgacuguchiga-umatuxu"
+  "2CH":
+    name: "Norü taxre ga to ga popera ga ãẽ̱xgacügüchiga ümatüxü̃"
+    slug: "noru-taxre-ga-to-ga-popera-ga-aexgacuguchiga-umatuxu"
+  "EZR":
+    name: "Édra"
+    slug: "edra"
+  "NEH":
+    name: "Neemía"
+    slug: "neemia"
+  "EST":
+    name: "Ité"
+    slug: "ite"
+  "JOB":
+    name: "Yox"
+    slug: "yox"
+  "PSA":
+    name: "Wiyaegü"
+    slug: "wiyaegu"
+  "PRO":
+    name: "Ucu̱xẽgüchiga"
+    slug: "ucuxeguchiga"
+  "ECC":
+    name: "Ngu̱xẽẽtaeruü̃arü ore"
+    slug: "nguxeetaeruuaru-ore"
+  "SNG":
+    name: "Charumóü̃arü wiyae"
+    slug: "charumouaru-wiyae"
+  "ISA":
+    name: "Ichaía"
+    slug: "ichaia"
+  "JER":
+    name: "Yeremía"
+    slug: "yeremia"
+  "LAM":
+    name: "Auxexü̃chiga"
+    slug: "auxexuchiga"
+  "EZK":
+    name: "Echequié"
+    slug: "echequie"
+  "DAN":
+    name: "Danié"
+    slug: "danie"
+  "HOS":
+    name: "Ochéa"
+    slug: "ochea"
+  "JOL":
+    name: "Yoé"
+    slug: "yoe"
+  "AMO":
+    name: "Amúx"
+    slug: "amux"
+  "OBA":
+    name: "Abdía"
+    slug: "abdia"
+  "JON":
+    name: "Yoná"
+    slug: "yona"
+  "MIC":
+    name: "Miquéa"
+    slug: "miquea"
+  "NAM":
+    name: "Naúü̃"
+    slug: "nauu"
+  "HAB":
+    name: "Abacú"
+    slug: "abacu"
+  "ZEP":
+    name: "Chofonía"
+    slug: "chofonia"
+  "HAG":
+    name: "Aguéu"
+    slug: "agueu"
+  "ZEC":
+    name: "Chacaría"
+    slug: "chacaria"
+  "MAL":
+    name: "Maraquía"
+    slug: "maraquia"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Marcu"
+    slug: "marcu"
+  "LUK":
+    name: "Luca"
+    slug: "luca"
+  "JHN":
+    name: "Cuáü̃"
+    slug: "cuau"
+  "ACT":
+    name: "Puracügü"
+    slug: "puracugu"
+  "ROM":
+    name: "Dumacü̱̃ã̱x"
+    slug: "dumacuax"
+  "1CO":
+    name: "1 Corĩ́tiucü̱̃ã̱x"
+    slug: "1-coritiucuax"
+  "2CO":
+    name: "2 Corĩ́tiucü̱̃ã̱x"
+    slug: "2-coritiucuax"
+  "GAL":
+    name: "Gárataanecü̱̃ã̱x"
+    slug: "garataanecuax"
+  "EPH":
+    name: "Epéchiucü̱̃ã̱x"
+    slug: "epechiucuax"
+  "PHP":
+    name: "Piripucü̱̃ã̱x"
+    slug: "piripucuax"
+  "COL":
+    name: "Corochacü̱̃ã̱x"
+    slug: "corochacuax"
+  "1TH":
+    name: "1 Techarónicacü̱̃ã̱x"
+    slug: "1-techaronicacuax"
+  "2TH":
+    name: "2 Techarónicacü̱̃ã̱x"
+    slug: "2-techaronicacuax"
+  "1TI":
+    name: "1 Timutéu"
+    slug: "1-timuteu"
+  "2TI":
+    name: "2 Timutéu"
+    slug: "2-timuteu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemúü̃"
+    slug: "filemuu"
+  "HEB":
+    name: "Ebréugü"
+    slug: "ebreugu"
+  "JAS":
+    name: "Chaü̃tiágu"
+    slug: "chautiagu"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+  "1JN":
+    name: "1 Cuáü̃"
+    slug: "1-cuau"
+  "2JN":
+    name: "2 Cuáü̃"
+    slug: "2-cuau"
+  "3JN":
+    name: "3 Cuáü̃"
+    slug: "3-cuau"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Apocaríchiu"
+    slug: "apocarichiu"

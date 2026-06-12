@@ -1,0 +1,83 @@
+language: "sig"
+books:
+  "MAT":
+    name: "Matiwu"
+    slug: "matiwu"
+  "MRK":
+    name: "Maakɩ"
+    slug: "maak"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Gyɔɔŋ"
+    slug: "gyn"
+  "ACT":
+    name: "Yesu Kpambɩsɩ"
+    slug: "yesu-kpambs"
+  "ROM":
+    name: "Roma Tɩmma"
+    slug: "roma-tmma"
+  "1CO":
+    name: "1 Koriŋti Tɩmma"
+    slug: "1-korinti-tmma"
+  "2CO":
+    name: "2 Koriŋti Tɩmma"
+    slug: "2-korinti-tmma"
+  "GAL":
+    name: "Galetiya Tɩmma"
+    slug: "galetiya-tmma"
+  "EPH":
+    name: "Ɛfiso Tɩmma"
+    slug: "fiso-tmma"
+  "PHP":
+    name: "Filipi Tɩmma"
+    slug: "filipi-tmma"
+  "COL":
+    name: "Kolosi Tɩmma"
+    slug: "kolosi-tmma"
+  "1TH":
+    name: "1 Tesaloniika Tɩmma"
+    slug: "1-tesaloniika-tmma"
+  "2TH":
+    name: "2 Tesaloniika Tɩmma"
+    slug: "2-tesaloniika-tmma"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titusi"
+    slug: "titusi"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filemn"
+  "HEB":
+    name: "Hiiburu Tɩmma"
+    slug: "hiiburu-tmma"
+  "JAS":
+    name: "Gyemsi"
+    slug: "gyemsi"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Gyɔɔŋ"
+    slug: "1-gyn"
+  "2JN":
+    name: "2 Gyɔɔŋ"
+    slug: "2-gyn"
+  "3JN":
+    name: "3 Gyɔɔŋ"
+    slug: "3-gyn"
+  "JUD":
+    name: "Gyuudi"
+    slug: "gyuudi"
+  "REV":
+    name: "Wɩlɩɩdagɩya"
+    slug: "wldagya"

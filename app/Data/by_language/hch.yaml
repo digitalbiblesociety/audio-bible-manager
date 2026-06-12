@@ -1,0 +1,83 @@
+language: "hch"
+books:
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+  "MRK":
+    name: "Maricuxi"
+    slug: "maricuxi"
+  "LUK":
+    name: "Rucaxi"
+    slug: "rucaxi"
+  "JHN":
+    name: "Vani"
+    slug: "vani"
+  "ACT":
+    name: "Nü'arisixi"
+    slug: "nuarisixi"
+  "ROM":
+    name: "Xumatari"
+    slug: "xumatari"
+  "1CO":
+    name: "1 Curinitutari"
+    slug: "1-curinitutari"
+  "2CO":
+    name: "2 Curinitutari"
+    slug: "2-curinitutari"
+  "GAL":
+    name: "Carasiyatari"
+    slug: "carasiyatari"
+  "EPH":
+    name: "'Epesutari"
+    slug: "epesutari"
+  "PHP":
+    name: "Piriputari"
+    slug: "piriputari"
+  "COL":
+    name: "Curusetari"
+    slug: "curusetari"
+  "1TH":
+    name: "1 Tesarunicatari"
+    slug: "1-tesarunicatari"
+  "2TH":
+    name: "2 Tesarunicatari"
+    slug: "2-tesarunicatari"
+  "1TI":
+    name: "1 Timuteu"
+    slug: "1-timuteu"
+  "2TI":
+    name: "2 Timuteu"
+    slug: "2-timuteu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Quirimuni"
+    slug: "quirimuni"
+  "HEB":
+    name: "Hepürayusixi"
+    slug: "hepurayusixi"
+  "JAS":
+    name: "Satiyacu"
+    slug: "satiyacu"
+  "1PE":
+    name: "1 Pecuru"
+    slug: "1-pecuru"
+  "2PE":
+    name: "2 Pecuru"
+    slug: "2-pecuru"
+  "1JN":
+    name: "1 Vani"
+    slug: "1-vani"
+  "2JN":
+    name: "2 Vani"
+    slug: "2-vani"
+  "3JN":
+    name: "3 Vani"
+    slug: "3-vani"
+  "JUD":
+    name: "Cura"
+    slug: "cura"
+  "REV":
+    name: "Masiücütü Que Müratüa"
+    slug: "masiucutu-que-muratua"

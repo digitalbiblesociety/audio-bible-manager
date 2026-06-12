@@ -1,0 +1,266 @@
+language: "nia"
+books:
+  "GEN":
+    name: "Soera Moze I."
+    slug: "soera-moze-i"
+    name_toc: "Soera MOZE SI FÕFÕNA"
+  "EXO":
+    name: "Soera Moze Ii."
+    slug: "soera-moze-ii"
+    name_toc: "Soera MOZE FANETE SI FÕFÕNA"
+  "LEV":
+    name: "Soera Moze Iii."
+    slug: "soera-moze-iii"
+    name_toc: "Soera MOZE FANETE ZI DOMBOEA"
+  "NUM":
+    name: "Soera Moze Iv."
+    slug: "soera-moze-iv"
+    name_toc: "Soera MOZE FANETE ZI TÕLOE"
+  "DEU":
+    name: "Soera Moze V."
+    slug: "soera-moze-v"
+    name_toc: "Soera MOZE FANETE ZI ÕFA"
+  "JOS":
+    name: "Soera Josoea"
+    slug: "soera-josoea"
+    name_toc: "Soera JOSOEA ANDRÕ"
+  "JDG":
+    name: "Soera Zangoehoekoe"
+    slug: "soera-zangoehoekoe"
+    name_toc: "Soera ZANGOEHOEKOE ANDRÕ."
+  "RUT":
+    name: "Soera Roeti"
+    slug: "soera-roeti"
+    name_toc: "Soera ROETI."
+  "1SA":
+    name: "Soera Zamoeëli I."
+    slug: "soera-zamoeeli-i"
+    name_toc: "Soera ZAMOEËLI SI FÕFÕNA"
+  "2SA":
+    name: "Soera Zamoeëli Ii."
+    slug: "soera-zamoeeli-ii"
+    name_toc: "Soera ZAMOEËLI SI SAMBOEA"
+  "1KI":
+    name: "Soera Razo I."
+    slug: "soera-razo-i"
+    name_toc: "Soera RAZO SI FÕFÕNA"
+  "2KI":
+    name: "Soera Razo Ii."
+    slug: "soera-razo-ii"
+    name_toc: "Soera RAZO SI SAMBOEA"
+  "1CH":
+    name: "Soera Ngaʼõtõ I."
+    slug: "soera-ngaoto-i"
+    name_toc: "Soera NGAʼÕTÕ SI FÕFÕNA"
+  "2CH":
+    name: "Soera Ngaʼõtõ Ii."
+    slug: "soera-ngaoto-ii"
+    name_toc: "Soera NGAʼÕTÕ SI SAMBOEA"
+  "EZR":
+    name: "Soera Gesera"
+    slug: "soera-gesera"
+    name_toc: "Soera GESERA"
+  "NEH":
+    name: "Soera Nehemia"
+    slug: "soera-nehemia"
+    name_toc: "Soera NEHEMIA"
+  "EST":
+    name: "Soera Gesitera"
+    slug: "soera-gesitera"
+    name_toc: "Soera GESITERA"
+  "JOB":
+    name: "Soera Jobi"
+    slug: "soera-jobi"
+    name_toc: "Soera JOBI"
+  "PSA":
+    name: "Soera Zinoenõ"
+    slug: "soera-zinoeno"
+    name_toc: "Soera ZINOENÕ"
+  "PRO":
+    name: "Soera Gamaedola"
+    slug: "soera-gamaedola"
+    name_toc: "Soera GAMAEDOLA ANDRÕ CHÕ ZELOMO"
+  "ECC":
+    name: "Soera Zangombacha"
+    slug: "soera-zangombacha"
+    name_toc: "Soera ZANGOMBACHA"
+  "SNG":
+    name: "Sinoenõ Seboea"
+    slug: "sinoeno-seboea"
+    name_toc: "Sinoenõ Seboea"
+  "ISA":
+    name: "Soera Jesaja"
+    slug: "soera-jesaja"
+    name_toc: "Soera JESAJA"
+  "JER":
+    name: "Soera Jeremia"
+    slug: "soera-jeremia"
+    name_toc: "Soera JEREMIA"
+  "LAM":
+    name: "Ngenoengenoe Jeremia"
+    slug: "ngenoengenoe-jeremia"
+    name_toc: "Ngenoengenoe Jeremia"
+  "EZK":
+    name: "Soera Hezekiëli"
+    slug: "soera-hezekieli"
+    name_toc: "Soera HEZEKIËLI"
+  "DAN":
+    name: "Soera Daniëli"
+    slug: "soera-danieli"
+    name_toc: "Soera DANIËLI"
+  "HOS":
+    name: "Soera Hosea"
+    slug: "soera-hosea"
+    name_toc: "Soera HOSEA"
+  "JOL":
+    name: "Soera Joëli"
+    slug: "soera-joeli"
+    name_toc: "Soera JOËLI"
+  "AMO":
+    name: "Soera Gamosi"
+    slug: "soera-gamosi"
+    name_toc: "Soera GAMOSI"
+  "OBA":
+    name: "Soera Gobadia"
+    slug: "soera-gobadia"
+    name_toc: "Soera GOBADIA"
+  "JON":
+    name: "Soera Jona"
+    slug: "soera-jona"
+    name_toc: "Soera JONA"
+  "MIC":
+    name: "Soera Micha"
+    slug: "soera-micha"
+    name_toc: "Soera MICHA"
+  "NAM":
+    name: "Soera Nachoemi"
+    slug: "soera-nachoemi"
+    name_toc: "Soera NACHOEMI"
+  "HAB":
+    name: "Soera Habakoeki"
+    slug: "soera-habakoeki"
+    name_toc: "Soera HABAKOEKI"
+  "ZEP":
+    name: "Soera Zefania"
+    slug: "soera-zefania"
+    name_toc: "Soera ZEFANIA"
+  "HAG":
+    name: "Soera Hagaʼi"
+    slug: "soera-hagai"
+    name_toc: "Soera HAGAʼI"
+  "ZEC":
+    name: "Soera Zacharia"
+    slug: "soera-zacharia"
+    name_toc: "Soera ZACHARIA"
+  "MAL":
+    name: "Soera Maleachi"
+    slug: "soera-maleachi"
+    name_toc: "Soera MALEACHI"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+    name_toc: "Soera doeria somoeso dõdõ andrõ nisoera MATAIO"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+    name_toc: "Soera doeria somoeso dõdõ andrõ nisoera MAREKO"
+  "LUK":
+    name: "Loeka"
+    slug: "loeka"
+    name_toc: "Soera doeria somoeso dõdõ andrõ nisoera LOEKA"
+  "JHN":
+    name: "Johane"
+    slug: "johane"
+    name_toc: "Soera doeria somoeso dõdõ andrõ nisoera JOHANE"
+  "ACT":
+    name: "Halõw̃õ Zinenge"
+    slug: "halowo-zinenge"
+    name_toc: "Halõw̃õ zinenge andrõ nisoera LOEKA"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Soera Waoelo andrõ ba mbanoea ROMA"
+  "1CO":
+    name: "Korindro I."
+    slug: "korindro-i"
+    name_toc: "Soera Waoelo andrõ ba mbanoea GORINDRO, SI FÕFÕNA"
+  "2CO":
+    name: "Korindro Ii."
+    slug: "korindro-ii"
+    name_toc: "Soera Waoelo andrõ ba mbanoea GORINDRO, SI SAMBOEA"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Soera Waoelo andrõ ba Ndrawa GALATIA"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Soera Waoelo andrõ, ba mbanoea NEFESO"
+  "PHP":
+    name: "Filifi"
+    slug: "filifi"
+    name_toc: "Soera Waoelo andrõ ba mbanoea WILIFI"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Soera Waoelo andrõ, ba mbanoea GOLOSE"
+  "1TH":
+    name: "Tesalonika I."
+    slug: "tesalonika-i"
+    name_toc: "Soera Waoelo andrõ ba mbanoea DESALONIKA, SI FÕFÕNA"
+  "2TH":
+    name: "Tesalonika Ii."
+    slug: "tesalonika-ii"
+    name_toc: "Soera Waoelo andrõ, ba mbanoea DESALONIKA, SI SAMBOEA"
+  "1TI":
+    name: "Timoteo I."
+    slug: "timoteo-i"
+    name_toc: "Soera Waoelo andro, chõ DIMOTEO. SI FÕFÕNA"
+  "2TI":
+    name: "Timoteo Ii."
+    slug: "timoteo-ii"
+    name_toc: "Soera Waoelo andrõ, chõ DIMOTEO. SI SAMBOEA"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Soera Waoelo andrõ chõ DITO"
+  "PHM":
+    name: "Filemo"
+    slug: "filemo"
+    name_toc: "Soera Waoelo andrõ, chõ WILEMO"
+  "HEB":
+    name: "Heberaio"
+    slug: "heberaio"
+    name_toc: "Soera ba Niha HEBERAIO andrõ"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+    name_toc: "Soera JAKOBO andrõ"
+  "1PE":
+    name: "Fetero I."
+    slug: "fetero-i"
+    name_toc: "Soera WETERO andrõ, SI FÕFÕNA"
+  "2PE":
+    name: "Fetero Ii."
+    slug: "fetero-ii"
+    name_toc: "Soera WETERO andrõ, SI SAMBOEA"
+  "1JN":
+    name: "Johane I."
+    slug: "johane-i"
+    name_toc: "Soera JOHANE andrõ, SI FÕFÕNA"
+  "2JN":
+    name: "Johane Ii."
+    slug: "johane-ii"
+    name_toc: "Soera JOHANE andrõ SI SAMBOEA"
+  "3JN":
+    name: "Johane Iii."
+    slug: "johane-iii"
+    name_toc: "Soera JOHANE andrõ FANETE ZI DOMBOEA"
+  "JUD":
+    name: "Joeda"
+    slug: "joeda"
+    name_toc: "Soera JOEDA andrõ"
+  "REV":
+    name: "Famaʼeleʼõ"
+    slug: "famaeleo"
+    name_toc: "Soera wamaʼeleʼõ andrõ, chõ JOHANE"

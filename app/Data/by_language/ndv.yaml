@@ -1,0 +1,86 @@
+language: "ndv"
+books:
+  "GEN":
+    name: "Dalaana"
+    slug: "dalaana"
+  "MAT":
+    name: "Maccëe"
+    slug: "maccee"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Lúkkë"
+    slug: "lukke"
+  "JHN":
+    name: "Saŋ"
+    slug: "sa"
+  "ACT":
+    name: "Tílëdí apootarra"
+    slug: "tiledi-apootarra"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korente"
+    slug: "1-korente"
+  "2CO":
+    name: "2 Korente"
+    slug: "2-korente"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efes"
+    slug: "efes"
+  "PHP":
+    name: "Fílíp"
+    slug: "filip"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timoote"
+    slug: "1-timoote"
+  "2TI":
+    name: "2 Timoote"
+    slug: "2-timoote"
+  "TIT":
+    name: "Tít"
+    slug: "tit"
+  "PHM":
+    name: "Filemoo"
+    slug: "filemoo"
+  "HEB":
+    name: "Ébrë"
+    slug: "ebre"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Peer"
+    slug: "1-peer"
+  "2PE":
+    name: "2 Peer"
+    slug: "2-peer"
+  "1JN":
+    name: "1 Saŋ"
+    slug: "1-sa"
+  "2JN":
+    name: "2 Saŋ"
+    slug: "2-sa"
+  "3JN":
+    name: "3 Saŋ"
+    slug: "3-sa"
+  "JUD":
+    name: "Yúɗ"
+    slug: "yu"
+  "REV":
+    name: "Feeñiyoh"
+    slug: "feeniyoh"

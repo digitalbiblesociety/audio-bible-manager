@@ -1,0 +1,83 @@
+language: "hix"
+books:
+  "MAT":
+    name: "Matewsà"
+    slug: "matewsa"
+  "MRK":
+    name: "Mahhusa"
+    slug: "mahhusa"
+  "LUK":
+    name: "Rukasà"
+    slug: "rukasa"
+  "JHN":
+    name: "Xowawu"
+    slug: "xowawu"
+  "ACT":
+    name: "Txesusu Nànyaketxho ro komo"
+    slug: "txesusu-nanyaketxho-ro-komo"
+  "ROM":
+    name: "Homa"
+    slug: "homa"
+  "1CO":
+    name: "1 Koryentu"
+    slug: "1-koryentu"
+  "2CO":
+    name: "2 Koryentu"
+    slug: "2-koryentu"
+  "GAL":
+    name: "Karaseya"
+    slug: "karaseya"
+  "EPH":
+    name: "Ehfesu"
+    slug: "ehfesu"
+  "PHP":
+    name: "Feryepos"
+    slug: "feryepos"
+  "COL":
+    name: "Korosos"
+    slug: "korosos"
+  "1TH":
+    name: "1 Tesaroneka"
+    slug: "1-tesaroneka"
+  "2TH":
+    name: "2 Tesaroneka"
+    slug: "2-tesaroneka"
+  "1TI":
+    name: "1 Txemohtyo"
+    slug: "1-txemohtyo"
+  "2TI":
+    name: "2 Txemohtyo"
+    slug: "2-txemohtyo"
+  "TIT":
+    name: "Txetu"
+    slug: "txetu"
+  "PHM":
+    name: "Feryemonà"
+    slug: "feryemona"
+  "HEB":
+    name: "Ekmàryewyana komo"
+    slug: "ekmaryewyana-komo"
+  "JAS":
+    name: "Txaku"
+    slug: "txaku"
+  "1PE":
+    name: "1 Petru"
+    slug: "1-petru"
+  "2PE":
+    name: "2 Petru"
+    slug: "2-petru"
+  "1JN":
+    name: "1 Xowawo"
+    slug: "1-xowawo"
+  "2JN":
+    name: "2 Xowawo"
+    slug: "2-xowawo"
+  "3JN":
+    name: "3 Xowawo"
+    slug: "3-xowawo"
+  "JUD":
+    name: "Xuknasà"
+    slug: "xuknasa"
+  "REV":
+    name: "Xowawu Nenyetxho"
+    slug: "xowawu-nenyetxho"

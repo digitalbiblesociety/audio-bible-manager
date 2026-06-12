@@ -1,0 +1,83 @@
+language: "dao"
+books:
+  "MAT":
+    name: "Mahte"
+    slug: "mahte"
+  "MRK":
+    name: "Makuh"
+    slug: "makuh"
+  "LUK":
+    name: "Luhka"
+    slug: "luhka"
+  "JHN":
+    name: "Johan"
+    slug: "johan"
+  "ACT":
+    name: "Ngsäea Khut"
+    slug: "ngsaea-khut"
+  "ROM":
+    name: "Romah"
+    slug: "romah"
+  "1CO":
+    name: "1 Korintuh"
+    slug: "1-korintuh"
+  "2CO":
+    name: "2 Korintuh"
+    slug: "2-korintuh"
+  "GAL":
+    name: "Kalatih"
+    slug: "kalatih"
+  "EPH":
+    name: "Ephet"
+    slug: "ephet"
+  "PHP":
+    name: "Philipih"
+    slug: "philipih"
+  "COL":
+    name: "Kolawte"
+    slug: "kolawte"
+  "1TH":
+    name: "1 Thesalonikah"
+    slug: "1-thesalonikah"
+  "2TH":
+    name: "2 Thesalonikah"
+    slug: "2-thesalonikah"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tihtuh"
+    slug: "tihtuh"
+  "PHM":
+    name: "Philimon"
+    slug: "philimon"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Jakuk"
+    slug: "jakuk"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Johan"
+    slug: "1-johan"
+  "2JN":
+    name: "2 Johan"
+    slug: "2-johan"
+  "3JN":
+    name: "3 Johan"
+    slug: "3-johan"
+  "JUD":
+    name: "Judah"
+    slug: "judah"
+  "REV":
+    name: "Malam Mdannak"
+    slug: "malam-mdannak"

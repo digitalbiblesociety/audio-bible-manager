@@ -1,0 +1,114 @@
+language: "sas"
+books:
+  "PSA":
+    name: "Zabur"
+    slug: "zabur"
+    name_toc: "Timote sɛ́wɔ paabaa ǹ wɔ"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Tiiti sɛ́wɔ"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Filemɔn sɛ́wɔ"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Ebrəə minin sɛ́wɔ"
+  "JHN":
+    name: "Yahya"
+    slug: "yahya"
+    name_toc: "Zaaki a sɛ́wɔ"
+  "ACT":
+    name: "Kisah Rasul-rasul"
+    slug: "kisah-rasul-rasul"
+    name_toc: "Piɛrɛ a sɛ́wɔ bibinaa"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Piɛrɛ a sɛ́wɔ paabaa ǹ wɔ"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Zaã a sɛ́wɔ bibinaa"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Zaã a sɛ́wɔ paabaa ǹ wɔ"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Zaã a sɛ́wɔ sɔɔbaa ǹ wɔ"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "Zude a sɛ́wɔ"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+    name_toc: "Sii-nyaan sɛ́wɔ"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Siin giala kɔ ǹ sɛ́wɔ"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Bɔ bɛ̀rɛbaa nɛ ǹ sɛ́wɔ"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Lawa a wúlu-bɔlen sɛ́wɔ"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Minin nimi ǹ sɛ́wɔ"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Timəə dí-pɛn la ǹ sɛ́wɔ"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Zozoe sɛ́wɔ"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+    name_toc: "Sii yɔrɔ-bɔlen sɛ́wɔ"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Uruti sɛ́wɔ"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+    name_toc: "Samayeli sɛ́wɔ bibinaa"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Samayeli sɛ́wɔ paabaa ǹ wɔ"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Kiin sɛ́wɔ bibinaa"
+  "1JN":
+    name: "1 Yahya"
+    slug: "1-yahya"
+    name_toc: "Kiin sɛ́wɔ paabaa ǹ wɔ"
+  "2JN":
+    name: "2 Yahya"
+    slug: "2-yahya"
+    name_toc: "Kiin zɛnaa ǹ sii sɛ́wɔ bibinaa"
+  "3JN":
+    name: "3 Yahya"
+    slug: "3-yahya"
+    name_toc: "Kiin zɛnaa ǹ sii sɛ́wɔ paabaa ǹ wɔ"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Ɛsidrasi sɛ́wɔ"
+  "REV":
+    name: "Wahyu"
+    slug: "wahyu"
+    name_toc: "Nehemii sɛ́wɔ"

@@ -1,0 +1,83 @@
+language: "bds"
+books:
+  "MAT":
+    name: "Mataayo"
+    slug: "mataayo"
+  "MRK":
+    name: "Maariko"
+    slug: "maariko"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yohaana"
+    slug: "yohaana"
+  "ACT":
+    name: "Yondu gu Ya⁄abimiisee"
+    slug: "yondu-gu-yaabimiisee"
+  "ROM":
+    name: "Waruumi"
+    slug: "waruumi"
+  "1CO":
+    name: "1 Wakorinto"
+    slug: "1-wakorinto"
+  "2CO":
+    name: "2 Wakorinto"
+    slug: "2-wakorinto"
+  "GAL":
+    name: "Wagalatiyaa"
+    slug: "wagalatiyaa"
+  "EPH":
+    name: "Waefeeso"
+    slug: "waefeeso"
+  "PHP":
+    name: "Wafiliipi"
+    slug: "wafiliipi"
+  "COL":
+    name: "Wakolosaay"
+    slug: "wakolosaay"
+  "1TH":
+    name: "1 Watesaloniike"
+    slug: "1-watesaloniike"
+  "2TH":
+    name: "2 Watesaloniike"
+    slug: "2-watesaloniike"
+  "1TI":
+    name: "1 Timoteeyo"
+    slug: "1-timoteeyo"
+  "2TI":
+    name: "2 Timoteeyo"
+    slug: "2-timoteeyo"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+  "HEB":
+    name: "Waeburaaniyaa"
+    slug: "waeburaaniyaa"
+  "JAS":
+    name: "Yakoobo"
+    slug: "yakoobo"
+  "1PE":
+    name: "1 Peetiro"
+    slug: "1-peetiro"
+  "2PE":
+    name: "2 Peetiro"
+    slug: "2-peetiro"
+  "1JN":
+    name: "1 Yohaana"
+    slug: "1-yohaana"
+  "2JN":
+    name: "2 Yohaana"
+    slug: "2-yohaana"
+  "3JN":
+    name: "3 Yohaana"
+    slug: "3-yohaana"
+  "JUD":
+    name: "Yuuda"
+    slug: "yuuda"
+  "REV":
+    name: "Hiitlaaꞌasa"
+    slug: "hiitlaaasa"

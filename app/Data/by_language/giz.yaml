@@ -1,0 +1,236 @@
+language: "giz"
+books:
+  "GEN":
+    name: "Zli Virzi"
+    slug: "zli-virzi"
+  "EXO":
+    name: "Bi Ngi Israyeley"
+    slug: "bi-ngi-israyeley"
+  "LEV":
+    name: "Levihey"
+    slug: "levihey"
+  "NUM":
+    name: "Slufa Vu"
+    slug: "slufa-vu"
+  "DEU":
+    name: "Slu cuw"
+    slug: "slu-cuw"
+  "JOS":
+    name: "Zozuwe"
+    slug: "zozuwe"
+  "JDG":
+    name: "Migi Kiitahay"
+    slug: "migi-kiitahay"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "Samuyel Mudumbuŋ Naŋ"
+    slug: "samuyel-mudumbu-na"
+  "2SA":
+    name: "Samuyel Mucuw Naŋ"
+    slug: "samuyel-mucuw-na"
+  "1KI":
+    name: "Buyoy Mudumbuŋ Naŋ"
+    slug: "buyoy-mudumbu-na"
+  "2KI":
+    name: "Buyoy Mucuw Naŋ"
+    slug: "buyoy-mucuw-na"
+  "1CH":
+    name: "Ɓi Ngi Hin Gar Mudumbuŋ Naŋ"
+    slug: "i-ngi-hin-gar-mudumbu-na"
+  "2CH":
+    name: "Ɓi Ngi Hiney Mucuw Naŋ"
+    slug: "i-ngi-hiney-mucuw-na"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Jop"
+    slug: "jop"
+  "PSA":
+    name: "Dimisey"
+    slug: "dimisey"
+  "PRO":
+    name: "Mikucuwuloy"
+    slug: "mikucuwuloy"
+  "ECC":
+    name: "Tila Mi"
+    slug: "tila-mi"
+  "SNG":
+    name: "Dimis Mimezle"
+    slug: "dimis-mimezle"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+  "JER":
+    name: "Zeremi"
+    slug: "zeremi"
+  "LAM":
+    name: "Tuwuy"
+    slug: "tuwuy"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+  "DAN":
+    name: "Daniyel"
+    slug: "daniyel"
+  "HOS":
+    name: "Oze"
+    slug: "oze"
+  "JOL":
+    name: "Zowel"
+    slug: "zowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+  "JON":
+    name: "Zonas"
+    slug: "zonas"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+  "JDT":
+    name: "Jud"
+    slug: "jud"
+  "ESG":
+    name: "Est G"
+    slug: "est-g"
+  "WIS":
+    name: "Sin Ji"
+    slug: "sin-ji"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+  "LJE":
+    name: "Ɗe Zer"
+    slug: "e-zer"
+  "S3Y":
+    name: "Dan G"
+    slug: "dan-g"
+  "SUS":
+    name: "Suz"
+    slug: "suz"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+  "1MA":
+    name: "1 Mak"
+    slug: "1-mak"
+  "2MA":
+    name: "2 Mak"
+    slug: "2-mak"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zaŋ"
+    slug: "za"
+  "ACT":
+    name: "Slra"
+    slug: "slra"
+  "ROM":
+    name: "Romahay"
+    slug: "romahay"
+  "1CO":
+    name: "Korentihey Mudumbuŋ"
+    slug: "korentihey-mudumbu"
+  "2CO":
+    name: "Korentihey Mucuw Naŋ"
+    slug: "korentihey-mucuw-na"
+  "GAL":
+    name: "Galatay"
+    slug: "galatay"
+  "EPH":
+    name: "Efesey"
+    slug: "efesey"
+  "PHP":
+    name: "Filipihey"
+    slug: "filipihey"
+  "COL":
+    name: "Kolosoy"
+    slug: "kolosoy"
+  "1TH":
+    name: "Tesalonikey Mudumbuŋ Naŋ"
+    slug: "tesalonikey-mudumbu-na"
+  "2TH":
+    name: "Tesalonikey Mucuw Naŋ"
+    slug: "tesalonikey-mucuw-na"
+  "1TI":
+    name: "Timote Mudumbuŋ Naŋ"
+    slug: "timote-mudumbu-na"
+  "2TI":
+    name: "Timote Mucuw Naŋ"
+    slug: "timote-mucuw-na"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemo"
+  "HEB":
+    name: "Heberey"
+    slug: "heberey"
+  "JAS":
+    name: "Zak"
+    slug: "zak"
+  "1PE":
+    name: "Piyer Mudumbuŋ Naŋ"
+    slug: "piyer-mudumbu-na"
+  "2PE":
+    name: "Piyer Mucuw Naŋ"
+    slug: "piyer-mucuw-na"
+  "1JN":
+    name: "Zaŋ Mudumbuŋ Naŋ"
+    slug: "za-mudumbu-na"
+  "2JN":
+    name: "Zaŋ Mucuw Naŋ"
+    slug: "za-mucuw-na"
+  "3JN":
+    name: "Zaŋ Mimakir Naŋ"
+    slug: "za-mimakir-na"
+  "JUD":
+    name: "Zude"
+    slug: "zude"
+  "REV":
+    name: "Ɓimunjuyo"
+    slug: "imunjuyo"

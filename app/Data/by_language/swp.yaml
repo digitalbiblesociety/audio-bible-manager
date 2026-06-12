@@ -1,0 +1,95 @@
+language: "swp"
+books:
+  "GEN":
+    name: "Genese"
+    slug: "genese"
+  "EXO":
+    name: "Esodo"
+    slug: "esodo"
+  "JOS":
+    name: "Iosua"
+    slug: "iosua"
+  "PSA":
+    name: "Salamo"
+    slug: "salamo"
+  "MAT":
+    name: "Mataio"
+    slug: "mataio"
+  "MRK":
+    name: "Mareko"
+    slug: "mareko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Ioane"
+    slug: "ioane"
+  "ACT":
+    name: "Aposotolo Adi Hewau"
+    slug: "aposotolo-adi-hewau"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinito"
+    slug: "1-korinito"
+  "2CO":
+    name: "2 Korinito"
+    slug: "2-korinito"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonia"
+    slug: "1-tesalonia"
+  "2TH":
+    name: "2 Tesalonia"
+    slug: "2-tesalonia"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilimoni"
+    slug: "pilimoni"
+  "HEB":
+    name: "Heberu"
+    slug: "heberu"
+  "JAS":
+    name: "Iamesi"
+    slug: "iamesi"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Ioane"
+    slug: "1-ioane"
+  "2JN":
+    name: "2 Ioane"
+    slug: "2-ioane"
+  "3JN":
+    name: "3 Ioane"
+    slug: "3-ioane"
+  "JUD":
+    name: "Iude"
+    slug: "iude"
+  "REV":
+    name: "Hemasarahana"
+    slug: "hemasarahana"

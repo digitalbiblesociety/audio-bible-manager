@@ -1,0 +1,83 @@
+language: "bvd"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Dion"
+    slug: "dion"
+  "ACT":
+    name: "'Aks"
+    slug: "aks"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Koren"
+    slug: "1-koren"
+  "2CO":
+    name: "2 Koren"
+    slug: "2-koren"
+  "GAL":
+    name: "Geleisia"
+    slug: "geleisia"
+  "EPH":
+    name: "'Efesas"
+    slug: "efesas"
+  "PHP":
+    name: "Filibae"
+    slug: "filibae"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonaeka"
+    slug: "1-tesalonaeka"
+  "2TH":
+    name: "2 Tesalonaeka"
+    slug: "2-tesalonaeka"
+  "1TI":
+    name: "1 Timotii"
+    slug: "1-timotii"
+  "2TI":
+    name: "2 Timotii"
+    slug: "2-timotii"
+  "TIT":
+    name: "Taetas"
+    slug: "taetas"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibrus"
+    slug: "hibrus"
+  "JAS":
+    name: "Demes"
+    slug: "demes"
+  "1PE":
+    name: "1 Bita"
+    slug: "1-bita"
+  "2PE":
+    name: "2 Bita"
+    slug: "2-bita"
+  "1JN":
+    name: "1 Dion"
+    slug: "1-dion"
+  "2JN":
+    name: "2 Dion"
+    slug: "2-dion"
+  "3JN":
+    name: "3 Dion"
+    slug: "3-dion"
+  "JUD":
+    name: "Diud"
+    slug: "diud"
+  "REV":
+    name: "Na Faatai lae"
+    slug: "na-faatai-lae"

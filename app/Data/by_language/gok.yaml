@@ -1,0 +1,83 @@
+language: "gok"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "ಯೊಹಾನ್"
+    slug: "yohan"
+  "ACT":
+    name: "ಅಪೊಸ್ತಲ್"
+    slug: "apostal"
+  "ROM":
+    name: "रोमियो"
+    slug: "romiyo"
+  "1CO":
+    name: "1 ಕೋರಿಂಥ್"
+    slug: "1-korimth"
+  "2CO":
+    name: "2 ಕೊರಿಂಥ"
+    slug: "2-korimtha"
+  "GAL":
+    name: "गलातियों"
+    slug: "galatiyom"
+  "EPH":
+    name: "इफिसियों"
+    slug: "iphisiyom"
+  "PHP":
+    name: "ಪಿಲಿಪ್ಪಿ"
+    slug: "pilippi"
+  "COL":
+    name: "ಕೊಲೊಸ್ಸೆ"
+    slug: "kolosse"
+  "1TH":
+    name: "1 ತೆಸಲೊನಿಕ್"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 ತೆಸಲೊನಿಕ್"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 ತಿಮೊತಿ"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 ತಿಮೊತಿ"
+    slug: "2-timoti"
+  "TIT":
+    name: "ತೀತ್"
+    slug: "tit"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "ಇಬ್ರಿಯ"
+    slug: "ibriya"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+  "1JN":
+    name: "1 ಯೊಹಾನ್"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 ಯೊಹಾನ್"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 ಯೊಹಾನ್"
+    slug: "3-yohan"
+  "JUD":
+    name: "ಯುದ್"
+    slug: "yud"
+  "REV":
+    name: "ದರ್ಶಾನ್"
+    slug: "darsan"

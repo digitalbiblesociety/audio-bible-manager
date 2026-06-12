@@ -1,0 +1,266 @@
+language: "old"
+books:
+  "GEN":
+    name: "Mawookionyi"
+    slug: "mawookionyi"
+    name_toc: "Kitapu Kya Kuwooka Kya Mose Kiilaho Nyi Mawookionyi"
+  "EXO":
+    name: "Iwuka"
+    slug: "iwuka"
+    name_toc: "Kitapu Kya Mose Kya Kawi Kiilaho Nyi Iwuka"
+  "LEV":
+    name: "Walewi"
+    slug: "walewi"
+    name_toc: "Kitapu Kya Kaṟaṟu Kya Mose Kyelaho Walewi"
+  "NUM":
+    name: "Maitala"
+    slug: "maitala"
+    name_toc: "Iitala Lya Kuwooka Lya Waisraeli Maitala"
+  "DEU":
+    name: "Ngumbuo Ya Mawawaso"
+    slug: "ngumbuo-ya-mawawaso"
+    name_toc: "Ngumbuo Ya Mawawaso"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+    name_toc: "Kitapu Kya Yoshua"
+  "JDG":
+    name: "Wachili"
+    slug: "wachili"
+    name_toc: "Kitapu Kya Wachili"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Kitapu Kya Ruti"
+  "1SA":
+    name: "1Samweli"
+    slug: "1samweli"
+    name_toc: "Kitapu Kya Kuwooka Kya Samweli"
+  "2SA":
+    name: "2Samweli"
+    slug: "2samweli"
+    name_toc: "Kitapu Kya Kawi Kya Samweli"
+  "1KI":
+    name: "1Wamangi"
+    slug: "1wamangi"
+    name_toc: "Kitapu Kya Kuwooka Kya Wamangi"
+  "2KI":
+    name: "2Wamangi"
+    slug: "2wamangi"
+    name_toc: "Kitapu Kya Kawi Kya Wamangi"
+  "1CH":
+    name: "1Mbonyi Tsa Maheri"
+    slug: "1mbonyi-tsa-maheri"
+    name_toc: "Kitapu Kya Kuwooka Kya Maheri"
+  "2CH":
+    name: "2Mbonyi Tsa Maheri"
+    slug: "2mbonyi-tsa-maheri"
+    name_toc: "Kitapu Kya Kawi Kya Maheri"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Kitapu Kya Ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Kitapu Kya Nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Kitapu Kya Esta"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Kitapu Kya Yobu"
+  "PSA":
+    name: "Shiimbo Sha Dawidi"
+    slug: "shiimbo-sha-dawidi"
+    name_toc: "Kitapu Kya Shiimbo Sha Dawidi"
+  "PRO":
+    name: "Mfanano"
+    slug: "mfanano"
+    name_toc: "Kitapu Kya Mfanano"
+  "ECC":
+    name: "Koheleti"
+    slug: "koheleti"
+    name_toc: "Koheleti"
+  "SNG":
+    name: "Shiimbo Sha Solomoni"
+    slug: "shiimbo-sha-solomoni"
+    name_toc: "Shiimbo Sha Solomoni"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Kitapu Kya Yesaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Kitapu Kya Yeremia"
+  "LAM":
+    name: "Shilio"
+    slug: "shilio"
+    name_toc: "Kitapu Kya Shilio"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Kitapu Kya Ezekieli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Kitapu Kya Danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Kitapu Kya Hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Kitapu Kya"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Kitapu Kya Amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Kitapu Kya Obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Kitapu Kya Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Kitapu Kya Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Kitapu Kya Nahumu"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Kitapu Kya Habakuki"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+    name_toc: "Kitapu Kya Sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Kitapu Kya Hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+    name_toc: "Kitapu Kya Zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Kitapu Kya Malaki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Ndumi Ya Sia Iinjiṟehye Nyi Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Ndumi Ya Sia Iinjiṟehye Nyi Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ndumi Ya Sia Iinjiṟehye Nyi Luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Ndumi Ya Sia Iinjiṟehye Nyi Yohane"
+  "ACT":
+    name: "Mawuto Ha Wasu"
+    slug: "mawuto-ha-wasu"
+    name_toc: "Mawuto Ha Wasu"
+  "ROM":
+    name: "Waroma"
+    slug: "waroma"
+    name_toc: "Paruo Ya Ko Waroma"
+  "1CO":
+    name: "1 Wakorinto"
+    slug: "1-wakorinto"
+    name_toc: "Paruo Ya Kuwooka Ya Ko Wakorinto"
+  "2CO":
+    name: "2 Wakorinto"
+    slug: "2-wakorinto"
+    name_toc: "Paruo Ya Kawi Ya Ko Wakorinto"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+    name_toc: "Paruo Ya Ko Wagalatia"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Paruo Ya Ko Waefeso"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "Paruo Ya Ko Wafilipi"
+  "COL":
+    name: "Wakolose"
+    slug: "wakolose"
+    name_toc: "Paruo Ya Ko Wakolose"
+  "1TH":
+    name: "1Watesalonyikye"
+    slug: "1watesalonyikye"
+    name_toc: "Paruo Ya Kuwooka Ya Ko Watesalonyikye"
+  "2TH":
+    name: "2Watesalonyikye"
+    slug: "2watesalonyikye"
+    name_toc: "Paruo Ya Kawi Ya Ko Watesalonyikye"
+  "1TI":
+    name: "1Timoteo"
+    slug: "1timoteo"
+    name_toc: "Paruo Ya Kuwooka Ko Timoteo"
+  "2TI":
+    name: "2Timoteo"
+    slug: "2timoteo"
+    name_toc: "Paruo Ya Kawi Ko Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Paruo Ya Ko Tito"
+  "PHM":
+    name: "Filemonyi"
+    slug: "filemonyi"
+    name_toc: "Paruo Ya Ko Filemonyi"
+  "HEB":
+    name: "Waebrania"
+    slug: "waebrania"
+    name_toc: "Paruo Ya Ko Waebrania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Paruo Ya Yakobo"
+  "1PE":
+    name: "1Petro"
+    slug: "1petro"
+    name_toc: "Paruo Ya Kuwooka Ya Petro"
+  "2PE":
+    name: "2Petro"
+    slug: "2petro"
+    name_toc: "Paruo Ya Kawi Ya Petro"
+  "1JN":
+    name: "1Yohane"
+    slug: "1yohane"
+    name_toc: "Paruo Ya Kuwooka Ya Yohane"
+  "2JN":
+    name: "2Yohane"
+    slug: "2yohane"
+    name_toc: "Paruo Ya Kawi Ya Yohane"
+  "3JN":
+    name: "3Yohane"
+    slug: "3yohane"
+    name_toc: "Paruo Ya Kaṟaṟu Ya Yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Paruo Ya Yuda"
+  "REV":
+    name: "Otambahaluo Lo Yohane"
+    slug: "otambahaluo-lo-yohane"
+    name_toc: "Otambahaluo Lo Yohane"

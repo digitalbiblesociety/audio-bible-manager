@@ -1,0 +1,83 @@
+language: "sua"
+books:
+  "MAT":
+    name: "E Matyu"
+    slug: "e-matyu"
+  "MRK":
+    name: "E Mak"
+    slug: "e-mak"
+  "LUK":
+    name: "E Luk"
+    slug: "e-luk"
+  "JHN":
+    name: "E Yoanes"
+    slug: "e-yoanes"
+  "ACT":
+    name: "O Aposel Ngaro Reha"
+    slug: "o-aposel-ngaro-reha"
+  "ROM":
+    name: "lRom"
+    slug: "lrom"
+  "1CO":
+    name: "1Korin"
+    slug: "1korin"
+  "2CO":
+    name: "2Korin"
+    slug: "2korin"
+  "GAL":
+    name: "lGalesia"
+    slug: "lgalesia"
+  "EPH":
+    name: "lEpeses"
+    slug: "lepeses"
+  "PHP":
+    name: "lPilipai"
+    slug: "lpilipai"
+  "COL":
+    name: "lKolosi"
+    slug: "lkolosi"
+  "1TH":
+    name: "1Tesalonika"
+    slug: "1tesalonika"
+  "2TH":
+    name: "2Tesalonika"
+    slug: "2tesalonika"
+  "1TI":
+    name: "1Timoti"
+    slug: "1timoti"
+  "2TI":
+    name: "2Timoti"
+    slug: "2timoti"
+  "TIT":
+    name: "E Taitus"
+    slug: "e-taitus"
+  "PHM":
+    name: "E Pilimon"
+    slug: "e-pilimon"
+  "HEB":
+    name: "lHibru"
+    slug: "lhibru"
+  "JAS":
+    name: "E Yems"
+    slug: "e-yems"
+  "1PE":
+    name: "1Pita"
+    slug: "1pita"
+  "2PE":
+    name: "2Pita"
+    slug: "2pita"
+  "1JN":
+    name: "1Yoanes"
+    slug: "1yoanes"
+  "2JN":
+    name: "2Yoanes"
+    slug: "2yoanes"
+  "3JN":
+    name: "3Yoanes"
+    slug: "3yoanes"
+  "JUD":
+    name: "E Yut"
+    slug: "e-yut"
+  "REV":
+    name: "O Ngaelmir"
+    slug: "o-ngaelmir"

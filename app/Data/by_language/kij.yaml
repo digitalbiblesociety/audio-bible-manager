@@ -1,0 +1,266 @@
+language: "kij"
+books:
+  "GEN":
+    name: "Vitouula"
+    slug: "vitouula"
+    name_toc: "Vitouula"
+  "EXO":
+    name: "Sunapula"
+    slug: "sunapula"
+    name_toc: "Sunapula"
+  "LEV":
+    name: "Tolula"
+    slug: "tolula"
+    name_toc: "Tolula"
+  "NUM":
+    name: "Kala Bawa"
+    slug: "kala-bawa"
+    name_toc: "Kala Bawa"
+  "DEU":
+    name: "Karaiwaga Kwaiyuwela"
+    slug: "karaiwaga-kwaiyuwela"
+    name_toc: "Karaiwaga Kwaiyuwela"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+    name_toc: "Yosuwa"
+  "JDG":
+    name: "Tokwaraiwaga"
+    slug: "tokwaraiwaga"
+    name_toc: "Tokwaraiwaga"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Ruti"
+  "1SA":
+    name: "1 Samwela"
+    slug: "1-samwela"
+    name_toc: "Samwela"
+  "2SA":
+    name: "2 Samwela"
+    slug: "2-samwela"
+    name_toc: "Samwela"
+  "1KI":
+    name: "1 Gweguya"
+    slug: "1-gweguya"
+    name_toc: "Gweguya"
+  "2KI":
+    name: "2 Gweguya"
+    slug: "2-gweguya"
+    name_toc: "Gweguya"
+  "1CH":
+    name: "1 Liliu"
+    slug: "1-liliu"
+    name_toc: "Liliu Pilimatala"
+  "2CH":
+    name: "2 Liliu"
+    slug: "2-liliu"
+    name_toc: "Liliu Piliyuwela"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "Esira"
+  "NEH":
+    name: "Niemaia"
+    slug: "niemaia"
+    name_toc: "Niemaia"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "Mapilana Esiteri"
+  "JOB":
+    name: "Yobi"
+    slug: "yobi"
+    name_toc: "Yobi"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+    name_toc: "Bukila Sam"
+  "PRO":
+    name: "Bigivakala"
+    slug: "bigivakala"
+    name_toc: "Bukila"
+  "ECC":
+    name: "Toguguya"
+    slug: "toguguya"
+    name_toc: "Toguguya"
+  "SNG":
+    name: "Solomoni Kala Wosi"
+    slug: "solomoni-kala-wosi"
+    name_toc: "Solomoni Kala Wosi"
+  "ISA":
+    name: "Aisea"
+    slug: "aisea"
+    name_toc: "Aisea"
+  "JER":
+    name: "Yeremaia"
+    slug: "yeremaia"
+    name_toc: "Yeremaia"
+  "LAM":
+    name: "Kavinavina"
+    slug: "kavinavina"
+    name_toc: "Kavinavina"
+  "EZK":
+    name: "Isikeli"
+    slug: "isikeli"
+    name_toc: "Isikeli"
+  "DAN":
+    name: "Daniela"
+    slug: "daniela"
+    name_toc: "Daniela"
+  "HOS":
+    name: "Osia"
+    slug: "osia"
+    name_toc: "Osia"
+  "JOL":
+    name: "Yoweli"
+    slug: "yoweli"
+    name_toc: "Yoweli"
+  "AMO":
+    name: "Emosi"
+    slug: "emosi"
+    name_toc: "Emosi"
+  "OBA":
+    name: "Obedaia"
+    slug: "obedaia"
+    name_toc: "Obedaia"
+  "JON":
+    name: "Youna"
+    slug: "youna"
+    name_toc: "Youna"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+    name_toc: "Maika"
+  "NAM":
+    name: "Neum"
+    slug: "neum"
+    name_toc: "Neum"
+  "HAB":
+    name: "Abakuki"
+    slug: "abakuki"
+    name_toc: "Abakuki"
+  "ZEP":
+    name: "Sepanaia"
+    slug: "sepanaia"
+    name_toc: "Sepanaia"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+    name_toc: "Agai"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+    name_toc: "Sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+    name_toc: "Malakai"
+  "MAT":
+    name: "Madiu"
+    slug: "madiu"
+    name_toc: "Bulogala Bwaina Makawala // MADIU // La Ginigini"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+    name_toc: "Bulogala Bwaina Makawala"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Bulogala Bwaina Makawala"
+  "JHN":
+    name: "Yoni"
+    slug: "yoni"
+    name_toc: "Bulogala Bwaina Makawala"
+  "ACT":
+    name: "Si Vavagi Aposetolo"
+    slug: "si-vavagi-aposetolo"
+    name_toc: "Si Vavagi Aposetolo"
+  "ROM":
+    name: "Roum"
+    slug: "roum"
+    name_toc: "Paulo La Ginigini baisa // MINA ROUM"
+  "1CO":
+    name: "1 Korinita"
+    slug: "1-korinita"
+    name_toc: "Paulo La Ginigini Yamatala Baisa"
+  "2CO":
+    name: "2 Korinita"
+    slug: "2-korinita"
+    name_toc: "Paulo La Ginigini Yayuwela Baisa"
+  "GAL":
+    name: "Galetia"
+    slug: "galetia"
+    name_toc: "Paulo La Ginigini Baisa"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+    name_toc: "Paulo La Ginigini Baisa"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+    name_toc: "Paulo La Ginigini Baisa"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+    name_toc: "Paulo La Ginigini Baisa"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+    name_toc: "Paulo La Ginigini Yamatala Baisa"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+    name_toc: "Paulo La Ginigini Yayuwela Baisa"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Paulo La Ginigini Yamatala Baisa"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Paulo La Ginigini Yayuwela Baisa"
+  "TIT":
+    name: "Taito"
+    slug: "taito"
+    name_toc: "Paulo La Ginigini Baisa"
+  "PHM":
+    name: "Pilimoni"
+    slug: "pilimoni"
+    name_toc: "Paulo La Ginigini Baisa"
+  "HEB":
+    name: "Iberu"
+    slug: "iberu"
+    name_toc: "Si Leta"
+  "JAS":
+    name: "Yemesa"
+    slug: "yemesa"
+    name_toc: "Yemesa"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pita"
+  "1JN":
+    name: "1 Yoni"
+    slug: "1-yoni"
+    name_toc: "Yoni"
+  "2JN":
+    name: "2 Yoni"
+    slug: "2-yoni"
+    name_toc: "Yoni"
+  "3JN":
+    name: "3 Yoni"
+    slug: "3-yoni"
+    name_toc: "Yoni"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda"
+  "REV":
+    name: "Yoni Igisimlili"
+    slug: "yoni-igisimlili"
+    name_toc: "Yoni Igisimlili"

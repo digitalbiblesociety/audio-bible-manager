@@ -1,0 +1,83 @@
+language: "dhi"
+books:
+  "MAT":
+    name: "मति"
+    slug: "mati"
+  "MRK":
+    name: "मर्कुस"
+    slug: "markusa"
+  "LUK":
+    name: "लुका"
+    slug: "luka"
+  "JHN":
+    name: "युहन्‍ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "साल्न्हाका चात्या"
+    slug: "salnhaka-catya"
+  "ROM":
+    name: "रोमि"
+    slug: "romi"
+  "1CO":
+    name: "1 कोरिन्थि"
+    slug: "1-korinthi"
+  "2CO":
+    name: "2 कोरिन्थि"
+    slug: "2-korinthi"
+  "GAL":
+    name: "गलाति"
+    slug: "galati"
+  "EPH":
+    name: "एफिसि"
+    slug: "ephisi"
+  "PHP":
+    name: "फिलिप्पि"
+    slug: "philippi"
+  "COL":
+    name: "कलस्सि"
+    slug: "kalassi"
+  "1TH":
+    name: "1 थेस्लोनिकि"
+    slug: "1-thesloniki"
+  "2TH":
+    name: "2 थेस्लोनिकि"
+    slug: "2-thesloniki"
+  "1TI":
+    name: "1तिमोथि"
+    slug: "1timothi"
+  "2TI":
+    name: "2 तिमोथि"
+    slug: "2-timothi"
+  "TIT":
+    name: "तितस"
+    slug: "titasa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "हिब्रु"
+    slug: "hibru"
+  "JAS":
+    name: "याकुब"
+    slug: "yakuba"
+  "1PE":
+    name: "1पतरुस"
+    slug: "1patarusa"
+  "2PE":
+    name: "पतरुस"
+    slug: "patarusa"
+  "1JN":
+    name: "१ युहन्‍ना"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "२ युहन्‍ना"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "३ युहन्‍ना"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "यहुदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकास"
+    slug: "prakasa"

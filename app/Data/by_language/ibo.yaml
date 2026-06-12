@@ -1,0 +1,200 @@
+language: "ibo"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+  "EXO":
+    name: "Ọpupu"
+    slug: "opupu"
+  "LEV":
+    name: "Levitikọs"
+    slug: "levitikos"
+  "NUM":
+    name: "Ọnụọgụgụ"
+    slug: "onuogugu"
+  "DEU":
+    name: "Deuteronomi"
+    slug: "deuteronomi"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Ndi-ikpe"
+    slug: "ndi-ikpe"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Ndị Eze"
+    slug: "1-ndi-eze"
+  "2KI":
+    name: "2 Ndị Eze"
+    slug: "2-ndi-eze"
+  "1CH":
+    name: "I. Ihe Emere"
+    slug: "i-ihe-emere"
+  "2CH":
+    name: "2 Ihe E Mere"
+    slug: "2-ihe-e-mere"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemaia"
+    slug: "nehemaia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Abù Ọma"
+    slug: "abu-oma"
+  "PRO":
+    name: "Ilu"
+    slug: "ilu"
+  "ECC":
+    name: "Eklisiastis"
+    slug: "eklisiastis"
+  "SNG":
+    name: "Abù Nke Abù"
+    slug: "abu-nke-abu"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Abù-ákwá"
+    slug: "abu-akwa"
+  "EZK":
+    name: "Ezikiel"
+    slug: "ezikiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Emos"
+    slug: "emos"
+  "OBA":
+    name: "Obadaia"
+    slug: "obadaia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nehum"
+    slug: "nehum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zefanaia"
+    slug: "zefanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaraia"
+    slug: "zekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jọn"
+    slug: "jon"
+  "ACT":
+    name: "Ọlu Ndi-ozi"
+    slug: "olu-ndi-ozi"
+  "ROM":
+    name: "Ndi Rom"
+    slug: "ndi-rom"
+  "1CO":
+    name: "1 Ndị Kọrint"
+    slug: "1-ndi-korint"
+  "2CO":
+    name: "2 Ndị Kọrint"
+    slug: "2-ndi-korint"
+  "GAL":
+    name: "Ndi Galetia"
+    slug: "ndi-galetia"
+  "EPH":
+    name: "Ndi Efesọs"
+    slug: "ndi-efesos"
+  "PHP":
+    name: "Ndi Filipai"
+    slug: "ndi-filipai"
+  "COL":
+    name: "Ndi Kọlọsi"
+    slug: "ndi-kolosi"
+  "1TH":
+    name: "1 Ndị Tesalonaịka"
+    slug: "1-ndi-tesalonaika"
+  "2TH":
+    name: "2 Ndị Tesalonaịka"
+    slug: "2-ndi-tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitọs"
+    slug: "taitos"
+  "PHM":
+    name: "Fịlịmọn"
+    slug: "filimon"
+  "HEB":
+    name: "Ndi-hibru"
+    slug: "ndi-hibru"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jọn"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jọn"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jọn"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Nkpughe"
+    slug: "nkpughe"

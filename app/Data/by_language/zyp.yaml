@@ -1,0 +1,83 @@
+language: "zyp"
+books:
+  "MAT":
+    name: "Mathai"
+    slug: "mathai"
+  "MRK":
+    name: "Marka"
+    slug: "marka"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johan"
+    slug: "johan"
+  "ACT":
+    name: "Apostol"
+    slug: "apostol"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Kalati"
+    slug: "kalati"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosa"
+    slug: "kolosa"
+  "1TH":
+    name: "1 Thesalonika"
+    slug: "1-thesalonika"
+  "2TH":
+    name: "2 Thesalonika"
+    slug: "2-thesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titas"
+    slug: "titas"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebru"
+    slug: "hebru"
+  "JAS":
+    name: "Jeims"
+    slug: "jeims"
+  "1PE":
+    name: "1 Piter"
+    slug: "1-piter"
+  "2PE":
+    name: "2 Piter"
+    slug: "2-piter"
+  "1JN":
+    name: "1 Johan"
+    slug: "1-johan"
+  "2JN":
+    name: "2 Johan"
+    slug: "2-johan"
+  "3JN":
+    name: "3 Johan"
+    slug: "3-johan"
+  "JUD":
+    name: "Judah"
+    slug: "judah"
+  "REV":
+    name: "Apalynah"
+    slug: "apalynah"

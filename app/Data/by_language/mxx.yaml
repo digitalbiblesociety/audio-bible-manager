@@ -1,0 +1,38 @@
+language: "mxx"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yaya"
+    slug: "yaya"
+  "ACT":
+    name: "Kɛ́wɛɛ"
+    slug: "kw"
+  "PHP":
+    name: "Filipika olu"
+    slug: "filipika-olu"
+  "1TH":
+    name: "1 Tesalonikika olu"
+    slug: "1-tesalonikika-olu"
+  "2TH":
+    name: "2 Tesalonikika olu"
+    slug: "2-tesalonikika-olu"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"

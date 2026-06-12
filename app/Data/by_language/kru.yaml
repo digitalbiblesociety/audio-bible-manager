@@ -1,0 +1,110 @@
+language: "kru"
+books:
+  "MAT":
+    name: "मत्तायोस"
+    slug: "mattayosa"
+    name_toc: "मत्तायोसी लिखचका दौ कत्‍था"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "मरकुसी लिखचका दौ कत्‍था"
+  "LUK":
+    name: "लू‍कस"
+    slug: "lukasa"
+    name_toc: "लू‍कसी लिखच्‍का दौ कत्‍था"
+  "JHN":
+    name: "यॊहनस"
+    slug: "yahanasa"
+    name_toc: "यॊहनसी लिखचका दौ कत्‍था"
+  "ACT":
+    name: "त‍इरकर"
+    slug: "tairakara"
+    name_toc: "त‍इरकर ही नलख गुट्ठी ही पुथी"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+    name_toc: "रोमी आलर गे त‍इरकस पौलुसी चिठी"
+  "1CO":
+    name: "1 कोरिन्‍थ"
+    slug: "1-korintha"
+    name_toc: "कोरिन्‍थ कलीसिया ही नामे पौलुस तइरकासी पहिल चिठी"
+  "2CO":
+    name: "2 कोरिन्‍थ"
+    slug: "2-korintha"
+    name_toc: "कोरिन्‍थ कलीसिया ही नामे पौलुस तइरकासी दुसर चिठी"
+  "GAL":
+    name: "गलातिया"
+    slug: "galatiya"
+    name_toc: "गलातिया कलीसिया ही नामे पौलुस तइरकासी चिठी"
+  "EPH":
+    name: "इफेसुस"
+    slug: "iphesusa"
+    name_toc: "इफेसुस कलीसिया ही नामे पौलुस तइरकासी चिठी"
+  "PHP":
+    name: "फिलिप्‍पी"
+    slug: "philippi"
+    name_toc: "फिलिप्‍पी कलीसिया ही नामे पौलुस तइरकासी चिठी"
+  "COL":
+    name: "कोलोस्से"
+    slug: "kolosse"
+    name_toc: "कोलोस्से कलीसिया ही नामे पौलुस तइरकासी चिठी"
+  "1TH":
+    name: "1 थेस्‍सलोनिकॆयर"
+    slug: "1-thessalonikayara"
+    name_toc: "थेस्‍सलोनिकॆयर गे तइरका पौलुसी पहिल चिठी"
+  "2TH":
+    name: "2 थेस्‍सलोनिकॆयर"
+    slug: "2-thessalonikayara"
+    name_toc: "थेस्‍सलोनिकॆयर गे तइरका पौलुसी पहिल चिठी"
+  "1TI":
+    name: "1 तीमोथियुस"
+    slug: "1-timothiyusa"
+    name_toc: "तीमोथियुसी नामे पौलुस त‍इरकासी पहिल चिठी"
+  "2TI":
+    name: "2 तीमोथियुस"
+    slug: "2-timothiyusa"
+    name_toc: "तीमोथियुसी नामे पौलुस त‍इरकासी पहिल चिठी"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "तीतुसी नामे पौलुस त‍इरकासी चिठी"
+  "PHM":
+    name: "फिलॆमॊन"
+    slug: "philamana"
+    name_toc: "फिलॆमॊनसी नामे पौलुस त‍इरकासी चिठी"
+  "HEB":
+    name: "इब्रानी"
+    slug: "ibrani"
+    name_toc: "इब्रानी नामे चिठी"
+  "JAS":
+    name: "याकॊब"
+    slug: "yakaba"
+    name_toc: "याकॊब तइरकासी चिठी"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "1JN":
+    name: "1 यॊहन"
+    slug: "1-yahana"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "2JN":
+    name: "2 यॊहन"
+    slug: "2-yahana"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "3JN":
+    name: "3 यॊहन"
+    slug: "3-yahana"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "यहूदा तइरकासी चिठी"
+  "REV":
+    name: "दहदर मंजका कत्‍था"
+    slug: "dahadara-mamjaka-kattha"
+    name_toc: "यॊहनस गे दहदर मंजका कत्‍था"

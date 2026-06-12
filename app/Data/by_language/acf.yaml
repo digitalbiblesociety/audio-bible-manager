@@ -1,0 +1,86 @@
+language: "acf"
+books:
+  "PSA":
+    name: "Samz"
+    slug: "samz"
+  "MAT":
+    name: "Mafyou"
+    slug: "mafyou"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Louk"
+    slug: "louk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Twavay"
+    slug: "twavay"
+  "ROM":
+    name: "Ronm"
+    slug: "ronm"
+  "1CO":
+    name: "Pwèmyé Kòrint"
+    slug: "pwemye-korint"
+  "2CO":
+    name: "Dézyenm Kòrint"
+    slug: "dezyenm-korint"
+  "GAL":
+    name: "Galécha"
+    slug: "galecha"
+  "EPH":
+    name: "Èfésòs"
+    slug: "efesos"
+  "PHP":
+    name: "Filipay"
+    slug: "filipay"
+  "COL":
+    name: "Kòlòsé"
+    slug: "kolose"
+  "1TH":
+    name: "Pwèmyé Tèsalonnika"
+    slug: "pwemye-tesalonnika"
+  "2TH":
+    name: "Dézyenm Tèsalonnika"
+    slug: "dezyenm-tesalonnika"
+  "1TI":
+    name: "Pwèmyé Timòfi"
+    slug: "pwemye-timofi"
+  "2TI":
+    name: "Dézyenm Timòfi"
+    slug: "dezyenm-timofi"
+  "TIT":
+    name: "Titòs"
+    slug: "titos"
+  "PHM":
+    name: "Filémonn"
+    slug: "filemonn"
+  "HEB":
+    name: "Sé Hibrou-a"
+    slug: "se-hibrou-a"
+  "JAS":
+    name: "Jémz"
+    slug: "jemz"
+  "1PE":
+    name: "Pwèmyé Pita"
+    slug: "pwemye-pita"
+  "2PE":
+    name: "Dézyenm Pita"
+    slug: "dezyenm-pita"
+  "1JN":
+    name: "Pwèmyé Jan"
+    slug: "pwemye-jan"
+  "2JN":
+    name: "Dézyenm Jan"
+    slug: "dezyenm-jan"
+  "3JN":
+    name: "Twazyenm Jan"
+    slug: "twazyenm-jan"
+  "JUD":
+    name: "Joud"
+    slug: "joud"
+  "REV":
+    name: "Wévélasyon"
+    slug: "wevelasyon"

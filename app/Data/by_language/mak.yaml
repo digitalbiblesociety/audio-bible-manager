@@ -1,0 +1,266 @@
+language: "mak"
+books:
+  "GEN":
+    name: "Pa'jariang"
+    slug: "pa-jariang"
+    name_toc: "Pa'jariang"
+  "EXO":
+    name: "Kalappassang"
+    slug: "kalappassang"
+    name_toc: "Kalappassang"
+  "LEV":
+    name: "Kaimangngang"
+    slug: "kaimangngang"
+    name_toc: "Kaimangngang"
+  "NUM":
+    name: "Pammilangngang"
+    slug: "pammilangngang"
+    name_toc: "Pammilangngang"
+  "DEU":
+    name: "Paole"
+    slug: "paole"
+    name_toc: "Paole"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Yosua"
+  "JDG":
+    name: "Haking-haking"
+    slug: "haking-haking"
+    name_toc: "Haking-haking"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Karaeng-karaeng"
+    slug: "1-karaeng-karaeng"
+    name_toc: "1 Karaeng-karaeng"
+  "2KI":
+    name: "2 Karaeng-karaeng"
+    slug: "2-karaeng-karaeng"
+    name_toc: "2 Karaeng-karaeng"
+  "1CH":
+    name: "1 Pattottorang"
+    slug: "1-pattottorang"
+    name_toc: "Kitta' Makase're Pattottoranna Karaeng-karaenga"
+  "2CH":
+    name: "2 Pattottorang"
+    slug: "2-pattottorang"
+    name_toc: "Kitta' Makarua Pattottoranna Karaeng-karaenga"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Nehemia"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Ayub"
+  "PSA":
+    name: "Pammuji"
+    slug: "pammuji"
+    name_toc: "Pammuji"
+  "PRO":
+    name: "Pangngebarang"
+    slug: "pangngebarang"
+    name_toc: "Pangngebarang"
+  "ECC":
+    name: "Kato'ba"
+    slug: "kato-ba"
+    name_toc: "Kato'ba"
+  "SNG":
+    name: "Kelong Mala'biri'"
+    slug: "kelong-mala-biri"
+    name_toc: "Kelong Mala'biri'"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Yesaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Yeremia"
+  "LAM":
+    name: "Piraung"
+    slug: "piraung"
+    name_toc: "Piraung"
+  "EZK":
+    name: "Yehezkiel"
+    slug: "yehezkiel"
+    name_toc: "Yehezkiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Hosea"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Yoel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "Obaja"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+    name_toc: "Yunus"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Mikha"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Zefanya"
+    slug: "zefanya"
+    name_toc: "Zefanya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Hagai"
+  "ZEC":
+    name: "Zakharia"
+    slug: "zakharia"
+    name_toc: "Zakharia"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+    name_toc: "Maleakhi"
+  "MAT":
+    name: "Matius"
+    slug: "matius"
+    name_toc: "Matius"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Lukas"
+  "JHN":
+    name: "Yohanes"
+    slug: "yohanes"
+    name_toc: "Yohanes"
+  "ACT":
+    name: "Lampa-lampana"
+    slug: "lampa-lampana"
+    name_toc: "Lampa-lampana"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Korintus"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Korintus"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Galatia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Ibrani"
+  "JAS":
+    name: "Yakobus"
+    slug: "yakobus"
+    name_toc: "Sura' Yakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Petrus"
+  "1JN":
+    name: "1 Yohanes"
+    slug: "1-yohanes"
+    name_toc: "Yohanes"
+  "2JN":
+    name: "2 Yohanes"
+    slug: "2-yohanes"
+    name_toc: "Yohanes"
+  "3JN":
+    name: "3 Yohanes"
+    slug: "3-yohanes"
+    name_toc: "Yohanes"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Sura'na Yudas"
+  "REV":
+    name: "Pappicini'"
+    slug: "pappicini"
+    name_toc: "Pappicini'"

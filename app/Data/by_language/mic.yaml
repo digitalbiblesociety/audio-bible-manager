@@ -1,0 +1,83 @@
+language: "mic"
+books:
+  "MAT":
+    name: "Matiw"
+    slug: "matiw"
+  "MRK":
+    name: "Malg"
+    slug: "malg"
+  "LUK":
+    name: "Lu'g"
+    slug: "lug"
+  "JHN":
+    name: "Sa'n"
+    slug: "san"
+  "ACT":
+    name: "Paqalaiwaqann"
+    slug: "paqalaiwaqann"
+  "ROM":
+    name: "Lo'mewaq"
+    slug: "lomewaq"
+  "1CO":
+    name: "1 Golintewaq"
+    slug: "1-golintewaq"
+  "2CO":
+    name: "2 Golintewaq"
+    slug: "2-golintewaq"
+  "GAL":
+    name: "Galetiaewaq"
+    slug: "galetiaewaq"
+  "EPH":
+    name: "Epesusewaq"
+    slug: "epesusewaq"
+  "PHP":
+    name: "Pilippiewaq"
+    slug: "pilippiewaq"
+  "COL":
+    name: "Golosiewaq"
+    slug: "golosiewaq"
+  "1TH":
+    name: "1 Tessaloniaewaq"
+    slug: "1-tessaloniaewaq"
+  "2TH":
+    name: "2 Tessaloniaewaq"
+    slug: "2-tessaloniaewaq"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Piliman"
+    slug: "piliman"
+  "HEB":
+    name: "Gisi Mgnaji Mimajuinu'g"
+    slug: "gisi-mgnaji-mimajuinug"
+  "JAS":
+    name: "Ji'mej"
+    slug: "jimej"
+  "1PE":
+    name: "1 Pie'l"
+    slug: "1-piel"
+  "2PE":
+    name: "2 Pie'l"
+    slug: "2-piel"
+  "1JN":
+    name: "1 Sa'n"
+    slug: "1-san"
+  "2JN":
+    name: "2 Sa'n"
+    slug: "2-san"
+  "3JN":
+    name: "3 Sa'n"
+    slug: "3-san"
+  "JUD":
+    name: "Ju't"
+    slug: "jut"
+  "REV":
+    name: "Ugtejgewe'l"
+    slug: "ugtejgewel"

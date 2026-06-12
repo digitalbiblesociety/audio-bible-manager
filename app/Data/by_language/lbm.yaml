@@ -1,0 +1,113 @@
+language: "lbm"
+books:
+  "GEN":
+    name: "उत्पत्ति"
+    slug: "utpatti"
+  "EXO":
+    name: "निर्गमन"
+    slug: "nirgamana"
+  "LEV":
+    name: "लैव्यव्यवस्था"
+    slug: "laivyavyavastha"
+  "JOS":
+    name: "यहोशू"
+    slug: "yahosu"
+  "EST":
+    name: "एस्तेर"
+    slug: "estera"
+  "ECC":
+    name: "सभोपदेशक"
+    slug: "sabhopadesaka"
+  "EZK":
+    name: "यहेजकेल"
+    slug: "yahejakela"
+  "DAN":
+    name: "दानिय्येल"
+    slug: "daniyyela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "प्रेरितों"
+    slug: "preritom"
+  "ROM":
+    name: "रोमियों"
+    slug: "romiyom"
+  "1CO":
+    name: "१ कुरिन्थियों"
+    slug: "1-kurinthiyom"
+  "2CO":
+    name: "२ कुरिन्थियों"
+    slug: "2-kurinthiyom"
+  "GAL":
+    name: "गलातियों"
+    slug: "galatiyom"
+  "EPH":
+    name: "इफिसियों"
+    slug: "iphisiyom"
+  "PHP":
+    name: "फिलिप्पियों"
+    slug: "philippiyom"
+  "COL":
+    name: "कुलुस्सियों"
+    slug: "kulussiyom"
+  "1TH":
+    name: "१ थिस्सलुनीकियों"
+    slug: "1-thissalunikiyom"
+  "2TH":
+    name: "२ थिस्सलुनीकियों"
+    slug: "2-thissalunikiyom"
+  "1TI":
+    name: "१ तीमुथियुस"
+    slug: "1-timuthiyusa"
+  "2TI":
+    name: "२ तीमुथियुस"
+    slug: "2-timuthiyusa"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+  "HEB":
+    name: "इब्रानियों"
+    slug: "ibraniyom"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+  "1PE":
+    name: "१ पतरस"
+    slug: "1-patarasa"
+  "2PE":
+    name: "२ पतरस"
+    slug: "2-patarasa"
+  "1JN":
+    name: "१ यूहन्ना"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "२ यूहन्ना"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "३ यूहन्ना"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"

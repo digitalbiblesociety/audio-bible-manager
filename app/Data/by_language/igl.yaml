@@ -1,0 +1,200 @@
+language: "igl"
+books:
+  "GEN":
+    name: "Abakwane̩"
+    slug: "abakwane"
+  "EXO":
+    name: "Akwodufu"
+    slug: "akwodufu"
+  "LEV":
+    name: "Abo Lifai"
+    slug: "abo-lifai"
+  "NUM":
+    name: "Ekaluka"
+    slug: "ekaluka"
+  "DEU":
+    name: "O̩lo̩da Eduwa Onukeji"
+    slug: "oloda-eduwa-onukeji"
+  "JOS":
+    name: "Jo̩shua"
+    slug: "joshua"
+  "JDG":
+    name: "Amakajo̩"
+    slug: "amakajo"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "1SA":
+    name: "1 Samiue̩l"
+    slug: "1-samiuel"
+  "2SA":
+    name: "2 Samiue̩l"
+    slug: "2-samiuel"
+  "1KI":
+    name: "1 Amonu"
+    slug: "1-amonu"
+  "2KI":
+    name: "2 Amonu"
+    slug: "2-amonu"
+  "1CH":
+    name: "1 Iko Iko E̩wñ"
+    slug: "1-iko-iko-ewn"
+  "2CH":
+    name: "2 Iko Iko E̩wn"
+    slug: "2-iko-iko-ewn"
+  "EZR":
+    name: "E̩zra"
+    slug: "ezra"
+  "NEH":
+    name: "Nihe̩maya"
+    slug: "nihemaya"
+  "EST":
+    name: "E̩sta"
+    slug: "esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Eli Eko̩ DʼO̩jo̩"
+    slug: "eli-eko-dojo"
+  "PRO":
+    name: "Ita, Ita"
+    slug: "ita-ita"
+  "ECC":
+    name: "Ako̩la ñw Ujeju"
+    slug: "akola-nw-ujeju"
+  "SNG":
+    name: "Eli So̩lo̩mo̩n"
+    slug: "eli-solomon"
+  "ISA":
+    name: "Aizaya"
+    slug: "aizaya"
+  "JER":
+    name: "Je̩re̩maya"
+    slug: "jeremaya"
+  "LAM":
+    name: "Edinaku"
+    slug: "edinaku"
+  "EZK":
+    name: "Izikie̩l"
+    slug: "izikiel"
+  "DAN":
+    name: "Danie̩l"
+    slug: "daniel"
+  "HOS":
+    name: "Hosiya"
+    slug: "hosiya"
+  "JOL":
+    name: "Joe̩l"
+    slug: "joel"
+  "AMO":
+    name: "Emo̩s"
+    slug: "emos"
+  "OBA":
+    name: "O̩badaya"
+    slug: "obadaya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nehum"
+    slug: "nehum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Ze̩fanaya"
+    slug: "zefanaya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Ze̩karaya"
+    slug: "zekaraya"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Jo̩n"
+    slug: "jon"
+  "ACT":
+    name: "E̩wñ kʼAme̩nukpuche̩ Che"
+    slug: "ewn-kamenukpuche-che"
+  "ROM":
+    name: "Abo Rom"
+    slug: "abo-rom"
+  "1CO":
+    name: "1 Abo Ko̩rint"
+    slug: "1-abo-korint"
+  "2CO":
+    name: "2 Abo Ko̩rint"
+    slug: "2-abo-korint"
+  "GAL":
+    name: "Abo Galatia"
+    slug: "abo-galatia"
+  "EPH":
+    name: "Abo E̩fe̩sus"
+    slug: "abo-efesus"
+  "PHP":
+    name: "Abo Filipai"
+    slug: "abo-filipai"
+  "COL":
+    name: "Abo Ko̩lo̩se"
+    slug: "abo-kolose"
+  "1TH":
+    name: "1 Te̩s"
+    slug: "1-tes"
+  "2TH":
+    name: "2 Abo Te̩se̩lonaika"
+    slug: "2-abo-teselonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taito̩s"
+    slug: "taitos"
+  "PHM":
+    name: "Filimo̩n"
+    slug: "filimon"
+  "HEB":
+    name: "Abo Hibru"
+    slug: "abo-hibru"
+  "JAS":
+    name: "Jeme̩s"
+    slug: "jemes"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Jo̩n"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jo̩n"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jo̩n"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "O̩la E̩bite"
+    slug: "ola-ebite"

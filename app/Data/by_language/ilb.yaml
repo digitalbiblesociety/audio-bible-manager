@@ -1,0 +1,83 @@
+language: "ilb"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maako"
+    slug: "maako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+  "ACT":
+    name: "Incito"
+    slug: "incito"
+  "ROM":
+    name: "Baloma"
+    slug: "baloma"
+  "1CO":
+    name: "1 Bakolinto"
+    slug: "1-bakolinto"
+  "2CO":
+    name: "2 Bakolinto"
+    slug: "2-bakolinto"
+  "GAL":
+    name: "Bagalatiya"
+    slug: "bagalatiya"
+  "EPH":
+    name: "Baefeso"
+    slug: "baefeso"
+  "PHP":
+    name: "Bafilipo"
+    slug: "bafilipo"
+  "COL":
+    name: "Bakolose"
+    slug: "bakolose"
+  "1TH":
+    name: "1 Batesalonika"
+    slug: "1-batesalonika"
+  "2TH":
+    name: "2 Batesalonika"
+    slug: "2-batesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Bahibulu"
+    slug: "bahibulu"
+  "JAS":
+    name: "Jemusi"
+    slug: "jemusi"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+  "JUD":
+    name: "Judi"
+    slug: "judi"
+  "REV":
+    name: "Cizubuluzho"
+    slug: "cizubuluzho"

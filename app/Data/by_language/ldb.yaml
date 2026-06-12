@@ -1,0 +1,83 @@
+language: "ldb"
+books:
+  "MAT":
+    name: "Umatta"
+    slug: "umatta"
+  "MRK":
+    name: "Umarku"
+    slug: "umarku"
+  "LUK":
+    name: "Irhuka"
+    slug: "irhuka"
+  "JHN":
+    name: "Uyohana"
+    slug: "uyohana"
+  "ACT":
+    name: "Abi Itser-Yesu"
+    slug: "abi-itser-yesu"
+  "ROM":
+    name: "Uroma"
+    slug: "uroma"
+  "1CO":
+    name: "1 Ukorinti"
+    slug: "1-ukorinti"
+  "2CO":
+    name: "2 Ukorinti"
+    slug: "2-ukorinti"
+  "GAL":
+    name: "Ugarhati"
+    slug: "ugarhati"
+  "EPH":
+    name: "Uafisa"
+    slug: "uafisa"
+  "PHP":
+    name: "Ufirhibi"
+    slug: "ufirhibi"
+  "COL":
+    name: "Ukorhosi"
+    slug: "ukorhosi"
+  "1TH":
+    name: "1 Utasorhonika"
+    slug: "1-utasorhonika"
+  "2TH":
+    name: "2 Utasorhonika"
+    slug: "2-utasorhonika"
+  "1TI":
+    name: "1 Utimoti"
+    slug: "1-utimoti"
+  "2TI":
+    name: "2 Utimoti"
+    slug: "2-utimoti"
+  "TIT":
+    name: "Utitu"
+    slug: "utitu"
+  "PHM":
+    name: "Ufirhimon"
+    slug: "ufirhimon"
+  "HEB":
+    name: "Uibrani"
+    slug: "uibrani"
+  "JAS":
+    name: "Uyaku"
+    slug: "uyaku"
+  "1PE":
+    name: "1 Ubitru"
+    slug: "1-ubitru"
+  "2PE":
+    name: "2 Ubitru"
+    slug: "2-ubitru"
+  "1JN":
+    name: "1 Uyohana"
+    slug: "1-uyohana"
+  "2JN":
+    name: "2 Uyohana"
+    slug: "2-uyohana"
+  "3JN":
+    name: "3 Uyohana"
+    slug: "3-uyohana"
+  "JUD":
+    name: "Uyahuda"
+    slug: "uyahuda"
+  "REV":
+    name: "Irhi Uyohana"
+    slug: "irhi-uyohana"

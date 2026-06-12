@@ -1,0 +1,266 @@
+language: "twu"
+books:
+  "GEN":
+    name: "Kejadian"
+    slug: "kejadian"
+    name_toc: "Ezequiel"
+  "EXO":
+    name: "Keluaran"
+    slug: "keluaran"
+    name_toc: "Daniel"
+  "LEV":
+    name: "Imamat"
+    slug: "imamat"
+    name_toc: "Oseas"
+  "NUM":
+    name: "Bilangan"
+    slug: "bilangan"
+    name_toc: "Joel"
+  "DEU":
+    name: "Ulangan"
+    slug: "ulangan"
+    name_toc: "Amós"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Abdías"
+  "JDG":
+    name: "Hakim-hakim"
+    slug: "hakim-hakim"
+    name_toc: "Jonás"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Miqueas"
+  "1SA":
+    name: "Semuel Susulak-ka Esan-na"
+    slug: "semuel-susulak-ka-esan-na"
+    name_toc: "Nahúm"
+  "2SA":
+    name: "2 Semuel"
+    slug: "2-semuel"
+    name_toc: "Habacuc"
+  "1KI":
+    name: "1Raja-raja"
+    slug: "1raja-raja"
+    name_toc: "Sofonías"
+  "2KI":
+    name: "2Raja-raja"
+    slug: "2raja-raja"
+    name_toc: "Hageo"
+  "1CH":
+    name: "1 Tawarikh"
+    slug: "1-tawarikh"
+    name_toc: "Zacarías"
+  "2CH":
+    name: "2Tawarikh"
+    slug: "2tawarikh"
+    name_toc: "Malaquías"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Evangelio según San Mateo"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Evangelio según San Marcos"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Evangelio según San Lucas"
+  "JOB":
+    name: "Ayub"
+    slug: "ayub"
+    name_toc: "Evangelio según San Juan"
+  "PSA":
+    name: "Mazmur"
+    slug: "mazmur"
+    name_toc: "Hechos de los Apóstoles"
+  "PRO":
+    name: "Amsal"
+    slug: "amsal"
+    name_toc: "Carta de san Pablo a los Romanos"
+  "ECC":
+    name: "Pengkhotbah"
+    slug: "pengkhotbah"
+    name_toc: "Primera carta de san Pablo a los Corintios"
+  "SNG":
+    name: "Kidung Agung"
+    slug: "kidung-agung"
+    name_toc: "Segunda carta de san Pablo a los Corintios"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+    name_toc: "Carta de san Pablo a los Gálatas"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Carta de san Pablo a los Efesios"
+  "LAM":
+    name: "Ratapan"
+    slug: "ratapan"
+    name_toc: "Carta de san Pablo a los Filipenses"
+  "EZK":
+    name: "Yeskial"
+    slug: "yeskial"
+    name_toc: "Carta de san Pablo a los Colosenses"
+  "DAN":
+    name: "Danial"
+    slug: "danial"
+    name_toc: "Primera carta de san Pablo a los Tesalonicenses"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Segunda carta de san Pablo a los Tesalonicenses"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Primera carta de san Pablo a Timoteo"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Segunda carta de san Pablo a Timoteo"
+  "OBA":
+    name: "Obaja"
+    slug: "obaja"
+    name_toc: "Carta de san Pablo a Tito"
+  "JON":
+    name: "Yunus"
+    slug: "yunus"
+    name_toc: "Carta de san Pablo a Filemón"
+  "MIC":
+    name: "Mikha"
+    slug: "mikha"
+    name_toc: "Carta a los Hebreos"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Carta de Santiago"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Primera carta de san Pedro"
+  "ZEP":
+    name: "Zefanya"
+    slug: "zefanya"
+    name_toc: "Segunda carta de san Pedro"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Primera carta de san Juan"
+  "ZEC":
+    name: "Zakharia"
+    slug: "zakharia"
+    name_toc: "Segunda carta de san Juan"
+  "MAL":
+    name: "Maleakhi"
+    slug: "maleakhi"
+    name_toc: "Tercera carta de san Juan"
+  "MAT":
+    name: "Mateos"
+    slug: "mateos"
+    name_toc: "Carta de san Judas"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Apocalipsis"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Génesis"
+  "JHN":
+    name: "Yohanis"
+    slug: "yohanis"
+    name_toc: "Éxodo"
+  "ACT":
+    name: "Hataholi"
+    slug: "hataholi"
+    name_toc: "Levítico"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Números"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+    name_toc: "Deuteronomio"
+  "2CO":
+    name: "2 Korintus"
+    slug: "2-korintus"
+    name_toc: "Josué"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+    name_toc: "Jueces"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+    name_toc: "Rut"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Primer libro de Samuel"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Segundo libro de Samuel"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Primer libro de los Reyes"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Segundo libro de los Reyes"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+    name_toc: "Primer libro de las Crónicas"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+    name_toc: "Segundo libro de las Crónicas"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Esdras"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Nehemías"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+    name_toc: "Ester"
+  "JAS":
+    name: "Yakobis"
+    slug: "yakobis"
+    name_toc: "Job"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+    name_toc: "Salmos"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+    name_toc: "Proverbios"
+  "1JN":
+    name: "1 Yohanis"
+    slug: "1-yohanis"
+    name_toc: "Eclesiastés"
+  "2JN":
+    name: "2 Yohanis"
+    slug: "2-yohanis"
+    name_toc: "El Cantar de los Cantares"
+  "3JN":
+    name: "3 Yohanis"
+    slug: "3-yohanis"
+    name_toc: "Isaías"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Jeremías"
+  "REV":
+    name: "Ninitak"
+    slug: "ninitak"
+    name_toc: "Lamentaciones"

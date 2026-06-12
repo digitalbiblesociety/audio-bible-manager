@@ -1,0 +1,8 @@
+language: "tcn"
+books:
+  "JHN":
+    name: "युहान्ना"
+    slug: "yuhanna"
+  "ACT":
+    name: "प्रेरित"
+    slug: "prerita"

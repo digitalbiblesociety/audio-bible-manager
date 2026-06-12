@@ -1,0 +1,83 @@
+language: "mcp"
+books:
+  "MAT":
+    name: "Matiyô"
+    slug: "matiyo"
+  "MRK":
+    name: "Márkus"
+    slug: "markus"
+  "LUK":
+    name: "Lúkas"
+    slug: "lukas"
+  "JHN":
+    name: "Yuánɛs"
+    slug: "yuans"
+  "ACT":
+    name: "Misɔ́ɔ́lʉ́gʉ́"
+    slug: "mislugu"
+  "ROM":
+    name: "Buud ɔ́ Róma"
+    slug: "buud-roma"
+  "1CO":
+    name: "1 Buud ɔ́ Kɔrɛ̂nt"
+    slug: "1-buud-krnt"
+  "2CO":
+    name: "2 Buud ɔ́ Kɔrɛ̂nt"
+    slug: "2-buud-krnt"
+  "GAL":
+    name: "Buud ɔ́ Galátia"
+    slug: "buud-galatia"
+  "EPH":
+    name: "Buud ɔ́ Ifɛ̂z"
+    slug: "buud-ifz"
+  "PHP":
+    name: "Buud ɔ́ Filipî"
+    slug: "buud-filipi"
+  "COL":
+    name: "1 Buud ɔ́ Tesaloníka"
+    slug: "1-buud-tesalonika"
+  "1TH":
+    name: "1 Buud ɔ́ Tesaloníka"
+    slug: "1-buud-tesalonika"
+  "2TH":
+    name: "1 Timotê"
+    slug: "1-timote"
+  "1TI":
+    name: "1 Timotê"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timotê"
+    slug: "2-timote"
+  "TIT":
+    name: "Fʉlmɔ̂ŋ"
+    slug: "fulmn"
+  "PHM":
+    name: "Fʉlmɔ̂ŋ"
+    slug: "fulmn"
+  "HEB":
+    name: "Wəhebʉrə̂"
+    slug: "wehebure"
+  "JAS":
+    name: "1 Pyɛ̂r"
+    slug: "1-pyr"
+  "1PE":
+    name: "1 Pyɛ̂r"
+    slug: "1-pyr"
+  "2PE":
+    name: "1 Yuánɛs"
+    slug: "1-yuans"
+  "1JN":
+    name: "1 Yuánɛs"
+    slug: "1-yuans"
+  "2JN":
+    name: "Yûdə"
+    slug: "yude"
+  "3JN":
+    name: "Yûdə"
+    slug: "yude"
+  "JUD":
+    name: "Yûdə"
+    slug: "yude"
+  "REV":
+    name: "Mbʉ́gʉ́lú"
+    slug: "mbugulu"

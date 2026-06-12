@@ -1,0 +1,306 @@
+language: "miq"
+books:
+  "GEN":
+    name: "Blasi Sturka"
+    slug: "blasi-sturka"
+    name_toc: "Blasi Sturka"
+  "EXO":
+    name: "Impakan Sturka"
+    slug: "impakan-sturka"
+    name_toc: "Impakan Sturka"
+  "LEV":
+    name: "Libait Lâka"
+    slug: "libait-laka"
+    name_toc: "Libait Lâka"
+  "NUM":
+    name: "Kulki Kaikanka"
+    slug: "kulki-kaikanka"
+    name_toc: "Kulki Kaikanka"
+  "DEU":
+    name: "Kli Smalkanka"
+    slug: "kli-smalkanka"
+    name_toc: "Kli Smalkanka"
+  "JOS":
+    name: "Jasua"
+    slug: "jasua"
+    name_toc: "Jasua"
+  "JDG":
+    name: "Wihta Nani"
+    slug: "wihta-nani"
+    name_toc: "Wihta Nani"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuil"
+    slug: "1-samuil"
+    name_toc: "1 Samuil"
+  "2SA":
+    name: "2 Samuil"
+    slug: "2-samuil"
+    name_toc: "2 Samuil"
+  "1KI":
+    name: "1 King Nani"
+    slug: "1-king-nani"
+    name_toc: "1 King Nani"
+  "2KI":
+    name: "2 King Nani"
+    slug: "2-king-nani"
+    name_toc: "2 King Nani"
+  "1CH":
+    name: "1 Kronikas"
+    slug: "1-kronikas"
+    name_toc: "1 Kronikas"
+  "2CH":
+    name: "2 Kronikas"
+    slug: "2-kronikas"
+    name_toc: "2 Kronikas"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Esdras"
+  "NEH":
+    name: "Nihimaya"
+    slug: "nihimaya"
+    name_toc: "Nihimaya"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Lawana Nani"
+    slug: "lawana-nani"
+    name_toc: "Lawana Nani"
+  "PRO":
+    name: "Sins Lâka"
+    slug: "sins-laka"
+    name_toc: "Sins Lâka"
+  "ECC":
+    name: "Smasmalkra"
+    slug: "smasmalkra"
+    name_toc: "Smasmalkra"
+  "SNG":
+    name: "Yamni Kulki Lawana"
+    slug: "yamni-kulki-lawana"
+    name_toc: "Yamni Kulki Lawana"
+  "ISA":
+    name: "Aiseya"
+    slug: "aiseya"
+    name_toc: "Aiseya"
+  "JER":
+    name: "Jirimaya"
+    slug: "jirimaya"
+    name_toc: "Jirimaya"
+  "LAM":
+    name: "Inanka Nani"
+    slug: "inanka-nani"
+    name_toc: "Inanka Nani"
+  "EZK":
+    name: "Isikiel"
+    slug: "isikiel"
+    name_toc: "Isikiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Oseas"
+    slug: "oseas"
+    name_toc: "Oseas"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Joel"
+  "AMO":
+    name: "Emus"
+    slug: "emus"
+    name_toc: "Emus"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "Abdías"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona"
+  "MIC":
+    name: "Miqueas"
+    slug: "miqueas"
+    name_toc: "Miqueas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+    name_toc: "Abakuk"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "Sofonías"
+  "HAG":
+    name: "Hageo"
+    slug: "hageo"
+    name_toc: "Hageo"
+  "ZEC":
+    name: "Sakaraya"
+    slug: "sakaraya"
+    name_toc: "Sakaraya"
+  "MAL":
+    name: "Malaquía"
+    slug: "malaquia"
+    name_toc: "Malaquía"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Tobit"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+    name_toc: "Judit"
+  "ESG":
+    name: "Ester (dc)"
+    slug: "ester-dc"
+    name_toc: "Ester (dc)"
+  "WIS":
+    name: "Sinska Lâka"
+    slug: "sinska-laka"
+    name_toc: "Sinska Lâka"
+  "SIR":
+    name: "Eclesiástico"
+    slug: "eclesiastico"
+    name_toc: "Eclesiástico"
+  "BAR":
+    name: "Baruc"
+    slug: "baruc"
+    name_toc: "Baruc"
+  "LJE":
+    name: "Carta de Jeremías"
+    slug: "carta-de-jeremias"
+    name_toc: "Carta de Jeremias, Baruc"
+  "DAG":
+    name: "Daniel (dc)"
+    slug: "daniel-dc"
+    name_toc: "Daniel (dc)"
+  "1MA":
+    name: "1 Macabeo"
+    slug: "1-macabeo"
+    name_toc: "1 Macabeo"
+  "2MA":
+    name: "2 Macabeo"
+    slug: "2-macabeo"
+    name_toc: "2 Macabeo"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Matiu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Luk"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+    name_toc: "Jan"
+  "ACT":
+    name: "Apastil Nani Sturka"
+    slug: "apastil-nani-sturka"
+    name_toc: "Apastil Nani Sturka"
+  "ROM":
+    name: "Roman"
+    slug: "roman"
+    name_toc: "Roman"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+    name_toc: "1 Korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+    name_toc: "2 Korint"
+  "GAL":
+    name: "Galesha"
+    slug: "galesha"
+    name_toc: "Galesha"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+    name_toc: "Epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+    name_toc: "Pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Kolosi"
+  "1TH":
+    name: "1 Tesalonaika"
+    slug: "1-tesalonaika"
+    name_toc: "1 Tesalonaika"
+  "2TH":
+    name: "2 Tesalonaika"
+    slug: "2-tesalonaika"
+    name_toc: "2 Tesalonaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "1 Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "2 Timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+    name_toc: "Taitus"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+    name_toc: "Pilimon"
+  "HEB":
+    name: "Hibru Nani"
+    slug: "hibru-nani"
+    name_toc: "Hibru Nani"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "Jems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "1 Pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "2 Pita"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+    name_toc: "1 Jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+    name_toc: "2 Jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+    name_toc: "3 Jan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+    name_toc: "Judas"
+  "REV":
+    name: "Param Marikanka"
+    slug: "param-marikanka"
+    name_toc: "Param Marikanka"

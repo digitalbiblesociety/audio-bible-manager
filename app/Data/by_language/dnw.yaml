@@ -1,0 +1,200 @@
+language: "dnw"
+books:
+  "GEN":
+    name: "Wakkagagerak"
+    slug: "wakkagagerak"
+  "EXO":
+    name: "Wundeegwaarak"
+    slug: "wundeegwaarak"
+  "LEV":
+    name: "Ala Unde"
+    slug: "ala-unde"
+  "NUM":
+    name: "Linggineegwaarak"
+    slug: "linggineegwaarak"
+  "DEU":
+    name: "Pelaareegerak"
+    slug: "pelaareegerak"
+  "JOS":
+    name: "Yotuwa"
+    slug: "yotuwa"
+  "JDG":
+    name: "Owak Loongga"
+    slug: "owak-loongga"
+  "RUT":
+    name: "Urut"
+    slug: "urut"
+  "1SA":
+    name: "1 Tamuwen"
+    slug: "1-tamuwen"
+  "2SA":
+    name: "2 Tamuwen"
+    slug: "2-tamuwen"
+  "1KI":
+    name: "1 Endagembogut"
+    slug: "1-endagembogut"
+  "2KI":
+    name: "2 Endagembogut"
+    slug: "2-endagembogut"
+  "1CH":
+    name: "1 Mbinineegwaarak"
+    slug: "1-mbinineegwaarak"
+  "2CH":
+    name: "2 Mbinineegwaarak"
+    slug: "2-mbinineegwaarak"
+  "EZR":
+    name: "Etara"
+    slug: "etara"
+  "NEH":
+    name: "Nekemiya"
+    slug: "nekemiya"
+  "EST":
+    name: "Etet"
+    slug: "etet"
+  "JOB":
+    name: "Ayup"
+    slug: "ayup"
+  "PSA":
+    name: "Ndawi"
+    slug: "ndawi"
+  "PRO":
+    name: "Kini Wuppiige"
+    slug: "kini-wuppiige"
+  "ECC":
+    name: "Wone Alom Kibingga"
+    slug: "wone-alom-kibingga"
+  "SNG":
+    name: "Ndawi Iya"
+    slug: "ndawi-iya"
+  "ISA":
+    name: "Yetaya"
+    slug: "yetaya"
+  "JER":
+    name: "Yeremiya"
+    slug: "yeremiya"
+  "LAM":
+    name: "Leendawi"
+    slug: "leendawi"
+  "EZK":
+    name: "Yetikiyen"
+    slug: "yetikiyen"
+  "DAN":
+    name: "Ndaniyen"
+    slug: "ndaniyen"
+  "HOS":
+    name: "Oteya"
+    slug: "oteya"
+  "JOL":
+    name: "Yowen"
+    slug: "yowen"
+  "AMO":
+    name: "Amot"
+    slug: "amot"
+  "OBA":
+    name: "Obaya"
+    slug: "obaya"
+  "JON":
+    name: "Yunut"
+    slug: "yunut"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nakum"
+    slug: "nakum"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+  "ZEP":
+    name: "Tepaniya"
+    slug: "tepaniya"
+  "HAG":
+    name: "Agayi"
+    slug: "agayi"
+  "ZEC":
+    name: "Takariya"
+    slug: "takariya"
+  "MAL":
+    name: "Maleyaki"
+    slug: "maleyaki"
+  "MAT":
+    name: "Matiyut"
+    slug: "matiyut"
+  "MRK":
+    name: "Marakut"
+    slug: "marakut"
+  "LUK":
+    name: "Lukat"
+    slug: "lukat"
+  "JHN":
+    name: "Yaya"
+    slug: "yaya"
+  "ACT":
+    name: "Nappiigak"
+    slug: "nappiigak"
+  "ROM":
+    name: "Oroma"
+    slug: "oroma"
+  "1CO":
+    name: "1 Korindut"
+    slug: "1-korindut"
+  "2CO":
+    name: "2 Korindut"
+    slug: "2-korindut"
+  "GAL":
+    name: "Nggalatiya"
+    slug: "nggalatiya"
+  "EPH":
+    name: "Epetut"
+    slug: "epetut"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolote"
+    slug: "kolote"
+  "1TH":
+    name: "1 Tetalonika"
+    slug: "1-tetalonika"
+  "2TH":
+    name: "2 Tetalonika"
+    slug: "2-tetalonika"
+  "1TI":
+    name: "1 Timotiyut"
+    slug: "1-timotiyut"
+  "2TI":
+    name: "2 Timotiyut"
+    slug: "2-timotiyut"
+  "TIT":
+    name: "Titut"
+    slug: "titut"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Iberani"
+    slug: "iberani"
+  "JAS":
+    name: "Yakobut"
+    slug: "yakobut"
+  "1PE":
+    name: "1 Peterut"
+    slug: "1-peterut"
+  "2PE":
+    name: "2 Peterut"
+    slug: "2-peterut"
+  "1JN":
+    name: "1 Yaya"
+    slug: "1-yaya"
+  "2JN":
+    name: "2 Yaya"
+    slug: "2-yaya"
+  "3JN":
+    name: "3 Yaya"
+    slug: "3-yaya"
+  "JUD":
+    name: "Yurat"
+    slug: "yurat"
+  "REV":
+    name: "Wayu"
+    slug: "wayu"

@@ -1,0 +1,86 @@
+language: "llg"
+books:
+  "GEN":
+    name: "Tutui laꞌeneu sososan"
+    slug: "tutui-laeneu-sososan"
+  "MAT":
+    name: "Mateos"
+    slug: "mateos"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Yohanis"
+    slug: "yohanis"
+  "ACT":
+    name: "Hataholi Nadedenu nala Tutuin"
+    slug: "hataholi-nadedenu-nala-tutuin"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintus"
+    slug: "1-korintus"
+  "2CO":
+    name: "Korintus kadua"
+    slug: "korintus-kadua"
+  "GAL":
+    name: "Galati"
+    slug: "galati"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "Tesalonika Kaꞌesan"
+    slug: "tesalonika-kaesan"
+  "2TH":
+    name: "Tesalonika Kaduan"
+    slug: "tesalonika-kaduan"
+  "1TI":
+    name: "Timotius Kaꞌesan"
+    slug: "timotius-kaesan"
+  "2TI":
+    name: "Timotius Kaduan"
+    slug: "timotius-kaduan"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibrani"
+    slug: "ibrani"
+  "JAS":
+    name: "Yakobis"
+    slug: "yakobis"
+  "1PE":
+    name: "Petrus kaesan"
+    slug: "petrus-kaesan"
+  "2PE":
+    name: "Petrus kaduan"
+    slug: "petrus-kaduan"
+  "1JN":
+    name: "Yohanis kaesan"
+    slug: "yohanis-kaesan"
+  "2JN":
+    name: "2 Yohanis"
+    slug: "2-yohanis"
+  "3JN":
+    name: "3 Yohanis"
+    slug: "3-yohanis"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+  "REV":
+    name: "Daebafo Mata Beuk"
+    slug: "daebafo-mata-beuk"

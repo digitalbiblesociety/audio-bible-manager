@@ -1,0 +1,110 @@
+language: "vah"
+books:
+  "MAT":
+    name: "मत्तय"
+    slug: "mattaya"
+    name_toc: "An Basahan ni Judit"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "An Basahan ni Ester (An Griego nga Hubad)"
+  "LUK":
+    name: "लुका"
+    slug: "luka"
+    name_toc: "An Syahan nga Basahan han mga Macabeo"
+  "JHN":
+    name: "युहन्ना"
+    slug: "yuhanna"
+    name_toc: "An Ikaduha nga Basahan han mga Macabeo"
+  "ACT":
+    name: "प्रेरितों के काम"
+    slug: "preritom-ke-kama"
+    name_toc: "Kinaadman ni Solomon"
+  "ROM":
+    name: "रोमियो"
+    slug: "romiyo"
+    name_toc: "An Pag-ampo ni Azarias ngan an Kanta han Tulo nga Kalalaken-an"
+  "1CO":
+    name: "1 कुरिन्थियों"
+    slug: "1-kurinthiyom"
+    name_toc: "An Basahan ni Susana"
+  "2CO":
+    name: "2 कुरिन्थियों"
+    slug: "2-kurinthiyom"
+    name_toc: "Hi Bel ngan an Dragon"
+  "GAL":
+    name: "गलातियों"
+    slug: "galatiyom"
+    name_toc: "An Maupay nga Sumat sumala kan Mateo"
+  "EPH":
+    name: "इफिसियों"
+    slug: "iphisiyom"
+    name_toc: "An Maupay nga Sumat sumala kan Marcos"
+  "PHP":
+    name: "फिलिप्पियों"
+    slug: "philippiyom"
+    name_toc: "An Maupay nga Sumat sumala kan Lucas"
+  "COL":
+    name: "कुलुस्सियों"
+    slug: "kulussiyom"
+    name_toc: "An Maupay nga Sumat sumala kan Juan"
+  "1TH":
+    name: "1 थिस्सलुनीकियों"
+    slug: "1-thissalunikiyom"
+    name_toc: "An Mga Buhat han mga Apostoles"
+  "2TH":
+    name: "2 थिस्सलुनीकियों"
+    slug: "2-thissalunikiyom"
+    name_toc: "An Surat ni Pablo han Mga Taga-Roma"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "An Syahan nga Surat ni Pablo han Mga Taga-Corinto"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "An Ikaduha nga Surat ni Pablo han Mga Taga-Corinto"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "An Surat ni Pablo han Mga Taga-Galacia"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "An Surat ni Pablo han Mga Taga-Efeso"
+  "HEB":
+    name: "इब्रानियों"
+    slug: "ibraniyom"
+    name_toc: "An Surat ni Pablo han Mga Taga-Filipos"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "An Kinaadman ni Jesus, Anak ni Sirac (Eclesiastico)"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "Baruc"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "An Surat ni Pablo han Mga Taga-Colosas"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "An Surat ni Jeremias"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "An Syahan nga Surat ni Pablo han Mga Taga-Tesalonica"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "An Ikaduha nga Surat ni Pablo han Mga Taga-Tesalonica"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "An Syahan nga Surat ni Pablo kan Timoteo"
+  "REV":
+    name: "प्रकाशित वाक्य"
+    slug: "prakasita-vakya"
+    name_toc: "An Ikaduha nga Surat ni Pablo kan Timoteo"

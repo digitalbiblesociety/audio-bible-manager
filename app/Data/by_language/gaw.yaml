@@ -1,0 +1,200 @@
+language: "gaw"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Eksodas"
+    slug: "eksodas"
+  "LEV":
+    name: "Lewitikas"
+    slug: "lewitikas"
+  "NUM":
+    name: "Namba"
+    slug: "namba"
+  "DEU":
+    name: "Duteronomi"
+    slug: "duteronomi"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Ikki Danab"
+    slug: "ikki-danab"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 King"
+    slug: "1-king"
+  "2KI":
+    name: "2 King"
+    slug: "2-king"
+  "1CH":
+    name: "1 Stori"
+    slug: "1-stori"
+  "2CH":
+    name: "2 Stori"
+    slug: "2-stori"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemaia"
+    slug: "nehemaia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Sam"
+    slug: "sam"
+  "PRO":
+    name: "Prowerb"
+    slug: "prowerb"
+  "ECC":
+    name: "Eklisiastis"
+    slug: "eklisiastis"
+  "SNG":
+    name: "Solomonnu Ahi"
+    slug: "solomonnu-ahi"
+  "ISA":
+    name: "Aisaia"
+    slug: "aisaia"
+  "JER":
+    name: "Jeremaia"
+    slug: "jeremaia"
+  "LAM":
+    name: "Gayak Nai"
+    slug: "gayak-nai"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadaia"
+    slug: "obadaia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Maika"
+    slug: "maika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sepanaia"
+    slug: "sepanaia"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Sekaraia"
+    slug: "sekaraia"
+  "MAL":
+    name: "Malakai"
+    slug: "malakai"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Makus"
+    slug: "makus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johanes"
+    slug: "johanes"
+  "ACT":
+    name: "Apostel"
+    slug: "apostel"
+  "ROM":
+    name: "Romnu Nai"
+    slug: "romnu-nai"
+  "1CO":
+    name: "1 Korint"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korint"
+    slug: "2-korint"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotius"
+    slug: "1-timotius"
+  "2TI":
+    name: "2 Timotius"
+    slug: "2-timotius"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Pilimon"
+    slug: "pilimon"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+  "JAS":
+    name: "Jakobus"
+    slug: "jakobus"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Johanes"
+    slug: "1-johanes"
+  "2JN":
+    name: "2 Johanes"
+    slug: "2-johanes"
+  "3JN":
+    name: "3 Johanes"
+    slug: "3-johanes"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Revelesen"
+    slug: "revelesen"

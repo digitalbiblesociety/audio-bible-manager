@@ -1,0 +1,89 @@
+language: "spp"
+books:
+  "GEN":
+    name: "Macwo"
+    slug: "macwo"
+  "RUT":
+    name: "Macwo"
+    slug: "macwo"
+  "MAT":
+    name: "Macwo"
+    slug: "macwo"
+  "MRK":
+    name: "Marika"
+    slug: "marika"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuhana"
+    slug: "yuhana"
+  "ACT":
+    name: "Kapyiiŋkii"
+    slug: "kapyiinkii"
+  "ROM":
+    name: "Ɔrɔmu Shiinbii"
+    slug: "rmu-shiinbii"
+  "1CO":
+    name: "1 Kɔrɛnti Shiinbii"
+    slug: "1-krnti-shiinbii"
+  "2CO":
+    name: "2 Kɔrɛnti Shiinbii"
+    slug: "2-krnti-shiinbii"
+  "GAL":
+    name: "Galati Shiinbii"
+    slug: "galati-shiinbii"
+  "EPH":
+    name: "Efese Shiinbii"
+    slug: "efese-shiinbii"
+  "PHP":
+    name: "Filipi Shiinbii"
+    slug: "filipi-shiinbii"
+  "COL":
+    name: "Kɔlɔsi Shiinbii"
+    slug: "klsi-shiinbii"
+  "1TH":
+    name: "1 Tesaloniki Shiinbii"
+    slug: "1-tesaloniki-shiinbii"
+  "2TH":
+    name: "2 Tesaloniki Shiinbii"
+    slug: "2-tesaloniki-shiinbii"
+  "1TI":
+    name: "1 Timɔti"
+    slug: "1-timti"
+  "2TI":
+    name: "2 Timɔti"
+    slug: "2-timti"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Filemɔ"
+    slug: "filem"
+  "HEB":
+    name: "Eburu Shiinbii"
+    slug: "eburu-shiinbii"
+  "JAS":
+    name: "Yakuba"
+    slug: "yakuba"
+  "1PE":
+    name: "1 Piyɛri"
+    slug: "1-piyri"
+  "2PE":
+    name: "2 Piyɛri"
+    slug: "2-piyri"
+  "1JN":
+    name: "1 Yuhana"
+    slug: "1-yuhana"
+  "2JN":
+    name: "2 Yuhana"
+    slug: "2-yuhana"
+  "3JN":
+    name: "3 Yuhana"
+    slug: "3-yuhana"
+  "JUD":
+    name: "Zhude"
+    slug: "zhude"
+  "REV":
+    name: "Kacyeeŋkii"
+    slug: "kacyeenkii"

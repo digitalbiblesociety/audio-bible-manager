@@ -1,0 +1,83 @@
+language: "zao"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Hechos"
+    slug: "hechos"
+  "ROM":
+    name: "Romanos"
+    slug: "romanos"
+  "1CO":
+    name: "1ª de Corintios"
+    slug: "1a-de-corintios"
+  "2CO":
+    name: "2ª de Corintios"
+    slug: "2a-de-corintios"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efesios"
+    slug: "efesios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "COL":
+    name: "Colosenses"
+    slug: "colosenses"
+  "1TH":
+    name: "1ª de Tesalonicenses"
+    slug: "1a-de-tesalonicenses"
+  "2TH":
+    name: "2ª de Tesalonicenses"
+    slug: "2a-de-tesalonicenses"
+  "1TI":
+    name: "1ª de Timoteo"
+    slug: "1a-de-timoteo"
+  "2TI":
+    name: "2ª de Timoteo"
+    slug: "2a-de-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Hebreos"
+    slug: "hebreos"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1ª de Pedro"
+    slug: "1a-de-pedro"
+  "2PE":
+    name: "2ª de Pedro"
+    slug: "2a-de-pedro"
+  "1JN":
+    name: "1ª de Juan"
+    slug: "1a-de-juan"
+  "2JN":
+    name: "2ª de Juan"
+    slug: "2a-de-juan"
+  "3JN":
+    name: "3ª de Juan"
+    slug: "3a-de-juan"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

@@ -1,0 +1,86 @@
+language: "byr"
+books:
+  "GEN":
+    name: "Jenɨzɨzɨ"
+    slug: "jenizizi"
+  "MAT":
+    name: "Matɨyui"
+    slug: "matiyui"
+  "MRK":
+    name: "Maakɨ"
+    slug: "maaki"
+  "LUK":
+    name: "Lukɨ"
+    slug: "luki"
+  "JHN":
+    name: "Jonɨ"
+    slug: "joni"
+  "ACT":
+    name: "Apozelɨyara"
+    slug: "apozeliyara"
+  "ROM":
+    name: "Romɨ"
+    slug: "romi"
+  "1CO":
+    name: "1 Koridɨ"
+    slug: "1-koridi"
+  "2CO":
+    name: "2 Koridɨ"
+    slug: "2-koridi"
+  "GAL":
+    name: "Galezɨya"
+    slug: "galeziya"
+  "EPH":
+    name: "Epazaazɨ"
+    slug: "epazaazi"
+  "PHP":
+    name: "Pilipaai"
+    slug: "pilipaai"
+  "COL":
+    name: "Kolozi"
+    slug: "kolozi"
+  "1TH":
+    name: "1 Tezalonaaika"
+    slug: "1-tezalonaaika"
+  "2TH":
+    name: "2 Tezalonaaika"
+    slug: "2-tezalonaaika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taaitazai"
+    slug: "taaitazai"
+  "PHM":
+    name: "Paailimonɨ"
+    slug: "paailimoni"
+  "HEB":
+    name: "Yɨvɨru"
+    slug: "yiviru"
+  "JAS":
+    name: "Jemɨzai"
+    slug: "jemizai"
+  "1PE":
+    name: "1 Pitai"
+    slug: "1-pitai"
+  "2PE":
+    name: "2 Pitai"
+    slug: "2-pitai"
+  "1JN":
+    name: "1 Jonɨ"
+    slug: "1-joni"
+  "2JN":
+    name: "2 Jonɨ"
+    slug: "2-joni"
+  "3JN":
+    name: "3 Jonɨ"
+    slug: "3-joni"
+  "JUD":
+    name: "Juthɨyai"
+    slug: "juthiyai"
+  "REV":
+    name: "Wɨjalangasakya'"
+    slug: "wijalangasakya"

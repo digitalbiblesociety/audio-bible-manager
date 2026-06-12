@@ -1,0 +1,86 @@
+language: "pon"
+books:
+  "PSA":
+    name: "Pjalm"
+    slug: "pjalm"
+  "MAT":
+    name: "Matäuj"
+    slug: "matauj"
+  "MRK":
+    name: "Markuj"
+    slug: "markuj"
+  "LUK":
+    name: "Lukaj"
+    slug: "lukaj"
+  "JHN":
+    name: "Ioanej"
+    slug: "ioanej"
+  "ACT":
+    name: "Wiawia"
+    slug: "wiawia"
+  "ROM":
+    name: "Men Rom"
+    slug: "men-rom"
+  "1CO":
+    name: "Men Korint I"
+    slug: "men-korint-i"
+  "2CO":
+    name: "Men Korint II"
+    slug: "men-korint-ii"
+  "GAL":
+    name: "Men Kalejia"
+    slug: "men-kalejia"
+  "EPH":
+    name: "Men Epijuj"
+    slug: "men-epijuj"
+  "PHP":
+    name: "Men Pilipi"
+    slug: "men-pilipi"
+  "COL":
+    name: "Men Koloje"
+    slug: "men-koloje"
+  "1TH":
+    name: "Men Tejalonik I"
+    slug: "men-tejalonik-i"
+  "2TH":
+    name: "Men Tejalonik II"
+    slug: "men-tejalonik-ii"
+  "1TI":
+    name: "Timoteuj I"
+    slug: "timoteuj-i"
+  "2TI":
+    name: "Timoteuj II"
+    slug: "timoteuj-ii"
+  "TIT":
+    name: "Tituj"
+    slug: "tituj"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Men Ipru"
+    slug: "men-ipru"
+  "JAS":
+    name: "Iakopuj"
+    slug: "iakopuj"
+  "1PE":
+    name: "Petruj I"
+    slug: "petruj-i"
+  "2PE":
+    name: "Petruj II"
+    slug: "petruj-ii"
+  "1JN":
+    name: "Ioanej I"
+    slug: "ioanej-i"
+  "2JN":
+    name: "Ioanej II"
+    slug: "ioanej-ii"
+  "3JN":
+    name: "Ioanej III"
+    slug: "ioanej-iii"
+  "JUD":
+    name: "Iudaj"
+    slug: "iudaj"
+  "REV":
+    name: "Kaudial"
+    slug: "kaudial"

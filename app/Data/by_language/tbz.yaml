@@ -1,0 +1,200 @@
+language: "tbz"
+books:
+  "GEN":
+    name: "Tenketɛ́"
+    slug: "tenket"
+  "EXO":
+    name: "Mudennimù"
+    slug: "mudennimu"
+  "LEV":
+    name: "Ikuɔ́ Nìùbɛ̀"
+    slug: "iku-niub"
+  "NUM":
+    name: "Mukétímù"
+    slug: "muketimu"
+  "DEU":
+    name: "Ikuɔ́ Kóntímù"
+    slug: "iku-kontimu"
+  "JOS":
+    name: "Sosuwee"
+    slug: "sosuwee"
+  "JDG":
+    name: "Bɛbaatíbɛ̀"
+    slug: "bbaatib"
+  "RUT":
+    name: "Oduti"
+    slug: "oduti"
+  "1SA":
+    name: "1 Sammuyɛɛri"
+    slug: "1-sammuyri"
+  "2SA":
+    name: "2 Sammuyɛɛri"
+    slug: "2-sammuyri"
+  "1KI":
+    name: "1 Bɛkpààtìbɛ̀"
+    slug: "1-bkpaatib"
+  "2KI":
+    name: "2 Bɛkpààtìbɛ̀"
+    slug: "2-bkpaatib"
+  "1CH":
+    name: "1 Bɛkpààtìbɛ̀ Tɔ̃mmú"
+    slug: "1-bkpaatib-tmmu"
+  "2CH":
+    name: "2 Bɛkpààtìbɛ̀ Tɔ̃mmú"
+    slug: "2-bkpaatib-tmmu"
+  "EZR":
+    name: "Ɛsitadasi"
+    slug: "sitadasi"
+  "NEH":
+    name: "Nɛemii"
+    slug: "nemii"
+  "EST":
+    name: "Ɛsitɛɛ"
+    slug: "sit"
+  "JOB":
+    name: "Isɔbu"
+    slug: "isbu"
+  "PSA":
+    name: "Yɛsãã"
+    slug: "ysaa"
+  "PRO":
+    name: "Yɛkotinɔ̀"
+    slug: "ykotin"
+  "ECC":
+    name: "Mɛborimɛ Wéìtì"
+    slug: "mborim-weiti"
+  "SNG":
+    name: "Fɛcanyɛ̀nfɛ̀"
+    slug: "fcanynf"
+  "ISA":
+    name: "Esaii"
+    slug: "esaii"
+  "JER":
+    name: "Sedemii"
+    slug: "sedemii"
+  "LAM":
+    name: "Isáútìi"
+    slug: "isautii"
+  "EZK":
+    name: "Esekiɛri"
+    slug: "esekiri"
+  "DAN":
+    name: "Danniyɛɛri"
+    slug: "danniyri"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Sowɛɛri"
+    slug: "sowri"
+  "AMO":
+    name: "Amɔɔsi"
+    slug: "amsi"
+  "OBA":
+    name: "Abudiasi"
+    slug: "abudiasi"
+  "JON":
+    name: "Sonaasi"
+    slug: "sonaasi"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+  "NAM":
+    name: "Nahummu"
+    slug: "nahummu"
+  "HAB":
+    name: "Abakuku"
+    slug: "abakuku"
+  "ZEP":
+    name: "Sofonii"
+    slug: "sofonii"
+  "HAG":
+    name: "Asee"
+    slug: "asee"
+  "ZEC":
+    name: "Sakarii"
+    slug: "sakarii"
+  "MAL":
+    name: "Madasii"
+    slug: "madasii"
+  "MAT":
+    name: "Mɑtie"
+    slug: "mtie"
+  "MRK":
+    name: "Mɑriki"
+    slug: "mriki"
+  "LUK":
+    name: "Duku"
+    slug: "duku"
+  "JHN":
+    name: "Isɑ̃ɑ̃"
+    slug: "is"
+  "ACT":
+    name: "Yesu Tɔ̃rɛ̀"
+    slug: "yesu-tr"
+  "ROM":
+    name: "Odommu"
+    slug: "odommu"
+  "1CO":
+    name: "1 Kɔdɛnti"
+    slug: "1-kdnti"
+  "2CO":
+    name: "2 Kɔdɛnti"
+    slug: "2-kdnti"
+  "GAL":
+    name: "Kɑdɑsii"
+    slug: "kdsii"
+  "EPH":
+    name: "Efɛɛsi"
+    slug: "efsi"
+  "PHP":
+    name: "Fidipu"
+    slug: "fidipu"
+  "COL":
+    name: "Kɔdɔɔsi"
+    slug: "kdsi"
+  "1TH":
+    name: "1 Tɛsɑdoniki"
+    slug: "1-tsdoniki"
+  "2TH":
+    name: "2 Tɛsɑdoniki"
+    slug: "2-tsdoniki"
+  "1TI":
+    name: "1 Timɔntee"
+    slug: "1-timntee"
+  "2TI":
+    name: "2 Timɔntee"
+    slug: "2-timntee"
+  "TIT":
+    name: "Titi"
+    slug: "titi"
+  "PHM":
+    name: "Fidemɔɔ"
+    slug: "fidem"
+  "HEB":
+    name: "Ebedeebɛ"
+    slug: "ebedeeb"
+  "JAS":
+    name: "Isɑku"
+    slug: "isku"
+  "1PE":
+    name: "1 Piɛri"
+    slug: "1-piri"
+  "2PE":
+    name: "2 Piɛri"
+    slug: "2-piri"
+  "1JN":
+    name: "1 Isɑ̃ɑ̃"
+    slug: "1-is"
+  "2JN":
+    name: "2 Isɑ̃ɑ̃"
+    slug: "2-is"
+  "3JN":
+    name: "3 Isɑ̃ɑ̃"
+    slug: "3-is"
+  "JUD":
+    name: "Sudi"
+    slug: "sudi"
+  "REV":
+    name: "Mudɑ́ɑmmu"
+    slug: "mudmmu"

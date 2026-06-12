@@ -1,0 +1,314 @@
+language: "mwm"
+books:
+  "GEN":
+    name: "Ta Kəla"
+    slug: "ta-kela"
+    name_toc: "Ta Kəla gír yá̰a̰ gə̄"
+  "EXO":
+    name: "Teē"
+    slug: "tee"
+    name_toc: "Teē Ngán Israel gə̄"
+  "LEV":
+    name: "Lebi Gə̄"
+    slug: "lebi-ge"
+    name_toc: "Ndū najə̄ yā Ngán Lebi gə̄"
+  "NUM":
+    name: "Tə́da"
+    slug: "teda"
+    name_toc: "Tə́da kutə Ngán Israel gə̄"
+  "DEU":
+    name: "Ndū Najə̄"
+    slug: "ndu-naje"
+    name_toc: "Ndū Najə̄ kə́ nge ko̰ jōó"
+  "JOS":
+    name: "Jojue"
+    slug: "jojue"
+    name_toc: "Makətūbə̄ yā Jojue"
+  "JDG":
+    name: "Ngé Sarya"
+    slug: "nge-sarya"
+    name_toc: "Makətūbə̄ yā Ngé Sarya gə̄"
+  "RUT":
+    name: "Rutə"
+    slug: "rute"
+    name_toc: "Makətūbə̄ yā Rutə"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ yā Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó yā Samuel"
+  "1KI":
+    name: "1 Mban̄g Gə̄"
+    slug: "1-mbang-ge"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ yā Mban̄g gə̄"
+  "2KI":
+    name: "2 Mban̄g"
+    slug: "2-mbang"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó yā Mban̄g gə̄"
+  "1CH":
+    name: "1 Yá̰a̰ Gə̄"
+    slug: "1-yaa-ge"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ kə́ dɔ Yá̰a̰ gə̄ ń rāān̄ yá̰á̰ tə́ ní"
+  "2CH":
+    name: "2 Yá̰a̰ Gə̄"
+    slug: "2-yaa-ge"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó kə́ dɔ Yá̰a̰ gə̄ ń rāān̄ yá̰á̰ tə́ ní"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Makətūbə̄ yā Esdras"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+    name_toc: "Makətūbə̄ yā Nehemi"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Makətūbə̄ yā Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Makətūbə̄ yā Job"
+  "PSA":
+    name: "Pā Gə̄"
+    slug: "pa-ge"
+    name_toc: "Makətūbə̄ Pā gə̄ kə́ yā tɔ̄yń Nə́ɓā"
+  "PRO":
+    name: "Gōsə̄"
+    slug: "gose"
+    name_toc: "Gōsə̄ najə̄ gə̄"
+  "ECC":
+    name: "Kohelet"
+    slug: "kohelet"
+    name_toc: "Makətūbə̄ yā Kohelet"
+  "SNG":
+    name: "Pā Kə́ Majə"
+    slug: "pa-ke-maje"
+    name_toc: "Pā kə́ majə tɔȳ pā gə̄"
+  "ISA":
+    name: "Ijai"
+    slug: "ijai"
+    name_toc: "Makətūbə̄ yā Ijai"
+  "JER":
+    name: "Jeremi"
+    slug: "jeremi"
+    name_toc: "Makətūbə̄ yā Jeremi"
+  "LAM":
+    name: "Nōō Rɔ̄"
+    slug: "noo-r"
+    name_toc: "Makətūbə̄ Nōō rɔ̄"
+  "EZK":
+    name: "Ejekiel"
+    slug: "ejekiel"
+    name_toc: "Makətūbə̄ yā Ejekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Makətūbə̄ yā Daniel"
+  "HOS":
+    name: "Ojee"
+    slug: "ojee"
+    name_toc: "Makətūbə̄ yā Ojee"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Makətūbə̄ yā Joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Makətūbə̄ yā Amos"
+  "OBA":
+    name: "Abədias"
+    slug: "abedias"
+    name_toc: "Makətūbə̄ yā Abədias"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+    name_toc: "Makətūbə̄ yā Jonas"
+  "MIC":
+    name: "Mise"
+    slug: "mise"
+    name_toc: "Makətūbə̄ yā Mise"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Makətūbə̄ yā Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Makətūbə̄ yā Habakuk"
+  "ZEP":
+    name: "Soponi"
+    slug: "soponi"
+    name_toc: "Makətūbə̄ yā Soponi"
+  "HAG":
+    name: "Aje"
+    slug: "aje"
+    name_toc: "Makətūbə̄ yā Aje"
+  "ZEC":
+    name: "Jakari"
+    slug: "jakari"
+    name_toc: "Makətūbə̄ yā Jakari"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+    name_toc: "Makətūbə̄ yā Malasi"
+  "TOB":
+    name: "Tobi"
+    slug: "tobi"
+    name_toc: "Tobi"
+  "JDT":
+    name: "Juditə"
+    slug: "judite"
+    name_toc: "Juditə"
+  "ESG":
+    name: "Ester Kə Ta Gərek"
+    slug: "ester-ke-ta-gerek"
+    name_toc: "Ester kə ta Gərek"
+  "WIS":
+    name: "Kum Kedə̄"
+    slug: "kum-kede"
+    name_toc: "Kum kedə̄"
+  "SIR":
+    name: "Jeju Kə́ Ngōn̄ Sirak"
+    slug: "jeju-ke-ngon-sirak"
+    name_toc: "Jeju kə́ ngōn̄ Sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Baruk"
+  "LJE":
+    name: "Makətūbə̄ Yā Jeremi"
+    slug: "maketube-ya-jeremi"
+    name_toc: "Makətūbə̄ yā Jeremi"
+  "S3Y":
+    name: "Pā Yā Balsáá Kə́ Mətá Gə̄"
+    slug: "pa-ya-balsaa-ke-meta-ge"
+    name_toc: "Pā yā balsáá kə́ mətá gə̄"
+  "SUS":
+    name: "Sujan"
+    slug: "sujan"
+    name_toc: "Sujan"
+  "BEL":
+    name: "Ɓesə̄ Bel"
+    slug: "ese-bel"
+    name_toc: "Ɓesə̄ Bel"
+  "1MA":
+    name: "1 Makabe Gə̄"
+    slug: "1-makabe-ge"
+    name_toc: "1 Makabe gə̄"
+  "2MA":
+    name: "2 Makabe Gə̄"
+    slug: "2-makabe-ge"
+    name_toc: "2 Makabe gə̄"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+    name_toc: "Najə̄ kə́ Majə yā Jeju ń Matiye ndang ní"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "Najə̄ kə́ Majə yā Jeju ń Mark ndang ní"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Najə̄ kə́ Majə yā Jeju ń Luk ndang ní"
+  "JHN":
+    name: "Ja̰a̰"
+    slug: "jaa"
+    name_toc: "Najə̄ kə́ Majə yā Jeju ń Ja̰a̰ ndang ní"
+  "ACT":
+    name: "Kəla Rāā"
+    slug: "kela-raa"
+    name_toc: "Kəla rāā Ngámbang kəla gə̄"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Rom gə̄ ní"
+  "1CO":
+    name: "1 Korḛntə"
+    slug: "1-korente"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ ń Pol ndang adə̄ Korḛntə gə̄ ní"
+  "2CO":
+    name: "2 Korḛntə"
+    slug: "2-korente"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó ń Pol ndang adə̄ Korḛntə gə̄ ní"
+  "GAL":
+    name: "Galatə"
+    slug: "galate"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Galatə gə̄ ní"
+  "EPH":
+    name: "Epejə"
+    slug: "epeje"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Epejə gə̄ ní"
+  "PHP":
+    name: "Pilipə"
+    slug: "pilipe"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Pilipə gə̄ ní"
+  "COL":
+    name: "Kolosə"
+    slug: "kolose"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Kolosə gə̄ ní"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ ń Pol ndang adə̄ Tesalonik gə̄ ní"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó ń Pol ndang adə̄ Tesalonik gə̄ ní"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ ń Pol ndang adə̄ Timote ní"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó ń Pol ndang adə̄ Timote ní"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Titə ní"
+  "PHM":
+    name: "Pilemo̰"
+    slug: "pilemo"
+    name_toc: "Makətūbə̄ ń Pol ndang adə̄ Pilemo̰ ní"
+  "HEB":
+    name: "Hebəro"
+    slug: "hebero"
+    name_toc: "Makətūbə̄ kə́ ndang adə̄n̄ Hebəro gə̄"
+  "JAS":
+    name: "Jakə"
+    slug: "jake"
+    name_toc: "Makətūbə̄ ń Jakə ndang ní"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ ń Piyer ndang ní"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó ń Piyer ndang ní"
+  "1JN":
+    name: "1 Ja̰a̰"
+    slug: "1-jaa"
+    name_toc: "Makətūbə̄ kə́ ta kəga dɔ ń Ja̰a̰ ndang ní"
+  "2JN":
+    name: "2 Ja̰a̰"
+    slug: "2-jaa"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ jōó ń Ja̰a̰ ndang ní"
+  "3JN":
+    name: "3 Ja̰a̰"
+    slug: "3-jaa"
+    name_toc: "Makətūbə̄ kə́ nge ko̰ mətá ń Ja̰a̰ ndang ní"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Makətūbə̄ ń Jud ndang ní"
+  "REV":
+    name: "Jeju Teē Kum Ja̰a̰"
+    slug: "jeju-tee-kum-jaa"
+    name_toc: "Makətūbə̄ Yá̰a̰ gə̄ kə́ Jeju teē kum Ja̰a̰ dɔ tə́"

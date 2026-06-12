@@ -1,0 +1,11 @@
+language: "awx"
+books:
+  "GEN":
+    name: "Yakap"
+    slug: "yakap"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Jona"
+    slug: "jona"

@@ -1,0 +1,11 @@
+language: "kbd"
+books:
+  "RUT":
+    name: "Руфэ"
+    slug: "rufe"
+  "JON":
+    name: "Инус"
+    slug: "inus"
+  "LUK":
+    name: "Лукас"
+    slug: "lukas"

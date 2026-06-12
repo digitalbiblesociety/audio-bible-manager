@@ -1,0 +1,86 @@
+language: "plu"
+books:
+  "PSA":
+    name: "Sawmus"
+    slug: "sawmus"
+  "MAT":
+    name: "Matews"
+    slug: "matews"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lúkas"
+    slug: "lukas"
+  "JHN":
+    name: "João"
+    slug: "joao"
+  "ACT":
+    name: "Átus"
+    slug: "atus"
+  "ROM":
+    name: "Romanus"
+    slug: "romanus"
+  "1CO":
+    name: "1 Koríntyus"
+    slug: "1-korintyus"
+  "2CO":
+    name: "2 Koríntyus"
+    slug: "2-korintyus"
+  "GAL":
+    name: "Gálatas"
+    slug: "galatas"
+  "EPH":
+    name: "Efésyus"
+    slug: "efesyus"
+  "PHP":
+    name: "Filipénses"
+    slug: "filipenses"
+  "COL":
+    name: "Kolosénses"
+    slug: "kolosenses"
+  "1TH":
+    name: "1 Tessalonisenses"
+    slug: "1-tessalonisenses"
+  "2TH":
+    name: "2 Tessalonisenses"
+    slug: "2-tessalonisenses"
+  "1TI":
+    name: "1 Timótyu"
+    slug: "1-timotyu"
+  "2TI":
+    name: "2 Timótyu"
+    slug: "2-timotyu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Filemoh"
+    slug: "filemoh"
+  "HEB":
+    name: "Ebréws"
+    slug: "ebrews"
+  "JAS":
+    name: "Tiyagu"
+    slug: "tiyagu"
+  "1PE":
+    name: "1 Pedru"
+    slug: "1-pedru"
+  "2PE":
+    name: "2 Pedru"
+    slug: "2-pedru"
+  "1JN":
+    name: "1 João"
+    slug: "1-joao"
+  "2JN":
+    name: "2 João"
+    slug: "2-joao"
+  "3JN":
+    name: "3 João"
+    slug: "3-joao"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apokalípsi"
+    slug: "apokalipsi"

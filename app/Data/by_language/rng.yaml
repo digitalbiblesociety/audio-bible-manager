@@ -1,0 +1,110 @@
+language: "rng"
+books:
+  "MAT":
+    name: "Mt"
+    slug: "mt"
+    name_toc: "Mbeti ti Sigingo ti azo ti Israel (Exode)"
+  "MRK":
+    name: "Mrk"
+    slug: "mrk"
+    name_toc: "Mbeti ti Akua ti awayango-sandaga (Lévitique)"
+  "LUK":
+    name: "Lk"
+    slug: "lk"
+    name_toc: "Mbeti ti Dikongo wungo ti azo (Nombres)"
+  "JHN":
+    name: "Yhn"
+    slug: "yhn"
+    name_toc: "Mbeti ti Ndia ti fani use ni (Deutéronome)"
+  "ACT":
+    name: "Mnt"
+    slug: "mnt"
+    name_toc: "Mbeti ti Josué"
+  "ROM":
+    name: "Rm"
+    slug: "rm"
+    name_toc: "Mbeti ti Awafango-ngbanga (Juges)"
+  "1CO":
+    name: "I Kor"
+    slug: "i-kor"
+    name_toc: "Mbeti ti Ruth"
+  "2CO":
+    name: "II Kor"
+    slug: "ii-kor"
+    name_toc: "Kozo Mbeti ti Samuel"
+  "GAL":
+    name: "Gl"
+    slug: "gl"
+    name_toc: "Use Mbeti ti Samuel"
+  "EPH":
+    name: "Ef"
+    slug: "ef"
+    name_toc: "Kozo Mbeti ti Agbia"
+  "PHP":
+    name: "Flp"
+    slug: "flp"
+    name_toc: "Use Mbeti ti Agbia"
+  "COL":
+    name: "Kls"
+    slug: "kls"
+    name_toc: "Kozo Mbeti ti Mbai ti azo ti Israel (1 Chroniques)"
+  "1TH":
+    name: "I Tsl"
+    slug: "i-tsl"
+    name_toc: "Use Mbeti ti Mbai ti azo ti Israel (2 Chroniques)"
+  "2TH":
+    name: "II Tsl"
+    slug: "ii-tsl"
+    name_toc: "Mbeti ti Esdras"
+  "1TI":
+    name: "I Tmt"
+    slug: "i-tmt"
+    name_toc: "Mbeti ti Néhémie"
+  "2TI":
+    name: "II Tmt"
+    slug: "ii-tmt"
+    name_toc: "Mbeti ti Esther"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Mbeti ti Job"
+  "PHM":
+    name: "Flm"
+    slug: "flm"
+    name_toc: "Mbeti ti Abia (Psaumes)"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+    name_toc: "Mbeti ti Amato (Proverbes)"
+  "JAS":
+    name: "Ykb"
+    slug: "ykb"
+    name_toc: "Mbeti ti Zo ti bongbingo azo (Ecclésiaste)"
+  "1PE":
+    name: "I Ptr"
+    slug: "i-ptr"
+    name_toc: "Mbeti ti Bia so ahon abia kue (Cantique des Cantiques)"
+  "2PE":
+    name: "II Ptr"
+    slug: "ii-ptr"
+    name_toc: "Mbeti ti Ésaïe"
+  "1JN":
+    name: "I Yhn"
+    slug: "i-yhn"
+    name_toc: "Mbeti ti Jérémie"
+  "2JN":
+    name: "II Yhn"
+    slug: "ii-yhn"
+    name_toc: "Mbeti ti Abia ti demango tere"
+  "3JN":
+    name: "III Yhn"
+    slug: "iii-yhn"
+    name_toc: "Mbeti ti Ezekiel"
+  "JUD":
+    name: "Yd"
+    slug: "yd"
+    name_toc: "Mbeti ti Daniel"
+  "REV":
+    name: "Mpf"
+    slug: "mpf"
+    name_toc: "Mbeti ti Osée"

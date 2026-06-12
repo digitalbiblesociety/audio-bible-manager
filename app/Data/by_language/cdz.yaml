@@ -1,0 +1,32 @@
+language: "cdz"
+books:
+  "MRK":
+    name: "মার্ক"
+    slug: "marka"
+  "LUK":
+    name: "লুক"
+    slug: "luka"
+  "ACT":
+    name: "কুলিজকুরাআ কামি"
+    slug: "kulijakuraa-kami"
+  "1CO":
+    name: "1 করিন্থীয়"
+    slug: "1-karinthiya"
+  "GAL":
+    name: "গালাতীয়"
+    slug: "galatiya"
+  "1TH":
+    name: "1 থিষলনীকীয়"
+    slug: "1-thisalanikiya"
+  "2TH":
+    name: "2 থিষলনীকীয়"
+    slug: "2-thisalanikiya"
+  "1TI":
+    name: "1 তীমথিয়"
+    slug: "1-timathiya"
+  "2TI":
+    name: "2তীমথিয়"
+    slug: "2timathiya"
+  "TIT":
+    name: "তীত।"
+    slug: "tita"

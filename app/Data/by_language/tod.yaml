@@ -1,0 +1,200 @@
+language: "tod"
+books:
+  "GEN":
+    name: "Zenɛze"
+    slug: "zenze"
+  "EXO":
+    name: "Ɛgezɔde"
+    slug: "gezde"
+  "LEV":
+    name: "Leevi"
+    slug: "leevi"
+  "NUM":
+    name: "Gaalu Sɛʋɛi"
+    slug: "gaalu-si"
+  "DEU":
+    name: "Tɔ Sɛʋɛi Velesiɛi"
+    slug: "t-si-velesii"
+  "JOS":
+    name: "Zozuwe"
+    slug: "zozuwe"
+  "JDG":
+    name: "Tukpɔɠaaleʋe Nuiti"
+    slug: "tukpaalee-nuiti"
+  "RUT":
+    name: "Lute"
+    slug: "lute"
+  "1SA":
+    name: "1 Samiyɛle"
+    slug: "1-samiyle"
+  "2SA":
+    name: "2 Samiyɛle"
+    slug: "2-samiyle"
+  "1KI":
+    name: "1 Masagiti"
+    slug: "1-masagiti"
+  "2KI":
+    name: "2 Masagiti"
+    slug: "2-masagiti"
+  "1CH":
+    name: "1 Dɔlɔ Sɛʋɛi"
+    slug: "1-dl-si"
+  "2CH":
+    name: "2 Dɔlɔ Sɛʋɛi"
+    slug: "2-dl-si"
+  "EZR":
+    name: "Ɛsedalase"
+    slug: "sedalase"
+  "NEH":
+    name: "Neɠemi"
+    slug: "neemi"
+  "EST":
+    name: "Ɛsetɛɛl"
+    slug: "setl"
+  "JOB":
+    name: "Zɔɓe"
+    slug: "ze"
+  "PSA":
+    name: "Guyeiti"
+    slug: "guyeiti"
+  "PRO":
+    name: "Tɛnɛ Faalaaliiti"
+    slug: "tn-faalaaliiti"
+  "ECC":
+    name: "Tɛnɛbo Nui"
+    slug: "tnbo-nui"
+  "SNG":
+    name: "Guyei Pagai Guyei Pɛ Ba"
+    slug: "guyei-pagai-guyei-p-ba"
+  "ISA":
+    name: "Ezayi"
+    slug: "ezayi"
+  "JER":
+    name: "Zelemi"
+    slug: "zelemi"
+  "LAM":
+    name: "Gɔlɔ Wooiti"
+    slug: "gl-wooiti"
+  "EZK":
+    name: "Ezekiyɛle"
+    slug: "ezekiyle"
+  "DAN":
+    name: "Daniyɛle"
+    slug: "daniyle"
+  "HOS":
+    name: "Wozé"
+    slug: "woze"
+  "JOL":
+    name: "Zowɛle"
+    slug: "zowle"
+  "AMO":
+    name: "Amɔse"
+    slug: "amse"
+  "OBA":
+    name: "Aɓediyase"
+    slug: "aediyase"
+  "JON":
+    name: "Zonase"
+    slug: "zonase"
+  "MIC":
+    name: "Misee"
+    slug: "misee"
+  "NAM":
+    name: "Naɠuume"
+    slug: "nauume"
+  "HAB":
+    name: "Aɓakuke"
+    slug: "aakuke"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Azee"
+    slug: "azee"
+  "ZEC":
+    name: "Zakali"
+    slug: "zakali"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+  "MAT":
+    name: "Matiyo"
+    slug: "matiyo"
+  "MRK":
+    name: "Maleke"
+    slug: "maleke"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Zan"
+    slug: "zan"
+  "ACT":
+    name: "Kɛɛwotiiti"
+    slug: "kwotiiti"
+  "ROM":
+    name: "Wɔlɔme"
+    slug: "wlme"
+  "1CO":
+    name: "1 Kolɛnte"
+    slug: "1-kolnte"
+  "2CO":
+    name: "2 Kolɛnte"
+    slug: "2-kolnte"
+  "GAL":
+    name: "Galate"
+    slug: "galate"
+  "EPH":
+    name: "Efɛze"
+    slug: "efze"
+  "PHP":
+    name: "Filipe"
+    slug: "filipe"
+  "COL":
+    name: "Kolɔse"
+    slug: "kolse"
+  "1TH":
+    name: "1 Tesalonike"
+    slug: "1-tesalonike"
+  "2TH":
+    name: "2 Tesalonike"
+    slug: "2-tesalonike"
+  "1TI":
+    name: "1 Timɔte"
+    slug: "1-timte"
+  "2TI":
+    name: "2 Timɔte"
+    slug: "2-timte"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Eɓulu"
+    slug: "eulu"
+  "JAS":
+    name: "Zake"
+    slug: "zake"
+  "1PE":
+    name: "1 Piyɛlɛ"
+    slug: "1-piyl"
+  "2PE":
+    name: "2 Piyɛlɛ"
+    slug: "2-piyl"
+  "1JN":
+    name: "1 Zan"
+    slug: "1-zan"
+  "2JN":
+    name: "2 Zan"
+    slug: "2-zan"
+  "3JN":
+    name: "3 Zan"
+    slug: "3-zan"
+  "JUD":
+    name: "Zude"
+    slug: "zude"
+  "REV":
+    name: "Kulakɛlɛmai"
+    slug: "kulaklmai"

@@ -1,0 +1,83 @@
+language: "kyu"
+books:
+  "MAT":
+    name: "Matteo"
+    slug: "matteo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Giovanni"
+    slug: "giovanni"
+  "ACT":
+    name: "Prè̤dônyǎphú Tahe"
+    slug: "predonyaphu-tahe"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Corinthia Aré̤lố Tôba"
+    slug: "corinthia-arelo-toba"
+  "2CO":
+    name: "Corinthia Nyě̤ba Tôba"
+    slug: "corinthia-nyeba-toba"
+  "GAL":
+    name: "Galasia"
+    slug: "galasia"
+  "EPH":
+    name: "Epheso"
+    slug: "epheso"
+  "PHP":
+    name: "Philippi"
+    slug: "philippi"
+  "COL":
+    name: "Colossae"
+    slug: "colossae"
+  "1TH":
+    name: "Thessalonia Aré̤lố Tôba"
+    slug: "thessalonia-arelo-toba"
+  "2TH":
+    name: "Thessalonia Nyě̤ba Tôba"
+    slug: "thessalonia-nyeba-toba"
+  "1TI":
+    name: "Timothy Aré̤lố Tôba"
+    slug: "timothy-arelo-toba"
+  "2TI":
+    name: "Timothy Nyě̤ba Tôba"
+    slug: "timothy-nyeba-toba"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Philomena"
+    slug: "philomena"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Jakomo"
+    slug: "jakomo"
+  "1PE":
+    name: "Petru Aré̤lố Tôba"
+    slug: "petru-arelo-toba"
+  "2PE":
+    name: "Petru Nyě̤ba Tôba"
+    slug: "petru-nyeba-toba"
+  "1JN":
+    name: "Giovanni Aré̤lố Tôba"
+    slug: "giovanni-arelo-toba"
+  "2JN":
+    name: "Giovanni Nyě̤ba Tôba"
+    slug: "giovanni-nyeba-toba"
+  "3JN":
+    name: "Giovanni Thuô̌ba Tôba"
+    slug: "giovanni-thuoba-toba"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Tè̤dyéluô̌htya"
+    slug: "tedyeluohtya"

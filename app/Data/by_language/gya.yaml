@@ -1,0 +1,236 @@
+language: "gya"
+books:
+  "GEN":
+    name: "Ku̧u̧naŋmɔ"
+    slug: "kuunam"
+  "EXO":
+    name: "Gboa-a"
+    slug: "gboa-a"
+  "LEV":
+    name: "Levitik"
+    slug: "levitik"
+  "NUM":
+    name: "Tɔra-bíí"
+    slug: "tra-bii"
+  "DEU":
+    name: "Wee-ɗoŋ-heembea"
+    slug: "wee-o-heembea"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+  "JDG":
+    name: "O Wi-gɔn-kita"
+    slug: "o-wi-gn-kita"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samuɛl"
+    slug: "1-samul"
+  "2SA":
+    name: "2 Samuɛl"
+    slug: "2-samul"
+  "1KI":
+    name: "1 Wannu"
+    slug: "1-wannu"
+  "2KI":
+    name: "2 Wannu"
+    slug: "2-wannu"
+  "1CH":
+    name: "1 Kalata Nyɛrɛ"
+    slug: "1-kalata-nyr"
+  "2CH":
+    name: "2 Kalata Nyɛrɛ"
+    slug: "2-kalata-nyr"
+  "EZR":
+    name: "Ɛsdras"
+    slug: "sdras"
+  "NEH":
+    name: "Nehemii"
+    slug: "nehemii"
+  "EST":
+    name: "Ɛstɛr"
+    slug: "str"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Gima"
+    slug: "gima"
+  "PRO":
+    name: "O Tua-wen"
+    slug: "o-tua-wen"
+  "ECC":
+    name: "Ekleziastɛ"
+    slug: "ekleziast"
+  "SNG":
+    name: "Gima Ko Salomɔŋ"
+    slug: "gima-ko-salom"
+  "ISA":
+    name: "Esaii"
+    slug: "esaii"
+  "JER":
+    name: "Jeremii"
+    slug: "jeremii"
+  "LAM":
+    name: "O Aia-nú"
+    slug: "o-aia-nu"
+  "EZK":
+    name: "Ezekiɛl"
+    slug: "ezekil"
+  "DAN":
+    name: "Daniɛl"
+    slug: "danil"
+  "HOS":
+    name: "Osee"
+    slug: "osee"
+  "JOL":
+    name: "Jɔɛl"
+    slug: "jl"
+  "AMO":
+    name: "Amɔs"
+    slug: "ams"
+  "OBA":
+    name: "Abdias"
+    slug: "abdias"
+  "JON":
+    name: "Jɔnas"
+    slug: "jnas"
+  "MIC":
+    name: "Michee"
+    slug: "michee"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Sofonii"
+    slug: "sofonii"
+  "HAG":
+    name: "Agee"
+    slug: "agee"
+  "ZEC":
+    name: "Zakarii"
+    slug: "zakarii"
+  "MAL":
+    name: "Malachii"
+    slug: "malachii"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Judith"
+    slug: "judith"
+  "ESG":
+    name: "ƐSTƐR gr"
+    slug: "str-gr"
+  "WIS":
+    name: "Ɗuka-taamɔ"
+    slug: "uka-taam"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "LJE":
+    name: "Be Kalata ko Jeremii"
+    slug: "be-kalata-ko-jeremii"
+  "S3Y":
+    name: "Daniɛl (Grɛk)"
+    slug: "danil-grk"
+  "SUS":
+    name: "Suzan"
+    slug: "suzan"
+  "BEL":
+    name: "Bɛl"
+    slug: "bl"
+  "1MA":
+    name: "1 Makabee"
+    slug: "1-makabee"
+  "2MA":
+    name: "2 Makabee"
+    slug: "2-makabee"
+  "MAT":
+    name: "Matthieu"
+    slug: "matthieu"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Jean"
+    slug: "jean"
+  "ACT":
+    name: "Tom"
+    slug: "tom"
+  "ROM":
+    name: "Rɔmɛn"
+    slug: "rmn"
+  "1CO":
+    name: "1 Kɔrintiɛn"
+    slug: "1-krintin"
+  "2CO":
+    name: "2 Kɔrintiɛn"
+    slug: "2-krintin"
+  "GAL":
+    name: "Galatii"
+    slug: "galatii"
+  "EPH":
+    name: "Efɛziɛn"
+    slug: "efzin"
+  "PHP":
+    name: "Filipiɛn"
+    slug: "filipin"
+  "COL":
+    name: "Kolosiɛn"
+    slug: "kolosin"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Titɛ"
+    slug: "tit"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filem"
+  "HEB":
+    name: "Hebreu"
+    slug: "hebreu"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Pierre"
+    slug: "1-pierre"
+  "2PE":
+    name: "2 Pierre"
+    slug: "2-pierre"
+  "1JN":
+    name: "1 Jean"
+    slug: "1-jean"
+  "2JN":
+    name: "2 Jean"
+    slug: "2-jean"
+  "3JN":
+    name: "3 Jean"
+    slug: "3-jean"
+  "JUD":
+    name: "Judɛ"
+    slug: "jud"
+  "REV":
+    name: "Tɔ̧ɔ̧ Hu̧sa̧mɔ"
+    slug: "t-husam"

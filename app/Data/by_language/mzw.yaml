@@ -1,0 +1,266 @@
+language: "mzw"
+books:
+  "GEN":
+    name: "Mumpar"
+    slug: "mumpar"
+    name_toc: "Komɛlbwa Mumpar Tɔn"
+  "EXO":
+    name: "Kaala"
+    slug: "kaala"
+    name_toc: "Israel Tena Ira Dɛ Kaa Tɔn"
+  "LEV":
+    name: "Lewi Dea Tena"
+    slug: "lewi-dea-tena"
+    name_toc: "Lewi Dea Tena Toma Tɔn"
+  "NUM":
+    name: "Nɛra Kura"
+    slug: "nra-kura"
+    name_toc: "Nɛra Kura Tɔn"
+  "DEU":
+    name: "Mmarare"
+    slug: "mmarare"
+    name_toc: "Korowii Mmarare Tɛɛ Nɛɛtena Tɔn"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+    name_toc: "Josua Tɔn"
+  "JDG":
+    name: "Sitɔɔla"
+    slug: "sitla"
+    name_toc: "Israel Harɛ Sitɔɔla Tɔn"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut Tɔn"
+  "1SA":
+    name: "1 Samoɛl"
+    slug: "1-samol"
+    name_toc: "Samoɛl Tɔn Loɡle"
+  "2SA":
+    name: "2 Samoɛl"
+    slug: "2-samol"
+    name_toc: "Samoɛl Tɔn Nɛɛte"
+  "1KI":
+    name: "1 Koranar"
+    slug: "1-koranar"
+    name_toc: "Koranar Tɔn Loɡle"
+  "2KI":
+    name: "2 Koranar"
+    slug: "2-koranar"
+    name_toc: "Koranar Tɔn Nɛɛte"
+  "1CH":
+    name: "1 Webena"
+    slug: "1-webena"
+    name_toc: "Webena Baa Chwera Bil Tɔn Loɡle"
+  "2CH":
+    name: "2 Webena"
+    slug: "2-webena"
+    name_toc: "Webena Baa Chwera Bil Tɔn Nɛɛte"
+  "EZR":
+    name: "Ɛsra"
+    slug: "sra"
+    name_toc: "Ɛsra Tɔn"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Nehemia Tɔn"
+  "EST":
+    name: "Ɛsta"
+    slug: "sta"
+    name_toc: "Ɛsta Tɔn"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job Tɔn"
+  "PSA":
+    name: "Yela"
+    slug: "yela"
+    name_toc: "Yela Tɔn"
+  "PRO":
+    name: "Sɛɡla"
+    slug: "sla"
+    name_toc: "Sɛɡla Tɔn"
+  "ECC":
+    name: "Wejereme"
+    slug: "wejereme"
+    name_toc: "Wejereme Tɔn"
+  "SNG":
+    name: "Yelsom"
+    slug: "yelsom"
+    name_toc: "Yela Bini Yelsom Tɔn"
+  "ISA":
+    name: "Aesaya"
+    slug: "aesaya"
+    name_toc: "Aesaya Tɔn"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+    name_toc: "Jeremia Tɔn"
+  "LAM":
+    name: "Wiile"
+    slug: "wiile"
+    name_toc: "Wiile Taara Tɔn"
+  "EZK":
+    name: "Ɛsekeɛl"
+    slug: "sekel"
+    name_toc: "Ɛsekeɛl Tɔn"
+  "DAN":
+    name: "Daneɛl"
+    slug: "danel"
+    name_toc: "Daneɛl Tɔn"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+    name_toc: "Hosia Tɔn"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Joel Tɔn"
+  "AMO":
+    name: "Emɔs"
+    slug: "ems"
+    name_toc: "Emɔs Tɔn"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Obadia Tɔn"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Jona Tɔn"
+  "MIC":
+    name: "Maeka"
+    slug: "maeka"
+    name_toc: "Maeka Tɔn"
+  "NAM":
+    name: "Neehum"
+    slug: "neehum"
+    name_toc: "Neehum Tɔn"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk Tɔn"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+    name_toc: "Sefania Tɔn"
+  "HAG":
+    name: "Haɡae"
+    slug: "haae"
+    name_toc: "Haɡae Tɔn"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Sekaria Tɔn"
+  "MAL":
+    name: "Malakae"
+    slug: "malakae"
+    name_toc: "Malakae Tɔn"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Amanesoma Matiu Aa Chwera Tɔn"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Amanesoma Mak Aa Chwera Tɔn"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Amanesoma Luk Aa Chwera Tɔn"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+    name_toc: "Amanesoma Jɔn Aa Chwera Tɔn"
+  "ACT":
+    name: "We-ɛɛla"
+    slug: "we-la"
+    name_toc: "Yeesu Toroma We-ɛɛla Tɔn"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Rom Tena"
+  "1CO":
+    name: "1 Kɔrent"
+    slug: "1-krent"
+    name_toc: "Tɔn Loɡle Pɔɔl Aa Chwerɛ Kɔrent Tena"
+  "2CO":
+    name: "2 Kɔrent"
+    slug: "2-krent"
+    name_toc: "Tɔn Nɛɛte Pɔɔl Aa Chwerɛ Kɔrent Tena"
+  "GAL":
+    name: "Galaasia"
+    slug: "galaasia"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Galaasia Tena"
+  "EPH":
+    name: "Ɛfesos"
+    slug: "fesos"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Ɛfesos Tena"
+  "PHP":
+    name: "Felepae"
+    slug: "felepae"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Felepae Tena"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Kolosi Tena"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Tɔn Loɡle Pɔɔl Aa Chwerɛ Tesalonika Tena"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Tɔn Nɛɛte Pɔɔl Aa Chwerɛ Tesalonika Tena"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Tɔn Loɡle Pɔɔl Aa Chwerɛ Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Tɔn Nɛɛte Pɔɔl Aa Chwerɛ Timoti"
+  "TIT":
+    name: "Taetos"
+    slug: "taetos"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Taetos"
+  "PHM":
+    name: "Faelemɔn"
+    slug: "faelemn"
+    name_toc: "Tɔn Pɔɔl Aa Chwerɛ Faelemɔn"
+  "HEB":
+    name: "Hibru"
+    slug: "hibru"
+    name_toc: "Hibru Tena Tɔn"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+    name_toc: "Tɔn Jems Aa Chwera"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Tɔn Loɡle Pita Aa Chwera"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Tɔn Nɛɛte Pita Aa Chwera"
+  "1JN":
+    name: "1 Jɔn"
+    slug: "1-jn"
+    name_toc: "Tɔn Loɡle Jɔn Aa Chwera"
+  "2JN":
+    name: "2 Jɔn"
+    slug: "2-jn"
+    name_toc: "Tɔn Nɛɛte Jɔn Aa Chwera"
+  "3JN":
+    name: "3 Jɔn"
+    slug: "3-jn"
+    name_toc: "Tɔn Toorote Jɔn Aa Chwera"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Tɔn Jud Aa Chwera"
+  "REV":
+    name: "Wepila"
+    slug: "wepila"
+    name_toc: "Wepila Tɔn"

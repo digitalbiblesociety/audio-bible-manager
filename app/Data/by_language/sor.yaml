@@ -1,0 +1,17 @@
+language: "sor"
+books:
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MRK":
+    name: "Markə"
+    slug: "marke"
+  "EPH":
+    name: "Epes"
+    slug: "epes"
+  "JAS":
+    name: "Jak"
+    slug: "jak"

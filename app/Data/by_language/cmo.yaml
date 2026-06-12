@@ -1,0 +1,92 @@
+language: "cmo"
+books:
+  "GEN":
+    name: "Nau Ntơm"
+    slug: "nau-ntom"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "JON":
+    name: "Yônais"
+    slug: "yonais"
+  "MAT":
+    name: "មាថាយ"
+    slug: "meathay"
+  "MRK":
+    name: "មារកោស"
+    slug: "mearkaos"
+  "LUK":
+    name: "លូកា"
+    slug: "luka"
+  "JHN":
+    name: "យោហាន"
+    slug: "yohan"
+  "ACT":
+    name: "កោរាញ​អ៝ស​ម៝ន"
+    slug: "kaoreanhasmon"
+  "ROM":
+    name: "រោម"
+    slug: "rom"
+  "1CO":
+    name: "១ កោរិនតោ"
+    slug: "1-kaorintao"
+  "2CO":
+    name: "២ កោរិនតោ"
+    slug: "2-kaorintao"
+  "GAL":
+    name: "កាលាតី"
+    slug: "kaleatei"
+  "EPH":
+    name: "អេផេឆោ"
+    slug: "ephechhao"
+  "PHP":
+    name: "ផីលីប"
+    slug: "pheilib"
+  "COL":
+    name: "កោលោស"
+    slug: "kaolos"
+  "1TH":
+    name: "១ តេឆាលោនិក"
+    slug: "1-techhalonik"
+  "2TH":
+    name: "២ តេឆាលោនិក"
+    slug: "2-techhalonik"
+  "1TI":
+    name: "១ តីមោថេ"
+    slug: "1-teimothe"
+  "2TI":
+    name: "២ តីមោថេ"
+    slug: "2-teimothe"
+  "TIT":
+    name: "តីតុស"
+    slug: "teitos"
+  "PHM":
+    name: "ផីលេមោន"
+    slug: "pheilemon"
+  "HEB":
+    name: "ហេឞ្រើ"
+    slug: "hesreu"
+  "JAS":
+    name: "យាកើ"
+    slug: "yeakaeu"
+  "1PE":
+    name: "១ ពេត្រោស"
+    slug: "1-petraos"
+  "2PE":
+    name: "២ ពេត្រោស"
+    slug: "2-petraos"
+  "1JN":
+    name: "១ យោហាន"
+    slug: "1-yohan"
+  "2JN":
+    name: "២ យោហាន"
+    slug: "2-yohan"
+  "3JN":
+    name: "៣ យោហាន"
+    slug: "3-yohan"
+  "JUD":
+    name: "យូដាស"
+    slug: "yudas"
+  "REV":
+    name: "នាវ​តឹម​មពើល"
+    slug: "neavtmmopeul"

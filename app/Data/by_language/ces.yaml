@@ -1,0 +1,200 @@
+language: "ces"
+books:
+  "GEN":
+    name: "1 Mojžíšova"
+    slug: "1-mojzisova"
+  "EXO":
+    name: "2 Mojžíšova"
+    slug: "2-mojzisova"
+  "LEV":
+    name: "3 Mojžíšova"
+    slug: "3-mojzisova"
+  "NUM":
+    name: "4 Mojžíšova"
+    slug: "4-mojzisova"
+  "DEU":
+    name: "5 Mojžíšova"
+    slug: "5-mojzisova"
+  "JOS":
+    name: "Jozue"
+    slug: "jozue"
+  "JDG":
+    name: "Soudců"
+    slug: "soudcu"
+  "RUT":
+    name: "Rút"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuelova"
+    slug: "1-samuelova"
+  "2SA":
+    name: "2 Samuelova"
+    slug: "2-samuelova"
+  "1KI":
+    name: "1 Královská"
+    slug: "1-kralovska"
+  "2KI":
+    name: "2 Královská"
+    slug: "2-kralovska"
+  "1CH":
+    name: "1 Letopisu"
+    slug: "1-letopisu"
+  "2CH":
+    name: "2 Letopisu"
+    slug: "2-letopisu"
+  "EZR":
+    name: "Ezdráš"
+    slug: "ezdras"
+  "NEH":
+    name: "Nehemjáš"
+    slug: "nehemjas"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Jób"
+    slug: "job"
+  "PSA":
+    name: "Žalmy"
+    slug: "zalmy"
+  "PRO":
+    name: "Přísloví"
+    slug: "prislovi"
+  "ECC":
+    name: "Kazatel"
+    slug: "kazatel"
+  "SNG":
+    name: "Píseň písní"
+    slug: "pisen-pisni"
+  "ISA":
+    name: "Izajáš"
+    slug: "izajas"
+  "JER":
+    name: "Jeremjáš"
+    slug: "jeremjas"
+  "LAM":
+    name: "Pláč"
+    slug: "plac"
+  "EZK":
+    name: "Ezechiel"
+    slug: "ezechiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Ozeáš"
+    slug: "ozeas"
+  "JOL":
+    name: "Jóel"
+    slug: "joel"
+  "AMO":
+    name: "Ámos"
+    slug: "amos"
+  "OBA":
+    name: "Abdijáš"
+    slug: "abdijas"
+  "JON":
+    name: "Jonáš"
+    slug: "jonas"
+  "MIC":
+    name: "Micheáš"
+    slug: "micheas"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Abakuk"
+    slug: "abakuk"
+  "ZEP":
+    name: "Sofonjáš"
+    slug: "sofonjas"
+  "HAG":
+    name: "Ageus"
+    slug: "ageus"
+  "ZEC":
+    name: "Zacharjáš"
+    slug: "zacharjas"
+  "MAL":
+    name: "Malachiáš"
+    slug: "malachias"
+  "MAT":
+    name: "Matouš"
+    slug: "matous"
+  "MRK":
+    name: "Marek"
+    slug: "marek"
+  "LUK":
+    name: "Lukáš"
+    slug: "lukas"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Skutky apoštolské"
+    slug: "skutky-apostolske"
+  "ROM":
+    name: "Římanům"
+    slug: "rimanum"
+  "1CO":
+    name: "1 Korintským"
+    slug: "1-korintskym"
+  "2CO":
+    name: "2 Korintským"
+    slug: "2-korintskym"
+  "GAL":
+    name: "Galatským"
+    slug: "galatskym"
+  "EPH":
+    name: "Efezským"
+    slug: "efezskym"
+  "PHP":
+    name: "Filipským"
+    slug: "filipskym"
+  "COL":
+    name: "Koloským"
+    slug: "koloskym"
+  "1TH":
+    name: "1 Tesalonickým"
+    slug: "1-tesalonickym"
+  "2TH":
+    name: "2 Tesalonickým"
+    slug: "2-tesalonickym"
+  "1TI":
+    name: "1 Timoteovi"
+    slug: "1-timoteovi"
+  "2TI":
+    name: "2 Timoteovi"
+    slug: "2-timoteovi"
+  "TIT":
+    name: "Titovi"
+    slug: "titovi"
+  "PHM":
+    name: "Filemonovi"
+    slug: "filemonovi"
+  "HEB":
+    name: "Židům"
+    slug: "zidum"
+  "JAS":
+    name: "Jakubův"
+    slug: "jakubuv"
+  "1PE":
+    name: "1 Petrův"
+    slug: "1-petruv"
+  "2PE":
+    name: "2 Petrův"
+    slug: "2-petruv"
+  "1JN":
+    name: "1 Janův"
+    slug: "1-januv"
+  "2JN":
+    name: "2 Janův"
+    slug: "2-januv"
+  "3JN":
+    name: "3 Janův"
+    slug: "3-januv"
+  "JUD":
+    name: "Judův"
+    slug: "juduv"
+  "REV":
+    name: "Zjevení Janovo"
+    slug: "zjeveni-janovo"

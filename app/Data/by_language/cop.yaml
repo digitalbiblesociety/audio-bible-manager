@@ -1,0 +1,83 @@
+language: "cop"
+books:
+  "MAT":
+    name: "Ⲙⲁⲧⲑⲉⲟⲛ"
+    slug: "mattheon"
+  "MRK":
+    name: "Ⲙⲁⲣⲕⲟⲛ"
+    slug: "markon"
+  "LUK":
+    name: "Ⲗⲟⲩⲕⲁⲛ"
+    slug: "loukan"
+  "JHN":
+    name: "Ⲓⲱⲁⲛⲛⲏⲛ"
+    slug: "ioannen"
+  "ACT":
+    name: "Ⲛⲓⲡ̀ⲣⲁⲝⲓⲥ"
+    slug: "nipraxis"
+  "ROM":
+    name: "Ⲡⲣⲟⲥ Ⲣⲱⲙⲉⲟⲥ"
+    slug: "pros-romeos"
+  "1CO":
+    name: "Ⲡⲣⲟⲥ Ⲕⲟⲣⲓⲛⲑⲓⲟⲥ ⲁ̅"
+    slug: "pros-korinthios-1"
+  "2CO":
+    name: "Ⲡⲣⲟⲥ Ⲕⲟⲣⲓⲛⲑⲓⲟⲥ ⲃ̅"
+    slug: "pros-korinthios-2"
+  "GAL":
+    name: "Ⲡⲣⲟⲥ Ⲅⲁⲕⲁⲧⲏⲥ"
+    slug: "pros-gakates"
+  "EPH":
+    name: "Ⲡⲣⲟⲥ Ⲉ̇ⲫⲉⲥⲓⲟⲩⲥ"
+    slug: "pros-ephesious"
+  "PHP":
+    name: "Ⲡⲣⲟⲥ Ⲫⲓⲕⲓⲡⲡⲟⲓⲥ"
+    slug: "pros-phikippois"
+  "COL":
+    name: "Ⲡⲣⲟⲥ Ⲕⲟⲕⲁⲥⲥⲓⲁⲥ"
+    slug: "pros-kokassias"
+  "1TH":
+    name: "Ⲡⲣⲟⲥ Ⲑⲉⲥⲥⲁⲕⲟⲛⲓⲏⲏ ⲁ̅"
+    slug: "pros-thessakoniee-1"
+  "2TH":
+    name: "Ⲡⲣⲟⲥ Ⲑⲉⲥⲥⲁⲕⲟⲛⲓⲏⲏ ⲃ̅"
+    slug: "pros-thessakoniee-2"
+  "1TI":
+    name: "Ⲡⲣⲟⲥ Ⲧⲓⲙⲟⲑⲉⲟⲥ ⲁ̅"
+    slug: "pros-timotheos-1"
+  "2TI":
+    name: "Ⲡⲣⲟⲥ Ⲧⲓⲙⲟⲑⲉⲟⲥ ⲃ̅"
+    slug: "pros-timotheos-2"
+  "TIT":
+    name: "Ⲡⲣⲟⲥ Ⲧⲓⲧⲟⲥ"
+    slug: "pros-titos"
+  "PHM":
+    name: "Ⲡⲣⲟⲥ Ⲫⲓⲗⲏⲙⲱⲛ"
+    slug: "pros-philemon"
+  "HEB":
+    name: "Ⲡⲣⲟⲥ Ϩⲉⲃⲣⲉⲟⲥ"
+    slug: "pros-hebreos"
+  "JAS":
+    name: "Ⲓⲁⲕⲱⲃⲟⲥ"
+    slug: "iakobos"
+  "1PE":
+    name: "Ⲡⲉⲧⲣⲟⲥ ⲁ̅"
+    slug: "petros-1"
+  "2PE":
+    name: "Ⲡⲉⲧⲣⲟⲥ ⲃ̅"
+    slug: "petros-2"
+  "1JN":
+    name: "Ⲓⲱⲁⲛⲛⲏⲥ ⲁ̅"
+    slug: "ioannes-1"
+  "2JN":
+    name: "Ⲓⲱⲁⲛⲛⲏⲥ ⲃ̅"
+    slug: "ioannes-2"
+  "3JN":
+    name: "Ⲓⲱⲁⲛⲛⲏⲥ ⲅ̅"
+    slug: "ioannes-3"
+  "JUD":
+    name: "Ⲓⲟⲩⲇⲁⲥ"
+    slug: "ioudas"
+  "REV":
+    name: "Ϯⲁ̀ⲡⲟⲕⲁⲗⲩⲙⲯⲓⲥ"
+    slug: "tiapokalumpsis"

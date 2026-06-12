@@ -1,0 +1,23 @@
+language: "krh"
+books:
+  "HEB":
+    name: "Abiraniyawa"
+    slug: "abiraniyawa"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Biturus"
+    slug: "1-biturus"
+  "2PE":
+    name: "2 Biturus"
+    slug: "2-biturus"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"

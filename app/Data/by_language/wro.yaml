@@ -1,0 +1,8 @@
+language: "wro"
+books:
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"

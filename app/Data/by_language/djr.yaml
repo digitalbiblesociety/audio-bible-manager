@@ -1,0 +1,83 @@
+language: "djr"
+books:
+  "MAT":
+    name: "Mathuyu (Matthew)"
+    slug: "mathuyu-matthew"
+  "MRK":
+    name: "Mäk (Mark)"
+    slug: "mak-mark"
+  "LUK":
+    name: "Luk (Luke)"
+    slug: "luk-luke"
+  "JHN":
+    name: "Djon (John)"
+    slug: "djon-john"
+  "ACT":
+    name: "God-waŋarrwuŋ Djämapuy Mala (Acts)"
+    slug: "god-wanarrwun-djamapuy-mala-acts"
+  "ROM":
+    name: "Rawumlil Dhäwu (Romans)"
+    slug: "rawumlil-dhawu-romans"
+  "1CO":
+    name: "1 Gorinlil Dhäwu (Corinthians)"
+    slug: "1-gorinlil-dhawu-corinthians"
+  "2CO":
+    name: "2 Gorinlil Dhäwu (Corinthians)"
+    slug: "2-gorinlil-dhawu-corinthians"
+  "GAL":
+    name: "Galatjiyalil Dhäwu (Galatians)"
+    slug: "galatjiyalil-dhawu-galatians"
+  "EPH":
+    name: "Yipatjatjlil Dhäwu (Ephesians)"
+    slug: "yipatjatjlil-dhawu-ephesians"
+  "PHP":
+    name: "Bilipaylil Dhäwu (Philippians)"
+    slug: "bilipaylil-dhawu-philippians"
+  "COL":
+    name: "Gulutjaylil Dhäwu (Colossians)"
+    slug: "gulutjaylil-dhawu-colossians"
+  "1TH":
+    name: "1 Dhatjalunikalil Dhäwu (Thessalonians)"
+    slug: "1-dhatjalunikalil-dhawu-thessalonians"
+  "2TH":
+    name: "2 Dhatjalunikalil Dhäwu (Thessalonians)"
+    slug: "2-dhatjalunikalil-dhawu-thessalonians"
+  "1TI":
+    name: "1 Dimithiw Dhäwu Bolwuŋ (Timothy)"
+    slug: "1-dimithiw-dhawu-bolwun-timothy"
+  "2TI":
+    name: "2 Dimithiw Dhäwu Bolwuŋ (Timothy)"
+    slug: "2-dimithiw-dhawu-bolwun-timothy"
+  "TIT":
+    name: "Dätitjku Dhäwu Bolwuŋ (Titus)"
+    slug: "datitjku-dhawu-bolwun-titus"
+  "PHM":
+    name: "Bilimungu Dhäwu Bolwuŋ (Philemon)"
+    slug: "bilimungu-dhawu-bolwun-philemon"
+  "HEB":
+    name: "Yeburuw (Hebrews)"
+    slug: "yeburuw-hebrews"
+  "JAS":
+    name: "Djayimguŋ Dhäwu (James)"
+    slug: "djayimgun-dhawu-james"
+  "1PE":
+    name: "1 Betawuŋ Dhäwu (Peter)"
+    slug: "1-betawun-dhawu-peter"
+  "2PE":
+    name: "2 Betawuŋ Dhäwu (Peter)"
+    slug: "2-betawun-dhawu-peter"
+  "1JN":
+    name: "1 Djonguŋ Dhäwu (John)"
+    slug: "1-djongun-dhawu-john"
+  "2JN":
+    name: "2 Djonguŋ Dhäwu (John)"
+    slug: "2-djongun-dhawu-john"
+  "3JN":
+    name: "3 Djonguŋ Dhäwu (John)"
+    slug: "3-djongun-dhawu-john"
+  "JUD":
+    name: "Djotkuŋ Dhäwu (Jude)"
+    slug: "djotkun-dhawu-jude"
+  "REV":
+    name: "God-waŋarrwuŋ Maŋutji-gurrupanawuy"
+    slug: "god-wanarrwun-manutji-gurrupanawuy"

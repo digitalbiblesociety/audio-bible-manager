@@ -1,0 +1,5 @@
+language: "rmq"
+books:
+  "LUK":
+    name: "Lucas"
+    slug: "lucas"

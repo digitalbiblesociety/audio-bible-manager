@@ -1,0 +1,83 @@
+language: "mge"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Markɨ"
+    slug: "marki"
+  "LUK":
+    name: "Lukɨ"
+    slug: "luki"
+  "JHN":
+    name: "Ja̰"
+    slug: "ja"
+  "ACT":
+    name: "Njékɔwkulə-je"
+    slug: "njekwkule-je"
+  "ROM":
+    name: "Rɔm-je"
+    slug: "rm-je"
+  "1CO":
+    name: "1 Kɔrḛntɨ-je"
+    slug: "1-krnti-je"
+  "2CO":
+    name: "2 Kɔrḛntɨ-je"
+    slug: "2-krnti-je"
+  "GAL":
+    name: "Galatɨ-je"
+    slug: "galati-je"
+  "EPH":
+    name: "Epɛjɨ-je"
+    slug: "epji-je"
+  "PHP":
+    name: "Pilipɨ-je"
+    slug: "pilipi-je"
+  "COL":
+    name: "Kolosɨ-je"
+    slug: "kolosi-je"
+  "1TH":
+    name: "1 Tesalonikɨ-je"
+    slug: "1-tesaloniki-je"
+  "2TH":
+    name: "2 Tesalonikɨ-je"
+    slug: "2-tesaloniki-je"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titɨ"
+    slug: "titi"
+  "PHM":
+    name: "Pilemɔ̰"
+    slug: "pilem"
+  "HEB":
+    name: "Əbrə-je"
+    slug: "ebre-je"
+  "JAS":
+    name: "Jakɨ"
+    slug: "jaki"
+  "1PE":
+    name: "1 Piyər"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyər"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Ja̰"
+    slug: "1-ja"
+  "2JN":
+    name: "2 Ja̰"
+    slug: "2-ja"
+  "3JN":
+    name: "3 Ja̰"
+    slug: "3-ja"
+  "JUD":
+    name: "Judɨ"
+    slug: "judi"
+  "REV":
+    name: "Né-je kɨ́ ꞌtḛḛ kɨ̀ dɔ-é"
+    slug: "ne-je-ki-t-ki-d-e"

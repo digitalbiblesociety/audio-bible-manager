@@ -1,0 +1,200 @@
+language: "zne"
+books:
+  "GEN":
+    name: "Bambata Pai"
+    slug: "bambata-pai"
+  "EXO":
+    name: "Gate"
+    slug: "gate"
+  "LEV":
+    name: "Pa Amotume"
+    slug: "pa-amotume"
+  "NUM":
+    name: "Pa Geda Aboro"
+    slug: "pa-geda-aboro"
+  "DEU":
+    name: "Pa Fu Rugute Ni Ue He"
+    slug: "pa-fu-rugute-ni-ue-he"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+  "JDG":
+    name: "Abasapungbanga"
+    slug: "abasapungbanga"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+  "1SA":
+    name: "1 Samuere"
+    slug: "1-samuere"
+  "2SA":
+    name: "2 Samuere"
+    slug: "2-samuere"
+  "1KI":
+    name: "1 Abakindo"
+    slug: "1-abakindo"
+  "2KI":
+    name: "2 Abakindo"
+    slug: "2-abakindo"
+  "1CH":
+    name: "1 Pekapai"
+    slug: "1-pekapai"
+  "2CH":
+    name: "2 Pekapai"
+    slug: "2-pekapai"
+  "EZR":
+    name: "Ezara"
+    slug: "ezara"
+  "NEH":
+    name: "Nemaya"
+    slug: "nemaya"
+  "EST":
+    name: "Esetere"
+    slug: "esetere"
+  "JOB":
+    name: "Eyobo"
+    slug: "eyobo"
+  "PSA":
+    name: "Atambuahe"
+    slug: "atambuahe"
+  "PRO":
+    name: "Asanza"
+    slug: "asanza"
+  "ECC":
+    name: "Batungusipai"
+    slug: "batungusipai"
+  "SNG":
+    name: "Ga Soromo Bia"
+    slug: "ga-soromo-bia"
+  "ISA":
+    name: "Yesaya"
+    slug: "yesaya"
+  "JER":
+    name: "Yeremaya"
+    slug: "yeremaya"
+  "LAM":
+    name: "Abia Kpenunga"
+    slug: "abia-kpenunga"
+  "EZK":
+    name: "Yezekere"
+    slug: "yezekere"
+  "DAN":
+    name: "Daniere"
+    slug: "daniere"
+  "HOS":
+    name: "Osea"
+    slug: "osea"
+  "JOL":
+    name: "Yoere"
+    slug: "yoere"
+  "AMO":
+    name: "Amosa"
+    slug: "amosa"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Naum"
+    slug: "naum"
+  "HAB":
+    name: "Abakuka"
+    slug: "abakuka"
+  "ZEP":
+    name: "Zefhania"
+    slug: "zefhania"
+  "HAG":
+    name: "Agai"
+    slug: "agai"
+  "ZEC":
+    name: "Zekaraya"
+    slug: "zekaraya"
+  "MAL":
+    name: "Maraki"
+    slug: "maraki"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+  "ACT":
+    name: "Amokedi"
+    slug: "amokedi"
+  "ROM":
+    name: "Aromo"
+    slug: "aromo"
+  "1CO":
+    name: "1 Akorindo"
+    slug: "1-akorindo"
+  "2CO":
+    name: "2 Akorindo"
+    slug: "2-akorindo"
+  "GAL":
+    name: "Agaratio"
+    slug: "agaratio"
+  "EPH":
+    name: "Aefeso"
+    slug: "aefeso"
+  "PHP":
+    name: "Afiripoio"
+    slug: "afiripoio"
+  "COL":
+    name: "Akorosaio"
+    slug: "akorosaio"
+  "1TH":
+    name: "1 Atesaroniko"
+    slug: "1-atesaroniko"
+  "2TH":
+    name: "2 Atesaroniko"
+    slug: "2-atesaroniko"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Piremona"
+    slug: "piremona"
+  "HEB":
+    name: "Aebere"
+    slug: "aebere"
+  "JAS":
+    name: "Yakoba"
+    slug: "yakoba"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Yugoti"
+    slug: "yugoti"

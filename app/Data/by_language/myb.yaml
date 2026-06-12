@@ -1,0 +1,266 @@
+language: "myb"
+books:
+  "GEN":
+    name: "Yaþ"
+    slug: "ya"
+    name_toc: "Yaþooda"
+  "EXO":
+    name: "Teekɨtɨga"
+    slug: "teektga"
+    name_toc: "Teekɨtɨga"
+  "LEV":
+    name: "Leb"
+    slug: "leb"
+    name_toc: "Lebitik"
+  "NUM":
+    name: "Dakør"
+    slug: "dakr"
+    name_toc: "Dakør Deg"
+  "DEU":
+    name: "Det"
+    slug: "det"
+    name_toc: "Deteronom"
+  "JOS":
+    name: "Joj"
+    slug: "joj"
+    name_toc: "Jojue"
+  "JDG":
+    name: "Ngt"
+    slug: "ngt"
+    name_toc: "Ngegangtag"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Sam"
+    slug: "1-sam"
+    name_toc: "1 Samuel"
+  "2SA":
+    name: "2 Sam"
+    slug: "2-sam"
+    name_toc: "2 Samuel"
+  "1KI":
+    name: "1 Ngar"
+    slug: "1-ngar"
+    name_toc: "1 Ngarg"
+  "2KI":
+    name: "2 Ngar"
+    slug: "2-ngar"
+    name_toc: "2 Ngarg"
+  "1CH":
+    name: "1 Hoi"
+    slug: "1-hoi"
+    name_toc: "1 Hoitag Lo Ngarg"
+  "2CH":
+    name: "2 Hoi"
+    slug: "2-hoi"
+    name_toc: "2 Hoita Lo Ngarg"
+  "EZR":
+    name: "Esd"
+    slug: "esd"
+    name_toc: "Esdras"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Nehemi"
+  "EST":
+    name: "Est"
+    slug: "est"
+    name_toc: "Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Paag"
+    slug: "paag"
+    name_toc: "Paag"
+  "PRO":
+    name: "Terr"
+    slug: "terr"
+    name_toc: "Terrtag"
+  "ECC":
+    name: "Nge"
+    slug: "nge"
+    name_toc: "Ngelamberta"
+  "SNG":
+    name: "Pal"
+    slug: "pal"
+    name_toc: "Pa Lo Salomõ"
+  "ISA":
+    name: "Esa"
+    slug: "esa"
+    name_toc: "Esai"
+  "JER":
+    name: "Jer"
+    slug: "jer"
+    name_toc: "Jeremi"
+  "LAM":
+    name: "Pnl"
+    slug: "pnl"
+    name_toc: "Pa Nõ Lo Jeremi"
+  "EZK":
+    name: "Ejk"
+    slug: "ejk"
+    name_toc: "Ejekiel"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Oje"
+    slug: "oje"
+    name_toc: "Oje"
+  "JOL":
+    name: "Joe"
+    slug: "joe"
+    name_toc: "Joel"
+  "AMO":
+    name: "Amo"
+    slug: "amo"
+    name_toc: "Amos"
+  "OBA":
+    name: "Abd"
+    slug: "abd"
+    name_toc: "Abdias"
+  "JON":
+    name: "Jon"
+    slug: "jon"
+    name_toc: "Jonas"
+  "MIC":
+    name: "Mik"
+    slug: "mik"
+    name_toc: "Mika"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Hab"
+    slug: "hab"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Sop"
+    slug: "sop"
+    name_toc: "Soponi"
+  "HAG":
+    name: "Aje"
+    slug: "aje"
+    name_toc: "Aje"
+  "ZEC":
+    name: "Jakari"
+    slug: "jakari"
+    name_toc: "Jakari"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "Malaki"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "Matie"
+  "MRK":
+    name: "Mrk"
+    slug: "mrk"
+    name_toc: "Mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Hoita kɨmaj lo Jeju Krist'n Luk ndang"
+  "JHN":
+    name: "Jã"
+    slug: "ja"
+    name_toc: "Hoita kɨmaj lo Jeju Krist'n Jã ndang"
+  "ACT":
+    name: "Knk"
+    slug: "knk"
+    name_toc: "Kïlag Lo Ngombangkïlag"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Romag"
+  "1CO":
+    name: "1 Kor"
+    slug: "1-kor"
+    name_toc: "1 Korentiag"
+  "2CO":
+    name: "2 Kor"
+    slug: "2-kor"
+    name_toc: "2 Korentiag"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+    name_toc: "Galatiag"
+  "EPH":
+    name: "Ep"
+    slug: "ep"
+    name_toc: "Epesiag"
+  "PHP":
+    name: "Pil"
+    slug: "pil"
+    name_toc: "Pilipiag"
+  "COL":
+    name: "Kol"
+    slug: "kol"
+    name_toc: "Kolosiag"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+    name_toc: "1 Tesalonikag"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+    name_toc: "2 Tesalonikag"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+    name_toc: "1 Timote"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+    name_toc: "2 Timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Maktub'n Pol ndang ad Tit"
+  "PHM":
+    name: "Pilemõ"
+    slug: "pilemo"
+    name_toc: "Maktub'n Pol ndang ad Pilemõ"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+    name_toc: "Hebreg"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+    name_toc: "Maktub'n Jak ndang"
+  "1PE":
+    name: "1 Pie"
+    slug: "1-pie"
+    name_toc: "1 Pierr"
+  "2PE":
+    name: "2 Pie"
+    slug: "2-pie"
+    name_toc: "2 Pierr"
+  "1JN":
+    name: "1 Jã"
+    slug: "1-ja"
+    name_toc: "Maktub kɨdasa'n Jã ndang"
+  "2JN":
+    name: "2 Jã"
+    slug: "2-ja"
+    name_toc: "Maktub kɨkõjoo'n Jã ndang"
+  "3JN":
+    name: "3 Jã"
+    slug: "3-ja"
+    name_toc: "Maktub kɨkõmɨta'n Jã ndang"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+    name_toc: "Maktub'n Jud ndang"
+  "REV":
+    name: "Tnkt"
+    slug: "tnkt"
+    name_toc: "Ta Nyag Kïmund Kï Tee Dø"

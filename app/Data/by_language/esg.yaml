@@ -1,0 +1,83 @@
+language: "esg"
+books:
+  "MAT":
+    name: "मत्‍तयाल"
+    slug: "mattayala"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+  "LUK":
+    name: "लूकाल"
+    slug: "lukala"
+  "JHN":
+    name: "योहान"
+    slug: "yohana"
+  "ACT":
+    name: "प्रेरितुल्‍कुना कबाह्‍क"
+    slug: "preritulkuna-kabahka"
+  "ROM":
+    name: "रोम"
+    slug: "roma"
+  "1CO":
+    name: "1 कुरेंति"
+    slug: "1-kuremti"
+  "2CO":
+    name: "2 कुरेंति"
+    slug: "2-kuremti"
+  "GAL":
+    name: "गलातिया"
+    slug: "galatiya"
+  "EPH":
+    name: "इपीसि"
+    slug: "ipisi"
+  "PHP":
+    name: "पिलिपिया"
+    slug: "pilipiya"
+  "COL":
+    name: "कुलुसि"
+    slug: "kulusi"
+  "1TH":
+    name: "1 तेसलोनि"
+    slug: "1-tesaloni"
+  "2TH":
+    name: "2 तेसलोनि"
+    slug: "2-tesaloni"
+  "1TI":
+    name: "1 तिमोति"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 तिमोति"
+    slug: "2-timoti"
+  "TIT":
+    name: "तीतु"
+    slug: "titu"
+  "PHM":
+    name: "पिलेमोन"
+    slug: "pilemona"
+  "HEB":
+    name: "इब्रि"
+    slug: "ibri"
+  "JAS":
+    name: "याकोब"
+    slug: "yakoba"
+  "1PE":
+    name: "1 पत्रु"
+    slug: "1-patru"
+  "2PE":
+    name: "2 पत्रु"
+    slug: "2-patru"
+  "1JN":
+    name: "1 योहान"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 योहान"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 योहान"
+    slug: "3-yohana"
+  "JUD":
+    name: "यहुदा"
+    slug: "yahuda"
+  "REV":
+    name: "पेन हुपिस्‍ता पोल्‍लें"
+    slug: "pena-hupista-pollem"

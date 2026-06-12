@@ -1,0 +1,83 @@
+language: "tvt"
+books:
+  "MAT":
+    name: "Mathiu"
+    slug: "mathiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Joon"
+    slug: "joon"
+  "ACT":
+    name: "Esaamootkaat"
+    slug: "esaamootkaat"
+  "ROM":
+    name: "Roomte"
+    slug: "roomte"
+  "1CO":
+    name: "1 Korinte"
+    slug: "1-korinte"
+  "2CO":
+    name: "2 Korinte"
+    slug: "2-korinte"
+  "GAL":
+    name: "Galatiite"
+    slug: "galatiite"
+  "EPH":
+    name: "Ephisiate"
+    slug: "ephisiate"
+  "PHP":
+    name: "Philipiite"
+    slug: "philipiite"
+  "COL":
+    name: "Kolosiite"
+    slug: "kolosiite"
+  "1TH":
+    name: "1 Thesoloniite"
+    slug: "1-thesoloniite"
+  "2TH":
+    name: "2 Thesoloniite"
+    slug: "2-thesoloniite"
+  "1TI":
+    name: "1 Timothi"
+    slug: "1-timothi"
+  "2TI":
+    name: "2 Timothi"
+    slug: "2-timothi"
+  "TIT":
+    name: "Taitas"
+    slug: "taitas"
+  "PHM":
+    name: "Philimoon"
+    slug: "philimoon"
+  "HEB":
+    name: "Hebruute"
+    slug: "hebruute"
+  "JAS":
+    name: "Jeems"
+    slug: "jeems"
+  "1PE":
+    name: "1 Pitar"
+    slug: "1-pitar"
+  "2PE":
+    name: "2 Pitar"
+    slug: "2-pitar"
+  "1JN":
+    name: "1 Joon"
+    slug: "1-joon"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Motmangtiitwu"
+    slug: "motmangtiitwu"

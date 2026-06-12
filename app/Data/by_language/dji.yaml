@@ -1,0 +1,8 @@
+language: "dji"
+books:
+  "GEN":
+    name: "Ngurrununggaḻ bilidjirri"
+    slug: "ngurrunungga-bilidjirri"
+  "1JN":
+    name: "1Jn"
+    slug: "1jn"

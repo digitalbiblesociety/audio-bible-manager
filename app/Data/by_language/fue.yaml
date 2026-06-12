@@ -1,0 +1,65 @@
+language: "fue"
+books:
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "JHN":
+    name: "Yuhaana"
+    slug: "yuhaana"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Korintu Aranol"
+    slug: "korintu-aranol"
+  "GAL":
+    name: "Galaatiya"
+    slug: "galaatiya"
+  "EPH":
+    name: "Efesu"
+    slug: "efesu"
+  "PHP":
+    name: "Filippi"
+    slug: "filippi"
+  "COL":
+    name: "Koloosi"
+    slug: "koloosi"
+  "2TH":
+    name: "Tesalonika Ɗiɗaɓol"
+    slug: "tesalonika-iaol"
+  "1TI":
+    name: "Timote Aranol"
+    slug: "timote-aranol"
+  "2TI":
+    name: "Timote Ɗiɗaɓol"
+    slug: "timote-iaol"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Iburaninkeeɓe"
+    slug: "iburaninkeee"
+  "1PE":
+    name: "Piyer Aranol"
+    slug: "piyer-aranol"
+  "2PE":
+    name: "Piyer Ɗiɗaɓol"
+    slug: "piyer-iaol"
+  "1JN":
+    name: "Yuhaana Aranol"
+    slug: "yuhaana-aranol"
+  "2JN":
+    name: "Yuhaana Ɗiɗaɓol"
+    slug: "yuhaana-iaol"
+  "3JN":
+    name: "Yuhaana Tataɓol"
+    slug: "yuhaana-tataol"
+  "JUD":
+    name: "Yahuuda"
+    slug: "yahuuda"
+  "REV":
+    name: "Kollitinki"
+    slug: "kollitinki"

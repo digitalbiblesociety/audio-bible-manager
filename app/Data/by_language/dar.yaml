@@ -1,0 +1,8 @@
+language: "dar"
+books:
+  "MAT":
+    name: "Матфейли"
+    slug: "matfejli"
+  "LUK":
+    name: "Гіиса Масихіличила Лукала Гіяхі Хабар"
+    slug: "giisa-masihilicila-lukala-giahi-habar"

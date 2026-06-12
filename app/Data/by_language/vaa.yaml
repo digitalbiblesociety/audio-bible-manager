@@ -1,0 +1,83 @@
+language: "vaa"
+books:
+  "MAT":
+    name: "ಮತ್ತಾಯ"
+    slug: "mattaya"
+  "MRK":
+    name: "ಮಾರ್ಕ"
+    slug: "marka"
+  "LUK":
+    name: "ಲೂಕ"
+    slug: "luka"
+  "JHN":
+    name: "ಯೋಹಾನ"
+    slug: "yohana"
+  "ACT":
+    name: "ಅಪೊ"
+    slug: "apo"
+  "ROM":
+    name: "ರೋಮ"
+    slug: "roma"
+  "1CO":
+    name: "1 ಕೊರಿಂಥ"
+    slug: "1-korimtha"
+  "2CO":
+    name: "2 ಕೊರಿಂಥ"
+    slug: "2-korimtha"
+  "GAL":
+    name: "ಗಲಾತ್ಯ"
+    slug: "galatya"
+  "EPH":
+    name: "ಎಫೆಸ"
+    slug: "ephesa"
+  "PHP":
+    name: "ಫಿಲಿಪ್ಪಿ"
+    slug: "philippi"
+  "COL":
+    name: "ಕೊಲೊಸ್ಸೆ"
+    slug: "kolosse"
+  "1TH":
+    name: "1 ಥೆಸ"
+    slug: "1-thesa"
+  "2TH":
+    name: "2 ಥೆಸ"
+    slug: "2-thesa"
+  "1TI":
+    name: "1 ತಿಮೊ"
+    slug: "1-timo"
+  "2TI":
+    name: "2 ತಿಮೊ"
+    slug: "2-timo"
+  "TIT":
+    name: "ತೀತ"
+    slug: "tita"
+  "PHM":
+    name: "ಫಿಲೆಮೋನ"
+    slug: "philemona"
+  "HEB":
+    name: "ಇಬ್ರಿ"
+    slug: "ibri"
+  "JAS":
+    name: "ಯಾಕೋಬ"
+    slug: "yakoba"
+  "1PE":
+    name: "1 ಪೇತ್ರ"
+    slug: "1-petra"
+  "2PE":
+    name: "2 ಪೇತ್ರ"
+    slug: "2-petra"
+  "1JN":
+    name: "1 ಯೋಹಾನ"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 ಯೋಹಾ"
+    slug: "2-yoha"
+  "3JN":
+    name: "3 ಯೋಹಾ"
+    slug: "3-yoha"
+  "JUD":
+    name: "ಯೂದ"
+    slug: "yuda"
+  "REV":
+    name: "ಪ್ರಕಾಶಿತ್"
+    slug: "prakasit"

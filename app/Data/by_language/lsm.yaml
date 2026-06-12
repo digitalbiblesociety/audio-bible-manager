@@ -1,0 +1,302 @@
+language: "lsm"
+books:
+  "GEN":
+    name: "Ohuchaaka"
+    slug: "ohuchaaka"
+    name_toc: "Esitabo sitaangira sya Musa esilaangwa Ohuchaaka"
+  "EXO":
+    name: "Ohutula"
+    slug: "ohutula"
+    name_toc: "Esitabo syohubiri sya Musa esilaangwa Ohutula"
+  "LEV":
+    name: "Esy'Abaleefi"
+    slug: "esy-abaleefi"
+    name_toc: "Esitabo syohudatu sya Musa esilaangwa Abalefi"
+  "NUM":
+    name: "Ohubala"
+    slug: "ohubala"
+    name_toc: "Esitabo syohune sya Musa Esilaangwa Ohubala"
+  "DEU":
+    name: "Amalako Kohubiri"
+    slug: "amalako-kohubiri"
+    name_toc: "Esitabo syohutaanu sya Musa esilaangwa Esy'ohwichulisa amalako haandi"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Esitabo sya Yoswa"
+  "JDG":
+    name: "Abakayi"
+    slug: "abakayi"
+    name_toc: "Esitabo sya Abakyi"
+  "RUT":
+    name: "Ruusi"
+    slug: "ruusi"
+    name_toc: "Esitabo sya Ruusi"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+    name_toc: "Esitabo sitaangira esya"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+    name_toc: "Esitabo syohubiri sya Samueli"
+  "1KI":
+    name: "1 Abatuki"
+    slug: "1-abatuki"
+    name_toc: "Esitabo sitaangira esya Abatuki"
+  "2KI":
+    name: "2 Abatuki"
+    slug: "2-abatuki"
+    name_toc: "Esitabo syohubiri esya Abatuki"
+  "1CH":
+    name: "1 Ebyomubiha"
+    slug: "1-ebyomubiha"
+    name_toc: "Esitabo sitaangira esya Ebyomubiha"
+  "2CH":
+    name: "2 Ebyomubiha"
+    slug: "2-ebyomubiha"
+    name_toc: "Esitabo Syohubiri esya Ebyomubiha"
+  "EZR":
+    name: "Esira"
+    slug: "esira"
+    name_toc: "Esitabo sya Esira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Esitabo sya Nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Esitabo sya Esita"
+  "JOB":
+    name: "Yobbu"
+    slug: "yobbu"
+    name_toc: "Esitabo sya Yobbu"
+  "PSA":
+    name: "Esabbuli"
+    slug: "esabbuli"
+    name_toc: "Esitabo sya Esabbuli"
+  "PRO":
+    name: "Engaado"
+    slug: "engaado"
+    name_toc: "Esitabo sya Engaado"
+  "ECC":
+    name: "Omuyaali"
+    slug: "omuyaali"
+    name_toc: "Esitabo sya Omuyaali"
+  "SNG":
+    name: "Olweembo Luhira mu Nyembo"
+    slug: "olweembo-luhira-mu-nyembo"
+    name_toc: "Esitabo sya Olweembo Luhira mu Nyembo"
+  "ISA":
+    name: "Yisaaya"
+    slug: "yisaaya"
+    name_toc: "Esitabo sya Yisaaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Esitabo sya Yeremia"
+  "LAM":
+    name: "Amaliro"
+    slug: "amaliro"
+    name_toc: "Esitabo sya Amaliro ka Yeremia"
+  "EZK":
+    name: "Esekeeli"
+    slug: "esekeeli"
+    name_toc: "Esitabo sya Esekeeli"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Esitabo sya Danieli"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Esitabo sya Hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Esitabo sya Yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Esitabo sya Amosi"
+  "OBA":
+    name: "Obbadia"
+    slug: "obbadia"
+    name_toc: "Esitabo sya Obbabia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Esitabo sya Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Esitabo sya Mika"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Esitabo sya Nahumu"
+  "HAB":
+    name: "Habbakuuku"
+    slug: "habbakuuku"
+    name_toc: "Estiabo Sya Habbakuuku"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+    name_toc: "Esitabo sya Sefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Esitabo sya Hagai"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Esitabo sya Sakaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Esitabo sya Malaki"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+    name_toc: "Esitabo sya Tobiti"
+  "JDT":
+    name: "Yudita"
+    slug: "yudita"
+    name_toc: "Esitabo sya Yudita"
+  "ESG":
+    name: "Ebyemeeda hu Esita"
+    slug: "ebyemeeda-hu-esita"
+    name_toc: "Esitabo sya Esita (Esyoluyonaani)"
+  "WIS":
+    name: "Amakesi ka Solomooni"
+    slug: "amakesi-ka-solomooni"
+    name_toc: "Amakesi ka Solomooni"
+  "SIR":
+    name: "Siraki"
+    slug: "siraki"
+    name_toc: "Amakesi ka Yesu omwaana wa Siraki (Ekelesiasitikuusi)"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+    name_toc: "Esitabo sya Baruku"
+  "DAG":
+    name: "Danieli Girik"
+    slug: "danieli-girik"
+    name_toc: "Esitabo sya Danieli Esy'Olugiriki"
+  "1MA":
+    name: "1 Abamakabbewo"
+    slug: "1-abamakabbewo"
+    name_toc: "Esitabo sitaangira sy'Abamakabbewo"
+  "2MA":
+    name: "2 Makabeewo"
+    slug: "2-makabeewo"
+    name_toc: "Esitabo sy'Abamakabeewo syohubiri"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Emboosi Ndai ya Yesu Kristo koti lu yaandiikwa neende Matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Emboosi Ndai ya Yesu Kristo koti lu yaandiikwa neende Mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Emboosi Ndai ya Yesu Kristo koti lu yaandiikwa neende Luka"
+  "JHN":
+    name: "Yowaana"
+    slug: "yowaana"
+    name_toc: "Emboosi Ndai ya Yesu Kristo koti lu yaandiikwa neende Yowaana"
+  "ACT":
+    name: "Ebiholwa"
+    slug: "ebiholwa"
+    name_toc: "Esitabo sya Ebiholwa"
+  "ROM":
+    name: "Abarooma"
+    slug: "abarooma"
+    name_toc: "Ebbarwa yi Paulo yaandiikira Abaroooma"
+  "1CO":
+    name: "1 Abakoriito"
+    slug: "1-abakoriito"
+    name_toc: "Ebbarwa yitaangira yi Paulo yaandiikira Abakoriito"
+  "2CO":
+    name: "2 Abakoriito"
+    slug: "2-abakoriito"
+    name_toc: "Ebbarwa yohubiri yi Paulo yaandiikira Abakoriito"
+  "GAL":
+    name: "Abagalatia"
+    slug: "abagalatia"
+    name_toc: "Ebbarwa yi Paulo yaandiikira Abagalatia"
+  "EPH":
+    name: "Abaefeso"
+    slug: "abaefeso"
+    name_toc: "Ebbarwa yi Paulo yaandiikira Abaefeso"
+  "PHP":
+    name: "Abafilipi"
+    slug: "abafilipi"
+    name_toc: "Ebbarwa yi Paulo yaandiikira Abefilipi"
+  "COL":
+    name: "Abakolosaayi"
+    slug: "abakolosaayi"
+    name_toc: "Ebbarwa yi Paulo yaandiikira Abakolosaayi"
+  "1TH":
+    name: "1 Abatesalonika"
+    slug: "1-abatesalonika"
+    name_toc: "Ebbarwa yitaangira yi Paulo yaandiikira Abatesalonika"
+  "2TH":
+    name: "2 Abatesalonika"
+    slug: "2-abatesalonika"
+    name_toc: "Ebbarwa yohubiri yi Paulo yaandiikira Abatesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Ebbarwa yitaangira yi Paulo yaandiikira Timoseo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Ebbarwa yohubiri yi Paulo yaandiikira Timoseo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Ebbarwa yi Paulo yaandiikiraTito"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+    name_toc: "Filemooni"
+  "HEB":
+    name: "Abaibburania"
+    slug: "abaibburania"
+    name_toc: "Abayibbulaniya"
+  "JAS":
+    name: "Yakobbo"
+    slug: "yakobbo"
+    name_toc: "Yakobbo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Ebbarwa yitangiira yitula eyiri Petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Ebbarwa yohubiri yitula eyiri Petero"
+  "1JN":
+    name: "1 Yowaana"
+    slug: "1-yowaana"
+    name_toc: "Ebbarwa yitangiira yitula eyiri Yowaana"
+  "2JN":
+    name: "2 Yowaana"
+    slug: "2-yowaana"
+    name_toc: "Ebbarwa yohubiri yitula eyiri Yowaana"
+  "3JN":
+    name: "3 Yowaana"
+    slug: "3-yowaana"
+    name_toc: "Ebbarwa Yohudatu yitula eyiri Yowaana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Yuda"
+  "REV":
+    name: "Ohubwiihulirwa"
+    slug: "ohubwiihulirwa"
+    name_toc: "Esitabo sya Yowaana silaangwa Ohubwiihulirwa"

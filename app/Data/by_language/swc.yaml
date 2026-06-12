@@ -1,0 +1,266 @@
+language: "swc"
+books:
+  "GEN":
+    name: "Mwanzo"
+    slug: "mwanzo"
+    name_toc: "Ester"
+  "EXO":
+    name: "Kutoka"
+    slug: "kutoka"
+    name_toc: "Ayub"
+  "LEV":
+    name: "Walawi"
+    slug: "walawi"
+    name_toc: "Mazmurẹ̌"
+  "NUM":
+    name: "Hesabu"
+    slug: "hesabu"
+    name_toc: "Baweran Salomo"
+  "DEU":
+    name: "Kumbukumbu la Sheria"
+    slug: "kumbukumbu-la-sheria"
+    name_toc: "Měnanasẹ̌"
+  "JOS":
+    name: "Yoshua"
+    slug: "yoshua"
+    name_toc: "Kakantarị Patebone"
+  "JDG":
+    name: "Waamuzi"
+    slug: "waamuzi"
+    name_toc: "Yesaya"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+    name_toc: "Yeremia"
+  "1SA":
+    name: "1 Samweli"
+    slug: "1-samweli"
+    name_toc: "Dal᷊ěmpasiang"
+  "2SA":
+    name: "2 Samweli"
+    slug: "2-samweli"
+    name_toc: "Yehezkiel"
+  "1KI":
+    name: "1 Wafalme"
+    slug: "1-wafalme"
+    name_toc: "Daniel"
+  "2KI":
+    name: "2 Wafalme"
+    slug: "2-wafalme"
+    name_toc: "Hosea"
+  "1CH":
+    name: "1 Mambo ya Siku"
+    slug: "1-mambo-ya-siku"
+    name_toc: "Yoël"
+  "2CH":
+    name: "2 Mambo ya Siku"
+    slug: "2-mambo-ya-siku"
+    name_toc: "Amos"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+    name_toc: "Obaja"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Yunus"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+    name_toc: "Mikha"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Nahum"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+    name_toc: "Habakuk"
+  "PRO":
+    name: "Mezali"
+    slug: "mezali"
+    name_toc: "Zepanya"
+  "ECC":
+    name: "Muhubiri"
+    slug: "muhubiri"
+    name_toc: "Hagai"
+  "SNG":
+    name: "Wimbo wa Solomono"
+    slug: "wimbo-wa-solomono"
+    name_toc: "Zakharia"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Maleakhi"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Injilẹ̌ Nihabar'i Matius"
+  "LAM":
+    name: "Maombolezo"
+    slug: "maombolezo"
+    name_toc: "Injilẹ̌ Nihabar'i Markus"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Injilẹ̌ Nihabar'i Lukas"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Injilẹ̌ Nihabar'i Yohanes"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Munara'm Manga Rarolohang"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Surat'i Paulus Su Jamạat'u Roma"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Surat'i Paulus Humotong Su Jamạat'u Korintus"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Surat'i Paulus Karuane Su Jamạat'u Korintus"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Surat'i Paulus Su Manga Jamaatẹ̌ Su Galatia"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Surat'i Paulus Su Jamạat'u Efesus"
+  "NAM":
+    name: "Nahumu"
+    slug: "nahumu"
+    name_toc: "Surat'i Paulus Su Jamạat'u Filipi"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Surat'i Paulus Su Jamạat'u Kolose"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Surat'i Paulus Humotong Su Jamạat'u Tesalonika"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Surat'i Paulus Karuane Su Jamạat'u Tesalonika"
+  "ZEC":
+    name: "Zakaria"
+    slug: "zakaria"
+    name_toc: "Surat'i Paulus Humotong Si Timotius"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Surat'i Paulus Karuane Si Timotius"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Surat'i Paulus Si Titus"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "Surat'i Paulus Si Filemon"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Suratẹ̌ Su Tau Ibrani"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Surat'i Yakobus"
+  "ACT":
+    name: "Matendo ya Mitume"
+    slug: "matendo-ya-mitume"
+    name_toc: "Surat'i Petrus Humotong"
+  "ROM":
+    name: "Waroma"
+    slug: "waroma"
+    name_toc: "Surat'i Petrus Karuane"
+  "1CO":
+    name: "1 Wakorinto"
+    slug: "1-wakorinto"
+    name_toc: "Surat'i Yohanes Humotong"
+  "2CO":
+    name: "2 Wakorinto"
+    slug: "2-wakorinto"
+    name_toc: "Surat'i Yohanes Karuane"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+    name_toc: "Surat'i Yohanes Katěllune"
+  "EPH":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Surat'i Yudas"
+  "PHP":
+    name: "Wafilipi"
+    slug: "wafilipi"
+    name_toc: "Pělal᷊ahẹ Si Yohanesẹ̌"
+  "COL":
+    name: "Wakolosayi"
+    slug: "wakolosayi"
+    name_toc: "Habari Mapia Ko Niu#li I Matius"
+  "1TH":
+    name: "1 Watesalonika"
+    slug: "1-watesalonika"
+    name_toc: "Habari Mapia Ko Niu#li I Markus"
+  "2TH":
+    name: "2 Watesalonika"
+    slug: "2-watesalonika"
+    name_toc: "Habari Mapia Ko Niu#li I Lukas"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Habari Mapia Ko Niu#li I Yohanes"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Wuke Ngu Manga Rasuli"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Surati I Paulus Sarang Jamaati Su Roma"
+  "PHM":
+    name: "Filemono"
+    slug: "filemono"
+    name_toc: "Surati Paulus Ko Kahimotongange Sarang Jamaati Su Korintus"
+  "HEB":
+    name: "Waebrania"
+    slug: "waebrania"
+    name_toc: "Surati Paulus Ko Karuange Sarang Jamaati Su Korintus"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Surati Paulus Sarang Manga Jamaati Su Galatia"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+    name_toc: "Surati Paulus Sarang Jamaati Su Efesus"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+    name_toc: "Surati Paulus Sarang Jamaati Su Filipi"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Surati Paulus Sarang Jamaati Su Kolose"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Surati Paulus Ko Kahimotongange Sarang Jamaati Su Tesalonika"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Surati I Paulus Ko Karuange Sarang Jamaati Su Tesalonika"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Surati Paulus Ko Kahimotongange Si Timotius"
+  "REV":
+    name: "Ufunuo"
+    slug: "ufunuo"
+    name_toc: "Surati Paulus Ko Karuange Si Timotius"

@@ -1,0 +1,83 @@
+language: "bgg"
+books:
+  "MAT":
+    name: "Methiu"
+    slug: "methiu"
+  "MRK":
+    name: "Marg"
+    slug: "marg"
+  "LUK":
+    name: "Lug"
+    slug: "lug"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+  "ACT":
+    name: "Bliathek"
+    slug: "bliathek"
+  "ROM":
+    name: "Romanthek"
+    slug: "romanthek"
+  "1CO":
+    name: "1 Khorinthek"
+    slug: "1-khorinthek"
+  "2CO":
+    name: "2 Khorinthek"
+    slug: "2-khorinthek"
+  "GAL":
+    name: "Galathithek"
+    slug: "galathithek"
+  "EPH":
+    name: "Iphisithek"
+    slug: "iphisithek"
+  "PHP":
+    name: "Philiphithek"
+    slug: "philiphithek"
+  "COL":
+    name: "Kholosithek"
+    slug: "kholosithek"
+  "1TH":
+    name: "1 Thesalonithek"
+    slug: "1-thesalonithek"
+  "2TH":
+    name: "2 Thesalonithek"
+    slug: "2-thesalonithek"
+  "1TI":
+    name: "1 Thimothi"
+    slug: "1-thimothi"
+  "2TI":
+    name: "2 Thimothi"
+    slug: "2-thimothi"
+  "TIT":
+    name: "Thaidas"
+    slug: "thaidas"
+  "PHM":
+    name: "Philimon"
+    slug: "philimon"
+  "HEB":
+    name: "Hebriuthek"
+    slug: "hebriuthek"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Phithar"
+    slug: "1-phithar"
+  "2PE":
+    name: "2 Phithar"
+    slug: "2-phithar"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Dong"
+    slug: "dong"

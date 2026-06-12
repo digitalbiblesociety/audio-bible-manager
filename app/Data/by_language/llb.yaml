@@ -1,0 +1,170 @@
+language: "llb"
+books:
+  "GEN":
+    name: "Jenesesi"
+    slug: "jenesesi"
+    name_toc: "Livuru noroma na Mozeji nnaitaniwa Jenesesi"
+  "EXO":
+    name: "Ezodu"
+    slug: "ezodu"
+    name_toc: "Livuru nanembinli na Mozeji nnaitaniwa Ezodu"
+  "DEU":
+    name: "Detoronomiyo"
+    slug: "detoronomiyo"
+    name_toc: "Livuru nanetanu na Mozeji nnaitaniwa Detoronomiyo"
+  "JOS":
+    name: "Jozuwe"
+    slug: "jozuwe"
+    name_toc: "Livuru na Jozuwe"
+  "JDG":
+    name: "Anamasogolrelra"
+    slug: "anamasogolrelra"
+    name_toc: "Livuru nowonga zela tempu yawenda aIzarayeli na Anamasogolrelra"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+    name_toc: "Livuru nowonga muselu wa Ruti"
+  "1SA":
+    name: "1 Samuweli"
+    slug: "1-samuweli"
+    name_toc: "Livuru noroma nowonga zela roma wa amwene a Izarayeli - 1 Samuweli"
+  "2SA":
+    name: "2 Samuweli"
+    slug: "2-samuweli"
+    name_toc: "Livuru nanembinli nowonga zela roma wa umwene wa aIzarayeli - 2 Samuweli"
+  "1KI":
+    name: "1 Amwene"
+    slug: "1-amwene"
+    name_toc: "Livuru noroma nowonga zela miselu da amwene a Izarayeli na amwene a Juda"
+  "2KI":
+    name: "2 Amwene"
+    slug: "2-amwene"
+    name_toc: "Livuru nanembinli nowonga zela miselu da amwene a Izarayeli na amwene a Juda - 2 Amwene"
+  "1CH":
+    name: "1 Koronika"
+    slug: "1-koronika"
+    name_toc: "Livuru noroma nowonga zela miselu da amwene a Juda - 1 Koronika"
+  "ISA":
+    name: "Izaiya"
+    slug: "izaiya"
+    name_toc: "Joroha ja Namafiyiheda Izaiya"
+  "DAN":
+    name: "Daniyeli"
+    slug: "daniyeli"
+    name_toc: "Livuru na nowonga zela joira na jowonga ja Daniyeli"
+  "JON":
+    name: "Jonasi"
+    slug: "jonasi"
+    name_toc: "Miselu da Namafiyiheda Jonasi"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+    name_toc: "Mazu a Mulugu kalrembiwe na Namafiyiheda Malakiya"
+  "MAT":
+    name: "Matewuji"
+    slug: "matewuji"
+    name_toc: "Muselu Wapama wa Yesu ulrembiwe na Matewuji"
+  "MRK":
+    name: "Markuji"
+    slug: "markuji"
+    name_toc: "Muselu Wapama wa Yesu ulrembiwe na Markuji"
+  "LUK":
+    name: "Lukaji"
+    slug: "lukaji"
+    name_toc: "Muselu Wapama wa Yesu ulrembiwe na Lukaji"
+  "JHN":
+    name: "Juwawu"
+    slug: "juwawu"
+    name_toc: "Muselu Wapama wa Yesu ulrembiwe na Juwawu"
+  "ACT":
+    name: "Joira ja Anamarumiwa"
+    slug: "joira-ja-anamarumiwa"
+    name_toc: "Joira ja Anamarumiwa jaira atu muwari mwa kopolo da Munemba Otchena"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+    name_toc: "Karta nilrembiwele atu omuroromela Yesu a Roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+    name_toc: "Karta noroma nilrembiwele atu omuroromela Yesu a Korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+    name_toc: "Karta nanembinli nilrembiwele atu omuroromela Yesu a Korinto"
+  "GAL":
+    name: "Galasiya"
+    slug: "galasiya"
+    name_toc: "Karta nilrembiwele atu omuroromela Yesu a Galasiya"
+  "EPH":
+    name: "Efezo"
+    slug: "efezo"
+    name_toc: "Karta nilrembiwele atu omuroromela Yesu a Efezo"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+    name_toc: "Karta nilrembiwele atu omuroromela Yesu a Filipo"
+  "COL":
+    name: "Koloso"
+    slug: "koloso"
+    name_toc: "Karta nilrembiwele atu omuroromela Yesu a Koloso"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Karta noroma nilrembiwele atu omuroromela Yesu a Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Karta nanembinli nilrembiwele atu omuroromela Yesu a Tesalonika"
+  "1TI":
+    name: "1 Timoteyo"
+    slug: "1-timoteyo"
+    name_toc: "Karta noroma nilrembiwele Timoteyo"
+  "2TI":
+    name: "2 Timoteyo"
+    slug: "2-timoteyo"
+    name_toc: "Karta nanembinli nilrembiwele Timoteyo"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Karta nilrembiwele Titu"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Karta nilrembiwele Filemoni"
+  "HEB":
+    name: "Eberewu"
+    slug: "eberewu"
+    name_toc: "Karta nilrembiwele aEberewu omuroromela Yesu"
+  "JAS":
+    name: "Tiyagu"
+    slug: "tiyagu"
+    name_toc: "Karta nilrembiwe na Tiyagu"
+  "1PE":
+    name: "1 Peduru"
+    slug: "1-peduru"
+    name_toc: "Karta noroma nilrembiwe na Peduru"
+  "2PE":
+    name: "2 Peduru"
+    slug: "2-peduru"
+    name_toc: "Karta nanembinli nilrembiwe na Peduru"
+  "1JN":
+    name: "1 Juwawu"
+    slug: "1-juwawu"
+    name_toc: "Karta noroma nilrembiwe na mulombwana Juwawu"
+  "2JN":
+    name: "2 Juwawu"
+    slug: "2-juwawu"
+    name_toc: "Karta nanembinli nilrembiwe na mulombwana Juwawu"
+  "3JN":
+    name: "3 Juwawu"
+    slug: "3-juwawu"
+    name_toc: "Karta naneraru nilrembiwe na mulombwana Juwawu"
+  "JUD":
+    name: "Judaji"
+    slug: "judaji"
+    name_toc: "Karta nilrembiwe na Mulombwana Judaji"
+  "REV":
+    name: "Jowandeliwa"
+    slug: "jowandeliwa"
+    name_toc: "Livuru na Jowandeliwa"

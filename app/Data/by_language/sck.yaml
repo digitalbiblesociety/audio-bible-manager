@@ -1,0 +1,110 @@
+language: "sck"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Tiiti ma"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "Sɛ́bɛw Pɔli tórigo lè Filemɔn ma"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "Sɛ́bɛw be tórigo lè Heburubele ma"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+    name_toc: "Sɛ́bɛw Zyaki sɛ́bɛ lè"
+  "ACT":
+    name: "खास चेलामन केर काम"
+    slug: "khasa-celamana-kera-kama"
+    name_toc: "Sɛ́bɛseliw Pyɛri sɛ́bɛ lè"
+  "ROM":
+    name: "रोमानियनमन"
+    slug: "romaniyanamana"
+    name_toc: "Sɛ́bɛsiin wów Pyɛri sɛ́bɛ lè"
+  "1CO":
+    name: "1 कुरिनथियनमन"
+    slug: "1-kurinathiyanamana"
+    name_toc: "Sɛ́bɛseliw Zyan sɛ́bɛ lè"
+  "2CO":
+    name: "2 कुरिनथियनमन"
+    slug: "2-kurinathiyanamana"
+    name_toc: "Sɛ́bɛsiin wów Zyan sɛ́bɛ lè"
+  "GAL":
+    name: "गलातियनमन"
+    slug: "galatiyanamana"
+    name_toc: "Sɛ́bɛtaanri wów Zyan sɛ́bɛ lè"
+  "EPH":
+    name: "इफिसियनमन"
+    slug: "iphisiyanamana"
+    name_toc: "Sɛ́bɛw Zyudi sɛ́bɛ lè"
+  "PHP":
+    name: "फिलिप्पियनमन"
+    slug: "philippiyanamana"
+    name_toc: "Kérigèle Tɛɛnnɛ kéele Zyan na"
+  "COL":
+    name: "कुलुसियनमन"
+    slug: "kulusiyanamana"
+    name_toc: "Gyenesise Anaa Mose Nwomaa Bɔ Oli Moa"
+  "1TH":
+    name: "1थिस्सलुनीकियनमन"
+    slug: "1thissalunikiyanamana"
+    name_toc: "Ɛksadɔso Anaa Mose Nwomaa Bɔ Ɔtɔ So Nyɔ"
+  "2TH":
+    name: "2 थिस्सलुनीकियनमन"
+    slug: "2-thissalunikiyanamana"
+    name_toc: "Lewitikɔso Anaa Mose Nwomaa Bɔ Ɔtɔ So Nza"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "Numeri Anaa Mose Nwomaa Bɔ Ɔtɔ So Nna"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "Deuteronomi Anaa Mose Nwomaa Bɔ Ɔtɔ So Nnu"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "Yosua Nwomaa Ne"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "Maenbulɛfoɛ Anaa Ndɛenbualɛfoɛ Nwomaa Ne"
+  "HEB":
+    name: "इब्रानीमन"
+    slug: "ibranimana"
+    name_toc: "Rutu Nwomaa Ne"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "Samuel Nwomaa Bɔ Oli Moa"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "Samuel Nwomaa Bɔ Ɔtɔ So Nyɔ"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "Ahemvo Nwomaa Bɔ Oli Moa"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "Ahemvo Nwomaa Bɔ Ɔtɔ So Nyɔ"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "Aberɛso Dwirɛ Bɔ Oli Moa"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "Aberɛso Dwirɛ Bɔ Ɔtɔ So Nyɔ"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "Ɛsra Nwomaa Ne"
+  "REV":
+    name: "प्रकाशितवाक्य"
+    slug: "prakasitavakya"
+    name_toc: "Nehemia Nwomaa Ne"

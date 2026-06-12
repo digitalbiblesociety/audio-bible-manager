@@ -1,0 +1,5 @@
+language: "wed"
+books:
+  "MRK":
+    name: "Mark"
+    slug: "mark"

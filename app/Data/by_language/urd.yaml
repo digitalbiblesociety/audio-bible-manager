@@ -1,0 +1,200 @@
+language: "urd"
+books:
+  "GEN":
+    name: "پیدائش"
+    slug: "pydaish"
+  "EXO":
+    name: "خروج"
+    slug: "khrwj"
+  "LEV":
+    name: "احبار"
+    slug: "ahbar"
+  "NUM":
+    name: "گنتی"
+    slug: "gnty"
+  "DEU":
+    name: "استثناء"
+    slug: "astthna"
+  "JOS":
+    name: "یشوع"
+    slug: "yshwa"
+  "JDG":
+    name: "قضاة"
+    slug: "qdah"
+  "RUT":
+    name: "روت"
+    slug: "rwt"
+  "1SA":
+    name: "اوّل سموئیل"
+    slug: "awl-smwiyl"
+  "2SA":
+    name: "دوم سموئیل"
+    slug: "dwm-smwiyl"
+  "1KI":
+    name: "اوّل سلاطین"
+    slug: "awl-slatyn"
+  "2KI":
+    name: "دوم سلاطین"
+    slug: "dwm-slatyn"
+  "1CH":
+    name: "اوّل تواریخ"
+    slug: "awl-twarykh"
+  "2CH":
+    name: "دوم تو اریخ"
+    slug: "dwm-tw-arykh"
+  "EZR":
+    name: "عز را"
+    slug: "az-ra"
+  "NEH":
+    name: "نحمیاہ"
+    slug: "nhmyah"
+  "EST":
+    name: "ایستر"
+    slug: "aystr"
+  "JOB":
+    name: "ایّوب"
+    slug: "aywb"
+  "PSA":
+    name: "زبُور"
+    slug: "zbwr"
+  "PRO":
+    name: "امثال"
+    slug: "amthal"
+  "ECC":
+    name: "واعظ"
+    slug: "waaz"
+  "SNG":
+    name: "غزل الغزلات"
+    slug: "ghzl-alghzlat"
+  "ISA":
+    name: "یسعیاہ"
+    slug: "ysayah"
+  "JER":
+    name: "یرمیاہ"
+    slug: "yrmyah"
+  "LAM":
+    name: "نوحہ"
+    slug: "nwhh"
+  "EZK":
+    name: "حزقی ایل"
+    slug: "hzqy-ayl"
+  "DAN":
+    name: "دانیال"
+    slug: "danyal"
+  "HOS":
+    name: "ہوسیع"
+    slug: "hwsya"
+  "JOL":
+    name: "یوایل"
+    slug: "ywayl"
+  "AMO":
+    name: "عاموس"
+    slug: "aamws"
+  "OBA":
+    name: "عبدیاہ"
+    slug: "abdyah"
+  "JON":
+    name: "یونس"
+    slug: "ywns"
+  "MIC":
+    name: "میکاہ"
+    slug: "mykah"
+  "NAM":
+    name: "نا حُوم"
+    slug: "na-hwm"
+  "HAB":
+    name: "حبقّوق"
+    slug: "hbqwq"
+  "ZEP":
+    name: "صفنیاہ"
+    slug: "sfnyah"
+  "HAG":
+    name: "حجيّ"
+    slug: "hjy"
+  "ZEC":
+    name: "زکریاہ"
+    slug: "zkryah"
+  "MAL":
+    name: "ملاکی"
+    slug: "mlaky"
+  "MAT":
+    name: "متّی"
+    slug: "mty"
+  "MRK":
+    name: "مرقس"
+    slug: "mrqs"
+  "LUK":
+    name: "لوقا"
+    slug: "lwqa"
+  "JHN":
+    name: "یوحنا"
+    slug: "ywhna"
+  "ACT":
+    name: "رسولوں"
+    slug: "rswlwn"
+  "ROM":
+    name: "رومیوں"
+    slug: "rwmywn"
+  "1CO":
+    name: "۱ کرنتھِیُوں"
+    slug: "krnthywn"
+  "2CO":
+    name: "۲ کرنتھیوں"
+    slug: "krnthywn"
+  "GAL":
+    name: "گلتیوں"
+    slug: "gltywn"
+  "EPH":
+    name: "افسیوں"
+    slug: "afsywn"
+  "PHP":
+    name: "فِلِپّیُوں"
+    slug: "flpywn"
+  "COL":
+    name: "کُلِسّیوں"
+    slug: "klsywn"
+  "1TH":
+    name: "۱ تھسّلنیکیوں"
+    slug: "thslnykywn"
+  "2TH":
+    name: "۲ تھسلنیکوں"
+    slug: "thslnykwn"
+  "1TI":
+    name: "۱ تِیمُتھِیُس"
+    slug: "tymthys"
+  "2TI":
+    name: "۲ تیِمُتھِیُس"
+    slug: "tymthys"
+  "TIT":
+    name: "طِطُس"
+    slug: "tts"
+  "PHM":
+    name: "فلیمون"
+    slug: "flymwn"
+  "HEB":
+    name: "عبرانیوں"
+    slug: "abranywn"
+  "JAS":
+    name: "يعقوب"
+    slug: "yaqob"
+  "1PE":
+    name: "۱ پطر س"
+    slug: "ptr-s"
+  "2PE":
+    name: "۲ پطرس"
+    slug: "ptrs"
+  "1JN":
+    name: "۱ یوحنّا"
+    slug: "ywhna"
+  "2JN":
+    name: "۲ یوحنّا"
+    slug: "ywhna"
+  "3JN":
+    name: "۳ یوحنّا"
+    slug: "ywhna"
+  "JUD":
+    name: "یہوداہ"
+    slug: "yhwdah"
+  "REV":
+    name: "مکاشفہ"
+    slug: "mkashfh"

@@ -1,0 +1,83 @@
+language: "cwt"
+books:
+  "MAT":
+    name: "Májiye"
+    slug: "majiye"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Saaŋ"
+    slug: "saa"
+  "ACT":
+    name: "Epotor i"
+    slug: "epotor-i"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korent"
+    slug: "1-korent"
+  "2CO":
+    name: "2 Korent"
+    slug: "2-korent"
+  "GAL":
+    name: "Galasi"
+    slug: "galasi"
+  "EPH":
+    name: "Efees"
+    slug: "efees"
+  "PHP":
+    name: "Fílip"
+    slug: "filip"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemo"
+  "HEB":
+    name: "Esuwif i"
+    slug: "esuwif-i"
+  "JAS":
+    name: "Saak"
+    slug: "saak"
+  "1PE":
+    name: "1 Piyeer"
+    slug: "1-piyeer"
+  "2PE":
+    name: "2 Piyeer"
+    slug: "2-piyeer"
+  "1JN":
+    name: "1 Saaŋ"
+    slug: "1-saa"
+  "2JN":
+    name: "2 Saaŋ"
+    slug: "2-saa"
+  "3JN":
+    name: "3 Saaŋ"
+    slug: "3-saa"
+  "JUD":
+    name: "Sud"
+    slug: "sud"
+  "REV":
+    name: "Kafeeñal ku"
+    slug: "kafeenal-ku"

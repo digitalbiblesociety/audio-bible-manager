@@ -1,0 +1,77 @@
+language: "kmg"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johane"
+    slug: "johane"
+  "ACT":
+    name: "Aposolo Binaŋ"
+    slug: "aposolo-binan"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "Korinti I"
+    slug: "korinti-i"
+  "2CO":
+    name: "Korinti II"
+    slug: "korinti-ii"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+  "1TH":
+    name: "Tesalonike I"
+    slug: "tesalonike-i"
+  "2TH":
+    name: "Tesalonike II"
+    slug: "tesalonike-ii"
+  "1TI":
+    name: "Timoteo I"
+    slug: "timoteo-i"
+  "2TI":
+    name: "Timoteo II"
+    slug: "timoteo-ii"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Hebiraio"
+    slug: "hebiraio"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "Petoro I"
+    slug: "petoro-i"
+  "2PE":
+    name: "Petoro II"
+    slug: "petoro-ii"
+  "1JN":
+    name: "Johane I"
+    slug: "johane-i"
+  "2JN":
+    name: "Johane II"
+    slug: "johane-ii"
+  "3JN":
+    name: "Johane III"
+    slug: "johane-iii"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Bararuŋ Dâŋ"
+    slug: "bararun-dan"

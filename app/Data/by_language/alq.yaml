@@ -1,0 +1,83 @@
+language: "alq"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Lok"
+    slug: "lok"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Jesos Odanodaganan"
+    slug: "jesos-odanodaganan"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Konit"
+    slug: "1-konit"
+  "2CO":
+    name: "2 Konit"
+    slug: "2-konit"
+  "GAL":
+    name: "Kalecia"
+    slug: "kalecia"
+  "EPH":
+    name: "Epes"
+    slug: "epes"
+  "PHP":
+    name: "Pilip"
+    slug: "pilip"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tite"
+    slug: "tite"
+  "PHM":
+    name: "Pilemo"
+    slug: "pilemo"
+  "HEB":
+    name: "Ebaro"
+    slug: "ebaro"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Pien"
+    slug: "1-pien"
+  "2PE":
+    name: "2 Pien"
+    slug: "2-pien"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+  "JUD":
+    name: "Jod"
+    slug: "jod"
+  "REV":
+    name: "Kagi Iji 8Abadaagani8idj John"
+    slug: "kagi-iji-8abadaagani8idj-john"

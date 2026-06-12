@@ -1,0 +1,5 @@
+language: "qvo"
+books:
+  "MRK":
+    name: "Marcos"
+    slug: "marcos"

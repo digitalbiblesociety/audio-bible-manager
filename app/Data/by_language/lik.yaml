@@ -1,0 +1,83 @@
+language: "lik"
+books:
+  "MAT":
+    name: "Matayɔ"
+    slug: "matay"
+  "MRK":
+    name: "Malɨkɔ"
+    slug: "malik"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yuani"
+    slug: "yuani"
+  "ACT":
+    name: "Ligubo"
+    slug: "ligubo"
+  "ROM":
+    name: "Ɓalʉma"
+    slug: "baluma"
+  "1CO":
+    name: "1Ɓakolito"
+    slug: "1bakolito"
+  "2CO":
+    name: "2 Ɓakolito"
+    slug: "2-bakolito"
+  "GAL":
+    name: "Ɓagalatia"
+    slug: "bagalatia"
+  "EPH":
+    name: "Ɓaɛfɛsɔ"
+    slug: "bafs"
+  "PHP":
+    name: "Ɓafilipi"
+    slug: "bafilipi"
+  "COL":
+    name: "Ɓakɔlɔsaɨ"
+    slug: "baklsai"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotio"
+    slug: "1-timotio"
+  "2TI":
+    name: "2 Timotio"
+    slug: "2-timotio"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimono"
+    slug: "filimono"
+  "HEB":
+    name: "Ɓebelenia"
+    slug: "bebelenia"
+  "JAS":
+    name: "Yakɔbɔ"
+    slug: "yakb"
+  "1PE":
+    name: "1 Pɛtɛlɛ"
+    slug: "1-ptl"
+  "2PE":
+    name: "2 Pɛtɛlɛ"
+    slug: "2-ptl"
+  "1JN":
+    name: "1 Yuani"
+    slug: "1-yuani"
+  "2JN":
+    name: "2 Yuani"
+    slug: "2-yuani"
+  "3JN":
+    name: "3 Yuani"
+    slug: "3-yuani"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Ɓonziki"
+    slug: "bonziki"

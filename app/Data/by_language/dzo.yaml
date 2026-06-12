@@ -1,0 +1,83 @@
+language: "dzo"
+books:
+  "MAT":
+    name: "མེ་ཐིའུ་ལེའུ་"
+    slug: "me-thi-u-le-u"
+  "MRK":
+    name: "མཱར་ཀུ་ལེའུ་"
+    slug: "mar-ku-le-u"
+  "LUK":
+    name: "ལུ་ཀ་ལེའུ་"
+    slug: "lu-ka-le-u"
+  "JHN":
+    name: "ཡོ་ཧ་ནཱན་ལེའུ་"
+    slug: "yo-ha-nan-le-u"
+  "ACT":
+    name: "མཛད་པ་ལེའུ་"
+    slug: "mdzad-pa-le-u"
+  "ROM":
+    name: "རོམ་མི་ལེའུ་"
+    slug: "rom-mi-le-u"
+  "1CO":
+    name: "ཀོ་རཱིན་ཐི་དང་པ་ལེའུ་"
+    slug: "ko-rin-thi-dang-pa-le-u"
+  "2CO":
+    name: "ཀོ་རཱིན་ཐི་གཉིས་པ་ལེའུ་"
+    slug: "ko-rin-thi-gnyis-pa-le-u"
+  "GAL":
+    name: "ག་ལ་ཏི་ལེའུ་"
+    slug: "ga-la-ti-le-u"
+  "EPH":
+    name: "ཨི་ཕི་སིཔ་ལེའུ་"
+    slug: "i-phi-sip-le-u"
+  "PHP":
+    name: "ཕི་ལི་པི་ལེའུ་"
+    slug: "phi-li-pi-le-u"
+  "COL":
+    name: "ཀོ་ལོ་སི་ལེའུ་"
+    slug: "ko-lo-si-le-u"
+  "1TH":
+    name: "ཐེ་ས་ལོ་ནི་ཀ་དང་པ་ལེའུ་"
+    slug: "the-sa-lo-ni-ka-dang-pa-le-u"
+  "2TH":
+    name: "ཐེ་ས་ལོ་ནི་ཀ་གཉིས་པ་ལེའུ་"
+    slug: "the-sa-lo-ni-ka-gnyis-pa-le-u"
+  "1TI":
+    name: "ཏི་མོ་ཐི་དང་པ་ལེའུ་"
+    slug: "ti-mo-thi-dang-pa-le-u"
+  "2TI":
+    name: "ཏི་མོ་ཐི་གཉིས་པ་ལེའུ་"
+    slug: "ti-mo-thi-gnyis-pa-le-u"
+  "TIT":
+    name: "ཏི་ཏུས་ལེའུ་"
+    slug: "ti-tus-le-u"
+  "PHM":
+    name: "ཕི་ལེ་མཱོན་ལེའུ་"
+    slug: "phi-le-mana-le-u"
+  "HEB":
+    name: "ཧིབ་རུ་ལེའུ་"
+    slug: "hib-ru-le-u"
+  "JAS":
+    name: "ཡ་ཀོབ་ལེའུ་"
+    slug: "ya-kob-le-u"
+  "1PE":
+    name: "པེ་ཏྲོ་དང་པ་ལེའུ་"
+    slug: "pe-tro-dang-pa-le-u"
+  "2PE":
+    name: "པེ་ཏྲོ་གཉིས་པ་ལེའུ་"
+    slug: "pe-tro-gnyis-pa-le-u"
+  "1JN":
+    name: "ཡོ་ཧ་ནཱན་དང་པ་ལེའུ་"
+    slug: "yo-ha-nan-dang-pa-le-u"
+  "2JN":
+    name: "ཡོ་ཧ་ནཱན་གཉིས་པ་ལེའུ་"
+    slug: "yo-ha-nan-gnyis-pa-le-u"
+  "3JN":
+    name: "ཡོ་ཧ་ནཱན་གསུམ་པ་ལེའུ་"
+    slug: "yo-ha-nan-gsum-pa-le-u"
+  "JUD":
+    name: "ཡུ་དཱས་ལེའུ་"
+    slug: "yu-das-le-u"
+  "REV":
+    name: "མཐོང་སྣང་ལེའུ་"
+    slug: "mthong-snang-le-u"

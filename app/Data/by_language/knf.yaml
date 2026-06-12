@@ -1,0 +1,86 @@
+language: "knf"
+books:
+  "GEN":
+    name: "Ujuni"
+    slug: "ujuni"
+  "MAT":
+    name: "Maci"
+    slug: "maci"
+  "MRK":
+    name: "Markuŧ"
+    slug: "markut"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yowan"
+    slug: "yowan"
+  "ACT":
+    name: "Ulemp"
+    slug: "ulemp"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korinŧ"
+    slug: "1-korint"
+  "2CO":
+    name: "2 Korinŧ"
+    slug: "2-korint"
+  "GAL":
+    name: "Galaŧiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Efeŧ"
+    slug: "efet"
+  "PHP":
+    name: "Filip"
+    slug: "filip"
+  "COL":
+    name: "Koloŧ"
+    slug: "kolot"
+  "1TH":
+    name: "1 Teŧalonik"
+    slug: "1-tetalonik"
+  "2TH":
+    name: "2 Teŧalonik"
+    slug: "2-tetalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemoŋ"
+    slug: "filemon"
+  "HEB":
+    name: "Hebërë"
+    slug: "hebere"
+  "JAS":
+    name: "Yakob"
+    slug: "yakob"
+  "1PE":
+    name: "1 Piyeer"
+    slug: "1-piyeer"
+  "2PE":
+    name: "2 Piyeer"
+    slug: "2-piyeer"
+  "1JN":
+    name: "1 Yowan"
+    slug: "1-yowan"
+  "2JN":
+    name: "2 Yowan"
+    slug: "2-yowan"
+  "3JN":
+    name: "3 Yowan"
+    slug: "3-yowan"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Uko wi bayuujuŋ Yowan"
+    slug: "uko-wi-bayuujun-yowan"

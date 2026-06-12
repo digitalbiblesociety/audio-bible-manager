@@ -1,0 +1,89 @@
+language: "kvg"
+books:
+  "RUT":
+    name: "Lut"
+    slug: "lut"
+  "JON":
+    name: "Ziona"
+    slug: "ziona"
+  "MAT":
+    name: "Metiu"
+    slug: "metiu"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Zion"
+    slug: "zion"
+  "ACT":
+    name: "Keliso-gi u-anim"
+    slug: "keliso-gi-u-anim"
+  "ROM":
+    name: "Lom"
+    slug: "lom"
+  "1CO":
+    name: "1 Kolin"
+    slug: "1-kolin"
+  "2CO":
+    name: "2 Kolin"
+    slug: "2-kolin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Efesus"
+    slug: "efesus"
+  "PHP":
+    name: "Filipai"
+    slug: "filipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Iblu"
+    slug: "iblu"
+  "JAS":
+    name: "Zems"
+    slug: "zems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Zion"
+    slug: "1-zion"
+  "2JN":
+    name: "2 Zion"
+    slug: "2-zion"
+  "3JN":
+    name: "3 Zion"
+    slug: "3-zion"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+  "REV":
+    name: "Manqat Qandoveveam"
+    slug: "manqat-qandoveveam"

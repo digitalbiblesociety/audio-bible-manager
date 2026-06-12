@@ -1,0 +1,83 @@
+language: "apu"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Arókasi"
+    slug: "arokasi"
+  "JHN":
+    name: "Xoão"
+    slug: "xoao"
+  "ACT":
+    name: "Átosi"
+    slug: "atosi"
+  "ROM":
+    name: "Homano"
+    slug: "homano"
+  "1CO":
+    name: "1 Korĩto"
+    slug: "1-korito"
+  "2CO":
+    name: "2 Korĩto"
+    slug: "2-korito"
+  "GAL":
+    name: "Karásia"
+    slug: "karasia"
+  "EPH":
+    name: "Épeso"
+    slug: "epeso"
+  "PHP":
+    name: "Piriposi"
+    slug: "piriposi"
+  "COL":
+    name: "Koroso"
+    slug: "koroso"
+  "1TH":
+    name: "1 Tesarónika"
+    slug: "1-tesaronika"
+  "2TH":
+    name: "2 Tesarónika"
+    slug: "2-tesaronika"
+  "1TI":
+    name: "1 Tximótxio"
+    slug: "1-tximotxio"
+  "2TI":
+    name: "2 Tximótxio"
+    slug: "2-tximotxio"
+  "TIT":
+    name: "Txito"
+    slug: "txito"
+  "PHM":
+    name: "Piremõ"
+    slug: "piremo"
+  "HEB":
+    name: "Epireo"
+    slug: "epireo"
+  "JAS":
+    name: "Txiako"
+    slug: "txiako"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Xoão"
+    slug: "1-xoao"
+  "2JN":
+    name: "2 Xoão"
+    slug: "2-xoao"
+  "3JN":
+    name: "3 Xoão"
+    slug: "3-xoao"
+  "JUD":
+    name: "Xota"
+    slug: "xota"
+  "REV":
+    name: "Apokorípisi"
+    slug: "apokoripisi"

@@ -1,0 +1,200 @@
+language: "lcp"
+books:
+  "GEN":
+    name: "ติ โมเซ"
+    slug: "ti-mose"
+  "EXO":
+    name: "ลอา โมเซ"
+    slug: "la-mose"
+  "LEV":
+    name: "พะทัม ลอวย โมเซ"
+    slug: "phatham-lwy-mose"
+  "NUM":
+    name: "ปาวน โมเซ"
+    slug: "pawn-mose"
+  "DEU":
+    name: "พอน โมเซ"
+    slug: "phn-mose"
+  "JOS":
+    name: "โยชูวา"
+    slug: "yochuwa"
+  "JDG":
+    name: "ป รเตีฮ รตุม"
+    slug: "p-rteih-rtum"
+  "RUT":
+    name: "รูต"
+    slug: "rut"
+  "1SA":
+    name: "ติ ซามูเอน"
+    slug: "ti-samuen"
+  "2SA":
+    name: "2 ซามูเอน"
+    slug: "2-samuen"
+  "1KI":
+    name: "1 กซัต"
+    slug: "1-ksat"
+  "2KI":
+    name: "2 กซัต"
+    slug: "2-ksat"
+  "1CH":
+    name: "ลอวย กซัต"
+    slug: "lwy-ksat"
+  "2CH":
+    name: "ปาวน กซัต"
+    slug: "pawn-ksat"
+  "EZR":
+    name: "เอซรา"
+    slug: "esra"
+  "NEH":
+    name: "เนฮะมี"
+    slug: "nehami"
+  "EST":
+    name: "เอซเทอ"
+    slug: "esthe"
+  "JOB":
+    name: "โยป"
+    slug: "yop"
+  "PSA":
+    name: "พะทัม ลืลาว"
+    slug: "phatham-luelaw"
+  "PRO":
+    name: "ซตอก รเง่อึม"
+    slug: "stk-rngeuem"
+  "ECC":
+    name: "คู ไมจ พันญา"
+    slug: "khu-maich-phanya"
+  "SNG":
+    name: "รซอม เชีย ซาโลมอน"
+    slug: "rsm-cheiy-salomn"
+  "ISA":
+    name: "อิซยา"
+    slug: "isya"
+  "JER":
+    name: "เยเรมี"
+    slug: "yeremi"
+  "LAM":
+    name: "รซอม เยือม"
+    slug: "rsm-yueam"
+  "EZK":
+    name: "เอเซเคียน"
+    slug: "esekheiyn"
+  "DAN":
+    name: "ด่านีเอน"
+    slug: "danien"
+  "HOS":
+    name: "โฮเชยา"
+    slug: "hocheya"
+  "JOL":
+    name: "โยเอน"
+    slug: "yoen"
+  "AMO":
+    name: "อาโมต"
+    slug: "amot"
+  "OBA":
+    name: "โอบ่าดี่"
+    slug: "obadi"
+  "JON":
+    name: "โยนา"
+    slug: "yona"
+  "MIC":
+    name: "มีคา"
+    slug: "mikha"
+  "NAM":
+    name: "นาฮุม"
+    slug: "nahum"
+  "HAB":
+    name: "ฮาบ่ากุก"
+    slug: "habakuk"
+  "ZEP":
+    name: "เซฟันยา"
+    slug: "sefanya"
+  "HAG":
+    name: "ฮักไก"
+    slug: "hakkai"
+  "ZEC":
+    name: "เซคาริยา"
+    slug: "sekhariya"
+  "MAL":
+    name: "มาลาคี"
+    slug: "malakhi"
+  "MAT":
+    name: "มัตไท"
+    slug: "matthai"
+  "MRK":
+    name: "มาระโก"
+    slug: "marako"
+  "LUK":
+    name: "ลูกา"
+    slug: "luka"
+  "JHN":
+    name: "โยฮัน"
+    slug: "yohan"
+  "ACT":
+    name: "กัน ไกญกอ"
+    slug: "kan-kaiyk"
+  "ROM":
+    name: "โรม"
+    slug: "rom"
+  "1CO":
+    name: "ติ โคริน"
+    slug: "ti-khorin"
+  "2CO":
+    name: "ลอา โคริน"
+    slug: "la-khorin"
+  "GAL":
+    name: "กะลาเทีย"
+    slug: "kalatheiy"
+  "EPH":
+    name: "เอเฟโซ"
+    slug: "efeso"
+  "PHP":
+    name: "ฟีลิปปี"
+    slug: "filippi"
+  "COL":
+    name: "โคโลซี"
+    slug: "kholosi"
+  "1TH":
+    name: "ติ เทซะโลนิกา"
+    slug: "ti-thesalonika"
+  "2TH":
+    name: "ลอา เทซะโลนิกา"
+    slug: "la-thesalonika"
+  "1TI":
+    name: "ติ ทิโมที"
+    slug: "ti-thimothi"
+  "2TI":
+    name: "ลอา ทิโมที"
+    slug: "la-thimothi"
+  "TIT":
+    name: "ติโต"
+    slug: "tito"
+  "PHM":
+    name: "ฟีเลโมน"
+    slug: "filemon"
+  "HEB":
+    name: "ฮีบรู"
+    slug: "hibru"
+  "JAS":
+    name: "ยาโคโบ่"
+    slug: "yakhobo"
+  "1PE":
+    name: "ติ เปโตร"
+    slug: "ti-petor"
+  "2PE":
+    name: "ลอา เปโตร"
+    slug: "la-petor"
+  "1JN":
+    name: "ติ โยฮัน"
+    slug: "ti-yohan"
+  "2JN":
+    name: "ลอา โยฮัน"
+    slug: "la-yohan"
+  "3JN":
+    name: "ลอวย โยฮัน"
+    slug: "lwy-yohan"
+  "JUD":
+    name: "ยูด่า"
+    slug: "yuda"
+  "REV":
+    name: "พะทัม รโฮงะ"
+    slug: "phatham-rhonga"

@@ -1,0 +1,266 @@
+language: "tiv"
+books:
+  "GEN":
+    name: "Genese"
+    slug: "genese"
+    name_toc: "Esta"
+  "EXO":
+    name: "Ekesodu"
+    slug: "ekesodu"
+    name_toc: "Jobo"
+  "LEV":
+    name: "Levitiku"
+    slug: "levitiku"
+    name_toc: "Esambu"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+    name_toc: "Tukedi"
+  "DEU":
+    name: "Duteronomi"
+    slug: "duteronomi"
+    name_toc: "Undaki"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Limbu la Solomona"
+  "JDG":
+    name: "Mbaajiriv"
+    slug: "mbaajiriv"
+    name_toc: "Isaya"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+    name_toc: "Buku dia Jeremiya"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Delu dia Jeremiya"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Ezekiyele"
+  "1KI":
+    name: "1 Utor"
+    slug: "1-utor"
+    name_toc: "Danyele"
+  "2KI":
+    name: "2 Utor"
+    slug: "2-utor"
+    name_toc: "Hosea"
+  "1CH":
+    name: "1 Kroniku"
+    slug: "1-kroniku"
+    name_toc: "Joele"
+  "2CH":
+    name: "2 Kroniku"
+    slug: "2-kroniku"
+    name_toc: "Amose"
+  "EZR":
+    name: "Esera"
+    slug: "esera"
+    name_toc: "Obadiya"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Jona"
+  "EST":
+    name: "Eseter"
+    slug: "eseter"
+    name_toc: "Mika"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Nahuma"
+  "PSA":
+    name: "Upasalmi"
+    slug: "upasalmi"
+    name_toc: "Habakuka"
+  "PRO":
+    name: "Anzaakaa"
+    slug: "anzaakaa"
+    name_toc: "Zefaniya"
+  "ECC":
+    name: "Orpasenkwagh"
+    slug: "orpasenkwagh"
+    name_toc: "Hangai"
+  "SNG":
+    name: "I Solomon"
+    slug: "i-solomon"
+    name_toc: "Zekariya"
+  "ISA":
+    name: "Yesaia"
+    slug: "yesaia"
+    name_toc: "Malaki"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Lukumu lʼololo Lakafundi Mateu"
+  "LAM":
+    name: "Ukwelegh"
+    slug: "ukwelegh"
+    name_toc: "Lukumu lʼololo Lakafundi Mako"
+  "EZK":
+    name: "Esekiel"
+    slug: "esekiel"
+    name_toc: "Lukumu lʼololo Lakafundi Luka"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Lukumu lʼololo Lakafundi Joani"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Buku dia Etsha wa Atumami"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "Mukanda wakafundela Paulu asi Romo"
+  "AMO":
+    name: "Amoshi"
+    slug: "amoshi"
+    name_toc: "Mukanda a Ntundu wakafundela Paulu asi Koreto"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Mukanda a Hendi wakafundela Paulu asi Koreto"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Mukanda wakafundela Paulu asi Ngalatiya"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Mukanda wakafundela Paulu asi Efeso"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Mukanda wakafundela Paulu asi Filipi"
+  "HAB":
+    name: "Habaku"
+    slug: "habaku"
+    name_toc: "Mukanda wakafundela Paulu asi Kolosai"
+  "ZEP":
+    name: "Sefania"
+    slug: "sefania"
+    name_toc: "Mukanda a Ntundu wakafundela Paulu asi Tesalonika"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Mukanda a Hendi wakafundela Paulu asi Tesalonika"
+  "ZEC":
+    name: "Sekaria"
+    slug: "sekaria"
+    name_toc: "Mukanda a Ntundu wakafundela Paulu Timote"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Mukanda a Hendi wakafundela Paulu Timote"
+  "MAT":
+    name: "Mateu"
+    slug: "mateu"
+    name_toc: "Mukanda wakafundela Paulu Tito"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+    name_toc: "Mukanda wakafundela Paulu Filemona"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Mukanda le asi Heberu"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Mukanda Wakafundi Jakoba"
+  "ACT":
+    name: "Aerenakaa A Mbaapostoli"
+    slug: "aerenakaa-a-mbaapostoli"
+    name_toc: "Mukanda a Ntundu wakafundi Petero"
+  "ROM":
+    name: "Mbaromanu"
+    slug: "mbaromanu"
+    name_toc: "Mikanda a Hendi wakafundi Petero"
+  "1CO":
+    name: "1 Mbakorinte"
+    slug: "1-mbakorinte"
+    name_toc: "Mukanda a Ntundu wakafundi Joani"
+  "2CO":
+    name: "2 Mbakorinte"
+    slug: "2-mbakorinte"
+    name_toc: "Mukanda a Hendi wakafundi Joani"
+  "GAL":
+    name: "Mbagalatia"
+    slug: "mbagalatia"
+    name_toc: "Mukanda a Satu wakafundi Joani"
+  "EPH":
+    name: "Mbaefese"
+    slug: "mbaefese"
+    name_toc: "Mukanda wakafundi Jude"
+  "PHP":
+    name: "Mbafilipi"
+    slug: "mbafilipi"
+    name_toc: "Enyelo"
+  "COL":
+    name: "Mbakolose"
+    slug: "mbakolose"
+    name_toc: "Mateo"
+  "1TH":
+    name: "1 Mbatesalonika"
+    slug: "1-mbatesalonika"
+    name_toc: "Marcos"
+  "2TH":
+    name: "2 Timoteu"
+    slug: "2-timoteu"
+    name_toc: "Lucas"
+  "1TI":
+    name: "1 Timoteu"
+    slug: "1-timoteu"
+    name_toc: "Juan"
+  "2TI":
+    name: "2 Timoteu"
+    slug: "2-timoteu"
+    name_toc: "Da l'onataxanaxa'c soua Jesús lamaxa'shi"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+    name_toc: "Romanos"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "1 Corintios"
+  "HEB":
+    name: "Mbaheberu"
+    slug: "mbaheberu"
+    name_toc: "2 Corintios"
+  "JAS":
+    name: "Yakobu"
+    slug: "yakobu"
+    name_toc: "Gálatas"
+  "1PE":
+    name: "1 Peteru"
+    slug: "1-peteru"
+    name_toc: "Efesios"
+  "2PE":
+    name: "2 Peteru"
+    slug: "2-peteru"
+    name_toc: "Filipenses"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Colosenses"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "1 Tesalonicenses"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "2 Tesalonicenses"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "1 Timoteo"
+  "REV":
+    name: "Mpase U Yohane"
+    slug: "mpase-u-yohane"
+    name_toc: "2 Timoteo"

@@ -1,0 +1,83 @@
+language: "jni"
+books:
+  "MAT":
+    name: "Umatiyu"
+    slug: "umatiyu"
+  "MRK":
+    name: "Umarkus"
+    slug: "umarkus"
+  "LUK":
+    name: "Uluka"
+    slug: "uluka"
+  "JHN":
+    name: "Uyuhana"
+    slug: "uyuhana"
+  "ACT":
+    name: "Katuma"
+    slug: "katuma"
+  "ROM":
+    name: "Uromawa"
+    slug: "uromawa"
+  "1CO":
+    name: "Ukorontiyawa Utuba"
+    slug: "ukorontiyawa-utuba"
+  "2CO":
+    name: "Ukorintiyawa Ukure"
+    slug: "ukorintiyawa-ukure"
+  "GAL":
+    name: "Ugalatiyawa"
+    slug: "ugalatiyawa"
+  "EPH":
+    name: "Afisawa."
+    slug: "afisawa"
+  "PHP":
+    name: "Ufihbyawa"
+    slug: "ufihbyawa"
+  "COL":
+    name: "Ukolosiyawa"
+    slug: "ukolosiyawa"
+  "1TH":
+    name: "Utassalonikawa Utuba"
+    slug: "utassalonikawa-utuba"
+  "2TH":
+    name: "Utassalonikawa Ukre"
+    slug: "utassalonikawa-ukre"
+  "1TI":
+    name: "Timoti Utuba"
+    slug: "timoti-utuba"
+  "2TI":
+    name: "Timoti Ukure"
+    slug: "timoti-ukure"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Ufilimon"
+    slug: "ufilimon"
+  "HEB":
+    name: "Uibraniyawa"
+    slug: "uibraniyawa"
+  "JAS":
+    name: "Uyakubu"
+    slug: "uyakubu"
+  "1PE":
+    name: "1 Ubiturus"
+    slug: "1-ubiturus"
+  "2PE":
+    name: "2 Ubiturus"
+    slug: "2-ubiturus"
+  "1JN":
+    name: "Uyohana Utuba"
+    slug: "uyohana-utuba"
+  "2JN":
+    name: "Uyohana Ukure"
+    slug: "uyohana-ukure"
+  "3JN":
+    name: "Uyohana Utaru"
+    slug: "uyohana-utaru"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"

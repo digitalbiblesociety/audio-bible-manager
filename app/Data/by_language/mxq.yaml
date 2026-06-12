@@ -1,0 +1,83 @@
+language: "mxq"
+books:
+  "MAT":
+    name: "Matewʉ"
+    slug: "matewu"
+  "MRK":
+    name: "Markʉs"
+    slug: "markus"
+  "LUK":
+    name: "Lukʉs"
+    slug: "lukus"
+  "JHN":
+    name: "Fwank"
+    slug: "fwank"
+  "ACT":
+    name: "Apostʉlʉty"
+    slug: "apostuluty"
+  "ROM":
+    name: "Romanʉs"
+    slug: "romanus"
+  "1CO":
+    name: "1 Korintʉ"
+    slug: "1-korintu"
+  "2CO":
+    name: "2 Korintʉ"
+    slug: "2-korintu"
+  "GAL":
+    name: "Galasyʉ"
+    slug: "galasyu"
+  "EPH":
+    name: "Éfesʉ"
+    slug: "efesu"
+  "PHP":
+    name: "Filipʉs"
+    slug: "filipus"
+  "COL":
+    name: "Kolosʉ"
+    slug: "kolosu"
+  "1TH":
+    name: "1 Tesalónikʉ"
+    slug: "1-tesaloniku"
+  "2TH":
+    name: "2 Tesalónikʉ"
+    slug: "2-tesaloniku"
+  "1TI":
+    name: "1 Timotee"
+    slug: "1-timotee"
+  "2TI":
+    name: "2 Timotee"
+    slug: "2-timotee"
+  "TIT":
+    name: "Titʉ"
+    slug: "titu"
+  "PHM":
+    name: "Filemón"
+    slug: "filemon"
+  "HEB":
+    name: "Ebreeʉsʉty"
+    slug: "ebreeusuty"
+  "JAS":
+    name: "Santya̱ꞌa̱gʉ"
+    slug: "santyaagu"
+  "1PE":
+    name: "1 Peedrʉ"
+    slug: "1-peedru"
+  "2PE":
+    name: "2 Peedrʉ"
+    slug: "2-peedru"
+  "1JN":
+    name: "1 Fwank"
+    slug: "1-fwank"
+  "2JN":
+    name: "2 Fwank"
+    slug: "2-fwank"
+  "3JN":
+    name: "3 Fwank"
+    slug: "3-fwank"
+  "JUD":
+    name: "Juudʉs"
+    slug: "juudus"
+  "REV":
+    name: "DIꞌIBɄ JATANɄP"
+    slug: "diibu-jatanup"

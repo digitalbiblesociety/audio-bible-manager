@@ -1,0 +1,200 @@
+language: "acm"
+books:
+  "GEN":
+    name: "تَكوِين"
+    slug: "tkwyn"
+  "EXO":
+    name: "خُرُوج"
+    slug: "khrwj"
+  "LEV":
+    name: "لَاويِّين"
+    slug: "lawiyn"
+  "NUM":
+    name: "عَدَد"
+    slug: "add"
+  "DEU":
+    name: "تَثنِيَة"
+    slug: "tthnyh"
+  "JOS":
+    name: "يَشُوع"
+    slug: "yshwa"
+  "JDG":
+    name: "قُضَاة"
+    slug: "qdah"
+  "RUT":
+    name: "رَاعُوث"
+    slug: "raawth"
+  "1SA":
+    name: "١ صَمُوئِيل"
+    slug: "smwiyl"
+  "2SA":
+    name: "٢ صَمُوئِيل"
+    slug: "smwiyl"
+  "1KI":
+    name: "١ مُلُوك"
+    slug: "mlwk"
+  "2KI":
+    name: "٢ مُلُوك"
+    slug: "mlwk"
+  "1CH":
+    name: "١ أخْبَار"
+    slug: "akhbar"
+  "2CH":
+    name: "٢ أخْبَار"
+    slug: "akhbar"
+  "EZR":
+    name: "عَزْرَا"
+    slug: "azra"
+  "NEH":
+    name: "نَحَمْيَا"
+    slug: "nhmya"
+  "EST":
+    name: "أسْتِير"
+    slug: "astyr"
+  "JOB":
+    name: "أيُّوب"
+    slug: "ayub"
+  "PSA":
+    name: "مزمور"
+    slug: "mzmwr"
+  "PRO":
+    name: "أمثَال"
+    slug: "amthal"
+  "ECC":
+    name: "جَامِعَة"
+    slug: "jamah"
+  "SNG":
+    name: "نشِيد"
+    slug: "nshyd"
+  "ISA":
+    name: "إشَعْيَاء"
+    slug: "ashaya"
+  "JER":
+    name: "إرْمِيَا"
+    slug: "armya"
+  "LAM":
+    name: "مَرَاثِي"
+    slug: "mrathy"
+  "EZK":
+    name: "حِزْقِيَال"
+    slug: "hzqyal"
+  "DAN":
+    name: "دَانيَال"
+    slug: "danial"
+  "HOS":
+    name: "هُوشَع"
+    slug: "hwsha"
+  "JOL":
+    name: "يُوئِيل"
+    slug: "ywiyl"
+  "AMO":
+    name: "عَامُوس"
+    slug: "aamws"
+  "OBA":
+    name: "عُوبَدْيَا"
+    slug: "awbdya"
+  "JON":
+    name: "يُونَان"
+    slug: "yunnan"
+  "MIC":
+    name: "ميخَا"
+    slug: "mykha"
+  "NAM":
+    name: "نَاحُوم"
+    slug: "nahwm"
+  "HAB":
+    name: "حَبَقُّوق"
+    slug: "hbqwq"
+  "ZEP":
+    name: "صَفَنْيَا"
+    slug: "sfnya"
+  "HAG":
+    name: "حَجَّي"
+    slug: "hjy"
+  "ZEC":
+    name: "زَكَريَّا"
+    slug: "zakria"
+  "MAL":
+    name: "مَلَاخِي"
+    slug: "mlakhy"
+  "MAT":
+    name: "مَتَّى"
+    slug: "mty"
+  "MRK":
+    name: "مَرْقُس"
+    slug: "mrqs"
+  "LUK":
+    name: "لُوقَا"
+    slug: "lwqa"
+  "JHN":
+    name: "يُوحَنَّا"
+    slug: "ywhna"
+  "ACT":
+    name: "أعْمَال"
+    slug: "aamal"
+  "ROM":
+    name: "رُومَا"
+    slug: "rwma"
+  "1CO":
+    name: "١ كُورِنثُوس"
+    slug: "kwrnthws"
+  "2CO":
+    name: "٢ كُورِنثُوس"
+    slug: "kwrnthws"
+  "GAL":
+    name: "غَلَاطِيَّة"
+    slug: "ghlatyh"
+  "EPH":
+    name: "أفَسُس"
+    slug: "afss"
+  "PHP":
+    name: "فِيلِبِّي"
+    slug: "philby"
+  "COL":
+    name: "كُولُوسِي"
+    slug: "kwlwsy"
+  "1TH":
+    name: "١ تَسَالُونِيكِي"
+    slug: "tsalwnyky"
+  "2TH":
+    name: "٢ تَسَالُونِيكِي"
+    slug: "tsalwnyky"
+  "1TI":
+    name: "١ تِيمُوثَاوُس"
+    slug: "tymwthaws"
+  "2TI":
+    name: "٢ تِيمُوثَاوُس"
+    slug: "tymwthaws"
+  "TIT":
+    name: "تِيطُس"
+    slug: "tyts"
+  "PHM":
+    name: "فِلِيمُون"
+    slug: "flymwn"
+  "HEB":
+    name: "عِبرَانِيِّين"
+    slug: "abraniyn"
+  "JAS":
+    name: "يَعْقُوب"
+    slug: "yaqob"
+  "1PE":
+    name: "١ بُطْرُس"
+    slug: "btrs"
+  "2PE":
+    name: "٢ بُطْرُس"
+    slug: "btrs"
+  "1JN":
+    name: "١ يُوحَنَّا"
+    slug: "ywhna"
+  "2JN":
+    name: "٢ يُوحَنَّا"
+    slug: "ywhna"
+  "3JN":
+    name: "٣ يُوحَنَّا"
+    slug: "ywhna"
+  "JUD":
+    name: "يَهُوذَا"
+    slug: "yhwdha"
+  "REV":
+    name: "رُؤيَا"
+    slug: "ruya"

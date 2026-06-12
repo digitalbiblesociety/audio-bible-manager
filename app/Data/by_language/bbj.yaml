@@ -1,0 +1,83 @@
+language: "bbj"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Markusi"
+    slug: "markusi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Mfa' Mghɛ Nthəm"
+    slug: "mfa-mgh-nthem"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+  "PHP":
+    name: "Filipo"
+    slug: "filipo"
+  "COL":
+    name: "Kolosai"
+    slug: "kolosai"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotio"
+    slug: "1-timotio"
+  "2TI":
+    name: "2 Timotio"
+    slug: "2-timotio"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ebraika"
+    slug: "ebraika"
+  "JAS":
+    name: "Yakop"
+    slug: "yakop"
+  "1PE":
+    name: "1 Pɛtrɔ"
+    slug: "1-ptr"
+  "2PE":
+    name: "2 Pɛtrɔ"
+    slug: "2-ptr"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Apokalipsə"
+    slug: "apokalipse"

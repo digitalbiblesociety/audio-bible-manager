@@ -1,0 +1,83 @@
+language: "sce"
+books:
+  "MAT":
+    name: "Matai"
+    slug: "matai"
+  "MRK":
+    name: "Make"
+    slug: "make"
+  "LUK":
+    name: "Lujia"
+    slug: "lujia"
+  "JHN":
+    name: "Yaheiya"
+    slug: "yaheiya"
+  "ACT":
+    name: "Tujila"
+    slug: "tujila"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+  "1CO":
+    name: "1Gelindo"
+    slug: "1gelindo"
+  "2CO":
+    name: "2Gelindo"
+    slug: "2gelindo"
+  "GAL":
+    name: "Jialatai"
+    slug: "jialatai"
+  "EPH":
+    name: "Ifuso"
+    slug: "ifuso"
+  "PHP":
+    name: "Feilibi"
+    slug: "feilibi"
+  "COL":
+    name: "Geloxi"
+    slug: "geloxi"
+  "1TH":
+    name: "1Qiesalonijia"
+    slug: "1qiesalonijia"
+  "2TH":
+    name: "2Qiesalonijia"
+    slug: "2qiesalonijia"
+  "1TI":
+    name: "1Qimotai"
+    slug: "1qimotai"
+  "2TI":
+    name: "2Qimotai"
+    slug: "2qimotai"
+  "TIT":
+    name: "Qido"
+    slug: "qido"
+  "PHM":
+    name: "Feilimen"
+    slug: "feilimen"
+  "HEB":
+    name: "Xibolai"
+    slug: "xibolai"
+  "JAS":
+    name: "Yagebu"
+    slug: "yagebu"
+  "1PE":
+    name: "1Beduru"
+    slug: "1beduru"
+  "2PE":
+    name: "2Beduru"
+    slug: "2beduru"
+  "1JN":
+    name: "1Yaheiya"
+    slug: "1yaheiya"
+  "2JN":
+    name: "2Yaheiya"
+    slug: "2yaheiya"
+  "3JN":
+    name: "3Yaheiya"
+    slug: "3yaheiya"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Mejieghasan"
+    slug: "mejieghasan"

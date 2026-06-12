@@ -1,0 +1,83 @@
+language: "xrb"
+books:
+  "MAT":
+    name: "Matɛhɛ"
+    slug: "math"
+  "MRK":
+    name: "Marɛkɛ"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "Nsãn"
+    slug: "nsan"
+  "ACT":
+    name: "Yesu tẽnlɛhɛ tẽŋ"
+    slug: "yesu-tenlh-ten"
+  "ROM":
+    name: "Wormefa"
+    slug: "wormefa"
+  "1CO":
+    name: "Kɔrntifa cir"
+    slug: "krntifa-cir"
+  "2CO":
+    name: "Kɔrntifa saba syãŋ wuhu"
+    slug: "krntifa-saba-syan-wuhu"
+  "GAL":
+    name: "Galasyifa"
+    slug: "galasyifa"
+  "EPH":
+    name: "Yefɛsyifa"
+    slug: "yefsyifa"
+  "PHP":
+    name: "Filipefa"
+    slug: "filipefa"
+  "COL":
+    name: "Kolosyifa"
+    slug: "kolosyifa"
+  "1TH":
+    name: "Tesalonifa saba cir"
+    slug: "tesalonifa-saba-cir"
+  "2TH":
+    name: "Tesalonifa saba syãŋ wuhu"
+    slug: "tesalonifa-saba-syan-wuhu"
+  "1TI":
+    name: "Timuti saba cir"
+    slug: "timuti-saba-cir"
+  "2TI":
+    name: "Timuti saba syãŋ wuhu"
+    slug: "timuti-saba-syan-wuhu"
+  "TIT":
+    name: "Tyite"
+    slug: "tyite"
+  "PHM":
+    name: "Filemu"
+    slug: "filemu"
+  "HEB":
+    name: "Yebɛrɛfa"
+    slug: "yebrfa"
+  "JAS":
+    name: "Syake"
+    slug: "syake"
+  "1PE":
+    name: "Pyar saba cir"
+    slug: "pyar-saba-cir"
+  "2PE":
+    name: "Pyar saba syãŋ wuhu"
+    slug: "pyar-saba-syan-wuhu"
+  "1JN":
+    name: "Nsãn saba cir"
+    slug: "nsan-saba-cir"
+  "2JN":
+    name: "Nsãn saba syãŋ wuhu"
+    slug: "nsan-saba-syan-wuhu"
+  "3JN":
+    name: "Nsãn saba tãã wuhu"
+    slug: "nsan-saba-taa-wuhu"
+  "JUD":
+    name: "Yudi saba"
+    slug: "yudi-saba"
+  "REV":
+    name: "Kayar"
+    slug: "kayar"

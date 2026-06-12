@@ -1,0 +1,200 @@
+language: "spy"
+books:
+  "GEN":
+    name: "Toowunēēt"
+    slug: "toowuneet"
+  "EXO":
+    name: "Chuytaayeet"
+    slug: "chuytaayeet"
+  "LEV":
+    name: "Laawiik"
+    slug: "laawiik"
+  "NUM":
+    name: "Kāāyiitēēt"
+    slug: "kaayiiteet"
+  "DEU":
+    name: "Kiruutēk"
+    slug: "kiruutek"
+  "JOS":
+    name: "Chooswa"
+    slug: "chooswa"
+  "JDG":
+    name: "Kiirwookik"
+    slug: "kiirwookik"
+  "RUT":
+    name: "Ruut"
+    slug: "ruut"
+  "1SA":
+    name: "1 Sāmwēēl"
+    slug: "1-samweel"
+  "2SA":
+    name: "2 Sāmwēēl"
+    slug: "2-samweel"
+  "1KI":
+    name: "1 Bāytooyik"
+    slug: "1-baytooyik"
+  "2KI":
+    name: "2 Bāytooyik"
+    slug: "2-baytooyik"
+  "1CH":
+    name: "1 Tētuutēk"
+    slug: "1-tetuutek"
+  "2CH":
+    name: "2 Tētuutēk"
+    slug: "2-tetuutek"
+  "EZR":
+    name: "Eesra"
+    slug: "eesra"
+  "NEH":
+    name: "Neemnyaa"
+    slug: "neemnyaa"
+  "EST":
+    name: "Eesta"
+    slug: "eesta"
+  "JOB":
+    name: "Āyub"
+    slug: "ayub"
+  "PSA":
+    name: "Tyēēnwookik"
+    slug: "tyeenwookik"
+  "PRO":
+    name: "Kāālēwēnik"
+    slug: "kaalewenik"
+  "ECC":
+    name: "Āmtooyiintēēt"
+    slug: "amtooyiinteet"
+  "SNG":
+    name: "Tyēēntaab Sōlōmōōn"
+    slug: "tyeentaab-solomoon"
+  "ISA":
+    name: "Isaaya"
+    slug: "isaaya"
+  "JER":
+    name: "Cheremnyaa"
+    slug: "cheremnyaa"
+  "LAM":
+    name: "Mēēysēēt"
+    slug: "meeyseet"
+  "EZK":
+    name: "Ēsēkyēēl"
+    slug: "esekyeel"
+  "DAN":
+    name: "Tānnyēēl"
+    slug: "tannyeel"
+  "HOS":
+    name: "Oseeya"
+    slug: "oseeya"
+  "JOL":
+    name: "Chōōwēēl"
+    slug: "chooweel"
+  "AMO":
+    name: "Āmōōs"
+    slug: "amoos"
+  "OBA":
+    name: "Obatyaa"
+    slug: "obatyaa"
+  "JON":
+    name: "Yoona"
+    slug: "yoona"
+  "MIC":
+    name: "Miika"
+    slug: "miika"
+  "NAM":
+    name: "Nāwuum"
+    slug: "nawuum"
+  "HAB":
+    name: "Aabakuuk"
+    slug: "aabakuuk"
+  "ZEP":
+    name: "Sefannyaa"
+    slug: "sefannyaa"
+  "HAG":
+    name: "Akaay"
+    slug: "akaay"
+  "ZEC":
+    name: "Sekaryaa"
+    slug: "sekaryaa"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "MAT":
+    name: "Mataayo"
+    slug: "mataayo"
+  "MRK":
+    name: "Māārkō"
+    slug: "maarko"
+  "LUK":
+    name: "Luuka"
+    slug: "luuka"
+  "JHN":
+    name: "Yoowaana"
+    slug: "yoowaana"
+  "ACT":
+    name: "Yēyuutēk"
+    slug: "yeyuutek"
+  "ROM":
+    name: "Roomeek"
+    slug: "roomeek"
+  "1CO":
+    name: "1 Kōōriintēēk"
+    slug: "1-kooriinteek"
+  "2CO":
+    name: "2 Kōōriintēēk"
+    slug: "2-kooriinteek"
+  "GAL":
+    name: "Kalatyeek"
+    slug: "kalatyeek"
+  "EPH":
+    name: "Ēfēēsēēk"
+    slug: "efeeseek"
+  "PHP":
+    name: "Filibiik"
+    slug: "filibiik"
+  "COL":
+    name: "Kolosaayeek"
+    slug: "kolosaayeek"
+  "1TH":
+    name: "1 Tēēsālōōnikēēk"
+    slug: "1-teesaloonikeek"
+  "2TH":
+    name: "2 Tēēsālōōnikēēk"
+    slug: "2-teesaloonikeek"
+  "1TI":
+    name: "1 Tēmētēēwō"
+    slug: "1-temeteewo"
+  "2TI":
+    name: "2 Tēmētēēwō"
+    slug: "2-temeteewo"
+  "TIT":
+    name: "Tiitō"
+    slug: "tiito"
+  "PHM":
+    name: "Filēmōōn"
+    slug: "filemoon"
+  "HEB":
+    name: "Iburaneek"
+    slug: "iburaneek"
+  "JAS":
+    name: "Yāākōbō"
+    slug: "yaakobo"
+  "1PE":
+    name: "1 Bētērō"
+    slug: "1-betero"
+  "2PE":
+    name: "2 Bētērō"
+    slug: "2-betero"
+  "1JN":
+    name: "1 Yoowaana"
+    slug: "1-yoowaana"
+  "2JN":
+    name: "2 Yoowaana"
+    slug: "2-yoowaana"
+  "3JN":
+    name: "3 Yoowaana"
+    slug: "3-yoowaana"
+  "JUD":
+    name: "Yuuta"
+    slug: "yuuta"
+  "REV":
+    name: "Ng'oong'uutyēēt"
+    slug: "ngoonguutyeet"

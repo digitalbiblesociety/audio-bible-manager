@@ -1,0 +1,83 @@
+language: "crl"
+books:
+  "MAT":
+    name: "ᒫᔪᐦᑣᑦ ᒫᕠᔫ"
+    slug: "maayotwaat-maathiyoo"
+  "MRK":
+    name: "ᒫᔪᐦᐧᑖᑦ ᒫᕐᒃ"
+    slug: "maayotaat-maark"
+  "LUK":
+    name: "ᒫᔪᐦᑣᑦ ᓘᒃ"
+    slug: "maayotwaat-look"
+  "JHN":
+    name: "ᒫᔪᐦᑣᑦ ᒞᓐ"
+    slug: "maayotwaat-cwaan"
+  "ACT":
+    name: "ᐋᑆᔅᑎᓕᒡ"
+    slug: "aapwaastilic"
+  "ROM":
+    name: "ᕎᒥᓐ"
+    slug: "rwaamin"
+  "1CO":
+    name: "ᓃᔥᑎᒻ ᑯᕆᓐᕠᔨᓐ"
+    slug: "niishtim-korinthiyin"
+  "2CO":
+    name: "ᓃᔓ ᑯᕆᓐᕠᔨᓐ"
+    slug: "niisho-korinthiyin"
+  "GAL":
+    name: "ᑳᓓᔑᔨᓐ"
+    slug: "kaaleshiyin"
+  "EPH":
+    name: "ᐄᕕᓰᔨᓐ"
+    slug: "iifisiiyin"
+  "PHP":
+    name: "ᕕᓕᐱᔨᓐ"
+    slug: "filipiyin"
+  "COL":
+    name: "ᑯᓨᓯᔨᓐ"
+    slug: "kolwaasiyin"
+  "1TH":
+    name: "ᓃᔥᑎᒻ ᕞᓵᓨᓃᔨᓐ"
+    slug: "niishtim-thesaalwaaniiyin"
+  "2TH":
+    name: "ᓃᔓ ᕞᓵᓨᓃᔨᓐ"
+    slug: "niisho-thesaalwaaniiyin"
+  "1TI":
+    name: "ᓃᔥᑎᒻ ᑎᒧᕢ"
+    slug: "niishtim-timothii"
+  "2TI":
+    name: "ᓃᔓ ᑎᒧᕢ"
+    slug: "niisho-timothii"
+  "TIT":
+    name: "ᑖᐃᑎᔅ"
+    slug: "taaitis"
+  "PHM":
+    name: "ᕙᐃᓖᒥᓐ"
+    slug: "failiimin"
+  "HEB":
+    name: "ᐦᐄᑉᕉ"
+    slug: "iiproo"
+  "JAS":
+    name: "ᒉᒥᔅ"
+    slug: "cemis"
+  "1PE":
+    name: "ᓃᔥᑎᒻ ᐲᑎᕐ"
+    slug: "niishtim-piitir"
+  "2PE":
+    name: "ᓃᔓ ᐲᑎᕐ"
+    slug: "niisho-piitir"
+  "1JN":
+    name: "ᓃᔥᑎᒻ ᒞᓐ"
+    slug: "niishtim-cwaan"
+  "2JN":
+    name: "ᓃᔓ ᒞᓐ"
+    slug: "niisho-cwaan"
+  "3JN":
+    name: "ᓂᔥᑐ ᒞᓐ"
+    slug: "nishto-cwaan"
+  "JUD":
+    name: "ᒎᑦ"
+    slug: "coot"
+  "REV":
+    name: "ᒋᔅᒑᔨᐦᑖᑯᐦᑖᒑᐎᓐ"
+    slug: "ciscaayitaakotaacaawin"

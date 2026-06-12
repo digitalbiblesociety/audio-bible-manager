@@ -1,0 +1,266 @@
+language: "mgr"
+books:
+  "GEN":
+    name: "Utandiko"
+    slug: "utandiko"
+    name_toc: "Lupapulo Lwa Utandiko"
+  "EXO":
+    name: "Kufuma"
+    slug: "kufuma"
+    name_toc: "Lupapulo Lwa Kufuma"
+  "LEV":
+    name: "Aina Levi"
+    slug: "aina-levi"
+    name_toc: "Lupapulo Lwa Aina Levi"
+  "NUM":
+    name: "Mpendwa"
+    slug: "mpendwa"
+    name_toc: "Lupapulo Lwa Mpendwa"
+  "DEU":
+    name: "Malango"
+    slug: "malango"
+    name_toc: "Lupapulo Lwa Malango"
+  "JOS":
+    name: "Yoswa"
+    slug: "yoswa"
+    name_toc: "Lupapulo Lwakwe Yoswa"
+  "JDG":
+    name: "Yakapingula"
+    slug: "yakapingula"
+    name_toc: "Lupapulo Lwakwe Yakapingula"
+  "RUT":
+    name: "Luti"
+    slug: "luti"
+    name_toc: "Lupapulo Lwakwe Luti"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+    name_toc: "Lupapulo Ulukaamwa Ukuti 1 Samueli"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+    name_toc: "Lupapulo Ulukaamwa Ukuti 2 Samueli"
+  "1KI":
+    name: "1 Yamwene"
+    slug: "1-yamwene"
+    name_toc: "Lupapulo Lwakwe 1 Yamwene"
+  "2KI":
+    name: "2 Yamwene"
+    slug: "2-yamwene"
+    name_toc: "Lupapulo Lwakwe 2 Yamwene"
+  "1CH":
+    name: "1 Milandu"
+    slug: "1-milandu"
+    name_toc: "Lupapulo Lwa 1 Milandu"
+  "2CH":
+    name: "2 Milandu"
+    slug: "2-milandu"
+    name_toc: "Lupapulo Lwa 2 Milandu"
+  "EZR":
+    name: "Ezila"
+    slug: "ezila"
+    name_toc: "Lupapulo Lwakwe Ezila"
+  "NEH":
+    name: "Neemiya"
+    slug: "neemiya"
+    name_toc: "Lupapulo Lwakwe Neemiya"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+    name_toc: "Lupapulo Lwakwe Esita"
+  "JOB":
+    name: "Yobo"
+    slug: "yobo"
+    name_toc: "Lupapulo Lwakwe Yobo"
+  "PSA":
+    name: "Masamu"
+    slug: "masamu"
+    name_toc: "Lupapulo Lwa Masamu"
+  "PRO":
+    name: "Mapinda"
+    slug: "mapinda"
+    name_toc: "Lupapulo Lwa Mapinda"
+  "ECC":
+    name: "Kasambilizya"
+    slug: "kasambilizya"
+    name_toc: "Lupapulo Lwakwe Kasambilizya"
+  "SNG":
+    name: "Lwimbo lwakwe Solomoni"
+    slug: "lwimbo-lwakwe-solomoni"
+    name_toc: "Lupapulo Lwakwe Solomoni"
+  "ISA":
+    name: "Ezaya"
+    slug: "ezaya"
+    name_toc: "Lupapulo Lwakwe Ezaya"
+  "JER":
+    name: "Yelemiya"
+    slug: "yelemiya"
+    name_toc: "Lupapulo Lwakwe Yelemiya"
+  "LAM":
+    name: "Nyimbo zya ndosya"
+    slug: "nyimbo-zya-ndosya"
+    name_toc: "Lupapulo Lwa Nyimbo Zya Ndosya"
+  "EZK":
+    name: "Ezekelo"
+    slug: "ezekelo"
+    name_toc: "Lupapulo Lwakwe Ezekelo"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Lupapulo Lwakwe Danieli"
+  "HOS":
+    name: "Oseya"
+    slug: "oseya"
+    name_toc: "Lupapulo Lwakwe Oseya"
+  "JOL":
+    name: "Yowelo"
+    slug: "yowelo"
+    name_toc: "Lupapulo Lwakwe Yowelo"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Lupapulo Lwakwe Amosi"
+  "OBA":
+    name: "Obadiya"
+    slug: "obadiya"
+    name_toc: "Lupapulo Lwakwe Obadiya"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Lupapulo Lwakwe Yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Lupapulo Lwakwe Mika"
+  "NAM":
+    name: "Naumi"
+    slug: "naumi"
+    name_toc: "Lupapulo Lwakwe Naumi"
+  "HAB":
+    name: "Habakuku"
+    slug: "habakuku"
+    name_toc: "Lupapulo Lwakwe Habakuku"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+    name_toc: "Lupapulo Lwakwe Zefaniya"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Lupapulo Lwakwe Hagai"
+  "ZEC":
+    name: "Zakaliya"
+    slug: "zakaliya"
+    name_toc: "Lupapulo Lwakwe Zakaliya"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Lupapulo Lwakwe Malaki"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "Ilandwe Lisuma Ilyalemvilwe Na Mateo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+    name_toc: "Ilandwe Lisuma Ilyalemvilwe Na Mako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Ilandwe Lisuma Ilyalemvilwe Na Luka"
+  "JHN":
+    name: "Yoane"
+    slug: "yoane"
+    name_toc: "Ilandwe Lisuma Ilyalemvilwe Na Yoane"
+  "ACT":
+    name: "Milimo"
+    slug: "milimo"
+    name_toc: "Milimo Ya Atumwa"
+  "ROM":
+    name: "Loma"
+    slug: "loma"
+    name_toc: "Kalata Wino Paulo Walemvile Ku Ina Loma"
+  "1CO":
+    name: "1 Kolinto"
+    slug: "1-kolinto"
+    name_toc: "Kalata Wankolelo Wino Paulo Walemvile Ku Ina Kolinto"
+  "2CO":
+    name: "2 Kolinto"
+    slug: "2-kolinto"
+    name_toc: "Kalata Wakwe Ciili Wino Paulo Walemvile Ku Ina Kolinto"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+    name_toc: "Kalata Wino Paulo Walemvile Ku Ina Galatiya"
+  "EPH":
+    name: "Efeso"
+    slug: "efeso"
+    name_toc: "Kalata Wino Paulo Walemvile Ku Ina Efeso"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Kalata Wino Paulo Walemvile Ku Ina Filipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+    name_toc: "Kalata Wino Paulo Walemvile Ku Ina Kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Kalata Wankolelo Wino Paulo Walemvile Ku Ina Tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Kalata Wakwe Ciili Wino Paulo Walemvile Ku Ina Tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Kalata Wankolelo Wino Paulo Walemvile Kuli Timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Kalata Wakwe Ciili Wino Paulo Walemvile Kuli Timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Kalata Wino Paulo Walemvile Kuli Tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+    name_toc: "Kalata Wino Paulo Walemvile Kuli Filimoni"
+  "HEB":
+    name: "Ayebulai"
+    slug: "ayebulai"
+    name_toc: "Kalata Ku Ayebulai"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Kalata Kufuma Kuli Yakobo"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+    name_toc: "Kalata Wankolelo Wakwe Petulo"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+    name_toc: "Kalata Wakwe Ciili Wakwe Petulo"
+  "1JN":
+    name: "1 Yoane"
+    slug: "1-yoane"
+    name_toc: "Kalata Wankolelo Wakwe Yoane"
+  "2JN":
+    name: "2 Yoane"
+    slug: "2-yoane"
+    name_toc: "Kalata Wakwe Ciili Wakwe Yoane"
+  "3JN":
+    name: "3 Yoane"
+    slug: "3-yoane"
+    name_toc: "Kalata Wakwe Citatu Wakwe Yoane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Kalata Kufuma Kuli Yuda"
+  "REV":
+    name: "Umbwilo"
+    slug: "umbwilo"
+    name_toc: "Umbwilo Kuli Yoane"

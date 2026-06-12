@@ -1,0 +1,20 @@
+language: "mgc"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "JHN":
+    name: "Yowani"
+    slug: "yowani"
+  "ACT":
+    name: "Lɔɔ 'ba vo Lïtuwë"
+    slug: "l-ba-vo-lituwe"
+  "JAS":
+    name: "Yemisi"
+    slug: "yemisi"
+  "1JN":
+    name: "1 Yowani"
+    slug: "1-yowani"

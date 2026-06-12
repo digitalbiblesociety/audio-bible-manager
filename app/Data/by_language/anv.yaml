@@ -1,0 +1,83 @@
+language: "anv"
+books:
+  "MAT":
+    name: "Matyo"
+    slug: "matyo"
+  "MRK":
+    name: "Makɔs"
+    slug: "maks"
+  "LUK":
+    name: "Lukase"
+    slug: "lukase"
+  "JHN":
+    name: "Jɔn"
+    slug: "jn"
+  "ACT":
+    name: "Utɔɔ́ Áŋgbá Jisɔs"
+    slug: "ut-angba-jiss"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "I Kɔrɛnt"
+    slug: "i-krnt"
+  "2CO":
+    name: "II Kɔrɛnt"
+    slug: "ii-krnt"
+  "GAL":
+    name: "Galasiya"
+    slug: "galasiya"
+  "EPH":
+    name: "Ɛfɛsɔs"
+    slug: "fss"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+  "1TH":
+    name: "I Tɛssalonika"
+    slug: "i-tssalonika"
+  "2TH":
+    name: "II Tɛssalonika"
+    slug: "ii-tssalonika"
+  "1TI":
+    name: "I Timɔti"
+    slug: "i-timti"
+  "2TI":
+    name: "II Timɔti"
+    slug: "ii-timti"
+  "TIT":
+    name: "Titɔs"
+    slug: "tits"
+  "PHM":
+    name: "Filɛmɔn"
+    slug: "filmn"
+  "HEB":
+    name: "Hibrus"
+    slug: "hibrus"
+  "JAS":
+    name: "Jɛmsi"
+    slug: "jmsi"
+  "1PE":
+    name: "I Pita"
+    slug: "i-pita"
+  "2PE":
+    name: "II Pita"
+    slug: "ii-pita"
+  "1JN":
+    name: "I Jɔn"
+    slug: "i-jn"
+  "2JN":
+    name: "II Jɔn"
+    slug: "ii-jn"
+  "3JN":
+    name: "III Jɔn"
+    slug: "iii-jn"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Amɛ gejya Jɔn"
+    slug: "am-gejya-jn"

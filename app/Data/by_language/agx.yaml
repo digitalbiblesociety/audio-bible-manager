@@ -1,0 +1,5 @@
+language: "agx"
+books:
+  "LUK":
+    name: "Инджил"
+    slug: "indzil"

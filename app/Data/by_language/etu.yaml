@@ -1,0 +1,83 @@
+language: "etu"
+books:
+  "MAT":
+    name: "Matiyu, echî"
+    slug: "matiyu-echi"
+  "MRK":
+    name: "Mak, echî"
+    slug: "mak-echi"
+  "LUK":
+    name: "Luk, echî"
+    slug: "luk-echi"
+  "JHN":
+    name: "Jon, echî"
+    slug: "jon-echi"
+  "ACT":
+    name: "Etûm ágbán~í jisos, echî"
+    slug: "etum-agban-i-jisos-echi"
+  "ROM":
+    name: "Ane rom, echî"
+    slug: "ane-rom-echi"
+  "1CO":
+    name: "1 Ane korin, echî"
+    slug: "1-ane-korin-echi"
+  "2CO":
+    name: "2 Ane korin, echî"
+    slug: "2-ane-korin-echi"
+  "GAL":
+    name: "Ane garasiya, echî"
+    slug: "ane-garasiya-echi"
+  "EPH":
+    name: "Ane efesus, echî"
+    slug: "ane-efesus-echi"
+  "PHP":
+    name: "Ane firipi, echî"
+    slug: "ane-firipi-echi"
+  "COL":
+    name: "Ane korose, echî"
+    slug: "ane-korose-echi"
+  "1TH":
+    name: "1 Ane tesaronika, echî"
+    slug: "1-ane-tesaronika-echi"
+  "2TH":
+    name: "2 Ane tesaronika, echî"
+    slug: "2-ane-tesaronika-echi"
+  "1TI":
+    name: "1 Timoti, echî"
+    slug: "1-timoti-echi"
+  "2TI":
+    name: "2 Timoti, echî"
+    slug: "2-timoti-echi"
+  "TIT":
+    name: "Tayitus, echî"
+    slug: "tayitus-echi"
+  "PHM":
+    name: "Farimun, echî"
+    slug: "farimun-echi"
+  "HEB":
+    name: "Ane ibru, echî"
+    slug: "ane-ibru-echi"
+  "JAS":
+    name: "Jems, echî"
+    slug: "jems-echi"
+  "1PE":
+    name: "1 Pita, echî"
+    slug: "1-pita-echi"
+  "2PE":
+    name: "2 Pita, echî"
+    slug: "2-pita-echi"
+  "1JN":
+    name: "1 Jon, echî"
+    slug: "1-jon-echi"
+  "2JN":
+    name: "2 Jon, echî"
+    slug: "2-jon-echi"
+  "3JN":
+    name: "3 Jon, echî"
+    slug: "3-jon-echi"
+  "JUD":
+    name: "Jʉt, echî"
+    slug: "jt-echi"
+  "REV":
+    name: "Ndem~i jon, echî"
+    slug: "ndem-i-jon-echi"

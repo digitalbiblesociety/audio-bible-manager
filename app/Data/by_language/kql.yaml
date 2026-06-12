@@ -1,0 +1,5 @@
+language: "kql"
+books:
+  "MRK":
+    name: "Mak"
+    slug: "mak"

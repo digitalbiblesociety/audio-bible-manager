@@ -1,0 +1,134 @@
+language: "emp"
+books:
+  "GEN":
+    name: "Genesi"
+    slug: "genesi"
+  "EXO":
+    name: "Exodo"
+    slug: "exodo"
+  "LEV":
+    name: "Levitico"
+    slug: "levitico"
+  "NUM":
+    name: "Numero"
+    slug: "numero"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+  "JOS":
+    name: "Josue"
+    slug: "josue"
+  "JDG":
+    name: "Juece"
+    slug: "juece"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Reye"
+    slug: "1-reye"
+  "2KI":
+    name: "2 Reye"
+    slug: "2-reye"
+  "1CH":
+    name: "1 Cronica"
+    slug: "1-cronica"
+  "2CH":
+    name: "2 Cronica"
+    slug: "2-cronica"
+  "EZR":
+    name: "Esdra"
+    slug: "esdra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "JON":
+    name: "Joná"
+    slug: "jona"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marco"
+    slug: "marco"
+  "LUK":
+    name: "Luca"
+    slug: "luca"
+  "JHN":
+    name: "Juaʌ̃"
+    slug: "jua"
+  "ACT":
+    name: "Hecho"
+    slug: "hecho"
+  "ROM":
+    name: "Romano"
+    slug: "romano"
+  "1CO":
+    name: "1 Corinto"
+    slug: "1-corinto"
+  "2CO":
+    name: "2 Corinto"
+    slug: "2-corinto"
+  "GAL":
+    name: "Galata"
+    slug: "galata"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipo"
+    slug: "pilipo"
+  "COL":
+    name: "Colosa"
+    slug: "colosa"
+  "1TH":
+    name: "1 Tesalonica"
+    slug: "1-tesalonica"
+  "2TH":
+    name: "2 Tesalonica"
+    slug: "2-tesalonica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemoʌ̃"
+    slug: "pilemo"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Juaʌ̃"
+    slug: "1-jua"
+  "2JN":
+    name: "2 Juaʌ̃"
+    slug: "2-jua"
+  "3JN":
+    name: "3 Juaʌ̃"
+    slug: "3-jua"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Apocalipsi"
+    slug: "apocalipsi"

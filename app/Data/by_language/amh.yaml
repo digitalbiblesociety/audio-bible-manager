@@ -1,0 +1,83 @@
+language: "amh"
+books:
+  "MAT":
+    name: "የማቴዎስ ወንጌል"
+    slug: "yamatewos-wanegel"
+  "MRK":
+    name: "የማርቆስ ወንጌል"
+    slug: "yamareqos-wanegel"
+  "LUK":
+    name: "የሉቃስ ወንጌል"
+    slug: "yaluqas-wanegel"
+  "JHN":
+    name: "የዮሐንስ ወንጌል"
+    slug: "yayohanes-wanegel"
+  "ACT":
+    name: "የሐዋርያት ሥራ"
+    slug: "yahawareyat-sera"
+  "ROM":
+    name: "ወደ ሮሜ ሰዎች"
+    slug: "wada-rome-sawoc"
+  "1CO":
+    name: "1ኛ ወደ ቆሮንቶስ ሰዎች"
+    slug: "1na-wada-qoronetos-sawoc"
+  "2CO":
+    name: "2ኛ ወደ ቆሮንቶስ ሰዎች"
+    slug: "2na-wada-qoronetos-sawoc"
+  "GAL":
+    name: "ወደ ገላትያ ሰዎች"
+    slug: "wada-galateya-sawoc"
+  "EPH":
+    name: "ወደ ኤፌሶን ሰዎች"
+    slug: "wada-efeson-sawoc"
+  "PHP":
+    name: "ወደ ፊልጵስዩስ ሰዎች"
+    slug: "wada-filepeseyus-sawoc"
+  "COL":
+    name: "ወደ ቆላስይስ ሰዎች"
+    slug: "wada-qolaseyes-sawoc"
+  "1TH":
+    name: "፩ ኛ ወደ ተሰሎንቄ ሰዎች"
+    slug: "1-na-wada-tasaloneqe-sawoc"
+  "2TH":
+    name: "፪ ኛ ወደ ተሰሎንቄ ሰዎች"
+    slug: "2-na-wada-tasaloneqe-sawoc"
+  "1TI":
+    name: "፩ ኛ ወደ ጢሞቴዎስ"
+    slug: "1-na-wada-timotewos"
+  "2TI":
+    name: "፪ ኛ ወደ ጢሞቴዎስ"
+    slug: "2-na-wada-timotewos"
+  "TIT":
+    name: "ወደ ቲቶ"
+    slug: "wada-tito"
+  "PHM":
+    name: "ወደ ፊልሞና"
+    slug: "wada-filemona"
+  "HEB":
+    name: "ወደ ዕብራውያን"
+    slug: "wada-eberaweyan"
+  "JAS":
+    name: "የያዕቆብ መልእክት"
+    slug: "yayaeqob-maleeket"
+  "1PE":
+    name: "፩ ኛ የጴጥሮስ መልእክት"
+    slug: "1-na-yapeteros-maleeket"
+  "2PE":
+    name: "፪ ኛ የጴጥሮስ መልእክት"
+    slug: "2-na-yapeteros-maleeket"
+  "1JN":
+    name: "፩ ኛ የዮሐንስ መልእክት"
+    slug: "1-na-yayohanes-maleeket"
+  "2JN":
+    name: "፪ ኛ የዮሐንስ መልእክት"
+    slug: "2-na-yayohanes-maleeket"
+  "3JN":
+    name: "፪ ኛ የዮሐንስ መልእክት"
+    slug: "2-na-yayohanes-maleeket"
+  "JUD":
+    name: "የይሁዳ መልእክት"
+    slug: "yayehuda-maleeket"
+  "REV":
+    name: "የዮሐንስ ራእይ"
+    slug: "yayohanes-raey"

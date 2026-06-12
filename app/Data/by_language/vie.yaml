@@ -1,0 +1,200 @@
+language: "vie"
+books:
+  "GEN":
+    name: "Sáng Thế"
+    slug: "sang-the"
+  "EXO":
+    name: "Xuất Ai-cập"
+    slug: "xuat-ai-cap"
+  "LEV":
+    name: "Lê-vi"
+    slug: "le-vi"
+  "NUM":
+    name: "Dân Số"
+    slug: "dan-so"
+  "DEU":
+    name: "Phục Truyền Luật Lệ"
+    slug: "phuc-truyen-luat-le"
+  "JOS":
+    name: "Giô-suê"
+    slug: "gio-sue"
+  "JDG":
+    name: "Quan Án"
+    slug: "quan-an"
+  "RUT":
+    name: "Ru-tơ"
+    slug: "ru-to"
+  "1SA":
+    name: "I Sa-mu-ên"
+    slug: "i-sa-mu-en"
+  "2SA":
+    name: "II Sa-mu-ên"
+    slug: "ii-sa-mu-en"
+  "1KI":
+    name: "I Các Vua"
+    slug: "i-cac-vua"
+  "2KI":
+    name: "II Các Vua"
+    slug: "ii-cac-vua"
+  "1CH":
+    name: "I Lịch Sử"
+    slug: "i-lich-su"
+  "2CH":
+    name: "II Lịch Sử"
+    slug: "ii-lich-su"
+  "EZR":
+    name: "E-xơ-ra"
+    slug: "e-xo-ra"
+  "NEH":
+    name: "Nê-hê-mi"
+    slug: "ne-he-mi"
+  "EST":
+    name: "Ê-xơ-tê"
+    slug: "e-xo-te"
+  "JOB":
+    name: "Gióp"
+    slug: "giop"
+  "PSA":
+    name: "Thi Thiên"
+    slug: "thi-thien"
+  "PRO":
+    name: "Châm Ngôn"
+    slug: "cham-ngon"
+  "ECC":
+    name: "Giáo Huấn"
+    slug: "giao-huan"
+  "SNG":
+    name: "Tình Ca"
+    slug: "tinh-ca"
+  "ISA":
+    name: "Ê-sai"
+    slug: "e-sai"
+  "JER":
+    name: "Giê-rê-mi"
+    slug: "gie-re-mi"
+  "LAM":
+    name: "Ai Ca"
+    slug: "ai-ca"
+  "EZK":
+    name: "Ê-xê-chiên"
+    slug: "e-xe-chien"
+  "DAN":
+    name: "Đa-niên"
+    slug: "da-nien"
+  "HOS":
+    name: "Ô-sê"
+    slug: "o-se"
+  "JOL":
+    name: "Giô-ên"
+    slug: "gio-en"
+  "AMO":
+    name: "A-mốt"
+    slug: "a-mot"
+  "OBA":
+    name: "Áp-đia"
+    slug: "ap-dia"
+  "JON":
+    name: "Giô-na"
+    slug: "gio-na"
+  "MIC":
+    name: "Mi-ca"
+    slug: "mi-ca"
+  "NAM":
+    name: "Na-hâm"
+    slug: "na-ham"
+  "HAB":
+    name: "Ha-ba-cúc"
+    slug: "ha-ba-cuc"
+  "ZEP":
+    name: "Xô-phô-ni"
+    slug: "xo-pho-ni"
+  "HAG":
+    name: "A-gai"
+    slug: "a-gai"
+  "ZEC":
+    name: "Xa-cha-ri"
+    slug: "xa-cha-ri"
+  "MAL":
+    name: "Ma-la-chi"
+    slug: "ma-la-chi"
+  "MAT":
+    name: "Ma-thi-ơ"
+    slug: "ma-thi-o"
+  "MRK":
+    name: "Mác"
+    slug: "mac"
+  "LUK":
+    name: "Lu-ca"
+    slug: "lu-ca"
+  "JHN":
+    name: "Giăng"
+    slug: "giang"
+  "ACT":
+    name: "Công Vụ"
+    slug: "cong-vu"
+  "ROM":
+    name: "La-mã"
+    slug: "la-ma"
+  "1CO":
+    name: "I Cô-rinh"
+    slug: "i-co-rinh"
+  "2CO":
+    name: "II Cô-rinh"
+    slug: "ii-co-rinh"
+  "GAL":
+    name: "Ga-la-ti"
+    slug: "ga-la-ti"
+  "EPH":
+    name: "Ê-phê-sô"
+    slug: "e-phe-so"
+  "PHP":
+    name: "Phi-líp"
+    slug: "phi-lip"
+  "COL":
+    name: "Cô-lô-se"
+    slug: "co-lo-se"
+  "1TH":
+    name: "I Tê-sa-lô-ni-ca"
+    slug: "i-te-sa-lo-ni-ca"
+  "2TH":
+    name: "II Tê-sa-lô-ni-ca"
+    slug: "ii-te-sa-lo-ni-ca"
+  "1TI":
+    name: "I Ti-mô-thê"
+    slug: "i-ti-mo-the"
+  "2TI":
+    name: "II Ti-mô-thê"
+    slug: "ii-ti-mo-the"
+  "TIT":
+    name: "Tít"
+    slug: "tit"
+  "PHM":
+    name: "Phi-lê-môn"
+    slug: "phi-le-mon"
+  "HEB":
+    name: "Hê-bơ-rơ"
+    slug: "he-bo-ro"
+  "JAS":
+    name: "Gia-cơ"
+    slug: "gia-co"
+  "1PE":
+    name: "I Phia-rơ"
+    slug: "i-phia-ro"
+  "2PE":
+    name: "II Phia-rơ"
+    slug: "ii-phia-ro"
+  "1JN":
+    name: "I Giăng"
+    slug: "i-giang"
+  "2JN":
+    name: "II Giăng"
+    slug: "ii-giang"
+  "3JN":
+    name: "III Giăng"
+    slug: "iii-giang"
+  "JUD":
+    name: "Giu-đe"
+    slug: "giu-de"
+  "REV":
+    name: "Khải Thị"
+    slug: "khai-thi"

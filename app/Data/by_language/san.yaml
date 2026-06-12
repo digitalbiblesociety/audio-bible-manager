@@ -1,0 +1,83 @@
+language: "san"
+books:
+  "MAT":
+    name: "মথিলিখিতঃ সুসংৱাদঃ"
+    slug: "mathilikhitah-susamwadah"
+  "MRK":
+    name: "মাৰ্কলিখিতঃ সুসংৱাদঃ"
+    slug: "markalikhitah-susamwadah"
+  "LUK":
+    name: "লূকলিখিতঃ সুসংৱাদঃ"
+    slug: "lukalikhitah-susamwadah"
+  "JHN":
+    name: "যোহনলিখিতঃ সুসংৱাদঃ"
+    slug: "yohanalikhitah-susamwadah"
+  "ACT":
+    name: "প্ৰেৰিতানাং কৰ্ম্মণামাখ্যানং"
+    slug: "preritanam-karmmanamakhyanam"
+  "ROM":
+    name: "ৰোমিণ"
+    slug: "romina"
+  "1CO":
+    name: "১ কৰিন্থিন"
+    slug: "1-karinthina"
+  "2CO":
+    name: "২ কৰিন্থিন"
+    slug: "2-karinthina"
+  "GAL":
+    name: "গালাতিন"
+    slug: "galatina"
+  "EPH":
+    name: "ইফিষিণ"
+    slug: "iphisina"
+  "PHP":
+    name: "ফিলিপিন"
+    slug: "philipina"
+  "COL":
+    name: "কলসিন"
+    slug: "kalasina"
+  "1TH":
+    name: "১ থিষলনীকিন"
+    slug: "1-thisalanikina"
+  "2TH":
+    name: "২ থিষলনীকিন"
+    slug: "2-thisalanikina"
+  "1TI":
+    name: "১ তীমথিয"
+    slug: "1-timathiya"
+  "2TI":
+    name: "২ তীমথিয"
+    slug: "2-timathiya"
+  "TIT":
+    name: "তীত"
+    slug: "tita"
+  "PHM":
+    name: "ফিলোমোন"
+    slug: "philomona"
+  "HEB":
+    name: "ইব্ৰিণ"
+    slug: "ibrina"
+  "JAS":
+    name: "যাকূব"
+    slug: "yakuba"
+  "1PE":
+    name: "১ পিতৰস্য"
+    slug: "1-pitarasya"
+  "2PE":
+    name: "২ পিতৰস্য"
+    slug: "2-pitarasya"
+  "1JN":
+    name: "১ যোহন"
+    slug: "1-yohana"
+  "2JN":
+    name: "২ যোহন"
+    slug: "2-yohana"
+  "3JN":
+    name: "৩ যোহন"
+    slug: "3-yohana"
+  "JUD":
+    name: "যিহূদা"
+    slug: "yihuda"
+  "REV":
+    name: "প্ৰকাশিতং ভৱিষ্যদ্ৱাক্যং"
+    slug: "prakasitam-bhawisyadwakyam"

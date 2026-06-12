@@ -1,0 +1,266 @@
+language: "ory"
+books:
+  "GEN":
+    name: "ଆଦି ପୁସ୍ତକ"
+    slug: "adi-pustaka"
+    name_toc: "ଆଦି ପୁସ୍ତକ ଅର୍ଥାତ୍ ମୋଶା ଲିଖିତ ପ୍ରଥମ ପୁସ୍ତକ"
+  "EXO":
+    name: "ଯାତ୍ରା ପୁସ୍ତକ"
+    slug: "yatra-pustaka"
+    name_toc: "ଯାତ୍ରା ପୁସ୍ତକ ଅର୍ଥାତ୍ ମୋଶା ଲିଖିତ ଦ୍ଵିତୀୟ ପୁସ୍ତକ"
+  "LEV":
+    name: "ଲେବୀୟ ପୁସ୍ତକ"
+    slug: "lebiya-pustaka"
+    name_toc: "ଲେବୀୟ ପୁସ୍ତକ ଅର୍ଥାତ୍ ମୋଶା ଲିଖିତ ତୃତୀୟ ପୁସ୍ତକ"
+  "NUM":
+    name: "ଗଣନା ପୁସ୍ତକ"
+    slug: "ganana-pustaka"
+    name_toc: "ଗଣନା ପୁସ୍ତକ ଅର୍ଥାତ୍ ଇସ୍ରାଏଲ ଯୋଦ୍ଧାଙ୍କର ଗଣନା"
+  "DEU":
+    name: "ଦ୍ଵିତୀୟ ବିବରଣ"
+    slug: "dvitiya-bibarana"
+    name_toc: "ଦ୍ଵିତୀୟ ବିବରଣ ଅର୍ଥାତ୍ ମୋଶା ଲିଖିତ ପଞ୍ଚମ ପୁସ୍ତକ ହୋରେବ ତ୍ୟାଗ କରିବାକୁ ଆଦେଶ"
+  "JOS":
+    name: "ଯିହୋଶୂୟ"
+    slug: "yihosuya"
+    name_toc: "ଯିହୋଶୂୟଙ୍କର ପୁସ୍ତକ"
+  "JDG":
+    name: "ବିଚାରକର୍ତ୍ତା"
+    slug: "bicarakartta"
+    name_toc: "ବିଚାରକର୍ତ୍ତାମାନଙ୍କ ବିବରଣ"
+  "RUT":
+    name: "ଋତ"
+    slug: "rta"
+    name_toc: "ଋତର ବିବରଣ ପୁସ୍ତକ"
+  "1SA":
+    name: "1 ଶାମୁୟେଲ"
+    slug: "1-samuyela"
+    name_toc: "ଶାମୁୟେଲଙ୍କ ପ୍ରଥମ ପୁସ୍ତକ"
+  "2SA":
+    name: "2 ଶାମୁୟେଲ"
+    slug: "2-samuyela"
+    name_toc: "ଶାମୁୟେଲଙ୍କ ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+  "1KI":
+    name: "1 ରାଜାବଳୀ"
+    slug: "1-rajabali"
+    name_toc: "ରାଜାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ"
+  "2KI":
+    name: "2 ରାଜାବଳୀ"
+    slug: "2-rajabali"
+    name_toc: "ରାଜାବଳୀର ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+  "1CH":
+    name: "1 ବଂଶାବଳୀ"
+    slug: "1-bamsabali"
+    name_toc: "ବଂଶାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ"
+  "2CH":
+    name: "2 ବଂଶାବଳୀ"
+    slug: "2-bamsabali"
+    name_toc: "ବଂଶାବଳୀର ଦ୍ୱିତୀୟ ପୁସ୍ତକ"
+  "EZR":
+    name: "ଏଜ୍ରା"
+    slug: "ejra"
+    name_toc: "ଏଜ୍ରା"
+  "NEH":
+    name: "ନିହିମୀୟା"
+    slug: "nihimiya"
+    name_toc: "ନିହିମୀୟାଙ୍କର ପୁସ୍ତକ"
+  "EST":
+    name: "ଏଷ୍ଟର"
+    slug: "estara"
+    name_toc: "ଏଷ୍ଟର ବିବରଣ"
+  "JOB":
+    name: "ଆୟୁବ"
+    slug: "ayuba"
+    name_toc: "ଆୟୁବ ପୁସ୍ତକ"
+  "PSA":
+    name: "ଗୀତସଂହିତା"
+    slug: "gitasamhita"
+    name_toc: "ଗୀତସଂହିତା"
+  "PRO":
+    name: "ହିତୋପଦେଶ"
+    slug: "hitopadesa"
+    name_toc: "ହିତୋପଦେଶ"
+  "ECC":
+    name: "ଉପଦେଶକ"
+    slug: "upadesaka"
+    name_toc: "ଉପଦେଶକ"
+  "SNG":
+    name: "ପରମ ଗୀତ"
+    slug: "parama-gita"
+    name_toc: "ପରମ ଗୀତ"
+  "ISA":
+    name: "ଯିଶାଇୟ"
+    slug: "yisaiya"
+    name_toc: "ଯିଶାଇୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କର ପୁସ୍ତକ"
+  "JER":
+    name: "ଯିରିମୀୟ"
+    slug: "yirimiya"
+    name_toc: "ଯିରିମୀୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "LAM":
+    name: "ବିଳାପ"
+    slug: "bilapa"
+    name_toc: "ଯିରିମୀୟଙ୍କ ବିଳାପ"
+  "EZK":
+    name: "ଯିହିଜିକଲ"
+    slug: "yihijikala"
+    name_toc: "ଯିହିଜିକଲ୍ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "DAN":
+    name: "ଦାନିୟେଲ"
+    slug: "daniyela"
+    name_toc: "ଦାନିୟେଲଙ୍କ ପୁସ୍ତକ"
+  "HOS":
+    name: "ହୋଶେୟ"
+    slug: "hoseya"
+    name_toc: "ହୋଶେୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "JOL":
+    name: "ଯୋୟେଲ"
+    slug: "yoyela"
+    name_toc: "ଯୋୟେଲ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "AMO":
+    name: "ଆମୋଷ"
+    slug: "amosa"
+    name_toc: "ଆମୋଷ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "OBA":
+    name: "ଓବଦୀୟ"
+    slug: "obadiya"
+    name_toc: "ଓବଦୀୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "JON":
+    name: "ଯୂନସ"
+    slug: "yunasa"
+    name_toc: "ଯୂନସ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "MIC":
+    name: "ମୀଖା"
+    slug: "mikha"
+    name_toc: "ମୀଖା ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "NAM":
+    name: "ନାହୂମ"
+    slug: "nahuma"
+    name_toc: "ନାହୂମ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "HAB":
+    name: "ହବକ୍କୂକ"
+    slug: "habakkuka"
+    name_toc: "ହବକ୍କୂକ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "ZEP":
+    name: "ସିଫନୀୟ"
+    slug: "siphaniya"
+    name_toc: "ସିଫନୀୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "HAG":
+    name: "ହାଗୟ"
+    slug: "hagaya"
+    name_toc: "ହାଗୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "ZEC":
+    name: "ଯିଖରୀୟ"
+    slug: "yikhariya"
+    name_toc: "ଯିଖରୀୟ ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "MAL":
+    name: "ମଲାଖୀ"
+    slug: "malakhi"
+    name_toc: "ମଲାଖି ଭବିଷ୍ୟଦ୍ବକ୍ତାଙ୍କ ପୁସ୍ତକ"
+  "MAT":
+    name: "ମାଥିଉ"
+    slug: "mathiu"
+    name_toc: "ମାଥିଉ ଲିଖିତ ସୁସମାଚାର"
+  "MRK":
+    name: "ମାର୍କ"
+    slug: "marka"
+    name_toc: "ମାର୍କ ଲିଖିତ ସୁସମାଚାର"
+  "LUK":
+    name: "ଲୂକ"
+    slug: "luka"
+    name_toc: "ଲୂକ ଲିଖିତ ସୁସମାଚାର"
+  "JHN":
+    name: "ଯୋହନ"
+    slug: "yohana"
+    name_toc: "ଯୋହନ ଲିଖିତ ସୁସମାଚାର"
+  "ACT":
+    name: "ପ୍ରେରିତ"
+    slug: "prerita"
+    name_toc: "ପ୍ରେରିତମାନଙ୍କର କାର୍ଯ୍ୟର ବିବରଣ"
+  "ROM":
+    name: "ରୋମୀୟ"
+    slug: "romiya"
+    name_toc: "ରୋମୀୟ ମଣ୍ଡଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ପତ୍ର"
+  "1CO":
+    name: "କରିନ୍ଥୀୟ"
+    slug: "karinthiya"
+    name_toc: "କରିନ୍ଥୀୟ ମଣ୍ଡଳୀ ନିକଟକୁ ପାଉଲଙ୍କ"
+  "2CO":
+    name: "୨ କରିନ୍ଥୀୟ"
+    slug: "2-karinthiya"
+    name_toc: "କରିନ୍ଥୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପାଉଲଙ୍କ ଦ୍ଵିତୀୟ ପତ୍ର"
+  "GAL":
+    name: "ଗାଲାତୀୟ"
+    slug: "galatiya"
+    name_toc: "ଗାଲାତୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ପତ୍ର"
+  "EPH":
+    name: "ଏଫିସୀୟ"
+    slug: "ephisiya"
+    name_toc: "ଏଫିସୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ପତ୍ର"
+  "PHP":
+    name: "ଫିଲିପୀୟ"
+    slug: "philipiya"
+    name_toc: "ଫିଲିପୀୟମାନଙ୍କ ନିକଟକୁ ପାଉଲଙ୍କ ପତ୍ର"
+  "COL":
+    name: "କଲସୀୟ"
+    slug: "kalasiya"
+    name_toc: "କଲସୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ପତ୍ର"
+  "1TH":
+    name: "୧ ଥେସଲନୀକୀୟ"
+    slug: "1-thesalanikiya"
+    name_toc: "ଥେସଲନୀକୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ପ୍ରଥମ ପତ୍ର"
+  "2TH":
+    name: "୨ ଥେସଲନୀକୀୟ"
+    slug: "2-thesalanikiya"
+    name_toc: "ଥେସଲନୀକୀୟ ମଣ୍ତଳୀ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କ ଦ୍ଵିତୀୟ ପତ୍ର"
+  "1TI":
+    name: "୧ ତୀମଥି"
+    slug: "1-timathi"
+    name_toc: "ତୀମଥିଙ୍କ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କର ପ୍ରଥମ ପତ୍ର"
+  "2TI":
+    name: "୨ ତୀମଥି"
+    slug: "2-timathi"
+    name_toc: "ତୀମଥିଙ୍କ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କର ଦ୍ଵିତୀୟ ପତ୍ର"
+  "TIT":
+    name: "ତୀତସ"
+    slug: "titasa"
+    name_toc: "ତୀତସଙ୍କ ନିକଟକୁ ପ୍ରେରିତ ପାଉଲଙ୍କର ପତ୍ର"
+  "PHM":
+    name: "ଫିଲୀମନ"
+    slug: "philimana"
+    name_toc: "ଫିଲୀମନଙ୍କ ନିକଟକୁ ପାଉଲଙ୍କ ପତ୍ର"
+  "HEB":
+    name: "ଏବ୍ରୀ"
+    slug: "ebri"
+    name_toc: "ଏବ୍ରୀମାନଙ୍କ ନିକଟକୁ ପତ୍ର"
+  "JAS":
+    name: "ଯାକୁବ"
+    slug: "yakuba"
+    name_toc: "ଯାକୁବଙ୍କ ପତ୍ର"
+  "1PE":
+    name: "୧ ପିତର"
+    slug: "1-pitara"
+    name_toc: "ପିତରଙ୍କ ପ୍ରଥମ ପତ୍ର"
+  "2PE":
+    name: "୨ ପିତର"
+    slug: "2-pitara"
+    name_toc: "ପିତରଙ୍କ ଦ୍ଵିତୀୟ ପତ୍ର"
+  "1JN":
+    name: "୧ ଯୋହନ"
+    slug: "1-yohana"
+    name_toc: "ଯୋହନଙ୍କ ପ୍ରଥମ ପତ୍ର"
+  "2JN":
+    name: "୨ ଯୋହନ"
+    slug: "2-yohana"
+    name_toc: "ଯୋହନଙ୍କ ଦ୍ୱିତୀୟ ପତ୍ର"
+  "3JN":
+    name: "୩ ଯୋହନ"
+    slug: "3-yohana"
+    name_toc: "ଯୋହନଙ୍କ ତୃତୀୟ ପତ୍ର"
+  "JUD":
+    name: "ଯିହୂଦା"
+    slug: "yihuda"
+    name_toc: "ଯିହୂଦାଙ୍କ ପତ୍ର"
+  "REV":
+    name: "ପ୍ରକାଶିତ"
+    slug: "prakasita"
+    name_toc: "ଯୋହନଙ୍କ ପ୍ରତି ପ୍ରକାଶିତ ବାକ୍ୟ"

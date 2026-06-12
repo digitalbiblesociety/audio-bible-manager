@@ -1,0 +1,83 @@
+language: "mio"
+books:
+  "MAT":
+    name: "Tutu Mateo"
+    slug: "tutu-mateo"
+  "MRK":
+    name: "Tutu Macu"
+    slug: "tutu-macu"
+  "LUK":
+    name: "Tutu Luca"
+    slug: "tutu-luca"
+  "JHN":
+    name: "Tutu Juaan"
+    slug: "tutu-juaan"
+  "ACT":
+    name: "Tutu Hecho"
+    slug: "tutu-hecho"
+  "ROM":
+    name: "Tutu Romano"
+    slug: "tutu-romano"
+  "1CO":
+    name: "Tutu I Corintio"
+    slug: "tutu-i-corintio"
+  "2CO":
+    name: "Tutu II Corintio"
+    slug: "tutu-ii-corintio"
+  "GAL":
+    name: "Tutu Galata"
+    slug: "tutu-galata"
+  "EPH":
+    name: "Tutu Efesio"
+    slug: "tutu-efesio"
+  "PHP":
+    name: "Tutu Filipense"
+    slug: "tutu-filipense"
+  "COL":
+    name: "Tutu Colosense"
+    slug: "tutu-colosense"
+  "1TH":
+    name: "Tutu I Tesalonicense"
+    slug: "tutu-i-tesalonicense"
+  "2TH":
+    name: "Tutu II Tesalonicense"
+    slug: "tutu-ii-tesalonicense"
+  "1TI":
+    name: "Tutu I Timoteo"
+    slug: "tutu-i-timoteo"
+  "2TI":
+    name: "Tutu II Timoteo"
+    slug: "tutu-ii-timoteo"
+  "TIT":
+    name: "Tutu Tito"
+    slug: "tutu-tito"
+  "PHM":
+    name: "Tutu Filemón"
+    slug: "tutu-filemon"
+  "HEB":
+    name: "Tutu Hebreo"
+    slug: "tutu-hebreo"
+  "JAS":
+    name: "Tutu Santiago"
+    slug: "tutu-santiago"
+  "1PE":
+    name: "Tutu I Pedro"
+    slug: "tutu-i-pedro"
+  "2PE":
+    name: "Tutu II Pedro"
+    slug: "tutu-ii-pedro"
+  "1JN":
+    name: "Tutu I Juaan"
+    slug: "tutu-i-juaan"
+  "2JN":
+    name: "Tutu II Juaan"
+    slug: "tutu-ii-juaan"
+  "3JN":
+    name: "Tutu III Juaan"
+    slug: "tutu-iii-juaan"
+  "JUD":
+    name: "Tutu Juda"
+    slug: "tutu-juda"
+  "REV":
+    name: "Tutu Apocalisi"
+    slug: "tutu-apocalisi"

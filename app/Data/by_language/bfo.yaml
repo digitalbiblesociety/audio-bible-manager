@@ -1,0 +1,83 @@
+language: "bfo"
+books:
+  "MAT":
+    name: "Matie Sɛbɛ"
+    slug: "matie-sb"
+  "MRK":
+    name: "Markɩ Sɛbɛ"
+    slug: "mark-sb"
+  "LUK":
+    name: "Luki Sɛbɛ"
+    slug: "luki-sb"
+  "JHN":
+    name: "Jã Sɛbɛ"
+    slug: "ja-sb"
+  "ACT":
+    name: "Nɩ-tʋnɩsɩ tʋmɔ Sɛbɛ"
+    slug: "n-tns-tm-sb"
+  "ROM":
+    name: "Orom Sɛbɛ"
+    slug: "orom-sb"
+  "1CO":
+    name: "1 Kɔrɛ̃tɩ Sɛbɛ"
+    slug: "1-krt-sb"
+  "2CO":
+    name: "2 Kɔrɛ̃tɩ Sɛbɛ"
+    slug: "2-krt-sb"
+  "GAL":
+    name: "Galatɩ Sɛbɛ"
+    slug: "galat-sb"
+  "EPH":
+    name: "Ɛfɛɛsɩ Sɛbɛ"
+    slug: "fs-sb"
+  "PHP":
+    name: "Fɩlɩpɩ Sɛbɛ"
+    slug: "flp-sb"
+  "COL":
+    name: "Kɔlɔsɩ Sɛbɛ"
+    slug: "kls-sb"
+  "1TH":
+    name: "1 Tɛsaloniki Sɛbɛ"
+    slug: "1-tsaloniki-sb"
+  "2TH":
+    name: "2 Tɛsaloniki Sɛbɛ"
+    slug: "2-tsaloniki-sb"
+  "1TI":
+    name: "1 Timote Sɛbɛ"
+    slug: "1-timote-sb"
+  "2TI":
+    name: "2 Timote Sɛbɛ"
+    slug: "2-timote-sb"
+  "TIT":
+    name: "Tɩtɩ Sɛbɛ"
+    slug: "tt-sb"
+  "PHM":
+    name: "Filemɔ̃ Sɛbɛ"
+    slug: "filem-sb"
+  "HEB":
+    name: "Eburo Sɛbɛ"
+    slug: "eburo-sb"
+  "JAS":
+    name: "Jakɩ Sɛbɛ"
+    slug: "jak-sb"
+  "1PE":
+    name: "1 Pɩɛr Sɛbɛ"
+    slug: "1-pr-sb"
+  "2PE":
+    name: "2 Pɩɛr Sɛbɛ"
+    slug: "2-pr-sb"
+  "1JN":
+    name: "1 Jã Sɛbɛ"
+    slug: "1-ja-sb"
+  "2JN":
+    name: "2 Jã Sɛbɛ"
+    slug: "2-ja-sb"
+  "3JN":
+    name: "3 Jã Sɛbɛ"
+    slug: "3-ja-sb"
+  "JUD":
+    name: "Judi Sɛbɛ"
+    slug: "judi-sb"
+  "REV":
+    name: "Miilfʋ Sɛbɛ"
+    slug: "miilf-sb"

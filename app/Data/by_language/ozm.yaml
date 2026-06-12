@@ -1,0 +1,110 @@
+language: "ozm"
+books:
+  "MAT":
+    name: "Mataos"
+    slug: "mataos"
+    name_toc: "Mbɨambɨa Lɔɔ ɨ Mataos a tile e"
+  "MRK":
+    name: "Marc"
+    slug: "marc"
+    name_toc: "Mbɨambɨa Lɔ́ɔ mpʉ̌ Marc á cɛma yɨ́"
+  "LUK":
+    name: "Luc"
+    slug: "luc"
+    name_toc: "Mbɨambɨa Lɔ́ɔ̌ mpʉ̌ Luc á cɛma yɨ́"
+  "JHN":
+    name: "Yʉanes"
+    slug: "yanes"
+    name_toc: "Mbɨambɨa Lɔɔ ɨ Yʉanes a tile e"
+  "ACT":
+    name: "Mɨlʉmlʉ"
+    slug: "mlml"
+    name_toc: "Bɨsyɛɛla mɨlʉmlʉ mo Yesʉs-Krɨst"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Kalara Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Rom ɨ"
+  "1CO":
+    name: "1 Korɛnt"
+    slug: "1-kornt"
+    name_toc: "Kalara efoʼ Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Korɛnt ɨ"
+  "2CO":
+    name: "2 Korɛnt"
+    slug: "2-kornt"
+    name_toc: "Kalara mba Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Korɛnt ɨ"
+  "GAL":
+    name: "Galat"
+    slug: "galat"
+    name_toc: "Kalara Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Galat ɨ"
+  "EPH":
+    name: "Efɛɛz"
+    slug: "efz"
+    name_toc: "Kalara Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Efɛɛz ɨ"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+    name_toc: "Kalara Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Filipi ɨ"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Kalara Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Kolosi ɨ"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+    name_toc: "Kalara efoʼ Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Tesalonika ɛ"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+    name_toc: "Kalara mba Pol a tile bʉr o mbɛr Zyɛm ndɨ ɨ Tesalonika ɛ"
+  "1TI":
+    name: "1 Timotɛ"
+    slug: "1-timot"
+    name_toc: "Kalara efoʼ Pol a tile Timotɛ ɛ"
+  "2TI":
+    name: "2 Timotɛ"
+    slug: "2-timot"
+    name_toc: "Kalara mba Pol a tile Timotɛ ɛ"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+    name_toc: "Kalara Pol a tile Tit ɨ"
+  "PHM":
+    name: "Filemɔŋ"
+    slug: "filem"
+    name_toc: "Kalara Pol a tile Filemɔŋ ɨ"
+  "HEB":
+    name: "Ebrœ"
+    slug: "ebr"
+    name_toc: "Kalara a tilɔ bʉr o b'Ebrœ œ"
+  "JAS":
+    name: "Jacques"
+    slug: "jacques"
+    name_toc: "Mekaná Jacques á cɛma má"
+  "1PE":
+    name: "1 Pyɛr"
+    slug: "1-pyr"
+    name_toc: "Kalara efoʼ Pyɛr a tile e"
+  "2PE":
+    name: "2 Pyɛr"
+    slug: "2-pyr"
+    name_toc: "Kalara mba Pyɛr a tile e"
+  "1JN":
+    name: "1 Yʉanes"
+    slug: "1-yanes"
+    name_toc: "Kalara efoʼ Yʉanes a tile e"
+  "2JN":
+    name: "2 Yʉanes"
+    slug: "2-yanes"
+    name_toc: "Kalara mba Yʉanes a tile e"
+  "3JN":
+    name: "3 Yʉanes"
+    slug: "3-yanes"
+    name_toc: "Kalara lɛl Yʉanes a tile e"
+  "JUD":
+    name: "Yʉd"
+    slug: "yd"
+    name_toc: "Kalara Yʉd a tile e"
+  "REV":
+    name: "Twóm"
+    slug: "twom"
+    name_toc: "Twóm mé Yʉánɛs nyé á bee wɨ́"

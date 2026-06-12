@@ -1,0 +1,83 @@
+language: "bua"
+books:
+  "MAT":
+    name: "Оролто үгэ"
+    slug: "orolto-uge"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"
+  "ACT":
+    name: "Элшэнэрэй бүтээһэн хэрэгүүд"
+    slug: "elsenerej-buteehen-hereguud"
+  "ROM":
+    name: "Римэйхиндэ"
+    slug: "rimejhinde"
+  "1CO":
+    name: "Коринфынхидтэ 1-дэхи"
+    slug: "korinfynhidte-1-dehi"
+  "2CO":
+    name: "Коринфынхидтэ 2-дохи"
+    slug: "korinfynhidte-2-dohi"
+  "GAL":
+    name: "Галадуудта"
+    slug: "galaduudta"
+  "EPH":
+    name: "Эфесэйхиндэ"
+    slug: "efesejhinde"
+  "PHP":
+    name: "Филиппынхидтэ"
+    slug: "filippynhidte"
+  "COL":
+    name: "Колоссынхидтэ"
+    slug: "kolossynhidte"
+  "1TH":
+    name: "Фессалоникиинхидтэ 1-дэхи"
+    slug: "fessalonikiinhidte-1-dehi"
+  "2TH":
+    name: "Фессалоникиинхидтэ 2-дохи"
+    slug: "fessalonikiinhidte-2-dohi"
+  "1TI":
+    name: "Тимофейдэ 1-дэхи"
+    slug: "timofejde-1-dehi"
+  "2TI":
+    name: "Тимофейдэ 2-дохи"
+    slug: "timofejde-2-dohi"
+  "TIT":
+    name: "Тидтэ"
+    slug: "tidte"
+  "PHM":
+    name: "Филимондо"
+    slug: "filimondo"
+  "HEB":
+    name: "Еврейнүүдтэ"
+    slug: "evrejnuudte"
+  "JAS":
+    name: "Яковай хандалга"
+    slug: "akovaj-handalga"
+  "1PE":
+    name: "Пётрой 1-дэхи хандалга"
+    slug: "petroj-1-dehi-handalga"
+  "2PE":
+    name: "Пётрой 2-дохи хандалга"
+    slug: "petroj-2-dohi-handalga"
+  "1JN":
+    name: "Иоаннай 1-дэхи хандалга"
+    slug: "ioannaj-1-dehi-handalga"
+  "2JN":
+    name: "Иоаннай 2-дохи хандалга"
+    slug: "ioannaj-2-dohi-handalga"
+  "3JN":
+    name: "Иоаннай 3-дахи хандалга"
+    slug: "ioannaj-3-dahi-handalga"
+  "JUD":
+    name: "Иудын хандалга"
+    slug: "iudyn-handalga"
+  "REV":
+    name: "Гэршэлгэ"
+    slug: "gerselge"

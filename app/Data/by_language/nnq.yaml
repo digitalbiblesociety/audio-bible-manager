@@ -1,0 +1,110 @@
+language: "nnq"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Nhwalo Gwambone oguandikigwe na Matayo"
+  "MRK":
+    name: "Maluko"
+    slug: "maluko"
+    name_toc: "Nhwalo Gwambone oguandikigwe na Maluko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Nhwalo Gwambone oguandikigwe na Luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Nhwalo Gwambone oguandikigwe na Yohana"
+  "ACT":
+    name: "Itendwa"
+    slug: "itendwa"
+    name_toc: "Itendwa ya Achandundame"
+  "ROM":
+    name: "Akaloma"
+    slug: "akaloma"
+    name_toc: "Balua ja Paulo ku bandu ba Loma"
+  "1CO":
+    name: "1 Akakolinto"
+    slug: "1-akakolinto"
+    name_toc: "Balua ja Paulo ju kutumbula ku bandu buku Kolinto"
+  "2CO":
+    name: "2 Akakolinto"
+    slug: "2-akakolinto"
+    name_toc: "Balua ja Paulo ja pabele ku bandu buku Kolinto"
+  "GAL":
+    name: "Akagalatia"
+    slug: "akagalatia"
+    name_toc: "Balua ja Paulo ku bandu buku Galatia"
+  "EPH":
+    name: "Akaefeso"
+    slug: "akaefeso"
+    name_toc: "Balua ja Paulo ku bandu buku Efeso"
+  "PHP":
+    name: "Akafilipi"
+    slug: "akafilipi"
+    name_toc: "Balua ja Paulo ku bandu buku Filipi"
+  "COL":
+    name: "Akakolosai"
+    slug: "akakolosai"
+    name_toc: "Balua ja Paulo ku bandu buku Kolosai"
+  "1TH":
+    name: "1 Akasesalonike"
+    slug: "1-akasesalonike"
+    name_toc: "Balua ja Paulo ju kutumbula ku bandu buku Sesalonike"
+  "2TH":
+    name: "2 Akasesalonike"
+    slug: "2-akasesalonike"
+    name_toc: "Balua ja Paulo ja pabele ku bandu buku Sesalonike"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Balua ja Paulo ju kutumbula ku Timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Balua ja Paulo ja pabele ku Timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Balua ja Paulo ku Tito"
+  "PHM":
+    name: "Filemoni"
+    slug: "filemoni"
+    name_toc: "Balua ja Paulo ku Filimoni"
+  "HEB":
+    name: "Akaebulania"
+    slug: "akaebulania"
+    name_toc: "Balua kwa Akaebulania"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Balua ja Yakobo"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+    name_toc: "Balua ju kutumbula ja Petulo"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+    name_toc: "Balua ji pabele ja Petulo"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Balua ju kutumbula ja Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Balua ji pabele ja Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Balua ji patatu ja Yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Balua ja Yuda"
+  "REV":
+    name: "Kuekuligwa"
+    slug: "kuekuligwa"
+    name_toc: "Kuekuligwa kwa Yohana"

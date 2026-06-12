@@ -1,0 +1,200 @@
+language: "cce"
+books:
+  "GEN":
+    name: "Genesisi"
+    slug: "genesisi"
+  "EXO":
+    name: "Eksodha"
+    slug: "eksodha"
+  "LEV":
+    name: "Levhi"
+    slug: "levhi"
+  "NUM":
+    name: "Mitengo"
+    slug: "mitengo"
+  "DEU":
+    name: "Dhewuteronome"
+    slug: "dhewuteronome"
+  "JOS":
+    name: "Joxuwa"
+    slug: "joxuwa"
+  "JDG":
+    name: "Valamuli"
+    slug: "valamuli"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+  "1SA":
+    name: "1 Samuwele"
+    slug: "1-samuwele"
+  "2SA":
+    name: "2 Samuwele"
+    slug: "2-samuwele"
+  "1KI":
+    name: "1 Vafumeli"
+    slug: "1-vafumeli"
+  "2KI":
+    name: "2 Vafumeli"
+    slug: "2-vafumeli"
+  "1CH":
+    name: "1 Makronika"
+    slug: "1-makronika"
+  "2CH":
+    name: "2 Makronika"
+    slug: "2-makronika"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Jobe"
+    slug: "jobe"
+  "PSA":
+    name: "Masalmo"
+    slug: "masalmo"
+  "PRO":
+    name: "Mavingu"
+    slug: "mavingu"
+  "ECC":
+    name: "Ekleziyaste"
+    slug: "ekleziyaste"
+  "SNG":
+    name: "Ndando ya Tindando"
+    slug: "ndando-ya-tindando"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Jeremiya"
+    slug: "jeremiya"
+  "LAM":
+    name: "Sidilo"
+    slug: "sidilo"
+  "EZK":
+    name: "Ezekhiyele"
+    slug: "ezekhiyele"
+  "DAN":
+    name: "Dhaniyeli"
+    slug: "dhaniyeli"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "JOL":
+    name: "Joyeli"
+    slug: "joyeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obhadhiya"
+    slug: "obhadhiya"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahume"
+    slug: "nahume"
+  "HAB":
+    name: "Habhakuki"
+    slug: "habhakuki"
+  "ZEP":
+    name: "Zefaniya"
+    slug: "zefaniya"
+  "HAG":
+    name: "Hagayi"
+    slug: "hagayi"
+  "ZEC":
+    name: "Zakariya"
+    slug: "zakariya"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+  "MAT":
+    name: "Matewu"
+    slug: "matewu"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+  "ACT":
+    name: "Mithumo"
+    slug: "mithumo"
+  "ROM":
+    name: "Varoma"
+    slug: "varoma"
+  "1CO":
+    name: "1 Vakorinto"
+    slug: "1-vakorinto"
+  "2CO":
+    name: "2 Vakorinto"
+    slug: "2-vakorinto"
+  "GAL":
+    name: "Vagalatiya"
+    slug: "vagalatiya"
+  "EPH":
+    name: "Vaefesu"
+    slug: "vaefesu"
+  "PHP":
+    name: "Vafilipiya"
+    slug: "vafilipiya"
+  "COL":
+    name: "Vakolosa"
+    slug: "vakolosa"
+  "1TH":
+    name: "1 Vatesalonika"
+    slug: "1-vatesalonika"
+  "2TH":
+    name: "2 Vatesalonika"
+    slug: "2-vatesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titosi"
+    slug: "titosi"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Vahebheru"
+    slug: "vahebheru"
+  "JAS":
+    name: "Jakobe"
+    slug: "jakobe"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+  "JUD":
+    name: "Judha"
+    slug: "judha"
+  "REV":
+    name: "Mtuletelo"
+    slug: "mtuletelo"

@@ -1,0 +1,266 @@
+language: "rml"
+books:
+  "GEN":
+    name: "Džiibén"
+    slug: "dziiben"
+    name_toc: "O liil pral o Esra"
+  "EXO":
+    name: "Vygiiben"
+    slug: "vygiiben"
+    name_toc: "O liil pral o Nehemia"
+  "LEV":
+    name: "Левито"
+    slug: "levito"
+    name_toc: "O liil pral i Ester"
+  "NUM":
+    name: "Čysly"
+    slug: "cysly"
+    name_toc: "O liil pral o Hiob"
+  "DEU":
+    name: "Яви́р Зако́но"
+    slug: "avir-zakono"
+    name_toc: "I Debleskre gilya"
+  "JOS":
+    name: "Isúso"
+    slug: "isuso"
+    name_toc: "Gosewe laba"
+  "JDG":
+    name: "Сэндарьенгири Лылвари́"
+    slug: "sendarengiri-lylvari"
+    name_toc: "O sikepaskro"
+  "RUT":
+    name: "Ruta"
+    slug: "ruta"
+    name_toc: "I kamlepaskri gili"
+  "1SA":
+    name: "1 Kralip"
+    slug: "1-kralip"
+    name_toc: "O Debleskro rakepaskro, o Jesaja"
+  "2SA":
+    name: "2 Kralip"
+    slug: "2-kralip"
+    name_toc: "O Debleskro rakepaskro, o Jeremia"
+  "1KI":
+    name: "3 Kralip"
+    slug: "3-kralip"
+    name_toc: "I ropaskre gilja, hoi o Jeremia tchinas"
+  "2KI":
+    name: "4 Kralip"
+    slug: "4-kralip"
+    name_toc: "O Debleskro rakepaskro, o Hesekijel"
+  "1CH":
+    name: "1 Паралипоменоно"
+    slug: "1-paralipomenono"
+    name_toc: "O Debleskro rakepaskro, o Daniel"
+  "2CH":
+    name: "2 Паралипоменоно"
+    slug: "2-paralipomenono"
+    name_toc: "O Debleskro rakepaskro, o Hosea"
+  "EZR":
+    name: "Е́здра"
+    slug: "ezdra"
+    name_toc: "O Debleskro rakepaskro, o Yoel"
+  "NEH":
+    name: "Ниеми́я"
+    slug: "niemia"
+    name_toc: "O Debleskro rakepaskro, o Amos"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "O Debleskro rakepaskro, o Obadja"
+  "JOB":
+    name: "Ióvo"
+    slug: "iovo"
+    name_toc: "O Debleskro rakepaskro, o Jona"
+  "PSA":
+    name: "Псалм"
+    slug: "psalm"
+    name_toc: "O Debleskro rakepaskro, o Mika"
+  "PRO":
+    name: "Pritčy"
+    slug: "pritcy"
+    name_toc: "O Debleskro rakepaskro, o Nahum"
+  "ECC":
+    name: "Эклес"
+    slug: "ekles"
+    name_toc: "O Debleskro rakepaskro, o Habakuk"
+  "SNG":
+    name: "Гил"
+    slug: "gil"
+    name_toc: "O Debleskro rakepaskro, o Sefanya"
+  "ISA":
+    name: "Исаёс"
+    slug: "isaes"
+    name_toc: "O Debleskro rakepaskro, o Haggay"
+  "JER":
+    name: "Ереме́ё"
+    slug: "eremee"
+    name_toc: "O Debleskro rakepaskro, o Zakarie"
+  "LAM":
+    name: "Roiben"
+    slug: "roiben"
+    name_toc: "O Debleskro rakepaskro, o Maleachi"
+  "EZK":
+    name: "Езэкилё"
+    slug: "ezekile"
+    name_toc: "O lačo lab o Yesusestar, har o Mateo menge činas"
+  "DAN":
+    name: "Дание́лё"
+    slug: "daniele"
+    name_toc: "O lačo lab o Yesusestar, hoy o Marko menge činas"
+  "HOS":
+    name: "Осия"
+    slug: "osia"
+    name_toc: "O lačo lab o Yesusestar, har o Louka menge činas"
+  "JOL":
+    name: "Ioil"
+    slug: "ioil"
+    name_toc: "O latcho lab o Jesusestar, har o Johanni menge tchinas"
+  "AMO":
+    name: "Amoso"
+    slug: "amoso"
+    name_toc: "O Jesuseskre bitchepangre"
+  "OBA":
+    name: "Авдиёс"
+    slug: "avdies"
+    name_toc: "O Pauleskro liil ap i Remarya"
+  "JON":
+    name: "Ёна"
+    slug: "ena"
+    name_toc: "O Pauleskro 1. liil ap i Korintarya"
+  "MIC":
+    name: "Михеё"
+    slug: "mihee"
+    name_toc: "O Pauleskro 2. liil ap i Korintarya"
+  "NAM":
+    name: "Naumo"
+    slug: "naumo"
+    name_toc: "O Pauleskro liil ap i Galatarja"
+  "HAB":
+    name: "Avakumo"
+    slug: "avakumo"
+    name_toc: "O Pauleskro liil ap i Efesarja"
+  "ZEP":
+    name: "Софония"
+    slug: "sofonia"
+    name_toc: "O Pauleskro liil ap i Filiparya"
+  "HAG":
+    name: "Агеё"
+    slug: "agee"
+    name_toc: "O Pauleskro liil ap i Kolossarya"
+  "ZEC":
+    name: "Заха́рия"
+    slug: "zaharia"
+    name_toc: "O Pauleskro 1. liil ap i Tessalonikarya"
+  "MAL":
+    name: "Малахия"
+    slug: "malahia"
+    name_toc: "O Pauleskro 2. liil ap i patslende an o foro Tessalonika"
+  "MAT":
+    name: "Матфеё"
+    slug: "matfee"
+    name_toc: "O Pauleskro 1. liil ap o Timoteste"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "O Pauleskro 2. liil ap o Timoteste"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "O Pauleskro liil ap o Titeste"
+  "JHN":
+    name: "Iáno"
+    slug: "iano"
+    name_toc: "O Pauleskro liil ap o Filemoneste"
+  "ACT":
+    name: "Apostolengiri Butý"
+    slug: "apostolengiri-buty"
+    name_toc: "O Petreskro 1. liil"
+  "ROM":
+    name: "Римлянэнгэ"
+    slug: "rimlanenge"
+    name_toc: "O Petreskro 2. liil"
+  "1CO":
+    name: "1 Коринфянэнгэ"
+    slug: "1-korinfanenge"
+    name_toc: "O Yohanneskro 1. liil"
+  "2CO":
+    name: "2 Коринфянэнгэ"
+    slug: "2-korinfanenge"
+    name_toc: "O Yohanneskro 2. liil"
+  "GAL":
+    name: "Galatenge"
+    slug: "galatenge"
+    name_toc: "O Johanneskro 3. liil"
+  "EPH":
+    name: "Эфесянэнгэ"
+    slug: "efesanenge"
+    name_toc: "O liil ap i Hebrearya"
+  "PHP":
+    name: "Filipiicenge"
+    slug: "filipiicenge"
+    name_toc: "O Jakobeskro liil"
+  "COL":
+    name: "Колосянэнгэ"
+    slug: "kolosanenge"
+    name_toc: "O Yudaseskro liil"
+  "1TH":
+    name: "1 Фесалоникийцэнгэ"
+    slug: "1-fesalonikijcenge"
+    name_toc: "O Debleskro tsiro, hoy vella"
+  "2TH":
+    name: "2 Фесалоникийцэнгэ"
+    slug: "2-fesalonikijcenge"
+    name_toc: "Matewu"
+  "1TI":
+    name: "1 Ximaske"
+    slug: "1-ximaske"
+    name_toc: "O Moseskro 2. liil"
+  "2TI":
+    name: "2 Ximaske"
+    slug: "2-ximaske"
+    name_toc: "O Moseskro 3. liil"
+  "TIT":
+    name: "Titoske"
+    slug: "titoske"
+    name_toc: "O Moseskro 4. liil"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "O Moseskro 5. liil"
+  "HEB":
+    name: "Юдэ́нгэ"
+    slug: "udenge"
+    name_toc: "Va-le-Roma"
+  "JAS":
+    name: "Яков"
+    slug: "akov"
+    name_toc: "I Va-le-Korinto"
+  "1PE":
+    name: "1 Petr"
+    slug: "1-petr"
+    name_toc: "O liil pral i Ruth"
+  "2PE":
+    name: "2 Petr"
+    slug: "2-petr"
+    name_toc: "O Samueleskro 1. liil"
+  "1JN":
+    name: "1 Ian"
+    slug: "1-ian"
+    name_toc: "O Samueleskro 2. liil"
+  "2JN":
+    name: "2 Ian"
+    slug: "2-ian"
+    name_toc: "O ersto Rayengro liil"
+  "3JN":
+    name: "3 Ian"
+    slug: "3-ian"
+    name_toc: "O duyto Rayengro liil"
+  "JUD":
+    name: "Юда"
+    slug: "uda"
+    name_toc: "I Va-le-Tesalonika"
+  "REV":
+    name: "Sykadyipén"
+    slug: "sykadyipen"
+    name_toc: "O duyto Familyakro liil"

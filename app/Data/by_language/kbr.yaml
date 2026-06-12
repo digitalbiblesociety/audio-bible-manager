@@ -1,0 +1,266 @@
+language: "kbr"
+books:
+  "GEN":
+    name: "Halloo"
+    slug: "halloo"
+    name_toc: "Hallee Macaafo"
+  "EXO":
+    name: "Keyo"
+    slug: "keyo"
+    name_toc: "Keyi Macaafo"
+  "LEV":
+    name: "Leweenaꞌo"
+    slug: "leweenao"
+    name_toc: "Leweena'o Macaafo"
+  "NUM":
+    name: "Haddoo"
+    slug: "haddoo"
+    name_toc: "Haddee Macaafo"
+  "DEU":
+    name: "Yibbaatoo"
+    slug: "yibbaatoo"
+    name_toc: "Yibbaatee Macaafo"
+  "JOS":
+    name: "Yaasi"
+    slug: "yaasi"
+    name_toc: "Yaasi Macaafo"
+  "JDG":
+    name: "Woraaferasheenaꞌo"
+    slug: "woraaferasheenao"
+    name_toc: "Isra'eelee Woraaferasheena'o Macaafo"
+  "RUT":
+    name: "Ruuti"
+    slug: "ruuti"
+    name_toc: "Ruuti Macaafo"
+  "1SA":
+    name: "1 Saameeli"
+    slug: "1-saameeli"
+    name_toc: "Saameelichi Ikkinnee Macaafo"
+  "2SA":
+    name: "2 Saameeli"
+    slug: "2-saameeli"
+    name_toc: "Saameelichi Guttinnee Macaafo"
+  "1KI":
+    name: "1 Taateenaꞌo"
+    slug: "1-taateenao"
+    name_toc: "Taateena'ochi Ikkinnee Macaafo"
+  "2KI":
+    name: "2 Taateenaꞌo"
+    slug: "2-taateenao"
+    name_toc: "Taateena'ochi Guttinnee Macaafo"
+  "1CH":
+    name: "1 Kiinoo"
+    slug: "1-kiinoo"
+    name_toc: "Ikkinnee Kiinee Macaafo"
+  "2CH":
+    name: "2 Kiinoo"
+    slug: "2-kiinoo"
+    name_toc: "Guttinnee Kiinee Macaafo"
+  "EZR":
+    name: "Iziri"
+    slug: "iziri"
+    name_toc: "Iziri Macaafo"
+  "NEH":
+    name: "Nehimi"
+    slug: "nehimi"
+    name_toc: "Nehimi Macaafo"
+  "EST":
+    name: "Asteeri"
+    slug: "asteeri"
+    name_toc: "Asteeri Macaafo"
+  "JOB":
+    name: "Iyoobi"
+    slug: "iyoobi"
+    name_toc: "Iyoobi Macaafo"
+  "PSA":
+    name: "Shoddo"
+    slug: "shoddo"
+    name_toc: "Shoddee Macaafo"
+  "PRO":
+    name: "Shaahiyoo"
+    slug: "shaahiyoo"
+    name_toc: "Shaahiyee Macaafo"
+  "ECC":
+    name: "Dojjecho"
+    slug: "dojjecho"
+    name_toc: "Dojjechochi Macaafo"
+  "SNG":
+    name: "Solomooni"
+    slug: "solomooni"
+    name_toc: "Solomooni Shoddo"
+  "ISA":
+    name: "Isiyaasi"
+    slug: "isiyaasi"
+    name_toc: "Keemechi Isiyaasi"
+  "JER":
+    name: "Erimiyaasi"
+    slug: "erimiyaasi"
+    name_toc: "Keemechi Erimiyaasi"
+  "LAM":
+    name: "Shoosho"
+    slug: "shoosho"
+    name_toc: "Erimiyaasi Shoosho"
+  "EZK":
+    name: "Hiziqeeli"
+    slug: "hiziqeeli"
+    name_toc: "Keemechi Hiziqeeli"
+  "DAN":
+    name: "Daaneeli"
+    slug: "daaneeli"
+    name_toc: "Keemechi Daaneeli"
+  "HOS":
+    name: "Hosee'i"
+    slug: "hosee-i"
+    name_toc: "Keemechi Hosee'i"
+  "JOL":
+    name: "Yoꞌeeli"
+    slug: "yoeeli"
+    name_toc: "Keemechi Yo'eeli"
+  "AMO":
+    name: "Amootsi"
+    slug: "amootsi"
+    name_toc: "Keemechi Amootsi"
+  "OBA":
+    name: "Abidiyi"
+    slug: "abidiyi"
+    name_toc: "Keemechi Abidiyi"
+  "JON":
+    name: "Yoonaasi"
+    slug: "yoonaasi"
+    name_toc: "Keemechi Yoonaasi"
+  "MIC":
+    name: "Mikiyaasi"
+    slug: "mikiyaasi"
+    name_toc: "Keemechi Mikiyaasi"
+  "NAM":
+    name: "Naahoomi"
+    slug: "naahoomi"
+    name_toc: "Keemechi Naahoomi"
+  "HAB":
+    name: "Imbaaqoomi"
+    slug: "imbaaqoomi"
+    name_toc: "Keemechi Imbaaqoomi"
+  "ZEP":
+    name: "Sofoniyaasi"
+    slug: "sofoniyaasi"
+    name_toc: "Keemechi Sofoniyaasi"
+  "HAG":
+    name: "Haagi"
+    slug: "haagi"
+    name_toc: "Keemechi Haagi"
+  "ZEC":
+    name: "Zakaariyaasi"
+    slug: "zakaariyaasi"
+    name_toc: "Keemechi Zakaariyaasi"
+  "MAL":
+    name: "Milikiyaasi"
+    slug: "milikiyaasi"
+    name_toc: "Keemechi Milikiyaasi"
+  "MAT":
+    name: "Maatiyoosi"
+    slug: "maatiyoosi"
+    name_toc: "Maatiyoosi Kooriti No Doono Yesuus Kiristoosichi Mishiraachoo"
+  "MRK":
+    name: "Maariqoosi"
+    slug: "maariqoosi"
+    name_toc: "Maariqoosi Kooriti No Doono Yesuus Kiristoosichi Mishiraachoo"
+  "LUK":
+    name: "Luqaasi"
+    slug: "luqaasi"
+    name_toc: "Luqaasi Kooriti No Doono Yesuus Kiristoosichi Mishiraachoo"
+  "JHN":
+    name: "Yowannisi"
+    slug: "yowannisi"
+    name_toc: "Yowannisi Kooriti No Doono Yesuus Kiristoosichi Mishiraachoo"
+  "ACT":
+    name: "Mishiraachechinaꞌo"
+    slug: "mishiraachechinao"
+    name_toc: "Mishiraachechina'ochi Shuunoo"
+  "ROM":
+    name: "Roomi"
+    slug: "roomi"
+    name_toc: "Roomi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "1CO":
+    name: "1 Qorontoosi"
+    slug: "1-qorontoosi"
+    name_toc: "Qorontoosi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Ikkinnee Wocho"
+  "2CO":
+    name: "2 Qorontoosi"
+    slug: "2-qorontoosi"
+    name_toc: "Qorontoosi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Guttinnee Wocho"
+  "GAL":
+    name: "Galaati"
+    slug: "galaati"
+    name_toc: "Galaati Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "EPH":
+    name: "Efesooni"
+    slug: "efesooni"
+    name_toc: "Efesooni Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "PHP":
+    name: "Filipphisiyoosi"
+    slug: "filipphisiyoosi"
+    name_toc: "Filipphisiyoosi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "COL":
+    name: "Qolaasiyaasi"
+    slug: "qolaasiyaasi"
+    name_toc: "Qolaasiyaasi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "1TH":
+    name: "1 Tasaloonqi"
+    slug: "1-tasaloonqi"
+    name_toc: "Tasaloonqi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Ikkinnee Wocho"
+  "2TH":
+    name: "2 Tasaloonqi"
+    slug: "2-tasaloonqi"
+    name_toc: "Tasaloonqi Kittinneena'oyich Mishiraachechi Phawuloosi Kooriti Guttinnee Wocho"
+  "1TI":
+    name: "1 Ximootiyoosi"
+    slug: "1-ximootiyoosi"
+    name_toc: "Ximootiyoosich Mishiraachechi Phawuloosi Kooriti Ikkinnee Wocho"
+  "2TI":
+    name: "2 Ximootiyoosi"
+    slug: "2-ximootiyoosi"
+    name_toc: "Ximootiyoosich Mishiraachechi Phawuloosi Kooriti Guttinnee Wocho"
+  "TIT":
+    name: "Titoosi"
+    slug: "titoosi"
+    name_toc: "Titoosich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "PHM":
+    name: "Filimooni"
+    slug: "filimooni"
+    name_toc: "Filimoonich Mishiraachechi Phawuloosi Kooriti Wocho"
+  "HEB":
+    name: "Hibireena'o"
+    slug: "hibireena-o"
+    name_toc: "Hibireena'oyich Kooreeti Wocho"
+  "JAS":
+    name: "Yaaqobi"
+    slug: "yaaqobi"
+    name_toc: "Yaaqobi Kooriti Wocho"
+  "1PE":
+    name: "1 Pheexiroosi"
+    slug: "1-pheexiroosi"
+    name_toc: "Mishiraachechi Pheexiroosi Kooriti Ikkinnee Wocho"
+  "2PE":
+    name: "2 Pheexiroosi"
+    slug: "2-pheexiroosi"
+    name_toc: "Mishiraachechi Pheexiroosi Kooriti Guttinnee Wocho"
+  "1JN":
+    name: "1 Yowannisi"
+    slug: "1-yowannisi"
+    name_toc: "Mishiraachechi Yowannisi Kooriti Ikkinnee Wocho"
+  "2JN":
+    name: "2 Yowannisi"
+    slug: "2-yowannisi"
+    name_toc: "Mishiraachechi Yowannisi Kooriti Guttinnee Wocho"
+  "3JN":
+    name: "3 Yowannisi"
+    slug: "3-yowannisi"
+    name_toc: "Mishiraachechi Yowannisi Kooriti Keejjinnee Wocho"
+  "JUD":
+    name: "Yihudi"
+    slug: "yihudi"
+    name_toc: "Yihudi Kooriti Wocho"
+  "REV":
+    name: "Yaaꞌoo"
+    slug: "yaaoo"
+    name_toc: "Yowannisich Bekketi Yaa'oo"

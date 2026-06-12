@@ -1,0 +1,176 @@
+language: "asg"
+books:
+  "GEN":
+    name: "Ugiti"
+    slug: "ugiti"
+  "EXO":
+    name: "Kuta̱"
+    slug: "kuta"
+  "LEV":
+    name: "Anan Ganu"
+    slug: "anan-ganu"
+  "NUM":
+    name: "Mekecu"
+    slug: "mekecu"
+  "DEU":
+    name: "Wila̱"
+    slug: "wila"
+  "JOS":
+    name: "Jesuwa"
+    slug: "jesuwa"
+  "JDG":
+    name: "Azafada"
+    slug: "azafada"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "1SA":
+    name: "1 Samaila"
+    slug: "1-samaila"
+  "2SA":
+    name: "2 Samaila"
+    slug: "2-samaila"
+  "1KI":
+    name: "1 Ngono"
+    slug: "1-ngono"
+  "2KI":
+    name: "2 Ngono"
+    slug: "2-ngono"
+  "2CH":
+    name: "2 Arabali"
+    slug: "2-arabali"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "PSA":
+    name: "Ishipa"
+    slug: "ishipa"
+  "PRO":
+    name: "Ansa"
+    slug: "ansa"
+  "ECC":
+    name: "Tsuɓari"
+    slug: "tsuari"
+  "SNG":
+    name: "Vishipa vu Sulemanu"
+    slug: "vishipa-vu-sulemanu"
+  "ISA":
+    name: "Ishaya"
+    slug: "ishaya"
+  "JER":
+    name: "Irimiya"
+    slug: "irimiya"
+  "DAN":
+    name: "Daniyan"
+    slug: "daniyan"
+  "HOS":
+    name: "Hosiya"
+    slug: "hosiya"
+  "JOL":
+    name: "Juwelu"
+    slug: "juwelu"
+  "OBA":
+    name: "Obodiya"
+    slug: "obodiya"
+  "JON":
+    name: "Yunusa"
+    slug: "yunusa"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "ZEP":
+    name: "Zafaniyan"
+    slug: "zafaniyan"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "MAL":
+    name: "Malaci"
+    slug: "malaci"
+  "MAT":
+    name: "Marukusu"
+    slug: "marukusu"
+  "MRK":
+    name: "Marukusu"
+    slug: "marukusu"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"
+  "ACT":
+    name: "Azusuki"
+    slug: "azusuki"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintiya"
+    slug: "1-korintiya"
+  "2CO":
+    name: "2 Korintiya"
+    slug: "2-korintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisu"
+    slug: "afisu"
+  "PHP":
+    name: "Filibiya"
+    slug: "filibiya"
+  "COL":
+    name: "Kolosiya"
+    slug: "kolosiya"
+  "1TH":
+    name: "1 Tosolonika"
+    slug: "1-tosolonika"
+  "2TH":
+    name: "2 Tosolonika"
+    slug: "2-tosolonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitu"
+    slug: "taitu"
+  "PHM":
+    name: "Filimo"
+    slug: "filimo"
+  "HEB":
+    name: "Aza a Ibrahim"
+    slug: "aza-a-ibrahim"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Biturusu"
+    slug: "1-biturusu"
+  "2PE":
+    name: "2 Biturusu"
+    slug: "2-biturusu"
+  "1JN":
+    name: "1 Yahaya"
+    slug: "1-yahaya"
+  "2JN":
+    name: "2 Yahaya"
+    slug: "2-yahaya"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Yahuza"
+    slug: "yahuza"
+  "REV":
+    name: "Kene"
+    slug: "kene"

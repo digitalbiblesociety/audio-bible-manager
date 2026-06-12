@@ -1,0 +1,83 @@
+language: "yad"
+books:
+  "MAT":
+    name: "Matévu"
+    slug: "matevu"
+  "MRK":
+    name: "Márcu"
+    slug: "marcu"
+  "LUK":
+    name: "Dúcasiy"
+    slug: "ducasiy"
+  "JHN":
+    name: "Juán"
+    slug: "juan"
+  "ACT":
+    name: "Jvaayada"
+    slug: "jvaayada"
+  "ROM":
+    name: "Róma"
+    slug: "roma"
+  "1CO":
+    name: "1 Coríntyu"
+    slug: "1-corintyu"
+  "2CO":
+    name: "2 Coríntyu"
+    slug: "2-corintyu"
+  "GAL":
+    name: "Cadásiya"
+    slug: "cadasiya"
+  "EPH":
+    name: "Evésu"
+    slug: "evesu"
+  "PHP":
+    name: "Vidípo"
+    slug: "vidipo"
+  "COL":
+    name: "Codósasiy"
+    slug: "codosasiy"
+  "1TH":
+    name: "1 Tesadónica"
+    slug: "1-tesadonica"
+  "2TH":
+    name: "2 Tesadónica"
+    slug: "2-tesadonica"
+  "1TI":
+    name: "1 Timutévu"
+    slug: "1-timutevu"
+  "2TI":
+    name: "2 Timutévu"
+    slug: "2-timutevu"
+  "TIT":
+    name: "Títu"
+    slug: "titu"
+  "PHM":
+    name: "Videmó̱"
+    slug: "videmo"
+  "HEB":
+    name: "Ebrévuveda"
+    slug: "ebrevuveda"
+  "JAS":
+    name: "Santiyácu"
+    slug: "santiyacu"
+  "1PE":
+    name: "1 Pyítru"
+    slug: "1-pyitru"
+  "2PE":
+    name: "2 Pyítru"
+    slug: "2-pyitru"
+  "1JN":
+    name: "1 Juán"
+    slug: "1-juan"
+  "2JN":
+    name: "2 Juán"
+    slug: "2-juan"
+  "3JN":
+    name: "3 Juán"
+    slug: "3-juan"
+  "JUD":
+    name: "Júdasiy"
+    slug: "judasiy"
+  "REV":
+    name: "Dityadoda"
+    slug: "dityadoda"

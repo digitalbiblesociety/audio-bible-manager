@@ -1,0 +1,83 @@
+language: "cof"
+books:
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Mantá Tanla"
+    slug: "manta-tanla"
+  "ROM":
+    name: "Románolachi"
+    slug: "romanolachi"
+  "1CO":
+    name: "Caque Coríntolachi"
+    slug: "caque-corintolachi"
+  "2CO":
+    name: "Benete Coríntolachi"
+    slug: "benete-corintolachi"
+  "GAL":
+    name: "Galácialachi"
+    slug: "galacialachi"
+  "EPH":
+    name: "Efesolachi"
+    slug: "efesolachi"
+  "PHP":
+    name: "Filípolachi"
+    slug: "filipolachi"
+  "COL":
+    name: "Colósalachi"
+    slug: "colosalachi"
+  "1TH":
+    name: "Caque Tesalónicalachi"
+    slug: "caque-tesalonicalachi"
+  "2TH":
+    name: "Benete Tesalónicalachi"
+    slug: "benete-tesalonicalachi"
+  "1TI":
+    name: "Caque Timotéochi"
+    slug: "caque-timoteochi"
+  "2TI":
+    name: "Benete Timotéochi"
+    slug: "benete-timoteochi"
+  "TIT":
+    name: "Títochi"
+    slug: "titochi"
+  "PHM":
+    name: "Filemonchi"
+    slug: "filemonchi"
+  "HEB":
+    name: "Israelítalachi"
+    slug: "israelitalachi"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "Pédrochi Caque"
+    slug: "pedrochi-caque"
+  "2PE":
+    name: "Pédrochi Benete"
+    slug: "pedrochi-benete"
+  "1JN":
+    name: "Juanchi Caque"
+    slug: "juanchi-caque"
+  "2JN":
+    name: "Juanchi Benete"
+    slug: "juanchi-benete"
+  "3JN":
+    name: "Juanchi Debi"
+    slug: "juanchi-debi"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Quirajanunca"
+    slug: "quirajanunca"

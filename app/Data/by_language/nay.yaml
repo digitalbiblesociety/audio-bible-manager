@@ -1,0 +1,14 @@
+language: "nay"
+books:
+  "GEN":
+    name: "Gen"
+    slug: "gen"
+  "EXO":
+    name: "Exo"
+    slug: "exo"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "JHN":
+    name: "Jhn"
+    slug: "jhn"

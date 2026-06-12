@@ -1,0 +1,83 @@
+language: "alt"
+books:
+  "MAT":
+    name: "Матфей"
+    slug: "matfej"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Лука"
+    slug: "luka"
+  "JHN":
+    name: "Иоанн"
+    slug: "ioann"
+  "ACT":
+    name: "Апостолдордыҥ керектери"
+    slug: "apostoldordy-kerekteri"
+  "ROM":
+    name: "Римдегилерге"
+    slug: "rimdegilerge"
+  "1CO":
+    name: "1 Коринфтегилерге"
+    slug: "1-korinftegilerge"
+  "2CO":
+    name: "2 Коринфтегилерге"
+    slug: "2-korinftegilerge"
+  "GAL":
+    name: "Галаттарга"
+    slug: "galattarga"
+  "EPH":
+    name: "Ефестегилерге"
+    slug: "efestegilerge"
+  "PHP":
+    name: "Филиппыдагыларга"
+    slug: "filippydagylarga"
+  "COL":
+    name: "Колоссыдагыларга"
+    slug: "kolossydagylarga"
+  "1TH":
+    name: "1 Фессалоникадагыларга"
+    slug: "1-fessalonikadagylarga"
+  "2TH":
+    name: "2 Фессалоникадагыларга"
+    slug: "2-fessalonikadagylarga"
+  "1TI":
+    name: "1 Тимофейге"
+    slug: "1-timofejge"
+  "2TI":
+    name: "2 Тимофейге"
+    slug: "2-timofejge"
+  "TIT":
+    name: "Титке"
+    slug: "titke"
+  "PHM":
+    name: "Филимонго"
+    slug: "filimongo"
+  "HEB":
+    name: "Еврейлерге"
+    slug: "evrejlerge"
+  "JAS":
+    name: "Иаковтыҥ самаразы"
+    slug: "iakovty-samarazy"
+  "1PE":
+    name: "Петрдыҥ 1-кы самаразы"
+    slug: "petrdy-1-ky-samarazy"
+  "2PE":
+    name: "Петрдыҥ 2-чи самаразы"
+    slug: "petrdy-2-ci-samarazy"
+  "1JN":
+    name: "Иоанныҥ 1-кы самаразы"
+    slug: "ioanny-1-ky-samarazy"
+  "2JN":
+    name: "Иоанныҥ 2-чи самаразы"
+    slug: "ioanny-2-ci-samarazy"
+  "3JN":
+    name: "Иоанныҥ 3-чи самаразы"
+    slug: "ioanny-3-ci-samarazy"
+  "JUD":
+    name: "Иуданыҥ самаразы"
+    slug: "iudany-samarazy"
+  "REV":
+    name: "Ачылта"
+    slug: "acylta"

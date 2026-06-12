@@ -1,0 +1,233 @@
+language: "gkp"
+books:
+  "GEN":
+    name: "Zɛnɛse"
+    slug: "znse"
+  "EXO":
+    name: "Ɛsedɔ"
+    slug: "sed"
+  "LEV":
+    name: "Levetekɔ"
+    slug: "levetek"
+  "NUM":
+    name: "Nɔŋba"
+    slug: "nba"
+  "DEU":
+    name: "Dutɛrɔnome"
+    slug: "dutrnome"
+  "JOS":
+    name: "Zasua"
+    slug: "zasua"
+  "JDG":
+    name: "Nwun mąąɓo"
+    slug: "nwun-maao"
+  "RUT":
+    name: "Lûfi"
+    slug: "lufi"
+  "1SA":
+    name: "Samia Maa-ŋuŋ"
+    slug: "samia-maa-u"
+  "2SA":
+    name: "Samia Veerɛi"
+    slug: "samia-veeri"
+  "1KI":
+    name: "Tɔɔɓɛlaa dɔlɔɔ"
+    slug: "tlaa-dl"
+  "2KI":
+    name: "Tɔɔɓɛlaa veelɛ"
+    slug: "tlaa-veel"
+  "1CH":
+    name: "Kɔlɔnikɔ Maa-ŋuŋ"
+    slug: "klnik-maa-u"
+  "2CH":
+    name: "Kɔlɔnikɔ Veerɛi"
+    slug: "klnik-veeri"
+  "EZR":
+    name: "Ɛzura"
+    slug: "zura"
+  "NEH":
+    name: "Nehemi"
+    slug: "nehemi"
+  "EST":
+    name: "Ɛtɛ"
+    slug: "t"
+  "JOB":
+    name: "Zôo"
+    slug: "zoo"
+  "PSA":
+    name: "Wule-woo-ŋa"
+    slug: "wule-woo-a"
+  "PRO":
+    name: "Hanwon"
+    slug: "hanwon"
+  "ECC":
+    name: "Ikilisiati"
+    slug: "ikilisiati"
+  "SNG":
+    name: "Wɛli"
+    slug: "wli"
+  "ISA":
+    name: "Esai"
+    slug: "esai"
+  "JER":
+    name: "Ɉeremi"
+    slug: "eremi"
+  "LAM":
+    name: "Woolaa"
+    slug: "woolaa"
+  "EZK":
+    name: "Izikiɛ"
+    slug: "iziki"
+  "DAN":
+    name: "Danîa"
+    slug: "dania"
+  "HOS":
+    name: "Ose"
+    slug: "ose"
+  "JOL":
+    name: "Zooɛ"
+    slug: "zoo"
+  "AMO":
+    name: "Emɔ"
+    slug: "em"
+  "OBA":
+    name: "Obadaya"
+    slug: "obadaya"
+  "JON":
+    name: "Zôna"
+    slug: "zona"
+  "MIC":
+    name: "Maka"
+    slug: "maka"
+  "NAM":
+    name: "Neeuŋ"
+    slug: "neeu"
+  "HAB":
+    name: "Abaku"
+    slug: "abaku"
+  "ZEP":
+    name: "Sofoni"
+    slug: "sofoni"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+  "ZEC":
+    name: "Zakari"
+    slug: "zakari"
+  "MAL":
+    name: "Malasi"
+    slug: "malasi"
+  "TOB":
+    name: "Tobi"
+    slug: "tobi"
+  "JDT":
+    name: "uditə"
+    slug: "udite"
+  "ESG":
+    name: "Ɛstɛrə Grɛkə"
+    slug: "stre-grke"
+  "WIS":
+    name: "Kilikɛɲəi"
+    slug: "kilikei"
+  "SIR":
+    name: "Sirasidə"
+    slug: "siraside"
+  "BAR":
+    name: "Barukə"
+    slug: "baruke"
+  "S3Y":
+    name: "Azaria ni"
+    slug: "azaria-ni"
+  "SUS":
+    name: "Susanə"
+    slug: "susane"
+  "BEL":
+    name: "Bɛlə"
+    slug: "ble"
+  "1MA":
+    name: "1 Makabe"
+    slug: "1-makabe"
+  "2MA":
+    name: "2 Makabe"
+    slug: "2-makabe"
+  "MAT":
+    name: "Matie"
+    slug: "matie"
+  "MRK":
+    name: "Mâki"
+    slug: "maki"
+  "LUK":
+    name: "Lûu"
+    slug: "luu"
+  "JHN":
+    name: "Zɔ̂ŋ"
+    slug: "z"
+  "ACT":
+    name: "Gɛlaɠaa"
+    slug: "glaaa"
+  "ROM":
+    name: "Romə"
+    slug: "rome"
+  "1CO":
+    name: "Korɛntə dɔlɔɔ"
+    slug: "kornte-dl"
+  "2CO":
+    name: "Korɛntə veelɛ"
+    slug: "kornte-veel"
+  "GAL":
+    name: "Galatə"
+    slug: "galate"
+  "EPH":
+    name: "Efɛsə"
+    slug: "efse"
+  "PHP":
+    name: "Filipə"
+    slug: "filipe"
+  "COL":
+    name: "Kolosə"
+    slug: "kolose"
+  "1TH":
+    name: "Tɛsalonikə dɔlɔɔ"
+    slug: "tsalonike-dl"
+  "2TH":
+    name: "Tɛsalonikə veelɛ"
+    slug: "tsalonike-veel"
+  "1TI":
+    name: "Timote dɔlɔɔ"
+    slug: "timote-dl"
+  "2TI":
+    name: "Timote veelɛ"
+    slug: "timote-veel"
+  "TIT":
+    name: "Titə"
+    slug: "tite"
+  "PHM":
+    name: "Falemɔŋ"
+    slug: "falem"
+  "HEB":
+    name: "Ibulu"
+    slug: "ibulu"
+  "JAS":
+    name: "Zĩi"
+    slug: "zii"
+  "1PE":
+    name: "Piɛrə dɔlɔɔ"
+    slug: "pire-dl"
+  "2PE":
+    name: "Pitɛ Veerɛi"
+    slug: "pit-veeri"
+  "1JN":
+    name: "aan dɔlɔɔ"
+    slug: "aan-dl"
+  "2JN":
+    name: "aan veelɛ"
+    slug: "aan-veel"
+  "3JN":
+    name: "aan aaɓa"
+    slug: "aan-aaa"
+  "JUD":
+    name: "Zûu"
+    slug: "zuu"
+  "REV":
+    name: "M̀ɛni-lɛɛi"
+    slug: "mni-li"

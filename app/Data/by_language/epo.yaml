@@ -1,0 +1,200 @@
+language: "epo"
+books:
+  "GEN":
+    name: "Genezo"
+    slug: "genezo"
+  "EXO":
+    name: "Eliro"
+    slug: "eliro"
+  "LEV":
+    name: "Levidoj"
+    slug: "levidoj"
+  "NUM":
+    name: "Nombroj"
+    slug: "nombroj"
+  "DEU":
+    name: "Readmono"
+    slug: "readmono"
+  "JOS":
+    name: "Josuo"
+    slug: "josuo"
+  "JDG":
+    name: "Juĝistoj"
+    slug: "jugistoj"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+  "1KI":
+    name: "1 Reĝoj"
+    slug: "1-regoj"
+  "2KI":
+    name: "2 Reĝoj"
+    slug: "2-regoj"
+  "1CH":
+    name: "1 Kroniko"
+    slug: "1-kroniko"
+  "2CH":
+    name: "2 Kroniko"
+    slug: "2-kroniko"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Neĥemja"
+    slug: "nehemja"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Ijob"
+    slug: "ijob"
+  "PSA":
+    name: "Psalmaro"
+    slug: "psalmaro"
+  "PRO":
+    name: "Sentencoj"
+    slug: "sentencoj"
+  "ECC":
+    name: "Predikanto"
+    slug: "predikanto"
+  "SNG":
+    name: "Alt Kanto"
+    slug: "alt-kanto"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Plorkanto"
+    slug: "plorkanto"
+  "EZK":
+    name: "Jeĥezkel"
+    slug: "jehezkel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hoŝea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadja"
+    slug: "obadja"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Miĥa"
+    slug: "miha"
+  "NAM":
+    name: "Naĥum"
+    slug: "nahum"
+  "HAB":
+    name: "Ĥabakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Cefanja"
+    slug: "cefanja"
+  "HAG":
+    name: "Ĥagaj"
+    slug: "hagaj"
+  "ZEC":
+    name: "Zeĥarja"
+    slug: "zeharja"
+  "MAL":
+    name: "Malaĥi"
+    slug: "malahi"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+  "LUK":
+    name: "Luko"
+    slug: "luko"
+  "JHN":
+    name: "Johano"
+    slug: "johano"
+  "ACT":
+    name: "Agoj"
+    slug: "agoj"
+  "ROM":
+    name: "Romanoj"
+    slug: "romanoj"
+  "1CO":
+    name: "1 Korintanoj"
+    slug: "1-korintanoj"
+  "2CO":
+    name: "2 Korintanoj"
+    slug: "2-korintanoj"
+  "GAL":
+    name: "Galatoj"
+    slug: "galatoj"
+  "EPH":
+    name: "Efesanoj"
+    slug: "efesanoj"
+  "PHP":
+    name: "Filipianoj"
+    slug: "filipianoj"
+  "COL":
+    name: "Koloseanoj"
+    slug: "koloseanoj"
+  "1TH":
+    name: "1 Tesalonikanoj"
+    slug: "1-tesalonikanoj"
+  "2TH":
+    name: "2 Tesalonikanoj"
+    slug: "2-tesalonikanoj"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebroj"
+    slug: "hebroj"
+  "JAS":
+    name: "Jakobo"
+    slug: "jakobo"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Johano"
+    slug: "1-johano"
+  "2JN":
+    name: "2 Johano"
+    slug: "2-johano"
+  "3JN":
+    name: "3 Johano"
+    slug: "3-johano"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Apokalipso"
+    slug: "apokalipso"

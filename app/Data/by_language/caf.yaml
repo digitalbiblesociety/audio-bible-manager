@@ -1,0 +1,83 @@
+language: "caf"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Whel'a 'En Hubube 'Ut'en K'ah"
+    slug: "whela-en-hubube-uten-kah"
+  "ROM":
+    name: "Rome Whut'en"
+    slug: "rome-whuten"
+  "1CO":
+    name: "1 Corinth Whut'en"
+    slug: "1-corinth-whuten"
+  "2CO":
+    name: "2 Corinth Whut'en"
+    slug: "2-corinth-whuten"
+  "GAL":
+    name: "Galatia Whut'en"
+    slug: "galatia-whuten"
+  "EPH":
+    name: "Ephesus Whut'en"
+    slug: "ephesus-whuten"
+  "PHP":
+    name: "Philippi Whut'en"
+    slug: "philippi-whuten"
+  "COL":
+    name: "Colossia Whut'en"
+    slug: "colossia-whuten"
+  "1TH":
+    name: "1 Thessalonica Whut'en"
+    slug: "1-thessalonica-whuten"
+  "2TH":
+    name: "2 Thessalonica Whut'en"
+    slug: "2-thessalonica-whuten"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrew Khunek K'uyahalhtuk"
+    slug: "hebrew-khunek-kuyahalhtuk"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Sizi Gri, 'en dune ba ts'et hahónla"
+    slug: "sizi-gri-en-dune-ba-tset-hahonla"

@@ -1,0 +1,83 @@
+language: "cko"
+books:
+  "MAT":
+    name: "Matio"
+    slug: "matio"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Sayoowam"
+    slug: "sayoowam"
+  "ROM":
+    name: "Romafɔm"
+    slug: "romafm"
+  "1CO":
+    name: "1 Kɔrintofɔm"
+    slug: "1-krintofm"
+  "2CO":
+    name: "2 Kɔrintofɔm"
+    slug: "2-krintofm"
+  "GAL":
+    name: "Galatiyafɔm"
+    slug: "galatiyafm"
+  "EPH":
+    name: "Ɛfɛsofɔm"
+    slug: "fsofm"
+  "PHP":
+    name: "Filipiyafɔm"
+    slug: "filipiyafm"
+  "COL":
+    name: "Kolosiyafɔm"
+    slug: "kolosiyafm"
+  "1TH":
+    name: "1 Tɛsalonikafɔm"
+    slug: "1-tsalonikafm"
+  "2TH":
+    name: "2 Tɛsalonikafɔm"
+    slug: "2-tsalonikafm"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titosi"
+    slug: "titosi"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hiburufɔm"
+    slug: "hiburufm"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petoro"
+    slug: "1-petoro"
+  "2PE":
+    name: "2 Petoro"
+    slug: "2-petoro"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Juda"
+    slug: "juda"
+  "REV":
+    name: "Sa­yikeree­wa"
+    slug: "sayikereewa"

@@ -1,0 +1,200 @@
+language: "bru"
+books:
+  "GEN":
+    name: "Saráq Tễ Dâu"
+    slug: "saraq-te-dau"
+  "EXO":
+    name: "Loŏh Tễ Ê-yip-tô"
+    slug: "looh-te-e-yip-to"
+  "LEV":
+    name: "Lê-vi"
+    slug: "le-vi"
+  "NUM":
+    name: "Ngih Proai"
+    slug: "ngih-proai"
+  "DEU":
+    name: "Patâp Loah"
+    slug: "patap-loah"
+  "JOS":
+    name: "Yô-sũa"
+    slug: "yo-sua"
+  "JDG":
+    name: "Cũai Rasữq"
+    slug: "cuai-rasuq"
+  "RUT":
+    name: "Rutỡ"
+    slug: "ruto"
+  "1SA":
+    name: "Samu-ễl Muoi"
+    slug: "samu-el-muoi"
+  "2SA":
+    name: "Samu-ễl Bar"
+    slug: "samu-el-bar"
+  "1KI":
+    name: "Puo Muoi"
+    slug: "puo-muoi"
+  "2KI":
+    name: "Puo Bar"
+    slug: "puo-bar"
+  "1CH":
+    name: "Ruaih Loah Muoi"
+    slug: "ruaih-loah-muoi"
+  "2CH":
+    name: "Ruaih Loah Bar"
+    slug: "ruaih-loah-bar"
+  "EZR":
+    name: "Ê-sara"
+    slug: "e-sara"
+  "NEH":
+    name: "Nê-hamia"
+    slug: "ne-hamia"
+  "EST":
+    name: "Ê-satơ"
+    slug: "e-sato"
+  "JOB":
+    name: "Yop"
+    slug: "yop"
+  "PSA":
+    name: "Ũat Khễn"
+    slug: "uat-khen"
+  "PRO":
+    name: "Pali Panha"
+    slug: "pali-panha"
+  "ECC":
+    name: "Santoiq Rangoaiq"
+    slug: "santoiq-rangoaiq"
+  "SNG":
+    name: "Cansái Ũat"
+    slug: "cansai-uat"
+  "ISA":
+    name: "Ê-sai"
+    slug: "e-sai"
+  "JER":
+    name: "Yê-ramia"
+    slug: "ye-ramia"
+  "LAM":
+    name: "Santoiq Cuclỗiq"
+    slug: "santoiq-cucloiq"
+  "EZK":
+    name: "Ê-sakiel"
+    slug: "e-sakiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hô-sĩa"
+    slug: "ho-sia"
+  "JOL":
+    name: "Yô-el"
+    slug: "yo-el"
+  "AMO":
+    name: "Amôt"
+    slug: "amot"
+  "OBA":
+    name: "Ô-badia"
+    slug: "o-badia"
+  "JON":
+    name: "Yô-na"
+    slug: "yo-na"
+  "MIC":
+    name: "Mi-ca"
+    slug: "mi-ca"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Ha-bacúc"
+    slug: "ha-bacuc"
+  "ZEP":
+    name: "Sê-phania"
+    slug: "se-phania"
+  "HAG":
+    name: "Hacai"
+    slug: "hacai"
+  "ZEC":
+    name: "Sa-chari"
+    slug: "sa-chari"
+  "MAL":
+    name: "Ma-laki"
+    slug: "ma-laki"
+  "MAT":
+    name: "Mathia"
+    slug: "mathia"
+  "MRK":
+    name: "Mac"
+    slug: "mac"
+  "LUK":
+    name: "Luca"
+    slug: "luca"
+  "JHN":
+    name: "Yang"
+    slug: "yang"
+  "ACT":
+    name: "Ranáq Táq"
+    slug: "ranaq-taq"
+  "ROM":
+    name: "Rô-ma"
+    slug: "ro-ma"
+  "1CO":
+    name: "Côr-ntô Muoi"
+    slug: "cor-nto-muoi"
+  "2CO":
+    name: "Côr-ntô Bar"
+    slug: "cor-nto-bar"
+  "GAL":
+    name: "Ca-lati"
+    slug: "ca-lati"
+  "EPH":
+    name: "Ê-phê-sô"
+    slug: "e-phe-so"
+  "PHP":
+    name: "Phi-lip"
+    slug: "phi-lip"
+  "COL":
+    name: "Cô-lusê"
+    slug: "co-luse"
+  "1TH":
+    name: "Tê-salô-naca Muoi"
+    slug: "te-salo-naca-muoi"
+  "2TH":
+    name: "Tê-salô-naca Bar"
+    slug: "te-salo-naca-bar"
+  "1TI":
+    name: "Ti-muthê Muoi"
+    slug: "ti-muthe-muoi"
+  "2TI":
+    name: "Ti-muthê Bar"
+    slug: "ti-muthe-bar"
+  "TIT":
+    name: "Atĩt"
+    slug: "atit"
+  "PHM":
+    name: "Phi-lamôn"
+    slug: "phi-lamon"
+  "HEB":
+    name: "Hê-brơ"
+    slug: "he-bro"
+  "JAS":
+    name: "Yacỡ"
+    slug: "yaco"
+  "1PE":
+    name: "Phi-er Muoi"
+    slug: "phi-er-muoi"
+  "2PE":
+    name: "Phi-er Bar"
+    slug: "phi-er-bar"
+  "1JN":
+    name: "Yang Muoi"
+    slug: "yang-muoi"
+  "2JN":
+    name: "Yang Bar"
+    slug: "yang-bar"
+  "3JN":
+    name: "Yang Pái"
+    slug: "yang-pai"
+  "JUD":
+    name: "Yude"
+    slug: "yude"
+  "REV":
+    name: "Sapáh Baih"
+    slug: "sapah-baih"

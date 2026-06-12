@@ -1,0 +1,5 @@
+language: "mzz"
+books:
+  "MRK":
+    name: "Malika"
+    slug: "malika"

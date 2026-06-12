@@ -1,0 +1,83 @@
+language: "utr"
+books:
+  "MAT":
+    name: "iMatiu"
+    slug: "imatiu"
+  "MRK":
+    name: "iMaki"
+    slug: "imaki"
+  "LUK":
+    name: "iLuku"
+    slug: "iluku"
+  "JHN":
+    name: "iJɔn"
+    slug: "ijn"
+  "ACT":
+    name: "Okyɔɔkyɔ"
+    slug: "okyky"
+  "ROM":
+    name: "Emi iRoma"
+    slug: "emi-iroma"
+  "1CO":
+    name: "1 Emi iKorinti"
+    slug: "1-emi-ikorinti"
+  "2CO":
+    name: "2 Emi iKorinti"
+    slug: "2-emi-ikorinti"
+  "GAL":
+    name: "Emi iGalatia"
+    slug: "emi-igalatia"
+  "EPH":
+    name: "Emi Efesu"
+    slug: "emi-efesu"
+  "PHP":
+    name: "Emi iFyilipi"
+    slug: "emi-ifyilipi"
+  "COL":
+    name: "Emi iKolose"
+    slug: "emi-ikolose"
+  "1TH":
+    name: "1 Emi iTesalonika"
+    slug: "1-emi-itesalonika"
+  "2TH":
+    name: "2 Emi iTesalonika"
+    slug: "2-emi-itesalonika"
+  "1TI":
+    name: "1 iTimoti"
+    slug: "1-itimoti"
+  "2TI":
+    name: "2 iTimoti"
+    slug: "2-itimoti"
+  "TIT":
+    name: "iTaitusu"
+    slug: "itaitusu"
+  "PHM":
+    name: "iFyilimɔn"
+    slug: "ifyilimn"
+  "HEB":
+    name: "Emi iHibru"
+    slug: "emi-ihibru"
+  "JAS":
+    name: "iJɛnsi"
+    slug: "ijnsi"
+  "1PE":
+    name: "1 iPyita"
+    slug: "1-ipyita"
+  "2PE":
+    name: "2 iPyita"
+    slug: "2-ipyita"
+  "1JN":
+    name: "1 iJɔn"
+    slug: "1-ijn"
+  "2JN":
+    name: "2 iJɔn"
+    slug: "2-ijn"
+  "3JN":
+    name: "3 iJɔn"
+    slug: "3-ijn"
+  "JUD":
+    name: "iJudu"
+    slug: "ijudu"
+  "REV":
+    name: "Iba"
+    slug: "iba"

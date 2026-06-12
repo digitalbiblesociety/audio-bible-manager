@@ -1,0 +1,83 @@
+language: "niy"
+books:
+  "MAT":
+    name: "Màtayò"
+    slug: "matayo"
+  "MRK":
+    name: "Mǎrkɔ̀"
+    slug: "mark"
+  "LUK":
+    name: "Lukà"
+    slug: "luka"
+  "JHN":
+    name: "Yùwanɨ̀"
+    slug: "yuwani"
+  "ACT":
+    name: "Uvitatálɛ"
+    slug: "uvitatal"
+  "ROM":
+    name: "Pbàrɔmà"
+    slug: "pbarma"
+  "1CO":
+    name: "1 Pbàkòritò"
+    slug: "1-pbakorito"
+  "2CO":
+    name: "2 Pbàkòritò"
+    slug: "2-pbakorito"
+  "GAL":
+    name: "Gàlàtiyà"
+    slug: "galatiya"
+  "EPH":
+    name: "Ɛ̀fɛsɔ̀"
+    slug: "fs"
+  "PHP":
+    name: "Fìlipì"
+    slug: "filipi"
+  "COL":
+    name: "Kɔ̀lɔ̀sayì"
+    slug: "klsayi"
+  "1TH":
+    name: "1 Tɛ̀sàlɔ̀nɨkà"
+    slug: "1-tsalnika"
+  "2TH":
+    name: "2 Tɛ̀sàlɔ̀nɨkà"
+    slug: "2-tsalnika"
+  "1TI":
+    name: "1 Tìmɔ̀tɛwʉ̀"
+    slug: "1-timtwu"
+  "2TI":
+    name: "2 Tìmɔ̀tɛwʉ̀"
+    slug: "2-timtwu"
+  "TIT":
+    name: "Titò"
+    slug: "tito"
+  "PHM":
+    name: "Fìlìmonì"
+    slug: "filimoni"
+  "HEB":
+    name: "Pbàɛ̀brànɨyà"
+    slug: "pbabraniya"
+  "JAS":
+    name: "Yàkɔbhɔ̀"
+    slug: "yakbh"
+  "1PE":
+    name: "1 Pɛ́tɛrʉ̀"
+    slug: "1-ptru"
+  "2PE":
+    name: "2 Pɛ́tɛrʉ̀"
+    slug: "2-ptru"
+  "1JN":
+    name: "1 Yùwanɨ̀"
+    slug: "1-yuwani"
+  "2JN":
+    name: "2 Yùwanɨ̀"
+    slug: "2-yuwani"
+  "3JN":
+    name: "3 Yùwanɨ̀"
+    slug: "3-yuwani"
+  "JUD":
+    name: "Yudhà"
+    slug: "yudha"
+  "REV":
+    name: "Upfòta tɔ́ bhǔkù"
+    slug: "upfota-t-bhuku"

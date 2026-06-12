@@ -1,0 +1,83 @@
+language: "heh"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Maliko"
+    slug: "maliko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+  "ACT":
+    name: "Ifipigo"
+    slug: "ifipigo"
+  "ROM":
+    name: "Avalumi"
+    slug: "avalumi"
+  "1CO":
+    name: "1 Avakolindo"
+    slug: "1-avakolindo"
+  "2CO":
+    name: "2 Avakolindo"
+    slug: "2-avakolindo"
+  "GAL":
+    name: "Avagalatiya"
+    slug: "avagalatiya"
+  "EPH":
+    name: "Avaefeso"
+    slug: "avaefeso"
+  "PHP":
+    name: "Avafilipi"
+    slug: "avafilipi"
+  "COL":
+    name: "Avakolosayi"
+    slug: "avakolosayi"
+  "1TH":
+    name: "1 Avatesaloniki"
+    slug: "1-avatesaloniki"
+  "2TH":
+    name: "2 Avatesaloniki"
+    slug: "2-avatesaloniki"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Avaebulaniya"
+    slug: "avaebulaniya"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petulo"
+    slug: "1-petulo"
+  "2PE":
+    name: "2 Petulo"
+    slug: "2-petulo"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Uwugubulilwe wa Yohane"
+    slug: "uwugubulilwe-wa-yohane"

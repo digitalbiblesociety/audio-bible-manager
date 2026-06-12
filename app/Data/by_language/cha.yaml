@@ -1,0 +1,20 @@
+language: "cha"
+books:
+  "PSA":
+    name: "Y Salmo Sija"
+    slug: "y-salmo-sija"
+  "MAT":
+    name: "San Mateo"
+    slug: "san-mateo"
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "LUK":
+    name: "San Lucas"
+    slug: "san-lucas"
+  "JHN":
+    name: "San Juan"
+    slug: "san-juan"
+  "ACT":
+    name: "Y Checho Y Apostoles Sija"
+    slug: "y-checho-y-apostoles-sija"

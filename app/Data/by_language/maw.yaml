@@ -1,0 +1,83 @@
+language: "maw"
+books:
+  "MAT":
+    name: "Matiyu"
+    slug: "matiyu"
+  "MRK":
+    name: "Maaki"
+    slug: "maaki"
+  "LUK":
+    name: "Luuki"
+    slug: "luuki"
+  "JHN":
+    name: "Gyɔni"
+    slug: "gyni"
+  "ACT":
+    name: "Tuumudima Tuma"
+    slug: "tuumudima-tuma"
+  "ROM":
+    name: "Room Dima"
+    slug: "room-dima"
+  "1CO":
+    name: "Kɔrinti Dima"
+    slug: "krinti-dima"
+  "2CO":
+    name: "Kɔrinti Dima"
+    slug: "krinti-dima"
+  "GAL":
+    name: "Galɛseaa Dima"
+    slug: "galseaa-dima"
+  "EPH":
+    name: "Ɛfɛsusi Dima"
+    slug: "fsusi-dima"
+  "PHP":
+    name: "Filipaai Dima"
+    slug: "filipaai-dima"
+  "COL":
+    name: "Kɔloosidima"
+    slug: "kloosidima"
+  "1TH":
+    name: "Tɛsalɔnika Dima"
+    slug: "tsalnika-dima"
+  "2TH":
+    name: "Tɛsalɔnika Dima"
+    slug: "tsalnika-dima"
+  "1TI":
+    name: "Timɔti"
+    slug: "timti"
+  "2TI":
+    name: "Timɔti"
+    slug: "timti"
+  "TIT":
+    name: "Taituusi"
+    slug: "taituusi"
+  "PHM":
+    name: "Failiimɔn"
+    slug: "failiimn"
+  "HEB":
+    name: "Hibruu Dima"
+    slug: "hibruu-dima"
+  "JAS":
+    name: "Gyeemsi"
+    slug: "gyeemsi"
+  "1PE":
+    name: "Piita"
+    slug: "piita"
+  "2PE":
+    name: "Piita"
+    slug: "piita"
+  "1JN":
+    name: "Gyɔni"
+    slug: "gyni"
+  "2JN":
+    name: "Gyɔni"
+    slug: "gyni"
+  "3JN":
+    name: "Gyɔni"
+    slug: "gyni"
+  "JUD":
+    name: "Gyuuda"
+    slug: "gyuuda"
+  "REV":
+    name: "Kasigri"
+    slug: "kasigri"

@@ -1,0 +1,109 @@
+language: "syl"
+books:
+  "GEN":
+    name: "পয়দা নামা"
+    slug: "payada-nama"
+  "EXO":
+    name: "হিজরত"
+    slug: "hijarata"
+  "LEV":
+    name: "ꠔꠃꠞꠣꠔ ৩: ꠟꠦꠛꠤꠀꠘ"
+  "NUM":
+    name: "তৌরাত ৪: শুমারি"
+    slug: "taurata-4-sumari"
+  "DEU":
+    name: "দুছরা-বয়ানি"
+    slug: "duchara-bayani"
+  "RUT":
+    name: "Asmani Kitab: Rut"
+    slug: "asmani-kitab-rut"
+  "PSA":
+    name: "জবুর শরিফ"
+    slug: "jabura-saripha"
+  "JON":
+    name: "আল-ইউনুছ"
+    slug: "ala-iunucha"
+  "MAL":
+    name: "আল-মালাখি"
+    slug: "ala-malakhi"
+  "MAT":
+    name: "আল-মথি"
+    slug: "ala-mathi"
+  "MRK":
+    name: "আল-মার্কুছ"
+    slug: "ala-markucha"
+  "LUK":
+    name: "আল-লুক"
+    slug: "ala-luka"
+  "JHN":
+    name: "আল-হান্নান"
+    slug: "ala-hannana"
+  "ACT":
+    name: "সাহাবি নামা"
+    slug: "sahabi-nama"
+  "ROM":
+    name: "আল-রোমান"
+    slug: "ala-romana"
+  "1CO":
+    name: "১-করিন্থিয়া"
+    slug: "1-karinthiya"
+  "2CO":
+    name: "২-করিন্থিয়া"
+    slug: "2-karinthiya"
+  "GAL":
+    name: "আল-গালাতিয়া"
+    slug: "ala-galatiya"
+  "EPH":
+    name: "আল-ইফিছিয়া"
+    slug: "ala-iphichiya"
+  "PHP":
+    name: "আল-ফিলিপিয়া"
+    slug: "ala-philipiya"
+  "COL":
+    name: "আল-কলোছিয়া"
+    slug: "ala-kalochiya"
+  "1TH":
+    name: "১-থিষল:"
+    slug: "1-thisala"
+  "2TH":
+    name: "২-থিষল:"
+    slug: "2-thisala"
+  "1TI":
+    name: "১-তিমথি"
+    slug: "1-timathi"
+  "2TI":
+    name: "২-তিমথি"
+    slug: "2-timathi"
+  "TIT":
+    name: "আল-তীতাছ"
+    slug: "ala-titacha"
+  "PHM":
+    name: "আল-ফিলিমন"
+    slug: "ala-philimana"
+  "HEB":
+    name: "আল-ইবরানি"
+    slug: "ala-ibarani"
+  "JAS":
+    name: "আল-ইয়াকুব"
+    slug: "ala-iyakuba"
+  "1PE":
+    name: "১-পিতর"
+    slug: "1-pitara"
+  "2PE":
+    name: "২-পিতর"
+    slug: "2-pitara"
+  "1JN":
+    name: "১-হান্নান"
+    slug: "1-hannana"
+  "2JN":
+    name: "২-হান্নান"
+    slug: "2-hannana"
+  "3JN":
+    name: "৩-হান্নান"
+    slug: "3-hannana"
+  "JUD":
+    name: "আল-এহুদা"
+    slug: "ala-ehuda"
+  "REV":
+    name: "জাইরা কালাম"
+    slug: "jaira-kalama"

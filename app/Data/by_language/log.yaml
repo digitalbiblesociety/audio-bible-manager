@@ -1,0 +1,83 @@
+language: "log"
+books:
+  "MAT":
+    name: "Màtáyò"
+    slug: "matayo"
+  "MRK":
+    name: "Márokò"
+    slug: "maroko"
+  "LUK":
+    name: "Lúkà"
+    slug: "luka"
+  "JHN":
+    name: "Yòwánɨ̀"
+    slug: "yowani"
+  "ACT":
+    name: "TÀ ꞌÒLE DHƗ Ɨ"
+    slug: "ta-ole-dhi-i"
+  "ROM":
+    name: "Rómàbhá Ɨ"
+    slug: "romabha-i"
+  "1CO":
+    name: "1 Kòrítòbhá Ɨ"
+    slug: "1-koritobha-i"
+  "2CO":
+    name: "2 Kòrítòbhá Ɨ"
+    slug: "2-koritobha-i"
+  "GAL":
+    name: "Gàlàtɨ́yàbhá Ɨ"
+    slug: "galatiyabha-i"
+  "EPH":
+    name: "Èfésòbhá Ɨ"
+    slug: "efesobha-i"
+  "PHP":
+    name: "Fìlìpóyìbhá Ɨ"
+    slug: "filipoyibha-i"
+  "COL":
+    name: "Kòlòsáyɨ̀bhá Ɨ"
+    slug: "kolosayibha-i"
+  "1TH":
+    name: "1 Tèsàlòníkèbhá Ɨ"
+    slug: "1-tesalonikebha-i"
+  "2TH":
+    name: "2 Tèsàlòníkèbhá Ɨ"
+    slug: "2-tesalonikebha-i"
+  "1TI":
+    name: "1 Tìmòtéyò"
+    slug: "1-timoteyo"
+  "2TI":
+    name: "2 Tìmòtéyò"
+    slug: "2-timoteyo"
+  "TIT":
+    name: "Títò"
+    slug: "tito"
+  "PHM":
+    name: "Fìlèmónà"
+    slug: "filemona"
+  "HEB":
+    name: "Èbérè Ɨ"
+    slug: "ebere-i"
+  "JAS":
+    name: "Yàkóbhò"
+    slug: "yakobho"
+  "1PE":
+    name: "1 Pétèró"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pétèró"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yòwánɨ̀"
+    slug: "1-yowani"
+  "2JN":
+    name: "2 Yòwánɨ̀"
+    slug: "2-yowani"
+  "3JN":
+    name: "3 Yòwánɨ̀"
+    slug: "3-yowani"
+  "JUD":
+    name: "Yúdà"
+    slug: "yuda"
+  "REV":
+    name: "Tà Tadhálé Dhɨ Ɨ"
+    slug: "ta-tadhale-dhi-i"

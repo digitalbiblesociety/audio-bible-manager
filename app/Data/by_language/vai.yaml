@@ -1,0 +1,110 @@
+language: "vai"
+books:
+  "MAT":
+    name: "ꕮꕊꔱꖳ"
+    slug: "maanfiyu"
+    name_toc: "An Surat ni Pablo kan Tito"
+  "MRK":
+    name: "ꕮꕊꕃ"
+    slug: "maanki"
+    name_toc: "An Surat ni Pablo kan Filemon"
+  "LUK":
+    name: "ꖨꕃ"
+    slug: "luki"
+    name_toc: "An Surat ngadto han Mga Hebreo"
+  "JHN":
+    name: "ꗘꘋ"
+    slug: "jong"
+    name_toc: "An Surat ni Santiago"
+  "ACT":
+    name: "ꔎꖫꘂ ꖸꕊ ꕮ ꖏꔀ ꖸ"
+    slug: "teenduye-nuan-ma-kooee-nu"
+    name_toc: "An Syahan nga Surat ni Pedro"
+  "ROM":
+    name: "ꖃꕱꘋ ꕺꖃꔀ"
+    slug: "loooong-kpoolooee"
+    name_toc: "An Ikaduha nga Surat ni Pedro"
+  "1CO":
+    name: "ꗛꔷꘋꔳ ꕺꖃꔀ ꔖꔜꕯꕊ"
+    slug: "kolingti-kpoolooee-seenjeenaan"
+    name_toc: "An Syahan nga Surat ni Juan"
+  "2CO":
+    name: "ꗛꔷꘋꔳ ꕺꖃꔀ ꗱꕞꕯꕊ"
+    slug: "kolingti-kpoolooee-felanaan"
+    name_toc: "An Ikaduha nga Surat ni Juan"
+  "GAL":
+    name: "ꕭꔒꔳꕩ ꕺꖃꔀ"
+    slug: "galeetiya-kpoolooee"
+    name_toc: "An Ikatulo nga Surat ni Juan"
+  "EPH":
+    name: "ꗡꕘꕢ ꕺꖃꔀ"
+    slug: "efasa-kpoolooee"
+    name_toc: "An surat ni Judas"
+  "PHP":
+    name: "ꔱꔷꕐꔤ ꕺꖃꔀ"
+    slug: "filipai-kpoolooee"
+    name_toc: "An Ginpadayag ngadto kan Juan"
+  "COL":
+    name: "ꗛꗏꕢꔤ ꕺꖃꔀ"
+    slug: "kolosai-kpoolooee"
+    name_toc: "Senesi"
+  "1TH":
+    name: "ꗳꕢꖃꕇꕪ ꕺꖃꔀ ꔖꔜꕯꕊ"
+    slug: "tesaloonika-kpoolooee-seenjeenaan"
+    name_toc: "Ekesote"
+  "2TH":
+    name: "ꗳꕢꖃꕇꕪ ꕺꖃꔀ ꗱꕞꕯꕊ"
+    slug: "tesaloonika-kpoolooee-felanaan"
+    name_toc: "Levitiko"
+  "1TI":
+    name: "ꔳꗞꔎ ꕺꖃꔀ ꔖꔜꕯꕊ"
+    slug: "timotee-kpoolooee-seenjeenaan"
+    name_toc: "Numelo"
+  "2TI":
+    name: "ꔳꗞꔎ ꕺꖃꔀ ꗱꕞꕯꕊ"
+    slug: "timotee-kpoolooee-felanaan"
+    name_toc: "Tetelonome"
+  "TIT":
+    name: "ꕚꔤꕚꔻ ꕺꖃꔀ"
+    slug: "taitasi-kpoolooee"
+    name_toc: "Sosue"
+  "PHM":
+    name: "ꔱꔒꗞꘋ ꕺꖃꔀ"
+    slug: "fileemong-kpoolooee"
+    name_toc: "Tui Fakamaau"
+  "HEB":
+    name: "ꕑꕇꔻꕞꔤꕞ ꕺꖃꔀ"
+    slug: "bhanisilaila-kpoolooee"
+    name_toc: "Lute"
+  "JAS":
+    name: "ꔛꕆꔻ"
+    slug: "jeemisi"
+    name_toc: "Uluaki Tohi A Samuele"
+  "1PE":
+    name: "ꔪꗳ ꕞ ꕺꖃꔀ ꔖꔜꕯꕊ"
+    slug: "pite-la-kpoolooee-seenjeenaan"
+    name_toc: "Lua Tohi A Samuele"
+  "2PE":
+    name: "ꔪꗳ ꕞ ꕺꖃꔀ ꗱꕞꕯꕊ"
+    slug: "pite-la-kpoolooee-felanaan"
+    name_toc: "Uluaki Hau"
+  "1JN":
+    name: "ꗘꘋ ꕞ ꕺꖃꔀ ꔖꔜꕯꕊ"
+    slug: "jong-la-kpoolooee-seenjeenaan"
+    name_toc: "Lua Hau"
+  "2JN":
+    name: "ꗘꘋ ꕞ ꕺꖃꔀ ꗱꕞꕯꕊ"
+    slug: "jong-la-kpoolooee-felanaan"
+    name_toc: "Uluaki Koloniko"
+  "3JN":
+    name: "ꗘꘋ ꕞ ꕺꖃꔀ ꕢꕔꕯꕊ"
+    slug: "jong-la-kpoolooee-sakpanaan"
+    name_toc: "Lua Koloniko"
+  "JUD":
+    name: "ꖱꖕ"
+    slug: "juu"
+    name_toc: "Esetalasi"
+  "REV":
+    name: "ꕪꘋꕓ ꕞ ꖏ ꖷ ꖸ ꕀꕩ ꗘꘋ ꕞ"
+    slug: "kangmba-la-koo-mu-nu-jiya-jong-la"
+    name_toc: "Neemia"

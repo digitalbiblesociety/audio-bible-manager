@@ -1,0 +1,233 @@
+language: "swe"
+books:
+  "GEN":
+    name: "Första Mosebok"
+    slug: "forsta-mosebok"
+  "EXO":
+    name: "Andra Mosebok"
+    slug: "andra-mosebok"
+  "LEV":
+    name: "Tredje Mosebok"
+    slug: "tredje-mosebok"
+  "NUM":
+    name: "Fjärde Mosebok"
+    slug: "fjarde-mosebok"
+  "DEU":
+    name: "Femte Mosebok"
+    slug: "femte-mosebok"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+  "JDG":
+    name: "Domarboken"
+    slug: "domarboken"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+  "1SA":
+    name: "Första Samuel"
+    slug: "forsta-samuel"
+  "2SA":
+    name: "Andra Samuel"
+    slug: "andra-samuel"
+  "1KI":
+    name: "Första Konunga"
+    slug: "forsta-konunga"
+  "2KI":
+    name: "Andra Konunga"
+    slug: "andra-konunga"
+  "1CH":
+    name: "Första Krönike"
+    slug: "forsta-kronike"
+  "2CH":
+    name: "Andra Krönike"
+    slug: "andra-kronike"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "NEH":
+    name: "Nehemja"
+    slug: "nehemja"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psaltaren"
+    slug: "psaltaren"
+  "PRO":
+    name: "Ordspråksboken"
+    slug: "ordspraksboken"
+  "ECC":
+    name: "Predikaren"
+    slug: "predikaren"
+  "SNG":
+    name: "Höga Visan"
+    slug: "hoga-visan"
+  "ISA":
+    name: "Jesaja"
+    slug: "jesaja"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Klagovisorna"
+    slug: "klagovisorna"
+  "EZK":
+    name: "Hesekiel"
+    slug: "hesekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadja"
+    slug: "obadja"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habackuk"
+    slug: "habackuk"
+  "ZEP":
+    name: "Sefanja"
+    slug: "sefanja"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Sakarja"
+    slug: "sakarja"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tob"
+    slug: "tob"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+  "ESG":
+    name: "Esg"
+    slug: "esg"
+  "WIS":
+    name: "Vish"
+    slug: "vish"
+  "SIR":
+    name: "Sir"
+    slug: "sir"
+  "BAR":
+    name: "Bar"
+    slug: "bar"
+  "SUS":
+    name: "Sus"
+    slug: "sus"
+  "BEL":
+    name: "Bel"
+    slug: "bel"
+  "1MA":
+    name: "1 Mack"
+    slug: "1-mack"
+  "2MA":
+    name: "2 Mack"
+    slug: "2-mack"
+  "MAN":
+    name: "Man"
+    slug: "man"
+  "MAT":
+    name: "Matteus"
+    slug: "matteus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Johannes"
+    slug: "johannes"
+  "ACT":
+    name: "Apostlagärningarna"
+    slug: "apostlagarningarna"
+  "ROM":
+    name: "Romarna"
+    slug: "romarna"
+  "1CO":
+    name: "1 Korintierna"
+    slug: "1-korintierna"
+  "2CO":
+    name: "2 Korintierna"
+    slug: "2-korintierna"
+  "GAL":
+    name: "galaterna"
+    slug: "galaterna"
+  "EPH":
+    name: "Efesierna"
+    slug: "efesierna"
+  "PHP":
+    name: "Filipperna"
+    slug: "filipperna"
+  "COL":
+    name: "Kolosserna"
+    slug: "kolosserna"
+  "1TH":
+    name: "Första Thessaloniker"
+    slug: "forsta-thessaloniker"
+  "2TH":
+    name: "Andra Thessaloniker"
+    slug: "andra-thessaloniker"
+  "1TI":
+    name: "Första Timoteus"
+    slug: "forsta-timoteus"
+  "2TI":
+    name: "Andra Timoteus"
+    slug: "andra-timoteus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Hebréerna"
+    slug: "hebreerna"
+  "JAS":
+    name: "Jakobs"
+    slug: "jakobs"
+  "1PE":
+    name: "Första Petrus"
+    slug: "forsta-petrus"
+  "2PE":
+    name: "Andra Petrus"
+    slug: "andra-petrus"
+  "1JN":
+    name: "Första Johannes"
+    slug: "forsta-johannes"
+  "2JN":
+    name: "Andra Johannes"
+    slug: "andra-johannes"
+  "3JN":
+    name: "Tredje Johannes"
+    slug: "tredje-johannes"
+  "JUD":
+    name: "Judas"
+    slug: "judas"
+  "REV":
+    name: "Uppenbarelse"
+    slug: "uppenbarelse"

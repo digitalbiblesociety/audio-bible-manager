@@ -1,0 +1,86 @@
+language: "ssx"
+books:
+  "GEN":
+    name: "Kini Pieke"
+    slug: "kini-pieke"
+  "MAT":
+    name: "Ma꞉tiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "LUK":
+    name: "Luku"
+    slug: "luku"
+  "JHN":
+    name: "Dioni"
+    slug: "dioni"
+  "ACT":
+    name: "Aposolo"
+    slug: "aposolo"
+  "ROM":
+    name: "Loma꞉"
+    slug: "loma"
+  "1CO":
+    name: "1 Kotindi"
+    slug: "1-kotindi"
+  "2CO":
+    name: "2 Kotindi"
+    slug: "2-kotindi"
+  "GAL":
+    name: "Ka꞉leisia"
+    slug: "kaleisia"
+  "EPH":
+    name: "Epesese"
+    slug: "epesese"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Desalonaika"
+    slug: "1-desalonaika"
+  "2TH":
+    name: "2 Desalonaika"
+    slug: "2-desalonaika"
+  "1TI":
+    name: "1 Timodi"
+    slug: "1-timodi"
+  "2TI":
+    name: "2 Timodi"
+    slug: "2-timodi"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Pailimono"
+    slug: "pailimono"
+  "HEB":
+    name: "Hibulu"
+    slug: "hibulu"
+  "JAS":
+    name: "Dia꞉mesi"
+    slug: "diamesi"
+  "1PE":
+    name: "1 Pida"
+    slug: "1-pida"
+  "2PE":
+    name: "2 Pida"
+    slug: "2-pida"
+  "1JN":
+    name: "1 Dioni"
+    slug: "1-dioni"
+  "2JN":
+    name: "2 Dioni"
+    slug: "2-dioni"
+  "3JN":
+    name: "3 Dioni"
+    slug: "3-dioni"
+  "JUD":
+    name: "Diudi"
+    slug: "diudi"
+  "REV":
+    name: "Peneme Yaeyekeeki"
+    slug: "peneme-yaeyekeeki"

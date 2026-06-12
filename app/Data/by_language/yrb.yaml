@@ -1,0 +1,83 @@
+language: "yrb"
+books:
+  "MAT":
+    name: "Matiunu"
+    slug: "matiunu"
+  "MRK":
+    name: "Makanu"
+    slug: "makanu"
+  "LUK":
+    name: "Rukanu"
+    slug: "rukanu"
+  "JHN":
+    name: "Joninu"
+    slug: "joninu"
+  "ACT":
+    name: "Afosoro"
+    slug: "afosoro"
+  "ROM":
+    name: "Romani"
+    slug: "romani"
+  "1CO":
+    name: "1 Korinita"
+    slug: "1-korinita"
+  "2CO":
+    name: "2 Korinita"
+    slug: "2-korinita"
+  "GAL":
+    name: "Gareisia"
+    slug: "gareisia"
+  "EPH":
+    name: "Efesa"
+    slug: "efesa"
+  "PHP":
+    name: "Firifai"
+    slug: "firifai"
+  "COL":
+    name: "Korose"
+    slug: "korose"
+  "1TH":
+    name: "1 Tesoronaika"
+    slug: "1-tesoronaika"
+  "2TH":
+    name: "2 Tesoronaika"
+    slug: "2-tesoronaika"
+  "1TI":
+    name: "1 Timotibai"
+    slug: "1-timotibai"
+  "2TI":
+    name: "2 Timotibai"
+    slug: "2-timotibai"
+  "TIT":
+    name: "Taitasibai"
+    slug: "taitasibai"
+  "PHM":
+    name: "Fairimonibai"
+    slug: "fairimonibai"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "Jeimisinu"
+    slug: "jeimisinu"
+  "1PE":
+    name: "1 Fitanu"
+    slug: "1-fitanu"
+  "2PE":
+    name: "2 Fitanu"
+    slug: "2-fitanu"
+  "1JN":
+    name: "1 Joninu"
+    slug: "1-joninu"
+  "2JN":
+    name: "2 Joninu"
+    slug: "2-joninu"
+  "3JN":
+    name: "3 Joninu"
+    slug: "3-joninu"
+  "JUD":
+    name: "Judenu"
+    slug: "judenu"
+  "REV":
+    name: "Jonibai We Ma Boroyari Sina"
+    slug: "jonibai-we-ma-boroyari-sina"

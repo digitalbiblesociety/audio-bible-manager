@@ -1,0 +1,110 @@
+language: "thk"
+books:
+  "MAT":
+    name: "Mathayo"
+    slug: "mathayo"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Titu"
+  "MRK":
+    name: "Maariko"
+    slug: "maariko"
+    name_toc: "Washika U Paulu Apostoli Tindi Hen Filemon"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+    name_toc: "Washika U I Tindi Hen Mbaheberu"
+  "JHN":
+    name: "Njoana"
+    slug: "njoana"
+    name_toc: "Washika U Yakobu"
+  "ACT":
+    name: "Ngûgî"
+    slug: "ngugi"
+    name_toc: "Washika U Hiihii U Peteru"
+  "ROM":
+    name: "Arooma"
+    slug: "arooma"
+    name_toc: "Washika U Sha Uhar U Peteru"
+  "1CO":
+    name: "1 Akorintho"
+    slug: "1-akorintho"
+    name_toc: "Washika U Hiihii U Yohane"
+  "2CO":
+    name: "2 Akorintho"
+    slug: "2-akorintho"
+    name_toc: "Washika U Sha Uhar U Yohane"
+  "GAL":
+    name: "Agaratia"
+    slug: "agaratia"
+    name_toc: "Washika U Sha Utar U Yohane"
+  "EPH":
+    name: "Aebeeso"
+    slug: "aebeeso"
+    name_toc: "Washika U Yuda"
+  "PHP":
+    name: "Apiripi"
+    slug: "apiripi"
+    name_toc: "Mpase U Yohane"
+  "COL":
+    name: "Akorosai"
+    slug: "akorosai"
+    name_toc: "O Kejadian"
+  "1TH":
+    name: "1 Athesaronike"
+    slug: "1-athesaronike"
+    name_toc: "O Keluaran"
+  "2TH":
+    name: "2 Athesaronike"
+    slug: "2-athesaronike"
+    name_toc: "O Imamat"
+  "1TI":
+    name: "1 Timotheo"
+    slug: "1-timotheo"
+    name_toc: "O Bilangan"
+  "2TI":
+    name: "2 Timotheo"
+    slug: "2-timotheo"
+    name_toc: "O Ulangan"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "O Yosua"
+  "PHM":
+    name: "Piremoni"
+    slug: "piremoni"
+    name_toc: "O Hakim-hakim"
+  "HEB":
+    name: "Aibirania"
+    slug: "aibirania"
+    name_toc: "O Ngo Rut"
+  "JAS":
+    name: "Njakubu"
+    slug: "njakubu"
+    name_toc: "O Samuel Madodihiraka"
+  "1PE":
+    name: "1 Petûrû"
+    slug: "1-peturu"
+    name_toc: "O Samuel Mahinotoka"
+  "2PE":
+    name: "2 Petûrû"
+    slug: "2-peturu"
+    name_toc: "O Kokoano Madodihiraka"
+  "1JN":
+    name: "1 Njoana"
+    slug: "1-njoana"
+    name_toc: "O Kokoano Mahinotoka"
+  "2JN":
+    name: "2 Njoana"
+    slug: "2-njoana"
+    name_toc: "O Tawarikh Madodihiraka"
+  "3JN":
+    name: "3 Njoana"
+    slug: "3-njoana"
+    name_toc: "O Tawarikh Mahinotoka"
+  "JUD":
+    name: "Njunda"
+    slug: "njunda"
+    name_toc: "O Ezra"
+  "REV":
+    name: "Kûgwûrîrwa"
+    slug: "kugwurirwa"
+    name_toc: "O Nehemia"

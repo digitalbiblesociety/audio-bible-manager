@@ -1,0 +1,5 @@
+language: "mlr"
+books:
+  "LUK":
+    name: "Luka"
+    slug: "luka"

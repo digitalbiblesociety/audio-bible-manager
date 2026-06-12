@@ -1,0 +1,110 @@
+language: "pbc"
+books:
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+    name_toc: "บับ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาเอเซเคน"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาดาเนลัะ"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+    name_toc: "บับ ลอง ดา อี บยาน โฆรห เฌาพรา อี จืร อาโฮวซียา"
+  "JHN":
+    name: "John"
+    slug: "john"
+    name_toc: "บับ ลอง ดูอี บยาน โฆรห เฌาพรา อี จืร อาโยวเอลัะ"
+  "ACT":
+    name: "Yeunossak kon Wotokoyi"
+    slug: "yeunossak-kon-wotokoyi"
+    name_toc: "บับ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาโมวซา"
+  "ROM":
+    name: "Romans"
+    slug: "romans"
+    name_toc: "บับ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาออบาดี"
+  "1CO":
+    name: "1 Corinthians"
+    slug: "1-corinthians"
+    name_toc: "บับ ปี แดม ลอง ดูอี บยาน โฆรห เฌาพรา อี จืร อาโยวนา"
+  "2CO":
+    name: "2 Corinthians"
+    slug: "2-corinthians"
+    name_toc: "บับ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อามีคา"
+  "GAL":
+    name: "Galatians"
+    slug: "galatians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อานาโฮม"
+  "EPH":
+    name: "Ephesians"
+    slug: "ephesians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาฮาบาฆูก"
+  "PHP":
+    name: "Philippians"
+    slug: "philippians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาเจพานี"
+  "COL":
+    name: "Colossians"
+    slug: "colossians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาฮากาย"
+  "1TH":
+    name: "1 Thessalonians"
+    slug: "1-thessalonians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อาซาคารา"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+    name_toc: "แปะ ปี แดม ดา อี บยาน โฆรห เฌาพรา อี จืร อามาลาคี"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+    name_toc: "อามาแท"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+    name_toc: "อามากู"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "อาลูกา"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+    name_toc: "อายอฮาน"
+  "HEB":
+    name: "Hebrews"
+    slug: "hebrews"
+    name_toc: "ดูอี ปี ร็อห"
+  "JAS":
+    name: "James"
+    slug: "james"
+    name_toc: "โรวมา"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "1 โควรีนทู"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "2 โควรีนทู"
+  "1JN":
+    name: "1 John"
+    slug: "1-john"
+    name_toc: "ฆาลาที"
+  "2JN":
+    name: "2 John"
+    slug: "2-john"
+    name_toc: "แอแพ"
+  "3JN":
+    name: "3 John"
+    slug: "3-john"
+    name_toc: "พีลีพี"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+    name_toc: "กอลอแซ"
+  "REV":
+    name: "Revelation"
+    slug: "revelation"
+    name_toc: "1 เทซาโลน"

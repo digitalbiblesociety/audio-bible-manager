@@ -1,0 +1,266 @@
+language: "mcn"
+books:
+  "GEN":
+    name: "Cawa'ta Tunita"
+    slug: "cawa-ta-tunita"
+    name_toc: "Cawa'ta Tunita"
+  "EXO":
+    name: "Kal-goyta"
+    slug: "kal-goyta"
+    name_toc: "Kal-goyta"
+  "LEV":
+    name: "Sa Levitna"
+    slug: "sa-levitna"
+    name_toc: "Sa Levitna"
+  "NUM":
+    name: "Ŋaɓta"
+    slug: "ata"
+    name_toc: "Ŋaɓta"
+  "DEU":
+    name: "Gatta-sem-ma'ta"
+    slug: "gatta-sem-ma-ta"
+    name_toc: "Gatta-sem-ma'ta"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+    name_toc: "Yosuwa"
+  "JDG":
+    name: "Sa Ka Kitana"
+    slug: "sa-ka-kitana"
+    name_toc: "Sa Ka Kitana"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Rut"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Ɗerwelda Jewta VI Samuel"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Ɗerwelda Ma'ta VI Samuel"
+  "1KI":
+    name: "1 Muliyana"
+    slug: "1-muliyana"
+    name_toc: "Ɗerwelda Jewta VI Muliyana"
+  "2KI":
+    name: "2 Muliyana"
+    slug: "2-muliyana"
+    name_toc: "Ɗerwelda Ma'ta VI Muliyana"
+  "1CH":
+    name: "1 Labar-ma-liyna"
+    slug: "1-labar-ma-liyna"
+    name_toc: "Ɗerwelda Jewta VI Labar-ma-liyna"
+  "2CH":
+    name: "2 Labar-ma-liyna"
+    slug: "2-labar-ma-liyna"
+    name_toc: "Ɗerwelda Ma'ta VI Labar-ma-liyna"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Esdras"
+  "NEH":
+    name: "Nehemiya"
+    slug: "nehemiya"
+    name_toc: "Nehemiya"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "Ester"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Job"
+  "PSA":
+    name: "Nulla"
+    slug: "nulla"
+    name_toc: "Nulla"
+  "PRO":
+    name: "Law Ma Nir-niramna"
+    slug: "law-ma-nir-niramna"
+    name_toc: "Law Ma Nir-niramna"
+  "ECC":
+    name: "Sa Ma Kusta"
+    slug: "sa-ma-kusta"
+    name_toc: "Sa Ma Kusta"
+  "SNG":
+    name: "Nul Ma Suw Nulla"
+    slug: "nul-ma-suw-nulla"
+    name_toc: "Nul Ma Suw Nulla"
+  "ISA":
+    name: "Esaya"
+    slug: "esaya"
+    name_toc: "Esaya"
+  "JER":
+    name: "Yeremiyas"
+    slug: "yeremiyas"
+    name_toc: "Yeremiyas"
+  "LAM":
+    name: "Tiyna VI Yeremiyas"
+    slug: "tiyna-vi-yeremiyas"
+    name_toc: "Tiyna VI Yeremiyas"
+  "EZK":
+    name: "Ezekiyel"
+    slug: "ezekiyel"
+    name_toc: "Ezekiyel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Daniel"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+    name_toc: "Hoseya"
+  "JOL":
+    name: "Jowel"
+    slug: "jowel"
+    name_toc: "Jowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "Amos"
+  "OBA":
+    name: "Abdiyas"
+    slug: "abdiyas"
+    name_toc: "Abdiyas"
+  "JON":
+    name: "Yonas"
+    slug: "yonas"
+    name_toc: "Yonas"
+  "MIC":
+    name: "Mikka"
+    slug: "mikka"
+    name_toc: "Mikka"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "Nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Habakuk"
+  "ZEP":
+    name: "Sofoniya"
+    slug: "sofoniya"
+    name_toc: "Sofoniya"
+  "HAG":
+    name: "Haggeya"
+    slug: "haggeya"
+    name_toc: "Haggeya"
+  "ZEC":
+    name: "Zakariya"
+    slug: "zakariya"
+    name_toc: "Zakariya"
+  "MAL":
+    name: "Malakiya"
+    slug: "malakiya"
+    name_toc: "Malakiya"
+  "MAT":
+    name: "Matewus"
+    slug: "matewus"
+    name_toc: "Labara Ma Firina VI Matewus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "Labara Ma Firina VI Markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "Labara Ma Firina VI Lukas"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Labara Ma Firina VI Yohana"
+  "ACT":
+    name: "Lopna"
+    slug: "lopna"
+    name_toc: "Lopna VI Sa Apostolayna"
+  "ROM":
+    name: "Romena"
+    slug: "romena"
+    name_toc: "Ɗerwelda VI Paulus Tam Sa Romena"
+  "1CO":
+    name: "1 Korintena"
+    slug: "1-korintena"
+    name_toc: "Ɗerwelda Jewta VI Paulus Tam Sa Korintena"
+  "2CO":
+    name: "2 Korintena"
+    slug: "2-korintena"
+    name_toc: "Ɗerwelda Ma'ta VI Paulus Tam Sa Korintena"
+  "GAL":
+    name: "Galatena"
+    slug: "galatena"
+    name_toc: "Ɗerwelda VI Paulus Tam Sa Galatena"
+  "EPH":
+    name: "Efesena"
+    slug: "efesena"
+    name_toc: "Ɗerwelda VI Paulus Tam Sa Efesena"
+  "PHP":
+    name: "Filipina"
+    slug: "filipina"
+    name_toc: "Ɗerwelda VI Paulus Tam Sa Filipina"
+  "COL":
+    name: "Kolosena"
+    slug: "kolosena"
+    name_toc: "Ɗerwelda VI Paulus Tam Sa Kolosena"
+  "1TH":
+    name: "1 Tesalonikŋa"
+    slug: "1-tesalonika"
+    name_toc: "Ɗerwelda Jewta VI Paulus Tam Sa Tesalonikŋa"
+  "2TH":
+    name: "2 Tesalonikŋa"
+    slug: "2-tesalonika"
+    name_toc: "Ɗerwelda Ma'ta VI Paulus Tam Sa Tesalonikŋa"
+  "1TI":
+    name: "1 Timotewus"
+    slug: "1-timotewus"
+    name_toc: "Ɗerwelda Jewta VI Paulus Tam Timotewus"
+  "2TI":
+    name: "2 Timotewus"
+    slug: "2-timotewus"
+    name_toc: "Ɗerwelda Ma'ta VI Paulus Tam Timotewus"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Ɗerwelda VI Paulus Tam Titus"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Ɗerwelda VI Paulus Tam Filemon"
+  "HEB":
+    name: "Hebrena"
+    slug: "hebrena"
+    name_toc: "Ɗerwelda Tam Sa Hebrena"
+  "JAS":
+    name: "Yakub"
+    slug: "yakub"
+    name_toc: "Ɗerwelda VI Yakub"
+  "1PE":
+    name: "1 Peter"
+    slug: "1-peter"
+    name_toc: "Ɗerwelda Jewta VI Peter"
+  "2PE":
+    name: "2 Peter"
+    slug: "2-peter"
+    name_toc: "Ɗerwelda Ma'ta VI Peter"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Ɗerwelda Jewta VI Yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Ɗerwelda Ma'ta VI Yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Ɗerwelda Hidita VI Yohana"
+  "JUD":
+    name: "Yudas"
+    slug: "yudas"
+    name_toc: "Ɗerwelda VI Yudas"
+  "REV":
+    name: "Wid-ŋayayta"
+    slug: "wid-ayayta"
+    name_toc: "Wid-ŋayayta VI Yohana"

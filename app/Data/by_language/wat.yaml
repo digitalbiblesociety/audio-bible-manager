@@ -1,0 +1,17 @@
+language: "wat"
+books:
+  "GEN":
+    name: "Kabikona"
+    slug: "kabikona"
+  "EXO":
+    name: "Yauna"
+    slug: "yauna"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MRK":
+    name: "Maka"
+    slug: "maka"
+  "ACT":
+    name: "Bunanige"
+    slug: "bunanige"

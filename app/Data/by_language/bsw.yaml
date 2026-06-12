@@ -1,0 +1,83 @@
+language: "bsw"
+books:
+  "MAT":
+    name: "ማቶሳ"
+    slug: "matosa"
+  "MRK":
+    name: "ማርቆሳ"
+    slug: "mareqosa"
+  "LUK":
+    name: "ሉቃሳ"
+    slug: "luqasa"
+  "JHN":
+    name: "ያንሳ"
+    slug: "yanesa"
+  "ACT":
+    name: "ኦፋራሜራንኮኒዕ ፈሎ"
+    slug: "ofarameranekoni-falo"
+  "ROM":
+    name: "Roome"
+    slug: "roome"
+  "1CO":
+    name: "1 ቆሮንቶሳ"
+    slug: "1-qoronetosa"
+  "2CO":
+    name: "2 ቆሮንቶሳ"
+    slug: "2-qoronetosa"
+  "GAL":
+    name: "ጋላትያ"
+    slug: "galateya"
+  "EPH":
+    name: "ኤፈሶን"
+    slug: "efason"
+  "PHP":
+    name: "ፍልጲስዮሳ"
+    slug: "felepiseyosa"
+  "COL":
+    name: "ቆላስያሳ"
+    slug: "qolaseyasa"
+  "1TH":
+    name: "1 ተሰሎንቄ"
+    slug: "1-tasaloneqe"
+  "2TH":
+    name: "2 ተሰሎንቄ"
+    slug: "2-tasaloneqe"
+  "1TI":
+    name: "1 ጢሞቶሳ"
+    slug: "1-timotosa"
+  "2TI":
+    name: "2 ጢሞቶሳ"
+    slug: "2-timotosa"
+  "TIT":
+    name: "Tiito"
+    slug: "tiito"
+  "PHM":
+    name: "ፍልሞና"
+    slug: "felemona"
+  "HEB":
+    name: "እብራዊ"
+    slug: "eberawi"
+  "JAS":
+    name: "ያይቆባ"
+    slug: "yayeqoba"
+  "1PE":
+    name: "1 ጴጢሮሳ"
+    slug: "1-petirosa"
+  "2PE":
+    name: "2 ጴጢሮሳ"
+    slug: "2-petirosa"
+  "1JN":
+    name: "1 ያንሳ"
+    slug: "1-yanesa"
+  "2JN":
+    name: "2 ያንሳ"
+    slug: "2-yanesa"
+  "3JN":
+    name: "3 ያንሳ"
+    slug: "3-yanesa"
+  "JUD":
+    name: "ይሁዳ"
+    slug: "yehuda"
+  "REV":
+    name: "ራጋ ካያንሳ"
+    slug: "raga-kayanesa"

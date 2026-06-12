@@ -1,0 +1,83 @@
+language: "gnn"
+books:
+  "MAT":
+    name: "Mathuyuwuŋu Dhäruk"
+    slug: "mathuyuwunu-dharuk"
+  "MRK":
+    name: "Mäkkuŋu Dhäruk"
+    slug: "makkunu-dharuk"
+  "LUK":
+    name: "Lokkuŋu Dhäruk"
+    slug: "lokkunu-dharuk"
+  "JHN":
+    name: "Djonguŋu Dhäruk"
+    slug: "djongunu-dharuk"
+  "ACT":
+    name: "Godkuŋu Djämawuy"
+    slug: "godkunu-djamawuy"
+  "ROM":
+    name: "Rawumbuyŋuwu"
+    slug: "rawumbuynuwu"
+  "1CO":
+    name: "1 Gorinbuyŋuwu"
+    slug: "1-gorinbuynuwu"
+  "2CO":
+    name: "2 Gorlinlili"
+    slug: "2-gorlinlili"
+  "GAL":
+    name: "Galatjiyapuyŋuwu"
+    slug: "galatjiyapuynuwu"
+  "EPH":
+    name: "Yipatjatjlili"
+    slug: "yipatjatjlili"
+  "PHP":
+    name: "Bilipaypuyŋuwu"
+    slug: "bilipaypuynuwu"
+  "COL":
+    name: "Gulutjilili"
+    slug: "gulutjilili"
+  "1TH":
+    name: "1 Dhatjalunikapuyŋuwu"
+    slug: "1-dhatjalunikapuynuwu"
+  "2TH":
+    name: "2 Dhatjalunikapuyŋuwu"
+    slug: "2-dhatjalunikapuynuwu"
+  "1TI":
+    name: "1 Dimithiwu"
+    slug: "1-dimithiwu"
+  "2TI":
+    name: "2 Dimithiwu"
+    slug: "2-dimithiwu"
+  "TIT":
+    name: "Dätitjku"
+    slug: "datitjku"
+  "PHM":
+    name: "Bilamungu"
+    slug: "bilamungu"
+  "HEB":
+    name: "Yipuruwu"
+    slug: "yipuruwu"
+  "JAS":
+    name: "Djayimguŋu"
+    slug: "djayimgunu"
+  "1PE":
+    name: "1 Betawuŋu"
+    slug: "1-betawunu"
+  "2PE":
+    name: "2 Betawuŋu"
+    slug: "2-betawunu"
+  "1JN":
+    name: "1 Djon"
+    slug: "1-djon"
+  "2JN":
+    name: "2 Djon"
+    slug: "2-djon"
+  "3JN":
+    name: "3 Djon"
+    slug: "3-djon"
+  "JUD":
+    name: "Djotkuŋu"
+    slug: "djotkunu"
+  "REV":
+    name: "Godkuŋu Warraŋulkunharana"
+    slug: "godkunu-warranulkunharana"

@@ -1,0 +1,266 @@
+language: "pww"
+books:
+  "GEN":
+    name: "ทอคางไท้ะ"
+    slug: "thkhangthaia"
+    name_toc: "Salmos"
+  "EXO":
+    name: "ทไจทางไฆวะ"
+    slug: "thchaithangkhaiwa"
+    name_toc: "Proverbios"
+  "LEV":
+    name: "เลวี​อ​ไฌ่"
+    slug: "lewichai"
+    name_toc: "Eclesiastés"
+  "NUM":
+    name: "เกล้​ท​ซ้ะวี่ง"
+    slug: "kelthsawing"
+    name_toc: "El Cantar de los Cantares"
+  "DEU":
+    name: "โล้​ล้างที๊ง​ทอางแม้เลา"
+    slug: "lolangthingthangmaelao"
+    name_toc: "Isaías"
+  "JOS":
+    name: "โยชูวา"
+    slug: "yochuwa"
+    name_toc: "Jeremías"
+  "JDG":
+    name: "โพล้งต้ะเซ๊งเท่อ"
+    slug: "pholngtasengthe"
+    name_toc: "Lamentaciones"
+  "RUT":
+    name: "น่าง​รุ้"
+    slug: "nangru"
+    name_toc: "Ezequiel"
+  "1SA":
+    name: "1ซามูเอง"
+    slug: "1samueng"
+    name_toc: "Daniel"
+  "2SA":
+    name: "2​ซามูเอง"
+    slug: "2samueng"
+    name_toc: "Oseas"
+  "1KI":
+    name: "1​กจุ้แฆว้"
+    slug: "1kchukhaew"
+    name_toc: "Joel"
+  "2KI":
+    name: "2​กจุ้แฆว้"
+    slug: "2kchukhaew"
+    name_toc: "Amós"
+  "1CH":
+    name: "1​ทกวิ้ไน"
+    slug: "1thkwinai"
+    name_toc: "Abdías"
+  "2CH":
+    name: "2ทกวิ้ไน"
+    slug: "2thkwinai"
+    name_toc: "Jonás"
+  "EZR":
+    name: "เอซรา"
+    slug: "esra"
+    name_toc: "Miqueas"
+  "NEH":
+    name: "เนฮะมี"
+    slug: "nehami"
+    name_toc: "Nahúm"
+  "EST":
+    name: "เอซเทอ"
+    slug: "esthe"
+    name_toc: "Habacuc"
+  "JOB":
+    name: "โยบา"
+    slug: "yoba"
+    name_toc: "Sofonías"
+  "PSA":
+    name: "ทอางปฆ้า"
+    slug: "thangpkha"
+    name_toc: "Hageo"
+  "PRO":
+    name: "ทอางด้อง"
+    slug: "thangdng"
+    name_toc: "Zacarías"
+  "ECC":
+    name: "ทโกงซีมองแบ"
+    slug: "thkongsimngbae"
+    name_toc: "Malaquías"
+  "SNG":
+    name: "ซาโลโมอแท๊"
+    slug: "salomothae"
+    name_toc: "Evangelio según San Mateo"
+  "ISA":
+    name: "อีซยา"
+    slug: "isya"
+    name_toc: "Evangelio según San Marcos"
+  "JER":
+    name: "เยเรมี"
+    slug: "yeremi"
+    name_toc: "Evangelio según San Lucas"
+  "LAM":
+    name: "ท​ฌางล้างย้าล้าง"
+    slug: "thchanglangyalang"
+    name_toc: "Evangelio según San Juan"
+  "EZK":
+    name: "เอเซเคียง"
+    slug: "esekheiyng"
+    name_toc: "Hechos de los Apóstoles"
+  "DAN":
+    name: "ดานีเอง"
+    slug: "danieng"
+    name_toc: "Carta de san Pablo a los Romanos"
+  "HOS":
+    name: "โฮเชยา"
+    slug: "hocheya"
+    name_toc: "Primera carta de san Pablo a los Corintios"
+  "JOL":
+    name: "โยเอง"
+    slug: "yoeng"
+    name_toc: "Segunda carta de san Pablo a los Corintios"
+  "AMO":
+    name: "อาโม"
+    slug: "amo"
+    name_toc: "Carta de san Pablo a los Gálatas"
+  "OBA":
+    name: "โอบาดี"
+    slug: "obadi"
+    name_toc: "Carta de san Pablo a los Efesios"
+  "JON":
+    name: "โยนา"
+    slug: "yona"
+    name_toc: "Carta de san Pablo a los Filipenses"
+  "MIC":
+    name: "มีคา"
+    slug: "mikha"
+    name_toc: "Carta de san Pablo a los Colosenses"
+  "NAM":
+    name: "นาฮูง"
+    slug: "nahung"
+    name_toc: "Primera carta de san Pablo a los Tesalonicenses"
+  "HAB":
+    name: "ฮาบากุ้"
+    slug: "habaku"
+    name_toc: "Segunda carta de san Pablo a los Tesalonicenses"
+  "ZEP":
+    name: "เซฟางยา"
+    slug: "sefangya"
+    name_toc: "Primera carta de san Pablo a Timoteo"
+  "HAG":
+    name: "ฮะไก"
+    slug: "hakai"
+    name_toc: "Segunda carta de san Pablo a Timoteo"
+  "ZEC":
+    name: "เซคารียา"
+    slug: "sekhariya"
+    name_toc: "Carta de san Pablo a Tito"
+  "MAL":
+    name: "มาลาคี"
+    slug: "malakhi"
+    name_toc: "Carta de san Pablo a Filemón"
+  "MAT":
+    name: "ม้ะทู"
+    slug: "mathu"
+    name_toc: "Carta a los Hebreos"
+  "MRK":
+    name: "มาร้ะกู"
+    slug: "maraku"
+    name_toc: "Carta de Santiago"
+  "LUK":
+    name: "ลูกา"
+    slug: "luka"
+    name_toc: "Primera carta de san Pedro"
+  "JHN":
+    name: "โยฮาง"
+    slug: "yohang"
+    name_toc: "Segunda carta de san Pedro"
+  "ACT":
+    name: "ท​แม้"
+    slug: "thmae"
+    name_toc: "Primera carta de san Juan"
+  "ROM":
+    name: "โรมา"
+    slug: "roma"
+    name_toc: "Segunda carta de san Juan"
+  "1CO":
+    name: "1​โคเรง"
+    slug: "1khoreng"
+    name_toc: "Tercera carta de san Juan"
+  "2CO":
+    name: "2​โคเรง"
+    slug: "2khoreng"
+    name_toc: "Carta de san Judas"
+  "GAL":
+    name: "กาลาเต"
+    slug: "kalate"
+    name_toc: "Apocalipsis"
+  "EPH":
+    name: "เอเฟโซ"
+    slug: "efeso"
+    name_toc: "Segundo libro de los Macabeos"
+  "PHP":
+    name: "ฟีลิ้ปี"
+    slug: "filipi"
+    name_toc: "Génesis"
+  "COL":
+    name: "โคโลซี"
+    slug: "kholosi"
+    name_toc: "Éxodo"
+  "1TH":
+    name: "1​เทซาโลนีเก"
+    slug: "1thesalonike"
+    name_toc: "Levítico"
+  "2TH":
+    name: "2​เทซาโลนีเก"
+    slug: "2thesalonike"
+    name_toc: "Números"
+  "1TI":
+    name: "1​ทีโมเท"
+    slug: "1thimothe"
+    name_toc: "Deuteronomio"
+  "2TI":
+    name: "2​ทีโมเท"
+    slug: "2thimothe"
+    name_toc: "Josué"
+  "TIT":
+    name: "ทีต๊ะ"
+    slug: "thita"
+    name_toc: "Jueces"
+  "PHM":
+    name: "ฟีเลโมง"
+    slug: "filemong"
+    name_toc: "Rut"
+  "HEB":
+    name: "ฮีบรู"
+    slug: "hibru"
+    name_toc: "1 Samuel"
+  "JAS":
+    name: "ยาเก้า"
+    slug: "yakao"
+    name_toc: "2 Samuel"
+  "1PE":
+    name: "1เปโต"
+    slug: "1peto"
+    name_toc: "1 Reyes"
+  "2PE":
+    name: "2​เปโต"
+    slug: "2peto"
+    name_toc: "2 Reyes"
+  "1JN":
+    name: "1​โยฮาง"
+    slug: "1yohang"
+    name_toc: "1 Crónicas"
+  "2JN":
+    name: "2​โยฮาง"
+    slug: "2yohang"
+    name_toc: "2 Crónicas"
+  "3JN":
+    name: "3​โยฮาง"
+    slug: "3yohang"
+    name_toc: "Esdras"
+  "JUD":
+    name: "ยูด้ะ"
+    slug: "yuda"
+    name_toc: "Nehemías"
+  "REV":
+    name: "ท​เน​โพล​ทาง"
+    slug: "thnepholthang"
+    name_toc: "Ester"

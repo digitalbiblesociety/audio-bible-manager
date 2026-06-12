@@ -1,0 +1,83 @@
+language: "ess"
+books:
+  "MAT":
+    name: "От Матфея"
+    slug: "ot-matfea"
+  "MRK":
+    name: "От Марка"
+    slug: "ot-marka"
+  "LUK":
+    name: "От Луки"
+    slug: "ot-luki"
+  "JHN":
+    name: "От Иоанна"
+    slug: "ot-ioanna"
+  "ACT":
+    name: "Деяния"
+    slug: "deania"
+  "ROM":
+    name: "К Римлянам"
+    slug: "k-rimlanam"
+  "1CO":
+    name: "1е Коринфянам"
+    slug: "1e-korinfanam"
+  "2CO":
+    name: "2е Коринфянам"
+    slug: "2e-korinfanam"
+  "GAL":
+    name: "К Галатам"
+    slug: "k-galatam"
+  "EPH":
+    name: "К Ефесянам"
+    slug: "k-efesanam"
+  "PHP":
+    name: "К Филиппийцам"
+    slug: "k-filippijcam"
+  "COL":
+    name: "К Колоссянам"
+    slug: "k-kolossanam"
+  "1TH":
+    name: "1е Фессалоникийцам"
+    slug: "1e-fessalonikijcam"
+  "2TH":
+    name: "2е Фессалоникийцам"
+    slug: "2e-fessalonikijcam"
+  "1TI":
+    name: "1е Тимофею"
+    slug: "1e-timofeu"
+  "2TI":
+    name: "2е Тимофею"
+    slug: "2e-timofeu"
+  "TIT":
+    name: "К Титу"
+    slug: "k-titu"
+  "PHM":
+    name: "К Филимону"
+    slug: "k-filimonu"
+  "HEB":
+    name: "К Евреям"
+    slug: "k-evream"
+  "JAS":
+    name: "От Иакова"
+    slug: "ot-iakova"
+  "1PE":
+    name: "1е Петра"
+    slug: "1e-petra"
+  "2PE":
+    name: "2е Петра"
+    slug: "2e-petra"
+  "1JN":
+    name: "1е Иоанна"
+    slug: "1e-ioanna"
+  "2JN":
+    name: "2е Иоанна"
+    slug: "2e-ioanna"
+  "3JN":
+    name: "3е Иоанна"
+    slug: "3e-ioanna"
+  "JUD":
+    name: "От Иуды"
+    slug: "ot-iudy"
+  "REV":
+    name: "Откровение"
+    slug: "otkrovenie"

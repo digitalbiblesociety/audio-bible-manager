@@ -1,0 +1,298 @@
+language: "sbd"
+books:
+  "GEN":
+    name: "Sgk"
+    slug: "sgk"
+    name_toc: "Kalata ya Paulo ku Bafilipi"
+  "EXO":
+    name: "Bbn"
+    slug: "bbn"
+    name_toc: "Kalata ya Paulo ku Bakolose"
+  "LEV":
+    name: "Lws"
+    slug: "lws"
+    name_toc: "Kalata ya kutanguna ya Paulo ku Batesalonika"
+  "NUM":
+    name: "Mns"
+    slug: "mns"
+    name_toc: "2 Batesalonika"
+  "DEU":
+    name: "Tdp"
+    slug: "tdp"
+    name_toc: "Kalata ya kutanguna Paulo kuli Timoti"
+  "JOS":
+    name: "Zoz"
+    slug: "zoz"
+    name_toc: "Kalata ya cibili ya Paulo kuli Timoti"
+  "JDG":
+    name: "Syb"
+    slug: "syb"
+    name_toc: "Kalata ya Paulo kuli Tito"
+  "RUT":
+    name: "Uru"
+    slug: "uru"
+    name_toc: "Kalata ya Paulo kuli Filimoni"
+  "1SA":
+    name: "Sam1"
+    slug: "sam1"
+    name_toc: "Kalata ku Bahebeli"
+  "2SA":
+    name: "Sam2"
+    slug: "sam2"
+    name_toc: "Kalata ya Jemusi"
+  "1KI":
+    name: "Kiin1"
+    slug: "kiin1"
+    name_toc: "Kalata ya kutanguna ya Petulo"
+  "2KI":
+    name: "Kiin2"
+    slug: "kiin2"
+    name_toc: "Kalata ya cibili ya Petulo"
+  "1CH":
+    name: "Kzs1"
+    slug: "kzs1"
+    name_toc: "Kalata ya kutanguna ya Yohane"
+  "2CH":
+    name: "Kzs2"
+    slug: "kzs2"
+    name_toc: "Kalata ya cibili ya Yohane"
+  "EZR":
+    name: "Ɛsid"
+    slug: "sid"
+    name_toc: "Kalata ya citatu ya Yohane"
+  "NEH":
+    name: "Neh"
+    slug: "neh"
+    name_toc: "Kalata ya Yuda"
+  "EST":
+    name: "Ɛsit"
+    slug: "sit"
+    name_toc: "Libuku lya Kuyubulula"
+  "JOB":
+    name: "Zɔb"
+    slug: "zb"
+    name_toc: "मत्ती केर लिखल शुभ समाचार"
+  "PSA":
+    name: "Loe"
+    slug: "loe"
+    name_toc: "मरकुस केर लिखल शुभ समाचार"
+  "PRO":
+    name: "Suu"
+    slug: "suu"
+    name_toc: "लूका केर लिखल शुभ समाचार"
+  "ECC":
+    name: "Bls"
+    slug: "bls"
+    name_toc: "यूहन्ना केर लिखल शुभ समाचार"
+  "SNG":
+    name: "Lkk"
+    slug: "lkk"
+    name_toc: "खास चेलामन केर काम"
+  "ISA":
+    name: "Iza"
+    slug: "iza"
+    name_toc: "रोमानियनमन केर नाँव में चिट्ठी"
+  "JER":
+    name: "Zer"
+    slug: "zer"
+    name_toc: "कुरिनथियनमन केर नाँव में पहिला चिट्ठी"
+  "LAM":
+    name: "Bps"
+    slug: "bps"
+    name_toc: "कुरिनथियनमन केर नाँव में दूसरा चिट्ठी"
+  "EZK":
+    name: "Eze"
+    slug: "eze"
+    name_toc: "गलातियनमन केर नाँव में चिट्ठी"
+  "DAN":
+    name: "Dan"
+    slug: "dan"
+    name_toc: "इफिसियनमन केर नाँव में चिट्ठी"
+  "HOS":
+    name: "Oz"
+    slug: "oz"
+    name_toc: "फिलिप्पियनमन केर नाँव में चिट्ठी"
+  "JOL":
+    name: "Zow"
+    slug: "zow"
+    name_toc: "कुलुसियनमन केर नाँव में चिट्ठी"
+  "AMO":
+    name: "Amɔ"
+    slug: "am"
+    name_toc: "थिस्सलुनीकियनमन केर नाँव में पहिला चिट्ठी"
+  "OBA":
+    name: "Abd"
+    slug: "abd"
+    name_toc: "थिस्सलुनीकियनमन केर नाँव में दूसरा चिट्ठी"
+  "JON":
+    name: "Zon"
+    slug: "zon"
+    name_toc: "तीमुथियुस केर नाँव में पहिला चिट्ठी"
+  "MIC":
+    name: "Mis"
+    slug: "mis"
+    name_toc: "तीमुथियुस केर नाँव में दूसरा चिट्ठी"
+  "NAM":
+    name: "Nah"
+    slug: "nah"
+    name_toc: "तीतुस केर नाँव में चिट्ठी"
+  "HAB":
+    name: "Abak"
+    slug: "abak"
+    name_toc: "फिलेमोन केर नाँव में चिट्ठी"
+  "ZEP":
+    name: "Sof"
+    slug: "sof"
+    name_toc: "इब्रानीमन केर नाँव में चिट्ठी"
+  "HAG":
+    name: "Aze"
+    slug: "aze"
+    name_toc: "याकूब केर चिट्ठी"
+  "ZEC":
+    name: "Zak"
+    slug: "zak"
+    name_toc: "पतरस केर पहिला चिट्ठी"
+  "MAL":
+    name: "Mal"
+    slug: "mal"
+    name_toc: "पतरस केर दूसरा चिट्ठी"
+  "TOB":
+    name: "Tobiti"
+    slug: "tobiti"
+    name_toc: "Maleakhi"
+  "JDT":
+    name: "Zuditi"
+    slug: "zuditi"
+    name_toc: "Sura’ Kareba Kaparannuan Natonoranni Matius"
+  "ESG":
+    name: "Ɛsitɛɛrɛ Grɛki"
+    slug: "sitr-grki"
+    name_toc: "Sura’ Kareba Kaparannuan Natonoranni Markus"
+  "WIS":
+    name: "Yiriwoorobaa ǹ sɛ́wɔ"
+    slug: "yiriwoorobaa-n-sw"
+    name_toc: "Sura’na Rasulu’ Paulus Lako To Efesus"
+  "SIR":
+    name: "Yiriwoorobaa"
+    slug: "yiriwoorobaa"
+    name_toc: "Sura’na Rasulu’ Paulus Lako To Filipi"
+  "BAR":
+    name: "Baruku"
+    slug: "baruku"
+    name_toc: "Bunga’na Sura’na Rasulu’ Paulus Lako Timotius"
+  "1MA":
+    name: "Makaabee1"
+    slug: "makaabee1"
+    name_toc: "Sura’ Kareba Kaparannuan Natonoranni Lukas"
+  "2MA":
+    name: "Makaabee2"
+    slug: "makaabee2"
+    name_toc: "Sura’ Kareba Kaparannuan Natonoranni Yohanes"
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+    name_toc: "यूहन्ना केर पहिला चिट्ठी"
+  "MRK":
+    name: "Mar"
+    slug: "mar"
+    name_toc: "यूहन्ना केर दूसरा चिट्ठी"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "यूहन्ना केर तीसरा चिट्ठी"
+  "JHN":
+    name: "Zaã"
+    slug: "zaa"
+    name_toc: "यहूदा केर चिट्ठी"
+  "ACT":
+    name: "Nds"
+    slug: "nds"
+    name_toc: "यूहन्ना केर प्रकाशितवाक्य"
+  "ROM":
+    name: "Rɔm"
+    slug: "rm"
+    name_toc: "Kadadian"
+  "1CO":
+    name: "Kor1"
+    slug: "kor1"
+    name_toc: "Katassuran"
+  "2CO":
+    name: "Kor2"
+    slug: "kor2"
+    name_toc: "Sura’ Katominaan"
+  "GAL":
+    name: "Gal"
+    slug: "gal"
+    name_toc: "Kadibilangan"
+  "EPH":
+    name: "Efɛ"
+    slug: "ef"
+    name_toc: "Pa’tole"
+  "PHP":
+    name: "Fili"
+    slug: "fili"
+    name_toc: "Yosua"
+  "COL":
+    name: "Kol"
+    slug: "kol"
+    name_toc: "To Parengnge’"
+  "1TH":
+    name: "Tes1"
+    slug: "tes1"
+    name_toc: "Rut"
+  "2TH":
+    name: "Tes2"
+    slug: "tes2"
+    name_toc: "Bunga’na Sura’ Samuel"
+  "1TI":
+    name: "Tim1"
+    slug: "tim1"
+    name_toc: "Ma’penduanna Sura’ Samuel"
+  "2TI":
+    name: "Tim2"
+    slug: "tim2"
+    name_toc: "Bunga’na Sura’ Diona Mintu’ Datu"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+    name_toc: "Ma’penduanna Sura’ Diona Datu"
+  "PHM":
+    name: "File"
+    slug: "file"
+    name_toc: "Bunga’na Sura’ Ossoranna Mintu’ Datu"
+  "HEB":
+    name: "Ebr"
+    slug: "ebr"
+    name_toc: "Ma’penduanna Sura’ Ossoranna Datu"
+  "JAS":
+    name: "Zaaki"
+    slug: "zaaki"
+    name_toc: "Ezra"
+  "1PE":
+    name: "Piɛ1"
+    slug: "pi1"
+    name_toc: "Nehemia"
+  "2PE":
+    name: "Piɛ2"
+    slug: "pi2"
+    name_toc: "Ester"
+  "1JN":
+    name: "Zaã1"
+    slug: "zaa1"
+    name_toc: "Ayub"
+  "2JN":
+    name: "Zaã2"
+    slug: "zaa2"
+    name_toc: "Pa’pudian"
+  "3JN":
+    name: "Zaã3"
+    slug: "zaa3"
+    name_toc: "Sarambu Peada’"
+  "JUD":
+    name: "Zud"
+    slug: "zud"
+    name_toc: "Tomangada’"
+  "REV":
+    name: "Sns"
+    slug: "sns"
+    name_toc: "Pa’tendeng Ballo"

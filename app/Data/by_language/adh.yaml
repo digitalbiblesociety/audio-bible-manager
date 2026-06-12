@@ -1,0 +1,227 @@
+language: "adh"
+books:
+  "GEN":
+    name: "Cakirok"
+    slug: "cakirok"
+  "EXO":
+    name: "Wok"
+    slug: "wok"
+  "LEV":
+    name: "Jolevi"
+    slug: "jolevi"
+  "NUM":
+    name: "Kwan"
+    slug: "kwan"
+  "DEU":
+    name: "Cik"
+    slug: "cik"
+  "JOS":
+    name: "Yosuwa"
+    slug: "yosuwa"
+  "JDG":
+    name: "Jothum Banja"
+    slug: "jothum-banja"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "1 Samwiri"
+    slug: "1-samwiri"
+  "2SA":
+    name: "2 Samwiri"
+    slug: "2-samwiri"
+  "1KI":
+    name: "1 Kerin"
+    slug: "1-kerin"
+  "2KI":
+    name: "2 Kerin"
+    slug: "2-kerin"
+  "1CH":
+    name: "1 Kigana kwoŋ Kerin"
+    slug: "1-kigana-kwo-kerin"
+  "2CH":
+    name: "2 Kigana kwoŋ Kerin"
+    slug: "2-kigana-kwo-kerin"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esita"
+    slug: "esita"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+  "PSA":
+    name: "Zabuli"
+    slug: "zabuli"
+  "PRO":
+    name: "Agecin"
+    slug: "agecin"
+  "ECC":
+    name: "Jafonji"
+    slug: "jafonji"
+  "SNG":
+    name: "Wer pa Solomon"
+    slug: "wer-pa-solomon"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+  "LAM":
+    name: "Ywakirok"
+    slug: "ywakirok"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hoseya"
+    slug: "hoseya"
+  "JOL":
+    name: "Yowel"
+    slug: "yowel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagay"
+    slug: "hagay"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+  "JDT":
+    name: "Yudita"
+    slug: "yudita"
+  "ESG":
+    name: "Esita gi Dhogrik"
+    slug: "esita-gi-dhogrik"
+  "WIS":
+    name: "Rieko pa Solomon"
+    slug: "rieko-pa-solomon"
+  "SIR":
+    name: "Rieko pa Yesu wod pa Sirak"
+    slug: "rieko-pa-yesu-wod-pa-sirak"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+  "DAG":
+    name: "Daniel gi Dhogrik"
+    slug: "daniel-gi-dhogrik"
+  "1MA":
+    name: "1 Jomakabi"
+    slug: "1-jomakabi"
+  "2MA":
+    name: "2 Jomakabi"
+    slug: "2-jomakabi"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Tim pa Jomoor"
+    slug: "tim-pa-jomoor"
+  "ROM":
+    name: "Joroma"
+    slug: "joroma"
+  "1CO":
+    name: "1 Jokorintho"
+    slug: "1-jokorintho"
+  "2CO":
+    name: "2 Jokorintho"
+    slug: "2-jokorintho"
+  "GAL":
+    name: "Jogalasia"
+    slug: "jogalasia"
+  "EPH":
+    name: "Joefeso"
+    slug: "joefeso"
+  "PHP":
+    name: "Jofilipi"
+    slug: "jofilipi"
+  "COL":
+    name: "Jokolosia"
+    slug: "jokolosia"
+  "1TH":
+    name: "1 Jothesalonika"
+    slug: "1-jothesalonika"
+  "2TH":
+    name: "2 Jothesalonika"
+    slug: "2-jothesalonika"
+  "1TI":
+    name: "1 Timothe"
+    slug: "1-timothe"
+  "2TI":
+    name: "2 Timothe"
+    slug: "2-timothe"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Joebulaniya"
+    slug: "joebulaniya"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+  "REV":
+    name: "Menyirok ri Yohana"
+    slug: "menyirok-ri-yohana"

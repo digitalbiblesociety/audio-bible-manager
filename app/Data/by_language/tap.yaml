@@ -1,0 +1,38 @@
+language: "tap"
+books:
+  "GEN":
+    name: "Kutendeka"
+    slug: "kutendeka"
+  "EXO":
+    name: "Kufuma"
+    slug: "kufuma"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+  "PRO":
+    name: "Mapinda"
+    slug: "mapinda"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+  "JON":
+    name: "Yona"
+    slug: "yona"

@@ -1,0 +1,164 @@
+language: "ivb"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Eksodo"
+    slug: "eksodo"
+  "JOS":
+    name: "Joswe"
+    slug: "joswe"
+  "JDG":
+    name: "Okom"
+    slug: "okom"
+  "RUT":
+    name: "Roth"
+    slug: "roth"
+  "1SA":
+    name: "1 Samwel"
+    slug: "1-samwel"
+  "2SA":
+    name: "2 Samwel"
+    slug: "2-samwel"
+  "1KI":
+    name: "1 Ar-āri"
+    slug: "1-ar-ari"
+  "2KI":
+    name: "2 Ar-āri"
+    slug: "2-ar-ari"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+  "PRO":
+    name: "Proberbyo"
+    slug: "proberbyo"
+  "ECC":
+    name: "Eklesiastes"
+    slug: "eklesiastes"
+  "SNG":
+    name: "Kapapatgan a Kanta"
+    slug: "kapapatgan-a-kanta"
+  "LAM":
+    name: "Dongdong-aw"
+    slug: "dongdong-aw"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadyas"
+    slug: "obadyas"
+  "JON":
+    name: "Jonas"
+    slug: "jonas"
+  "MIC":
+    name: "Mikyas"
+    slug: "mikyas"
+  "NAM":
+    name: "Nahom"
+    slug: "nahom"
+  "HAB":
+    name: "Habakkok"
+    slug: "habakkok"
+  "ZEP":
+    name: "Sepanyas"
+    slug: "sepanyas"
+  "HAG":
+    name: "Haggeo"
+    slug: "haggeo"
+  "ZEC":
+    name: "Sakaryas"
+    slug: "sakaryas"
+  "MAL":
+    name: "Malakyas"
+    slug: "malakyas"
+  "MAT":
+    name: "Matchew"
+    slug: "matchew"
+  "MRK":
+    name: "Markos"
+    slug: "markos"
+  "LUK":
+    name: "Lokas"
+    slug: "lokas"
+  "JHN":
+    name: "Juan"
+    slug: "juan"
+  "ACT":
+    name: "Aramid"
+    slug: "aramid"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korinto"
+    slug: "1-korinto"
+  "2CO":
+    name: "2 Korinto"
+    slug: "2-korinto"
+  "GAL":
+    name: "Galasya"
+    slug: "galasya"
+  "EPH":
+    name: "Epeso"
+    slug: "epeso"
+  "PHP":
+    name: "Pilipos"
+    slug: "pilipos"
+  "COL":
+    name: "Kolosas"
+    slug: "kolosas"
+  "1TH":
+    name: "Tesalonika"
+    slug: "tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Hebreo"
+    slug: "hebreo"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+  "2PE":
+    name: "1 Juan"
+    slug: "1-juan"
+  "1JN":
+    name: "1 Juan"
+    slug: "1-juan"
+  "2JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "3JN":
+    name: "3 Juan"
+    slug: "3-juan"
+  "JUD":
+    name: "Jodas"
+    slug: "jodas"
+  "REV":
+    name: "Paltiing"
+    slug: "paltiing"

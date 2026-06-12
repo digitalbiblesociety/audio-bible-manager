@@ -1,0 +1,83 @@
+language: "kia"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+  "ACT":
+    name: "Tèmel keeya"
+    slug: "temel-keeya"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korent"
+    slug: "1-korent"
+  "2CO":
+    name: "2 Korent"
+    slug: "2-korent"
+  "GAL":
+    name: "Galaɗ"
+    slug: "gala"
+  "EPH":
+    name: "Efez"
+    slug: "efez"
+  "PHP":
+    name: "Filib"
+    slug: "filib"
+  "COL":
+    name: "Kolos"
+    slug: "kolos"
+  "1TH":
+    name: "1 Tesalonik"
+    slug: "1-tesalonik"
+  "2TH":
+    name: "2 Tesalonik"
+    slug: "2-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filemo̰"
+    slug: "filemo"
+  "HEB":
+    name: "Hebre"
+    slug: "hebre"
+  "JAS":
+    name: "Jak"
+    slug: "jak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Dyanna ya zum ge kaŋ"
+    slug: "dyanna-ya-zum-ge-kan"

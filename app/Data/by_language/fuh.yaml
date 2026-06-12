@@ -1,0 +1,83 @@
+language: "fuh"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Marku"
+    slug: "marku"
+  "LUK":
+    name: "Lukka"
+    slug: "lukka"
+  "JHN":
+    name: "Yuhanna"
+    slug: "yuhanna"
+  "ACT":
+    name: "Golle Nulaaɓe"
+    slug: "golle-nulaae"
+  "ROM":
+    name: "Romankooɓe"
+    slug: "romankooe"
+  "1CO":
+    name: "1 Korintunkooɓe"
+    slug: "1-korintunkooe"
+  "2CO":
+    name: "2 Korintunkooɓe"
+    slug: "2-korintunkooe"
+  "GAL":
+    name: "Galaatiyankooɓe"
+    slug: "galaatiyankooe"
+  "EPH":
+    name: "Efeesunkooɓe"
+    slug: "efeesunkooe"
+  "PHP":
+    name: "Filipiyankooɓe"
+    slug: "filipiyankooe"
+  "COL":
+    name: "Koloosiyankooɓe"
+    slug: "koloosiyankooe"
+  "1TH":
+    name: "1 Tesaloniyankooɓe"
+    slug: "1-tesaloniyankooe"
+  "2TH":
+    name: "2 Tesaloniyankooɓe"
+    slug: "2-tesaloniyankooe"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tiitu"
+    slug: "tiitu"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ibraninkooɓe"
+    slug: "ibraninkooe"
+  "JAS":
+    name: "Yaakuuba"
+    slug: "yaakuuba"
+  "1PE":
+    name: "1 Piyeer"
+    slug: "1-piyeer"
+  "2PE":
+    name: "2 Piyeer"
+    slug: "2-piyeer"
+  "1JN":
+    name: "1 Yuhanna"
+    slug: "1-yuhanna"
+  "2JN":
+    name: "2 Yuhanna"
+    slug: "2-yuhanna"
+  "3JN":
+    name: "3 Yuhanna"
+    slug: "3-yuhanna"
+  "JUD":
+    name: "Yahuuda"
+    slug: "yahuuda"
+  "REV":
+    name: "Ɓangingol"
+    slug: "bangingol"

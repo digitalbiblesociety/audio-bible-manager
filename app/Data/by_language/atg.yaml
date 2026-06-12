@@ -1,0 +1,83 @@
+language: "atg"
+books:
+  "MAT":
+    name: "iMatiu"
+    slug: "imatiu"
+  "MRK":
+    name: "iMaki"
+    slug: "imaki"
+  "LUK":
+    name: "iLuku"
+    slug: "iluku"
+  "JHN":
+    name: "iJọni"
+    slug: "ijoni"
+  "ACT":
+    name: "Ikanya"
+    slug: "ikanya"
+  "ROM":
+    name: "iRoma"
+    slug: "iroma"
+  "1CO":
+    name: "1 iKọritia"
+    slug: "1-ikoritia"
+  "2CO":
+    name: "2 iKọritia"
+    slug: "2-ikoritia"
+  "GAL":
+    name: "iGalesha"
+    slug: "igalesha"
+  "EPH":
+    name: "Ẹfisha"
+    slug: "efisha"
+  "PHP":
+    name: "iFilipia"
+    slug: "ifilipia"
+  "COL":
+    name: "iKolosha"
+    slug: "ikolosha"
+  "1TH":
+    name: "1 iTẹsalonia"
+    slug: "1-itesalonia"
+  "2TH":
+    name: "2 iTẹsalonia"
+    slug: "2-itesalonia"
+  "1TI":
+    name: "1 iTimoti"
+    slug: "1-itimoti"
+  "2TI":
+    name: "2 iTimoti"
+    slug: "2-itimoti"
+  "TIT":
+    name: "iTatọ"
+    slug: "itato"
+  "PHM":
+    name: "iFilẹmọ"
+    slug: "ifilemo"
+  "HEB":
+    name: "Iburu"
+    slug: "iburu"
+  "JAS":
+    name: "iJemhisi"
+    slug: "ijemhisi"
+  "1PE":
+    name: "1 iPita"
+    slug: "1-ipita"
+  "2PE":
+    name: "2 iPita"
+    slug: "2-ipita"
+  "1JN":
+    name: "1 iJọni"
+    slug: "1-ijoni"
+  "2JN":
+    name: "2 iJọni"
+    slug: "2-ijoni"
+  "3JN":
+    name: "3 iJọni"
+    slug: "3-ijoni"
+  "JUD":
+    name: "iJudu"
+    slug: "ijudu"
+  "REV":
+    name: "Irọkhasẹ"
+    slug: "irokhase"

@@ -1,0 +1,83 @@
+language: "kmr"
+books:
+  "MAT":
+    name: "Metta"
+    slug: "metta"
+  "MRK":
+    name: "Marqos"
+    slug: "marqos"
+  "LUK":
+    name: "Lûqa"
+    slug: "luqa"
+  "JHN":
+    name: "Yûh’enna"
+    slug: "yuhenna"
+  "ACT":
+    name: "K’arêd Şandîya"
+    slug: "kared-sandiya"
+  "ROM":
+    name: "R’omayî"
+    slug: "romayi"
+  "1CO":
+    name: "Korint’î I"
+    slug: "korinti-i"
+  "2CO":
+    name: "Korint’î II"
+    slug: "korinti-ii"
+  "GAL":
+    name: "Galatî"
+    slug: "galati"
+  "EPH":
+    name: "Efesî"
+    slug: "efesi"
+  "PHP":
+    name: "Fîlîpî"
+    slug: "filipi"
+  "COL":
+    name: "Kolosî"
+    slug: "kolosi"
+  "1TH":
+    name: "T’êsalonîkî I"
+    slug: "tesaloniki-i"
+  "2TH":
+    name: "T’êsalonîkî II"
+    slug: "tesaloniki-ii"
+  "1TI":
+    name: "Tîmot’êyo I"
+    slug: "timoteyo-i"
+  "2TI":
+    name: "Tîmot’êyo II"
+    slug: "timoteyo-ii"
+  "TIT":
+    name: "Tîto"
+    slug: "tito"
+  "PHM":
+    name: "Filîmon"
+    slug: "filimon"
+  "HEB":
+    name: "Îbranî"
+    slug: "ibrani"
+  "JAS":
+    name: "Aqûb"
+    slug: "aqub"
+  "1PE":
+    name: "Petrûs I"
+    slug: "petrus-i"
+  "2PE":
+    name: "Petrûs II"
+    slug: "petrus-ii"
+  "1JN":
+    name: "Yûh’enna I"
+    slug: "yuhenna-i"
+  "2JN":
+    name: "Yûh’enna II"
+    slug: "yuhenna-ii"
+  "3JN":
+    name: "Yûh’enna III"
+    slug: "yuhenna-iii"
+  "JUD":
+    name: "Cihûda"
+    slug: "cihuda"
+  "REV":
+    name: "E’yantî"
+    slug: "eyanti"

@@ -1,0 +1,83 @@
+language: "lwo"
+books:
+  "MAT":
+    name: "Matheewo"
+    slug: "matheewo"
+  "MRK":
+    name: "Maarko"
+    slug: "maarko"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Joon"
+    slug: "joon"
+  "ACT":
+    name: "Tiihy Jo Oohr"
+    slug: "tiihy-jo-oohr"
+  "ROM":
+    name: "Roama"
+    slug: "roama"
+  "1CO":
+    name: "1 Korindh"
+    slug: "1-korindh"
+  "2CO":
+    name: "2 Korindh"
+    slug: "2-korindh"
+  "GAL":
+    name: "Galaadya"
+    slug: "galaadya"
+  "EPH":
+    name: "Epicoj"
+    slug: "epicoj"
+  "PHP":
+    name: "Pihlihbi"
+    slug: "pihlihbi"
+  "COL":
+    name: "Kloajya"
+    slug: "kloajya"
+  "1TH":
+    name: "1 Thecaaloanika"
+    slug: "1-thecaaloanika"
+  "2TH":
+    name: "2 Thecaaloanika"
+    slug: "2-thecaaloanika"
+  "1TI":
+    name: "1 Timodhy"
+    slug: "1-timodhy"
+  "2TI":
+    name: "2 Timodhy"
+    slug: "2-timodhy"
+  "TIT":
+    name: "Tiihtuj"
+    slug: "tiihtuj"
+  "PHM":
+    name: "Pihlmon"
+    slug: "pihlmon"
+  "HEB":
+    name: "Judea"
+    slug: "judea"
+  "JAS":
+    name: "Jeamij"
+    slug: "jeamij"
+  "1PE":
+    name: "1 Piihter"
+    slug: "1-piihter"
+  "2PE":
+    name: "2 Piihter"
+    slug: "2-piihter"
+  "1JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Giih Anyoadh Juoge"
+    slug: "giih-anyoadh-juoge"

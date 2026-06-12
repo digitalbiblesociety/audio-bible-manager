@@ -1,0 +1,41 @@
+language: "mpj"
+books:
+  "ACT":
+    name: "Parraya Wajalpayi"
+    slug: "parraya-wajalpayi"
+  "1CO":
+    name: "1 Kurinyjimartajiku"
+    slug: "1-kurinyjimartajiku"
+  "GAL":
+    name: "Kilijiyamartajiku"
+    slug: "kilijiyamartajiku"
+  "COL":
+    name: "Kalajanmartajiku"
+    slug: "kalajanmartajiku"
+  "1TH":
+    name: "1 Jijaluniyamartajiku"
+    slug: "1-jijaluniyamartajiku"
+  "2TH":
+    name: "2 Jijaluniyamartajiku"
+    slug: "2-jijaluniyamartajiku"
+  "1TI":
+    name: "1 Timitikarti"
+    slug: "1-timitikarti"
+  "2TI":
+    name: "2 Timitikarti"
+    slug: "2-timitikarti"
+  "1PE":
+    name: "1 Piijamili"
+    slug: "1-piijamili"
+  "2PE":
+    name: "2 Piijamili"
+    slug: "2-piijamili"
+  "1JN":
+    name: "1 Jaanmili"
+    slug: "1-jaanmili"
+  "2JN":
+    name: "2 Jaanmili"
+    slug: "2-jaanmili"
+  "3JN":
+    name: "3 Jaanmili"
+    slug: "3-jaanmili"

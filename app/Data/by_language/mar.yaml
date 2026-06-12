@@ -1,0 +1,200 @@
+language: "mar"
+books:
+  "GEN":
+    name: "उत्पत्ति"
+    slug: "utpatti"
+  "EXO":
+    name: "निर्गम"
+    slug: "nirgama"
+  "LEV":
+    name: "लेवीय"
+    slug: "leviya"
+  "NUM":
+    name: "गणना"
+    slug: "ganana"
+  "DEU":
+    name: "अनुवाद"
+    slug: "anuvada"
+  "JOS":
+    name: "यहोशवा"
+    slug: "yahosava"
+  "JDG":
+    name: "शास्ते"
+    slug: "saste"
+  "RUT":
+    name: "रूथ"
+    slug: "rutha"
+  "1SA":
+    name: "1 शमुवेल"
+    slug: "1-samuvela"
+  "2SA":
+    name: "2 शमुवेल"
+    slug: "2-samuvela"
+  "1KI":
+    name: "1 राजे"
+    slug: "1-raje"
+  "2KI":
+    name: "2 राजे"
+    slug: "2-raje"
+  "1CH":
+    name: "1 इतिहास"
+    slug: "1-itihasa"
+  "2CH":
+    name: "2 इतिहास"
+    slug: "2-itihasa"
+  "EZR":
+    name: "एज्रा"
+    slug: "ejra"
+  "NEH":
+    name: "नहेम्या"
+    slug: "nahemya"
+  "EST":
+    name: "एस्तेर"
+    slug: "estera"
+  "JOB":
+    name: "ईयोब"
+    slug: "iyoba"
+  "PSA":
+    name: "स्तोत्रसंहिता"
+    slug: "stotrasamhita"
+  "PRO":
+    name: "नीतिसूत्रे"
+    slug: "nitisutre"
+  "ECC":
+    name: "उपदेशक"
+    slug: "upadesaka"
+  "SNG":
+    name: "गीतरत्न"
+    slug: "gitaratna"
+  "ISA":
+    name: "यशया"
+    slug: "yasaya"
+  "JER":
+    name: "यिर्मया"
+    slug: "yirmaya"
+  "LAM":
+    name: "विलापगीत"
+    slug: "vilapagita"
+  "EZK":
+    name: "यहेज्केल"
+    slug: "yahejkela"
+  "DAN":
+    name: "दानीएल"
+    slug: "daniela"
+  "HOS":
+    name: "होशेय"
+    slug: "hoseya"
+  "JOL":
+    name: "योएल"
+    slug: "yoela"
+  "AMO":
+    name: "आमोस"
+    slug: "amosa"
+  "OBA":
+    name: "ओबद्या"
+    slug: "obadya"
+  "JON":
+    name: "योना"
+    slug: "yona"
+  "MIC":
+    name: "मीखा"
+    slug: "mikha"
+  "NAM":
+    name: "नहूम"
+    slug: "nahuma"
+  "HAB":
+    name: "हबक्कूक"
+    slug: "habakkuka"
+  "ZEP":
+    name: "सफन्या"
+    slug: "saphanya"
+  "HAG":
+    name: "हाग्गय"
+    slug: "haggaya"
+  "ZEC":
+    name: "जखऱ्या"
+    slug: "jakharya"
+  "MAL":
+    name: "मलाखी"
+    slug: "malakhi"
+  "MAT":
+    name: "मत्तय"
+    slug: "mattaya"
+  "MRK":
+    name: "मार्क"
+    slug: "marka"
+  "LUK":
+    name: "लूक"
+    slug: "luka"
+  "JHN":
+    name: "योहान"
+    slug: "yohana"
+  "ACT":
+    name: "प्रेषितांचीं कृत्यें"
+    slug: "presitamcim-krtyem"
+  "ROM":
+    name: "रोमकरांस"
+    slug: "romakaramsa"
+  "1CO":
+    name: "1 करिंथकरांस"
+    slug: "1-karimthakaramsa"
+  "2CO":
+    name: "2 करिंथकरांस"
+    slug: "2-karimthakaramsa"
+  "GAL":
+    name: "गलतीकरांस"
+    slug: "galatikaramsa"
+  "EPH":
+    name: "इफिसकरांस"
+    slug: "iphisakaramsa"
+  "PHP":
+    name: "फिलिप्पैकरांस"
+    slug: "philippaikaramsa"
+  "COL":
+    name: "कलस्सैकरांस"
+    slug: "kalassaikaramsa"
+  "1TH":
+    name: "1 थेस्सलनीकाकरांस"
+    slug: "1-thessalanikakaramsa"
+  "2TH":
+    name: "2 थेस्सलनीकाकरांस"
+    slug: "2-thessalanikakaramsa"
+  "1TI":
+    name: "1 तीमथ्याला"
+    slug: "1-timathyala"
+  "2TI":
+    name: "2 तीमथ्थाला"
+    slug: "2-timaththala"
+  "TIT":
+    name: "तीताला"
+    slug: "titala"
+  "PHM":
+    name: "फिलेमोना"
+    slug: "philemona"
+  "HEB":
+    name: "इब्री लोकांस"
+    slug: "ibri-lokamsa"
+  "JAS":
+    name: "याकोब"
+    slug: "yakoba"
+  "1PE":
+    name: "1 पेत्र"
+    slug: "1-petra"
+  "2PE":
+    name: "2 पेत्र"
+    slug: "2-petra"
+  "1JN":
+    name: "1 योहान"
+    slug: "1-yohana"
+  "2JN":
+    name: "2 योहान"
+    slug: "2-yohana"
+  "3JN":
+    name: "3 योहान"
+    slug: "3-yohana"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+  "REV":
+    name: "प्रकटीकरण"
+    slug: "prakatikarana"

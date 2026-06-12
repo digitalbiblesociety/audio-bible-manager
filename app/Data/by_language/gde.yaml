@@ -1,0 +1,83 @@
+language: "gde"
+books:
+  "MAT":
+    name: "Mata"
+    slug: "mata"
+  "MRK":
+    name: "Marəkusə"
+    slug: "marekuse"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yoohana"
+    slug: "yoohana"
+  "ACT":
+    name: "Slənə"
+    slug: "slene"
+  "ROM":
+    name: "Rooma"
+    slug: "rooma"
+  "1CO":
+    name: "1 Koorintiya"
+    slug: "1-koorintiya"
+  "2CO":
+    name: "2 Koorintiya"
+    slug: "2-koorintiya"
+  "GAL":
+    name: "Galatiya"
+    slug: "galatiya"
+  "EPH":
+    name: "Afisa"
+    slug: "afisa"
+  "PHP":
+    name: "Filipi"
+    slug: "filipi"
+  "COL":
+    name: "Kwalasiya"
+    slug: "kwalasiya"
+  "1TH":
+    name: "1 Teesaloonika"
+    slug: "1-teesaloonika"
+  "2TH":
+    name: "2 Teesaloonika"
+    slug: "2-teesaloonika"
+  "1TI":
+    name: "1 Timooti"
+    slug: "1-timooti"
+  "2TI":
+    name: "2 Timooti"
+    slug: "2-timooti"
+  "TIT":
+    name: "Titusə"
+    slug: "tituse"
+  "PHM":
+    name: "Filimanə"
+    slug: "filimane"
+  "HEB":
+    name: "Ibəraaniya"
+    slug: "iberaaniya"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Yoohana"
+    slug: "1-yoohana"
+  "2JN":
+    name: "2 Yoohana"
+    slug: "2-yoohana"
+  "3JN":
+    name: "3 Yoohana"
+    slug: "3-yoohana"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Səniinə"
+    slug: "seniine"

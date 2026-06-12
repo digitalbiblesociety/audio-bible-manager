@@ -1,0 +1,86 @@
+language: "cou"
+books:
+  "GEN":
+    name: "Wapëgwala"
+    slug: "wapegwala"
+  "MAT":
+    name: "Matiye"
+    slug: "matiye"
+  "MRK":
+    name: "Marëk"
+    slug: "marek"
+  "LUK":
+    name: "Lik"
+    slug: "lik"
+  "JHN":
+    name: "San"
+    slug: "san"
+  "ACT":
+    name: "Vantiyehn"
+    slug: "vantiyehn"
+  "ROM":
+    name: "Vëvë Rom"
+    slug: "veve-rom"
+  "1CO":
+    name: "1 Vëvë Korent"
+    slug: "1-veve-korent"
+  "2CO":
+    name: "2 Vëvë Korent"
+    slug: "2-veve-korent"
+  "GAL":
+    name: "Vëvë Galasi"
+    slug: "veve-galasi"
+  "EPH":
+    name: "Vëvë Efes"
+    slug: "veve-efes"
+  "PHP":
+    name: "Vëvë Filip"
+    slug: "veve-filip"
+  "COL":
+    name: "Vëvë Kolos"
+    slug: "veve-kolos"
+  "1TH":
+    name: "1 Vëvë Tesalonik"
+    slug: "1-veve-tesalonik"
+  "2TH":
+    name: "2 Vëvë Tesalonik"
+    slug: "2-veve-tesalonik"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+  "HEB":
+    name: "Ebëre"
+    slug: "ebere"
+  "JAS":
+    name: "Sak"
+    slug: "sak"
+  "1PE":
+    name: "1 Piyer"
+    slug: "1-piyer"
+  "2PE":
+    name: "2 Piyer"
+    slug: "2-piyer"
+  "1JN":
+    name: "1 San"
+    slug: "1-san"
+  "2JN":
+    name: "2 San"
+    slug: "2-san"
+  "3JN":
+    name: "3 San"
+    slug: "3-san"
+  "JUD":
+    name: "Yuɗ"
+    slug: "yu"
+  "REV":
+    name: "Wapuyala"
+    slug: "wapuyala"

@@ -1,0 +1,5 @@
+language: "bla"
+books:
+  "MAT":
+    name: "St. Matthew"
+    slug: "st-matthew"

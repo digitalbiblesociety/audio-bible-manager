@@ -1,0 +1,35 @@
+language: "amx"
+books:
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Acts"
+    slug: "acts"
+  "1TH":
+    name: "1 Thessalonians"
+    slug: "1-thessalonians"
+  "2TH":
+    name: "2 Thessalonians"
+    slug: "2-thessalonians"
+  "1TI":
+    name: "1 Timothy"
+    slug: "1-timothy"
+  "2TI":
+    name: "2 Timothy"
+    slug: "2-timothy"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "JAS":
+    name: "James"
+    slug: "james"

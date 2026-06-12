@@ -1,0 +1,89 @@
+language: "bch"
+books:
+  "GEN":
+    name: "Otnga Mugaeai"
+    slug: "otnga-mugaeai"
+  "EXO":
+    name: "Ibada Mulian"
+    slug: "ibada-mulian"
+  "MAT":
+    name: "Mateus"
+    slug: "mateus"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+  "JHN":
+    name: "Ioanes"
+    slug: "ioanes"
+  "ACT":
+    name: "Panua Ato ad"
+    slug: "panua-ato-ad"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+  "EPH":
+    name: "Epesus"
+    slug: "epesus"
+  "PHP":
+    name: "Pilipai"
+    slug: "pilipai"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Pilemon"
+    slug: "pilemon"
+  "HEB":
+    name: "Ibru"
+    slug: "ibru"
+  "JAS":
+    name: "Jems"
+    slug: "jems"
+  "1PE":
+    name: "1 Petrus"
+    slug: "1-petrus"
+  "2PE":
+    name: "2 Petrus"
+    slug: "2-petrus"
+  "1JN":
+    name: "1 Ioanes"
+    slug: "1-ioanes"
+  "2JN":
+    name: "2 Ioanes"
+    slug: "2-ioanes"
+  "3JN":
+    name: "3 Ioanes"
+    slug: "3-ioanes"
+  "JUD":
+    name: "Jut"
+    slug: "jut"
+  "REV":
+    name: "Posanga Mumulnga"
+    slug: "posanga-mumulnga"

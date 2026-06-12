@@ -1,0 +1,83 @@
+language: "bib"
+books:
+  "MAT":
+    name: "Matiyee"
+    slug: "matiyee"
+  "MRK":
+    name: "Markɩ"
+    slug: "mark"
+  "LUK":
+    name: "Likki"
+    slug: "likki"
+  "JHN":
+    name: "Zaan"
+    slug: "zaan"
+  "ACT":
+    name: "Zibəəzannɔ Ci"
+    slug: "zibeezann-ci"
+  "ROM":
+    name: "Rɔm zannɔ"
+    slug: "rm-zann"
+  "1CO":
+    name: "1 Korɛntɩ zannɔ"
+    slug: "1-kornt-zann"
+  "2CO":
+    name: "2 Korɛntɩ zannɔ"
+    slug: "2-kornt-zann"
+  "GAL":
+    name: "Galasii zannɔ"
+    slug: "galasii-zann"
+  "EPH":
+    name: "Efɛɛzɩ zannɔ"
+    slug: "efz-zann"
+  "PHP":
+    name: "Filipii zannɔ"
+    slug: "filipii-zann"
+  "COL":
+    name: "Kolɔɔsɩ zannɔ"
+    slug: "kols-zann"
+  "1TH":
+    name: "1 Tesaloniki zannɔ"
+    slug: "1-tesaloniki-zann"
+  "2TH":
+    name: "2 Tesaloniki zannɔ"
+    slug: "2-tesaloniki-zann"
+  "1TI":
+    name: "1 Timote"
+    slug: "1-timote"
+  "2TI":
+    name: "2 Timote"
+    slug: "2-timote"
+  "TIT":
+    name: "Tiitɩ"
+    slug: "tiit"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Ebree gʊɔɔ"
+    slug: "ebree-gu"
+  "JAS":
+    name: "Zakkɩ"
+    slug: "zakk"
+  "1PE":
+    name: "1 Pɩyɛɛr"
+    slug: "1-pyr"
+  "2PE":
+    name: "2 Pɩyɛɛr"
+    slug: "2-pyr"
+  "1JN":
+    name: "1 Zaan"
+    slug: "1-zaan"
+  "2JN":
+    name: "2 Zaan"
+    slug: "2-zaan"
+  "3JN":
+    name: "3 Zaan"
+    slug: "3-zaan"
+  "JUD":
+    name: "Ziidi"
+    slug: "ziidi"
+  "REV":
+    name: "Hɩnkarɛ Ci"
+    slug: "hnkar-ci"

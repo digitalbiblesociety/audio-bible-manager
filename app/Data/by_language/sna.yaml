@@ -1,0 +1,200 @@
+language: "sna"
+books:
+  "GEN":
+    name: "Genesisi"
+    slug: "genesisi"
+  "EXO":
+    name: "Ekisodho"
+    slug: "ekisodho"
+  "LEV":
+    name: "Revhitiko"
+    slug: "revhitiko"
+  "NUM":
+    name: "Numeri"
+    slug: "numeri"
+  "DEU":
+    name: "Dhuteronomi"
+    slug: "dhuteronomi"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Vatongi"
+    slug: "vatongi"
+  "RUT":
+    name: "Rute"
+    slug: "rute"
+  "1SA":
+    name: "1 Samueri"
+    slug: "1-samueri"
+  "2SA":
+    name: "2 Samueri"
+    slug: "2-samueri"
+  "1KI":
+    name: "1 Madzimambo"
+    slug: "1-madzimambo"
+  "2KI":
+    name: "2 Madzimambo"
+    slug: "2-madzimambo"
+  "1CH":
+    name: "1 Makoronike"
+    slug: "1-makoronike"
+  "2CH":
+    name: "2 Makoronike"
+    slug: "2-makoronike"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+  "EST":
+    name: "Esteri"
+    slug: "esteri"
+  "JOB":
+    name: "Jobho"
+    slug: "jobho"
+  "PSA":
+    name: "Mapisarema"
+    slug: "mapisarema"
+  "PRO":
+    name: "Zvirevo"
+    slug: "zvirevo"
+  "ECC":
+    name: "Muparidzi"
+    slug: "muparidzi"
+  "SNG":
+    name: "Rwiyo Rukuru rwaSoromoni"
+    slug: "rwiyo-rukuru-rwasoromoni"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+  "JER":
+    name: "Jeremia"
+    slug: "jeremia"
+  "LAM":
+    name: "Kuungudza kwaJeremia"
+    slug: "kuungudza-kwajeremia"
+  "EZK":
+    name: "Ezekieri"
+    slug: "ezekieri"
+  "DAN":
+    name: "Dhanieri"
+    slug: "dhanieri"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joere"
+    slug: "joere"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+  "OBA":
+    name: "Obhadhia"
+    slug: "obhadhia"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+  "HAB":
+    name: "Habhakuki"
+    slug: "habhakuki"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+  "MAL":
+    name: "Maraki"
+    slug: "maraki"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+  "LUK":
+    name: "Ruka"
+    slug: "ruka"
+  "JHN":
+    name: "Johani"
+    slug: "johani"
+  "ACT":
+    name: "Mabasa aVapostori"
+    slug: "mabasa-avapostori"
+  "ROM":
+    name: "VaRoma"
+    slug: "varoma"
+  "1CO":
+    name: "1 VaKorinde"
+    slug: "1-vakorinde"
+  "2CO":
+    name: "2 VaKorinde"
+    slug: "2-vakorinde"
+  "GAL":
+    name: "VaGaratia"
+    slug: "vagaratia"
+  "EPH":
+    name: "VaEfeso"
+    slug: "vaefeso"
+  "PHP":
+    name: "VaFiripi"
+    slug: "vafiripi"
+  "COL":
+    name: "VaKorose"
+    slug: "vakorose"
+  "1TH":
+    name: "1 VaTesaronika"
+    slug: "1-vatesaronika"
+  "2TH":
+    name: "2 VaTesaronika"
+    slug: "2-vatesaronika"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Firimoni"
+    slug: "firimoni"
+  "HEB":
+    name: "VaHebheru"
+    slug: "vahebheru"
+  "JAS":
+    name: "Jakobho"
+    slug: "jakobho"
+  "1PE":
+    name: "1 Petro"
+    slug: "1-petro"
+  "2PE":
+    name: "2 Petro"
+    slug: "2-petro"
+  "1JN":
+    name: "1 Johani"
+    slug: "1-johani"
+  "2JN":
+    name: "2 Johani"
+    slug: "2-johani"
+  "3JN":
+    name: "3 Johani"
+    slug: "3-johani"
+  "JUD":
+    name: "Judha"
+    slug: "judha"
+  "REV":
+    name: "Zvakazarurwa"
+    slug: "zvakazarurwa"

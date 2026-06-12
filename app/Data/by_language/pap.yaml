@@ -1,0 +1,302 @@
+language: "pap"
+books:
+  "GEN":
+    name: "Génesis"
+    slug: "genesis"
+    name_toc: "Paul Kaletayi Yakon Itekwa pe Immenukappù Corinth Pon Kon Piyak"
+  "EXO":
+    name: "Éksodo"
+    slug: "eksodo"
+    name_toc: "Paul Kaletayi Inmenukappù Galatian Yamùk Piyak"
+  "LEV":
+    name: "Levítiko"
+    slug: "levitiko"
+    name_toc: "Paul Kaletayi Inmenukappù Ephesus pon kon piyak"
+  "NUM":
+    name: "Numbernan"
+    slug: "numbernan"
+    name_toc: "Paul Kaletayi Inmenukappù Philippi Pon Kon Piyak"
+  "DEU":
+    name: "Deuteronomio"
+    slug: "deuteronomio"
+    name_toc: "Paul Kaletayi Inmenukappù Colosse pon kon piyak"
+  "JOS":
+    name: "Yozue"
+    slug: "yozue"
+    name_toc: "Wapiyalok Paul Kaletayi Inmenukappù Tesaloniyan Yamùk Piyak"
+  "JDG":
+    name: "Huesnan"
+    slug: "huesnan"
+    name_toc: "Paul Kaletayi Yakon Itekkwa pe Inmenukappù Thessalonica Pon Kon Piyak"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+    name_toc: "Kaleta, Wapiya Paul nùmenukappù Timothy piyak"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Paul Kaletayi Yakon Itekkwa pe Inmenukappù Timothy piyak"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Paul Kaletayi Immenukapù Titus piyak"
+  "1KI":
+    name: "1 Reinan"
+    slug: "1-reinan"
+    name_toc: "Paul Kaletayi Inmenukappù Philemon piyak"
+  "2KI":
+    name: "2 Reinan"
+    slug: "2-reinan"
+    name_toc: "Kaleta Imenukasak lùppù Hebrew yamùk piyak"
+  "1CH":
+    name: "1 Krónikanan"
+    slug: "1-kronikanan"
+    name_toc: "Kaleta James Winàpaino"
+  "2CH":
+    name: "2 Krónikanan"
+    slug: "2-kronikanan"
+    name_toc: "Pita Kaletayi Wapiyalok pe Inmenukapù"
+  "EZR":
+    name: "Esdras"
+    slug: "esdras"
+    name_toc: "Pita Kaletayi Yakon Itekkwa pe Inmenukappù"
+  "NEH":
+    name: "Nehemías"
+    slug: "nehemias"
+    name_toc: "John Kaletayi Wapiyalok Pe Inmenukapù"
+  "EST":
+    name: "Ester"
+    slug: "ester"
+    name_toc: "John Kaletayi Yakon Itekkwa pe Inmenukappù"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "John Kaletayi Icholùwano Itekwa pe Inmenukapù"
+  "PSA":
+    name: "Salmo"
+    slug: "salmo"
+    name_toc: "Jude Kaletayi Nùmenukapù"
+  "PRO":
+    name: "Proverbionan"
+    slug: "proverbionan"
+    name_toc: "John Yenu Yak Yenpoikasak Lùppù"
+  "ECC":
+    name: "Predikador"
+    slug: "predikador"
+    name_toc: "د پېدايښت کِتاب"
+  "SNG":
+    name: "E kanto di tur kanto"
+    slug: "e-kanto-di-tur-kanto"
+    name_toc: "د هِجرت کِتاب"
+  "ISA":
+    name: "Isaías"
+    slug: "isaias"
+    name_toc: "د ليويانو کِتاب"
+  "JER":
+    name: "Yeremías"
+    slug: "yeremias"
+    name_toc: "د شمېر کِتاب"
+  "LAM":
+    name: "Lamentashonnan"
+    slug: "lamentashonnan"
+    name_toc: "د ګردان کِتاب"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+    name_toc: "د حضرت يشوَع کِتاب"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "د قاضيانو کِتاب"
+  "HOS":
+    name: "Hoséas"
+    slug: "hoseas"
+    name_toc: "د روت کِتاب"
+  "JOL":
+    name: "Yoel"
+    slug: "yoel"
+    name_toc: "د سموئيل اول کِتاب"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+    name_toc: "د سموئيل دوېم کِتاب"
+  "OBA":
+    name: "Abdías"
+    slug: "abdias"
+    name_toc: "د بادشاهانو اول کِتاب"
+  "JON":
+    name: "Yonas"
+    slug: "yonas"
+    name_toc: "د بادشاهانو دوېم کِتاب"
+  "MIC":
+    name: "Mikéas"
+    slug: "mikeas"
+    name_toc: "د تواريخ اول کِتاب"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+    name_toc: "د تواريخ دوېم کِتاب"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "د عزرا کِتاب"
+  "ZEP":
+    name: "Sofonías"
+    slug: "sofonias"
+    name_toc: "د حضرت نحمياه کِتاب"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "د اِستَر کِتاب"
+  "ZEC":
+    name: "Zakarías"
+    slug: "zakarias"
+    name_toc: "د حضرت ايُوب کِتاب"
+  "MAL":
+    name: "Malakías"
+    slug: "malakias"
+    name_toc: "زبور شريف"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "د متلونو کِتاب"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+    name_toc: "د معلِم کِتاب"
+  "ESG":
+    name: "Ester (deuterokanóniko)"
+    slug: "ester-deuterokanoniko"
+    name_toc: "د غزلو کِتاب"
+  "WIS":
+    name: "Sabiduria"
+    slug: "sabiduria"
+    name_toc: "د حضرت يشعياه نبى کِتاب"
+  "SIR":
+    name: "Sirag"
+    slug: "sirag"
+    name_toc: "د حضرت يرمياه نبى کِتاب"
+  "BAR":
+    name: "Barug"
+    slug: "barug"
+    name_toc: "د مرثيو کِتاب"
+  "DAG":
+    name: "Daniel (deuterokanóniko)"
+    slug: "daniel-deuterokanoniko"
+    name_toc: "د حضرت هوسيع نبى کِتاب"
+  "1MA":
+    name: "1 Makabeonan"
+    slug: "1-makabeonan"
+    name_toc: "د حضرت حزقى‌ايل نبى کِتاب"
+  "2MA":
+    name: "2 Makabeonan"
+    slug: "2-makabeonan"
+    name_toc: "د حضرت دانيال نبى کِتاب"
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+    name_toc: "د حضرت يوايل نبى کِتاب"
+  "MRK":
+    name: "Marko"
+    slug: "marko"
+    name_toc: "د حضرت عاموس نبى کِتاب"
+  "LUK":
+    name: "Lukas"
+    slug: "lukas"
+    name_toc: "د حضرت عبدياه نبى کِتاب"
+  "JHN":
+    name: "Huan"
+    slug: "huan"
+    name_toc: "د حضرت يُونس نبى کِتاب"
+  "ACT":
+    name: "Echonan"
+    slug: "echonan"
+    name_toc: "د حضرت ميکاه نبى کِتاب"
+  "ROM":
+    name: "Romanonan"
+    slug: "romanonan"
+    name_toc: "د حضرت ناحوم نبى کِتاب"
+  "1CO":
+    name: "1 Korintionan"
+    slug: "1-korintionan"
+    name_toc: "د حضرت حبقُوق نبى کِتاب"
+  "2CO":
+    name: "2 Korintionan"
+    slug: "2-korintionan"
+    name_toc: "د حضرت صفنياه نبى کِتاب"
+  "GAL":
+    name: "Galatanan"
+    slug: "galatanan"
+    name_toc: "د حضرت حجى نبى کِتاب"
+  "EPH":
+    name: "Efesionan"
+    slug: "efesionan"
+    name_toc: "د حضرت زکرياه نبى کِتاب"
+  "PHP":
+    name: "Filipensenan"
+    slug: "filipensenan"
+    name_toc: "د حضرت ملاکى نبى کِتاب"
+  "COL":
+    name: "Kolosensenan"
+    slug: "kolosensenan"
+    name_toc: "د مالِک عيسىٰ مسيح په حقله د متى زېرے"
+  "1TH":
+    name: "1 Tesalonisensenan"
+    slug: "1-tesalonisensenan"
+    name_toc: "د مالِک عيسىٰ مسيح په حقله د مرقوس زېرے"
+  "2TH":
+    name: "2 Tesalonisensenan"
+    slug: "2-tesalonisensenan"
+    name_toc: "د مالِک عيسىٰ مسيح په حقله د لوقا زېرے"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "د مالِک عيسىٰ مسيح په حقله د يوحنا زيرے"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "اعمال د رسولانو"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "د روميانو په نوم د پولوس رسول خط"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "د کورنتيانو په نوم د پولوس رسول اول خط"
+  "HEB":
+    name: "Hebreonan"
+    slug: "hebreonan"
+    name_toc: "د کورنتيانو په نوم د پولوس رسول دوېم خط"
+  "JAS":
+    name: "Hakobo"
+    slug: "hakobo"
+    name_toc: "د ګلتيانو په نوم د پولوس رسول خط"
+  "1PE":
+    name: "1 Pedro"
+    slug: "1-pedro"
+    name_toc: "د اِفِسيانو په نوم د پولوس رسول خط"
+  "2PE":
+    name: "2 Pedro"
+    slug: "2-pedro"
+    name_toc: "د فيليپيانو په نوم د پولوس رسول خط"
+  "1JN":
+    name: "1 Huan"
+    slug: "1-huan"
+    name_toc: "د کولوسيانو په نوم د پولوس رسول خط"
+  "2JN":
+    name: "2 Huan"
+    slug: "2-huan"
+    name_toc: "د تِسالونيکيانو په نوم د پولوس رسول اول خط"
+  "3JN":
+    name: "3 Huan"
+    slug: "3-huan"
+    name_toc: "د تِسالونيکيانو په نوم د پولوس رسول دوېم خط"
+  "JUD":
+    name: "Hudas"
+    slug: "hudas"
+    name_toc: "د تيموتيوس په نوم د پولوس رسول اول خط"
+  "REV":
+    name: "Revelashon"
+    slug: "revelashon"
+    name_toc: "د تيموتيوس په نوم د پولوس رسول دوېم خط"

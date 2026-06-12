@@ -1,0 +1,83 @@
+language: "ubu"
+books:
+  "MAT":
+    name: "Mateyu"
+    slug: "mateyu"
+  "MRK":
+    name: "Mako"
+    slug: "mako"
+  "LUK":
+    name: "Lluku"
+    slug: "lluku"
+  "JHN":
+    name: "Jono"
+    slug: "jono"
+  "ACT":
+    name: "Lipa Mundorumu Yema"
+    slug: "lipa-mundorumu-yema"
+  "ROM":
+    name: "Romo"
+    slug: "romo"
+  "1CO":
+    name: "U-Korini"
+    slug: "u-korini"
+  "2CO":
+    name: "Pe-Korini"
+    slug: "pe-korini"
+  "GAL":
+    name: "Gallesia"
+    slug: "gallesia"
+  "EPH":
+    name: "Epesasi"
+    slug: "epesasi"
+  "PHP":
+    name: "Pillipai"
+    slug: "pillipai"
+  "COL":
+    name: "Kollosi"
+    slug: "kollosi"
+  "1TH":
+    name: "U-Tesallonaika"
+    slug: "u-tesallonaika"
+  "2TH":
+    name: "Pe-Tesallonaika"
+    slug: "pe-tesallonaika"
+  "1TI":
+    name: "U-Timoti"
+    slug: "u-timoti"
+  "2TI":
+    name: "Pe-Timoti"
+    slug: "pe-timoti"
+  "TIT":
+    name: "Taitasi"
+    slug: "taitasi"
+  "PHM":
+    name: "Pillimono"
+    slug: "pillimono"
+  "HEB":
+    name: "Ipuru"
+    slug: "ipuru"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "U-Pita"
+    slug: "u-pita"
+  "2PE":
+    name: "Pe-Pita"
+    slug: "pe-pita"
+  "1JN":
+    name: "Jono Kumbi-Lepamo"
+    slug: "jono-kumbi-lepamo"
+  "2JN":
+    name: "Jono Talo-Sipamo"
+    slug: "jono-talo-sipamo"
+  "3JN":
+    name: "Jono Yopoko-Sipamo"
+    slug: "jono-yopoko-sipamo"
+  "JUD":
+    name: "Jutu"
+    slug: "jutu"
+  "REV":
+    name: "Lipa Ora Sirimu"
+    slug: "lipa-ora-sirimu"

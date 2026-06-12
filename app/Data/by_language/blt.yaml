@@ -1,0 +1,89 @@
+language: "blt"
+books:
+  "EXO":
+    name: "ꞌPai sia ꞌmướng"
+    slug: "pai-sia-muong"
+  "RUT":
+    name: "ꞌLụt"
+    slug: "lut"
+  "MAT":
+    name: "ꞌMặt‑ꞌthai"
+    slug: "matthai"
+  "MRK":
+    name: "ꞌMa‑ꞌla‑cô"
+    slug: "malaco"
+  "LUK":
+    name: "ꞌLu‑ca"
+    slug: "luca"
+  "JHN":
+    name: "Dô‑ꞌhăn"
+    slug: "dohan"
+  "ACT":
+    name: "Nả ꞌviạk ꞌpứng ꞌlam ꞌchạư"
+    slug: "na-viak-pung-lam-chau"
+  "ROM":
+    name: "Lôm"
+    slug: "lom"
+  "1CO":
+    name: "1 Cô‑ꞌlin‑ꞌthô"
+    slug: "1-colintho"
+  "2CO":
+    name: "2 Cô‑ꞌlin‑ꞌthô"
+    slug: "2-colintho"
+  "GAL":
+    name: "ꞌKha‑ꞌla‑tia"
+    slug: "khalatia"
+  "EPH":
+    name: "Ê‑ꞌphê‑ꞌsô"
+    slug: "epheso"
+  "PHP":
+    name: "ꞌPhi‑ꞌlịp‑poi"
+    slug: "philippoi"
+  "COL":
+    name: "Cô‑ꞌlô‑ꞌsai"
+    slug: "colosai"
+  "1TH":
+    name: "1 ꞌThê‑ꞌsa‑ꞌlôn"
+    slug: "1-thesalon"
+  "2TH":
+    name: "2 ꞌThê‑ꞌsa‑ꞌlôn"
+    slug: "2-thesalon"
+  "1TI":
+    name: "1 Ti‑ꞌmô‑ꞌthiêu"
+    slug: "1-timothieu"
+  "2TI":
+    name: "2 Ti‑ꞌmô‑ꞌthiêu"
+    slug: "2-timothieu"
+  "TIT":
+    name: "Ti‑tô"
+    slug: "tito"
+  "PHM":
+    name: "ꞌPhi‑ꞌlê‑ꞌmôn"
+    slug: "philemon"
+  "HEB":
+    name: "ꞌHệp‑ꞌlơ"
+    slug: "heplo"
+  "JAS":
+    name: "Da‑cô‑bô"
+    slug: "dacobo"
+  "1PE":
+    name: "1 Pê‑tô"
+    slug: "1-peto"
+  "2PE":
+    name: "2 Pê‑tô"
+    slug: "2-peto"
+  "1JN":
+    name: "1 Dô‑ꞌhăn"
+    slug: "1-dohan"
+  "2JN":
+    name: "2 Dô‑ꞌhăn"
+    slug: "2-dohan"
+  "3JN":
+    name: "3 Dô‑ꞌhăn"
+    slug: "3-dohan"
+  "JUD":
+    name: "Du‑đe"
+    slug: "due"
+  "REV":
+    name: "Nả ꞌviạk ꞌchí ꞌchọ pên ók"
+    slug: "na-viak-chi-cho-pen-ok"

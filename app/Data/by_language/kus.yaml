@@ -1,0 +1,83 @@
+language: "kus"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Joon"
+    slug: "joon"
+  "ACT":
+    name: "Tuuma"
+    slug: "tuuma"
+  "ROM":
+    name: "Room Dim"
+    slug: "room-dim"
+  "1CO":
+    name: "1 Korint Dim"
+    slug: "1-korint-dim"
+  "2CO":
+    name: "2 Korint Dim"
+    slug: "2-korint-dim"
+  "GAL":
+    name: "Galatia Dim"
+    slug: "galatia-dim"
+  "EPH":
+    name: "Efesus Dim"
+    slug: "efesus-dim"
+  "PHP":
+    name: "Filipi Dim"
+    slug: "filipi-dim"
+  "COL":
+    name: "Kolose Dim"
+    slug: "kolose-dim"
+  "1TH":
+    name: "1 Tesalonika Dim"
+    slug: "1-tesalonika-dim"
+  "2TH":
+    name: "2 Tesalonika Dim"
+    slug: "2-tesalonika-dim"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Hibiru Dim"
+    slug: "hibiru-dim"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Joon"
+    slug: "1-joon"
+  "2JN":
+    name: "2 Joon"
+    slug: "2-joon"
+  "3JN":
+    name: "3 Joon"
+    slug: "3-joon"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "NIER PAꞌALUG"
+    slug: "nier-paalug"

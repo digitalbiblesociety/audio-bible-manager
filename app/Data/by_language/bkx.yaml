@@ -1,0 +1,5 @@
+language: "bkx"
+books:
+  "MRK":
+    name: "Naꞌ Markus"
+    slug: "na-markus"

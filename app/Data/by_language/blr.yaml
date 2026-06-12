@@ -1,0 +1,83 @@
+language: "blr"
+books:
+  "MAT":
+    name: "Mahtae"
+    slug: "mahtae"
+  "MRK":
+    name: "Makuˊ"
+    slug: "maku"
+  "LUK":
+    name: "Luˊka"
+    slug: "luka"
+  "JHN":
+    name: "Yoˊhan"
+    slug: "yohan"
+  "ACT":
+    name: "Peue caee"
+    slug: "peue-caee"
+  "ROM":
+    name: "Roˊma"
+    slug: "roma"
+  "1CO":
+    name: "1 Kawˊrinhtuˊ"
+    slug: "1-kawrinhtu"
+  "2CO":
+    name: "2 Kawˊrinhtuˊ"
+    slug: "2-kawrinhtu"
+  "GAL":
+    name: "Galatiˊ"
+    slug: "galati"
+  "EPH":
+    name: "Eˊfeˊsuˊ"
+    slug: "efesu"
+  "PHP":
+    name: "Hpiˊliˊpiˊ"
+    slug: "hpilipi"
+  "COL":
+    name: "Kawˊlawˊsaeˊ"
+    slug: "kawlawsae"
+  "1TH":
+    name: "1 Hteˊsaloˊniˊ"
+    slug: "1-htesaloni"
+  "2TH":
+    name: "2 Hteˊsaloˊniˊ"
+    slug: "2-htesaloni"
+  "1TI":
+    name: "1 Tiˊmoˊse"
+    slug: "1-timose"
+  "2TI":
+    name: "2 Tiˊmoˊse"
+    slug: "2-timose"
+  "TIT":
+    name: "Tiˊtasˊ"
+    slug: "titas"
+  "PHM":
+    name: "Hpiˊleˊmon"
+    slug: "hpilemon"
+  "HEB":
+    name: "Hebraeˊ"
+    slug: "hebrae"
+  "JAS":
+    name: "Yakopˊ"
+    slug: "yakop"
+  "1PE":
+    name: "1 Petruˊ"
+    slug: "1-petru"
+  "2PE":
+    name: "2 Petruˊ"
+    slug: "2-petru"
+  "1JN":
+    name: "1 Yoˊhan"
+    slug: "1-yohan"
+  "2JN":
+    name: "2 Yoˊhan"
+    slug: "2-yohan"
+  "3JN":
+    name: "3 Yoˊhan"
+    slug: "3-yohan"
+  "JUD":
+    name: "Yuˊda"
+    slug: "yuda"
+  "REV":
+    name: "Htawm Tuhˊ ri tuilˊ"
+    slug: "htawm-tuh-ri-tuil"

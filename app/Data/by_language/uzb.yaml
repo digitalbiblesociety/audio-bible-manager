@@ -1,0 +1,200 @@
+language: "uzb"
+books:
+  "GEN":
+    name: "Ибтидо"
+    slug: "ibtido"
+  "EXO":
+    name: "Чиқиш"
+    slug: "cikis"
+  "LEV":
+    name: "Левилар"
+    slug: "levilar"
+  "NUM":
+    name: "Саҳрода"
+    slug: "saroda"
+  "DEU":
+    name: "Қонунлар"
+    slug: "konunlar"
+  "JOS":
+    name: "Ёшуа"
+    slug: "esua"
+  "JDG":
+    name: "Ҳакамлар"
+    slug: "akamlar"
+  "RUT":
+    name: "Рут"
+    slug: "rut"
+  "1SA":
+    name: "1 Шоҳлар"
+    slug: "1-solar"
+  "2SA":
+    name: "2 Шоҳлар"
+    slug: "2-solar"
+  "1KI":
+    name: "3 Шоҳлар"
+    slug: "3-solar"
+  "2KI":
+    name: "4 Шоҳлар"
+    slug: "4-solar"
+  "1CH":
+    name: "1 Солномалар"
+    slug: "1-solnomalar"
+  "2CH":
+    name: "2 Солномалар"
+    slug: "2-solnomalar"
+  "EZR":
+    name: "Эзра"
+    slug: "ezra"
+  "NEH":
+    name: "Нахимиё"
+    slug: "nahimie"
+  "EST":
+    name: "Эстер"
+    slug: "ester"
+  "JOB":
+    name: "Аюб"
+    slug: "aub"
+  "PSA":
+    name: "Забур"
+    slug: "zabur"
+  "PRO":
+    name: "Ҳикматлар"
+    slug: "ikmatlar"
+  "ECC":
+    name: "Воиз"
+    slug: "voiz"
+  "SNG":
+    name: "Қўшиқ"
+    slug: "kusik"
+  "ISA":
+    name: "Ишаё"
+    slug: "isae"
+  "JER":
+    name: "Еремиё"
+    slug: "eremie"
+  "LAM":
+    name: "Марсия"
+    slug: "marsia"
+  "EZK":
+    name: "Ҳизқиёл"
+    slug: "izkiel"
+  "DAN":
+    name: "Дониёр"
+    slug: "donier"
+  "HOS":
+    name: "Хўшея"
+    slug: "husea"
+  "JOL":
+    name: "Йўэл"
+    slug: "juel"
+  "AMO":
+    name: "Амос"
+    slug: "amos"
+  "OBA":
+    name: "Ободиё"
+    slug: "obodie"
+  "JON":
+    name: "Юнус"
+    slug: "unus"
+  "MIC":
+    name: "Михо"
+    slug: "miho"
+  "NAM":
+    name: "Нохум"
+    slug: "nohum"
+  "HAB":
+    name: "Хабаққуқ"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Зафаниё"
+    slug: "zafanie"
+  "HAG":
+    name: "Хаггей"
+    slug: "haggej"
+  "ZEC":
+    name: "Закариё"
+    slug: "zakarie"
+  "MAL":
+    name: "Малаки"
+    slug: "malaki"
+  "MAT":
+    name: "Матто"
+    slug: "matto"
+  "MRK":
+    name: "Марк"
+    slug: "mark"
+  "LUK":
+    name: "Луқо"
+    slug: "luko"
+  "JHN":
+    name: "Юҳанно"
+    slug: "uanno"
+  "ACT":
+    name: "Ҳаворийлар"
+    slug: "avorijlar"
+  "ROM":
+    name: "Римликлар"
+    slug: "rimliklar"
+  "1CO":
+    name: "1 Коринфликлар"
+    slug: "1-korinfliklar"
+  "2CO":
+    name: "2 Коринфликлар"
+    slug: "2-korinfliklar"
+  "GAL":
+    name: "Галатияликлар"
+    slug: "galatialiklar"
+  "EPH":
+    name: "Эфесликлар"
+    slug: "efesliklar"
+  "PHP":
+    name: "Филиппиликлар"
+    slug: "filippiliklar"
+  "COL":
+    name: "Колосаликлар"
+    slug: "kolosaliklar"
+  "1TH":
+    name: "1 Салоникаликлар"
+    slug: "1-salonikaliklar"
+  "2TH":
+    name: "2 Салоникаликлар"
+    slug: "2-salonikaliklar"
+  "1TI":
+    name: "1 Тимўтий"
+    slug: "1-timutij"
+  "2TI":
+    name: "2 Тимўтий"
+    slug: "2-timutij"
+  "TIT":
+    name: "Титус"
+    slug: "titus"
+  "PHM":
+    name: "Филимўн"
+    slug: "filimun"
+  "HEB":
+    name: "Ибронийлар"
+    slug: "ibronijlar"
+  "JAS":
+    name: "Ёқуб"
+    slug: "ekub"
+  "1PE":
+    name: "1 Бутрус"
+    slug: "1-butrus"
+  "2PE":
+    name: "2 Бутрус"
+    slug: "2-butrus"
+  "1JN":
+    name: "1 Юҳанно"
+    slug: "1-uanno"
+  "2JN":
+    name: "2 Юҳанно"
+    slug: "2-uanno"
+  "3JN":
+    name: "3 Юҳанно"
+    slug: "3-uanno"
+  "JUD":
+    name: "Яҳудо"
+    slug: "audo"
+  "REV":
+    name: "Ваҳий"
+    slug: "vaij"

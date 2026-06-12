@@ -1,0 +1,314 @@
+language: "pis"
+books:
+  "GEN":
+    name: "Jenesis"
+    slug: "jenesis"
+    name_toc: "MAHENDO ya Ntumi"
+  "EXO":
+    name: "Eksodas"
+    slug: "eksodas"
+    name_toc: "Ḅaruwa ya Paulo kwa tsanganiko ḍya WARUMI"
+  "LEV":
+    name: "Levitikas"
+    slug: "levitikas"
+    name_toc: "Ḅaruwa ya d̯ura ya Paulo kwa tsanganiko ḍya WAKORINT̯O"
+  "NUM":
+    name: "Nambas"
+    slug: "nambas"
+    name_toc: "Ḅaruwa ya pfii ya Paulo kwa tsanganiko ḍya WAKORINT̯O"
+  "DEU":
+    name: "Diutronomi"
+    slug: "diutronomi"
+    name_toc: "Ḅaruwa ya Paulo kwa matsanganiko ya GALATIA"
+  "JOS":
+    name: "Josua"
+    slug: "josua"
+    name_toc: "Ḅaruwa ya Paulo kwa WAEFESO"
+  "JDG":
+    name: "Jajis"
+    slug: "jajis"
+    name_toc: "Ḅaruwa ya Paulo kwa tsanganiko ḍya WAFILIPI"
+  "RUT":
+    name: "Rut"
+    slug: "rut"
+    name_toc: "Ḅaruwa ya Paulo kwa WAKOLOSAI"
+  "1SA":
+    name: "1 Samuel"
+    slug: "1-samuel"
+    name_toc: "Ḅaruwa ya d̯ura ya Paulo kwa tsanganiko ḍya WATESALONIKE"
+  "2SA":
+    name: "2 Samuel"
+    slug: "2-samuel"
+    name_toc: "Ḅaruwa ya pfii ya Paulo kwa tsanganiko ḍya WATESALONIKE"
+  "1KI":
+    name: "1 Kings"
+    slug: "1-kings"
+    name_toc: "Ḅaruwa ya d̯ura ya Paulo kwa TIMOTEO"
+  "2KI":
+    name: "2 Kings"
+    slug: "2-kings"
+    name_toc: "Ḅaruwa ya pfii ya Paulo kwa TIMOTEO"
+  "1CH":
+    name: "1 Kronikols"
+    slug: "1-kronikols"
+    name_toc: "Ḅaruwa ya Paulo kwa TITO"
+  "2CH":
+    name: "2 Kronikols"
+    slug: "2-kronikols"
+    name_toc: "Ḅaruwa ya Paulo kwa FILEMONI"
+  "EZR":
+    name: "Esra"
+    slug: "esra"
+    name_toc: "Ḅaruwa yorejweyo kwa WAEBURANIA"
+  "NEH":
+    name: "Nehemaea"
+    slug: "nehemaea"
+    name_toc: "Ḅaruwa yorejweyo ni YAKOBO"
+  "EST":
+    name: "Esta"
+    slug: "esta"
+    name_toc: "Ḅaruwa ya d̯ura ya PET̯ERO"
+  "JOB":
+    name: "Job"
+    slug: "job"
+    name_toc: "Ḅaruwa ya pfii ya PET̯ERO"
+  "PSA":
+    name: "Sams"
+    slug: "sams"
+    name_toc: "Ḅaruwa ya d̯ura ya YOHANA"
+  "PRO":
+    name: "Provebs"
+    slug: "provebs"
+    name_toc: "Ḅaruwa ya pfii ya YOHANA"
+  "ECC":
+    name: "Eklesiastes"
+    slug: "eklesiastes"
+    name_toc: "Ḅaruwa ya hahu ya YOHANA"
+  "SNG":
+    name: "Nambawan Singsing"
+    slug: "nambawan-singsing"
+    name_toc: "Ḅaruwa yorejweyo ni YUD̯A"
+  "ISA":
+    name: "Aesaea"
+    slug: "aesaea"
+    name_toc: "Upfenuo Wa Yohana"
+  "JER":
+    name: "Jeremaea"
+    slug: "jeremaea"
+    name_toc: "Towunöt"
+  "LAM":
+    name: "Lamentesin"
+    slug: "lamentesin"
+    name_toc: "Wuwöt"
+  "EZK":
+    name: "Esikiel"
+    slug: "esikiel"
+    name_toc: "Lawin"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+    name_toc: "Kiyitut"
+  "HOS":
+    name: "Hosia"
+    slug: "hosia"
+    name_toc: "Kinono Kirurut"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+    name_toc: "Yoswö"
+  "AMO":
+    name: "Emos"
+    slug: "emos"
+    name_toc: "Kirwokï"
+  "OBA":
+    name: "Obadaea"
+    slug: "obadaea"
+    name_toc: "Rus"
+  "JON":
+    name: "Jona"
+    slug: "jona"
+    name_toc: "Samwel"
+  "MIC":
+    name: "Maeka"
+    slug: "maeka"
+    name_toc: "Samwel"
+  "NAM":
+    name: "Neiham"
+    slug: "neiham"
+    name_toc: "Pöytoghï"
+  "HAB":
+    name: "Habakuk"
+    slug: "habakuk"
+    name_toc: "Pöytoghï"
+  "ZEP":
+    name: "Sefenaea"
+    slug: "sefenaea"
+    name_toc: "Otöptino Osis"
+  "HAG":
+    name: "Hagae"
+    slug: "hagae"
+    name_toc: "Otöptino Osis"
+  "ZEC":
+    name: "Sekaraea"
+    slug: "sekaraea"
+    name_toc: "Esra"
+  "MAL":
+    name: "Malakae"
+    slug: "malakae"
+    name_toc: "Neemia"
+  "TOB":
+    name: "Tobit"
+    slug: "tobit"
+    name_toc: "Esta"
+  "JDT":
+    name: "Judit"
+    slug: "judit"
+    name_toc: "Ayupu"
+  "ESG":
+    name: "Esta Long Grik"
+    slug: "esta-long-grik"
+    name_toc: "Tumwöy"
+  "WIS":
+    name: "Waestok"
+    slug: "waestok"
+    name_toc: "Ngötïnyö"
+  "SIR":
+    name: "Sirak"
+    slug: "sirak"
+    name_toc: "Omtoghin"
+  "BAR":
+    name: "Baruk"
+    slug: "baruk"
+    name_toc: "Tum Pö Tumwöy"
+  "LJE":
+    name: "Leta blong Jeremaea"
+    slug: "leta-blong-jeremaea"
+    name_toc: "Isaya"
+  "S3Y":
+    name: "Singsing blong Trifala Yangman"
+    slug: "singsing-blong-trifala-yangman"
+    name_toc: "Yeremia"
+  "SUS":
+    name: "Susana"
+    slug: "susana"
+    name_toc: "Lok"
+  "BEL":
+    name: "Bel an Draegon"
+    slug: "bel-an-draegon"
+    name_toc: "Esekel"
+  "1MA":
+    name: "1 Makabi"
+    slug: "1-makabi"
+    name_toc: "Daniel"
+  "2MA":
+    name: "2 Makabi"
+    slug: "2-makabi"
+    name_toc: "Osea"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+    name_toc: "Yoel"
+  "MRK":
+    name: "Mak"
+    slug: "mak"
+    name_toc: "Amos"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+    name_toc: "Opadia"
+  "JHN":
+    name: "Jon"
+    slug: "jon"
+    name_toc: "Yona"
+  "ACT":
+    name: "Aposol"
+    slug: "aposol"
+    name_toc: "Mika"
+  "ROM":
+    name: "Rom"
+    slug: "rom"
+    name_toc: "Naum"
+  "1CO":
+    name: "1 Korin"
+    slug: "1-korin"
+    name_toc: "Apakuk"
+  "2CO":
+    name: "2 Korin"
+    slug: "2-korin"
+    name_toc: "Sepania"
+  "GAL":
+    name: "Galesia"
+    slug: "galesia"
+    name_toc: "Akay"
+  "EPH":
+    name: "Efesas"
+    slug: "efesas"
+    name_toc: "Sakaria"
+  "PHP":
+    name: "Filipae"
+    slug: "filipae"
+    name_toc: "Malaki"
+  "COL":
+    name: "Kolosi"
+    slug: "kolosi"
+    name_toc: "Matayo"
+  "1TH":
+    name: "1 Tesalonaeka"
+    slug: "1-tesalonaeka"
+    name_toc: "Marko"
+  "2TH":
+    name: "2 Tesalonaeka"
+    slug: "2-tesalonaeka"
+    name_toc: "Luka"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Yoana"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Ighisyewut"
+  "TIT":
+    name: "Taetas"
+    slug: "taetas"
+    name_toc: "Rumi"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Korinto"
+  "HEB":
+    name: "Hibrus"
+    slug: "hibrus"
+    name_toc: "Korinto"
+  "JAS":
+    name: "Jemes"
+    slug: "jemes"
+    name_toc: "Kalatia"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+    name_toc: "Epeso"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+    name_toc: "Pilipi"
+  "1JN":
+    name: "1 Jon"
+    slug: "1-jon"
+    name_toc: "Kolosay"
+  "2JN":
+    name: "2 Jon"
+    slug: "2-jon"
+    name_toc: "Tesalonike"
+  "3JN":
+    name: "3 Jon"
+    slug: "3-jon"
+    name_toc: "Tesalonike"
+  "JUD":
+    name: "Jiud"
+    slug: "jiud"
+    name_toc: "Timoteo"
+  "REV":
+    name: "Revelesin"
+    slug: "revelesin"
+    name_toc: "Timoteo"

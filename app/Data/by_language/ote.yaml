@@ -1,0 +1,83 @@
+language: "ote"
+books:
+  "MAT":
+    name: "Nsan Mateo"
+    slug: "nsan-mateo"
+  "MRK":
+    name: "Nsan Marco"
+    slug: "nsan-marco"
+  "LUK":
+    name: "Nsan Luca"
+    slug: "nsan-luca"
+  "JHN":
+    name: "Nsanjua"
+    slug: "nsanjua"
+  "ACT":
+    name: "Ra Echo"
+    slug: "ra-echo"
+  "ROM":
+    name: "Ra Romanu"
+    slug: "ra-romanu"
+  "1CO":
+    name: "Rá Mʉdi Ra Corintio"
+    slug: "ra-mudi-ra-corintio"
+  "2CO":
+    name: "Rá Ñoho Ra Corintio"
+    slug: "ra-noho-ra-corintio"
+  "GAL":
+    name: "Ra Galata"
+    slug: "ra-galata"
+  "EPH":
+    name: "Ra Efesio"
+    slug: "ra-efesio"
+  "PHP":
+    name: "Ra Filipense"
+    slug: "ra-filipense"
+  "COL":
+    name: "Ra Colosense"
+    slug: "ra-colosense"
+  "1TH":
+    name: "Rá Mʉdi Ra Tesalonicense"
+    slug: "ra-mudi-ra-tesalonicense"
+  "2TH":
+    name: "Rá Ñoho Ra Tesalonicense"
+    slug: "ra-noho-ra-tesalonicense"
+  "1TI":
+    name: "Rá Mʉdi Ra Timoteo"
+    slug: "ra-mudi-ra-timoteo"
+  "2TI":
+    name: "Rá Ñoho Ra Timoteo"
+    slug: "ra-noho-ra-timoteo"
+  "TIT":
+    name: "Ra Tito"
+    slug: "ra-tito"
+  "PHM":
+    name: "Ra Filemón"
+    slug: "ra-filemon"
+  "HEB":
+    name: "Ra Ebreo"
+    slug: "ra-ebreo"
+  "JAS":
+    name: "Ra Santiago"
+    slug: "ra-santiago"
+  "1PE":
+    name: "Rá Mʉdi Ra Pedro"
+    slug: "ra-mudi-ra-pedro"
+  "2PE":
+    name: "Rá Ñoho Ra Pedro"
+    slug: "ra-noho-ra-pedro"
+  "1JN":
+    name: "Rá Mʉdi Ra Xuua"
+    slug: "ra-mudi-ra-xuua"
+  "2JN":
+    name: "Rá Ñoho Ra Xuua"
+    slug: "ra-noho-ra-xuua"
+  "3JN":
+    name: "Rá Hñu Ra Xuua"
+    slug: "ra-hnu-ra-xuua"
+  "JUD":
+    name: "Ra Juda"
+    slug: "ra-juda"
+  "REV":
+    name: "Ra Apocalipsi"
+    slug: "ra-apocalipsi"

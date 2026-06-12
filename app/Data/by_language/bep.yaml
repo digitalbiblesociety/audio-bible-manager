@@ -1,0 +1,98 @@
+language: "bep"
+books:
+  "GEN":
+    name: "Pewaliꞌána"
+    slug: "pewaliana"
+  "RUT":
+    name: "Ruti"
+    slug: "ruti"
+  "EST":
+    name: "Eteꞌ"
+    slug: "ete"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+  "JON":
+    name: "Iunu"
+    slug: "iunu"
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Marakusi"
+    slug: "marakusi"
+  "LUK":
+    name: "Lukasi"
+    slug: "lukasi"
+  "JHN":
+    name: "Iohane"
+    slug: "iohane"
+  "ACT":
+    name: "Surona Pueꞌ Iesu"
+    slug: "surona-pue-iesu"
+  "ROM":
+    name: "Roma"
+    slug: "roma"
+  "1CO":
+    name: "1 Korintu"
+    slug: "1-korintu"
+  "2CO":
+    name: "2 Korintu"
+    slug: "2-korintu"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Epesu"
+    slug: "epesu"
+  "PHP":
+    name: "Pilipi"
+    slug: "pilipi"
+  "COL":
+    name: "Kolose"
+    slug: "kolose"
+  "1TH":
+    name: "1 Tesalonika"
+    slug: "1-tesalonika"
+  "2TH":
+    name: "2 Tesalonika"
+    slug: "2-tesalonika"
+  "1TI":
+    name: "1 Timotiu"
+    slug: "1-timotiu"
+  "2TI":
+    name: "2 Timotiu"
+    slug: "2-timotiu"
+  "TIT":
+    name: "Titu"
+    slug: "titu"
+  "PHM":
+    name: "Pilemo"
+    slug: "pilemo"
+  "HEB":
+    name: "Iberani"
+    slug: "iberani"
+  "JAS":
+    name: "Iakobu"
+    slug: "iakobu"
+  "1PE":
+    name: "1 Peturuꞌ"
+    slug: "1-peturu"
+  "2PE":
+    name: "2 Peturuꞌ"
+    slug: "2-peturu"
+  "1JN":
+    name: "1 Iohane"
+    slug: "1-iohane"
+  "2JN":
+    name: "2 Iohane"
+    slug: "2-iohane"
+  "3JN":
+    name: "3 Iohane"
+    slug: "3-iohane"
+  "JUD":
+    name: "Iudasiꞌ"
+    slug: "iudasi"
+  "REV":
+    name: "Pampetudeꞌá"
+    slug: "pampetudea"

@@ -1,0 +1,110 @@
+language: "vun"
+books:
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "Esitele"
+  "MRK":
+    name: "Mariko"
+    slug: "mariko"
+    name_toc: "Sopo"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Pesalemo"
+  "JHN":
+    name: "Yohane"
+    slug: "yohane"
+    name_toc: "Taaga Lea"
+  "ACT":
+    name: "Mawuto Ga Wasu"
+    slug: "mawuto-ga-wasu"
+    name_toc: "Ekelesiasi"
+  "ROM":
+    name: "Waroma"
+    slug: "waroma"
+    name_toc: "Katiko O Te U Katiko"
+  "1CO":
+    name: "1 Wakorinto"
+    slug: "1-wakorinto"
+    name_toc: "Esaia"
+  "2CO":
+    name: "2 Wakorinto"
+    slug: "2-wakorinto"
+    name_toc: "Selemia"
+  "GAL":
+    name: "Wagalatia"
+    slug: "wagalatia"
+    name_toc: "Tagi Laulau A Selemia"
+  "EPH":
+    name: "Wafilyipi"
+    slug: "wafilyipi"
+    name_toc: "Esekiele"
+  "PHP":
+    name: "Waefeso"
+    slug: "waefeso"
+    name_toc: "Taniela"
+  "COL":
+    name: "Wakolosai"
+    slug: "wakolosai"
+    name_toc: "Oseo"
+  "1TH":
+    name: "1 Watesalonikye"
+    slug: "1-watesalonikye"
+    name_toc: "Soele"
+  "2TH":
+    name: "2 Watesalonikye"
+    slug: "2-watesalonikye"
+    name_toc: "Amosi"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Apetiasi"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Sonasi"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Mikea"
+  "PHM":
+    name: "Filemon"
+    slug: "filemon"
+    name_toc: "Naume"
+  "HEB":
+    name: "Waebrania"
+    slug: "waebrania"
+    name_toc: "Hapakuke"
+  "JAS":
+    name: "Yakobo"
+    slug: "yakobo"
+    name_toc: "Sofoni"
+  "1PE":
+    name: "1 Petiro"
+    slug: "1-petiro"
+    name_toc: "Akeseo"
+  "2PE":
+    name: "2 Petiro"
+    slug: "2-petiro"
+    name_toc: "Sakalia"
+  "1JN":
+    name: "1 Yohane"
+    slug: "1-yohane"
+    name_toc: "Malakia"
+  "2JN":
+    name: "2 Yohane"
+    slug: "2-yohane"
+    name_toc: "Evaselio A Mateo"
+  "3JN":
+    name: "3 Yohane"
+    slug: "3-yohane"
+    name_toc: "Evaselio A Maleko"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Evaselio A Luka"
+  "REV":
+    name: "Ulogo"
+    slug: "ulogo"
+    name_toc: "Evaselio A Soane"

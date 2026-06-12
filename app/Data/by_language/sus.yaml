@@ -1,0 +1,200 @@
+language: "sus"
+books:
+  "GEN":
+    name: "قٍ قْلْ قْلّ"
+    slug: "q-ql-ql"
+  "EXO":
+    name: "يّتّ سْتْي"
+    slug: "yt-sty"
+  "LEV":
+    name: "لٍوِ سّرّشّدُبّ"
+    slug: "lw-srshdb"
+  "NUM":
+    name: "كْنتِ تِقٍ"
+    slug: "knt-tq"
+  "DEU":
+    name: "مَسٍنيِ دْنشْي"
+    slug: "msny-dnshy"
+  "JOS":
+    name: "يٌسُوٍ"
+    slug: "ysw"
+  "JDG":
+    name: "كِيتِسَيٍ"
+    slug: "ketsy"
+  "RUT":
+    name: "رُتِ شَ تَرُشُي"
+    slug: "rt-sh-trshy"
+  "1SA":
+    name: "سَمُوٍلِ ١"
+    slug: "smwl"
+  "2SA":
+    name: "سَمُوٍلِ ٢"
+    slug: "smwl"
+  "1KI":
+    name: "عِسِرَيِلَ مَنفّيٍ ١"
+    slug: "asryl-mnfy"
+  "2KI":
+    name: "عِسِرَيِلَ مَنفّيٍ ٢"
+    slug: "asryl-mnfy"
+  "1CH":
+    name: "يُدَيَ مَنفّيٍ ١"
+    slug: "ydy-mnfy"
+  "2CH":
+    name: "يُدَيَ مَنفّيٍ ٢"
+    slug: "ydy-mnfy"
+  "EZR":
+    name: "عَننَبِ عٍسِدِرَ سِ"
+    slug: "annb-asdrs"
+  "NEH":
+    name: "عَننَبِ نٍهٍمِ"
+    slug: "annb-nhm"
+  "EST":
+    name: "عٍسِتَ شَ تَرُشُي"
+    slug: "ast-sh-trshy"
+  "JOB":
+    name: "عَيُبَ"
+    slug: "ayb"
+  "PSA":
+    name: "يَبُرَ"
+    slug: "ybr"
+  "PRO":
+    name: "تَالِيٍ"
+    slug: "tailee"
+  "ECC":
+    name: "كَوَندِلَ"
+    slug: "kwndl"
+  "SNG":
+    name: "سُوكِ"
+    slug: "suk"
+  "ISA":
+    name: "عَننَبِ عٍسَيِ"
+    slug: "annb-asy"
+  "JER":
+    name: "عَننَبِ يٍرٍ مِ"
+    slug: "annb-yrm"
+  "LAM":
+    name: "عَننَبِ يٍرٍ مِ قِرِن ندٍ"
+    slug: "annb-yrm-qrn-nd"
+  "EZK":
+    name: "عَننَبِ عٍسٍكِيٍلِ"
+    slug: "annb-askyl"
+  "DAN":
+    name: "عَننَبِ دَنِيّلِ"
+    slug: "annb-dnyl"
+  "HOS":
+    name: "عَننَبِ هٌسٍ"
+    slug: "annb-hs"
+  "JOL":
+    name: "عَننَبِ يٌوٍلِ"
+    slug: "annb-ywl"
+  "AMO":
+    name: "عَننَبِ عَمٌسِ"
+    slug: "annb-ams"
+  "OBA":
+    name: "عَننَبِ عَبَدِيَسِ"
+    slug: "annb-abdys"
+  "JON":
+    name: "عَننَبِ يُنُسَ"
+    slug: "annb-yns"
+  "MIC":
+    name: "عَننَبِ مِكَ"
+    slug: "annb-mk"
+  "NAM":
+    name: "عَننَبِ نَشُمُ"
+    slug: "annb-nshm"
+  "HAB":
+    name: "عَننَبِ هَبَكُكُ"
+    slug: "annb-hbkk"
+  "ZEP":
+    name: "عَننَبِ سٌقٌنِ"
+    slug: "annb-sqn"
+  "HAG":
+    name: "عَننَبِ هَفٍ"
+    slug: "annb-hf"
+  "ZEC":
+    name: "عَننَبِ سَكَرِ"
+    slug: "annb-skr"
+  "MAL":
+    name: "عَننَبِ مَلَكِ"
+    slug: "annb-mlk"
+  "MAT":
+    name: "مَتِيُ"
+    slug: "mty"
+  "MRK":
+    name: "مَرَكِ"
+    slug: "mrk"
+  "LUK":
+    name: "لُكِ"
+    slug: "lk"
+  "JHN":
+    name: "يَيَ"
+    slug: "yi"
+  "ACT":
+    name: "شّيرَيٍ شَ تَرُشُي"
+    slug: "shyry-sh-trshy"
+  "ROM":
+    name: "رْ مَ"
+    slug: "rm"
+  "1CO":
+    name: "كٌرِنتِ عِ"
+    slug: "krnt-a"
+  "2CO":
+    name: "كٌرِنتِ عِِ"
+    slug: "krnt-a"
+  "GAL":
+    name: "فَلَتِ"
+    slug: "flt"
+  "EPH":
+    name: "عٍقّسّ"
+    slug: "aqs"
+  "PHP":
+    name: "قِلِثِ"
+    slug: "qlth"
+  "COL":
+    name: "كْلْسِ"
+    slug: "kls"
+  "1TH":
+    name: "تّسَلٌنِكِ عِ"
+    slug: "tslnk-a"
+  "2TH":
+    name: "تّسَلٌنِكِ عِِ"
+    slug: "tslnk-a"
+  "1TI":
+    name: "تِمٌتٍ عِ"
+    slug: "tmt-a"
+  "2TI":
+    name: "تِمٌتٍ عِِ"
+    slug: "tmt-a"
+  "TIT":
+    name: "تِتٌ"
+    slug: "tt"
+  "PHM":
+    name: "قِلٍمٌن"
+    slug: "qlmn"
+  "HEB":
+    name: "عٍبُرُ"
+    slug: "abr"
+  "JAS":
+    name: "يَكِ"
+    slug: "ik"
+  "1PE":
+    name: "ثِيّرِ عِ"
+    slug: "thyr-a"
+  "2PE":
+    name: "ثِيّرِ عِِ"
+    slug: "thyr-a"
+  "1JN":
+    name: "يَيَ عِ"
+    slug: "iy-a"
+  "2JN":
+    name: "يَيَ عِِ"
+    slug: "iy-a"
+  "3JN":
+    name: "يَيَ عِِِ"
+    slug: "iy-a"
+  "JUD":
+    name: "يُدٍ"
+    slug: "yd"
+  "REV":
+    name: "وَشَيِ"
+    slug: "wshy"

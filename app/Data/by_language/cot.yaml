@@ -1,0 +1,83 @@
+language: "cot"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Maricoshi"
+    slug: "maricoshi"
+  "LUK":
+    name: "Irocashi"
+    slug: "irocashi"
+  "JHN":
+    name: "Joanca"
+    slug: "joanca"
+  "ACT":
+    name: "Yantajiguica"
+    slug: "yantajiguica"
+  "ROM":
+    name: "Iromaquitica"
+    slug: "iromaquitica"
+  "1CO":
+    name: "1 Corintoquitica"
+    slug: "1-corintoquitica"
+  "2CO":
+    name: "2 Corintoquitica"
+    slug: "2-corintoquitica"
+  "GAL":
+    name: "Garashiaquitica"
+    slug: "garashiaquitica"
+  "EPH":
+    name: "Epesoquitica"
+    slug: "epesoquitica"
+  "PHP":
+    name: "Piripoquitica"
+    slug: "piripoquitica"
+  "COL":
+    name: "Corosaquitica"
+    slug: "corosaquitica"
+  "1TH":
+    name: "1 Tesaronicaquitica"
+    slug: "1-tesaronicaquitica"
+  "2TH":
+    name: "2 Tesaronicaquitica"
+    slug: "2-tesaronicaquitica"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Piremoni"
+    slug: "piremoni"
+  "HEB":
+    name: "Evereojia"
+    slug: "evereojia"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Peerero"
+    slug: "1-peerero"
+  "2PE":
+    name: "2 Peerero"
+    slug: "2-peerero"
+  "1JN":
+    name: "1 Joanca"
+    slug: "1-joanca"
+  "2JN":
+    name: "2 Joanca"
+    slug: "2-joanca"
+  "3JN":
+    name: "3 Joanca"
+    slug: "3-joanca"
+  "JUD":
+    name: "Jorashi"
+    slug: "jorashi"
+  "REV":
+    name: "Yonigaajiguequerica Joanca"
+    slug: "yonigaajiguequerica-joanca"

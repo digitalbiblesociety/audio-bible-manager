@@ -1,0 +1,83 @@
+language: "kma"
+books:
+  "MAT":
+    name: "Matiwo"
+    slug: "matiwo"
+  "MRK":
+    name: "Maki"
+    slug: "maki"
+  "LUK":
+    name: "Luki"
+    slug: "luki"
+  "JHN":
+    name: "Jɔɔn"
+    slug: "jn"
+  "ACT":
+    name: "Tʋʋma"
+    slug: "tma"
+  "ROM":
+    name: "Romi vuosi"
+    slug: "romi-vuosi"
+  "1CO":
+    name: "1 Korinti Vuosi"
+    slug: "1-korinti-vuosi"
+  "2CO":
+    name: "2 Korinti Vuosi"
+    slug: "2-korinti-vuosi"
+  "GAL":
+    name: "Galasia Vuosi"
+    slug: "galasia-vuosi"
+  "EPH":
+    name: "Efesusi Vuosi"
+    slug: "efesusi-vuosi"
+  "PHP":
+    name: "Filipi Vuosi"
+    slug: "filipi-vuosi"
+  "COL":
+    name: "Kolosia Vuosi"
+    slug: "kolosia-vuosi"
+  "1TH":
+    name: "1 Tesalonika Vuosi"
+    slug: "1-tesalonika-vuosi"
+  "2TH":
+    name: "2 Tesalonika Vuosi"
+    slug: "2-tesalonika-vuosi"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Tatusi"
+    slug: "tatusi"
+  "PHM":
+    name: "Filimoni"
+    slug: "filimoni"
+  "HEB":
+    name: "Hiiburu Vuosi"
+    slug: "hiiburu-vuosi"
+  "JAS":
+    name: "Jemisi"
+    slug: "jemisi"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jɔɔn"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔɔn"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔɔn"
+    slug: "3-jn"
+  "JUD":
+    name: "Juudi"
+    slug: "juudi"
+  "REV":
+    name: "Yuoridagɩŋ"
+    slug: "yuoridagn"

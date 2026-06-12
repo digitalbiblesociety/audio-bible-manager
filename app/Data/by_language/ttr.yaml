@@ -1,0 +1,110 @@
+language: "ttr"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+    name_toc: "Kefder Maga Pol Äo' Ne Tid Mono"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+    name_toc: "KEFDER MAGA POL ÄO' NE FILEMOÑ mono"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "Kefder Maga A Äo'ne Jar Hebre Wo Mono"
+  "JHN":
+    name: "Yokhana"
+    slug: "yokhana"
+    name_toc: "Kefder Maga Jag Yer Ne Mono"
+  "ACT":
+    name: "Tlu̱nar ɓu̱ Pudeku"
+    slug: "tlunar-u-pudeku"
+    name_toc: "Kefder Ma Tañgu Maga Piyer Yer Ne Mono"
+  "ROM":
+    name: "Romeku"
+    slug: "romeku"
+    name_toc: "KEFDER MAA DE ÄOG MAGA PIYER YER NE mono"
+  "1CO":
+    name: "1 Korintiyeku"
+    slug: "1-korintiyeku"
+    name_toc: "Kefder Maa Tangu Maga Jañ Yer Ne Mono"
+  "2CO":
+    name: "2 Korintiyeku"
+    slug: "2-korintiyeku"
+    name_toc: "Kefder Maa De Äog Maga Jañ Yer Ne Mono"
+  "GAL":
+    name: "Galatiyeku"
+    slug: "galatiyeku"
+    name_toc: "Kefder Maa De Swa' Maga Jañ Yer Ne Mono"
+  "EPH":
+    name: "Afiseku"
+    slug: "afiseku"
+    name_toc: "KEFDER MAGA JUD YER NE mono"
+  "PHP":
+    name: "Filipiyeku"
+    slug: "filipiyeku"
+    name_toc: "Waçaçre Maga Yeso Naa Nen Äe Go Ne Jañ Mono"
+  "COL":
+    name: "Kolosiyeku"
+    slug: "kolosiyeku"
+    name_toc: "Akisiakinet"
+  "1TH":
+    name: "1 Tasalonikeku"
+    slug: "1-tasalonikeku"
+    name_toc: "Apudunet"
+  "2TH":
+    name: "2 Tasalonikeku"
+    slug: "2-tasalonikeku"
+    name_toc: "Ngilawi"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+    name_toc: "Ekimar"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+    name_toc: "Akitamunet A Etal"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+    name_toc: "Yochua"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+    name_toc: "Ngikatubok Ngakiro"
+  "HEB":
+    name: "Yibraniyeku"
+    slug: "yibraniyeku"
+    name_toc: "Rus"
+  "JAS":
+    name: "Yaqub"
+    slug: "yaqub"
+    name_toc: "1 Samuel"
+  "1PE":
+    name: "1 Biturus"
+    slug: "1-biturus"
+    name_toc: "2 Samuel"
+  "2PE":
+    name: "2 Bitu̱rus"
+    slug: "2-biturus"
+    name_toc: "1 Ngikapolok"
+  "1JN":
+    name: "1 Yokhana"
+    slug: "1-yokhana"
+    name_toc: "2 Ngikapolok"
+  "2JN":
+    name: "2 Yokhana"
+    slug: "2-yokhana"
+    name_toc: "1 Ngakiro A Ngirwa"
+  "3JN":
+    name: "3 Yokhana"
+    slug: "3-yokhana"
+    name_toc: "2 Ngakiro A Ngirwa"
+  "JUD":
+    name: "Yakhuda"
+    slug: "yakhuda"
+    name_toc: "Esira"
+  "REV":
+    name: "Ɗyin mbu̱ tukari"
+    slug: "yin-mbu-tukari"
+    name_toc: "Neemia"

@@ -1,0 +1,83 @@
+language: "ese"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Macoso"
+    slug: "macoso"
+  "LUK":
+    name: "Noca"
+    slug: "noca"
+  "JHN":
+    name: "Huani"
+    slug: "huani"
+  "ACT":
+    name: "Hecho"
+    slug: "hecho"
+  "ROM":
+    name: "Shomano"
+    slug: "shomano"
+  "1CO":
+    name: "1 Conitio"
+    slug: "1-conitio"
+  "2CO":
+    name: "2 Conitio"
+    slug: "2-conitio"
+  "GAL":
+    name: "Janata"
+    slug: "janata"
+  "EPH":
+    name: "Epesio"
+    slug: "epesio"
+  "PHP":
+    name: "Pinipese"
+    slug: "pinipese"
+  "COL":
+    name: "Conosenese"
+    slug: "conosenese"
+  "1TH":
+    name: "1 Tesanonisese"
+    slug: "1-tesanonisese"
+  "2TH":
+    name: "2 Tesanonisese"
+    slug: "2-tesanonisese"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Pinemo"
+    slug: "pinemo"
+  "HEB":
+    name: "Emeo"
+    slug: "emeo"
+  "JAS":
+    name: "Santiaco"
+    slug: "santiaco"
+  "1PE":
+    name: "1 Peno"
+    slug: "1-peno"
+  "2PE":
+    name: "2 Peno"
+    slug: "2-peno"
+  "1JN":
+    name: "1 Huani"
+    slug: "1-huani"
+  "2JN":
+    name: "2 Huani"
+    slug: "2-huani"
+  "3JN":
+    name: "3 Huani"
+    slug: "3-huani"
+  "JUD":
+    name: "Jode"
+    slug: "jode"
+  "REV":
+    name: "Apocanisi"
+    slug: "apocanisi"

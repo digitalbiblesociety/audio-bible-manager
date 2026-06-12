@@ -1,0 +1,89 @@
+language: "yon"
+books:
+  "GEN":
+    name: "Andowoon"
+    slug: "andowoon"
+  "PSA":
+    name: "Yook"
+    slug: "yook"
+  "MAT":
+    name: "Matyu"
+    slug: "matyu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yoon"
+    slug: "yoon"
+  "ACT":
+    name: "Kwamiwen"
+    slug: "kwamiwen"
+  "ROM":
+    name: "Romdan"
+    slug: "romdan"
+  "1CO":
+    name: "1 Korindan"
+    slug: "1-korindan"
+  "2CO":
+    name: "2 Korindan"
+    slug: "2-korindan"
+  "GAL":
+    name: "Galasiadan"
+    slug: "galasiadan"
+  "EPH":
+    name: "Efesusdan"
+    slug: "efesusdan"
+  "PHP":
+    name: "Filipaidan"
+    slug: "filipaidan"
+  "COL":
+    name: "Kolosedan"
+    slug: "kolosedan"
+  "1TH":
+    name: "1 Tesalonaikadan"
+    slug: "1-tesalonaikadan"
+  "2TH":
+    name: "2 Tesalonaikadan"
+    slug: "2-tesalonaikadan"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taitus"
+    slug: "taitus"
+  "PHM":
+    name: "Failimon"
+    slug: "failimon"
+  "HEB":
+    name: "Hibrudan"
+    slug: "hibrudan"
+  "JAS":
+    name: "Yems"
+    slug: "yems"
+  "1PE":
+    name: "1 Pita"
+    slug: "1-pita"
+  "2PE":
+    name: "2 Pita"
+    slug: "2-pita"
+  "1JN":
+    name: "1 Yoon"
+    slug: "1-yoon"
+  "2JN":
+    name: "2 Yoon"
+    slug: "2-yoon"
+  "3JN":
+    name: "3 Yoon"
+    slug: "3-yoon"
+  "JUD":
+    name: "Jud"
+    slug: "jud"
+  "REV":
+    name: "Korokboon"
+    slug: "korokboon"

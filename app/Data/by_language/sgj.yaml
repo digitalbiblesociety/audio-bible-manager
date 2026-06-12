@@ -1,0 +1,110 @@
+language: "sgj"
+books:
+  "MAT":
+    name: "मत्ती"
+    slug: "matti"
+    name_toc: "Gwøøg Tyëngwöödø"
+  "MRK":
+    name: "मरकुस"
+    slug: "marakusa"
+    name_toc: "Tyëng Römɑ̀"
+  "LUK":
+    name: "लूका"
+    slug: "luka"
+    name_toc: "Kyeel Wɑ̈jji Tyëng Körintøs"
+  "JHN":
+    name: "यूहन्ना"
+    slug: "yuhanna"
+    name_toc: "Ryeew Wɑ̈jji Tyëng Körintøs"
+  "ACT":
+    name: "परेरीत"
+    slug: "parerita"
+    name_toc: "Tyëng Gɑlɑthiyɑ̀"
+  "ROM":
+    name: "रोमी"
+    slug: "romi"
+    name_toc: "Tyëng Epɑsos"
+  "1CO":
+    name: "1 कुरिन्थी"
+    slug: "1-kurinthi"
+    name_toc: "Tyëng Pïlïpì"
+  "2CO":
+    name: "2 कुरिन्थी"
+    slug: "2-kurinthi"
+    name_toc: "Tyëng Kölösì"
+  "GAL":
+    name: "गलाती"
+    slug: "galati"
+    name_toc: "Kyeel Wɑ̈jji Tyëng Tesɑlonikɑ̀"
+  "EPH":
+    name: "इफिसी"
+    slug: "iphisi"
+    name_toc: "Ryeew Wɑ̈jji Tyëng Tesɑlonikɑ̀"
+  "PHP":
+    name: "फिलिप्पी"
+    slug: "philippi"
+    name_toc: "Kyeel Wɑ̈jji Timøthì"
+  "COL":
+    name: "कुलुस्सी"
+    slug: "kulussi"
+    name_toc: "Ryeew Wɑ̈jji Timøthì"
+  "1TH":
+    name: "1 थिस्सलुनी"
+    slug: "1-thissaluni"
+    name_toc: "Tïtø"
+  "2TH":
+    name: "2 थिस्सलुनी"
+    slug: "2-thissaluni"
+    name_toc: "Pilimøn"
+  "1TI":
+    name: "1 तीमुथियुस"
+    slug: "1-timuthiyusa"
+    name_toc: "Tyëng Ibru"
+  "2TI":
+    name: "2 तीमुथियुस"
+    slug: "2-timuthiyusa"
+    name_toc: "Yɑgob"
+  "TIT":
+    name: "तीतुस"
+    slug: "titusa"
+    name_toc: "Kyeel Wɑ̈jj-ɑ Ágwed yi Pïtør"
+  "PHM":
+    name: "फिलेमोन"
+    slug: "philemona"
+    name_toc: "Ryeew Wɑ̈jj-ɑ Ágwed yi Pïtør"
+  "HEB":
+    name: "इबरानी"
+    slug: "ibarani"
+    name_toc: "Kyeel Wɑ̈jj-ɑ Ágwed yi Jøn"
+  "JAS":
+    name: "याकूब"
+    slug: "yakuba"
+    name_toc: "Ryeew Wɑ̈jj-ɑ Ágwed yi Jøn"
+  "1PE":
+    name: "1 पतरस"
+    slug: "1-patarasa"
+    name_toc: "Dɑ̈ɑ̈g Wɑ̈jj-ɑ Ágwed yi Jøn"
+  "2PE":
+    name: "2 पतरस"
+    slug: "2-patarasa"
+    name_toc: "Yeudɑ̀"
+  "1JN":
+    name: "1 यूहन्ना"
+    slug: "1-yuhanna"
+    name_toc: "Møg-ɑ Ányudhi Jøn"
+  "2JN":
+    name: "2 यूहन्ना"
+    slug: "2-yuhanna"
+    name_toc: "ငဝ်ႈ/ၵမ်ႇၽႃႇ/"
+  "3JN":
+    name: "3 यूहन्ना"
+    slug: "3-yuhanna"
+    name_toc: "ၵျၢမ်း/ဢွၵ်ႇၵႂႃႇ/"
+  "JUD":
+    name: "यहूदा"
+    slug: "yahuda"
+    name_toc: "ႁဵတ်း/ဝၢတ်ႈ/"
+  "REV":
+    name: "परकासितवाक्य"
+    slug: "parakasitavakya"
+    name_toc: "ယူႇ/ၼႂ်း/ထိူၼ်ႇ/"

@@ -1,0 +1,200 @@
+language: "kos"
+books:
+  "GEN":
+    name: "Genesis"
+    slug: "genesis"
+  "EXO":
+    name: "Exodus"
+    slug: "exodus"
+  "LEV":
+    name: "Leviticus"
+    slug: "leviticus"
+  "NUM":
+    name: "Oekyuk"
+    slug: "oekyuk"
+  "DEU":
+    name: "Deuteronomy"
+    slug: "deuteronomy"
+  "JOS":
+    name: "Joshua"
+    slug: "joshua"
+  "JDG":
+    name: "Mwet Nununku"
+    slug: "mwet-nununku"
+  "RUT":
+    name: "Ruth"
+    slug: "ruth"
+  "1SA":
+    name: "Sie Samuel"
+    slug: "sie-samuel"
+  "2SA":
+    name: "Luo Samuel"
+    slug: "luo-samuel"
+  "1KI":
+    name: "Sie Tokosra"
+    slug: "sie-tokosra"
+  "2KI":
+    name: "Luo Tokosra"
+    slug: "luo-tokosra"
+  "1CH":
+    name: "Sie Chronicle"
+    slug: "sie-chronicle"
+  "2CH":
+    name: "Luo Chronicle"
+    slug: "luo-chronicle"
+  "EZR":
+    name: "Ezra"
+    slug: "ezra"
+  "NEH":
+    name: "Nehemiah"
+    slug: "nehemiah"
+  "EST":
+    name: "Esther"
+    slug: "esther"
+  "JOB":
+    name: "Job"
+    slug: "job"
+  "PSA":
+    name: "Psalm"
+    slug: "psalm"
+  "PRO":
+    name: "Soakas"
+    slug: "soakas"
+  "ECC":
+    name: "Ecclesiastes"
+    slug: "ecclesiastes"
+  "SNG":
+    name: "On Lal Solomon"
+    slug: "on-lal-solomon"
+  "ISA":
+    name: "Isaiah"
+    slug: "isaiah"
+  "JER":
+    name: "Jeremiah"
+    slug: "jeremiah"
+  "LAM":
+    name: "Eoksra"
+    slug: "eoksra"
+  "EZK":
+    name: "Ezekiel"
+    slug: "ezekiel"
+  "DAN":
+    name: "Daniel"
+    slug: "daniel"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+  "JOL":
+    name: "Joel"
+    slug: "joel"
+  "AMO":
+    name: "Amos"
+    slug: "amos"
+  "OBA":
+    name: "Obadiah"
+    slug: "obadiah"
+  "JON":
+    name: "Jonah"
+    slug: "jonah"
+  "MIC":
+    name: "Micah"
+    slug: "micah"
+  "NAM":
+    name: "Nahum"
+    slug: "nahum"
+  "HAB":
+    name: "Habakkuk"
+    slug: "habakkuk"
+  "ZEP":
+    name: "Zephaniah"
+    slug: "zephaniah"
+  "HAG":
+    name: "Haggai"
+    slug: "haggai"
+  "ZEC":
+    name: "Zechariah"
+    slug: "zechariah"
+  "MAL":
+    name: "Malachi"
+    slug: "malachi"
+  "MAT":
+    name: "Matthew"
+    slug: "matthew"
+  "MRK":
+    name: "Mark"
+    slug: "mark"
+  "LUK":
+    name: "Luke"
+    slug: "luke"
+  "JHN":
+    name: "John"
+    slug: "john"
+  "ACT":
+    name: "Orekma"
+    slug: "orekma"
+  "ROM":
+    name: "Rome"
+    slug: "rome"
+  "1CO":
+    name: "Sie Corinth"
+    slug: "sie-corinth"
+  "2CO":
+    name: "Luo Corinth"
+    slug: "luo-corinth"
+  "GAL":
+    name: "Galatia"
+    slug: "galatia"
+  "EPH":
+    name: "Ephesus"
+    slug: "ephesus"
+  "PHP":
+    name: "Philippi"
+    slug: "philippi"
+  "COL":
+    name: "Colossae"
+    slug: "colossae"
+  "1TH":
+    name: "Sie Thessalonica"
+    slug: "sie-thessalonica"
+  "2TH":
+    name: "Luo Thessalonica"
+    slug: "luo-thessalonica"
+  "1TI":
+    name: "Sie Timothy"
+    slug: "sie-timothy"
+  "2TI":
+    name: "Luo Timothy"
+    slug: "luo-timothy"
+  "TIT":
+    name: "Titua"
+    slug: "titua"
+  "PHM":
+    name: "Philemon"
+    slug: "philemon"
+  "HEB":
+    name: "Hebrew"
+    slug: "hebrew"
+  "JAS":
+    name: "James"
+    slug: "james"
+  "1PE":
+    name: "Sie Peter"
+    slug: "sie-peter"
+  "2PE":
+    name: "Luo Peter"
+    slug: "luo-peter"
+  "1JN":
+    name: "Sie John"
+    slug: "sie-john"
+  "2JN":
+    name: "Akluo John"
+    slug: "akluo-john"
+  "3JN":
+    name: "Tolu John"
+    slug: "tolu-john"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Fwackyuk"
+    slug: "fwackyuk"

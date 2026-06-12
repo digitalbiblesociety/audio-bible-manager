@@ -1,0 +1,83 @@
+language: "crj"
+books:
+  "MAT":
+    name: "ᒫᑎᔫ"
+    slug: "maatiyoo"
+  "MRK":
+    name: "ᒫᕐᒃ"
+    slug: "maark"
+  "LUK":
+    name: "ᓘᒃ"
+    slug: "look"
+  "JHN":
+    name: "ᒞᓐ"
+    slug: "cwaan"
+  "ACT":
+    name: "ᐊᐸᔅᑕᓚᒡ"
+    slug: "apastalac"
+  "ROM":
+    name: "ᕎᒪᓐ"
+    slug: "rwaaman"
+  "1CO":
+    name: "ᓃᔥᑕᒻ ᑯᕆᓐᑎᔭᓐ"
+    slug: "niishtam-korintiyan"
+  "2CO":
+    name: "ᓃᔓ ᑯᕆᓐᑎᔭᓐ"
+    slug: "niisho-korintiyan"
+  "GAL":
+    name: "ᑲᓓᔑᔭᓐ"
+    slug: "kaleshiyan"
+  "EPH":
+    name: "ᐃᐲᓯᔭᓐ"
+    slug: "ipiisiyan"
+  "PHP":
+    name: "ᐱᓕᐱᔭᓐ"
+    slug: "pilipiyan"
+  "COL":
+    name: "ᑯᓨᓯᔭᓐ"
+    slug: "kolwaasiyan"
+  "1TH":
+    name: "ᓃᔥᑕᒻ ᑌᓴᓨᓂᔭᓐ"
+    slug: "niishtam-tesalwaaniyan"
+  "2TH":
+    name: "ᓃᔓ ᑌᓴᓨᓂᔭᓐ"
+    slug: "niisho-tesalwaaniyan"
+  "1TI":
+    name: "ᓃᔥᑕᒻ ᑎᒧᑏ"
+    slug: "niishtam-timotii"
+  "2TI":
+    name: "ᓃᔓ ᑎᒧᑏ"
+    slug: "niisho-timotii"
+  "TIT":
+    name: "ᑕᐃᑕᔅ"
+    slug: "taitas"
+  "PHM":
+    name: "ᐹᐃᓖᒪᓐ"
+    slug: "paailiiman"
+  "HEB":
+    name: "ᐦᐄᑉᕈᐗ"
+    slug: "iiprowa"
+  "JAS":
+    name: "ᒉᒥᔅ"
+    slug: "cemis"
+  "1PE":
+    name: "ᓃᔥᑕᒻ ᐲᑕᕐ"
+    slug: "niishtam-piitar"
+  "2PE":
+    name: "ᓃᔓ ᐲᑕᕐ"
+    slug: "niisho-piitar"
+  "1JN":
+    name: "ᓃᔥᑕᒻ ᒞᓐ"
+    slug: "niishtam-cwaan"
+  "2JN":
+    name: "ᓃᔓ ᒞᓐ"
+    slug: "niisho-cwaan"
+  "3JN":
+    name: "ᓂᔥᑐ ᒞᓐ"
+    slug: "nishto-cwaan"
+  "JUD":
+    name: "ᒎᑦ"
+    slug: "coot"
+  "REV":
+    name: "ᒋᔅᒉᔨᐦᑖᑯᐦᑖᒉᐎᓐ"
+    slug: "cisceyitaakotaacewin"

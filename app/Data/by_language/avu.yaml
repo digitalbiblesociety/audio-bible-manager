@@ -1,0 +1,83 @@
+language: "avu"
+books:
+  "MAT":
+    name: "Mãtáyõ"
+    slug: "matayo"
+  "MRK":
+    name: "Márãkõ"
+    slug: "marako"
+  "LUK":
+    name: "Lúkạ̃"
+    slug: "luka"
+  "JHN":
+    name: "Yõwánĩ"
+    slug: "yowani"
+  "ACT":
+    name: "Tã ꞌẼꞌẽ"
+    slug: "ta-ee"
+  "ROM":
+    name: "Rómã lé ꞌbá"
+    slug: "roma-le-ba"
+  "1CO":
+    name: "1 Kõrínĩtõ lé ꞌbá"
+    slug: "1-korinito-le-ba"
+  "2CO":
+    name: "2 Kõrínĩtõ lé ꞌbá"
+    slug: "2-korinito-le-ba"
+  "GAL":
+    name: "Gãlãtíyã lé ꞌbá"
+    slug: "galatiya-le-ba"
+  "EPH":
+    name: "Ẽfésõ lé ꞌbá"
+    slug: "efeso-le-ba"
+  "PHP":
+    name: "Fı̣̃lı̣́pı̣̃ lé ꞌbá"
+    slug: "filipi-le-ba"
+  "COL":
+    name: "Kõlósĩ lé ꞌbá"
+    slug: "kolosi-le-ba"
+  "1TH":
+    name: "1 Tẽsãlõníkã lé ꞌbá"
+    slug: "1-tesalonika-le-ba"
+  "2TH":
+    name: "2 Tẽsãlõníkã lé ꞌbá"
+    slug: "2-tesalonika-le-ba"
+  "1TI":
+    name: "1 Tĩmátĩyã"
+    slug: "1-timatiya"
+  "2TI":
+    name: "2 Tĩmátĩyã"
+    slug: "2-timatiya"
+  "TIT":
+    name: "Títõ"
+    slug: "tito"
+  "PHM":
+    name: "Fĩlẽmónã"
+    slug: "filemona"
+  "HEB":
+    name: "Ị́bũrũ"
+    slug: "iburu"
+  "JAS":
+    name: "Yãkóbã"
+    slug: "yakoba"
+  "1PE":
+    name: "1 Pétẽrõ"
+    slug: "1-petero"
+  "2PE":
+    name: "2 Pétẽrõ"
+    slug: "2-petero"
+  "1JN":
+    name: "1 Yõwánĩ"
+    slug: "1-yowani"
+  "2JN":
+    name: "2 Yõwánĩ"
+    slug: "2-yowani"
+  "3JN":
+    name: "3 Yõwánĩ"
+    slug: "3-yowani"
+  "JUD":
+    name: "Yúdı̣̃"
+    slug: "yudi"
+  "REV":
+    name: "Tã Âꞌdâ"
+    slug: "ta-ada"

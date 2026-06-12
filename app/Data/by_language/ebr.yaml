@@ -1,0 +1,83 @@
+language: "ebr"
+books:
+  "MAT":
+    name: "Mathie"
+    slug: "mathie"
+  "MRK":
+    name: "Mákhi"
+    slug: "makhi"
+  "LUK":
+    name: "Lwikhi"
+    slug: "lwikhi"
+  "JHN":
+    name: "Jan"
+    slug: "jan"
+  "ACT":
+    name: "Júmán Hrɔ́"
+    slug: "juman-hr"
+  "ROM":
+    name: "Rɔ́mɛn Khúbhɛ́nɛ́n"
+    slug: "rmn-khubhnn"
+  "1CO":
+    name: "1 Khorɛ́nthi Khúbhɛ́nɛ́n"
+    slug: "1-khornthi-khubhnn"
+  "2CO":
+    name: "2 Khorɛ́nthi Khúbhɛ́nɛ́n"
+    slug: "2-khornthi-khubhnn"
+  "GAL":
+    name: "Galáthi Khúbhɛ́nɛ́n"
+    slug: "galathi-khubhnn"
+  "EPH":
+    name: "Efɛ́zi Khúbhɛ́nɛ́n"
+    slug: "efzi-khubhnn"
+  "PHP":
+    name: "Filíphu Khúbhɛ́nɛ́n"
+    slug: "filiphu-khubhnn"
+  "COL":
+    name: "Kholɔ́su Khúbhɛ́nɛ́n"
+    slug: "kholsu-khubhnn"
+  "1TH":
+    name: "1 Tesaloníkhi Khúbhɛ́nɛ́n"
+    slug: "1-tesalonikhi-khubhnn"
+  "2TH":
+    name: "2 Tesaloníkhi Khúbhɛ́nɛ́n,"
+    slug: "2-tesalonikhi-khubhnn"
+  "1TI":
+    name: "1 Thimote"
+    slug: "1-thimote"
+  "2TI":
+    name: "2 Thimote"
+    slug: "2-thimote"
+  "TIT":
+    name: "Thite"
+    slug: "thite"
+  "PHM":
+    name: "Filemɔn"
+    slug: "filemn"
+  "HEB":
+    name: "Ebrenɛ́n"
+    slug: "ebrenn"
+  "JAS":
+    name: "Jakhi"
+    slug: "jakhi"
+  "1PE":
+    name: "1 Piɛ"
+    slug: "1-pi"
+  "2PE":
+    name: "2 Piɛ"
+    slug: "2-pi"
+  "1JN":
+    name: "1 Jan"
+    slug: "1-jan"
+  "2JN":
+    name: "2 Jan"
+    slug: "2-jan"
+  "3JN":
+    name: "3 Jan"
+    slug: "3-jan"
+  "JUD":
+    name: "Jude"
+    slug: "jude"
+  "REV":
+    name: "Apokalísi"
+    slug: "apokalisi"

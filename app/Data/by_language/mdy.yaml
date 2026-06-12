@@ -1,0 +1,200 @@
+language: "mdy"
+books:
+  "GEN":
+    name: "ማዢንቲ ማፃኣፔ"
+    slug: "mazineti-madaape"
+  "EXO":
+    name: "ኬሲ ማፃኣፔ"
+    slug: "kesi-madaape"
+  "LEV":
+    name: "ሌዊ ዓሶ ማፃኣፖ"
+    slug: "lewi-aso-madaapo"
+  "NUM":
+    name: "ፓይዲ ማፃኣፔ"
+    slug: "payedi-madaape"
+  "DEU":
+    name: "ላሚንቴ ዎጎ ማፃኣፖ"
+    slug: "laminete-wogo-madaapo"
+  "JOS":
+    name: "ዒያሱ ማፃኣፖ"
+    slug: "iyasu-madaapo"
+  "JDG":
+    name: "ሱኡጎ ማፃኣፖ"
+    slug: "suugo-madaapo"
+  "RUT":
+    name: "ሩኡቴ ማፃኣፖ"
+    slug: "ruute-madaapo"
+  "1SA":
+    name: "1 ሳሙዔኤሌ ማፃኣፖ"
+    slug: "1-samueele-madaapo"
+  "2SA":
+    name: "2 ሳሙዔኤሌ ማፃኣፖ"
+    slug: "2-samueele-madaapo"
+  "1KI":
+    name: "1 ካኣቶ ማፃኣፖ"
+    slug: "1-kaato-madaapo"
+  "2KI":
+    name: "2 ካኣቶ ማፃኣፖ"
+    slug: "2-kaato-madaapo"
+  "1CH":
+    name: "1 ፆኦሲ ዓሶ ሃይሶ"
+    slug: "1-doosi-aso-hayeso"
+  "2CH":
+    name: "2 ፆኦሲ ዓሶ ሃይሶ"
+    slug: "2-doosi-aso-hayeso"
+  "EZR":
+    name: "ዒዝራ ማፃኣፖ"
+    slug: "izera-madaapo"
+  "NEH":
+    name: "ኔሄሚያ ማፃኣፖ"
+    slug: "nehemiya-madaapo"
+  "EST":
+    name: "ዓስቲሮ ማፃኣፖ"
+    slug: "asetiro-madaapo"
+  "JOB":
+    name: "ዒዮቤ ማፃኣፖ"
+    slug: "iyobe-madaapo"
+  "PSA":
+    name: "ዓይኑሞ ማፃኣፖ"
+    slug: "ayenumo-madaapo"
+  "PRO":
+    name: "ኮኦኪንሢ ማፃኣፔ"
+    slug: "kookinesi-madaape"
+  "ECC":
+    name: "ማክቢቤ ማፃኣፖ"
+    slug: "makebibe-madaapo"
+  "SNG":
+    name: "ቢያፓ ባሼ ዓይኑሞ"
+    slug: "biyapa-base-ayenumo"
+  "ISA":
+    name: "ዒሲያሴ ማፃኣፖ"
+    slug: "isiyase-madaapo"
+  "JER":
+    name: "ዔርሚያሴ ማፃኣፖ"
+    slug: "eremiyase-madaapo"
+  "LAM":
+    name: "ዔርሚያሴኮ ቃዮ ማፃኣፖ"
+    slug: "eremiyaseko-qayo-madaapo"
+  "EZK":
+    name: "ሂዚቄኤሌ ማፃኣፖ"
+    slug: "hiziqeele-madaapo"
+  "DAN":
+    name: "ዳኣኔኤሌ ማፃኣፖ"
+    slug: "daaneele-madaapo"
+  "HOS":
+    name: "ሆሴዔ ማፃኣፖ"
+    slug: "hosee-madaapo"
+  "JOL":
+    name: "ዒዩዔኤሌ ማፃኣፖ"
+    slug: "iyueele-madaapo"
+  "AMO":
+    name: "ዓሞፄ ማፃኣፖ"
+    slug: "amode-madaapo"
+  "OBA":
+    name: "ዓብዲዮ ማፃኣፖ"
+    slug: "abediyo-madaapo"
+  "JON":
+    name: "ዮናኣሴ ማፃኣፖ"
+    slug: "yonaase-madaapo"
+  "MIC":
+    name: "ሚኪያሴ ማፃኣፖ"
+    slug: "mikiyase-madaapo"
+  "NAM":
+    name: "ናሆኦሜ ማፃኣፖ"
+    slug: "nahoome-madaapo"
+  "HAB":
+    name: "ዒምባቆሜ ማፃኣፖ"
+    slug: "imebaqome-madaapo"
+  "ZEP":
+    name: "ሶፖኒያሴ ማፃኣፖ"
+    slug: "soponiyase-madaapo"
+  "HAG":
+    name: "ሃኣጌ ማፃኣፖ"
+    slug: "haage-madaapo"
+  "ZEC":
+    name: "ዛካሪያሴ ማፃኣፖ"
+    slug: "zakariyase-madaapo"
+  "MAL":
+    name: "ሚልኪያሴ ማፃኣፖ"
+    slug: "milekiyase-madaapo"
+  "MAT":
+    name: "ማቲዎሴ ፃኣፔ ኮዦ ሃይሶ"
+    slug: "matiwose-daape-kozo-hayeso"
+  "MRK":
+    name: "ማርቆሴ ፃኣፔ ኮዦ ሃይሶ"
+    slug: "mareqose-daape-kozo-hayeso"
+  "LUK":
+    name: "ሉቃሴ ፃኣፔ ኮዦ ሃይሶ"
+    slug: "luqase-daape-kozo-hayeso"
+  "JHN":
+    name: "ዮሃኒሴ ፃኣፔ ኮዦ ሃይሶ"
+    slug: "yohanise-daape-kozo-hayeso"
+  "ACT":
+    name: "ዳኪንቴዞንሢኮ ማዾ"
+    slug: "dakinetezonesiko-mado"
+  "ROM":
+    name: "ሮሜ ዓሶም"
+    slug: "rome-asom"
+  "1CO":
+    name: "1 ቆሮንቶሴ ዓሶም"
+    slug: "1-qoronetose-asom"
+  "2CO":
+    name: "2 ቆሮንቶሴ ዓሶም"
+    slug: "2-qoronetose-asom"
+  "GAL":
+    name: "ጋላቲያ ዓሶም"
+    slug: "galatiya-asom"
+  "EPH":
+    name: "ዔፕሶኔ ዓሶም"
+    slug: "epesone-asom"
+  "PHP":
+    name: "ፒልጲሲዮሴ ዓሶም"
+    slug: "pilepisiyose-asom"
+  "COL":
+    name: "ቆላሲያሴ ዓሶም"
+    slug: "qolasiyase-asom"
+  "1TH":
+    name: "1 ቴስሎንቄ ዓሶም"
+    slug: "1-teseloneqe-asom"
+  "2TH":
+    name: "2 ቴስሎንቄ ዓሶም"
+    slug: "2-teseloneqe-asom"
+  "1TI":
+    name: "1 ፂሞቴዎሴም"
+    slug: "1-dimotewosem"
+  "2TI":
+    name: "2 ፂሞቴዎሴም"
+    slug: "2-dimotewosem"
+  "TIT":
+    name: "ቲቶም"
+    slug: "titom"
+  "PHM":
+    name: "ፒልሞናም"
+    slug: "pilemonam"
+  "HEB":
+    name: "ዔብሬ ዓሶም"
+    slug: "ebere-asom"
+  "JAS":
+    name: "ያይቆኦቤ ኪኢቶ"
+    slug: "yayeqoobe-kiito"
+  "1PE":
+    name: "1 ጴፂሮሴኮ ኪኢቶ"
+    slug: "1-pediroseko-kiito"
+  "2PE":
+    name: "2 ጴፂሮሴኮ ኪኢቶ"
+    slug: "2-pediroseko-kiito"
+  "1JN":
+    name: "1 ዮሃኒሴኮ ኪኢቶ"
+    slug: "1-yohaniseko-kiito"
+  "2JN":
+    name: "2 ዮሃኒሴኮ ኪኢቶ"
+    slug: "2-yohaniseko-kiito"
+  "3JN":
+    name: "3 ዮሃኒሴኮ ኪኢቶ"
+    slug: "3-yohaniseko-kiito"
+  "JUD":
+    name: "ዪሁዳ ኪኢቶ"
+    slug: "yihuda-kiito"
+  "REV":
+    name: "ዮሃኒሴም ፆኦሲ ዻዌ ባኮ"
+    slug: "yohanisem-doosi-dawe-bako"

@@ -1,0 +1,200 @@
+language: "mal"
+books:
+  "GEN":
+    name: "ഉല്പത്തി"
+    slug: "ulpatti"
+  "EXO":
+    name: "പുറപ്പാട്"
+    slug: "purappat"
+  "LEV":
+    name: "ലേവ്യപുസ്തകം"
+    slug: "levyapustakam"
+  "NUM":
+    name: "സംഖ്യാപുസ്തകം"
+    slug: "samkhyapustakam"
+  "DEU":
+    name: "ആവർത്തനപുസ്തകം"
+    slug: "avarttanapustakam"
+  "JOS":
+    name: "യോശുവ"
+    slug: "yosuva"
+  "JDG":
+    name: "ന്യായാധിപന്മാർ"
+    slug: "nyayadhipanmar"
+  "RUT":
+    name: "രൂത്ത്"
+    slug: "rutt"
+  "1SA":
+    name: "൧ ശമൂവേൽ"
+    slug: "1-samuvel"
+  "2SA":
+    name: "൨ ശമൂവേൽ"
+    slug: "2-samuvel"
+  "1KI":
+    name: "൧ രാജാക്കന്മാർ"
+    slug: "1-rajakkanmar"
+  "2KI":
+    name: "൨ രാജാക്കന്മാർ"
+    slug: "2-rajakkanmar"
+  "1CH":
+    name: "൧ ദിനവൃത്താന്തം"
+    slug: "1-dinavrttantam"
+  "2CH":
+    name: "൨ ദിനവൃത്താന്തം"
+    slug: "2-dinavrttantam"
+  "EZR":
+    name: "എസ്രാ"
+    slug: "esra"
+  "NEH":
+    name: "നെഹെമ്യാവു"
+    slug: "nehemyavu"
+  "EST":
+    name: "എസ്ഥേർ"
+    slug: "esther"
+  "JOB":
+    name: "ഇയ്യോബ്"
+    slug: "iyyob"
+  "PSA":
+    name: "സങ്കീർത്തനങ്ങൾ"
+    slug: "sankirttanannal"
+  "PRO":
+    name: "സദൃശവാക്യങ്ങൾ"
+    slug: "sadrsavakyannal"
+  "ECC":
+    name: "സഭാപ്രസംഗി"
+    slug: "sabhaprasamgi"
+  "SNG":
+    name: "ഉത്തമഗീതം"
+    slug: "uttamagitam"
+  "ISA":
+    name: "യെശയ്യാവ്"
+    slug: "yesayyav"
+  "JER":
+    name: "യിരെമ്യാവു"
+    slug: "yiremyavu"
+  "LAM":
+    name: "വിലാപങ്ങൾ"
+    slug: "vilapannal"
+  "EZK":
+    name: "യെഹെസ്കേൽ"
+    slug: "yeheskel"
+  "DAN":
+    name: "ദാനീയേൽ"
+    slug: "daniyel"
+  "HOS":
+    name: "ഹോശേയ"
+    slug: "hoseya"
+  "JOL":
+    name: "യോവേൽ"
+    slug: "yovel"
+  "AMO":
+    name: "ആമോസ്"
+    slug: "amos"
+  "OBA":
+    name: "ഓബദ്യാവു"
+    slug: "obadyavu"
+  "JON":
+    name: "യോനാ"
+    slug: "yona"
+  "MIC":
+    name: "മീഖാ"
+    slug: "mikha"
+  "NAM":
+    name: "നഹൂം"
+    slug: "nahum"
+  "HAB":
+    name: "ഹബക്കൂൿ"
+    slug: "habakkuk"
+  "ZEP":
+    name: "സെഫന്യാവു"
+    slug: "sephanyavu"
+  "HAG":
+    name: "ഹഗ്ഗായി"
+    slug: "haggayi"
+  "ZEC":
+    name: "സെഖര്യാവ്"
+    slug: "sekharyav"
+  "MAL":
+    name: "മലാഖി"
+    slug: "malakhi"
+  "MAT":
+    name: "മത്തായി"
+    slug: "mattayi"
+  "MRK":
+    name: "മർക്കൊസ്"
+    slug: "markkos"
+  "LUK":
+    name: "ലൂക്കോസ്"
+    slug: "lukkos"
+  "JHN":
+    name: "യോഹന്നാൻ"
+    slug: "yohannan"
+  "ACT":
+    name: "അപ്പൊ. പ്രവൃത്തികൾ"
+    slug: "appo-pravrttikal"
+  "ROM":
+    name: "റോമർ"
+    slug: "romar"
+  "1CO":
+    name: "൧ കൊരിന്ത്യർ"
+    slug: "1-korintyar"
+  "2CO":
+    name: "൨. കൊരിന്ത്യർ"
+    slug: "2-korintyar"
+  "GAL":
+    name: "ഗലാത്യർ"
+    slug: "galatyar"
+  "EPH":
+    name: "എഫെസ്യർ"
+    slug: "ephesyar"
+  "PHP":
+    name: "ഫിലിപ്യർ"
+    slug: "philipyar"
+  "COL":
+    name: "കൊലൊസ്സ്യർ"
+    slug: "kolossyar"
+  "1TH":
+    name: "൧ തെസ്സലോനിക്യർ"
+    slug: "1-tessalonikyar"
+  "2TH":
+    name: "൨ തെസ്സലോനിക്യർ"
+    slug: "2-tessalonikyar"
+  "1TI":
+    name: "൧ തിമൊഥെയൊസ്"
+    slug: "1-timotheyos"
+  "2TI":
+    name: "൨ തിമൊഥെയൊസ്"
+    slug: "2-timotheyos"
+  "TIT":
+    name: "തീത്തൊസ്"
+    slug: "tittos"
+  "PHM":
+    name: "ഫിലേമോൻ"
+    slug: "philemon"
+  "HEB":
+    name: "എബ്രായർ"
+    slug: "ebrayar"
+  "JAS":
+    name: "യാക്കോബ്"
+    slug: "yakkob"
+  "1PE":
+    name: "൧ പത്രൊസ്"
+    slug: "1-patros"
+  "2PE":
+    name: "൨. പത്രൊസ്"
+    slug: "2-patros"
+  "1JN":
+    name: "൧ യോഹന്നാൻ"
+    slug: "1-yohannan"
+  "2JN":
+    name: "൨ യോഹന്നാൻ"
+    slug: "2-yohannan"
+  "3JN":
+    name: "൩ യോഹന്നാൻ"
+    slug: "3-yohannan"
+  "JUD":
+    name: "യൂദാ"
+    slug: "yuda"
+  "REV":
+    name: "വെളിപാട്"
+    slug: "velipat"

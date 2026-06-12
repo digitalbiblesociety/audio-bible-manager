@@ -1,0 +1,83 @@
+language: "hwo"
+books:
+  "MAT":
+    name: "Matta"
+    slug: "matta"
+  "MRK":
+    name: "Markus"
+    slug: "markus"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+  "JHN":
+    name: "Yahaya"
+    slug: "yahaya"
+  "ACT":
+    name: "Tar fathlǝngya"
+    slug: "tar-fathlngya"
+  "ROM":
+    name: "Romaya"
+    slug: "romaya"
+  "1CO":
+    name: "1 Korontiyaya"
+    slug: "1-korontiyaya"
+  "2CO":
+    name: "2 Korontiyaya"
+    slug: "2-korontiyaya"
+  "GAL":
+    name: "Nggalatiyaya"
+    slug: "nggalatiyaya"
+  "EPH":
+    name: "Afisaya"
+    slug: "afisaya"
+  "PHP":
+    name: "Filibiyaya"
+    slug: "filibiyaya"
+  "COL":
+    name: "Kolosiyaya"
+    slug: "kolosiyaya"
+  "1TH":
+    name: "1Tasalonikaya"
+    slug: "1tasalonikaya"
+  "2TH":
+    name: "2 Tasalonikaya"
+    slug: "2-tasalonikaya"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Titus"
+    slug: "titus"
+  "PHM":
+    name: "Filimon"
+    slug: "filimon"
+  "HEB":
+    name: "Ibraniyaya"
+    slug: "ibraniyaya"
+  "JAS":
+    name: "Yakubu"
+    slug: "yakubu"
+  "1PE":
+    name: "1 Mbiturus"
+    slug: "1-mbiturus"
+  "2PE":
+    name: "2 Mbiturus"
+    slug: "2-mbiturus"
+  "1JN":
+    name: "1Yahaya"
+    slug: "1yahaya"
+  "2JN":
+    name: "2 Yahaya"
+    slug: "2-yahaya"
+  "3JN":
+    name: "3 Yahaya"
+    slug: "3-yahaya"
+  "JUD":
+    name: "Yahuda"
+    slug: "yahuda"
+  "REV":
+    name: "Sǝsǝnid Yahaya"
+    slug: "ssnid-yahaya"

@@ -1,0 +1,83 @@
+language: "ydd"
+books:
+  "MAT":
+    name: "מתתיהו"
+    slug: "mttyhw"
+  "MRK":
+    name: "מארקוס"
+    slug: "mrqws"
+  "LUK":
+    name: "לוקאס"
+    slug: "lwqs"
+  "JHN":
+    name: "יוחנן"
+    slug: "ywhnn"
+  "ACT":
+    name: "שליחים געשיכטע"
+    slug: "slyhym-gsykt"
+  "ROM":
+    name: "רוימער בריוו"
+    slug: "rwymr-bryww"
+  "1CO":
+    name: "א קארינטער בריוו"
+    slug: "qryntr-bryww"
+  "2CO":
+    name: "ב קארינטער בריוו"
+    slug: "b-qryntr-bryww"
+  "GAL":
+    name: "גאלאטער בריוו"
+    slug: "gltr-bryww"
+  "EPH":
+    name: "עפעזער בריוו"
+    slug: "pzr-bryww"
+  "PHP":
+    name: "פיליפער בריוו"
+    slug: "pylypr-bryww"
+  "COL":
+    name: "קאלאסער בריוו"
+    slug: "qlsr-bryww"
+  "1TH":
+    name: "א טעסאלאניקער בריוו"
+    slug: "tslnyqr-bryww"
+  "2TH":
+    name: "ב טעסאלאניקער בריוו"
+    slug: "b-tslnyqr-bryww"
+  "1TI":
+    name: "א טימאטעוס בריוו"
+    slug: "tymtws-bryww"
+  "2TI":
+    name: "ב טימאטעוס בריוו"
+    slug: "b-tymtws-bryww"
+  "TIT":
+    name: "טיטוס בריוו"
+    slug: "tytws-bryww"
+  "PHM":
+    name: "פילעמאן בריוו"
+    slug: "pylmn-bryww"
+  "HEB":
+    name: "בריוו צו די יידן"
+    slug: "bryww-sw-dy-yydn"
+  "JAS":
+    name: "יעקבס בריוו"
+    slug: "yqbs-bryww"
+  "1PE":
+    name: "א פעטרוס בריוו"
+    slug: "ptrws-bryww"
+  "2PE":
+    name: "ב פעטרוס בריוו"
+    slug: "b-ptrws-bryww"
+  "1JN":
+    name: "א יוחנן בריוו"
+    slug: "ywhnn-bryww"
+  "2JN":
+    name: "ב יוחנן בריוו"
+    slug: "b-ywhnn-bryww"
+  "3JN":
+    name: "ג יוחנן בריוו"
+    slug: "g-ywhnn-bryww"
+  "JUD":
+    name: "יהודהס בריוו"
+    slug: "yhwdhs-bryww"
+  "REV":
+    name: "די אנטפלעקונג"
+    slug: "dy-ntplqwng"

@@ -1,0 +1,83 @@
+language: "sil"
+books:
+  "MAT":
+    name: "Matiu"
+    slug: "matiu"
+  "MRK":
+    name: "Maak"
+    slug: "maak"
+  "LUK":
+    name: "Luuk"
+    slug: "luuk"
+  "JHN":
+    name: "Jɔɔŋ"
+    slug: "jn"
+  "ACT":
+    name: "Yesu Naŋzɔɔba Tiŋtiŋŋaa"
+    slug: "yesu-nanzba-tintinnaa"
+  "ROM":
+    name: "Rom Tiŋŋaa"
+    slug: "rom-tinnaa"
+  "1CO":
+    name: "1 Kɔriŋti Niaa"
+    slug: "1-krinti-niaa"
+  "2CO":
+    name: "2 Kɔriŋti Niaa"
+    slug: "2-krinti-niaa"
+  "GAL":
+    name: "Galiisia Niaa"
+    slug: "galiisia-niaa"
+  "EPH":
+    name: "Ɛfɛsis Niaa"
+    slug: "fsis-niaa"
+  "PHP":
+    name: "Filipa Niaa"
+    slug: "filipa-niaa"
+  "COL":
+    name: "Kɔlɔsi Niaa"
+    slug: "klsi-niaa"
+  "1TH":
+    name: "1 Tɛsalonaaka Niaa"
+    slug: "1-tsalonaaka-niaa"
+  "2TH":
+    name: "2 Tɛsalonaaka Niaa"
+    slug: "2-tsalonaaka-niaa"
+  "1TI":
+    name: "1 Timoti"
+    slug: "1-timoti"
+  "2TI":
+    name: "2 Timoti"
+    slug: "2-timoti"
+  "TIT":
+    name: "Taatis"
+    slug: "taatis"
+  "PHM":
+    name: "Faliimɔŋ"
+    slug: "faliimn"
+  "HEB":
+    name: "Hiiburu Tiŋŋaa"
+    slug: "hiiburu-tinnaa"
+  "JAS":
+    name: "Jeems"
+    slug: "jeems"
+  "1PE":
+    name: "1 Piita"
+    slug: "1-piita"
+  "2PE":
+    name: "2 Piita"
+    slug: "2-piita"
+  "1JN":
+    name: "1 Jɔɔŋ"
+    slug: "1-jn"
+  "2JN":
+    name: "2 Jɔɔŋ"
+    slug: "2-jn"
+  "3JN":
+    name: "3 Jɔɔŋ"
+    slug: "3-jn"
+  "JUD":
+    name: "Juud"
+    slug: "juud"
+  "REV":
+    name: "Wialiŋ Wia Si Joŋo Dagɛ Jɔɔŋ"
+    slug: "wialin-wia-si-jono-dag-jn"

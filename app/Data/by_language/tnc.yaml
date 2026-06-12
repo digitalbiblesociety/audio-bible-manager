@@ -1,0 +1,32 @@
+language: "tnc"
+books:
+  "MRK":
+    name: "San Marcos"
+    slug: "san-marcos"
+  "ACT":
+    name: "Los Hechos"
+    slug: "los-hechos"
+  "1CO":
+    name: "1 Corintios"
+    slug: "1-corintios"
+  "2CO":
+    name: "2 Corintios"
+    slug: "2-corintios"
+  "PHP":
+    name: "Filipenses"
+    slug: "filipenses"
+  "1TH":
+    name: "1 Tesalonicenses"
+    slug: "1-tesalonicenses"
+  "2TH":
+    name: "2 Tesalonicenses"
+    slug: "2-tesalonicenses"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1JN":
+    name: "1 San Juan"
+    slug: "1-san-juan"
+  "REV":
+    name: "Apocalipsis"
+    slug: "apocalipsis"

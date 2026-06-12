@@ -1,0 +1,83 @@
+language: "beq"
+books:
+  "MAT":
+    name: "Mat"
+    slug: "mat"
+  "MRK":
+    name: "Mal"
+    slug: "mal"
+  "LUK":
+    name: "Luk"
+    slug: "luk"
+  "JHN":
+    name: "Yow"
+    slug: "yow"
+  "ACT":
+    name: "Biy"
+    slug: "biy"
+  "ROM":
+    name: "Lom"
+    slug: "lom"
+  "1CO":
+    name: "1 Kol"
+    slug: "1-kol"
+  "2CO":
+    name: "2 Kol"
+    slug: "2-kol"
+  "GAL":
+    name: "Nga"
+    slug: "nga"
+  "EPH":
+    name: "Efe"
+    slug: "efe"
+  "PHP":
+    name: "Fil"
+    slug: "fil"
+  "COL":
+    name: "Kol"
+    slug: "kol"
+  "1TH":
+    name: "1 Tes"
+    slug: "1-tes"
+  "2TH":
+    name: "2 Tes"
+    slug: "2-tes"
+  "1TI":
+    name: "1 Tim"
+    slug: "1-tim"
+  "2TI":
+    name: "2 Tim"
+    slug: "2-tim"
+  "TIT":
+    name: "Tit"
+    slug: "tit"
+  "PHM":
+    name: "Film"
+    slug: "film"
+  "HEB":
+    name: "Heb"
+    slug: "heb"
+  "JAS":
+    name: "Yak"
+    slug: "yak"
+  "1PE":
+    name: "1 Pet"
+    slug: "1-pet"
+  "2PE":
+    name: "2 Pet"
+    slug: "2-pet"
+  "1JN":
+    name: "1 Yow"
+    slug: "1-yow"
+  "2JN":
+    name: "2 Yow"
+    slug: "2-yow"
+  "3JN":
+    name: "3 Yow"
+    slug: "3-yow"
+  "JUD":
+    name: "Yud"
+    slug: "yud"
+  "REV":
+    name: "Nya"
+    slug: "nya"

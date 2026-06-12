@@ -1,0 +1,83 @@
+language: "mcb"
+books:
+  "MAT":
+    name: "Mateo"
+    slug: "mateo"
+  "MRK":
+    name: "Marokoshi"
+    slug: "marokoshi"
+  "LUK":
+    name: "Irokashi"
+    slug: "irokashi"
+  "JHN":
+    name: "Joan"
+    slug: "joan"
+  "ACT":
+    name: "Iritigankaneegi Jeso"
+    slug: "iritigankaneegi-jeso"
+  "ROM":
+    name: "Iromakunirira"
+    slug: "iromakunirira"
+  "1CO":
+    name: "1 Korintokunirira"
+    slug: "1-korintokunirira"
+  "2CO":
+    name: "2 Korintokunirira"
+    slug: "2-korintokunirira"
+  "GAL":
+    name: "Garashiakunirira"
+    slug: "garashiakunirira"
+  "EPH":
+    name: "Epesokunirira"
+    slug: "epesokunirira"
+  "PHP":
+    name: "Piripokunirira"
+    slug: "piripokunirira"
+  "COL":
+    name: "Korosakunirira"
+    slug: "korosakunirira"
+  "1TH":
+    name: "1 Tesaronikakunirira"
+    slug: "1-tesaronikakunirira"
+  "2TH":
+    name: "2 Tesaronikakunirira"
+    slug: "2-tesaronikakunirira"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+  "PHM":
+    name: "Piremon"
+    slug: "piremon"
+  "HEB":
+    name: "Evereoegi"
+    slug: "evereoegi"
+  "JAS":
+    name: "Santiago"
+    slug: "santiago"
+  "1PE":
+    name: "1 Perero"
+    slug: "1-perero"
+  "2PE":
+    name: "2 Perero"
+    slug: "2-perero"
+  "1JN":
+    name: "1 Joan"
+    slug: "1-joan"
+  "2JN":
+    name: "2 Joan"
+    slug: "2-joan"
+  "3JN":
+    name: "3 Joan"
+    slug: "3-joan"
+  "JUD":
+    name: "Jorashi"
+    slug: "jorashi"
+  "REV":
+    name: "Yogikoneatimogetunkanirira Joan"
+    slug: "yogikoneatimogetunkanirira-joan"

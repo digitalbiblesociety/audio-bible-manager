@@ -1,0 +1,83 @@
+language: "las"
+books:
+  "MAT":
+    name: "Matiio"
+    slug: "matiio"
+  "MRK":
+    name: "Marke"
+    slug: "marke"
+  "LUK":
+    name: "Liiki"
+    slug: "liiki"
+  "JHN":
+    name: "San"
+    slug: "san"
+  "ACT":
+    name: "Temer"
+    slug: "temer"
+  "ROM":
+    name: "Rom Ñempa"
+    slug: "rom-nempa"
+  "1CO":
+    name: "1 Kɔrɛnte Ñempa"
+    slug: "1-krnte-nempa"
+  "2CO":
+    name: "2 Kɔrɛnte Ñempa"
+    slug: "2-krnte-nempa"
+  "GAL":
+    name: "Kalate Ñempa"
+    slug: "kalate-nempa"
+  "EPH":
+    name: "Eefɛse Ñempa"
+    slug: "eefse-nempa"
+  "PHP":
+    name: "Fiiliipi Ñempa"
+    slug: "fiiliipi-nempa"
+  "COL":
+    name: "Kolɔse Ñempa"
+    slug: "kolse-nempa"
+  "1TH":
+    name: "1 Teesaloniiki Ñempa"
+    slug: "1-teesaloniiki-nempa"
+  "2TH":
+    name: "2 Teesaloniiki Ñempa"
+    slug: "2-teesaloniiki-nempa"
+  "1TI":
+    name: "1 Tiimotee"
+    slug: "1-tiimotee"
+  "2TI":
+    name: "2 Tiimotee"
+    slug: "2-tiimotee"
+  "TIT":
+    name: "Tiiti"
+    slug: "tiiti"
+  "PHM":
+    name: "Fiileemɔŋ"
+    slug: "fiileemn"
+  "HEB":
+    name: "Eeper Ñempa"
+    slug: "eeper-nempa"
+  "JAS":
+    name: "Sake"
+    slug: "sake"
+  "1PE":
+    name: "1 Pɩɛr"
+    slug: "1-pr"
+  "2PE":
+    name: "2 Pɩɛr"
+    slug: "2-pr"
+  "1JN":
+    name: "1 San"
+    slug: "1-san"
+  "2JN":
+    name: "2 San"
+    slug: "2-san"
+  "3JN":
+    name: "3 San"
+    slug: "3-san"
+  "JUD":
+    name: "Suti"
+    slug: "suti"
+  "REV":
+    name: "San Narte"
+    slug: "san-narte"

@@ -1,0 +1,266 @@
+language: "lgg"
+books:
+  "GEN":
+    name: "E’doza"
+    slug: "edoza"
+    name_toc: "Buku Musani Sile Aluri E'doza"
+  "EXO":
+    name: "Efuza"
+    slug: "efuza"
+    name_toc: "Buku Musani Sile Iriri Efuza"
+  "LEV":
+    name: "Ba Levini"
+    slug: "ba-levini"
+    name_toc: "Buku Musani Sile Nari E'yo 'Ba Levini 'Diyini"
+  "NUM":
+    name: "Kalafe"
+    slug: "kalafe"
+    name_toc: "Buku Musani Sile Suri Kalafe"
+  "DEU":
+    name: "Azita Amvizu"
+    slug: "azita-amvizu"
+    name_toc: "Buku Musani Sile Towiri Azita Ma Ale Amvizu"
+  "JOS":
+    name: "Yosua"
+    slug: "yosua"
+    name_toc: "Buku Yosuani"
+  "JDG":
+    name: "Ba E'yo Lipi 'Diyini"
+    slug: "ba-e-yo-lipi-diyini"
+    name_toc: "Buku 'Ba E'yo Lipi 'Diyini"
+  "RUT":
+    name: "Rutu"
+    slug: "rutu"
+    name_toc: "Buku Rutuni"
+  "1SA":
+    name: "1 Samueli"
+    slug: "1-samueli"
+    name_toc: "Buku Samuelini Aluri"
+  "2SA":
+    name: "2 Samueli"
+    slug: "2-samueli"
+    name_toc: "Buku Samuelini Iriri"
+  "1KI":
+    name: "1 Opi"
+    slug: "1-opi"
+    name_toc: "Buku Opini Aluri"
+  "2KI":
+    name: "2 Opi"
+    slug: "2-opi"
+    name_toc: "2 Opi"
+  "1CH":
+    name: "1 Suru Ma E'yo"
+    slug: "1-suru-ma-e-yo"
+    name_toc: "Buku Suru Ma E'yo Sizu Aluri"
+  "2CH":
+    name: "2 Suru Ma E'yo"
+    slug: "2-suru-ma-e-yo"
+    name_toc: "Buku Suru Ma E'yo Sizu Iriri"
+  "EZR":
+    name: "Ezira"
+    slug: "ezira"
+    name_toc: "Buku Ezirani"
+  "NEH":
+    name: "Nehemia"
+    slug: "nehemia"
+    name_toc: "Buku Nehemiani"
+  "EST":
+    name: "Esiteri"
+    slug: "esiteri"
+    name_toc: "Buku Esiterini"
+  "JOB":
+    name: "Yobu"
+    slug: "yobu"
+    name_toc: "Buku Yobuni"
+  "PSA":
+    name: "Zaburi"
+    slug: "zaburi"
+    name_toc: "Zaburi"
+  "PRO":
+    name: "E'yo O'beza"
+    slug: "e-yo-o-beza"
+    name_toc: "E'yo O'beza"
+  "ECC":
+    name: "Eklesiaste"
+    slug: "eklesiaste"
+    name_toc: "Eklesiaste Kani, 'Ba E'yo Olupiri"
+  "SNG":
+    name: "Ongo Sulemanini"
+    slug: "ongo-sulemanini"
+    name_toc: "Ongo Sulemanini"
+  "ISA":
+    name: "Isaya"
+    slug: "isaya"
+    name_toc: "Buku Isayani"
+  "JER":
+    name: "Yeremia"
+    slug: "yeremia"
+    name_toc: "Buku Yeremiani"
+  "LAM":
+    name: "Imvo Ongo"
+    slug: "imvo-ongo"
+    name_toc: "Imvo Ongo Yeremiani"
+  "EZK":
+    name: "Ezekieli"
+    slug: "ezekieli"
+    name_toc: "Buku Ezekielini"
+  "DAN":
+    name: "Danieli"
+    slug: "danieli"
+    name_toc: "Buku Danielini"
+  "HOS":
+    name: "Hosea"
+    slug: "hosea"
+    name_toc: "Buku Hoseani"
+  "JOL":
+    name: "Yoeli"
+    slug: "yoeli"
+    name_toc: "Buku Yoelini"
+  "AMO":
+    name: "Amosi"
+    slug: "amosi"
+    name_toc: "Buku Amosini"
+  "OBA":
+    name: "Obadia"
+    slug: "obadia"
+    name_toc: "Buku Obadiani"
+  "JON":
+    name: "Yona"
+    slug: "yona"
+    name_toc: "Buku Yonani"
+  "MIC":
+    name: "Mika"
+    slug: "mika"
+    name_toc: "Buku Mikani"
+  "NAM":
+    name: "Nahumi"
+    slug: "nahumi"
+    name_toc: "Buku Nahumini"
+  "HAB":
+    name: "Habakuki"
+    slug: "habakuki"
+    name_toc: "Buku Habakukini"
+  "ZEP":
+    name: "Zefania"
+    slug: "zefania"
+    name_toc: "Buku Zefaniani"
+  "HAG":
+    name: "Hagai"
+    slug: "hagai"
+    name_toc: "Buku Hagaini"
+  "ZEC":
+    name: "Zekaria"
+    slug: "zekaria"
+    name_toc: "Buku Zekariani"
+  "MAL":
+    name: "Malaki"
+    slug: "malaki"
+    name_toc: "Buku Malakini"
+  "MAT":
+    name: "Matayo"
+    slug: "matayo"
+    name_toc: "E'yo Bar! Matayoni Sileri"
+  "MRK":
+    name: "Marako"
+    slug: "marako"
+    name_toc: "E'yo Bari Marakoni Sileri"
+  "LUK":
+    name: "Luka"
+    slug: "luka"
+    name_toc: "E'yo Bari Lukani Sileri"
+  "JHN":
+    name: "Yohana"
+    slug: "yohana"
+    name_toc: "Ey'o Bari Yohanani Sileri"
+  "ACT":
+    name: "’Yeta"
+    slug: "yeta"
+    name_toc: "Yeta 'Ba Ti Opele 'Diyini"
+  "ROM":
+    name: "Ba Rumia 'Diyi"
+    slug: "ba-rumia-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Rumia 'Diyi Vuri"
+  "1CO":
+    name: "1 'Ba Korintoa 'Diyi"
+    slug: "1-ba-korintoa-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Korintoa 'Diyi Vu Aluri"
+  "2CO":
+    name: "2 'Ba Korintoa 'Diyi"
+    slug: "2-ba-korintoa-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Korintoa 'Diyi Vu Iriri"
+  "GAL":
+    name: "Ba Galatiaa 'Diyi"
+    slug: "ba-galatiaa-diyi"
+    name_toc: "Ba Ti Pelerini Sile 'Ba Galatiaa 'Diyi Vuri"
+  "EPH":
+    name: "Ba Efesoa 'Diyi"
+    slug: "ba-efesoa-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Efesoa 'Diyi Vuri"
+  "PHP":
+    name: "Ba Filipia 'Diyi"
+    slug: "ba-filipia-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Filipia 'Diyi Vuri"
+  "COL":
+    name: "Ba Kolosaia 'Diyi"
+    slug: "ba-kolosaia-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Kolosaia 'Diyi Vuri"
+  "1TH":
+    name: "1 'Ba Tesalonikia 'Diyi"
+    slug: "1-ba-tesalonikia-diyi"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile 'Ba Tesalonikia 'Diyi Vu Aluri"
+  "2TH":
+    name: "2 'Ba Tesalonikia 'Diyi"
+    slug: "2-ba-tesalonikia-diyi"
+    name_toc: "2 'Ba Tesalonikia 'Diyi"
+  "1TI":
+    name: "1 Timoteo"
+    slug: "1-timoteo"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile Timoteo Dri Aluri"
+  "2TI":
+    name: "2 Timoteo"
+    slug: "2-timoteo"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile Timoteo Dri Iriri"
+  "TIT":
+    name: "Tito"
+    slug: "tito"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile Tito Driri"
+  "PHM":
+    name: "Filemona"
+    slug: "filemona"
+    name_toc: "Waraga Paulo 'Ba Ti Pelerini Sile Filemona Driri"
+  "HEB":
+    name: "Ba Ebraniani"
+    slug: "ba-ebraniani"
+    name_toc: "Waraga Sile 'Ba Ebraniani Vuri"
+  "JAS":
+    name: "Yakoboni"
+    slug: "yakoboni"
+    name_toc: "Waraga Yakoboni Sile 'Ba Dria Vuri"
+  "1PE":
+    name: "1 Petero"
+    slug: "1-petero"
+    name_toc: "Waraga Peteroni Sile 'Ba Dria Vu Aluri"
+  "2PE":
+    name: "2 Petero"
+    slug: "2-petero"
+    name_toc: "Waraga Peteroni Sile 'Ba Dria Vu Iriri"
+  "1JN":
+    name: "1 Yohana"
+    slug: "1-yohana"
+    name_toc: "Waraga Yohanani Sile 'Ba Dria Vu Aluri"
+  "2JN":
+    name: "2 Yohana"
+    slug: "2-yohana"
+    name_toc: "Waraga Yohanani Sile Iriri"
+  "3JN":
+    name: "3 Yohana"
+    slug: "3-yohana"
+    name_toc: "Waraga Yohanani Sile Nari"
+  "JUD":
+    name: "Yuda"
+    slug: "yuda"
+    name_toc: "Waraga Yudani Sile 'Ba Dria Vuri"
+  "REV":
+    name: "E'yo Eceza"
+    slug: "e-yo-eceza"
+    name_toc: "E'yo Ecele Yohana Driri"
