@@ -13,6 +13,8 @@ The process command moves or copies mp3s from the bibles/source/{BIBLE_ID} folde
 
 The format that the process command expects the source audio Bible mp3s to be in.
 
+`fcbh` reads the book from the USFM 3.0 book ID when the file name has one (`RHGWFWN1DA_B25_3JN_001.mp3`), and otherwise from the FCBH book number (`B01___01_Matthew_____ENGESVN2DA.mp3`). `fcbh2` is kept as an alias of `fcbh`.
+
 - destination: one of __human, megavoice, pearl__
 
 The output format that the command should convert to

@@ -201,21 +201,8 @@ class ProcessCommand extends Command
         $book_parts = explode('_', $chapter_name);
         switch($source_style) {
             case "fcbh":
-                $title = $chapter_name;
-                foreach($book_index as $book) {
-                        if($book['book_testament'] == (substr($book_parts[0], 0,1) == "A" ? "OT" : "NT") && $book['order_testament'] == substr($book_parts[0], 1)) {
-                            $current_book = $book;
-                        }
-                }
-                $chapter_number = str_pad($book_parts[1],3,'0', STR_PAD_LEFT);
-
-            break;
             case "fcbh2":
-                // Format: {iso}{orgcode}{TestamentLetter}{Drama/nondrama}_B{BookNumericID}_{BookID}_{ThreeLetterPaddedChapter}
-                // Example: FVRWBTN2DA_B01_MAT_001.mp3
-                $book_id = strtoupper($book_parts[2]);
-                $current_book = $book_index[$book_id];
-                $chapter_number = $book_parts[3];
+                [$current_book, $chapter_number] = $this->parse_fcbh_parts($book_index, $book_parts, $chapter_name);
             break;
             case "dbl":
                 $current_book = $book_index[$book_parts[0]];
@@ -310,6 +297,40 @@ class ProcessCommand extends Command
             'testament'      => $current_book['book_testament'],
             'book_name'      => str_replace(' ', '', $current_book['name'])
         ];
+    }
+
+    /**
+     * Find the book and chapter in an FCBH file name.
+     *
+     * FCBH file names come in two shapes:
+     *   USFM 3.0: {DamID}_{A|B}{BookNumber}_{USFM BookID}_{Chapter}   e.g. RHGWFWN1DA_B25_3JN_001.mp3
+     *   Legacy:   {A|B}{BookNumber}___{Chapter}_{BookName}___{DamID}  e.g. B01___01_Matthew_____ENGESVN2DA.mp3
+     *
+     * A USFM 3.0 book ID (MAT, MRK, ... 3JN, JUD, REV) followed by a numeric chapter wins.
+     * Otherwise the A##/B## FCBH book number is used, with the chapter right after it.
+     */
+    private function parse_fcbh_parts($book_index, array $book_parts, $chapter_name)
+    {
+        foreach ($book_parts as $i => $part) {
+            $usfm_id = strtoupper($part);
+            $next = $book_parts[$i + 1] ?? '';
+            if (strlen($usfm_id) == 3 && $book_index->has($usfm_id) && ctype_digit($next)) {
+                return [$book_index[$usfm_id], str_pad($next, 3, '0', STR_PAD_LEFT)];
+            }
+        }
+
+        foreach ($book_parts as $i => $part) {
+            $next = $book_parts[$i + 1] ?? '';
+            if (preg_match('/^[AB]\d{2}$/', $part) && ctype_digit($next)) {
+                $book = $book_index->firstWhere('id_fcbh', $part);
+                if ($book) {
+                    return [$book, str_pad($next, 3, '0', STR_PAD_LEFT)];
+                }
+            }
+        }
+
+        $this->error("Could not find a USFM 3.0 book ID or FCBH book number in: $chapter_name");
+        exit(1);
     }
 
 }
